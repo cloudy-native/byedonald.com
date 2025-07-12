@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 413,
+  "totalResults": 8,
   "articles": [
     {
       "source": {
@@ -152,44 +152,6 @@
         "trade",
         "canada",
         "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BayToday"
-      },
-      "author": "BayToday",
-      "title": "Canadian leaders promise to retaliate against Trump's 'Liberation Day' tariffs",
-      "description": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday",
-      "url": "https://www.baytoday.ca/2025-federal-election-news/canadian-leaders-promise-to-retaliate-against-trumps-liberation-day-tariffs-10461902",
-      "urlToImage": "https://www.vmcdn.ca/f/files/trillium/images/cp174332009.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-04-01T23:30:00Z",
-      "content": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday\nEditor's note: This article originally appeared on ParliamentToday, a Village Media newsletter devoted exclusively to covering federal politics.\nU.S. President Donal... [3669 chars]",
-      "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy",
-        "canada"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SooToday"
-      },
-      "author": "SooToday",
-      "title": "Canadian leaders promise to retaliate against Trump's 'Liberation Day' tariffs",
-      "description": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday",
-      "url": "https://www.sootoday.com/2025-federal-election-news/canadian-leaders-promise-to-retaliate-against-trumps-liberation-day-tariffs-10461902",
-      "urlToImage": "https://www.vmcdn.ca/f/files/trillium/images/cp174332009.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-04-01T23:30:00Z",
-      "content": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday\nEditor's note: This article originally appeared on ParliamentToday, a Village Media newsletter devoted exclusively to covering federal politics.\nU.S. President Donal... [3669 chars]",
-      "tags": [
-        "trade",
-        "foreign_policy",
-        "canada",
-        "economy_finance"
       ]
     }
   ]

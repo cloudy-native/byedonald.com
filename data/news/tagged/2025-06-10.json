@@ -221,22 +221,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Elon Musk Just Responded To A Video Of Trump With A Single Emoji, And These Two Really Are So, So Dramatic",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_da2e2713-5567-427e-bf53-5c5b7278b976",
-      "urlToImage": null,
-      "publishedAt": "2025-06-10T18:49:47Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "social_media"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BBC News"
       },
       "author": "Ottilie Mitchell - BBC News",
@@ -660,5 +644,6 @@
         "media_criticism"
       ]
     }
-  ]
+  ],
+  "totalResults": 38
 }

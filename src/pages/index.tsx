@@ -74,7 +74,8 @@ const MonthView: React.FC<MonthViewProps> = ({ month, year, newsDates }) => {
     let variant: "ghost" | "solid" = "ghost";
 
     if (hasNews) {
-        variant = "solid";
+      colorScheme = "blue";
+      variant = "solid";
     }
 
     if (currentDate.getTime() === today.getTime()) {
@@ -229,15 +230,12 @@ const IndexPage: React.FC<PageProps> = () => {
     <Box>
       <VStack spacing={4} pt={20} px={8} textAlign="center">
         <Heading as="h1" size="2xl">
-          Lest we forget...
+          Four More Years. Deep Breaths.
         </Heading>
-        <Text fontSize="lg">
-          Counting down the days until we can say "Bye Donald". Until then, we
-          preserve the trainwreck of his presidency.
-        </Text>
-        <Text fontSize="lg">
-          We'll kid ourselves at some future date it couldn't possibly have been
-          that bad. Is was. It is. Lest we forget...
+        <Text fontSize="lg" maxW="2xl">
+          It's our solemn, slightly-panicked duty to keep track of it all. For
+          posterity. For our sanity. For the history books that will one day
+          ask, "Wait, really?"
         </Text>
         <TermProgressBar />
         <Countdown />

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 1558,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -79,25 +79,6 @@
         "technology_regulation",
         "foreign_policy",
         "media_communications",
-        "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Canada Finance"
-      },
-      "author": "Yahoo Canada Finance",
-      "title": "Trump in favor of Elon Musk or Larry Ellison buying TikTok",
-      "description": "President Donald Trump said he is in favor of Elon Musk or Larry Ellison buying TikTok as he offered his latest thinking on what a deal might look like to save the US operations of the social media platform.",
-      "url": "https://ca.finance.yahoo.com/news/trump-in-favor-of-elon-musk-or-larry-ellison-buying-tiktok-235143572.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TSqLWfcEeCII5DYJU0kjnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/93359090-d84c-11ef-abfc-0af5d8e8c831",
-      "publishedAt": "2025-01-21T23:51:45Z",
-      "content": "President Donald Trump said he is in favor of Elon Musk or Larry Ellison buying TikTok as he offered his latest thinking on what a deal might look like to save the US operations of the social media platform.\n\"I would be if he wanted to buy it,\" Trump... [2581 chars]",
-      "tags": [
-        "economy_finance",
-        "business",
-        "foreign_policy",
         "government_administration"
       ]
     },

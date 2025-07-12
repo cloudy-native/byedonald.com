@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 2613,
+  "totalResults": 92,
   "articles": [
     {
       "source": {
@@ -434,45 +434,6 @@
         "education",
         "foreign_policy",
         "regional_state"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump administration makes sweeping changes to ObamaCare, ends ‘Dreamer’ coverage",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d88c8641-89ad-4c10-84c1-428b63572bac",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T21:55:10Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "healthcare",
-        "immigration",
-        "policy_legislation",
-        "government_administration",
-        "executive_orders"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Xi and Putin present united front over Israel-Iran crisis, in veiled message to Trump",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a86b39f-2281-482f-9ef4-fbf3d8a04df0",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T07:27:42Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "foreign_policy",
-        "china",
-        "russia",
-        "middle_east"
       ]
     },
     {
@@ -1090,116 +1051,6 @@
         "media_communications",
         "security_intelligence",
         "legal_justice"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Musk slams influential Trump adviser: ‘He’s a snake’",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e22e03d-3766-4753-b933-74893deaa400",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T01:56:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "social_media",
-        "statements"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Crowd Bursts Into Laughter at Biden’s Holy Trump Dig",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1f4e3ad6-941f-42b0-aa82-c46d744ca49a",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T14:22:16Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "elections_politics",
-        "personal_family"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Federal judge blocks Trump effort to keep Harvard from hosting foreign students",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_91096e1b-4b93-4442-916c-d51ebf9a522d",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T19:17:14Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "legal_justice",
-        "higher_education",
-        "immigration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Wow: Trump rocked as protests dwarf ‘Tea Party’ by 20 times",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a6978819-e2be-4834-8b1d-8938ea3c31a1",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T00:35:48Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "rallies",
-        "protests",
-        "political_endorsements"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump and TSMC pitched $1 trillion AI complex — SoftBank founder Masayoshi Son wants to turn Arizona into the next Shenzhen",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fe9f6d6a-aad8-407e-af59-05b6a8634d25",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T14:21:22Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "economy_finance",
-        "technology_regulation",
-        "policy_legislation",
-        "foreign_policy",
-        "regional_state"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Newsom Denied Day In Court In Latest Trump Battle Over Troops In LA As Judge Punts: “You Are Going To Tell Me What To Do,” He Informs DOJ & State Lawyers",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_af3944fb-c643-4912-aeb6-2907169b2c96",
-      "urlToImage": null,
-      "publishedAt": "2025-06-20T19:38:01Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "government_administration",
-        "legal_justice",
-        "security_intelligence"
       ]
     },
     {

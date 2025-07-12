@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 1334,
+  "totalResults": 93,
   "articles": [
     {
       "source": {
@@ -155,24 +155,6 @@
         "economy_finance",
         "small_business",
         "manufacturing"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Thom Tillis says he will retire following Trump attacks",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a2e11b0-8f9d-4601-8de1-7120adf19821",
-      "urlToImage": null,
-      "publishedAt": "2025-06-29T17:35:52Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "elections_politics",
-        "media_communications",
-        "personal_family"
       ]
     },
     {
@@ -1228,60 +1210,6 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "fortune.com",
-      "title": "A shadow Fed chief could lead to a 'revolt' on the FOMC against Powell's successor, former vice chair warns",
-      "description": "",
-      "url": "https://biztoc.com/x/13988f06a176f736",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-06-29T02:34:29Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the stock market hit record highs today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Warren Buffetts … [+744 chars]",
-      "tags": [
-        "economy_finance",
-        "banking",
-        "federal_reserve"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "investing.com",
-      "title": "Colombia lower house approves pension reform, again",
-      "description": "",
-      "url": "https://biztoc.com/x/b80e7e2031daeb16",
-      "urlToImage": "https://biztoc.com/cdn/b80e7e2031daeb16_s.webp",
-      "publishedAt": "2025-06-29T02:45:19Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the stock market hit record highs today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Warren Buffetts … [+749 chars]",
-      "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "bloomberg.com",
-      "title": "China Reiterates Opposition to Any Trade Deals at Its Expense",
-      "description": "",
-      "url": "https://biztoc.com/x/5cd562e853c0bdd4",
-      "urlToImage": "https://biztoc.com/cdn/5cd562e853c0bdd4_s.webp",
-      "publishedAt": "2025-06-29T02:45:29Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did the stock market hit record highs today? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Warren Buffetts … [+766 chars]",
-      "tags": [
-        "trade",
-        "china",
-        "economy_finance"
       ]
     },
     {

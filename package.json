@@ -23,7 +23,8 @@
     "backfill-gnews.io": "ts-node scripts/backfill-gnews.io.ts",
     "upload-to-opensearch": "ts-node scripts/upload-to-opensearch.ts",
     "tag-news": "ts-node scripts/tag-news.ts",
-    "normalize-tags": "ts-node scripts/normalize-tags.ts"
+    "normalize-tags": "ts-node scripts/normalize-tags.ts",
+    "prune-news": "ts-node scripts/prune-tagged-news.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.24.3",
@@ -35,6 +36,7 @@
     "@types/algoliasearch": "^3.34.11",
     "@types/react-instantsearch": "^6.10.4",
     "algoliasearch": "^5.32.0",
+    "fast-levenshtein": "^3.0.0",
     "framer-motion": "^11.18.2",
     "gatsby": "^5.11.0",
     "gatsby-plugin-algolia": "^1.0.3",
@@ -62,6 +64,7 @@
   },
   "devDependencies": {
     "@chakra-ui/cli": "^2.3.0",
+    "@types/fast-levenshtein": "^0.0.4",
     "@types/node": "^20.19.6",
     "@types/react": "^18.0.29",
     "@types/react-dom": "^18.0.11",

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 3273,
+  "totalResults": 96,
   "articles": [
     {
       "source": {
@@ -503,24 +503,6 @@
         "security_intelligence",
         "economy_finance",
         "media_communications"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Gov. Shapiro recognizes troopers who responded to Trump assassination attempt with prestigious award",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c1e505a6-5f4b-4afe-9889-eaf4816588cb",
-      "urlToImage": null,
-      "publishedAt": "2025-06-26T02:00:39Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "security_incidents",
-        "legal_justice",
-        "government_administration"
       ]
     },
     {
@@ -1280,44 +1262,6 @@
         "economy_finance",
         "manufacturing",
         "small_business"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Zohran Mamdani Just Delivered The Most Epic Response After Trump Called Him A \"100% Communist Lunatic\"",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b1ad421e-2a6f-4464-8662-221dbbddc172",
-      "urlToImage": null,
-      "publishedAt": "2025-06-26T19:01:45Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "social_issues",
-        "elections_politics",
-        "media_communications"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "A Pregnant Alabama Woman Says She And Her Trump-Supporting Husband Were \"Blindsided\" When ICE Detained Him",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a433b24-fccd-47e6-b9b0-147891ca2db7",
-      "urlToImage": null,
-      "publishedAt": "2025-06-26T23:45:48Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "immigration",
-        "border_security",
-        "personal_legal",
-        "legal_justice",
-        "regional_state"
       ]
     },
     {

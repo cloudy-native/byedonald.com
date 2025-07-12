@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 645,
+  "totalResults": 8,
   "articles": [
     {
       "source": {
@@ -152,45 +152,6 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BayToday"
-      },
-      "author": "BayToday",
-      "title": "Retaliatory tariffs expected next week as Trudeau, premiers meet on Trump threats",
-      "description": "OTTAWA — Prime Minister Justin Trudeau and Canada's premiers will meet in Ottawa Jan. 15 to finalize a plan to respond to tariff threats from U.S.",
-      "url": "https://www.baytoday.ca/national-news/retaliatory-tariffs-expected-next-week-as-trudeau-premiers-meet-on-trump-threats-10047743",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/01/712eb72e152d7433dbaa297ccf7b5f9e6efd32758dc3e573856b108fa8192904.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-01-08T23:49:09Z",
-      "content": "Journalists surround Minister of Finance and Intergovernmental Affairs Dominic LeBlanc before a Liberal Party caucus meeting in West Block on Parliament Hill, in Ottawa, Wednesday, Jan. 8, 2025. THE CANADIAN PRESS/Justin Tang\nOTTAWA — Prime Minister ... [6357 chars]",
-      "tags": [
-        "foreign_policy",
-        "trade",
-        "policy_legislation",
-        "economy_finance",
-        "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BradfordToday"
-      },
-      "author": "BradfordToday",
-      "title": "Retaliatory tariffs expected next week as Trudeau, premiers meet on Trump threats",
-      "description": "OTTAWA — Prime Minister Justin Trudeau and Canada's premiers will meet in Ottawa Jan. 15 to finalize a plan to respond to tariff threats from U.S.",
-      "url": "https://www.bradfordtoday.ca/national-news/retaliatory-tariffs-expected-next-week-as-trudeau-premiers-meet-on-trump-threats-10047743",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/01/712eb72e152d7433dbaa297ccf7b5f9e6efd32758dc3e573856b108fa8192904.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-01-08T23:49:09Z",
-      "content": "Journalists surround Minister of Finance and Intergovernmental Affairs Dominic LeBlanc before a Liberal Party caucus meeting in West Block on Parliament Hill, in Ottawa, Wednesday, Jan. 8, 2025. THE CANADIAN PRESS/Justin Tang\nOTTAWA — Prime Minister ... [6357 chars]",
-      "tags": [
-        "foreign_policy",
-        "trade",
-        "government_administration",
-        "policy_legislation"
       ]
     }
   ]

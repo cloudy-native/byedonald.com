@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 542,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -168,26 +168,6 @@
         "foreign_policy",
         "legal_justice",
         "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SooToday"
-      },
-      "author": "SooToday",
-      "title": "Senate rebukes Trump’s tariffs as some Republicans vote to halt taxes on Canadian imports",
-      "description": "WASHINGTON (AP) — The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering him a rare rebuke just hours after the president unveiled sweeping plans to clamp down on inte",
-      "url": "https://www.sootoday.com/world-news/senate-rebukes-trumps-tariffs-as-some-republicans-vote-to-halt-taxes-on-canadian-imports-10469614",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/af86f1cb7778014140f3cba23292ccc312316b26d41bdf454a3b515a76769eaa.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-04-02T23:41:02Z",
-      "content": "WASHINGTON (AP) — The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering him a rare rebuke just hours after the president unveiled sweeping plans to clamp down on inte... [6662 chars]",
-      "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "foreign_policy",
-        "legal_justice",
-        "elections_politics"
       ]
     }
   ]

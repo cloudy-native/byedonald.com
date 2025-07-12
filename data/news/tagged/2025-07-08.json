@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 3666,
+  "totalResults": 97,
   "articles": [
     {
       "source": {
@@ -450,24 +450,6 @@
         "china",
         "economy_finance",
         "foreign_policy",
-        "security_intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Anthony Anderson reacts to Donald Trump wanting to host UFC fight at White House: 'You f---ing crazy?'",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e2274f3-4f30-4344-9bec-cb5b873729f7",
-      "urlToImage": null,
-      "publishedAt": "2025-07-08T16:14:30Z",
-      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "personal_family",
         "security_intelligence"
       ]
     },
@@ -1096,42 +1078,6 @@
         "media_communications",
         "security_intelligence",
         "elections_politics"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump administration pulls back on plans to rewrite Biden-era asbestos ban",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5960d1e1-c268-4c5e-8309-55d0cec331e9",
-      "urlToImage": null,
-      "publishedAt": "2025-07-08T18:38:56Z",
-      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "environment",
-        "epa",
-        "federal_agencies"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "US will 'have to' send weapons to Ukraine, Trump says days after Pentagon pause",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d68396ed-2a9d-4810-9a89-adf53006af42",
-      "urlToImage": null,
-      "publishedAt": "2025-07-08T12:16:26Z",
-      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "military"
       ]
     },
     {

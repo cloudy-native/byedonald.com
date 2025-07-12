@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 137,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -175,24 +175,6 @@
         "crisis_emergency",
         "regional_state",
         "legal_justice"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CP24 Toronto"
-      },
-      "author": "CP24 Toronto",
-      "title": "Tesla truck explosion outside Trump’s Las Vegas hotel kills 1, injures 7",
-      "description": "One person died and seven others were injured Wednesday when a Tesla Cybertruck that appeared to be carrying fireworks caught fire and exploded outside President-elect Donald Trump’s Las Vegas hotel, authorities said.",
-      "url": "https://www.cp24.com/news/world/2025/01/01/1-person-dies-when-truck-catches-fire-and-explodes-outside-trumps-las-vegas-hotel/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/YWQVHEVN5DG2OBRJQZSKOLFUEE.jpg?smart=true&auth=77375004d9b02d8bf895faf29389a7d6bc9a7928f6c67e12a738b14cca64684f&width=1200&height=630",
-      "publishedAt": "2025-01-01T22:07:18Z",
-      "content": "Police block the area after a vehicle caught fire and exploded outside the lobby of President-elect Donald Trump's hotel Wednesday, Jan. 1, 2025. (AP Photo/Ty ONeil)\nLAS VEGAS (AP) — One person died and seven others were injured Wednesday when a Tesl... [2652 chars]",
-      "tags": [
-        "security_intelligence",
-        "crisis_emergency",
-        "regional_state"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 666,
+  "totalResults": 8,
   "articles": [
     {
       "source": {
@@ -155,46 +155,6 @@
         "government_administration",
         "legal_justice",
         "personal_family"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ElliotLakeToday.com"
-      },
-      "author": "ElliotLakeToday.com",
-      "title": "Trump says he's revoking Biden's security clearance, ending intelligence briefings in payback move",
-      "description": "PALM BEACH, Fla. (AP) — President Donald Trump said Friday that he's revoking former President Joe Biden's security clearance and ending the daily intelligence briefings he's receiving in payback for Biden doing the same to him in 2021.",
-      "url": "https://www.elliotlaketoday.com/world-news/trump-says-hes-revoking-bidens-security-clearance-ending-intelligence-briefings-in-payback-move-10204013",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/site_images/world_news_2017.jpg",
-      "publishedAt": "2025-02-07T23:42:53Z",
-      "content": "PALM BEACH, Fla. (AP) — President Donald Trump said Friday that he's revoking former President Joe Biden's security clearance and ending the daily intelligence briefings he's receiving in payback for Biden doing the same to him in 2021.\nTrump made th... [1250 chars]",
-      "tags": [
-        "security_clearances",
-        "government_administration",
-        "presidential_actions",
-        "legal_justice",
-        "intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SooToday"
-      },
-      "author": "SooToday",
-      "title": "Trump says he's revoking Biden's security clearance, ending intelligence briefings in payback move",
-      "description": "PALM BEACH, Fla. (AP) — President Donald Trump said Friday that he's revoking former President Joe Biden's security clearance and ending the daily intelligence briefings he's receiving in payback for Biden doing the same to him in 2021.",
-      "url": "https://www.sootoday.com/world-news/trump-says-hes-revoking-bidens-security-clearance-ending-intelligence-briefings-in-payback-move-10204013",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/site_images/world_news_2017.jpg",
-      "publishedAt": "2025-02-07T23:42:53Z",
-      "content": "PALM BEACH, Fla. (AP) — President Donald Trump said Friday that he's revoking former President Joe Biden's security clearance and ending the daily intelligence briefings he's receiving in payback for Biden doing the same to him in 2021.\nTrump made th... [1250 chars]",
-      "tags": [
-        "government_administration",
-        "security_clearances",
-        "executive_orders",
-        "legal_justice",
-        "foreign_policy"
       ]
     }
   ]

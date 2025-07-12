@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 137,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -166,24 +166,6 @@
         "elections_politics",
         "foreign_policy",
         "economy_finance"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SooToday"
-      },
-      "author": "SooToday",
-      "title": "Federal election kicks off on patriotic note, as Canadians head to polls on April 28",
-      "description": "OTTAWA — Canada's 45th general election got underway Sunday, with the leaders vying to become Canada's next prime minister each positioning themselves as best to strengthen Canada's economy and stand up to U.S. President Donald Trump.",
-      "url": "https://www.sootoday.com/national-news/federal-election-kicks-off-on-patriotic-note-as-canadians-head-to-polls-on-april-28-10417234",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/03/b9e60b795e87b24ec56f939dd00e9a07ce38bb097209ca5a39861337ad7d55a5.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-03-23T21:50:19Z",
-      "content": "Conservative Leader Pierre Poilievre speaks at a news conference to launch his campaign for the federal election, in Gatineau, Que., on Sunday, March 23, 2025. THE CANADIAN PRESS/Justin Tang\nOTTAWA — Canada's 45th general election got underway Sunday... [5349 chars]",
-      "tags": [
-        "elections_politics",
-        "foreign_policy",
-        "regional_state"
       ]
     }
   ]

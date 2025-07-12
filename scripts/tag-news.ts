@@ -1,39 +1,8 @@
 import Anthropic from "@anthropic-ai/sdk";
 import * as fs from "fs/promises";
 import * as path from 'path';
-
-// Types
-interface NewsSource {
-  id: string;
-  name: string;
-}
-
-interface NewsArticle {
-  source: NewsSource;
-  author: string;
-  title: string;
-  description: string;
-  url: string;
-  urlToImage: string;
-  publishedAt: string;
-  content: string;
-}
-
-interface TaggedNewsArticle extends NewsArticle {
-  tags: string[];
-}
-
-interface NewsResponse {
-  status: string;
-  totalResults: number;
-  articles: NewsArticle[];
-}
-
-interface TaggedNewsResponse {
-  status: string;
-  totalResults: number;
-  articles: TaggedNewsArticle[];
-}
+import { deduplicateArticles } from './lib/article-utils';
+import type { NewsArticle, TaggedNewsArticle, NewsResponse, TaggedNewsResponse } from './lib/article-utils';
 
 interface Tag {
   id: string;
@@ -51,6 +20,8 @@ interface TagCategory {
 interface TagDefinition {
   tagCategories: Record<string, TagCategory>;
 }
+
+
 
 class NewsArticleTagger {
   private client: Anthropic;
@@ -314,6 +285,23 @@ async function main() {
       const rawJsonString = await fs.readFile(rawFilePath, 'utf-8');
       const newsData: NewsResponse = JSON.parse(rawJsonString);
 
+      // Deduplicate articles before tagging
+      const originalCount = newsData.articles.length;
+      newsData.articles = deduplicateArticles(newsData.articles);
+      newsData.totalResults = newsData.articles.length;
+      const duplicateCount = originalCount - newsData.totalResults;
+      if (duplicateCount > 0) {
+        console.log(`Removed ${duplicateCount} duplicate/similar articles.`);
+      }
+
+      if (newsData.articles.length === 0) {
+        console.log('No unique articles to tag. Skipping.');
+        // Optional: create an empty tagged file
+        await fs.writeFile(taggedFilePath, JSON.stringify({ ...newsData, articles: [] }, null, 2));
+        console.log(`Created empty tagged file: ${fileName}`);
+        continue; // Skip to the next file
+      }
+
       // Using individual processing as it's more reliable
       const taggedResult = await tagger.tagArticlesIndividually(newsData);
 
@@ -336,4 +324,5 @@ main()
   .then(() => console.log("Done"))
   .catch(console.error);
 
-export { NewsArticleTagger, TaggedNewsResponse, TagDefinition };
+export { NewsArticleTagger };
+export type { TaggedNewsResponse, TagDefinition };

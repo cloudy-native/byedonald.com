@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 3113,
+  "totalResults": 94,
   "articles": [
     {
       "source": {
@@ -479,78 +479,6 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump says he's \"terminating all discussions on trade with Canada\"",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f8cf67b0-c1d4-4828-9c74-43a276739987",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T18:20:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "trade",
-        "canada",
-        "economy_finance"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Coney Barrett Gives Trump Sweeping Boost to Federal Powers",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2e4b3cb3-dcb2-42ae-a436-5f3e900a3460",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T15:01:40Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "legal_justice",
-        "supreme_court",
-        "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "'Rambling Incoherence': Trump Ripped After Bizarre 'Word Salad' Attack On Lawmaker",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7a7c7794-ffbc-4d8e-a1d1-0a987744bdf6",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T08:56:13Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "legal_justice",
-        "personal_family"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Is Trump a genius? Top economist and tariff skeptic admits president may have outsmarted us all on the economy",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9b23901b-e28a-45e9-8e39-bb9b6548e2f3",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T19:36:23Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Miami Herald"
       },
       "author": "Syra Ortiz Blanes, Churchill Ndonwie",
@@ -983,24 +911,6 @@
     },
     {
       "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": "John Gruber",
-      "title": "‘Stupid-Americans Are the New Irish-Americans, Trump Is Their JFK’",
-      "description": null,
-      "url": "https://www.reddit.com/r/thebulwark/comments/1ljbvtw/hottest_take_stupidamericans_are_the_new/",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T23:37:08Z",
-      "content": "Banger of a post by “tarltontarlton” on Reddit:\n\n\n That same process is happening now with stupid people. They’re\ntranscending their individual limitations, finding each other and\nbecoming out-and-pr… [+3064 chars]",
-      "tags": [
-        "media_communications",
-        "social_issues",
-        "elections_politics"
-      ]
-    },
-    {
-      "source": {
         "id": null,
         "name": "Gizmodo.com"
       },
@@ -1206,26 +1116,6 @@
         "medical_research",
         "science_policy",
         "security_intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Canada retaliates against U.S. steel imports after Trump terminates trade talks",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f22ea3fe-7cc2-4139-887a-81820b466c68",
-      "urlToImage": null,
-      "publishedAt": "2025-06-27T18:00:17Z",
-      "content": "If you click 'Accept all', we and our partners, including 235 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "trade",
-        "canada",
-        "tariffs",
-        "international_organizations",
-        "economy_finance"
       ]
     },
     {

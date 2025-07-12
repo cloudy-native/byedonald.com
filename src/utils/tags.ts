@@ -68,6 +68,10 @@ export interface TagCategory {
   tags: Tag[];
 }
 
+export interface TagCategoryWithId extends TagCategory {
+  id: string;
+}
+
 export interface TagInfo extends Tag {
   category: {
     id: string;
@@ -96,6 +100,16 @@ for (const categoryId in tagsData.tagCategories) {
 
 export const getTagById = (id: string): TagInfo | undefined => {
   return allTags.find(tag => tag.id === id);
+};
+
+export const getCategoryByTagId = (tagId: string): TagCategoryWithId | undefined => {
+  for (const categoryId in tagsData.tagCategories) {
+    const category = tagsData.tagCategories[categoryId as keyof typeof tagsData.tagCategories];
+    if (category.tags.some(tag => tag.id === tagId)) {
+      return { ...category, id: categoryId };
+    }
+  }
+  return undefined;
 };
 
 // Kept for any other part of the app that might still use it

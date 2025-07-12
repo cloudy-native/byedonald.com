@@ -229,7 +229,7 @@ const AboutPage: React.FC<PageProps> = () => {
             </Text>
             <Button
               as={Link}
-              href="https://github.com/your-github/byedonald.com" // TODO: Update this link
+              href="https://github.com/cloudy-native/byedonald.com"
               isExternal
               leftIcon={<FaGithub />}
               colorScheme="blue"

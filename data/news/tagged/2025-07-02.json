@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 3290,
+  "totalResults": 97,
   "articles": [
     {
       "source": {
@@ -394,24 +394,6 @@
       "tags": [
         "personal_family",
         "social_issues",
-        "economy_finance"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "‘WTF Is Happening’: Gambling Reacts to Proposed Trump Tax Changes",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9c3b569d-829e-4fc4-a063-38280f4a6d58",
-      "urlToImage": null,
-      "publishedAt": "2025-07-02T20:30:01Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "taxes",
-        "gaming",
         "economy_finance"
       ]
     },
@@ -1054,44 +1036,6 @@
         "media_communications",
         "social_issues",
         "elections_politics"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "President Trump announces trade deal with Vietnam that will let US goods into the country duty-free",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a037fd44-f606-45be-8057-1fb1d6368bb3",
-      "urlToImage": null,
-      "publishedAt": "2025-07-02T17:33:08Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "trade",
-        "vietnam",
-        "economy_finance"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump taps 30-year-old with little government experience and links to Holocaust denier to lead federal agency",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a2a38c62-c9db-46a2-974d-3548ca85519e",
-      "urlToImage": null,
-      "publishedAt": "2025-07-02T20:44:41Z",
-      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "government_administration",
-        "ethics",
-        "security_clearances",
-        "legal_justice",
-        "political_endorsements"
       ]
     },
     {

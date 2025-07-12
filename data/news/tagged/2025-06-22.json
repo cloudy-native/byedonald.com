@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 2036,
+  "totalResults": 95,
   "articles": [
     {
       "source": {
@@ -421,44 +421,6 @@
         "national_security",
         "middle_east",
         "crisis_emergency",
-        "security_intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Kentucky leaders react as Trump announces US attack on three Iranian nuclear sites",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_01e35e4c-f57f-4b07-aa8c-f36d66be45cb",
-      "urlToImage": null,
-      "publishedAt": "2025-06-22T02:09:38Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "foreign_policy",
-        "national_security",
-        "middle_east"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Senior Russian official says Trump has started new war on Iran that will strengthen Khamenei",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3944ec35-64fc-42e9-9953-e585d52aecea",
-      "urlToImage": null,
-      "publishedAt": "2025-06-22T09:43:20Z",
-      "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "foreign_policy",
-        "russia",
-        "middle_east",
-        "iran",
         "security_intelligence"
       ]
     },

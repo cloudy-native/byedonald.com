@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 1569,
+  "totalResults": 94,
   "articles": [
     {
       "source": {
@@ -340,42 +340,6 @@
         "agriculture",
         "climate_policy",
         "policy_&_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Opinion: Trump tariffs collide with the law",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d7b9b793-7836-4a39-89d0-f9fab93668cf",
-      "urlToImage": null,
-      "publishedAt": "2025-06-15T19:00:00Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "trade",
-        "economy_finance",
-        "policy_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump Lackey Torn Apart for Wild Claim of Giant Parade Crowd",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d9f0840-31f7-460f-a177-61dd95537b07",
-      "urlToImage": null,
-      "publishedAt": "2025-06-15T18:57:24Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_criticism",
-        "political_endorsements",
-        "rallies"
       ]
     },
     {
@@ -1686,24 +1650,6 @@
         "id": null,
         "name": "Biztoc.com"
       },
-      "author": "nytimes.com",
-      "title": "‘Golden Share’ in U.S. Steel Gives Trump Extraordinary Control",
-      "description": "",
-      "url": "https://biztoc.com/x/b695729d6109cba6",
-      "urlToImage": "https://biztoc.com/cdn/950/og.png",
-      "publishedAt": "2025-06-15T20:25:10Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Tesla's Full Self-Driving test raise safety concerns? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did vet… [+790 chars]",
-      "tags": [
-        "stock_market",
-        "small_business",
-        "personal_business"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
       "author": "youtube.com",
       "title": "Trump Says He Won't Fire Powell But Demands Rate Cut",
       "description": "President Donald Trump reiterated Thursday he did not plan to fire Federal Reserve Chair Jerome Powell, days after saying he would “soon” pick his nominee to lead the central bank next.\n“The fake news is saying, ‘Oh, if you fired him, it would be so bad, it w…",
@@ -1773,61 +1719,6 @@
         "middle_east",
         "trade",
         "economy_finance"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "reuters.com",
-      "title": "Mediobanca weighs postponing Monday's investor vote on Banca Generali, source says",
-      "description": "",
-      "url": "https://biztoc.com/x/434e7e1abab5646e",
-      "urlToImage": "https://biztoc.com/cdn/434e7e1abab5646e_s.webp",
-      "publishedAt": "2025-06-15T10:05:32Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump clear Nippon Steel's US Steel deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Israel-Iran conf… [+811 chars]",
-      "tags": [
-        "economy_finance",
-        "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "bloomberg.com",
-      "title": "Egypt’s Pound, Stocks Take Blows From Worsening Mideast Conflict",
-      "description": "",
-      "url": "https://biztoc.com/x/b7142f76f422fbfa",
-      "urlToImage": "https://biztoc.com/cdn/b7142f76f422fbfa_s.webp",
-      "publishedAt": "2025-06-15T10:05:44Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump clear Nippon Steel's US Steel deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Israel-Iran conf… [+798 chars]",
-      "tags": [
-        "foreign_policy_international",
-        "middle_east",
-        "economy_finance",
-        "stock_market"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Biztoc.com"
-      },
-      "author": "reuters.com",
-      "title": "U.S. officials survey Air India crash site, families continue to wait for bodies",
-      "description": "",
-      "url": "https://biztoc.com/x/d8e78e438962c38a",
-      "urlToImage": "https://biztoc.com/cdn/d8e78e438962c38a_s.webp",
-      "publishedAt": "2025-06-15T10:05:58Z",
-      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump clear Nippon Steel's US Steel deal? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How is Israel-Iran conf… [+814 chars]",
-      "tags": [
-        "foreign_policy_&_international",
-        "asia_pacific",
-        "security_&_intelligence",
-        "crisis_&_emergency"
       ]
     },
     {
