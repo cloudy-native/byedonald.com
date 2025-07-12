@@ -1,0 +1,78 @@
+{
+  "status": "ok",
+  "totalResults": 3847,
+  "articles": [
+    {
+      "source": {
+        "id": "washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Tyler Pager",
+      "title": "Trump threatens arrest of California Gov. Newsom amid Los Angeles protests",
+      "description": "President Trump suggested he would support arresting California Gov. Gavin Newsom for allegedly obstructing ICE operations, as protests over immigration raids continue in Los Angeles with National Guard deployment.",
+      "url": "https://www.washingtonpost.com/politics/2025/06/09/gavin-newsom-trump-los-angeles-protests/",
+      "publishedAt": "2025-06-09T18:45:23Z",
+      "content": "President Donald Trump threatened California Gov. Gavin Newsom's arrest Monday, prompting Newsom to accuse Trump of taking a step toward authoritarianism as protests over immigration enforcement cont... [+3892 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Selina Wang",
+      "title": "'Acts of a dictator': Newsom lashes out at Trump after arrest threat",
+      "description": "California Gov. Gavin Newsom fired back at President Trump after the president endorsed his potential arrest, calling Trump's actions dictatorial as Los Angeles protests over ICE raids enter their fourth day.",
+      "url": "https://abcnews.go.com/Politics/war-words-trump-newsom-la-protests-escalates-arrest/story?id=122662589",
+      "publishedAt": "2025-06-09T17:32:18Z",
+      "content": "President Donald Trump and California Gov. Gavin Newsom exchanged words on Monday over protests in Los Angeles over the federal government's immigration raids. Earlier Monday, arriving back at the Wh... [+2847 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Priscilla Alvarez, Arlette Saenz",
+      "title": "Trump doubles National Guard deployment to 4,000 troops as LA protests intensify",
+      "description": "President Trump authorized an additional 2,000 National Guard members and 700 Marines to Los Angeles as protests against immigration raids continued Monday, while California Gov. Newsom filed a lawsuit challenging the federal takeover.",
+      "url": "https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-09-25",
+      "publishedAt": "2025-06-09T22:15:47Z",
+      "content": "Protesters and police are still facing off in Los Angeles, and anti-ICE protests have occurred across the country. Approximately 1,700 National Guard members are now operating in the greater Los An... [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": "ap",
+        "name": "Associated Press"
+      },
+      "author": "Jill Colvin, Julie Watson",
+      "title": "Trump pushes ahead with deportations in face of LA protests",
+      "description": "President Donald Trump is moving swiftly to act on his immigration promises with little internal restraint, determined to test the bounds of his executive authority as protests rage in Los Angeles over federal immigration raids.",
+      "url": "https://apnews.com/article/donald-trump-california-immigration-customs-enforcement-newsom-0482a8935419d88986b890b18db5cc03",
+      "publishedAt": "2025-06-09T14:28:09Z",
+      "content": "President Donald Trump is moving swiftly to act on his immigration promises with little internal restraint, determined to test the bounds of his executive authority in order to fulfill the promises o... [+4673 chars]"
+    },
+    {
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "author": "Ailsa Chang",
+      "title": "Why Trump's deployment of the National Guard to LA is unprecedented, according to a general",
+      "description": "Retired Illinois National Guard General William Enyart calls Trump's decision to federalize California's National Guard without the governor's consent 'unprecedented' and legally questionable.",
+      "url": "https://www.npr.org/2025/06/09/nx-s1-5427233/trump-guard-deployment-unprecedented-los-angeles-william-enyart",
+      "publishedAt": "2025-06-09T20:43:55Z",
+      "content": "They've thrown the entire playbook out, says a retired general on Trump's National Guard deployment Most National Guard troops are trained for natural disasters, not protests, Enyart explains. Missi... [+3156 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Jacob Soboroff, Yamiche Alcindor",
+      "title": "California Gov. Gavin Newsom unfazed by threats of arrest from Trump administration",
+      "description": "Gov. Gavin Newsom pushed back against arrest threats from Trump officials, telling border czar Tom Homan to 'arrest me' if he wants to, as protests continue in Los Angeles over immigration enforcement.",
+      "url": "https://www.nbcnews.com/politics/immigration/californias-governor-unfazed-threats-arrest-trump-administratio-rcna211752",
+      "publishedAt": "2025-06-09T19:22:14Z",
+      "content": "California Gov. Gavin Newsom pushed back against threats of arrest by Trump administration officials, remaining defiant as he oversees clashes between law enforcement agents and protesters in respon... [+3784 chars]"
+    }
+  ]
+}

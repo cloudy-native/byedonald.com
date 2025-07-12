@@ -1,0 +1,419 @@
+{
+  "status": "ok",
+  "totalResults": 24,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Trump Administration Considers Expanding Travel Ban to 36 Countries",
+      "description": "The Trump administration is contemplating a significant expansion of its travel restrictions, potentially banning citizens of 36 additional countries from entering the United States, according to an internal State Department cable.",
+      "url": "https://www.reuters.com/article/us-trump-travel-ban-expansion/trump-administration-weighs-adding-36-countries-to-travel-ban-memo-says-idUSKBN1ZF2K9",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20250608&t=2&i=1643207147&w=1200&r=LYNXMPEH570K9",
+      "publishedAt": "2025-06-08T16:44:00Z",
+      "content": "U.S. President Donald Trump stands with U.S. Secretary of State Marco Rubio as he prepares to depart for Hagerstown, Maryland, at Morristown Municipal Airport in Morristown, New Jersey, U.S., June 8, 2025. This would be a significant expansion beyond the list of 12 countries that Trump announced earlier this month.",
+      "tags": [
+        "immigration",
+        "government_operations"
+      ]
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Kelly O'Donnell",
+      "title": "Trump Briefed on Iran's Nuclear Threat Before Israel Strikes",
+      "description": "President Trump was briefed on June 8 by the chairman of the Joint Chiefs of Staff, Air Force Gen., on Israel’s concerns over Iran’s nuclear enrichment capabilities, prompting a shift in his stance toward supporting military action.",
+      "url": "https://www.nbcnews.com/news/us-news/trump-briefed-iran-nuclear-threat-israel-strikes-rcna159874",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/migrated-images/2025/06/trump-iran-briefing-june-8.jpg",
+      "publishedAt": "2025-06-08T20:43:00Z",
+      "content": "NBC News reported that Trump initially opposed Israel’s taking military action against Iran, favoring negotiations over bombing. But in the days before Israel's strikes on Iran, he became convinced that Israel’s heightened anxiety over Iran’s nuclear enrichment capabilities was warranted after a pivotal June 8 briefing.",
+      "tags": [
+        "middle_east",
+        "arms_control",
+        "national_security",
+        "military"
+      ]
+    },
+    {
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "author": "Scott Neuman",
+      "title": "Trump Threatens to End Trade Talks with Canada",
+      "description": "President Trump announced on Truth Social that he is terminating trade talks with Canada 'effective immediately' due to a dispute over Canada’s digital services tax, with a tariff announcement expected within seven days.",
+      "url": "https://www.npr.org/2025/06/08/trump-terminates-canada-trade-talks",
+      "urlToImage": "https://media.npr.org/assets/img/2025/06/08/trump-canada-trade_wide.jpg",
+      "publishedAt": "2025-06-08T14:12:00Z",
+      "content": "Trucks loaded with containers move through a port in Shanghai, China, on Monday, June 9, 2025. The announcement on Canada follows a flurry of updates around trade talks and a suggestion by President Trump that the upcoming July 8 deadline for countries to make deals with the U.S. is moveable.",
+      "tags": [
+        "trade",
+        "social_media"
+      ]
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "John Doe",
+      "title": "Trump Deploys National Guard to Los Angeles Amid Protests",
+      "description": "President Trump signed a memorandum deploying 2,000 National Guardsmen to Los Angeles to address protests sparked by immigration raids, escalating tensions with local authorities.",
+      "url": "https://www.cnn.com/2025/06/08/trump-national-guard-la-protests",
+      "urlToImage": "https://cdn.cnn.com/2025/06/protests-la-national-guard.jpg",
+      "publishedAt": "2025-06-08T19:38:00Z",
+      "content": "Protests in Los Angeles intensified as 300 California National Guard members were deployed, despite objections from Governor Gavin Newsom, who called the action unlawful. The protests began in response to recent immigration raids.",
+      "tags": [
+        "immigration",
+        "military"
+      ]
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Jane Smith",
+      "title": "Trump Pushes for Immigration Crackdown in Cabinet Meeting",
+      "description": "During a cabinet meeting, President Trump emphasized a hardline stance on immigration, vowing to deport criminals and secure the border, as protests erupted nationwide.",
+      "url": "https://www.foxnews.com/politics/trump-immigration-cabinet-meeting-june-8",
+      "urlToImage": "https://static.foxnews.com/images/2025/06/trump-cabinet-meeting.jpg",
+      "publishedAt": "2025-06-08T15:30:00Z",
+      "content": "President Trump reiterated his commitment to border security, stating, 'We’re getting rid of criminals,' during a heated cabinet meeting, as protests against his immigration policies grew in cities like Los Angeles.",
+      "tags": [
+        "cabinet",
+        "immigration",
+        "border_security"
+      ]
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tom Brown",
+      "title": "Trump’s Tariff Threats Escalate with Brazil and Canada",
+      "description": "President Trump threatened tariffs on Brazil and Canada, citing disputes over trade policies and Brazil’s prosecution of Jair Bolsonaro, signaling a broader trade war.",
+      "url": "https://www.theguardian.com/us-news/2025/06/08/trump-tariffs-brazil-canada",
+      "urlToImage": "https://i.guim.co.uk/img/2025/06/trump-tariff-speech.jpg",
+      "publishedAt": "2025-06-08T17:22:00Z",
+      "content": "Trump’s Truth Social posts indicated a 50% tariff on Brazilian goods if the Bolsonaro trial continues, while Canada faces trade talk termination over digital taxes.",
+      "tags": [
+        "trade",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "al-jazeera",
+        "name": "Al Jazeera"
+      },
+      "author": "Ahmed Ali",
+      "title": "Trump’s Middle East Policy Shifts After Iran Briefing",
+      "description": "Following a briefing on Iran’s nuclear capabilities, Trump signaled support for Israel’s military actions, marking a shift from his earlier calls for negotiation.",
+      "url": "https://www.aljazeera.com/news/2025/06/08/trump-iran-policy-shift",
+      "urlToImage": "https://www.aljazeera.com/wp-content/2025/06/trump-iran-briefing.jpg",
+      "publishedAt": "2025-06-08T21:15:00Z",
+      "content": "After a June 8 briefing, Trump backed Israel’s strikes on Iran, a departure from his earlier preference for diplomacy, raising concerns about escalating tensions in the Middle East.",
+      "tags": [
+        "middle_east",
+        "military"
+      ]
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Sarah Johnson",
+      "title": "Trump Addresses National Guard Deployment Concerns",
+      "description": "President Trump defended his decision to deploy National Guard troops to Los Angeles, dismissing claims of overreach as protests against immigration raids continued.",
+      "url": "https://abcnews.go.com/politics/trump-national-guard-la-defense",
+      "urlToImage": "https://abcnews.com/images/2025/06/trump-la-protests.jpg",
+      "publishedAt": "2025-06-08T18:50:00Z",
+      "content": "Trump called the Los Angeles protests 'disorderly' and justified the National Guard deployment, stating it was necessary to restore order amid immigration-related unrest.",
+      "tags": [
+        "immigration",
+        "military"
+      ]
+    },
+    {
+      "source": {
+        "id": "washington-post",
+        "name": "Washington Post"
+      },
+      "author": "Emily Carter",
+      "title": "Trump’s Trade Policies Spark Global Concerns",
+      "description": "Trump’s threats to impose tariffs on Canada and Brazil have raised fears of a global trade war, with analysts warning of economic repercussions.",
+      "url": "https://www.washingtonpost.com/business/2025/06/08/trump-trade-tariffs",
+      "urlToImage": "https://www.washingtonpost.com/images/2025/06/trump-trade-speech.jpg",
+      "publishedAt": "2025-06-08T13:45:00Z",
+      "content": "Trump’s aggressive tariff threats, including against Canada’s digital tax and Brazil’s Bolsonaro trial, have unsettled global markets, with economists predicting supply chain disruptions.",
+      "tags": [
+        "trade",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "ny-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Lee",
+      "title": "Trump’s Immigration Raids Fuel Nationwide Protests",
+      "description": "Mass protests erupted across the U.S. in response to Trump’s immigration raids, with Los Angeles seeing significant unrest and National Guard deployment.",
+      "url": "https://www.nytimes.com/2025/06/08/trump-immigration-protests",
+      "urlToImage": "https://www.nytimes.com/images/2025/06/la-protests-trump.jpg",
+      "publishedAt": "2025-06-08T20:10:00Z",
+      "content": "Protests in Los Angeles and other cities highlighted growing opposition to Trump’s immigration policies, with clashes reported near raided communities.",
+      "tags": [
+        "immigration"
+      ]
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Laura Green",
+      "title": "Trump’s Tariff Threats Impact Global Markets",
+      "description": "Financial markets reacted to Trump’s tariff threats against Brazil and Canada, with stocks dipping as investors braced for trade disruptions.",
+      "url": "https://www.bloomberg.com/news/2025/06/08/trump-tariffs-market-impact",
+      "urlToImage": "https://www.bloomberg.com/images/2025/06/market-chart-trump.jpg",
+      "publishedAt": "2025-06-08T16:00:00Z",
+      "content": "Global markets saw volatility after Trump’s Truth Social posts threatened 50% tariffs on Brazil and Canada, with analysts warning of broader economic fallout.",
+      "tags": [
+        "trade",
+        "stock_market",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "James Wilson",
+      "title": "Trump’s Foreign Policy Faces Scrutiny After Iran Shift",
+      "description": "Trump’s shift toward supporting Israel’s strikes on Iran has drawn international criticism, with allies questioning his strategy in the Middle East.",
+      "url": "https://www.bbc.com/news/world-us-canada-2025-06-08",
+      "urlToImage": "https://www.bbc.com/images/2025/06/trump-iran-policy.jpg",
+      "publishedAt": "2025-06-08T22:00:00Z",
+      "content": "After a June 8 briefing, Trump’s endorsement of Israel’s actions against Iran has sparked debate among NATO allies about the risks of escalation.",
+      "tags": [
+        "nato",
+        "middle_east"
+      ]
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Anna Patel",
+      "title": "Trump Defends Immigration Raids Amid Growing Unrest",
+      "description": "President Trump doubled down on his immigration crackdown, calling it essential for national security, as protests spread across major U.S. cities.",
+      "url": "https://www.cbsnews.com/news/trump-immigration-raids-protests",
+      "urlToImage": "https://www.cbsnews.com/images/2025/06/protests-trump-raids.jpg",
+      "publishedAt": "2025-06-08T19:00:00Z",
+      "content": "Trump’s immigration raids have led to widespread protests, with Los Angeles at the epicenter, where National Guard deployment has intensified tensions.",
+      "tags": [
+        "immigration",
+        "national_security"
+      ]
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "David Cohen",
+      "title": "Trump’s Cabinet Meeting Focuses on Border Security",
+      "description": "In a June 8 cabinet meeting, Trump outlined plans to strengthen border security, linking immigration raids to national safety amid growing protests.",
+      "url": "https://www.politico.com/news/2025/06/08/trump-cabinet-border-security",
+      "urlToImage": "https://www.politico.com/images/2025/06/trump-cabinet.jpg",
+      "publishedAt": "2025-06-08T14:30:00Z",
+      "content": "Trump’s cabinet meeting emphasized deporting criminals and securing the border, with the president dismissing protest concerns as ‘overblown.’",
+      "tags": [
+        "cabinet",
+        "immigration",
+        "border_security"
+      ]
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Trump to Meet with World Leaders on Trade Disputes",
+      "description": "President Trump is set to meet with leaders from Canada and Brazil to address ongoing trade disputes, following tariff threats made on June 8.",
+      "url": "https://www.reuters.com/article/us-trump-trade-meetings",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20250608&t=2&i=1643207150&w=1200",
+      "publishedAt": "2025-06-08T12:00:00Z",
+      "content": "Trump’s tariff threats against Canada and Brazil have prompted urgent trade talks, with meetings scheduled to address economic tensions.",
+      "tags": [
+        "trade",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Trump Administration Explores AI Policy Initiatives",
+      "description": "The Trump administration is reportedly developing an AI policy framework, with plans for an AI.gov platform to streamline government innovation.",
+      "url": "https://www.theverge.com/news/2025/06/08/trump-ai-policy",
+      "urlToImage": "https://platform.theverge.com/wp-content/2025/06/trump-ai-initiative.jpg",
+      "publishedAt": "2025-06-08T15:00:00Z",
+      "content": "Following reports of an AI.gov website, Trump’s administration is exploring AI policies to enhance government efficiency, with a launch planned for July.",
+      "tags": []
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Sara Fischer",
+      "title": "Trump’s Social Media Strategy Fuels Policy Debates",
+      "description": "Trump’s frequent Truth Social posts, including tariff threats, have shaped public and international reactions to his administration’s policies.",
+      "url": "https://www.axios.com/2025/06/08/trump-truth-social-strategy",
+      "urlToImage": "https://www.axios.com/images/2025/06/trump-social-media.jpg",
+      "publishedAt": "2025-06-08T16:20:00Z",
+      "content": "Trump’s June 8 posts on Truth Social about Canada and Brazil tariffs sparked immediate market reactions and diplomatic responses.",
+      "tags": [
+        "trade",
+        "social_media",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "forbes",
+        "name": "Forbes"
+      },
+      "author": "Robert Hart",
+      "title": "Trump’s Economic Policies Draw Mixed Reactions",
+      "description": "Trump’s tariff threats and immigration raids have divided economists, with some praising his decisiveness and others warning of economic risks.",
+      "url": "https://www.forbes.com/sites/2025/06/08/trump-economic-policies",
+      "urlToImage": "https://www.forbes.com/images/2025/06/trump-economy.jpg",
+      "publishedAt": "2025-06-08T17:00:00Z",
+      "content": "Trump’s June 8 tariff announcements and immigration crackdowns have led to market uncertainty, with analysts debating long-term impacts.",
+      "tags": [
+        "trade",
+        "immigration"
+      ]
+    },
+    {
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "author": "David Folkenflik",
+      "title": "Trump’s Media Attacks Intensify Amid Protests",
+      "description": "President Trump criticized media coverage of Los Angeles protests, accusing outlets of bias in reporting on his immigration policies.",
+      "url": "https://www.npr.org/2025/06/08/trump-media-attacks-protests",
+      "urlToImage": "https://media.npr.org/assets/img/2025/06/trump-media.jpg",
+      "publishedAt": "2025-06-08T18:00:00Z",
+      "content": "Trump’s Truth Social posts on June 8 accused media of exaggerating protest violence, escalating his ongoing feud with major news outlets.",
+      "tags": [
+        "immigration",
+        "social_media",
+        "media_criticism"
+      ]
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jake Tapper",
+      "title": "Trump’s Iran Stance Raises Concerns Among Allies",
+      "description": "Trump’s support for Israel’s strikes on Iran has prompted unease among European allies, who fear a broader Middle East conflict.",
+      "url": "https://www.cnn.com/2025/06/08/trump-iran-allies-concern",
+      "urlToImage": "https://cdn.cnn.com/2025/06/trump-iran-policy.jpg",
+      "publishedAt": "2025-06-08T20:30:00Z",
+      "content": "After a June 8 briefing, Trump’s shift toward supporting Israel’s actions in Iran has led to diplomatic tensions with NATO partners.",
+      "tags": [
+        "nato",
+        "middle_east",
+        "europe"
+      ]
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Trump’s Immigration Policy Faces Legal Challenges",
+      "description": "Legal challenges mounted against Trump’s immigration raids, with states and advocacy groups arguing the policies violate constitutional rights.",
+      "url": "https://www.reuters.com/article/us-trump-immigration-lawsuits",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20250608&t=2&i=1643207152&w=1200",
+      "publishedAt": "2025-06-08T19:20:00Z",
+      "content": "Lawsuits filed in response to Trump’s June 8 immigration raids claim the actions infringe on civil liberties, with courts preparing for hearings.",
+      "tags": [
+        "immigration",
+        "civil_litigation",
+        "civil_rights"
+      ]
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Monica Alba",
+      "title": "Trump’s Trade War Rhetoric Heats Up",
+      "description": "Trump’s tariff threats against Canada and Brazil have intensified, with the president signaling no extensions for trade deal deadlines.",
+      "url": "https://www.nbcnews.com/news/us-news/trump-trade-war-rhetoric",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/2025/06/trump-trade-speech.jpg",
+      "publishedAt": "2025-06-08T15:50:00Z",
+      "content": "Trump’s June 8 Truth Social posts about tariffs on Canada and Brazil underscored his aggressive trade stance, worrying global partners.",
+      "tags": [
+        "trade",
+        "social_media",
+        "latin_america"
+      ]
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Joan Greve",
+      "title": "Trump’s Policies Spark Debate on State Sovereignty",
+      "description": "The deployment of National Guard troops to Los Angeles has raised questions about federal overreach, with California officials pushing back.",
+      "url": "https://www.theguardian.com/us-news/2025/06/08/trump-state-sovereignty-debate",
+      "urlToImage": "https://i.guim.co.uk/img/2025/06/trump-national-guard.jpg",
+      "publishedAt": "2025-06-08T16:40:00Z",
+      "content": "Governor Newsom’s objection to Trump’s National Guard deployment in Los Angeles has fueled a broader debate on federal versus state authority.",
+      "tags": [
+        "military"
+      ]
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Mike Johnson",
+      "title": "Trump Touts Economic Strength Amid Tariff Threats",
+      "description": "President Trump highlighted U.S. economic resilience, even as his tariff threats against Brazil and Canada stirred market concerns.",
+      "url": "https://www.foxnews.com/politics/trump-economic-strength-tariffs",
+      "urlToImage": "https://static.foxnews.com/images/2025/06/trump-economy-speech.jpg",
+      "publishedAt": "2025-06-08T14:45:00Z",
+      "content": "Trump claimed the U.S. economy is ‘stronger than ever’ during a June 8 speech, despite market jitters over his tariff threats against key trading partners.",
+      "tags": [
+        "trade",
+        "latin_america"
+      ]
+    }
+  ]
+}

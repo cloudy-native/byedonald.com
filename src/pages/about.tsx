@@ -1,0 +1,250 @@
+import {
+  Box,
+  Button,
+  Container,
+  Flex,
+  Heading,
+  Icon,
+  Link,
+  SimpleGrid,
+  Stack,
+  Text,
+  useColorModeValue,
+  VStack,
+} from "@chakra-ui/react";
+import { HeadFC, PageProps } from "gatsby";
+import * as React from "react";
+import { FaCode, FaGithub, FaRocket } from "react-icons/fa";
+
+const AboutHero = () => {
+  const bgGradient = useColorModeValue(
+    "linear(to-b, blue.50, white)",
+    "linear(to-b, gray.900, gray.800)"
+  );
+  const accentColor = useColorModeValue("blue.600", "blue.300");
+  const textColor = useColorModeValue("gray.700", "gray.100");
+
+  return (
+    <Box
+      bg={useColorModeValue("blue.50", "gray.900")}
+      bgGradient={bgGradient}
+      pt={16}
+      pb={10}
+    >
+      <Stack spacing={6} textAlign="center">
+        <Heading
+          as="h1"
+          fontSize={{ base: "3xl", md: "4xl", lg: "5xl" }}
+          fontWeight="bold"
+          color={accentColor}
+          lineHeight="1.2"
+        >
+          About ByeDonald.com
+        </Heading>
+        <Text
+          fontSize={{ base: "md", md: "lg" }}
+          color={textColor}
+          maxW="3xl"
+          mx="auto"
+          lineHeight="1.8"
+        >
+          This project is an open-source effort to track and categorize news
+          related to Donald Trump's second term as President. It aims to provide
+          a factual, day-by-day overview of events as reported by various news
+          outlets.
+        </Text>
+      </Stack>
+    </Box>
+  );
+};
+
+const Feature = ({ title, text, icon }: { title: string; text: string; icon: any }) => {
+  const bgColor = useColorModeValue("white", "gray.800");
+  const borderColor = useColorModeValue("gray.200", "gray.700");
+
+  return (
+    <Box
+      p={5}
+      shadow="md"
+      borderRadius="lg"
+      bg={bgColor}
+      borderColor={borderColor}
+    >
+      <Flex align="center" mb={4}>
+        <Flex
+          w={12}
+          h={12}
+          align="center"
+          justify="center"
+          color="white"
+          rounded="full"
+          bg="blue.500"
+          mr={4}
+        >
+          <Icon as={icon} w={6} h={6} />
+        </Flex>
+        <Heading fontSize="xl">{title}</Heading>
+      </Flex>
+      <Text color={useColorModeValue("gray.600", "gray.400")}>{text}</Text>
+    </Box>
+  );
+};
+
+const AboutPage: React.FC<PageProps> = () => {
+  const textColor = useColorModeValue("gray.700", "gray.300");
+  const sectionBg = useColorModeValue("gray.50", "gray.800");
+
+  return (
+    <>
+      <AboutHero />
+
+      <Container maxW="6xl" py={12}>
+        <VStack spacing={12}>
+          {/* How It Works */}
+          <Box w="full">
+            <Heading
+              as="h2"
+              size="lg"
+              mb={6}
+              textAlign="center"
+              color={useColorModeValue("blue.600", "blue.300")}
+            >
+              How It Works
+            </Heading>
+            <Text
+              fontSize="lg"
+              lineHeight="tall"
+              textAlign="center"
+              maxW="3xl"
+              mx="auto"
+              color={textColor}
+              mb={10}
+            >
+              The content on this site is generated through a fully automated
+              pipeline that ensures daily updates and consistent categorization.
+            </Text>
+            <SimpleGrid columns={{ base: 1, md: 3 }} spacing={10}>
+              <Feature
+                icon={FaCode}
+                title="1. Fetch News"
+                text="Every day, a script fetches the latest news articles related to Donald Trump from a variety of sources using the GNews.io API."
+              />
+              <Feature
+                icon={FaCode}
+                title="2. Tag Articles"
+                text="Each article is then processed by Anthropic's Claude AI model, which reads the content and assigns relevant tags to categorize the news."
+              />
+              <Feature
+                icon={FaRocket}
+                title="3. Index for Search"
+                text="All tagged articles are sent to Algolia, which powers the fast and accurate search functionality you can use across the site."
+              />
+            </SimpleGrid>
+          </Box>
+
+          {/* Acknowledgements */}
+          <Box w="full" py={10} bg={sectionBg} borderRadius="lg">
+            <Container maxW="5xl">
+              <Heading
+                as="h2"
+                size="lg"
+                mb={10}
+                textAlign="center"
+                color={useColorModeValue("blue.600", "blue.300")}
+              >
+                Acknowledgements & Technology
+              </Heading>
+              <Text
+                fontSize="lg"
+                textAlign="center"
+                maxW="3xl"
+                mx="auto"
+                color={textColor}
+                mb={10}
+              >
+                This project would not be possible without several key services
+                and open-source technologies.
+              </Text>
+              <Stack
+                direction={{ base: "column", md: "row" }}
+                spacing={8}
+                justify="center"
+                align="center"
+              >
+                <Link href="https://gnews.io/" isExternal fontWeight="bold">
+                  GNews.io
+                </Link>
+                <Link
+                  href="https://www.anthropic.com/"
+                  isExternal
+                  fontWeight="bold"
+                >
+                  Anthropic Claude
+                </Link>
+                <Link
+                  href="https://www.algolia.com/"
+                  isExternal
+                  fontWeight="bold"
+                >
+                  Algolia
+                </Link>
+                <Link
+                  href="https://www.gatsbyjs.com/"
+                  isExternal
+                  fontWeight="bold"
+                >
+                  Gatsby
+                </Link>
+                <Link
+                  href="https://www.typescriptlang.org/"
+                  isExternal
+                  fontWeight="bold"
+                >
+                  TypeScript
+                </Link>
+                <Link
+                  href="https://chakra-ui.com/"
+                  isExternal
+                  fontWeight="bold"
+                >
+                  Chakra UI
+                </Link>
+              </Stack>
+            </Container>
+          </Box>
+
+          {/* Get Started */}
+          <Box w="full" my={6} textAlign="center">
+            <Heading
+              as="h2"
+              size="lg"
+              mb={6}
+              color={useColorModeValue("blue.600", "blue.300")}
+            >
+              Open Source
+            </Heading>
+            <Text fontSize="lg" maxW="2xl" mx="auto" mb={8} color={textColor}>
+              This entire project is open source. You can view the code, report
+              issues, or contribute on GitHub.
+            </Text>
+            <Button
+              as={Link}
+              href="https://github.com/your-github/byedonald.com" // TODO: Update this link
+              isExternal
+              leftIcon={<FaGithub />}
+              colorScheme="blue"
+              size="lg"
+              rounded="full"
+            >
+              View on GitHub
+            </Button>
+          </Box>
+        </VStack>
+      </Container>
+    </>
+  );
+};
+
+export default AboutPage;
+
+export const Head: HeadFC = () => <title>About | Bye Donald</title>;
