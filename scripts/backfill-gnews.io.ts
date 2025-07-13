@@ -30,7 +30,7 @@ const getDatesToCheck = (): string[] => {
   const yesterday = new Date();
   yesterday.setDate(today.getDate() - 1);
 
-  const startOfYear = new Date(today.getFullYear(), 0, 1);
+  const startOfYear = new Date(2024, 0, 1);
 
   // Loop from the start of the year to yesterday
   for (
@@ -68,8 +68,8 @@ const backfillNews = async () => {
   );
   console.log("Starting gnews.io backfill process...");
 
-  // Fetch oldest missing dates first to keep the calendar chronological
-  for (const date of missingDates) {
+  // Fetch most recent missing dates first by reversing the list.
+  for (const date of missingDates.reverse()) {
     try {
       // Adding a small delay to avoid hitting API rate limits
       await new Promise((resolve) => setTimeout(resolve, 1000));

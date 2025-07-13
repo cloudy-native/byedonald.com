@@ -8,25 +8,34 @@ import {
   Link,
   SimpleGrid,
   Stack,
+  Table,
+  TableContainer,
+  Tbody,
+  Td,
   Text,
+  Th,
+  Thead,
+  Tr,
   useColorModeValue,
   VStack,
 } from "@chakra-ui/react";
-import { HeadFC, PageProps } from "gatsby";
+import { graphql, HeadFC, PageProps, useStaticQuery } from "gatsby";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import * as React from "react";
-import { FaCode, FaGithub, FaRocket } from "react-icons/fa";
+import { FaCode, FaGithub, FaSearch, FaTags } from "react-icons/fa";
 
 const AboutHero = () => {
   const bgGradient = useColorModeValue(
     "linear(to-b, blue.50, white)",
     "linear(to-b, gray.900, gray.800)"
   );
+  const bg = useColorModeValue("blue.50", "gray.900");
   const accentColor = useColorModeValue("blue.600", "blue.300");
   const textColor = useColorModeValue("gray.700", "gray.100");
 
   return (
     <Box
-      bg={useColorModeValue("blue.50", "gray.900")}
+      bg={bg}
       bgGradient={bgGradient}
       pt={16}
       pb={10}
@@ -58,7 +67,15 @@ const AboutHero = () => {
   );
 };
 
-const Feature = ({ title, text, icon }: { title: string; text: string; icon: any }) => {
+const Feature = ({
+  title,
+  text,
+  icon,
+}: {
+  title: string;
+  text: string;
+  icon: any;
+}) => {
   const bgColor = useColorModeValue("white", "gray.800");
   const borderColor = useColorModeValue("gray.200", "gray.700");
 
@@ -91,6 +108,88 @@ const Feature = ({ title, text, icon }: { title: string; text: string; icon: any
 };
 
 const AboutPage: React.FC<PageProps> = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      backgroundImages: allFile(
+        filter: { sourceInstanceName: { eq: "backgrounds" } }
+      ) {
+        nodes {
+          name
+          childImageSharp {
+            gatsbyImageData(
+              width: 100
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+      }
+    }
+  `);
+
+  const backgroundImages = data.backgroundImages.nodes;
+
+  type AttributionData = {
+    creator: string;
+    creatorLink: string;
+    imageLink?: string;
+    imageName?: string;
+    license: string;
+    licenseLink: string;
+  };
+
+  const attributionData: { [key: string]: AttributionData } = {
+    "bald-eagle": {
+      creator: "Pen Waggener",
+      creatorLink: "https://www.flickr.com/photos/epw/",
+      imageLink: "https://flic.kr/p/wMTDT",
+      imageName: "Bald Eagle",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+    "old-glory": {
+      creator: "D. Williams",
+      creatorLink: "https://www.flickr.com/photos/133435858@N02/",
+      license: "CC0 1.0",
+      licenseLink: "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    },
+    "uncle-sam": {
+      creator: "DonkeyHotey",
+      creatorLink: "https://www.flickr.com/photos/donkeyhotey/",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+    "us-capitol": {
+      creator: "ThatMakesThree",
+      creatorLink: "https://www.flickr.com/photos/thatmakesthree/",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+    "white-house": {
+      creator: "ThatMakesThree",
+      creatorLink: "https://www.flickr.com/photos/thatmakesthree/",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+    "dollar-bill": {
+      creator: "Alejandro Mallea",
+      creatorLink: "https://www.flickr.com/photos/janoma/",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+    "lincoln-memorial": {
+      creator: "Sergiy Galyonkin",
+      creatorLink: "https://www.flickr.com/photos/sergesegal/",
+      license: "CC BY-SA 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by-sa/2.0/deed.en",
+    },
+    "we-the-people": {
+      creator: "Backbone Campaign",
+      creatorLink: "https://www.flickr.com/photos/backbone_campaign/",
+      license: "CC BY 2.0",
+      licenseLink: "https://creativecommons.org/licenses/by/2.0/deed.en",
+    },
+  };
   const textColor = useColorModeValue("gray.700", "gray.300");
   const sectionBg = useColorModeValue("gray.50", "gray.800");
 
@@ -130,12 +229,12 @@ const AboutPage: React.FC<PageProps> = () => {
                 text="Every day, a script fetches the latest news articles related to Donald Trump from a variety of sources using the GNews.io API."
               />
               <Feature
-                icon={FaCode}
+                icon={FaTags}
                 title="2. Tag Articles"
                 text="Each article is then processed by Anthropic's Claude AI model, which reads the content and assigns relevant tags to categorize the news."
               />
               <Feature
-                icon={FaRocket}
+                icon={FaSearch}
                 title="3. Index for Search"
                 text="All tagged articles are sent to Algolia, which powers the fast and accurate search functionality you can use across the site."
               />
@@ -211,6 +310,96 @@ const AboutPage: React.FC<PageProps> = () => {
                 </Link>
               </Stack>
             </Container>
+          </Box>
+
+          {/* Image Attributions */}
+          <Box w="full">
+            <Heading
+              as="h2"
+              size="lg"
+              mb={6}
+              textAlign="center"
+              color={useColorModeValue("blue.600", "blue.300")}
+            >
+              Image Attributions
+            </Heading>
+            <Text
+              fontSize="lg"
+              textAlign="center"
+              maxW="3xl"
+              mx="auto"
+              color={textColor}
+              mb={10}
+            >
+              The background images used on the calendar are sourced from
+              talented photographers. We are grateful for their work.
+            </Text>
+            <TableContainer maxW="3xl" mx="auto">
+              <Table variant="simple">
+                <Thead>
+                  <Tr>
+                    <Th>Thumbnail</Th>
+                    <Th>Name</Th>
+                    <Th>Creator</Th>
+                    <Th>License</Th>
+                  </Tr>
+                </Thead>
+                <Tbody>
+                  {backgroundImages.map((image: any) => (
+                    <Tr key={image.name}>
+                      <Td>
+                        {attributionData[image.name]?.imageLink ? (
+                          <Link
+                            href={attributionData[image.name]?.imageLink!}
+                            isExternal
+                          >
+                            <GatsbyImage
+                              image={getImage(image)!}
+                              alt={`Thumbnail for ${image.name}`}
+                              style={{ borderRadius: "4px" }}
+                            />
+                          </Link>
+                        ) : (
+                          <GatsbyImage
+                            image={getImage(image)!}
+                            alt={`Thumbnail for ${image.name}`}
+                            style={{ borderRadius: "4px" }}
+                          />
+                        )}
+                      </Td>
+                      <Td>
+                        {attributionData[image.name]?.imageLink ? (
+                          <Link
+                            href={attributionData[image.name]?.imageLink!}
+                            isExternal
+                          >
+                            {attributionData[image.name]?.imageName || image.name}
+                          </Link>
+                        ) : (
+                          <>{attributionData[image.name]?.imageName || image.name}</>
+                        )}
+                      </Td>
+                      <Td>
+                        <Link
+                          href={attributionData[image.name]?.creatorLink}
+                          isExternal
+                        >
+                          {attributionData[image.name]?.creator}
+                        </Link>
+                      </Td>
+                      <Td>
+                        <Link
+                          href={attributionData[image.name]?.licenseLink}
+                          isExternal
+                        >
+                          {attributionData[image.name]?.license}
+                        </Link>
+                      </Td>
+                    </Tr>
+                  ))}
+                </Tbody>
+              </Table>
+            </TableContainer>
           </Box>
 
           {/* Get Started */}

@@ -1,23 +1,22 @@
 import {
   Box,
   Button,
-  SimpleGrid,
-  Heading,
-  Text,
-  VStack,
-  useColorModeValue,
-  Tabs,
-  TabList,
-  Tab,
-  TabPanels,
-  TabPanel,
-  Progress,
   Flex,
+  Heading,
+  HStack,
+  Progress,
+  SimpleGrid,
+  Tab,
+  TabList,
+  TabPanel,
+  TabPanels,
+  Tabs,
+  Text,
+  useColorModeValue,
+  VStack,
 } from "@chakra-ui/react";
-import { HeadFC, PageProps, useStaticQuery, graphql, Link } from "gatsby";
+import { graphql, HeadFC, Link, PageProps, useStaticQuery } from "gatsby";
 import * as React from "react";
-import { HStack } from "@chakra-ui/react";
-import Search from "../components/Search";
 
 // Helper function to get the number of days in a month
 const daysInMonth = (month: number, year: number) => {
@@ -29,30 +28,28 @@ const firstDayOfMonth = (month: number, year: number) => {
   return new Date(year, month, 1).getDay();
 };
 
-const monthNames = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
-];
+const monthNames = Array.from({ length: 12 }, (_, i) =>
+  new Date(0, i).toLocaleString("en-US", { month: "long" })
+);
 
-const dayNames = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const dayNames = Array.from({ length: 7 }, (_, i) =>
+  // Use a known Sunday (day 0) to start from
+  new Date(1970, 0, 4 + i).toLocaleString("en-US", { weekday: "short" })
+);
 
 interface MonthViewProps {
   month: number; // 0-11
   year: number;
   newsDates: Set<string>;
+  backgroundImage: string;
 }
 
-const MonthView: React.FC<MonthViewProps> = ({ month, year, newsDates }) => {
+const MonthView: React.FC<MonthViewProps> = ({
+  month,
+  year,
+  newsDates,
+  backgroundImage,
+}) => {
   const totalDays = daysInMonth(month, year);
   const startDay = firstDayOfMonth(month, year);
 
@@ -104,6 +101,7 @@ const MonthView: React.FC<MonthViewProps> = ({ month, year, newsDates }) => {
 
   const bgColor = useColorModeValue("gray.50", "gray.700");
   const borderColor = useColorModeValue("gray.200", "gray.600");
+  const textColor = useColorModeValue("blue.600", "blue.300");
 
   return (
     <VStack
@@ -114,13 +112,40 @@ const MonthView: React.FC<MonthViewProps> = ({ month, year, newsDates }) => {
       border="1px"
       borderColor={borderColor}
       align="stretch"
+      position="relative"
+      overflow="hidden"
+      sx={{
+        "&::before": {
+          content: '""',
+          position: "absolute",
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundImage: `url(${backgroundImage})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          opacity: 0.05,
+          zIndex: 0,
+        },
+        ">*": {
+          position: "relative",
+          zIndex: 1,
+        },
+      }}
     >
-      <Heading as="h3" size="md" textAlign="center">
+      <Heading as="h3" size="md" textAlign="center" color={textColor}>
         {monthNames[month]}
       </Heading>
       <SimpleGrid columns={7} spacing={1}>
         {dayNames.map((day) => (
-          <Text key={day} textAlign="center" fontWeight="bold" fontSize="sm">
+          <Text
+            key={day}
+            textAlign="center"
+            fontWeight="bold"
+            fontSize="sm"
+            color={textColor}
+          >
             {day}
           </Text>
         ))}
@@ -142,7 +167,8 @@ const TermProgressBar: React.FC = () => {
     0,
     Math.min(100, (elapsedDuration / totalDuration) * 100)
   );
-
+  const textColor = useColorModeValue("blue.600", "blue.300");
+ 
   return (
     <Box w="full" maxW="lg">
       <Progress
@@ -153,8 +179,12 @@ const TermProgressBar: React.FC = () => {
         isAnimated
       />
       <Flex justify="space-between" mt={1}>
-        <Text fontSize="xs">Inauguration Day 2025</Text>
-        <Text fontSize="xs">End of Term</Text>
+        <Text fontSize="xs" color={textColor}>
+          Inauguration Day 2025
+        </Text>
+        <Text fontSize="xs" color={textColor}>
+          End of Term
+        </Text>
       </Flex>
     </Box>
   );
@@ -192,14 +222,16 @@ const Countdown: React.FC = () => {
     return () => clearTimeout(timer);
   });
 
+  const textColor = useColorModeValue("blue.600", "blue.300");
+
   return (
     <HStack spacing={4}>
       {Object.entries(timeLeft).map(([unit, value]) => (
         <Box key={unit} textAlign="center">
-          <Text fontSize="4xl" fontWeight="bold">
+          <Text fontSize="4xl" fontWeight="bold" color={textColor}>
             {value}
           </Text>
-          <Text fontSize="sm" textTransform="uppercase">
+          <Text fontSize="sm" textTransform="uppercase" color={textColor}>
             {unit}
           </Text>
         </Box>
@@ -209,7 +241,12 @@ const Countdown: React.FC = () => {
 };
 
 const IndexPage: React.FC<PageProps> = () => {
-  const years = [2025, 2026, 2027, 2028, 2029];
+  const startYear = 2024;
+  const currentYear = new Date().getFullYear();
+  const years = Array.from(
+    { length: currentYear - startYear + 1 },
+    (_, i) => startYear + i
+  );
   const months = Array.from({ length: 12 }, (_, i) => i); // 0-11
 
   const data = useStaticQuery(graphql`
@@ -219,6 +256,13 @@ const IndexPage: React.FC<PageProps> = () => {
           name
         }
       }
+      backgroundImages: allFile(
+        filter: { sourceInstanceName: { eq: "backgrounds" } }
+      ) {
+        nodes {
+          publicURL
+        }
+      }
     }
   `);
 
@@ -226,28 +270,40 @@ const IndexPage: React.FC<PageProps> = () => {
     data.allFile.nodes.map((node: { name: string }) => node.name)
   );
 
+  const backgroundImages = data.backgroundImages.nodes;
+  const textColor = useColorModeValue("blue.600", "blue.300");
+  const bgGradient = useColorModeValue(
+    "linear(to-b, blue.50, white)",
+    "linear(to-b, gray.900, gray.800)"
+  );
+  const bg = useColorModeValue("blue.50", "gray.900");
+
   return (
-    <Box>
-      <VStack spacing={4} pt={20} px={8} textAlign="center">
-        <Heading as="h1" size="2xl">
+    <Box bg={bg} bgGradient={bgGradient} pt={16} pb={10}>
+      <VStack spacing={8} p={{ base: 4, md: 8 }}>
+        <Heading as="h1" size="2xl" color={textColor}>
           Four More Years. Deep Breaths.
         </Heading>
-        <Text fontSize="lg" maxW="2xl">
+        <Text fontSize="lg" maxW="2xl" color={textColor}>
           It's our solemn, slightly-panicked duty to keep track of it all. For
           posterity. For our sanity. For the history books that will one day
           ask, "Wait, really?"
         </Text>
         <TermProgressBar />
         <Countdown />
-        <Search />
+        {/* <Search /> */}
       </VStack>
 
       <Box p={8}>
         <VStack spacing={8} align="stretch">
-          <Heading as="h2" size="xl" textAlign="center">
+          <Heading as="h2" size="xl" textAlign="center" color={textColor}>
             News Calendar
           </Heading>
-          <Tabs isFitted variant="enclosed" defaultIndex={0}>
+          <Tabs
+            isFitted
+            variant="enclosed"
+            defaultIndex={years.indexOf(new Date().getFullYear())}
+          >
             <TabList>
               {years.map((year) => (
                 <Tab key={year} fontSize="2xl" fontWeight="bold">
@@ -263,14 +319,26 @@ const IndexPage: React.FC<PageProps> = () => {
                     spacing={8}
                     width="100%"
                   >
-                    {months.map((month) => (
-                      <MonthView
-                        key={`${year}-${month}`}
-                        month={month}
-                        year={year}
-                        newsDates={newsDates}
-                      />
-                    ))}
+                    {months.map((month, monthIndex) => {
+                      const imageIndex =
+                        backgroundImages.length > 0
+                          ? ((monthIndex + 1) * year) % backgroundImages.length
+                          : 0;
+                      const deterministicImage =
+                        backgroundImages.length > 0
+                          ? backgroundImages[imageIndex]
+                          : { publicURL: "" };
+
+                      return (
+                        <MonthView
+                          key={`${year}-${month}`}
+                          month={month}
+                          year={year}
+                          newsDates={newsDates}
+                          backgroundImage={deterministicImage.publicURL}
+                        />
+                      );
+                    })}
                   </SimpleGrid>
                 </TabPanel>
               ))}

@@ -14,7 +14,7 @@ console.log("Search Client", searchClient);
 
 function Search() {
   if (!searchClient || !indexName) {
-    return <div>Search is not implemented</div>;
+    return <div>Search is not implemented yet</div>;
   }
 
   return (

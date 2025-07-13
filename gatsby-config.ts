@@ -55,6 +55,13 @@ const config: GatsbyConfig = {
         path: `${__dirname}/data/tags/`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `backgrounds`,
+        path: `${__dirname}/static/backgrounds`,
+      },
+    },
     `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
