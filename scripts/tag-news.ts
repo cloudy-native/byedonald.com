@@ -103,8 +103,12 @@ class NewsArticleTagger {
     };
   }
 
-  private async tagSingleArticle(article: NewsArticle): Promise<string[]> {
+  public async tagSingleArticle(article: NewsArticle): Promise<string[]> {
     const prompt = this.createSingleArticlePrompt(article);
+
+    console.log("####################");
+    console.log(prompt);
+    console.log("####################");
 
     const response = await this.client.messages.create({
       model: "claude-3-haiku-20240307",
@@ -302,8 +306,8 @@ async function main() {
         continue; // Skip to the next file
       }
 
-      const taggedResult = await tagger.tagArticlesBatch(newsData);
-      // const taggedResult = await tagger.tagArticlesIndividually(newsData);
+      // const taggedResult = await tagger.tagArticlesBatch(newsData);
+      const taggedResult = await tagger.tagArticlesIndividually(newsData);
 
       await fs.writeFile(
         taggedFilePath,

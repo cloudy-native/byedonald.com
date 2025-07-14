@@ -53,10 +53,24 @@ export const TagLegend: React.FC<TagLegendProps> = ({
               borderRadius="md"
               width="100%"
             >
-              <Heading as="h4" size="sm" mb={2} color={category.color}>
-                {category.name}
-              </Heading>
-              <Wrap spacing={2}>
+              <Wrap spacing={2} align="center">
+                <Heading as="h4" size="sm" color={category.color} mr={2}>
+                  {category.name}
+                </Heading>
+                <Tag
+                  size="md"
+                  variant="solid"
+                  bg={category.color}
+                  color="white"
+                  cursor="pointer"
+                  opacity={activeTags.has(category.id) ? 1 : 0.4}
+                  onClick={() => onTagClick(category.id)}
+                  _hover={{ opacity: 1 }}
+                >
+                  (All)
+                </Tag>
+              </Wrap>
+              <Wrap spacing={2} mt={2}>
                 {categoryTags.map((tag: TagInfo) => {
                   const isActive = activeTags.has(tag.id);
                   return (

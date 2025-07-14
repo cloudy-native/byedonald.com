@@ -1,643 +1,550 @@
 {
-    "tagCategories": {
-      "government_administration": {
-        "name": "Government & Administration",
-        "description": "Executive branch operations, personnel, and administrative actions",
-        "color": "#1e40af",
-        "tags": [
-          {
-            "id": "personnel",
-            "name": "Personnel",
-            "description": "Appointments, resignations, staff changes"
-          },
-          {
-            "id": "cabinet",
-            "name": "Cabinet",
-            "description": "Cabinet member activities and decisions"
-          },
-          {
-            "id": "federal_agencies",
-            "name": "Federal Agencies",
-            "description": "EPA, DOJ, FBI, CIA, etc. activities"
-          },
-          {
-            "id": "executive_orders",
-            "name": "Executive Orders",
-            "description": "Presidential directives and mandates"
-          },
-          {
-            "id": "government_operations",
-            "name": "Government Operations",
-            "description": "Federal workflow, bureaucracy changes"
-          },
-          {
-            "id": "ethics",
-            "name": "Ethics",
-            "description": "Conflicts of interest, disclosure issues"
-          },
-          {
-            "id": "security_clearances",
-            "name": "Security Clearances",
-            "description": "Access and clearance decisions"
-          }
-        ]
-      },
-      "policy_legislation": {
-        "name": "Policy & Legislation",
-        "description": "Domestic policy initiatives and legislative actions",
-        "color": "#059669",
-        "tags": [
-          {
-            "id": "immigration",
-            "name": "Immigration",
-            "description": "Border policy, deportations, asylum, visas"
-          },
-          {
-            "id": "healthcare",
-            "name": "Healthcare",
-            "description": "ACA, Medicare, Medicaid, public health"
-          },
-          {
-            "id": "education",
-            "name": "Education",
-            "description": "School policy, funding, federal programs"
-          },
-          {
-            "id": "environment",
-            "name": "Environment",
-            "description": "Climate policy, regulations, energy"
-          },
-          {
-            "id": "energy",
-            "name": "Energy",
-            "description": "Oil, gas, renewables, infrastructure"
-          },
-          {
-            "id": "transportation",
-            "name": "Transportation",
-            "description": "Infrastructure, aviation, highways"
-          },
-          {
-            "id": "agriculture",
-            "name": "Agriculture",
-            "description": "Farm policy, trade, subsidies"
-          },
-          {
-            "id": "housing",
-            "name": "Housing",
-            "description": "HUD policies, urban development"
-          },
-          {
-            "id": "labor",
-            "name": "Labor",
-            "description": "Worker rights, unions, employment policy"
-          }
-        ]
-      },
-      "economy_finance": {
-        "name": "Economy & Finance",
-        "description": "Economic policy, financial markets, and fiscal matters",
-        "color": "#dc2626",
-        "tags": [
-          {
-            "id": "taxes",
-            "name": "Taxes",
-            "description": "Tax policy, IRS, corporate taxes"
-          },
-          {
-            "id": "trade",
-            "name": "Trade",
-            "description": "International trade deals, tariffs, exports"
-          },
-          {
-            "id": "banking",
-            "name": "Banking",
-            "description": "Financial regulations, Federal Reserve"
-          },
-          {
-            "id": "budget",
-            "name": "Budget",
-            "description": "Federal spending, debt ceiling, appropriations"
-          },
-          {
-            "id": "stock_market",
-            "name": "Stock Market",
-            "description": "Market reactions, economic indicators"
-          },
-          {
-            "id": "cryptocurrency",
-            "name": "Cryptocurrency",
-            "description": "Digital currency policy and regulation"
-          },
-          {
-            "id": "small_business",
-            "name": "Small Business",
-            "description": "SBA programs, entrepreneurship support"
-          }
-        ]
-      },
-      "foreign_policy": {
-        "name": "Foreign Policy & International",
-        "description": "International relations, diplomacy, and global affairs",
-        "color": "#7c3aed",
-        "tags": [
-          {
-            "id": "nato",
-            "name": "NATO",
-            "description": "Alliance relations, military cooperation"
-          },
-          {
-            "id": "china",
-            "name": "China",
-            "description": "Bilateral relations, trade, security"
-          },
-          {
-            "id": "russia",
-            "name": "Russia",
-            "description": "Relations, sanctions, interference"
-          },
-          {
-            "id": "middle_east",
-            "name": "Middle East",
-            "description": "Israel, Iran, Saudi Arabia, conflicts"
-          },
-          {
-            "id": "europe",
-            "name": "Europe",
-            "description": "EU relations, individual country relations"
-          },
-          {
-            "id": "asia_pacific",
-            "name": "Asia Pacific",
-            "description": "Japan, South Korea, Indo-Pacific strategy"
-          },
-          {
-            "id": "latin_america",
-            "name": "Latin America",
-            "description": "Mexico, immigration, trade"
-          },
-          {
-            "id": "africa",
-            "name": "Africa",
-            "description": "Aid, security, trade relationships"
-          },
-          {
-            "id": "international_organizations",
-            "name": "International Organizations",
-            "description": "UN, WHO, WTO interactions"
-          },
-          {
-            "id": "arms_control",
-            "name": "Arms Control",
-            "description": "Nuclear policy, weapons treaties"
-          }
-        ]
-      },
-      "legal_justice": {
-        "name": "Legal & Justice",
-        "description": "Legal proceedings, court cases, and justice system matters",
-        "color": "#b91c1c",
-        "tags": [
-          {
-            "id": "criminal_cases",
-            "name": "Criminal Cases",
-            "description": "Prosecutions, investigations, charges"
-          },
-          {
-            "id": "civil_litigation",
-            "name": "Civil Litigation",
-            "description": "Lawsuits, civil court proceedings"
-          },
-          {
-            "id": "supreme_court",
-            "name": "Supreme Court",
-            "description": "Nominations, decisions, court cases"
-          },
-          {
-            "id": "federal_courts",
-            "name": "Federal Courts",
-            "description": "Lower court appointments, rulings"
-          },
-          {
-            "id": "doj_actions",
-            "name": "DOJ Actions",
-            "description": "Department of Justice investigations"
-          },
-          {
-            "id": "congressional_investigations",
-            "name": "Congressional Investigations",
-            "description": "House/Senate inquiries"
-          },
-          {
-            "id": "impeachment",
-            "name": "Impeachment",
-            "description": "Any impeachment proceedings"
-          },
-          {
-            "id": "pardons",
-            "name": "Pardons",
-            "description": "Presidential clemency actions"
-          }
-        ]
-      },
-      "elections_politics": {
-        "name": "Elections & Politics",
-        "description": "Electoral activities, campaigns, and political processes",
-        "color": "#ea580c",
-        "tags": [
-          {
-            "id": "2026_midterms",
-            "name": "2026 Midterms",
-            "description": "Campaign activities, endorsements"
-          },
-          {
-            "id": "2028_presidential",
-            "name": "2028 Presidential",
-            "description": "Early campaign positioning"
-          },
-          {
-            "id": "voting_rights",
-            "name": "Voting Rights",
-            "description": "Election security, access, procedures"
-          },
-          {
-            "id": "campaign_finance",
-            "name": "Campaign Finance",
-            "description": "Fundraising, donations, expenditures"
-          },
-          {
-            "id": "political_endorsements",
-            "name": "Political Endorsements",
-            "description": "Candidate support, rallies"
-          },
-          {
-            "id": "redistricting",
-            "name": "Redistricting",
-            "description": "Gerrymandering, map changes"
-          },
-          {
-            "id": "state_elections",
-            "name": "State Elections",
-            "description": "Governor, legislature races"
-          }
-        ]
-      },
-      "media_communications": {
-        "name": "Media & Communications",
-        "description": "Press relations, public communications, and media interactions",
-        "color": "#0891b2",
-        "tags": [
-          {
-            "id": "social_media",
-            "name": "Social Media",
-            "description": "Truth Social, Twitter/X, other platforms"
-          },
-          {
-            "id": "press_relations",
-            "name": "Press Relations",
-            "description": "White House briefings, media access"
-          },
-          {
-            "id": "interviews",
-            "name": "Interviews",
-            "description": "TV, radio, podcast appearances"
-          },
-          {
-            "id": "rallies",
-            "name": "Rallies",
-            "description": "Campaign events, public appearances"
-          },
-          {
-            "id": "statements",
-            "name": "Statements",
-            "description": "Official communications, press releases"
-          },
-          {
-            "id": "media_criticism",
-            "name": "Media Criticism",
-            "description": "Attacks on press, fact-checking disputes"
-          }
-        ]
-      },
-      "security_intelligence": {
-        "name": "Security & Intelligence",
-        "description": "National security, defense, and intelligence matters",
-        "color": "#374151",
-        "tags": [
-          {
-            "id": "national_security",
-            "name": "National Security",
-            "description": "Defense policy, military actions"
-          },
-          {
-            "id": "intelligence",
-            "name": "Intelligence",
-            "description": "CIA, NSA, intelligence community"
-          },
-          {
-            "id": "cybersecurity",
-            "name": "Cybersecurity",
-            "description": "Digital threats, election security"
-          },
-          {
-            "id": "border_security",
-            "name": "Border Security",
-            "description": "Physical security, technology"
-          },
-          {
-            "id": "terrorism",
-            "name": "Terrorism",
-            "description": "Domestic and international threats"
-          },
-          {
-            "id": "military",
-            "name": "Military",
-            "description": "Defense spending, troop deployments"
-          },
-          {
-            "id": "veterans_affairs",
-            "name": "Veterans Affairs",
-            "description": "VA policy, veteran services"
-          }
-        ]
-      },
-      "social_issues": {
-        "name": "Social Issues & Culture",
-        "description": "Civil rights, social policy, and cultural matters",
-        "color": "#be185d",
-        "tags": [
-          {
-            "id": "civil_rights",
-            "name": "Civil Rights",
-            "description": "Discrimination, equality, protection"
-          },
-          {
-            "id": "lgbtq_rights",
-            "name": "LGBTQ+ Rights",
-            "description": "Policy affecting LGBTQ+ community"
-          },
-          {
-            "id": "womens_rights",
-            "name": "Women's Rights",
-            "description": "Gender equality, reproductive rights"
-          },
-          {
-            "id": "religious_freedom",
-            "name": "Religious Freedom",
-            "description": "First Amendment, religious policy"
-          },
-          {
-            "id": "gun_policy",
-            "name": "Gun Policy",
-            "description": "Second Amendment, firearm regulations"
-          },
-          {
-            "id": "free_speech",
-            "name": "Free Speech",
-            "description": "First Amendment, censorship issues"
-          },
-          {
-            "id": "racial_justice",
-            "name": "Racial Justice",
-            "description": "Discrimination, policing, equity"
-          }
-        ]
-      },
-      "health_science": {
-        "name": "Health & Science",
-        "description": "Public health, medical policy, and scientific matters",
-        "color": "#059669",
-        "tags": [
-          {
-            "id": "public_health",
-            "name": "Public Health",
-            "description": "CDC, disease prevention, health policy"
-          },
-          {
-            "id": "medical_research",
-            "name": "Medical Research",
-            "description": "NIH, FDA, drug approval"
-          },
-          {
-            "id": "mental_health",
-            "name": "Mental Health",
-            "description": "Policy, funding, services"
-          },
-          {
-            "id": "science_policy",
-            "name": "Science Policy",
-            "description": "Research funding, scientific integrity"
-          },
-          {
-            "id": "technology_regulation",
-            "name": "Technology Regulation",
-            "description": "AI, social media, privacy"
-          },
-          {
-            "id": "space_policy",
-            "name": "Space Policy",
-            "description": "NASA, commercial space, exploration"
-          }
-        ]
-      },
-      "personal_family": {
-        "name": "Personal & Family",
-        "description": "Personal life, family activities, and private matters",
-        "color": "#7c2d12",
-        "tags": [
-          {
-            "id": "family_activities",
-            "name": "Family Activities",
-            "description": "Spouse, children, family events"
-          },
-          {
-            "id": "personal_business",
-            "name": "Personal Business",
-            "description": "Trump Organization, properties"
-          },
-          {
-            "id": "personal_legal",
-            "name": "Personal Legal",
-            "description": "Individual legal matters"
-          },
-          {
-            "id": "health",
-            "name": "Health",
-            "description": "Medical appointments, health updates"
-          },
-          {
-            "id": "travel",
-            "name": "Travel",
-            "description": "Personal trips, Mar-a-Lago visits"
-          },
-          {
-            "id": "lifestyle",
-            "name": "Lifestyle",
-            "description": "Personal interests, hobbies"
-          }
-        ]
-      },
-      "regional_state": {
-        "name": "Regional & State",
-        "description": "State-specific activities and regional matters",
-        "color": "#0369a1",
-        "tags": [
-          {
-            "id": "florida",
-            "name": "Florida",
-            "description": "Mar-a-Lago, state-specific activities"
-          },
-          {
-            "id": "new_york",
-            "name": "New York",
-            "description": "Trump Tower, state legal matters"
-          },
-          {
-            "id": "washington_dc",
-            "name": "Washington DC",
-            "description": "White House, federal district"
-          },
-          {
-            "id": "california",
-            "name": "California",
-            "description": "State-specific interactions"
-          },
-          {
-            "id": "texas",
-            "name": "Texas",
-            "description": "Border issues, state relations"
-          },
-          {
-            "id": "swing_states",
-            "name": "Swing States",
-            "description": "Pennsylvania, Michigan, Wisconsin, etc."
-          }
-        ]
-      },
-      "crisis_emergency": {
-        "name": "Crisis & Emergency",
-        "description": "Emergency responses and crisis management",
-        "color": "#dc2626",
-        "tags": [
-          {
-            "id": "natural_disasters",
-            "name": "Natural Disasters",
-            "description": "Hurricane, earthquake, wildfire response"
-          },
-          {
-            "id": "economic_crisis",
-            "name": "Economic Crisis",
-            "description": "Recession, financial emergency response"
-          },
-          {
-            "id": "public_health_emergency",
-            "name": "Public Health Emergency",
-            "description": "Disease outbreaks, health crises"
-          },
-          {
-            "id": "security_incidents",
-            "name": "Security Incidents",
-            "description": "Threats, breaches, incidents"
-          },
-          {
-            "id": "international_crisis",
-            "name": "International Crisis",
-            "description": "Wars, conflicts, emergencies"
-          }
-        ]
-      }
+  "tagCategories": {
+    "government_administration": {
+      "name": "Government & Administration",
+      "description": "Executive branch operations, personnel, and administrative actions",
+      "color": "#1e40af",
+      "tags": [
+        {
+          "id": "personnel",
+          "name": "Personnel",
+          "description": "Appointments, resignations, staff changes"
+        },
+        {
+          "id": "cabinet",
+          "name": "Cabinet",
+          "description": "Cabinet member activities and decisions"
+        },
+        {
+          "id": "federal_agencies",
+          "name": "Federal Agencies",
+          "description": "EPA, DOJ, FBI, CIA, etc. activities"
+        },
+        {
+          "id": "executive_orders",
+          "name": "Executive Orders",
+          "description": "Presidential directives and mandates"
+        },
+        {
+          "id": "government_operations",
+          "name": "Government Operations",
+          "description": "Federal workflow, bureaucracy changes"
+        },
+        {
+          "id": "ethics",
+          "name": "Ethics",
+          "description": "Conflicts of interest, disclosure issues"
+        },
+        {
+          "id": "security_clearances",
+          "name": "Security Clearances",
+          "description": "Access and clearance decisions"
+        }
+      ]
     },
-    "tagIndex": {
-      "personnel": "government_administration",
-      "cabinet": "government_administration",
-      "federal_agencies": "government_administration",
-      "executive_orders": "government_administration",
-      "government_operations": "government_administration",
-      "ethics": "government_administration",
-      "security_clearances": "government_administration",
-      "immigration": "policy_legislation",
-      "healthcare": "policy_legislation",
-      "education": "policy_legislation",
-      "environment": "policy_legislation",
-      "energy": "policy_legislation",
-      "transportation": "policy_legislation",
-      "agriculture": "policy_legislation",
-      "housing": "policy_legislation",
-      "labor": "policy_legislation",
-      "taxes": "economy_finance",
-      "trade": "economy_finance",
-      "banking": "economy_finance",
-      "budget": "economy_finance",
-      "stock_market": "economy_finance",
-      "cryptocurrency": "economy_finance",
-      "small_business": "economy_finance",
-      "nato": "foreign_policy",
-      "china": "foreign_policy",
-      "russia": "foreign_policy",
-      "middle_east": "foreign_policy",
-      "europe": "foreign_policy",
-      "asia_pacific": "foreign_policy",
-      "latin_america": "foreign_policy",
-      "africa": "foreign_policy",
-      "international_organizations": "foreign_policy",
-      "arms_control": "foreign_policy",
-      "criminal_cases": "legal_justice",
-      "civil_litigation": "legal_justice",
-      "supreme_court": "legal_justice",
-      "federal_courts": "legal_justice",
-      "doj_actions": "legal_justice",
-      "congressional_investigations": "legal_justice",
-      "impeachment": "legal_justice",
-      "pardons": "legal_justice",
-      "2026_midterms": "elections_politics",
-      "2028_presidential": "elections_politics",
-      "voting_rights": "elections_politics",
-      "campaign_finance": "elections_politics",
-      "political_endorsements": "elections_politics",
-      "redistricting": "elections_politics",
-      "state_elections": "elections_politics",
-      "social_media": "media_communications",
-      "press_relations": "media_communications",
-      "interviews": "media_communications",
-      "rallies": "media_communications",
-      "statements": "media_communications",
-      "media_criticism": "media_communications",
-      "national_security": "security_intelligence",
-      "intelligence": "security_intelligence",
-      "cybersecurity": "security_intelligence",
-      "border_security": "security_intelligence",
-      "terrorism": "security_intelligence",
-      "military": "security_intelligence",
-      "veterans_affairs": "security_intelligence",
-      "civil_rights": "social_issues",
-      "lgbtq_rights": "social_issues",
-      "womens_rights": "social_issues",
-      "religious_freedom": "social_issues",
-      "gun_policy": "social_issues",
-      "free_speech": "social_issues",
-      "racial_justice": "social_issues",
-      "public_health": "health_science",
-      "medical_research": "health_science",
-      "mental_health": "health_science",
-      "science_policy": "health_science",
-      "technology_regulation": "health_science",
-      "space_policy": "health_science",
-      "family_activities": "personal_family",
-      "personal_business": "personal_family",
-      "personal_legal": "personal_family",
-      "health": "personal_family",
-      "travel": "personal_family",
-      "lifestyle": "personal_family",
-      "florida": "regional_state",
-      "new_york": "regional_state",
-      "washington_dc": "regional_state",
-      "california": "regional_state",
-      "texas": "regional_state",
-      "swing_states": "regional_state",
-      "natural_disasters": "crisis_emergency",
-      "economic_crisis": "crisis_emergency",
-      "public_health_emergency": "crisis_emergency",
-      "security_incidents": "crisis_emergency",
-      "international_crisis": "crisis_emergency"
+    "policy_legislation": {
+      "name": "Policy & Legislation",
+      "description": "Domestic policy initiatives and legislative actions",
+      "color": "#059669",
+      "tags": [
+        {
+          "id": "immigration",
+          "name": "Immigration",
+          "description": "Border policy, deportations, asylum, visas"
+        },
+        {
+          "id": "healthcare",
+          "name": "Healthcare",
+          "description": "ACA, Medicare, Medicaid, public health"
+        },
+        {
+          "id": "education",
+          "name": "Education",
+          "description": "School policy, funding, federal programs"
+        },
+        {
+          "id": "environment",
+          "name": "Environment",
+          "description": "Climate policy, regulations, energy"
+        },
+        {
+          "id": "energy",
+          "name": "Energy",
+          "description": "Oil, gas, renewables, infrastructure"
+        },
+        {
+          "id": "transportation",
+          "name": "Transportation",
+          "description": "Infrastructure, aviation, highways"
+        },
+        {
+          "id": "agriculture",
+          "name": "Agriculture",
+          "description": "Farm policy, trade, subsidies"
+        },
+        {
+          "id": "housing",
+          "name": "Housing",
+          "description": "HUD policies, urban development"
+        },
+        {
+          "id": "labor",
+          "name": "Labor",
+          "description": "Worker rights, unions, employment policy"
+        }
+      ]
+    },
+    "economy_finance": {
+      "name": "Economy & Finance",
+      "description": "Economic policy, financial markets, and fiscal matters",
+      "color": "#dc2626",
+      "tags": [
+        {
+          "id": "taxes",
+          "name": "Taxes",
+          "description": "Tax policy, IRS, corporate taxes"
+        },
+        {
+          "id": "trade",
+          "name": "Trade",
+          "description": "International trade deals, tariffs, exports"
+        },
+        {
+          "id": "banking",
+          "name": "Banking",
+          "description": "Financial regulations, Federal Reserve"
+        },
+        {
+          "id": "budget",
+          "name": "Budget",
+          "description": "Federal spending, debt ceiling, appropriations"
+        },
+        {
+          "id": "stock_market",
+          "name": "Stock Market",
+          "description": "Market reactions, economic indicators"
+        },
+        {
+          "id": "cryptocurrency",
+          "name": "Cryptocurrency",
+          "description": "Digital currency policy and regulation"
+        },
+        {
+          "id": "small_business",
+          "name": "Small Business",
+          "description": "SBA programs, entrepreneurship support"
+        }
+      ]
+    },
+    "foreign_policy": {
+      "name": "Foreign Policy & International",
+      "description": "International relations, diplomacy, and global affairs",
+      "color": "#7c3aed",
+      "tags": [
+        {
+          "id": "nato",
+          "name": "NATO",
+          "description": "Alliance relations, military cooperation"
+        },
+        {
+          "id": "china",
+          "name": "China",
+          "description": "Bilateral relations, trade, security"
+        },
+        {
+          "id": "russia",
+          "name": "Russia",
+          "description": "Relations, sanctions, interference"
+        },
+        {
+          "id": "middle_east",
+          "name": "Middle East",
+          "description": "Israel, Iran, Saudi Arabia, conflicts"
+        },
+        {
+          "id": "europe",
+          "name": "Europe",
+          "description": "EU relations, individual country relations"
+        },
+        {
+          "id": "asia_pacific",
+          "name": "Asia Pacific",
+          "description": "Japan, South Korea, Indo-Pacific strategy"
+        },
+        {
+          "id": "latin_america",
+          "name": "Latin America",
+          "description": "Mexico, immigration, trade"
+        },
+        {
+          "id": "africa",
+          "name": "Africa",
+          "description": "Aid, security, trade relationships"
+        },
+        {
+          "id": "international_organizations",
+          "name": "International Organizations",
+          "description": "UN, WHO, WTO interactions"
+        },
+        {
+          "id": "arms_control",
+          "name": "Arms Control",
+          "description": "Nuclear policy, weapons treaties"
+        }
+      ]
+    },
+    "legal_justice": {
+      "name": "Legal & Justice",
+      "description": "Legal proceedings, court cases, and justice system matters",
+      "color": "#b91c1c",
+      "tags": [
+        {
+          "id": "criminal_cases",
+          "name": "Criminal Cases",
+          "description": "Prosecutions, investigations, charges"
+        },
+        {
+          "id": "civil_litigation",
+          "name": "Civil Litigation",
+          "description": "Lawsuits, civil court proceedings"
+        },
+        {
+          "id": "supreme_court",
+          "name": "Supreme Court",
+          "description": "Nominations, decisions, court cases"
+        },
+        {
+          "id": "federal_courts",
+          "name": "Federal Courts",
+          "description": "Lower court appointments, rulings"
+        },
+        {
+          "id": "doj_actions",
+          "name": "DOJ Actions",
+          "description": "Department of Justice investigations"
+        },
+        {
+          "id": "congressional_investigations",
+          "name": "Congressional Investigations",
+          "description": "House/Senate inquiries"
+        },
+        {
+          "id": "impeachment",
+          "name": "Impeachment",
+          "description": "Any impeachment proceedings"
+        },
+        {
+          "id": "pardons",
+          "name": "Pardons",
+          "description": "Presidential clemency actions"
+        }
+      ]
+    },
+    "elections_politics": {
+      "name": "Elections & Politics",
+      "description": "Electoral activities, campaigns, and political processes",
+      "color": "#ea580c",
+      "tags": [
+        {
+          "id": "2026_midterms",
+          "name": "2026 Midterms",
+          "description": "Campaign activities, endorsements"
+        },
+        {
+          "id": "2028_presidential",
+          "name": "2028 Presidential",
+          "description": "Early campaign positioning"
+        },
+        {
+          "id": "voting_rights",
+          "name": "Voting Rights",
+          "description": "Election security, access, procedures"
+        },
+        {
+          "id": "campaign_finance",
+          "name": "Campaign Finance",
+          "description": "Fundraising, donations, expenditures"
+        },
+        {
+          "id": "political_endorsements",
+          "name": "Political Endorsements",
+          "description": "Candidate support, rallies"
+        },
+        {
+          "id": "redistricting",
+          "name": "Redistricting",
+          "description": "Gerrymandering, map changes"
+        },
+        {
+          "id": "state_elections",
+          "name": "State Elections",
+          "description": "Governor, legislature races"
+        }
+      ]
+    },
+    "media_communications": {
+      "name": "Media & Communications",
+      "description": "Press relations, public communications, and media interactions",
+      "color": "#0891b2",
+      "tags": [
+        {
+          "id": "social_media",
+          "name": "Social Media",
+          "description": "Truth Social, Twitter/X, other platforms"
+        },
+        {
+          "id": "press_relations",
+          "name": "Press Relations",
+          "description": "White House briefings, media access"
+        },
+        {
+          "id": "interviews",
+          "name": "Interviews",
+          "description": "TV, radio, podcast appearances"
+        },
+        {
+          "id": "rallies",
+          "name": "Rallies",
+          "description": "Campaign events, public appearances"
+        },
+        {
+          "id": "statements",
+          "name": "Statements",
+          "description": "Official communications, press releases"
+        },
+        {
+          "id": "media_criticism",
+          "name": "Media Criticism",
+          "description": "Attacks on press, fact-checking disputes"
+        }
+      ]
+    },
+    "security_intelligence": {
+      "name": "Security & Intelligence",
+      "description": "National security, defense, and intelligence matters",
+      "color": "#374151",
+      "tags": [
+        {
+          "id": "national_security",
+          "name": "National Security",
+          "description": "Defense policy, military actions"
+        },
+        {
+          "id": "intelligence",
+          "name": "Intelligence",
+          "description": "CIA, NSA, intelligence community"
+        },
+        {
+          "id": "cybersecurity",
+          "name": "Cybersecurity",
+          "description": "Digital threats, election security"
+        },
+        {
+          "id": "border_security",
+          "name": "Border Security",
+          "description": "Physical security, technology"
+        },
+        {
+          "id": "terrorism",
+          "name": "Terrorism",
+          "description": "Domestic and international threats"
+        },
+        {
+          "id": "military",
+          "name": "Military",
+          "description": "Defense spending, troop deployments"
+        },
+        {
+          "id": "veterans_affairs",
+          "name": "Veterans Affairs",
+          "description": "VA policy, veteran services"
+        }
+      ]
+    },
+    "social_issues": {
+      "name": "Social Issues & Culture",
+      "description": "Civil rights, social policy, and cultural matters",
+      "color": "#be185d",
+      "tags": [
+        {
+          "id": "civil_rights",
+          "name": "Civil Rights",
+          "description": "Discrimination, equality, protection"
+        },
+        {
+          "id": "lgbtq_rights",
+          "name": "LGBTQ+ Rights",
+          "description": "Policy affecting LGBTQ+ community"
+        },
+        {
+          "id": "womens_rights",
+          "name": "Women's Rights",
+          "description": "Gender equality, reproductive rights"
+        },
+        {
+          "id": "religious_freedom",
+          "name": "Religious Freedom",
+          "description": "First Amendment, religious policy"
+        },
+        {
+          "id": "gun_policy",
+          "name": "Gun Policy",
+          "description": "Second Amendment, firearm regulations"
+        },
+        {
+          "id": "free_speech",
+          "name": "Free Speech",
+          "description": "First Amendment, censorship issues"
+        },
+        {
+          "id": "racial_justice",
+          "name": "Racial Justice",
+          "description": "Discrimination, policing, equity"
+        }
+      ]
+    },
+    "health_science": {
+      "name": "Health & Science",
+      "description": "Public health, medical policy, and scientific matters",
+      "color": "#059669",
+      "tags": [
+        {
+          "id": "public_health",
+          "name": "Public Health",
+          "description": "CDC, disease prevention, health policy"
+        },
+        {
+          "id": "medical_research",
+          "name": "Medical Research",
+          "description": "NIH, FDA, drug approval"
+        },
+        {
+          "id": "mental_health",
+          "name": "Mental Health",
+          "description": "Policy, funding, services"
+        },
+        {
+          "id": "science_policy",
+          "name": "Science Policy",
+          "description": "Research funding, scientific integrity"
+        },
+        {
+          "id": "technology_regulation",
+          "name": "Technology Regulation",
+          "description": "AI, social media, privacy"
+        },
+        {
+          "id": "space_policy",
+          "name": "Space Policy",
+          "description": "NASA, commercial space, exploration"
+        }
+      ]
+    },
+    "personal_family": {
+      "name": "Personal & Family",
+      "description": "Personal life, family activities, and private matters",
+      "color": "#7c2d12",
+      "tags": [
+        {
+          "id": "family_activities",
+          "name": "Family Activities",
+          "description": "Spouse, children, family events"
+        },
+        {
+          "id": "personal_business",
+          "name": "Personal Business",
+          "description": "Trump Organization, properties"
+        },
+        {
+          "id": "personal_legal",
+          "name": "Personal Legal",
+          "description": "Individual legal matters"
+        },
+        {
+          "id": "health",
+          "name": "Health",
+          "description": "Medical appointments, health updates"
+        },
+        {
+          "id": "travel",
+          "name": "Travel",
+          "description": "Personal trips, Mar-a-Lago visits"
+        },
+        {
+          "id": "lifestyle",
+          "name": "Lifestyle",
+          "description": "Personal interests, hobbies"
+        }
+      ]
+    },
+    "regional_state": {
+      "name": "Regional & State",
+      "description": "State-specific activities and regional matters",
+      "color": "#0369a1",
+      "tags": [
+        {
+          "id": "florida",
+          "name": "Florida",
+          "description": "Mar-a-Lago, state-specific activities"
+        },
+        {
+          "id": "new_york",
+          "name": "New York",
+          "description": "Trump Tower, state legal matters"
+        },
+        {
+          "id": "washington_dc",
+          "name": "Washington DC",
+          "description": "White House, federal district"
+        },
+        {
+          "id": "california",
+          "name": "California",
+          "description": "State-specific interactions"
+        },
+        {
+          "id": "texas",
+          "name": "Texas",
+          "description": "Border issues, state relations"
+        },
+        {
+          "id": "swing_states",
+          "name": "Swing States",
+          "description": "Pennsylvania, Michigan, Wisconsin, etc."
+        }
+      ]
+    },
+    "crisis_emergency": {
+      "name": "Crisis & Emergency",
+      "description": "Emergency responses and crisis management",
+      "color": "#dc2626",
+      "tags": [
+        {
+          "id": "natural_disasters",
+          "name": "Natural Disasters",
+          "description": "Hurricane, earthquake, wildfire response"
+        },
+        {
+          "id": "economic_crisis",
+          "name": "Economic Crisis",
+          "description": "Recession, financial emergency response"
+        },
+        {
+          "id": "public_health_emergency",
+          "name": "Public Health Emergency",
+          "description": "Disease outbreaks, health crises"
+        },
+        {
+          "id": "security_incidents",
+          "name": "Security Incidents",
+          "description": "Threats, breaches, incidents"
+        },
+        {
+          "id": "international_crisis",
+          "name": "International Crisis",
+          "description": "Wars, conflicts, emergencies"
+        }
+      ]
     }
   }
+}
