@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -57,25 +57,6 @@
         "elections_politics",
         "economy_finance",
         "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Trump announces travel ban affecting a dozen countries set to go into effect Monday",
-      "description": "WASHINGTON (AP) — President Donald Trump is resurrecting the travel ban policy from his first term, signing a proclamation Wednesday night preventing people from a dozen countries from entering the",
-      "url": "https://www.thestar.com/news/world/united-states/trump-announces-travel-ban-affecting-a-dozen-countries-set-to-go-into-effect-monday/article_30cfdb4e-3b5e-5d8a-ba70-0c63dde65490.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/3e/b3e2b318-86cc-5ab6-8b40-55f5ff77bc49/6840dcd4cd627.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-06-04T23:53:28Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "foreign_policy",
-        "border_security",
-        "national_security",
-        "security_intelligence"
       ]
     },
     {

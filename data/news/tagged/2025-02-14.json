@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 534,
+  "totalResults": 8,
   "articles": [
     {
       "source": {
@@ -62,26 +62,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Globe and Mail"
-      },
-      "author": "The Globe and Mail",
-      "title": "Trump creates council for ‘energy dominance,’ boosts natural gas exports and offshore drilling",
-      "description": "Trump also vowed to revive a cancelled pipeline that would carry natural gas from Pennsylvania to New York",
-      "url": "https://www.theglobeandmail.com/world/article-trump-creates-council-for-energy-dominance-boosts-natural-gas-exports/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/TVQGUUEJQFE55JV4KRMW2YQBRM.jpg?auth=7ee8466942c263403125d1739532564dd4f816233df06573854104120d95ad77&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2025-02-14T23:48:33Z",
-      "content": "President Donald Trump on Friday signed an executive order formally creating a National Energy Dominance Council and directed it to move quickly to drive up already record-setting domestic oil and gas production.\nTrump’s administration also announced... [5205 chars]",
-      "tags": [
-        "energy",
-        "environment",
-        "foreign_policy",
-        "government_administration",
-        "policy_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Indian Express"
       },
       "author": "The Indian Express",
@@ -97,26 +77,6 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Canada Finance"
-      },
-      "author": "Yahoo Canada Finance",
-      "title": "Trump creates council for 'energy dominance,' boosts natural gas exports and offshore drilling",
-      "description": "WASHINGTON (AP) — President Donald Trump on Friday signed an executive order formally creating a National Energy Dominance Council and directed it to move quickly to drive up already record-setting domestic oil and gas production.",
-      "url": "https://ca.finance.yahoo.com/news/trump-creates-council-energy-dominance-234532042.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VULknJV0XiCNY0iERdlk0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cp_finance_889/441755b7814b600d7907e242dc632972",
-      "publishedAt": "2025-02-14T23:45:32Z",
-      "content": "WASHINGTON (AP) — President Donald Trump on Friday signed an executive order formally creating a National Energy Dominance Council and directed it to move quickly to drive up already record-setting domestic oil and gas production.\nTrump's administrat... [2516 chars]",
-      "tags": [
-        "government_administration",
-        "executive_orders",
-        "energy",
-        "policy_legislation",
-        "environment"
       ]
     },
     {

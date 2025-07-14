@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -35,9 +35,9 @@
       "publishedAt": "2025-07-11T23:33:15Z",
       "content": "Music stocks had a mixed week as markets fell in reaction to President Trump’s escalating trade war.\nOn the positive side, Netease Cloud Music added to its hot streak by rising 8.9% to 241.00 HKD ($30.70) in the week ended July 11. The Chinese music ... [2777 chars]",
       "tags": [
-        "ECONOMY_FINANCE",
-        "FOREIGN_POLICY",
-        "TRADE"
+        "economy_finance",
+        "foreign_policy",
+        "trade"
       ]
     },
     {
@@ -152,26 +152,6 @@
         "trade",
         "economy_finance",
         "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RTE.ie"
-      },
-      "author": "RTE.ie",
-      "title": "Trump visits Texas flood zone, defends disaster response",
-      "description": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the stricken Hill Country region, where at least 120 people, including dozens of children, perished a week ago.",
-      "url": "https://www.rte.ie/news/us/2025/0712/1523150-trump-texas-flood/",
-      "urlToImage": "https://www.rte.ie/images/0022de1c-1600.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the stricken Hill Country region, where at least 120 people, including dozens of children, perished a week ago.\nDuring a roundtable ... [3680 chars]",
-      "tags": [
-        "natural_disasters",
-        "regional_state",
-        "texas",
-        "government_administration",
-        "crisis_emergency"
       ]
     },
     {

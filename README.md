@@ -4,6 +4,17 @@ This is a static site built with Gatsby. It displays news articles relating to D
 
 See the About page for image attributions.
 
+# News sources
+
+We use one of 2 aggregators:
+
+| Aggregator | Max Requests per Day | Number of Articles | Date Range |
+| --- | --- | --- | --- |
+| [gnews.io](https://gnews.io) | 100 | 10 | Way back |
+| [newsapi.org](https://newsapi.org) | 100 | 100 | Last 30 days |
+
+For recent dates we use newsapi.org, and for older dates we use gnews.io.
+
 # Build and deploy
 
 ## Build and index articles
@@ -45,6 +56,10 @@ It can take a few minutes for the changes to be visible. If you're in a hurry, y
 
 ## Fetch news
 
+### For dates > 30 days in the past
+
+Use gnews.io.
+
 Set the API key
 
 ```
@@ -61,6 +76,28 @@ Backfill for missing dates
 
 ```
 npm run backfill-gnews.io
+```
+
+### For dates < 30 days in the past
+
+Use newsapi.org.
+
+Set the API key
+
+```
+export NEWSAPI_API_KEY='xxx'
+```
+
+Get news for a given date
+
+```
+npm run fetch-newsapi.org -- 2025-01-31
+```
+
+Backfill for missing dates
+
+```
+npm run backfill-newsapi.org
 ```
 
 ## Tag news

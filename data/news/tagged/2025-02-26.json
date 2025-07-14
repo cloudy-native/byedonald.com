@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -78,25 +78,6 @@
         "security_intelligence",
         "media_communications",
         "personal_family"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Trump administration cutting 90% of USAID foreign aid contracts, documents show",
-      "description": "WASHINGTON (AP) — The Trump administration said Wednesday it is eliminating more than 90% of the U.S. Agency for International Development’s foreign aid contracts and $60 billion in overall U.S.",
-      "url": "https://www.thestar.com/news/world/united-states/trump-administration-cutting-90-of-usaid-foreign-aid-contracts-documents-show/article_fc80db73-1a71-5367-8019-4ad12471bdbd.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/96/e960814c-5954-59d3-b59d-57233113f812/67bfa5256925b.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-02-26T23:29:00Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "government_operations",
-        "foreign_policy",
-        "policy_legislation",
-        "economy_finance"
       ]
     }
   ]

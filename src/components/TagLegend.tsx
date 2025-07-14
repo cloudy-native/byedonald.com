@@ -1,121 +1,91 @@
 import {
   Box,
   Button,
+  Heading,
   Tag,
   Tooltip,
+  VStack,
   Wrap,
   WrapItem,
-  VStack,
-  Text,
-  HStack,
 } from "@chakra-ui/react";
 import React from "react";
-import {
-  getAllTagCategories,
-  getTagsByCategoryId,
-  Tag as TagType,
-} from "../utils/tags";
+import { getAllTags, getAllTagCategories, TagInfo } from "../utils/tags";
+
+// Get tag data once
+const TAGS = getAllTags();
+const TAG_CATEGORIES = getAllTagCategories();
 
 interface TagLegendProps {
-  activeTags: Record<string, string[]>;
-  onTagClick: (tagId: string, categoryId: string, isCategoryToggle?: boolean) => void;
-  relevantTagIds: string[];
+  activeTags: Set<string>;
+  onTagClick: (tagId: string) => void;
+  onClear: () => void;
+  relevantTagIds: Set<string>;
 }
 
-const TagLegend: React.FC<TagLegendProps> = ({
+export const TagLegend: React.FC<TagLegendProps> = ({
   activeTags,
   onTagClick,
+  onClear,
   relevantTagIds,
 }) => {
-  const tagCategories = getAllTagCategories();
-  const noTagsSelected = Object.keys(activeTags).length === 0;
-
-  const handleClear = () => {
-    onTagClick('', '', false);
-  };
-
   return (
     <Box mb={8}>
-      <Wrap spacing={4} align="flex-start">
-        {tagCategories.map(category => {
-          const isCategoryRelevant = relevantTagIds.includes(category.id);
-          const tagsInCategory = getTagsByCategoryId(category.id);
-          const relevantTagsInCategory = tagsInCategory.filter(tag =>
-            relevantTagIds.includes(tag.id)
+      <VStack spacing={4} align="stretch">
+        {TAG_CATEGORIES.map((category) => {
+          const categoryTags = TAGS.filter(
+            (tag) => tag.category.id === category.id && relevantTagIds.has(tag.id)
           );
 
-          if (relevantTagsInCategory.length === 0 && !isCategoryRelevant) {
+          if (categoryTags.length === 0) {
             return null;
           }
 
-          return (
-            <WrapItem key={category.id}>
-              <Box
-                borderWidth="1px"
-                borderRadius="lg"
-                p={3}
-                boxShadow="sm"
-                minH="110px"
-              >
-                <Text fontWeight="bold" color={category.color} mb={2}>
-                  {category.name}
-                </Text>
-                <Wrap spacing={2} align="center">
-                  <WrapItem key={`${category.id}-all`}>
-                    <Tooltip
-                      label={`Toggle all ${category.name} tags`}
-                      placement="top"
-                      hasArrow
-                    >
-                      <Tag
-                        size="md"
-                        variant="solid"
-                        bg={category.color}
-                        color="white"
-                        cursor="pointer"
-                        onClick={() => onTagClick(category.id, category.id, true)}
-                        opacity={relevantTagsInCategory.every(t => activeTags[category.id]?.includes(t.id)) ? 1 : 0.4}
-                        _hover={{ opacity: 1 }}
-                      >
-                        (All)
-                      </Tag>
-                    </Tooltip>
-                  </WrapItem>
+          const isActiveCategory = categoryTags.some((tag) =>
+            activeTags.has(tag.id)
+          );
 
-                  {relevantTagsInCategory.map((tag: TagType) => {
-                    const isActive = noTagsSelected || (activeTags[category.id] && activeTags[category.id].includes(tag.id));
-                    return (
-                      <WrapItem key={tag.id}>
-                        <Tooltip
-                          label={tag.description}
-                          placement="top"
-                          hasArrow
+          return (
+            <Box
+              key={category.id}
+              p={4}
+              borderWidth={2}
+              borderColor={isActiveCategory ? category.color : "gray.200"}
+              borderRadius="md"
+              width="100%"
+            >
+              <Heading as="h4" size="sm" mb={2} color={category.color}>
+                {category.name}
+              </Heading>
+              <Wrap spacing={2}>
+                {categoryTags.map((tag: TagInfo) => {
+                  const isActive = activeTags.has(tag.id);
+                  return (
+                    <WrapItem key={tag.id}>
+                      <Tooltip label={tag.description} placement="top" hasArrow>
+                        <Tag
+                          size="md"
+                          variant="solid"
+                          bg={category.color}
+                          color="white"
+                          cursor="pointer"
+                          opacity={isActive ? 1 : 0.4}
+                          onClick={() => onTagClick(tag.id)}
+                          _hover={{ opacity: 1 }}
                         >
-                          <Tag
-                            size="md"
-                            variant="solid"
-                            bg={category.color}
-                            color="white"
-                            cursor="pointer"
-                            opacity={isActive ? 1 : 0.4}
-                            onClick={() => onTagClick(tag.id, category.id)}
-                            _hover={{ opacity: 1 }}
-                          >
-                            {tag.name}
-                          </Tag>
-                        </Tooltip>
-                      </WrapItem>
-                    );
-                  })}
-                </Wrap>
-              </Box>
-            </WrapItem>
+                          {tag.name}
+                        </Tag>
+                      </Tooltip>
+                    </WrapItem>
+                  );
+                })}
+              </Wrap>
+            </Box>
           );
         })}
-      </Wrap>
-      {!noTagsSelected && (
-        <Button mt={4} size="sm" onClick={handleClear}>
-          Show All Articles
+      </VStack>
+      {activeTags.size > 0 && (
+        <Button mt={4} size="sm" onClick={onClear}>
+          Clear All Filters
         </Button>
       )}
     </Box>

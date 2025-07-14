@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -78,24 +78,6 @@
         "middle_east",
         "national_security",
         "crisis_emergency"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Associated Press"
-      },
-      "author": "The Associated Press",
-      "title": "Trump invokes 18th century law to speed deportations, judge stalls it hours later",
-      "description": "A federal judge barred the Trump administration Saturday from carrying out deportations under a sweeping 18th century law that the president invoked just hours earlier to speed removal of Venezuelan gang members from the United States.",
-      "url": "https://apnews.com/article/trump-aclu-deportations-venezuelans-b2566f05b10bf1cde1caf467a3b001cc",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8644f07/2147483647/strip/true/crop/5636x3170+0+296/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F46%2F7ae0f48241d3b6910e9a25ee8cb9%2Fap24263667266770.jpg",
-      "publishedAt": "2025-03-15T22:41:27Z",
-      "content": "WASHINGTON (AP) — A federal judge barred the Trump administration Saturday from carrying out deportations under a sweeping 18th century law that the president invoked hours earlier to speed removal of Venezuelan gang members from the United States.\nU... [5461 chars]",
-      "tags": [
-        "immigration",
-        "legal_justice",
-        "government_administration"
       ]
     }
   ]

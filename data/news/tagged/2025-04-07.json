@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 825,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -20,25 +20,6 @@
         "nato",
         "military",
         "security_intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "WDIV ClickOnDetroit",
-      "title": "Trump administration fires senior Navy female officer at NATO. She appeared on a 'woke' list",
-      "description": "U.S. officials say Navy Vice Adm. Shoshana Chatfield, the only woman on NATO’s military committee, was fired over the weekend by the Trump administration.",
-      "url": "https://www.clickondetroit.com/news/politics/2025/04/07/trump-administration-fires-senior-navy-female-officer-at-nato-she-appeared-on-a-woke-list/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/7XCRPZU3GZANNI5Z3GFF4PL3XQ.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2025-04-07T23:55:45Z",
-      "content": "FILE - This undated file image released by the U.S. Navy shows Rear Adm. Shoshana Chatfield. (U.S Navy via AP, File)\nWASHINGTON – U.S. Navy Vice Adm. Shoshana Chatfield, the only woman on NATO's military committee, was fired over the weekend by the T... [3352 chars]",
-      "tags": [
-        "government_administration",
-        "security_intelligence",
-        "foreign_policy",
-        "legal_justice"
       ]
     },
     {
@@ -114,9 +95,9 @@
       "publishedAt": "2025-04-07T23:49:11Z",
       "content": "Politics Will the tariffs lead to a recession? Here’s how to know if we’re in one. Economists at Goldman Sachs have raised their assessment of the odds the US will experience a recession — where the economy shrinks and unemployment rises — to 45%, fr... [7574 chars]",
       "tags": [
-        "ECONOMY_FINANCE",
-        "POLICY_LEGISLATION",
-        "CRISIS_EMERGENCY"
+        "economy_finance",
+        "policy_legislation",
+        "crisis_emergency"
       ]
     },
     {

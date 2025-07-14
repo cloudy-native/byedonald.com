@@ -1,136 +1,1306 @@
 {
   "status": "ok",
-  "totalResults": 257,
+  "totalResults": 3350,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "CBC.ca"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "CBC.ca",
-      "title": "Canada needs a U.S. trade deal but shouldn't have set a negotiation deadline, says Poilievre",
-      "description": "Conservative Leader Pierre Poilievre says Canada urgently needs to land a trade deal with the United States but it should not have set a deadline for negotiations because U.S. President Donald Trump “will try to take advantage” of the time crunch.",
-      "url": "https://www.cbc.ca/news/politics/pierre-poilievre-interview-trump-carney-1.7583565",
-      "urlToImage": "https://i.cbc.ca/1.7515351.1745334672!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/pierre-poilievre.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-11T23:52:37Z",
-      "content": "Conservative Leader Pierre Poilievre says Canada urgently needs to land a trade deal with the United States but it should not have set a deadline for negotiations because U.S. President Donald Trump \"will try to take advantage\" of the time crunch.\n\"T... [5710 chars]"
+      "author": "Leah Feiger, Vittoria Elliott, Makena Kelly",
+      "title": "Here's What We Know About DOGE 2.0",
+      "description": "DOGE has continued to operate in full force in its post-Elon iteration. Today on \"Uncanny Valley,\" we tell you everything you need to know about the agency.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-we-know-about-doge-20/",
+      "urlToImage": "https://media.wired.com/photos/686ec923d08d7ff95236541a/191:100/w_1280,c_limit/Uncanny-Valley-DOGE-2.0-olitics-2218864373.jpg",
+      "publishedAt": "2025-07-11T17:22:11Z",
+      "content": "Leah Feiger: When we come back, we'll share our recommendations for what to check out on WIRED.com this week. Welcome back to Uncanny Valley. Before we take off, Makena, Tori, tell our listeners what… [+3330 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "Why are liberals cozying up to race scientists?",
+      "description": "The New York Times' recent report on Zohran Mamdani's Columbia University application raised a lot of questions, such as: In what universe does this fall under the umbrella of news that's fit to print? Why did the paper of record report on hacked materials it…",
+      "url": "https://www.theverge.com/policy/705387/liberals-race-scientists-cremieux-abundance-richard-hanania",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-11T17:54:04Z",
+      "content": "The Abundance movement positions Democrats as a party that can offer more to everyone including those peddling scientific racism.\r\nThe New York Times recent report on Zohran Mamdanis Columbia Univers… [+9285 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "DOJ paves the way for a legal war on fact-checking",
+      "description": "Newspapers and social media platforms that agree to deprioritize misinformation could be violating US antitrust law if they exclude rivals or lead to anticompetitive effects, the Justice Department says in a new legal filing.  President Donald Trump’s DOJ Ant…",
+      "url": "https://www.theverge.com/news/705802/doj-antitrust-childrens-health-defense-covid-fact-checking-misinformation",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461726/STK432_Government__CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-11T19:29:51Z",
+      "content": "The Justice Department says that antitrust laws should protect the marketplace of ideas.\r\nNewspapers and social media platforms that agree to deprioritize misinformation could be violating US antitru… [+4046 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Even crypto execs fall for crypto scams",
+      "description": "It’s not every day you hear of cryptocurrency executives falling for crypto scams, but here we are. A complaint filed by the Department of Justice appears to reveal that a pair of MoonPay executives lost $250,000 worth of Ethereum when donating to what they t…",
+      "url": "https://www.theverge.com/news/705801/moonpay-crypto-execs-scam-doj-trump-administration",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-07-11T19:33:07Z",
+      "content": "A DOJ complaint suggests MoonPay executives were tricked into donating $250,000 in crypto to a fake Trump inauguration fund.\r\nIts not every day you hear of cryptocurrency executives falling for crypt… [+1910 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Billboard"
+        "name": "Gizmodo.com"
       },
-      "author": "Billboard",
-      "title": "Warner Music, Netease Cloud Music Stocks Up Amid Overall Decline",
-      "description": "Warner Music and Netease Cloud Music's stocks were up amid an overall decline for the Billboard Global Music Index, as Trump's trade war heated up.",
-      "url": "https://www.billboard.com/pro/warner-music-netease-cloud-music-stocks-up-overall-decline/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/11/neteast-cloud-music-app-2021-billboard-pro-1260.jpg?w=1024",
-      "publishedAt": "2025-07-11T23:33:15Z",
-      "content": "Music stocks had a mixed week as markets fell in reaction to President Trump’s escalating trade war.\nOn the positive side, Netease Cloud Music added to its hot streak by rising 8.9% to 241.00 HKD ($30.70) in the week ended July 11. The Chinese music ... [2777 chars]"
+      "author": "Matt Novak",
+      "title": "Dan Bongino Might Quit FBI as ‘Epstein Files’ Scandal Boils Over: Reports",
+      "description": "One source told Axios \"he ain't coming back.\"",
+      "url": "https://gizmodo.com/dan-bongino-might-quit-fbi-as-epstein-files-scandal-boils-over-reports-2000628238",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/dan-bongino-june-25-2025-1200x675.jpg",
+      "publishedAt": "2025-07-11T20:10:49Z",
+      "content": "Dan Bongino, the deputy director of the FBI, didn’t show up to work on Friday and is thinking about resigning from the agency after clashing with Attorney General Pam Bondi about the so-called Epstei… [+5670 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Devdiscourse"
+        "name": "Gizmodo.com"
       },
-      "author": "Devdiscourse",
-      "title": "Trump Blocks Acquisition of Jupiter Systems by Hong Kong Firm",
-      "description": "President Donald Trump halted the acquisition of Jupiter Systems by Hong Kong's Suirui International, citing national security concerns. The decision follows a review by the Committee on Foreign Investment in the U.S., highlighting risks related to military and critical infrastructure. Suirui must divest its interests within 120 days.",
-      "url": "https://www.devdiscourse.com/article/technology/3501506-trump-blocks-acquisition-of-jupiter-systems-by-hong-kong-firm",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2025_18_37_48_1407882.png?width=920&format=jpeg",
-      "publishedAt": "2025-07-11T23:28:33Z",
-      "content": "In a decisive move by the U.S. administration, President Donald Trump has blocked the acquisition of audiovisual equipment supplier Jupiter Systems by Suirui International, a Hong Kong-based company. The U.S. Treasury Department announced the decisio... [754 chars]"
+      "author": "Matt Novak",
+      "title": "DOJ Supports RFK Jr.’s Anti-Vax Group in Lawsuit Against News Outlets",
+      "description": "Children's Health Defense says it's illegal for news outlets to \"censor\" anti-vax garbage.",
+      "url": "https://gizmodo.com/doj-supports-rfk-jr-s-anti-vax-group-in-lawsuit-against-news-outlets-2000628154",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/RFK-Jr.-may-5-2025-1200x675.jpg",
+      "publishedAt": "2025-07-11T17:40:45Z",
+      "content": "The U.S. Department of Justice filed a statement of interest in federal court on Friday that supports Children’s Health Defense, an anti-vaccine group founded by Robert F. Kennedy Jr., according to a… [+4240 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CP24 Toronto"
+        "name": "Gizmodo.com"
       },
-      "author": "CP24 Toronto",
-      "title": "Dairy farmer skeptical over latest threat",
-      "description": "The near constant tariff whiplash over the past few months has many Canadians wondering if U.S. President Donald Trump will eventually back down on this latest threat.",
-      "url": "https://www.cp24.com/news/money/2025/07/11/ive-almost-learned-to-ignore-him-skepticism-about-trump-following-through-on-tariffs-growing/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/WJPXEENU3VEQLAZIHBVORCBSKA.png?smart=true&auth=2745782263c909844e8879f1534a0f81bba380045637ddf8f159cc8798a6e61a&width=1200&height=630",
-      "publishedAt": "2025-07-11T23:23:26Z",
-      "content": "With the latest announcement of U.S. tariffs on Canadian goods, some Ottawa residents are skeptical they’ll even happen. CTV’s Natalie van Rooy reports.\nThe near constant tariff whiplash over the past few months has many Canadians wondering if U.S. P... [1538 chars]"
+      "author": "Ellyn Lapointe",
+      "title": "U.S. Lawmakers Blame Canada for Ruining Summer With Wildfire Smoke",
+      "description": "Six Republican Congress members callously urged Canada to take “proper action” to mitigate smoke wafting into the U.S.",
+      "url": "https://gizmodo.com/u-s-lawmakers-blame-canada-for-ruining-summer-with-wildfire-smoke-2000628204",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/manitoba-wildfire-smoke-1200x675.jpg",
+      "publishedAt": "2025-07-11T18:15:51Z",
+      "content": "The Canadian province of Manitoba is suffering through its worst wildfire season in its history, and to add insult to injury, several U.S. lawmakers are complaining that smoke wafting south is making… [+5575 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BreakingNews.ie"
+        "name": "BBC News"
       },
-      "author": "BreakingNews.ie",
-      "title": "Trump's latest tariff announcement is deeply regrettable, Harris says",
-      "description": "Donald Trump said the European Union and Mexico will face a 30% tariff on imports to the US from August",
-      "url": "https://www.breakingnews.ie/ireland/us-tariff-announcement-is-deeply-regrettable-simon-harris-says-1782828.html",
-      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTIxODA2MzBcXFwvMi44MDYzMjIyNy1lMTc1MjM0MDE5NjQ2NC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjVlZjZkMDRiODE2YzBkMDY3NjhiNDcwYjU3ODg4ZGYxOThmY2VjYzcifQ==/trump-s-latest-tariff-announcement-is-deeply-regrettable-harris-says.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "Tánaiste Simon Harris has described an announcement from Donald Trump that the European Union and Mexico will face a 30 per cent tariff on imports to the US from August as “deeply regrettable”.\nThe US president warned he would impose even higher impo... [2120 chars]"
+      "author": null,
+      "title": "Ukraine to receive US air defence systems, says Trump",
+      "description": "The US president said he will send weapons to Nato, which he said would pay and then give the weapons to Ukraine.",
+      "url": "https://www.bbc.com/news/articles/crl04200dp4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aebb/live/8a6dd840-5e4e-11f0-abc2-f594647315a9.jpg",
+      "publishedAt": "2025-07-11T11:48:37Z",
+      "content": "US President Donald Trump has said he will send weapons, including Patriot air defence systems, for Ukraine via Nato.\r\nTrump told NBC News that in a new deal, \"we're going to be sending Patriots to N… [+3613 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "BBC News"
       },
-      "author": "RTE.ie",
-      "title": "Trump visits Texas flood zone, defends disaster response",
-      "description": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the Hill Country region, where at least 120 people, including dozens of children, were killed.",
-      "url": "https://www.rte.ie/news/us/2025/0712/1523150-texas-floods/",
-      "urlToImage": "https://www.rte.ie/images/0022de1c-1600.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the Hill Country region, where at least 120 people, including dozens of children, were killed.\nDuring a roundtable discussion after ... [3558 chars]"
+      "author": null,
+      "title": "Trump surveys damage in Texas as search continues for 160 missing",
+      "description": "At least 120 were killed when flash flooding devastated areas in central Texas last week.",
+      "url": "https://www.bbc.com/news/articles/cr5vlp0pmdzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e2b/live/8ad90770-5ea1-11f0-a40e-a1af2950b220.jpg",
+      "publishedAt": "2025-07-11T21:43:44Z",
+      "content": "US President Donald Trump reassured residents of Kerrville, Texas, that the government would help rebuild after floods hit the central part of the state last week, killing 120 people. \r\nThe president… [+1881 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "NPR"
       },
-      "author": "RTE.ie",
-      "title": "Trump threatens to revoke O'Donnell's US citizenship",
-      "description": "US President Donald Trump has said he might revoke talk show host Rosie O'Donnell's US citizenship after she criticised his administration's handling of weather forecasting agencies.",
-      "url": "https://www.rte.ie/news/world/2025/0712/1523216-trump-odonnell/",
-      "urlToImage": "https://www.rte.ie/images/00221517-1600.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "US President Donald Trump has said he might revoke talk show host Rosie O'Donnell's US citizenship after she criticised his administration's handling of weather forecasting agencies in the wake of the deadly Texas floods, the latest salvo in a years-... [2440 chars]"
+      "author": "Kate Dario",
+      "title": "New Hampshire judge blocks Trump birthright citizenship executive order nationwide",
+      "description": "A federal judge in New Hampshire on Thursday blocked President Trump's executive order that attempted to end birthright citizenship, stopping it from taking effect anywhere in the U.S.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5463808/new-hampshire-judge-blocks-trump-birthright-citizenship-executive-order-nationwide",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-07-11T09:01:25Z",
+      "content": "A federal judge in New Hampshire on Thursday blocked President Trump's executive order that attempted to end birthright citizenship, stopping it from taking effect anywhere in the U.S."
     },
     {
       "source": {
         "id": null,
-        "name": "BreakingNews.ie"
+        "name": "NPR"
       },
-      "author": "BreakingNews.ie",
-      "title": "Trump intensifies trade war with 30% tariffs on EU",
-      "description": "The fresh tariffs were announced in separate letters posted on Truth Social on Saturday.",
-      "url": "https://www.breakingnews.ie/business/trump-intensifies-trade-war-with-30-tariffs-on-eu-1782763.html",
-      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTIxNDE3MTZcXFwvR2V0dHlJbWFnZXMtMjIyMjczMzMzMC1lMTc1MjMyNjM3MzIyOS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjQ4NjI0OTRmYWY3NDM5NDYwOGViOTI0MDc4NDA4ZjJhOWNjOWI4NGQifQ==/trump-intensifies-trade-war-with-30-tariffs-on-eu.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "US president Donald Trump on Saturday imposed a 30 per cent tariff on imports from the European Union and Mexico starting on August 1st after weeks of negotiations with the key trading allies failed to reach a more comprehensive trade deal.\nThe fresh... [2296 chars]"
+      "author": "Luke Garrett",
+      "title": "As Democrats spoil for a fight, a new face in the House is leading them on oversight",
+      "description": "Rep. Robert Garcia is the new top Democrat on the House Oversight Committee. At a moment when his party is craving more confrontation with President Trump, he says he's ready to lean into the fray.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5455060/robert-garcia-house-oversight-committee-democrats-trump",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4245x2388+0+219/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F76%2Fd6d3b06e4c9a9024f18f69ee80f8%2Fap25043653768259.jpg",
+      "publishedAt": "2025-07-11T09:00:00Z",
+      "content": "The new top Democrat on the House Oversight and Government Reform committee is ready for a fight.\r\n\"I think I got elected because I am aggressive,\" Rep. Robert Garcia, D-Calif., said in an interview.… [+5946 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "NPR"
       },
-      "author": "RTE.ie",
-      "title": "Trump visits Texas flood zone, defends disaster response",
-      "description": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the stricken Hill Country region, where at least 120 people, including dozens of children, perished a week ago.",
-      "url": "https://www.rte.ie/news/us/2025/0712/1523150-trump-texas-flood/",
-      "urlToImage": "https://www.rte.ie/images/0022de1c-1600.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "US President Donald Trump has defended the state and federal response to deadly flash flooding in Texas as he visited the stricken Hill Country region, where at least 120 people, including dozens of children, perished a week ago.\nDuring a roundtable ... [3680 chars]"
+      "author": "Brittney Melton",
+      "title": "Trump to assess Texas flood damage today. And, DOGE has access to farmers' payments",
+      "description": "President Trump is heading to Texas to assess the damage caused by the recent flooding. DOGE has access to a database that controls government payments to farmers and ranchers.",
+      "url": "https://www.npr.org/2025/07/11/g-s1-77166/up-first-newsletter-texas-floods-trump-doge-usda-brazil-tariffs",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Faf%2Fcbd806a5495abd38dac847e12fb7%2Fgettyimages-2224540285.jpg",
+      "publishedAt": "2025-07-11T11:09:24Z",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+6451 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "NPR"
       },
-      "author": "RTE.ie",
-      "title": "Trump announces 30% tariffs on imports from EU",
-      "description": "Goods imported from the European Union will face a 30% US tariff rate starting from 1 August, US President Donald Trump said in letters posted to his social media platform this afternoon.",
-      "url": "https://www.rte.ie/news/europe/2025/0712/1523196-eu-us-tariff/",
-      "urlToImage": "https://www.rte.ie/images/0022dcbf-1600.jpg",
-      "publishedAt": "2025-07-11T23:00:00Z",
-      "content": "Goods imported from the European Union will face a 30% US tariff rate starting from 1 August, US President Donald Trump said in letters posted to his social media platform this afternoon.\nThe EU had hoped to reach a comprehensive trade agreement with... [1087 chars]"
+      "author": "Michele Kelemen",
+      "title": "State Department undergoes deep cuts in sweeping reorganization",
+      "description": "The State Department is slashing hundreds of jobs in what's being called its biggest shake-up in decades — drawing sharp criticism from former diplomats who say the cuts risk gutting America's diplomatic muscle.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5464673/state-department-undergoes-deep-cuts-in-sweeping-reorganization",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6875x3867+0+359/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F10%2Ff74bfc65482881e585313245e018%2Fgettyimages-2160771136.jpg",
+      "publishedAt": "2025-07-11T11:17:57Z",
+      "content": "The State Department is cutting its Washington-based staff by about 15% in what officials are calling the largest overhaul of the agency in decades. Some employees have already taken early retirement… [+2048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Protesters and federal agents clash during raid at Southern California farm",
+      "description": "A confrontation erupted Thursday between protesters and federal officials carrying out a raid, with authorities throwing canisters to disperse the crowd.",
+      "url": "https://www.npr.org/2025/07/11/g-s1-77139/protesters-agents-clash-raid-southern-california-farm",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5712x3213+0+298/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2F88%2F68ac6da74d1c8b18269e72fc1275%2Fap25191859032637.jpg",
+      "publishedAt": "2025-07-11T05:18:08Z",
+      "content": "A confrontation erupted Thursday between protesters and federal officials carrying out a raid on a Southern California farm, with authorities throwing canisters that sprayed what looked like smoke in… [+3227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "European allies step up plans for Ukraine stabilization, with U.S. attending meeting",
+      "description": "The force is expected to provide logistical and training experts to help reconstitute Ukraine's armed forces, secure Ukraine's skies and the Black Sea.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5464626/ukraine-europe-allies-zelenskyy-support",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7247x4076+0+377/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F5b%2F6e025f6d43ad964d04d0b8e0d5b5%2Fap25191419725989.jpg",
+      "publishedAt": "2025-07-11T05:23:08Z",
+      "content": "ROME Countries prepared to provide troops for a post-ceasefire force in Ukraine agreed to set up a headquarters in Paris for a rapid deployment after hostilities end in Russia's war on its neighbor. … [+2773 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Sacha Pfeiffer",
+      "title": "Guantánamo plea deals for accused 9/11 plotters are canceled by federal appeals court",
+      "description": "A federal appeals court has canceled plea deals with three men accused of orchestrating the 9/11 attacks, deepening the legal morass surrounding the long-stalled case.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5464835/guantanamo-gitmo-9-11-plea-deal-ruling",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5857x3295+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2Fad%2Fb510f7094021a4cb989a5ff7f851%2Fgettyimages-2153863095.jpg",
+      "publishedAt": "2025-07-11T19:01:37Z",
+      "content": "In a divided ruling, a federal appeals court panel has canceled plea deals reached with three men accused of orchestrating the 9/11 attacks, deepening the l\r\negal morass surrounding the long-stalled … [+4104 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Bryan Metzger",
+      "title": "DOJ ends probe into T-Mobile's $4.4 billion merger 2 days after the company committed to end DEI policies",
+      "description": "T-Mobile said in a July 8 letter to the FCC that it would end its DEI-related policies \"not just in name, but in substance.\"",
+      "url": "https://www.businessinsider.com/justice-department-closes-t-mobile-probe-uscellular-dei-policies-2025-7",
+      "urlToImage": "https://i.insider.com/68711208f748d8c055f56f2b?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T15:24:01Z",
+      "content": "The company said earlier this week that it would end its DEI-related policies \"not just in name, but in substance.\"Sven Hoppe/Getty Images\r\n<ul><li>T-Mobile told the FCC this week that it was ending … [+2095 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lauren Edmonds",
+      "title": "Here are the biggest companies that have followed Elon Musk out of Delaware",
+      "description": "Elon Musk urged companies to ditch Delaware last year after a judge voided his $55 billion pay package.",
+      "url": "https://www.businessinsider.com/list-corporations-leaving-delaware-elon-musk-spacex-tesla-dropbox-roblox-2025-7",
+      "urlToImage": "https://i.insider.com/68700ef8f748d8c055f56230?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T09:15:01Z",
+      "content": "Elon Musk reincorporated SpaceX from Delaware to Texas in 2024, sparking a wider exodus from the historically business-friendly state.Kevin Dietsch/Getty Images\r\n<ul><li>Multiple companies are leavin… [+7997 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Peter Kafka",
+      "title": "The new movie about OpenAI's Sam Altman sounds a lot like 'The Social Network.' Should he care?",
+      "description": "Amazon's \"Artificial\" film about OpenAI and Sam Altman is set to debut next year. It sounds a lot like \"The Social Network.\" Should Altman be worried?",
+      "url": "https://www.businessinsider.com/sam-altman-openai-movie-amazon-social-network-mark-zuckerberg-2025-7",
+      "urlToImage": "https://i.insider.com/687138fef748d8c055f576d7?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T17:17:06Z",
+      "content": "\"Artificial,\" a movie based in part on OpenAI CEO Sam Altman, is scheduled to debut next year. The film's script bears at least a passing resemblance to 2010's \"The Social Network,\" about Facebook CE… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Thibault Spirlet",
+      "title": "Jamie Dimon says markets are 'complacent' about the chance of surging US interest rates",
+      "description": "Jamie Dimon warned that markets are underestimating inflation and the risk of more Fed rate hikes amid global trade tensions.",
+      "url": "https://www.businessinsider.com/jamie-dimon-higher-chance-of-interest-rate-hikes-than-expected-2025-7",
+      "urlToImage": "https://i.insider.com/6870e8b4f748d8c055f56cd2?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T12:24:08Z",
+      "content": "JPMorgan CEO Jamie Dimon spoke in Dublin about inflation risks, Fed policy, and global uncertainty.Kevin Dietsch/Getty Images\r\n<ul><li>Jamie Dimon said markets are 'complacent' about the risk of more… [+3788 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jake Epstein",
+      "title": "Satellite images show damage at the US base Iran attacked with ballistic missiles — one of which hit it",
+      "description": "An image from June shows a scorch mark where a geodesic dome used to be at Al Udeid Air Base in Qatar.",
+      "url": "https://www.businessinsider.com/satellite-images-show-damage-us-base-iran-attacked-with-missiles-2025-7",
+      "urlToImage": "https://i.insider.com/68713681f748d8c055f57655?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T17:28:15Z",
+      "content": "Before and after photos of damage at Al Udeid Air Base last month.Planet Labs\r\n<ul><li>Iran fired a volley of missiles at a major US military base in Qatar last month.</li><li>The Pentagon confirmed … [+4041 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Juliana Kaplan,Allie Kelly",
+      "title": "Social Security is rerouting staff to man the phone lines — and hiding how long callers are waiting",
+      "description": "The Social Security administration is moving some workers to do teleservice work and address their most pressing needs.",
+      "url": "https://www.businessinsider.com/social-security-field-staff-reassigned-phones-call-wait-data-vanishes-2025-7",
+      "urlToImage": "https://i.insider.com/687159f6f748d8c055f57c9c?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T19:35:12Z",
+      "content": "A Social Security office in New York City.Allie Kelly/BI\r\n<ul><li>The Social Security Administration is reassigning up to 1,000 field office employees to teleservice work.</li><li>The staffing switch… [+5899 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Julia Hornstein,Jack Newsham",
+      "title": "The executives behind Palmer Luckey's new digital banking startup Erebor include banking, politics, and Big Law vets",
+      "description": "Senior staff at Erebor, a tech-focused banking startup, have worked at Palmer Luckey's family office, in tech startups, and at other banks.",
+      "url": "https://www.businessinsider.com/palmer-luckey-erebor-bank-executives-list-2025-7",
+      "urlToImage": "https://i.insider.com/68714ebcf748d8c055f57a62?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T22:02:44Z",
+      "content": "Palmer Luckey, a founder of Erebor Bank.Patrick T. Fallon/Getty Images\r\n<ul><li>Anduril cofounder Palmer Luckey is launching Erebor, a bank that will serve crypto clients and startups.</li><li>BI obt… [+7412 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Dan Whateley",
+      "title": "TikTok poached Amazon employees to jump-start its US business. Now it's doubling down on its Chinese roots.",
+      "description": "TikTok drew on the Amazon playbook to launch its US e-commerce business, but now it's betting its future on staff with roots in China.",
+      "url": "https://www.businessinsider.com/tiktok-hired-amazon-staff-for-shop-pivots-back-to-china-2025-7",
+      "urlToImage": "https://i.insider.com/6870390a85e81483682dcede?width=1200&format=jpeg",
+      "publishedAt": "2025-07-11T14:48:26Z",
+      "content": "Getty Images; Alyssa Powell/BI\r\n<ul><li>TikTok recruited heavily from Amazon to launch its US e-commerce business, Shop.</li><li>It copied Amazon's playbook and hired former staffers to help woo sell… [+8471 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Zachary B. Wolf, CNN",
+      "title": "Musk’s ‘America Party’ and the evidence that Trump’s coalition is starting to fracture",
+      "description": "President Donald Trump is now treating his former buddy Elon Musk like an “off the rails” oddity.",
+      "url": "https://www.cnn.com/2025/07/11/politics/third-party-politics-trump-coalition-musk",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/9107436a5dd2bf98767437fc2f8af607",
+      "publishedAt": "2025-07-11T08:00:25Z",
+      "content": "A version of this story appeared in CNNs What Matters newsletter. To get it in your inbox, sign up for free here.\r\nPresident Donald Trump is now treating his former buddy Elon Musk like an off the ra… [+11948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Trump puts 35% tariff on Canada, eyes 15%-20% tariffs for others",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6d7ef88e-b6c5-4bf4-a4c8-2b697f9a8583",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T00:38:31Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Trump Hits GOP With Frantic New Threat in Truth Social Post",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b77a322e-5c3d-43ba-861b-8d995da5d254",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T02:48:27Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "White House mercilessly mocked for posting pic of Trump as Superman",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b1dad1da-f1b0-46b8-8ee1-9a2ec17c3c78",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T12:16:56Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Trump Says Kristi Noem Def Didn't Delay Texas Flood Response—Because He Saw Her on TV",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_005f0a90-fe5d-4e14-93d5-f99f5f38dda0",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T14:47:05Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ashley Lutz, Fortune Intelligence",
+      "title": "Jamie Dimon breaks with ‘idiots’ in Democratic Party, saying they ‘have big hearts and little brains’",
+      "description": "\"They do not understand how the real world works,\" said the JPMorgan Chase CEO. \"Almost every single policy rolled out failed.\"",
+      "url": "https://finance.yahoo.com/news/jamie-dimon-breaks-idiots-democratic-195147498.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7fl4MpsMGIjO2en.vEhx5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/25bd364dff08260a9a366c13860bba2f",
+      "publishedAt": "2025-07-11T19:51:47Z",
+      "content": "JPMorgan Chase CEO Jamie Dimon made headlines during a high-profile event in Dublin, Ireland, by sharply criticizing the Democratic Party and its approach to diversity, equity, and inclusion (DEI) in… [+6637 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Masroor GILANI / AFP Pakistan",
+      "title": "Edited clip of India minister spreads months after Pakistan conflict",
+      "description": "Misinformation continues to spread online months after an unexpected truce ended intense fighting between nuclear-armed rivals Pakistan and India in May...",
+      "url": "https://www.yahoo.com/news/edited-clip-india-minister-spreads-064849405.html",
+      "urlToImage": "https://media.zenfs.com/en/afp_factcheck_us_713/9f36014df5daea4bcc29bff819271223",
+      "publishedAt": "2025-07-11T06:48:49Z",
+      "content": "Misinformation continues to spread online months after an unexpected truce ended intense fighting between nuclear-armed rivals Pakistan and India in May. False posts claiming India's external affairs… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kirsty Needham",
+      "title": "Security, trade in focus as Australia PM Albanese heads to China",
+      "description": "SYDNEY (Reuters) -Australian Prime Minister Anthony Albanese leaves for Shanghai on Saturday on an official visit to China where regional security tensions...",
+      "url": "https://ca.news.yahoo.com/security-trade-focus-australia-pm-070720531.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/7e3a400376aa807744aaf262784c6196",
+      "publishedAt": "2025-07-11T07:07:20Z",
+      "content": "By Kirsty Needham\r\nSYDNEY (Reuters) -Australian Prime Minister Anthony Albanese leaves for Shanghai on Saturday on an official visit to China where regional security tensions and efforts to grow econ… [+3909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ghazal Ahmed",
+      "title": "Microsoft (MSFT) Gets $600 Price Target—Oppenheimer Calls It a Long-Term AI Winner",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On July 9, Oppenheimer upgraded the stock to “Outperform” from...",
+      "url": "https://finance.yahoo.com/news/microsoft-msft-gets-600-price-104121525.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+      "publishedAt": "2025-07-11T10:41:21Z",
+      "content": "Microsoft Corporation (NASDAQ:MSFT) is one of the AI Stocks Making Waves on Wall Street. On July 9, Oppenheimer upgraded the stock to Outperform from Perform with a $600 price target.\r\nWe upgrade MSF… [+1751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Venkatesh",
+      "title": "Energy Transfer Strengthens Dividend Following Export Policy Reversal",
+      "description": "Energy Transfer LP (NYSE:ET) is one of the 12 Best MLP Dividend Stocks to Buy According to Analysts. BIS has rescinded the license requirement for exporting ...",
+      "url": "https://finance.yahoo.com/news/energy-transfer-strengthens-dividend-following-131428312.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7unfpBxPKwE.0uHkDX7t9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a97f111c62451e82df1b503f29d424ac",
+      "publishedAt": "2025-07-11T13:14:28Z",
+      "content": "Energy Transfer LP (NYSE:ET) is one of the 12 Best MLP Dividend Stocks to Buy According to Analysts.\r\nBIS has rescinded the license requirement for exporting ethane to China or Chinese military end u… [+1792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dhwani Pandya and Aditi Shah",
+      "title": "Musk's Tesla marks formal India entry with Mumbai launch event",
+      "description": "(Reuters) -Tesla will open its first India showroom in Mumbai next week, having imported $1 million worth of cars and merchandise, marking its entry into the...",
+      "url": "https://ca.finance.yahoo.com/news/tesla-launch-first-india-store-032434230.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/bc4a7718665d1840d99900c0c87673ef",
+      "publishedAt": "2025-07-11T03:24:34Z",
+      "content": "By Dhwani Pandya and Aditi Shah\r\n(Reuters) -Tesla will open its first India showroom in Mumbai next week, having imported $1 million worth of cars and merchandise, marking its entry into the world's … [+1923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cameron Henderson",
+      "title": "Dan Bongino ‘may step down from FBI’",
+      "description": "Dan Bongino is considering resigning from the FBI over the handling of the Epstein files.",
+      "url": "https://uk.news.yahoo.com/dan-bongino-may-step-down-185047590.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PVF52XVIxXkf0FY6eLNrtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/31c32429a7347c3b0bb2bf64cb664aac",
+      "publishedAt": "2025-07-11T18:50:47Z",
+      "content": "Dan Bongino is considering resigning from the FBI over the handling of the Epstein files.\r\nThe bureaus deputy director reportedly told people he was considering stepping down amid a clash with the de… [+4742 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Trump threatens 35% tariff on Canadian goods",
+      "description": "President Donald Trump threatened a 35% tariff on Canadian goods but said the U.S. would consider adjusting its stance if Canada helps stop the flow of fentanyl between the two countries.",
+      "url": "https://abcnews.go.com/US/video/trump-threatens-35-tariff-canadian-goods-123681886",
+      "urlToImage": "https://i.abcnewsfe.com/a/1fc7dd05-ad62-4314-8568-88673eaabc61/250711_abc_social_scott_canada_tariffs_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-11T16:47:07Z",
+      "content": "<ul><li>Trump talks Texas, tariffs as he departs for flood-ravaged state\r\n</li><li>Trump to visit Texas flood disaster area\r\n</li><li>Severe storms cause air travel headaches in the Midwest\r\n</li><li… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Alexandra Hutzler",
+      "title": "Trump heads to Texas flood zone, avoiding criticism he's heaped on other governors",
+      "description": "President Donald Trump will travel to Texas on Friday in the wake of devastating floods that killed at least 120 people, including dozens of children.",
+      "url": "https://abcnews.go.com/Politics/trump-heads-texas-after-catastrophic-flooding-avoiding-criticism/story?id=123650032",
+      "urlToImage": "https://i.abcnewsfe.com/a/f684b1f1-b58b-45ad-a782-cb5bb5101007/donald-trump-6-ap-gmh-250707_1751889727912_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-11T09:02:43Z",
+      "content": "President Donald Trump travels to Texas on Friday amid growing questions about how local officials responded to the devastating floods, as well as questions about the federal response -- including FE… [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Armando Garcia",
+      "title": "Mahmoud Khalil seeks $20M from the Trump administration -- or an apology",
+      "description": "After more than three months in detention, Mahmoud Khalil has filed an administrative complaint against the Trump administration seeking $20 million in damages.",
+      "url": "https://abcnews.go.com/US/mahmoud-khalil-seeks-20m-trump-administration-apology/story?id=123660206",
+      "urlToImage": "https://i.abcnewsfe.com/a/025deca7-1d18-44c2-9bfb-943925946436/Mahmoud-Khalil-3-rt-gmh-250622_1750620181259_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-11T00:58:03Z",
+      "content": "Weeks after being released from immigration detention, Mahmoud Khalil, a key negotiator and spokesperson during Columbia University's pro-Palestinian campus protests, has filed an administrative comp… [+3309 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Shelter animals relocated after Texas floods",
+      "description": "Shelter animals in Texas have been moved to to make space for the many pets lost in the recent floods.",
+      "url": "https://abcnews.go.com/US/video/shelter-animals-relocated-after-texas-floods-123675650",
+      "urlToImage": "https://i.abcnewsfe.com/a/de6a51c5-1e4e-41fc-8ae8-24e2c67aa6b3/250711_abc_social_rescue_animals_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-11T13:46:34Z",
+      "content": "<ul><li>White Sage Fire prompts urgent evacuations at Grand Canyon\r\n</li><li>Trump to visit Texas flood disaster area\r\n</li><li>Trump threatens 35% tariffs on Canada\r\n</li><li>Delta flight makes emer… [+4484 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: ‘Zombies 4’ star Milo Manheim on passing the torch to a new cast",
+      "description": "Manheim and co-star Meg Donnelly spoke about the future of the franchise on “GMA.”",
+      "url": "https://abcnews.go.com/GMA/Culture/video/zombies-4-star-milo-manheim-passing-torch-new-123684234",
+      "urlToImage": "https://i.abcnewsfe.com/a/b394a51e-e11c-42a1-9142-cf9da0a40f7d/250711_gma_social_zombies4_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-11T18:11:38Z",
+      "content": "<ul><li>Trump talks Texas, tariffs as he departs for flood-ravaged state\r\n</li><li>Trump to visit Texas flood disaster area\r\n</li><li>Severe storms cause air travel headaches in the Midwest\r\n</li><li… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: David Corenswet talks stepping into ‘Superman’ role",
+      "description": "The actor talked to ABC News' Will Reeve about the superhero’s next chapter.",
+      "url": "https://abcnews.go.com/GMA/Culture/video/david-corenswet-talks-stepping-superman-role-123683859",
+      "urlToImage": "https://i.abcnewsfe.com/a/8c94deb5-aaf4-4b7a-b5f9-c59e9a01bf79/250711_gma_social_superman_clipone_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-11T18:03:49Z",
+      "content": "<ul><li>Trump talks Texas, tariffs as he departs for flood-ravaged state\r\n</li><li>Trump to visit Texas flood disaster area\r\n</li><li>Severe storms cause air travel headaches in the Midwest\r\n</li><li… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Labubu or Lafufu?: How to tell the real thing from a fake",
+      "description": "From facial characteristics to QR codes and tags, “GMA” breaks down how to spot the real toy.",
+      "url": "https://abcnews.go.com/GMA/Living/video/labubu-lafufu-real-thing-fake-123684058",
+      "urlToImage": "https://i.abcnewsfe.com/a/7fba2ce0-f000-4aaf-af21-fd387ed02c53/250711_gma_social_toys_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-11T18:08:30Z",
+      "content": "<ul><li>Trump talks Texas, tariffs as he departs for flood-ravaged state\r\n</li><li>Trump to visit Texas flood disaster area\r\n</li><li>Severe storms cause air travel headaches in the Midwest\r\n</li><li… [+4520 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Soo Rin Kim, Fritz Farrow",
+      "title": "Abrego Garcia's attorneys ask judge to require 72 hours' notice before he's deported",
+      "description": "Kilmar Abrego Garcia's lawyers asked a judge on Friday to order that he not be removed from the U.S. without at least 72 hours notice should he be released on bond.",
+      "url": "https://abcnews.go.com/US/abrego-garcias-attorneys-judge-require-72-hours-notice/story?id=123682707",
+      "urlToImage": "https://i.abcnewsfe.com/a/985e346f-a92a-4022-a5e3-4903441f0041/Kilmar-Abrego-Garcia-3-ap-gmh-250415_1744726899561_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-11T18:56:39Z",
+      "content": "Kilmar Abrego Garcia's legal team asked a judge at a hearing Friday to order that he not be removed from the United States without at least 72 hours notice should he be released on bond from detentio… [+5334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Luc Olinga",
+      "title": "Mercedes-Benz Says Trump Is Holding It Back",
+      "description": "The German automaker is selling more luxury cars than ever in America, but global politics are forcing it to pull back just as demand surges.",
+      "url": "https://gizmodo.com/mercedes-benz-says-trump-is-holding-it-back-2000628059",
+      "urlToImage": "https://gizmodo.com/app/uploads/2023/01/f79144523846587e9f0ad0e3c538f2c9.jpg",
+      "publishedAt": "2025-07-11T13:50:36Z",
+      "content": "Mercedes-Benz has long been a bellwether of elite consumption. Its luxury vehicles arent just status symbols. Theyre economic signals, revealing how the worlds wealthy are spending. So when Mercedes … [+3718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Mystery Man Shines a Spotlight on the Shadiness of Trump’s Crypto Venture",
+      "description": "Who is Dave Lee?",
+      "url": "https://gizmodo.com/mystery-man-shines-a-spotlight-on-the-shadiness-of-trumps-crypto-venture-2000628223",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/03/GettyImages-2198662835-1200x675.jpg",
+      "publishedAt": "2025-07-11T19:05:40Z",
+      "content": "Last month, the Aqua 1 Foundation, founded by Dave Lee, purchased $100 million worth of tokens from the Trump family’s cryptocurrency venture World Liberty Financial (WLF. Someone putting cash direct… [+2611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Luc Olinga",
+      "title": "Crypto Is on Fire as Bitcoin Nears $120K in Unstoppable Surge",
+      "description": "Fueled by Trump’s pressure on the Fed and a tidal wave of investor optimism, the world’s most famous cryptocurrency is on an unstoppable run.",
+      "url": "https://gizmodo.com/crypto-is-on-fire-as-bitcoin-nears-120k-in-unstoppable-surge-2000627980",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/bitcoin-photo-1200x675.jpg",
+      "publishedAt": "2025-07-11T10:19:52Z",
+      "content": "Bitcoin is surging once again. And this time, the climb feels different.\r\nThe world’s largest cryptocurrency continued its dizzying ascent on Friday, smashing through multiple symbolic price threshol… [+3771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "The New Yorker",
+      "title": "Janet Yellen on the Danger of a “Banana Republic” Economy",
+      "description": "On The New Yorker Radio Hour, the former Treasury Secretary and chair of the Federal Reserve discusses the budget bill, the exploding deficit, and why Donald Trump is so desperate for lower interest rates.",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/janet-yellen-on-the-danger-of-a-banana-republic-economy",
+      "urlToImage": "https://media.newyorker.com/photos/68713dd903607a275640c48c/16:9/w_1280,c_limit/RADIO_HOUR_Janet_Yellen_FINAL_Tweak_07_10_2025.jpg",
+      "publishedAt": "2025-07-11T18:00:00Z",
+      "content": "Listen and subscribe:Apple | Spotify | Google | Wherever You Listen\r\nSign up for our daily newsletter to get the best of The New Yorker in your inbox.\r\nIn conservative economics, cuts to social servi… [+1565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "The New Yorker",
+      "title": "Susan B. Glasser on the Deficit, and Why “We Are the Boiled Frog”",
+      "description": "On The New Yorker Radio Hour, the staff writer explains the political implications of Donald Trump’s “Big Beautiful Bill.”",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/susan-b-glasser-on-the-deficit-and-why-we-are-the-boiled-frog",
+      "urlToImage": "https://media.newyorker.com/photos/663cd3037d83171cd086b2ee/16:9/w_1280,c_limit/Radio-Hour-Secondary-Segment.png",
+      "publishedAt": "2025-07-11T18:00:00Z",
+      "content": "Listen and subscribe:Apple | Spotify | Google | Wherever You Listen\r\nSign up for our daily newsletter to get the best of The New Yorker in your inbox.\r\nRarely have so many members of Congress voted f… [+1157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Jon Allsop",
+      "title": "Is Elon Musk’s “America Party” Worth Taking Seriously?",
+      "description": "Elon Musk’s latest venture into U.S. politics points to cracks in the two-party system—even if it might flop, Jon Allsop writes.",
+      "url": "https://www.newyorker.com/news/fault-lines/is-elon-musks-america-party-worth-taking-seriously",
+      "urlToImage": "https://media.newyorker.com/photos/6870254edd2cc138cdcb3b58/16:9/w_1280,c_limit/TNY_FaultLines_250711_ElonParty_Final_01_bleed.jpg",
+      "publishedAt": "2025-07-11T10:00:00Z",
+      "content": "For this weeks Fault Lines column, Jon Allsop is filling in for Jay Caspian Kang.\r\nThere have been several political groupings called the American Party, or something similar, in U.S. history. Perhap… [+12175 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Alexandra Petri",
+      "title": "Going to Space Is Overrated Anyway",
+      "description": "Trump wants to slash NASA’s budget. A Real World star will lead the agency. But everything’s okay!",
+      "url": "https://www.theatlantic.com/newsletters/archive/2025/07/sean-duffy-nasa-budget-layoffs/683517/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/1VFP6evu1w6-5NtexZkQj5KorAE=/0x69:3300x1788/1200x625/media/newsletters/2025/07/2025_07_11_NASA_Space_/original.jpg",
+      "publishedAt": "2025-07-11T22:35:00Z",
+      "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Su… [+6811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Thomas Chatterton Williams",
+      "title": "Zohran Mamdani Reveals the Absurdity of Affirmative Action",
+      "description": "Is the nominee for New York City mayor “African American”? Wrong question.",
+      "url": "https://www.theatlantic.com/ideas/archive/2025/07/zohran-mamdani-black-affirmative-action/683506/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/bthTFKwXLUOzUqEMJpLp8dpKqbI=/0x43:2000x1085/1200x625/media/img/mt/2025/07/2025_07_09_zohran_affirmative_action_2/original.jpg",
+      "publishedAt": "2025-07-11T14:06:00Z",
+      "content": "On her 64th birthday, in 2012, the conceptual artist Adrian Piper “retired from being black.” She posted a digitally altered portrait of herself, rendered in gray scale, and included a message undern… [+6555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Politicopro.com"
+      },
+      "author": "Kevin Bogardus, E&E News",
+      "title": "Marjorie Taylor Greene Plans Hearing on Geoengineering amid Cloud Seeding Conspiracy Theories",
+      "description": "Republican Representative Marjorie Taylor Greene of Georgia has said she will hold a hearing on geoengineering as conspiracy theories have swirled around cloud seeding after the recent floods in Texas",
+      "url": "https://subscriber.politicopro.com/article/eenews/2025/07/11/top-house-republican-pledges-to-dig-into-weather-modification-cw-00447864",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/6e3154abe3ffa521/original/marjorie_taylor_greene_speaks.jpg?m=1752246264.078&w=1200",
+      "publishedAt": "2025-07-11T15:30:00Z",
+      "content": "CLIMATEWIRE | On a day when the EPA administrator elevated concerns about weather modification as his agency downplayed those worries, an outspoken House Republican said she would hold a hearing on t… [+3442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "The Daily Beast",
+      "title": "The president did not like the question asked after meeting with Texas officials and victims.",
+      "description": "President Donald Trump lashed out at a reporter as ‘evil’ on Friday after she dared to ask him about the warnings given by the authorities before the deadly ...",
+      "url": "https://www.thedailybeast.com/trump-insults-evil-reporter-who-dares-to-ask-about-floods/",
+      "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/4b661f6e4a5f91a89884e31bb412e245",
+      "publishedAt": "2025-07-11T21:54:36Z",
+      "content": "President Donald Trump lashed out at a reporter as evil on Friday after she dared to ask him about the warnings given by the authorities before the deadly Texas floods. The president sat down with of… [+289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Economist Cooks Up New Code Word For Trump Tariff Plans, Serves It With A Serious Warning",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b40b1146-2368-47ed-902e-7759536c56fb",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T10:11:46Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Miami Herald"
+      },
+      "author": "Maykel  Gonzalez",
+      "title": "‘A privilege, not a right’: Trump administration puts green card holders on notice",
+      "description": "Traveling abroad with your green card? A new official notice warns that you could face problems upon return, even if you’re a legal resident.",
+      "url": "https://www.miamiherald.com/news/local/immigration/article310501590.html",
+      "urlToImage": "https://media.zenfs.com/en/miami_herald_mcclatchy_975/45ee6c555a01dadcdebd4e7fadc79bab",
+      "publishedAt": "2025-07-11T23:47:35Z",
+      "content": "Are you traveling abroad with a green card as a guarantee of your re-entry into the United States?\r\nCustoms and Border Protection (CBP) warns that you may experience difficulty entering under certain… [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Obama Steps Into the Ring to Deliver a Knockout Blow to Trump",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bc14e5f4-974c-4fb0-b698-42e8d5b4ec95",
+      "urlToImage": null,
+      "publishedAt": "2025-07-11T14:42:02Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "NBC",
+      "title": "Epstein bomb goes off - 'I'm out!': Trump aides threaten to quit as DOJ admits no Epstein list",
+      "description": "Multiple sources have detailed clashes between Attorney General Pam Bondi and the FBI’s number two, Dan Bongino, who is reportedly considering leaving his...",
+      "url": "https://www.yahoo.com/news/epstein-bomb-goes-off-im-231833451.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3zjUs0HS7l_SfMAik2Sy3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcu_713/3e1b78b9f09e6d0dd68ed54e7b98bf73",
+      "publishedAt": "2025-07-11T23:18:33Z",
+      "content": "Multiple sources have detailed clashes between Attorney General Pam Bondi and the FBIs number two, Dan Bongino, who is reportedly considering leaving his post over Bondis handling of the Epstein file… [+498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AMER COHADZIC",
+      "title": "UN investigator and critic of Israel's actions in Gaza tells AP she was shocked by US sanctions",
+      "description": "SARAJEVO, Bosnia-Herzegovina (AP) — An independent U.N. investigator and outspoken critic of Israel’s actions in Gaza said Thursday that “it was shocking” to...",
+      "url": "https://www.yahoo.com/news/un-investigator-critic-israels-actions-014000263.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8wL.GS8V6GCS3ttZ1l8CPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/8abb85993bf9ac69311bdb946c97f8d4",
+      "publishedAt": "2025-07-11T01:40:00Z",
+      "content": "SARAJEVO, Bosnia-Herzegovina (AP) An independent U.N. investigator and outspoken critic of Israels actions in Gaza said Thursday that it was shocking to learn that the Trump administration had impose… [+3791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Task & Purpose"
+      },
+      "author": "Jeff Schogol",
+      "title": "The Army and Navy want the ‘right to repair’ their own equipment",
+      "description": "Service members can often not fix a variety of equipment because of terms in the warranty under which it is used, or when defense contractors retain the...",
+      "url": "https://taskandpurpose.com/news/army-navy-right-to-repair/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/545g.XWZEtNLJApVBaakOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/task_purpose_217/afe9e4e3b79adb1b8e68b145b59fc59d",
+      "publishedAt": "2025-07-11T18:01:54Z",
+      "content": "A fundamental value of life at sea is Dont give up the ship, an axiom ingrained in sailors that all damage and problems aboard a vessel fall to the crew to fix.\r\nBut under modern contracting rules, s… [+8125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Sarang Sheth",
+      "title": "Meet the McLaren Short Tail: A race car small enough to parallel park",
+      "description": "Meet the McLaren Short Tail: A race car small enough to parallel parkEver wondered what would happen if McLaren made a car that could actually fit in your garage? UK designer Joshua Roberts did, and the result...",
+      "url": "https://www.yankodesign.com/2025/07/11/meet-the-mclaren-short-tail-a-race-car-small-enough-to-parallel-park/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2025/07/meet-the-mclaren-short-tail-a-race-car-small-enough-to-parallel-park/mclaren_short_tail_1.jpg",
+      "publishedAt": "2025-07-11T19:15:42Z",
+      "content": "Ever wondered what would happen if McLaren made a car that could actually fit in your garage? UK designer Joshua Roberts did, and the result is this absurdly cool “McLaren Short Tail” concept that lo… [+4243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Flowingdata.com"
+      },
+      "author": "Nathan Yau",
+      "title": "Nominee to lead NOAA prioritizes hiring people",
+      "description": "Eric Katz reporting for Government Executive: Staffing at the National Weather Service will be a top priority for Neil Jacobs if the Senate confirms him to lead the National Oceanic and Atmospheric…",
+      "url": "https://flowingdata.com/2025/07/11/nominee-to-lead-noaa-prioritizes-hiring-people/",
+      "urlToImage": "https://flowingdata.com/wp-content/uploads/2025/01/logo-lone-square512x512.png",
+      "publishedAt": "2025-07-11T11:04:02Z",
+      "content": "Staffing at the National Weather Service will be a top priority for Neil Jacobs if the Senate confirms him to lead the National Oceanic and Atmospheric Administration, the nominee told members of the… [+733 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Lauren Tousignant",
+      "title": "Trump Says Kristi Noem Def Didn't Delay Texas Flood Response—Because He Saw Her on TV",
+      "description": "Specifically, Trump said his administration's response was \"right on time\" because Noem was the \"first one\" he saw on TV the morning of July 4. Makes sense.",
+      "url": "https://www.jezebel.com/trump-says-kristi-noem-def-didnt-delay-texas-flood-response-because-he-saw-her-on-tv",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/07/Untitled-design.jpg",
+      "publishedAt": "2025-07-11T14:47:05Z",
+      "content": "Homeland Security Secretary Kristi Noem is constantly under fire because she’s bad at her job and cares more about getting hair extensions to have photoshoots at foreign gulags than she does about, o… [+2882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Susan Rinkunas",
+      "title": "Ken Paxton's Wife Files for Divorce 'on Biblical Grounds'",
+      "description": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
+      "url": "https://www.jezebel.com/ken-paxton-tktk",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/07/barfbagdsfsdf.jpg",
+      "publishedAt": "2025-07-11T17:17:53Z",
+      "content": "Welcome back to Barf Bag.\r\nWell, the Texas Senate primary just got a lot more interesting. On Thursday, state Senator Angela Paxton announced that she had filed for divorce from her husband, Attorney… [+5847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Claire Guinan",
+      "title": "Lena Dunham Says She Saw MAGA's Rise Coming",
+      "description": "“I was experiencing those voices in 2012,” Dunham said of the far-right’s rise. “In the way that there were so many angry, seemingly men and some women, dissecting the show in these incredibly conservative terms.”",
+      "url": "https://www.jezebel.com/lena-dunham-says-she-saw-magas-rise-coming",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/07/dunahmdfs.jpg",
+      "publishedAt": "2025-07-11T12:46:47Z",
+      "content": "Back in 2016, when Donald Trump won and liberals everywhere gasped, Lena Dunham wasnt surprised. The countrys backslide into barefaced bigotry, far-right conservatism, and Christian nationalism wasnt… [+3546 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "staff@jalopnik.com (Andy Kalmowitz)",
+      "title": "Tesla Registrations Have Completely Tanked In Canada",
+      "description": "EV sales in Canada have struggled in 2025, but Tesla has fared worse than rivals.",
+      "url": "https://www.jalopnik.com/1909778/tesla-registrations-canada-tank-h1-2025/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/tesla-registrations-have-completely-tanked-in-canada/l-intro-1752254676.jpg",
+      "publishedAt": "2025-07-11T17:26:45Z",
+      "content": "Tesla does stand above the rest when it comes to issues in Canada, however. the automaker decided to raise prices massively in Canada, including on its best-selling Model Y and Model 3, starting on F… [+1450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "mwall@space.com (Mike Wall) , Mike Wall",
+      "title": "Champion lumberjack, reality TV star and Cabinet secretary: Who is Sean Duffy, NASA's new interim chief?",
+      "description": "President Donald Trump has tapped Transportation Secretary and former reality TV star Sean Duffy to lead NASA on an interim basis. Here's what we know about the man.",
+      "url": "https://www.space.com/space-exploration/missions/champion-lumberjack-reality-tv-star-and-cabinet-secretary-who-is-sean-duffy-nasas-new-interim-chief",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qn5puZTCVxmZarVVpZxpL.jpg",
+      "publishedAt": "2025-07-11T10:00:00Z",
+      "content": "NASA has a new leader, at least for now.\r\nOn Wednesday evening (July 9), President Donald Trump named Sean Duffy interim chief of the space agency. Duffy takes over from Janet Petro, who had served a… [+5542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "mwall@space.com (Mike Wall) , Mike Wall",
+      "title": "Billionaire private astronaut Jared Isaacman donating $15 million for Space Camp programs",
+      "description": "Jared Isaacman, the billionaire private astronaut who until recently was on track to lead NASA, is donating $15 million to the U.S. Space & Rocket Center for its Space Camp programs.",
+      "url": "https://www.space.com/space-exploration/billionaire-private-astronaut-jared-isaacman-donating-usd15-million-for-space-camp-programs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9gZoHJd3chZyxyPqTe2uz7.jpg",
+      "publishedAt": "2025-07-11T16:31:00Z",
+      "content": "Jared Isaacman is donating a big chunk of change to help inspire the astronauts and space scientists of tomorrow.\r\nThe billionaire tech entrepreneur and private astronaut, who until recently was on t… [+3856 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "daisy.dobrijevic@space.com (Daisy Dobrijevic) , Daisy Dobrijevic",
+      "title": "As NASA's budget shrinks, Europe doubles down on Earth science: 'Climate change is the defining challenge of our generation'",
+      "description": "If NASA must pull back, Europe is ready to step up — and do so with open arms.",
+      "url": "https://www.space.com/science/climate-change/as-nasas-budget-shrinks-europe-doubles-down-on-earth-science-climate-change-is-the-defining-challenge-of-our-generation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9RJY4vrVixbZzJ4TEyVnMB.jpg",
+      "publishedAt": "2025-07-11T14:00:00Z",
+      "content": "As climate extremes intensify and global tipping points loom, Earth science has never been more vital — but not everyone is treating it that way. \r\nIn the United States, NASA's science programs are f… [+9907 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cracked.com"
+      },
+      "author": "Opheli Garcia Lawler",
+      "title": "Andrew Schulz Has New Thoughts on Who Is Putting America First",
+      "description": "Apparently, the line for the cabal of pro-Trump podcasters was Jeffrey Epstein",
+      "url": "https://www.cracked.com/article_47341_andrew-schulz-has-new-thoughts-on-who-is-putting-america-first.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/7/1/3/1331713.jpg",
+      "publishedAt": "2025-07-11T18:00:00Z",
+      "content": "They say even broken clocks are right twice a day, but thats maybe too generous of an analogy for Andrew Schulz. I dont think Schulz has been right twice. However, in the most recent episode of his p… [+3022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Tim Cushing",
+      "title": "Trump Administration Sends In The Marines… To Do Paperwork?",
+      "description": "Martial law still appears to be the plan. The rollout has been limited, but the wholly unnecessary deployment of military troops to California sent a message our performative president wanted to get across. Trump sent an even more explicit one days later, fol…",
+      "url": "https://www.techdirt.com/2025/07/11/trump-administration-sends-in-the-marines-to-do-paperwork/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-07-11T16:36:01Z",
+      "content": "from the this-is-my-pen,-this-is-my-gun dept\r\nMartial law still appears to be the plan. The rollout has been limited, but the wholly unnecessary deployment of military troops to California sent a mes… [+3661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Karl Bode",
+      "title": "Prepare For A New Dodgy Trump-Era Tax On Netflix And Other Streaming Services",
+      "description": "Two weeks ago the Supreme Court rejected an effort by a dodgy right wing activists to destroy an $8 billion FCC program that connects poor and rural communities to the internet. The plaintiff in the case, a fake right wing “consumer group,” had tried to argue…",
+      "url": "https://www.techdirt.com/2025/07/11/prepare-for-a-new-dodgy-trump-era-tax-on-netflix-and-other-streaming-services/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-07-11T22:50:43Z",
+      "content": "from the just-pay-me dept\r\nTwo weeks ago the Supreme Court rejected an effort by a dodgy right wing activists to destroy an $8 billion FCC program that connects poor and rural communities to the inte… [+7540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Glyn Moody",
+      "title": "Crowd-Sourced ICE Tracking Alerts Aim To Provide Local Communities With Early Warning Of Immigration Raids",
+      "description": "Techdirt has just written about how people are using Ring doorbell cameras to warn others in the area about the presence of ICE agents and the risk of possible ICE raids. That’s a good example of using existing technology to monitor the increasingly widesprea…",
+      "url": "https://www.techdirt.com/2025/07/11/crowd-sourced-ice-tracking-alerts-aim-to-provide-local-communities-with-early-warning-of-immigration-raids/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-07-11T17:56:30Z",
+      "content": "from the see-something,-tap-something dept\r\nTechdirt has just written about how people are using Ring doorbell cameras to warn others in the area about the presence of ICE agents and the risk of poss… [+5157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Andrew Perez",
+      "title": "Blue States Invest Retirees’ Savings in Firms Boosting Trump’s Extreme Agenda",
+      "description": "California, New York, and Illinois have invested their public employees’ retirement savings in firms promoting and profiting off Trump’s second term",
+      "url": "http://www.rollingstone.com/politics/politics-features/trump-agenda-investments-blue-states-california-new-york-1235383445/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/blue-states-invested-trump.jpg?crop=0px%2C125px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2025-07-11T14:30:00Z",
+      "content": "This story is being published in partnership with the Center for Media and Democracy.\r\nMajor retirement systems in blue states — where many governors and attorneys general are fighting hard to counte… [+14338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MIT Technology Review"
+      },
+      "author": "Charlotte Jee",
+      "title": "The Download: cybersecurity’s shaky alert system, and mobile IVF",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cybersecurity’s global alarm system is breaking down Every day, billions of people trust digital systems to run everythin…",
+      "url": "https://www.technologyreview.com/2025/07/11/1120003/the-download-cybersecuritys-shaky-alert-system-and-mobile-ivf/",
+      "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/06/250623_cybersecurity.jpg?resize=1200,600",
+      "publishedAt": "2025-07-11T12:14:00Z",
+      "content": "The must-reads\r\nIve combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 Trump is seeking huge cuts to basic scientific researchIf he gets his way,… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Ryan Lattanzio",
+      "title": "Nick Offerman on What the Right Gets Wrong About Ron Swanson: ‘Dumb People Insist He Would’ve Voted for Trump’",
+      "description": "Offerman tells IndieWire why the \"Parks and Recreation\" character likely would've despised the current President and discusses the Michael Flynn Jr. meme he blasted, and roles like in his new film \"Sovereign\" that defy his own political beliefs.",
+      "url": "https://www.indiewire.com/features/interviews/nick-offerman-sovereign-michael-flynn-jr-meme-trump-1235137976/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/07/P101JDYE.jpg?w=650",
+      "publishedAt": "2025-07-11T17:30:00Z",
+      "content": "Writer/director Christian Swegal’s “Sovereign” dramatizes the true story of the final days of sovereign citizens Jerry and Joe Kane before their 2010 flight from law enforcement ended in a violent ex… [+15420 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Samantha Bergeson",
+      "title": "Lena Dunham’s ‘Too Much’: A Guide to All Those Cameos — and Each Wink to Her Own Celebrity Lore",
+      "description": "From \"Catherine Called Birdy\" casting references to \"Girls,\" Dunham's new Netflix show might just be her mic drop moment.",
+      "url": "https://www.indiewire.com/features/general/too-much-cameos-lena-dunham-life-story-fact-fiction-1235127091/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/05/TooMuch_FirstLook_Image_16.jpg?w=650",
+      "publishedAt": "2025-07-11T14:47:00Z",
+      "content": "Editor’s Note: This story contains spoilers for “Too Much,” now streamingon Netflix.\r\nLena Dunham is back in the spotlight, and eight years after the conclusion of “Girls,” we missed her. We’ve all k… [+9410 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Pedro Rossi",
+      "title": "Trump’s tariff threat to Brazil is a gift to Lula",
+      "description": "By attacking Brazil’s sovereignty, Trump may have handed the leftist president a political and diplomatic opportunity.",
+      "url": "https://www.aljazeera.com/opinions/2025/7/11/trumps-tariff-threat-to-brazil-is-a-gift-to-lula",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/getty_6870dc3e6e-1752226878.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T11:31:42Z",
+      "content": "In a provocative move that fuses foreign policy with ideological allegiance, United States President Donald Trump has threatened to impose a 50 percent tariff on all Brazilian exports, effective Augu… [+4676 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Israeli settlers beat to death US citizen in West Bank, family says",
+      "description": "Rights advocates call on the Trump administration to ensure accountability for the killing of Sayfollah Musallet.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/israeli-settlers-beat-to-death-us-citizen-in-west-bank-family-says",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25187487701824-1752272698.jpg?resize=1200%2C675",
+      "publishedAt": "2025-07-11T23:15:25Z",
+      "content": "Israeli settlers have beaten to death a United States citizen in the occupied West Bank, the victims family members and rights groups have said.\r\nSettlers attacked and killed Sayfollah Musallet who w… [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Sarah Shamim",
+      "title": "Russia-Ukraine war: What are ‘frustrated’ Trump’s next options with Putin?",
+      "description": "Trump spoke about an agreement with NATO to arm Ukraine. A sanctions bill with bipartisan support also sits in Congress.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/russia-ukraine-war-what-are-frustrated-trumps-next-options-with-putin",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/afp_6870f1700b79-1752232304.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T13:03:44Z",
+      "content": "United States Secretary of State Marco Rubio met with Russian Foreign Minister Sergey Lavrov for a second time in two days on Friday, with the war in Ukraine the focal point of their huddle. They had… [+8333 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Ali Harb",
+      "title": "Canary Mission: How US uses a ‘hate group’ to target Palestine advocates",
+      "description": "The Trump administration confirms it is relying on the shadowy website to identify student protesters for deportation.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/canary-mission-how-us-uses-a-hate-group-to-target-palestine-advocates",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/04/2024-04-25T232232Z_163016222_RC2UD7AAEM9Y_RTRMADP_3_ISRAEL-PALESTINIANS-USA-PROTEST-1714106282.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T16:03:36Z",
+      "content": "Washington, DC The United States government has acknowledged its use of Canary Mission a shadowy pro-Israel website to identify pro-Palestine students for deportation, sparking anger and concern by r… [+8881 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Protests in Brazil condemn Trump’s 50% tariffs",
+      "description": "Protesters in Brazil burned an effigy of Donald Trump as they gathered to condemn 50% US tariffs for Brazilian goods.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/7/11/protests-in-brazil-condemn-trumps-50-tariffs",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752220803.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-11T08:01:12Z",
+      "content": "NewsFeed\r\nProtesters in Brazil burned an effigy of Donald Trump as they gathered to condemn 50% US tariffs announced for Brazilian goods, which Trump has linked to the coup trial of his political all… [+43 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Democrats publish leaked Justice Department messages on US deportation push",
+      "description": "Senator Dick Durbin has said the messages appear to support claims that the Trump administration defied court orders.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/democrats-publish-leaked-justice-department-messages-on-deportation-push",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-01-10T155104Z_1326754470_RC237CAJ8CZI_RTRMADP_3_USA-TRUMP-NEW-YORK-1752191492.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T00:21:51Z",
+      "content": "Democrats in the United States Senate have released a string of text messages and email correspondences that they say raises questions about the executive branchs commitment to complying with court o… [+5264 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Can Trump strip Musk, Mamdani and others of their US citizenship?",
+      "description": "As US President Donald Trump ramps up efforts to revoke citizenship from some naturalised citizens, who is at risk?",
+      "url": "https://www.aljazeera.com/video/the-take-2/2025/7/11/can-trump-strip-musk-mamdani-and-others-of-their-us-citizenship",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752269062.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-11T21:25:15Z",
+      "content": "The Take\r\nRead moreUnited States President Donald Trump is threatening to strip away citizenship from some naturalised citizens, including billionaire Elon Musk and New York mayoral candidate Zohran … [+103 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Trump slaps 35 percent tariff on Canada starting August 1",
+      "description": "US president also eyes blanket tariffs of 15 to 20 percent on other trading partners as his trade war widens.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/trump-slaps-35-percent-tariff-on-canada-starting-august",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/13129879-1752198271.jpg?resize=1200%2C675",
+      "publishedAt": "2025-07-11T02:31:20Z",
+      "content": "President Donald Trump has announced that the United States would impose a 35 percent tariff on imports from Canada next month, while eyeing blanket tariffs of 15 or 20 percent on most other trading … [+2759 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Six Secret Service agents suspended over Trump assassination failings",
+      "description": "The agency said the six unnamed individuals face punishments ranging from '10- to 42-day suspensions without pay'.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/six-secret-service-agents-suspended-over-trump-assassination-failings",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-06-27T142950Z_859767983_RC2MU8AID6Z1_RTRMADP_3_USA-DOGE-GUNCONTROL-1752197683.jpg?resize=1920%2C1365",
+      "publishedAt": "2025-07-11T02:53:35Z",
+      "content": "Six Secret Service agents on duty during last years failed assassination attempt against United States President Donald Trump have faced disciplinary action, including suspensions ranging from 10 to … [+2668 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Tafi Mhaka",
+      "title": "Trump’s African summit was a masterclass in modern colonial theatre",
+      "description": "To dodge Trump’s tariffs and wrath, five African presidents played colonial subject, and left their dignity behind.",
+      "url": "https://www.aljazeera.com/opinions/2025/7/11/trumps-african-summit-was-a-masterclass-in-modern-colonial-theatre",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/reuters_6870f128-1752232232.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T11:56:52Z",
+      "content": "On July 9, United States President Donald Trump opened a three-day mini summit at the White House with the leaders of Gabon, Guinea-Bissau, Liberia, Mauritania, and Senegal by subjecting his distingu… [+7760 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Alex Kozul-Wright",
+      "title": "Why has Trump hit Canada with a 35 percent trade tariff?",
+      "description": "New levies, which come on top of tariffs on auto parts and industrial metals, will come into effect on August 1.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/why-has-trump-hit-canada-with-a-35-percent-trade-tariff",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250506__44NY2EP__v1__HighRes__UsCanadaPoliticsDiplomacyTrumpCarney-1746550543_0c7e88-1746550807.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-07-11T13:22:39Z",
+      "content": "United States President Donald Trump has announced that he will raise import tariffs on most Canadian goods to 35 percent, even though Canada has agreed to rescind its planned digital services tax as… [+10392 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Federica Marsi",
+      "title": "Where is Liberia, whose president Trump praised for his ‘good English’?",
+      "description": "Liberia was founded in 1822 as a colony for free Black Americans in West Africa as slavery ended.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/where-is-liberia-whose-president-trump-praised-for-his-good-english",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-09T170500Z_1083536348_RC25JFA2LFTF_RTRMADP_3_USA-TRUMP-1752080909.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T08:48:09Z",
+      "content": "United States President Donald Trump has drawn mockery after he complimented the president of Liberia for speaking English beautifully, even though it is the countrys official language.\r\nSuch good En… [+8827 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "UN expert Albanese says US sanctions won’t stop her",
+      "description": "Francesca Albanese says sanctions by the US aim to silence her for exposing genocide and calling out those complicit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/7/11/un-expert-albanese-says-us-sanctions-wont-stop-her",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752241168.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-11T13:39:43Z",
+      "content": "NewsFeed\r\nFrancesca Albanese, the UN Special Rapporteur on the occupied Palestinian territories, says sanctions by the Trump administration aim to silence her for exposing genocide and calling out th… [+81 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Russia-Ukraine war: List of key events, day 1,233",
+      "description": "Here are the key events on day 1,233 of Russia’s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/russia-ukraine-war-list-of-key-events-day-1233",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250710__66CQ8T3__v1__HighRes__UkraineRussiaConflictWar-1752192869.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T01:19:39Z",
+      "content": "United States President Donald Trump, for the first time since returning to office, will send weapons to Kyiv under a presidential power frequently used by his predecessor, two sources familiar with … [+132 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "US sending special envoy after weapons deliveries resumed, says Ukraine",
+      "description": "US envoy Keith Kellogg will travel to Kyiv early next week, according to Ukrainian President Volodymyr Zelenskyy.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/us-sending-special-envoy-after-weapons-deliveries-resumed-says-ukraine",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/getty_68718285ae-1752269445.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T23:05:05Z",
+      "content": "The United States is once again delivering military supplies to Ukraine and will also be sending its special envoy, Keith Kellogg, to Kyiv next week, Ukrainian President Volodymyr Zelenskyy has said.… [+3121 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US public support for immigration rises amid Trump’s crackdown",
+      "description": "A record high of 79 percent of US respondents in a Gallup survey say immigration is a 'good thing' for the country.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/us-public-support-for-immigration-rises-amid-trumps-crackdown",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-04T154433Z_754074948_RC2UJDAZXNTK_RTRMADP_3_MIGRATION-TEXAS-COURT-1752248205.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T17:38:36Z",
+      "content": "A new poll shows support for immigration in the United States has increased since last year, while backing for the mass deportation of undocumented immigrants has gone down.\r\nThe survey, released on … [+3069 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nilesh Christopher, Valerio Pepe",
+      "title": "As millions adopt Grok to fact-check, misinformation abounds",
+      "description": "As Grok provides instant fact checks to users on X, its ability to make things up is outstripping its usefulness.",
+      "url": "https://www.aljazeera.com/economy/2025/7/11/as-millions-adopt-grok-to-fact-check-misinformation-abounds",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752058473.jpg?resize=1620%2C1080&quality=80",
+      "publishedAt": "2025-07-11T19:48:07Z",
+      "content": "On June 9, soon after United States President Donald Trump dispatched US National Guard troops to Los Angeles to quell the protests taking place over immigration raids, California Governor Gavin News… [+15005 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Andy Hirschfeld",
+      "title": "Trump’s new Brazil tariffs could raise US beef prices",
+      "description": "Because of droughts and increasing costs, beef buyers have relied more heavily on imports this year.",
+      "url": "https://www.aljazeera.com/economy/2025/7/11/trumps-new-brazil-tariffs-could-raise-us-beef-prices",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25058112581489-1752266786.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T21:36:25Z",
+      "content": "United States President Donald Trumps newly announced tariffs of 50 percent on Brazilian imports could drive up beef prices for US consumers.\r\nUnless the White House delays or reverses course, the ta… [+5335 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Rohingya refugees in peril in Bangladesh as support wanes: UN",
+      "description": "The US and other Western countries have been reducing their funding, prioritising their defence spending instead.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/rohingya-refugees-in-peril-in-bangladesh-as-support-wanes-un",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250306__36ZE87T__v1__HighRes__BangladeshMyanmarRohingyaRefugeeAid-1752241360.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-11T14:19:42Z",
+      "content": "The plight of Rohingya refugees in Bangladesh could rapidly deteriorate further unless more funding can be secured for critical assistance services, according to the United Nations refugee agency.\r\nB… [+2882 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "US, Russian top diplomats hold fresh talks on Ukraine at ASEAN meeting",
+      "description": "'Positive trend' in US-Russia ties remains despite Washington's 'zigzag' policy, Moscow says.",
+      "url": "https://www.aljazeera.com/news/2025/7/11/us-russian-top-diplomats-hold-fresh-talks-on-ukraine-at-asean-meeting",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/13186137-1752215782.jpg?resize=1200%2C675",
+      "publishedAt": "2025-07-11T07:16:08Z",
+      "content": "Russian Foreign Minister Sergey Lavrov and United States Secretary of State Marco Rubio have met again at the ASEAN foreign ministers meeting in Malaysias Kuala Lumpur, according to Russias state-run… [+3366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "John Hanna",
+      "title": "US has reclosed its southern border after a flesh-eating parasite is seen further north in Mexico",
+      "description": "The U.S. has closed its southern border again to livestock imports, saying a flesh-eating parasite has moved further north in Mexico than previously reported.",
+      "url": "https://phys.org/news/2025-07-reclosed-southern-border-flesh-parasite.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/us-has-reclosed-its-so.jpg",
+      "publishedAt": "2025-07-11T08:10:02Z",
+      "content": "The U.S. has closed its southern border again to livestock imports, saying a flesh-eating parasite has moved further north in Mexico than previously reported.\r\nMexico's president was critical Thursda… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCWorld"
+      },
+      "author": "Alaina Yee",
+      "title": "Best Prime Day SSD deals: Last minute sales on ultra-fast storage",
+      "description": "Summer means leisure time, and what better way to spend it than upgrading your PC setup? If you’re eager to jump on SSD and storage deals now, you’re in luck—the final 24 hours of Amazon’s annual Prime Day blowout still includes plenty of juicy deals on SSDs …",
+      "url": "https://www.pcworld.com/article/2834437/best-prime-day-2025-ssd-deals-final.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/hds-PCW-Prime-Day-25-15.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2025-07-11T07:00:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSummer means leisure… [+5001 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCWorld"
+      },
+      "author": "Michael Crider",
+      "title": "Best Prime Day monitor deals: Final chance savings on OLED and more",
+      "description": "One of the easiest ways to enhance your PC experience is to get a better monitor. It doesn’t require any upgrades for your desktop or laptop, and it shines up the primary way you interact with almost everything: the visuals. Prime Day is upon us again, and up…",
+      "url": "https://www.pcworld.com/article/2833659/best-monitor-deals-for-prime-day-2025-final-oled.html",
+      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/displays-PCW-Prime-Day-25-22.jpg?quality=50&strip=all&w=1024",
+      "publishedAt": "2025-07-11T07:00:00Z",
+      "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOne of the easiest w… [+5614 chars]"
     }
   ]
 }

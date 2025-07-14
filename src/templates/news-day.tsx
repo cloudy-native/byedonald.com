@@ -21,13 +21,11 @@ import {
 import { PageProps } from "gatsby";
 import React, { useMemo, useState } from "react";
 import { Article } from "../types/news";
-import { getDisplayableTagsByIds, getTagById, getCategoryByTagId, getTagsByCategoryId } from "../utils/tags";
-import TagLegend from "../components/TagLegend";
+import { getAllTags, getDisplayableTagsByIds } from "../utils/tags";
+import { TagLegend } from "../components/TagLegend";
 
-interface NewsDayPageContext {
-  date: string;
-  articles: Article[];
-}
+// Get tag data once
+const TAGS = getAllTags();
 
 interface NewsDayPageContext {
   date: string;
@@ -42,72 +40,53 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const relevantTagIds = useMemo(() => {
     const tagIds = new Set<string>();
     articles.forEach(article => {
-      article.tags.forEach((tagId: string) => {
+      article.tags.forEach(tagId => {
         tagIds.add(tagId);
       });
     });
-    return Array.from(tagIds);
+    return tagIds;
   }, [articles]);
-  // State to hold active tags, grouped by category
-  const [activeTags, setActiveTags] = useState<Record<string, string[]>>({});
 
-  const handleTagClick = (tagId: string, categoryId: string, isCategoryToggle: boolean = false) => {
-    if (tagId === '' && categoryId === '') {
-      setActiveTags({});
-      return;
-    }
+  const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
 
+  const handleTagClick = (tagId: string) => {
     setActiveTags(prev => {
-      const newActiveTags = { ...prev };
-      const tagsInCategory = newActiveTags[categoryId] || [];
-      
-      const allSubTagsForCategory = getTagsByCategoryId(categoryId).map(t => t.id);
-      const allTagsForCategory = [categoryId, ...allSubTagsForCategory];
-
-      const allRelevantTagsForCategory = allTagsForCategory.filter(tagId => relevantTagIds.includes(tagId));
-
-      if (isCategoryToggle) {
-        // If all tags in the category are already selected, deselect them all.
-        // Otherwise, select all of them.
-        if (tagsInCategory.length === allRelevantTagsForCategory.length) {
-          delete newActiveTags[categoryId];
-        } else {
-          newActiveTags[categoryId] = allRelevantTagsForCategory;
-        }
+      const newActiveTags = new Set(prev);
+      if (newActiveTags.has(tagId)) {
+        newActiveTags.delete(tagId);
       } else {
-        if (tagsInCategory.includes(tagId)) {
-          newActiveTags[categoryId] = tagsInCategory.filter(t => t !== tagId);
-          if (newActiveTags[categoryId].length === 0) {
-            delete newActiveTags[categoryId];
-          }
-        } else {
-          newActiveTags[categoryId] = [...tagsInCategory, tagId];
-        }
+        newActiveTags.add(tagId);
       }
-
       return newActiveTags;
     });
   };
 
-  const filteredArticles = useMemo(() => {
-    const activeCategoriesWithTags = Object.keys(activeTags);
+  const handleClear = () => setActiveTags(new Set());
 
-    if (activeCategoriesWithTags.length === 0) {
+  const filteredArticles = useMemo(() => {
+    if (activeTags.size === 0) {
       return articles;
     }
 
-    return articles.filter(article => {
-      // AND logic between categories
-      return activeCategoriesWithTags.every(categoryId => {
-        const requiredTags = activeTags[categoryId];
-        if (!requiredTags || requiredTags.length === 0) {
-          return true; // Should not happen with current logic, but safeguards
+    const activeTagsByCategory = Array.from(activeTags).reduce((acc, tagId) => {
+      const tag = TAGS.find(t => t.id === tagId);
+      if (tag) {
+        const categoryId = tag.category.id;
+        if (!acc[categoryId]) {
+          acc[categoryId] = [];
         }
-        // OR logic within a category
-        return requiredTags.some(tagId => article.tags.includes(tagId));
-      });
+        acc[categoryId].push(tagId);
+      }
+      return acc;
+    }, {} as Record<string, string[]>);
+
+    return articles.filter(article => {
+      const articleTags = new Set(article.tags);
+      return Object.values(activeTagsByCategory).every(categoryTags =>
+        categoryTags.some(tagId => articleTags.has(tagId))
+      );
     });
-  }, [articles, activeTags]);
+  }, [activeTags, pageContext.articles]);
 
   const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
     weekday: "long",
@@ -134,9 +113,13 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
+              <Text fontSize="sm" color="gray.600" mb={4}>
+                Select tags to filter articles. Tags from different categories narrow results (e.g., 'Legal' AND 'Cohen'). Tags from the same category broaden them (e.g., 'Legal' OR 'Rallies').
+              </Text>
               <TagLegend
                 activeTags={activeTags}
                 onTagClick={handleTagClick}
+                onClear={handleClear}
                 relevantTagIds={relevantTagIds}
               />
             </AccordionPanel>
@@ -144,9 +127,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         </Accordion>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
           {filteredArticles.map((article, index) => {
-            const authorAndSource = [article.author, article.source.name]
-              .filter(Boolean)
-              .join(", ");
+            const authorAndSource = [...new Set([article.author, article.source.name].filter(Boolean))].join(", ");
 
             return (
               <Card
@@ -183,6 +164,8 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
                   {article.tags && article.tags.length > 0 && (
                     <HStack spacing={2} mt={4} wrap="wrap">
                       {getDisplayableTagsByIds(article.tags).map(tag => (
+                        // @ts-ignore
+
                         <Tag
                           key={tag.id}
                           size="sm"

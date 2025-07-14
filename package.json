@@ -24,7 +24,7 @@
     "upload-to-opensearch": "ts-node scripts/upload-to-opensearch.ts",
     "tag-news": "ts-node scripts/tag-news.ts",
     "normalize-tags": "ts-node scripts/normalize-tags.ts",
-    "prune-news": "ts-node scripts/prune-tagged-news.ts"
+    "prune-tagged-news": "ts-node scripts/prune-tagged-news.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.24.3",

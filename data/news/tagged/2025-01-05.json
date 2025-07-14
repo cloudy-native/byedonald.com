@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 140,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -134,25 +134,6 @@
         "personal_family",
         "media_communications",
         "regional_state"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Devdiscourse"
-      },
-      "author": "Devdiscourse",
-      "title": "Biden Criticizes Trump’s Birthright Citizenship Proposal",
-      "description": "U.S. President Joe Biden expressed disapproval of President-elect Donald Trump's efforts to abolish birthright citizenship. In remarks at the White House, Biden labeled Trump's actions a 'genuine threat to democracy,' particularly his false claims about winning the 2020 election and the subsequent Capitol attack.",
-      "url": "https://www.devdiscourse.com/article/politics/3215859-biden-criticizes-trumps-birthright-citizenship-proposal",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_31_1940386.jpg?width=920&format=jpeg",
-      "publishedAt": "2025-01-05T22:41:57Z",
-      "content": "U.S. President Joe Biden voiced his disapproval on Sunday regarding President-elect Donald Trump's attempts to dismantle birthright citizenship in the United States.\nSpeaking to reporters at the White House, Biden remarked that despite the tension su... [381 chars]",
-      "tags": [
-        "policy_legislation",
-        "immigration",
-        "elections_politics",
-        "legal_justice"
       ]
     },
     {

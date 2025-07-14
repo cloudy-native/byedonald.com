@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -93,24 +93,6 @@
         "security_intelligence",
         "legal_justice",
         "elections_politics"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "WDIV ClickOnDetroit",
-      "title": "Tulsi Gabbard, Trump's pick for intel chief, faces questions on Capitol Hill amid Syria fallout",
-      "description": "President-elect Donald Trump’s pick for intelligence chief, Tulsi Gabbard, is making her case on Capitol Hill.",
-      "url": "https://www.clickondetroit.com/news/politics/2024/12/09/tulsi-gabbard-trumps-pick-for-intel-chief-faces-questions-on-capitol-hill-amid-syria-fallout/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DA3CFS4BIFGBRK7DQUQTBE5Q5M.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2024-12-09T23:24:30Z",
-      "content": "Tulsi Gabbard, President-elect Donald Trump's nominee to be director of National Intelligence, ight, meets with Sen. Mike Rounds, R-S.D., a member of the Senate Intelligence Committee, at the Capitol in Washington, Monday, Dec. 9, 2024. (AP Photo/J. ... [6393 chars]",
-      "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "government_administration"
       ]
     },
     {

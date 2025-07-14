@@ -1,4 +1,6 @@
-import * as Levenshtein from 'fast-levenshtein';
+import * as Levenshtein from "fast-levenshtein";
+
+const SIMILARITY_THRESHOLD = 10;
 
 // --- SHARED TYPES ---
 
@@ -34,33 +36,33 @@ export interface TaggedNewsResponse {
   articles: TaggedNewsArticle[];
 }
 
-
 // --- REUSABLE FUNCTIONS ---
 
 /**
- * Deduplicates an array of articles based on title and description similarity.
+ * Deduplicates an array of articles based on title similarity.
  * @param articles An array of articles (can be tagged or not).
  * @returns A new array with duplicate articles removed.
+ *
+ * We ued to check for desription too and make the threshold much larger. 
+ * But AP news syndicates, for exmaple, often put their publication as a prefix 
+ * and then it's not similar enough to be considered a duplicate, even though the title may be exact
  */
 export function deduplicateArticles<T extends NewsArticle>(articles: T[]): T[] {
   const uniqueArticles: T[] = [];
-  // Max Levenshtein distance to be considered a duplicate. A lower number means more strict.
-  const SIMILARITY_THRESHOLD = 10;
 
-  articles.forEach(article => {
-    // Basic check for empty title or description
-    if (!article.title || !article.description) {
+  articles.forEach((article) => {
+    if (!article.title) {
       return;
     }
 
-    const currentArticleText = (article.title + ' ' + article.description).toLowerCase();
-    
+    const currentArticleText = article.title.toLowerCase();
+
     let isDuplicate = false;
     for (const uniqueArticle of uniqueArticles) {
-      const uniqueArticleText = (uniqueArticle.title + ' ' + uniqueArticle.description).toLowerCase();
-      
+      const uniqueArticleText = uniqueArticle.title.toLowerCase();
+
       const distance = Levenshtein.get(currentArticleText, uniqueArticleText);
-      
+
       if (distance < SIMILARITY_THRESHOLD) {
         isDuplicate = true;
         break;

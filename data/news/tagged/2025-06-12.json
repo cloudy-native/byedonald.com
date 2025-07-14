@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 97,
+  "totalResults": 96,
   "articles": [
     {
       "source": {
@@ -893,23 +893,6 @@
         "cybersecurity",
         "public_health",
         "economic_crisis"
-      ]
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "ABC News",
-      "title": "WATCH: What we know about Dreamliner, the Air India plane that crashed",
-      "description": "Transportation reporter Sam Sweeney discusses the Boeing 787-8 Dreamliner, the plane that crashed en route to the United Kingdom from India.",
-      "url": "https://abcnews.go.com/International/video/dreamliner-air-india-plane-crashed-122790656",
-      "urlToImage": "https://i.abcnewsfe.com/a/71d4151a-7338-479a-92dc-749c43fedf17/250612_abc_social_air_india_hpMain_9x16.jpg?w=992",
-      "publishedAt": "2025-06-12T20:10:13Z",
-      "content": "<ul><li>California Senator Alex Padilla removed from DHS press conference\r\n</li><li>Sean 'Diddy' Combs trial: 'Jane's' cross-examination resumes after delay\r\n</li><li>Hearing on challenge to Trump's … [+4445 chars]",
-      "tags": [
-        "transportation",
-        "asia_pacific"
       ]
     },
     {

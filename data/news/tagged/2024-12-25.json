@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -53,9 +53,9 @@
       "publishedAt": "2024-12-25T22:36:28Z",
       "content": "OTTAWA — U.S. president-elect Donald Trump says he told Canadian hockey legend Wayne Gretzky during a Christmas Day visit that he should run for prime minister of Canada.\n\"I just left Wayne Gretzky, 'The Great One' as he is known in ice-hockey circle... [1747 chars]",
       "tags": [
-        "PERSONAL_FAMILY",
-        "FOREIGN_POLICY",
-        "ELECTIONS_POLITICS"
+        "personal_family",
+        "foreign_policy",
+        "elections_politics"
       ]
     },
     {
@@ -74,24 +74,6 @@
         "foreign_policy",
         "security_intelligence",
         "crisis_emergency"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CP24 Toronto"
-      },
-      "author": "CP24 Toronto",
-      "title": "Donald Trump says he urged Wayne Gretzky to run for prime minister in Christmas visit",
-      "description": "U.S. president-elect Donald Trump says he told Canadian hockey legend Wayne Gretzky he should run for prime minister during a Christmas visit but adds that the athlete declined interest in politics.",
-      "url": "https://www.cp24.com/news/world/2024/12/25/donald-trump-says-he-urged-wayne-gretzky-to-run-for-prime-minister-in-christmas-visit/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/6O2PLGETK5LRDE2TPLLK2BOURY.jpg?smart=true&auth=864f856f6862801154b8f3325674564f86a841db23bf17eaad65abbf9622a237&width=1200&height=630",
-      "publishedAt": "2024-12-25T22:13:57Z",
-      "content": "OTTAWA — U.S. president-elect Donald Trump says he told Canadian hockey legend Wayne Gretzky during a Christmas Day visit that he should run for prime minister of Canada.\n\"I just left Wayne Gretzky, 'The Great One' as he is known in ice-hockey circle... [2183 chars]",
-      "tags": [
-        "PERSONAL_FAMILY",
-        "FOREIGN_POLICY",
-        "ELECTIONS_POLITICS"
       ]
     }
   ]

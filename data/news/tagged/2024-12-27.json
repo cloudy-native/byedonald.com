@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -40,24 +40,6 @@
         "border_security",
         "government_administration",
         "policy_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Engadget"
-      },
-      "author": "Engadget",
-      "title": "Donald Trump asks the Supreme Court to delay the TikTok ban",
-      "description": "President Donald Trump asked the Supreme Court to push back the January 19 ban on TikTok.",
-      "url": "https://www.engadget.com/social-media/donald-trump-asks-the-supreme-court-to-delay-the-tiktok-ban-235703094.html",
-      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2024-12/931814f0-c4ad-11ef-9b1e-ad9f1063366b",
-      "publishedAt": "2024-12-27T23:57:04Z",
-      "content": "The law that could ban the app is scheduled to take effect the day before the President-elect’s inauguration.\nPresident-elect Donald Trump has asked the Supreme Court to delay the law that could ban TikTok until after his inauguration. In an amicus b... [1662 chars]",
-      "tags": [
-        "foreign_policy",
-        "legal_justice",
-        "technology_regulation"
       ]
     },
     {

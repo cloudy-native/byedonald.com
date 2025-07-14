@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 3,
   "articles": [
     {
       "source": {
@@ -15,10 +15,10 @@
       "publishedAt": "2025-05-04T23:54:05Z",
       "content": "Donald Trump on Sunday announced on his Truth Social platform a 100% tariff on all movies “produced in Foreign Lands”.\nIn his post, he claimed to have authorized the Department of Commerce and the US trade representative to immediately begin institut... [1149 chars]",
       "tags": [
-        "ECONOMY_FINANCE",
-        "FOREIGN_POLICY",
-        "POLICY_LEGISLATION",
-        "SECURITY_INTELLIGENCE"
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation",
+        "security_intelligence"
       ]
     },
     {
@@ -58,25 +58,6 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GuelphToday"
-      },
-      "author": "GuelphToday",
-      "title": "Trump says he will reopen Alcatraz prison",
-      "description": "NEW YORK (AP) — President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a California island.",
-      "url": "https://www.guelphtoday.com/world-news/trump-says-he-will-reopen-alcatraz-prison-10612380",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/9d0308a78ad7b17711e1765bdcae55b930d6222eb8ef1958f1564130efd5c3b9.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-05-04T23:19:48Z",
-      "content": "NEW YORK (AP) — President Donald Trump says he is directing his government to reopen and expand Alcatraz, the notorious former prison on a California island.\nIn a message on his Truth Social site Sunday evening, Trump wrote that, “For too long, Ameri... [1084 chars]",
-      "tags": [
-        "government_operations",
-        "federal_agencies",
-        "california",
-        "personal_business"
       ]
     }
   ]

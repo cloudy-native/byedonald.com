@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 579,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -52,9 +52,9 @@
       "publishedAt": "2025-04-10T23:30:51Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nRallies prove Trump\nopponents aren’t alone\nRe: “Thousands rally in massive protests” (Page A1, April 6).\nI attended a rally Saturday in opposition to the nightmare that ... [3344 chars]",
       "tags": [
-        "MEDIA_COMMUNICATIONS",
-        "ELECTIONS_POLITICS",
-        "SOCIAL_ISSUES"
+        "media_communications",
+        "elections_politics",
+        "social_issues"
       ]
     },
     {
@@ -109,24 +109,6 @@
         "legal_justice",
         "foreign_policy",
         "latin_america"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Supreme Court says Trump administration must work to bring back mistakenly deported Maryland man",
-      "description": "WASHINGTON (AP) — The Supreme Court on Thursday said the Trump administration must work to bring back a Maryland man who was mistakenly deported to prison in El Salvador, rejecting",
-      "url": "https://www.thestar.com/news/world/united-states/supreme-court-says-trump-administration-must-work-to-bring-back-mistakenly-deported-maryland-man/article_58ea38ba-81cd-538f-bf5e-ce7db3f3c43f.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/38/438f15d3-8e2e-5285-bbca-56621fc0aeb9/67f1464aba03e.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-04-10T23:13:00Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "legal_justice",
-        "immigration",
-        "government_administration"
       ]
     },
     {

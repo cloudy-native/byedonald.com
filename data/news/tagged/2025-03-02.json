@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 235,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -159,26 +159,6 @@
         "trade",
         "policy_legislation",
         "economy_finance",
-        "regional_state"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vancouver Is Awesome"
-      },
-      "author": "Vancouver Is Awesome",
-      "title": "\"Nothing more than a distraction,\" says B.C. forest minister on Trump's lumber order",
-      "description": "VANCOUVER — B.C.'s Forest Minister said the latest executive order from U.S.",
-      "url": "https://www.vancouverisawesome.com/national-news/nothing-more-than-a-distraction-says-bc-forest-minister-on-trumps-lumber-order-10310686",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/03/267db93f82fc81afef68701239650af062080cb47156d67a4b34dabc77da51c2.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2025-03-02T22:45:44Z",
-      "content": "VANCOUVER — B.C.'s Forest Minister said the latest executive order from U.S.\nVANCOUVER — B.C.'s Forest Minister said the latest executive order from U.S. President Donald Trump is \"nothing more than a distraction\" after Trump signed two orders to inc... [3820 chars]",
-      "tags": [
-        "trade",
-        "economy_finance",
-        "government_administration",
-        "foreign_policy",
         "regional_state"
       ]
     },

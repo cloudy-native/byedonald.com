@@ -291,7 +291,7 @@ async function main() {
       newsData.totalResults = newsData.articles.length;
       const duplicateCount = originalCount - newsData.totalResults;
       if (duplicateCount > 0) {
-        console.log(`Removed ${duplicateCount} duplicate/similar articles.`);
+        console.log(`Removed ${duplicateCount}/${originalCount} duplicate/similar articles.`);
       }
 
       if (newsData.articles.length === 0) {
@@ -302,8 +302,8 @@ async function main() {
         continue; // Skip to the next file
       }
 
-      // Using individual processing as it's more reliable
-      const taggedResult = await tagger.tagArticlesIndividually(newsData);
+      const taggedResult = await tagger.tagArticlesBatch(newsData);
+      // const taggedResult = await tagger.tagArticlesIndividually(newsData);
 
       await fs.writeFile(
         taggedFilePath,

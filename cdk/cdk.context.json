@@ -1,16 +1,13 @@
 {
-  "hosted-zone:account=607477397669:domainName=handycomputerbloke.com:region=us-east-1": {
-    "Id": "/hostedzone/Z04300052FTHFSSX72YZO",
-    "Name": "handycomputerbloke.com."
-  },
-  "acknowledged-issue-numbers": [
-    34892
-  ],
-  "hosted-zone:account=607477397669:domainName=byedonald.com:region=us-east-1": {
+  "hosted-zone:account=607477397669:domainName=byedonald.com:region=ap-southeast-1": {
     "Id": "/hostedzone/Z08502132HYHN1UXVIMCP",
     "Name": "byedonald.com."
   },
-  "hosted-zone:account=607477397669:domainName=byedonald.com:region=ap-southeast-1": {
+  "acknowledged-issue-numbers": [
+    34892,
+    34892
+  ],
+  "hosted-zone:account=607477397669:domainName=byedonald.com:region=us-east-1": {
     "Id": "/hostedzone/Z08502132HYHN1UXVIMCP",
     "Name": "byedonald.com."
   }

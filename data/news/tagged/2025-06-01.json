@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -155,24 +155,6 @@
     {
       "source": {
         "id": null,
-        "name": "Sky News"
-      },
-      "author": "Sky News",
-      "title": "Pro-EU candidate narrowly ahead of Trump-inspired rival in Poland's presidential election, exit poll shows",
-      "description": "Liberal pro-EU candidate Rafal Trzaskowski appears set to narrowly win Poland's presidential election, according to an exit poll.",
-      "url": "https://news.sky.com/story/pro-eu-candidate-narrowly-ahead-of-nationalist-rival-in-polands-presidential-election-exit-poll-shows-13377915",
-      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-rafal-trzaskowski-karol-nawrocki_6932486.jpg?20250601133745",
-      "publishedAt": "2025-06-01T19:26:00Z",
-      "content": "Liberal pro-EU candidate Rafal Trzaskowski appears set to narrowly win Poland's presidential election, according to an exit poll.\nThe Warsaw mayor was up against conservative historian Karol Nawrocki, who draws inspiration from Donald Trump and his M... [1140 chars]",
-      "tags": [
-        "elections_politics",
-        "europe",
-        "foreign_policy"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CBS News"
       },
       "author": "CBS News",
@@ -183,10 +165,10 @@
       "publishedAt": "2025-06-01T19:19:43Z",
       "content": "Scott Bessent \"confident\" U.S.-China trade details \"will be ironed out\" when Trump, Xi talk\nTreasury Secretary Scott Bessent on Sunday defended the Trump administration's escalating tariff policies, saying that while some companies have already annou... [3284 chars]",
       "tags": [
-        "ECONOMY_FINANCE",
-        "FOREIGN_POLICY",
-        "POLICY_LEGISLATION",
-        "GOVERNMENT_ADMINISTRATION"
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation",
+        "government_administration"
       ]
     }
   ]

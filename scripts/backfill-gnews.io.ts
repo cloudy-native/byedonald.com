@@ -3,6 +3,7 @@ import path from "path";
 import { fetchNewsForDate } from "./fetch-gnews.io";
 
 const NEWS_DIR = path.join(__dirname, "..", "data", "news", "raw");
+const START_OF_CALENDAR = new Date(2023, 0, 1);
 
 /**
  * Reads the raw news directory and returns a set of dates for which files already exist.
@@ -30,11 +31,9 @@ const getDatesToCheck = (): string[] => {
   const yesterday = new Date();
   yesterday.setDate(today.getDate() - 1);
 
-  const startOfYear = new Date(2024, 0, 1);
-
   // Loop from the start of the year to yesterday
   for (
-    let d = new Date(startOfYear);
+    let d = new Date(START_OF_CALENDAR);
     d <= yesterday;
     d.setDate(d.getDate() + 1)
   ) {

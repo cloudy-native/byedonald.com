@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -91,28 +91,9 @@
       "publishedAt": "2024-12-21T23:15:57Z",
       "content": "Lara Trump, the daughter-in-law of President-elect Donald Trump, announced her decision to remove her name from the roster of candidates hoping to succeed outgoing U.S. Senator Marco Rubio. Rubio has been selected by Trump to serve as the upcoming se... [672 chars]",
       "tags": [
-        "ELECTIONS_POLITICS",
-        "PERSONAL_FAMILY",
-        "REGIONAL_STATE"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo News"
-      },
-      "author": "Yahoo News",
-      "title": "Lara Trump withdraws from consideration to replace Rubio in US Senate",
-      "description": "(Reuters) -Lara Trump, daughter-in-law of President-elect Donald Trump, said on Saturday she has removed her name from consideration to replace outgoing U.S. Senator Marco Rubio. Rubio was picked by Trump to serve as secretary of state. Florida Governor Ron DeSantis will pick a replacement for Rubio, who is expected to resign as senator when Trump takes office on Jan. 20.",
-      "url": "https://news.yahoo.com/news/lara-trump-says-shes-removed-225150935.html",
-      "urlToImage": "https://media.zenfs.com/en/reuters.com/fd4bbd5efa05695912058499e71c78e1",
-      "publishedAt": "2024-12-21T22:51:50Z",
-      "content": "By Jasper Ward\n(Reuters) -Lara Trump, daughter-in-law of President-elect Donald Trump, said on Saturday she has removed her name from consideration to replace outgoing U.S. Senator Marco Rubio.\nRubio was picked by Trump to serve as secretary of state... [1224 chars]",
-      "tags": [
         "elections_politics",
-        "florida",
-        "government_administration",
-        "personal_family"
+        "personal_family",
+        "regional_state"
       ]
     },
     {

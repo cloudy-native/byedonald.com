@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -63,26 +63,6 @@
     {
       "source": {
         "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "WDIV ClickOnDetroit",
-      "title": "South African leader and Trump will meet next week after US took in white South Africans as refugees",
-      "description": "President Donald Trump and South African President Cyril Ramaphosa are scheduled to hold talks at the White House next week.",
-      "url": "https://www.clickondetroit.com/news/politics/2025/05/14/south-african-leader-and-trump-will-meet-next-week-after-us-took-in-white-south-africans-as-refugees/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4CBJAHMYJBF5RK7HBKFQ2SERHU.jpg?_a=DATAdteAZAA0",
-      "publishedAt": "2025-05-14T23:36:18Z",
-      "content": "CAPE TOWN – President Donald Trump and South African President Cyril Ramaphosa are scheduled to meet at the White House next week following allegations by Trump — and denied by South Africa — that “genocide” is being committed against white farmers i... [4553 chars]",
-      "tags": [
-        "foreign_policy",
-        "africa",
-        "middle_east",
-        "government_administration",
-        "politics_elections"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Chicago Tribune"
       },
       "author": "Chicago Tribune",
@@ -113,9 +93,9 @@
       "publishedAt": "2025-05-14T23:28:05Z",
       "content": "WASHINGTON — House Republicans are locked in a tense standoff over how to tackle the federal deduction for state and local taxes, or SALT, a sticky issue that could make or break the party's big bill for President Donald Trump’s agenda.\nThe ongoing f... [8518 chars]",
       "tags": [
-        "POLICY_LEGISLATION",
-        "ECONOMY_FINANCE",
-        "GOVERNMENT_ADMINISTRATION"
+        "policy_legislation",
+        "economy_finance",
+        "government_administration"
       ]
     },
     {

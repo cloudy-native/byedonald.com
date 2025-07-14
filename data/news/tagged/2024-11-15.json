@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 3,
   "articles": [
     {
       "source": {
@@ -40,26 +40,6 @@
         "policy_legislation",
         "economy_finance",
         "security_intelligence"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WDIV ClickOnDetroit"
-      },
-      "author": "WDIV ClickOnDetroit",
-      "title": "Trump names Karoline Leavitt as youngest ever White House press secretary",
-      "description": "President-elect Donald Trump has named his campaign press secretary Karoline Leavitt to serve as his White House press secretary.",
-      "url": "https://www.clickondetroit.com/news/politics/2024/11/15/trump-names-karoline-leavitt-as-youngest-ever-white-house-press-secretary/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/4UHQQFOE45CHPG332AEM74UASM.jpg?_a=DATAdtfiZAA0",
-      "publishedAt": "2024-11-15T23:58:23Z",
-      "content": "FILE - Karoline Leavitt speaks to the news media across the street from Republican presidential nominee former President Donald Trump's criminal trial in New York, May 28, 2024. (AP Photo/Ted Shaffrey, File)\nWEST PALM BEACH, Fla. – President-elect Do... [2638 chars]",
-      "tags": [
-        "government_administration",
-        "personnel",
-        "media_communications",
-        "press_relations",
-        "elections_politics"
       ]
     },
     {

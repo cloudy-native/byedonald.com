@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "source": {
@@ -52,10 +52,10 @@
       "publishedAt": "2024-12-24T23:07:12Z",
       "content": "Open this photo in gallery: President-elect Donald Trump speaks at AmericaFest in Phoenix on Dec. 22.Rick Scuteri/The Associated Press\nPresident-elect Donald Trump promised on Tuesday to “vigorously pursue” capital punishment after President Joe Bide... [5043 chars]",
       "tags": [
-        "GOVERNMENT_ADMINISTRATION",
-        "POLICY_LEGISLATION",
-        "LEGAL_JUSTICE",
-        "ELECTIONS_POLITICS"
+        "government_administration",
+        "policy_legislation",
+        "legal_justice",
+        "elections_politics"
       ]
     },
     {
@@ -112,24 +112,6 @@
         "legal_justice",
         "government_administration",
         "ethics"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Trump vows to pursue executions after Biden commutes most of federal death row",
-      "description": "FORT LAUDERDALE, Fla. (AP) — President-elect Donald Trump promised on Tuesday to “vigorously pursue” capital punishment after President Joe Biden commuted the sentences of most people on federal death row",
-      "url": "https://www.thestar.com/news/world/united-states/trump-vows-to-pursue-executions-after-biden-commutes-most-of-federal-death-row/article_084fe996-e02f-53cc-963c-826cd629656f.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
-      "publishedAt": "2024-12-24T21:37:21Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "GOVERNMENT_ADMINISTRATION",
-        "LEGAL_JUSTICE",
-        "POLICY_LEGISLATION"
       ]
     },
     {

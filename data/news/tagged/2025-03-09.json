@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -78,24 +78,6 @@
         "foreign_policy",
         "government_administration",
         "media_communications"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Former prime minister Jean Chrétien tells Trump to 'stop this nonsense'",
-      "description": "OTTAWA - Moments before the new Liberal leader was announced on Sunday, former prime minister Jean Chrétien took to the stage to reprimand U.S. President Donald Trump over tariffs and",
-      "url": "https://www.thestar.com/news/canada/former-prime-minister-jean-chr-tien-tells-trump-to-stop-this-nonsense/article_c46fa65f-5448-5f16-a17a-63d4b4a230fd.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/7a/37a9a0ce-fd43-11ef-9c74-43beda9e5b1d/67ce2c8506f2e.image.jpg?crop=1400%2C735%2C0%2C98&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-09T23:55:00Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "foreign_policy",
-        "government_administration",
-        "policy_legislation"
       ]
     }
   ]

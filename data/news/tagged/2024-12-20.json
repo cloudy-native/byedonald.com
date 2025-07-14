@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
     {
       "source": {
@@ -104,26 +104,6 @@
     {
       "source": {
         "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Amazon and Starbucks workers are on strike. Trump might have something to do with it",
-      "description": "Amazon delivery drivers and Starbucks baristas are on strike in a handful of U.S. cities as they seek to exert pressure on the two major companies to recognize them as",
-      "url": "https://www.thestar.com/news/world/united-states/amazon-starbucks-workers-strike-trump/article_70fffcf8-4327-5842-8330-13676d0baaed.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/e5/5e5e3924-9e0d-5f97-9863-fbde86fa0857/676602aebedc5.image.jpg?crop=1280%2C672%2C0%2C91&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2024-12-20T23:44:00Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "labor",
-        "small_business",
-        "policy_legislation",
-        "economy_finance",
-        "media_communications"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Cable News Network"
       },
       "author": "Cable News Network",
@@ -158,24 +138,6 @@
         "foreign_policy",
         "elections_politics",
         "regional_state"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BayToday"
-      },
-      "author": "BayToday",
-      "title": "House approves funding bill and sends to Senate hours before government shutdown deadline",
-      "description": "WASHINGTON (AP) — Hours to go before a midnight government shutdown , the House approved a new plan late Friday from Speaker Mike Johnson that would temporarily fund federal operations and disaster aid, but drops President-elect Donald Trump's demand",
-      "url": "https://www.baytoday.ca/business/house-approves-funding-bill-and-sends-to-senate-hours-before-government-shutdown-deadline-9989858",
-      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/12/9296f770435e65dd64fc94f1111b94fd2bd83fbaa46d95652d527ec01ca30ac2.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2024-12-20T23:05:53Z",
-      "content": "WASHINGTON (AP) — Hours to go before a midnight government shutdown, the House approved a new plan late Friday from Speaker Mike Johnson that would temporarily fund federal operations and disaster aid, but drops President-elect Donald Trump's demands... [7175 chars]",
-      "tags": [
-        "government_operations",
-        "budget",
-        "policy_legislation"
       ]
     }
   ]

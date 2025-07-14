@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 4,
   "articles": [
     {
       "source": {
@@ -78,26 +78,6 @@
         "federal_agencies",
         "legal_justice",
         "civil_litigation"
-      ]
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Toronto Star",
-      "title": "Judge orders Trump administration to pay nearly $2 billion in USAID and State Dept. debts",
-      "description": "WASHINGTON (AP) — A federal judge on Thursday gave the Trump administration until Monday to pay nearly $2 billion owed to partners of the U.S. Agency for International Development and",
-      "url": "https://www.thestar.com/news/world/united-states/judge-orders-trump-administration-to-pay-nearly-2-billion-in-usaid-and-state-dept-debts/article_6421c082-7d80-5a60-9b37-6fae31eadf96.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/86/78656443-8244-5bef-8800-7d8c4de83118/67ca312585efb.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-03-06T23:27:41Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": [
-        "government_operations",
-        "federal_agencies",
-        "budget",
-        "legal_justice",
-        "foreign_policy"
       ]
     }
   ]
