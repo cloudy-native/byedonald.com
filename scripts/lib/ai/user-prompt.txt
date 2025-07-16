@@ -1,0 +1,10 @@
+<tag_definitions>
+{tag_definitions}
+</tag_definitions>
+
+Article to Tag:
+<article_to_tag>
+Title: "{title}"
+Description: "{description}"
+Content: "{content}"
+</article_to_tag>

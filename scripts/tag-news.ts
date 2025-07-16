@@ -30,51 +30,97 @@ type TagDefinition = TagCategory[];
 class NewsArticleTagger {
   private client: BedrockRuntimeClient;
   private tagDefinitions: TagDefinition;
-  private singleArticlePromptTemplate: string;
+  private systemPrompt: string;
+  private userPromptTemplate: string;
 
   private constructor(
     tagDefinitions: TagDefinition,
-    singleArticlePromptTemplate: string
+    systemPrompt: string,
+    userPromptTemplate: string
   ) {
     this.client = new BedrockRuntimeClient();
     this.tagDefinitions = tagDefinitions;
-    this.singleArticlePromptTemplate = singleArticlePromptTemplate;
+    this.systemPrompt = systemPrompt;
+    this.userPromptTemplate = userPromptTemplate;
   }
 
   public static async create(
     tagDefinitions: TagDefinition
   ): Promise<NewsArticleTagger> {
-    const promptFilePath = path.join(
+    const systemPromptPath = path.join(
       __dirname,
       "lib",
       "ai",
-      "article-tagging-prompt.txt"
+      "system-prompt.txt"
     );
-    const singleArticlePromptTemplate = await fs.readFile(
-      promptFilePath,
-      "utf-8"
+    const userPromptPath = path.join(
+      __dirname,
+      "lib",
+      "ai",
+      "user-prompt.txt"
     );
-    return new NewsArticleTagger(tagDefinitions, singleArticlePromptTemplate);
+    const [systemPrompt, userPromptTemplate] = await Promise.all([
+      fs.readFile(systemPromptPath, "utf-8"),
+      fs.readFile(userPromptPath, "utf-8"),
+    ]);
+    return new NewsArticleTagger(
+      tagDefinitions,
+      systemPrompt,
+      userPromptTemplate
+    );
   }
 
-  private async invokeModel(prompt: string, modelId: string): Promise<string> {
+  private async invokeModel(
+    userPrompt: string,
+    modelId: string
+  ): Promise<string> {
+    let body;
+
+    if (modelId.startsWith("anthropic")) {
+      body = JSON.stringify({
+        anthropic_version: "bedrock-2023-05-31",
+        system: this.systemPrompt,
+        messages: [{ role: "user", content: userPrompt }],
+        max_tokens: 500,
+        temperature: 0.2,
+        top_p: 0.9,
+      });
+    } else if (modelId.startsWith("amazon")) {
+      const prompt = `${this.systemPrompt}\n\nHuman: ${userPrompt}\n\nAssistant:`;
+      body = JSON.stringify({
+        inputText: prompt,
+        textGenerationConfig: {
+          maxTokenCount: 512,
+          temperature: 0.2,
+          topP: 0.9,
+        },
+      });
+    } else {
+      throw new Error(`Unsupported model provider for modelId: ${modelId}`);
+    }
+
     const command = new InvokeModelCommand({
       modelId,
       contentType: "application/json",
       accept: "application/json",
-      body: JSON.stringify({
-        prompt: `\n\nHuman: ${prompt}\n\nAssistant:`,
-        max_tokens_to_sample: 500,
-        temperature: 0.2,
-        top_p: 0.9,
-      }),
+      body,
     });
 
     const response = await this.client.send(command);
     const decodedBody = new TextDecoder().decode(response.body);
     const responseBody = JSON.parse(decodedBody);
 
-    return responseBody.completion;
+    if (modelId.startsWith("anthropic")) {
+      if (responseBody.content && responseBody.content.length > 0) {
+        return responseBody.content[0].text;
+      }
+    } else if (modelId.startsWith("amazon")) {
+      if (responseBody.results && responseBody.results.length > 0) {
+        return responseBody.results[0].outputText;
+      }
+    }
+
+    throw new Error("Empty or invalid response from model");
   }
 
   async tagArticlesIndividually(
@@ -85,11 +131,15 @@ class NewsArticleTagger {
     for (let i = 0; i < newsData.articles.length; i++) {
       const article = newsData.articles[i];
       console.log(
-        `Processing article ${i + 1}/${newsData.articles.length}: ${article.title}`
+        `Processing article ${i + 1}/${newsData.articles.length}: ${
+          article.title
+        }`
       );
 
       try {
         const tags = await this.tagSingleArticle(article);
+        console.log(`Tags for article ${article.title}: ${tags.join(", ")}`);
+        
         taggedArticles.push({ ...article, tags });
 
         if (i < newsData.articles.length - 1) {
@@ -111,64 +161,69 @@ class NewsArticleTagger {
   public async tagSingleArticle(article: NewsArticle): Promise<string[]> {
     const prompt = this.createSingleArticlePrompt(article);
 
-    const responseText = await this.invokeModel(
-      prompt,
-      "anthropic.claude-3-haiku-20240307-v1:0"
-    );
+    const maxRetries = 5;
+    let attempt = 0;
+    let delay = 1000; // start with 1 second
 
-    return this.parseTagsFromResponse(responseText);
+    while (attempt < maxRetries) {
+      try {
+        const responseText = await this.invokeModel(
+          prompt,
+          "anthropic.claude-instant-v1"
+        );
+        return this.parseTagsFromResponse(responseText);
+      } catch (error: any) {
+        if (error.name === "ThrottlingException" && attempt < maxRetries - 1) {
+          console.warn(
+            `Throttling detected. Retrying in ${delay / 1000}s... (Attempt ${
+              attempt + 1
+            }/${maxRetries})`
+          );
+          await new Promise((resolve) => setTimeout(resolve, delay));
+          delay *= 2; // exponential backoff
+          attempt++;
+        } else {
+          // For other errors or max retries reached, re-throw the error
+          throw error;
+        }
+      }
+    }
+
+    // This part should not be reached if logic is correct, but as a fallback:
+    throw new Error(`Max retries reached for tagging article: ${article.title}`);
   }
 
   private createSingleArticlePrompt(article: NewsArticle): string {
     const tagDefinitionsText = this.formatTagDefinitions();
 
-    return `
-      Given an article with the following details:
-      Title: ${article.title}
-      Description: ${article.description}
-      Content: ${article.content}
+    // console.log("#####")
+    // console.log(tagDefinitionsText)
+    // console.log("#####")
 
-      Assign appropriate tags from the following list based on the article's content (use the tag IDs):
-      ${tagDefinitionsText}
+    let prompt = this.userPromptTemplate
+      .replace("{tag_definitions}", tagDefinitionsText)
+      .replace("{title}", article.title)
+      .replace("{description}", article.description || "");
 
-      Return the tags as a JSON array of strings using the tag IDs.
-    `;
+    if (article.content) {
+      prompt = prompt.replace("{content}", article.content);
+    } else {
+      prompt = prompt.replace("{content}", "No content available.");
+    }
+    return prompt;
   }
 
   private formatTagDefinitions(): string {
     let formatted = "";
     for (const category of this.tagDefinitions) {
-      formatted += `\n${category.title.toUpperCase()}: ${category.description}\n`;
+      formatted += `\n${category.title.toUpperCase()}: ${
+        category.description
+      }\n`;
       for (const tag of category.tags) {
         formatted += `  - ${tag.id}: ${tag.description}\n`;
       }
     }
     return formatted;
-  }
-
-  private parseTaggedArticles(
-    response: string,
-    originalArticles: NewsArticle[]
-  ): TaggedNewsArticle[] {
-    try {
-      const jsonMatch = response.match(/(\[[\s\S]*\])/);
-      if (!jsonMatch) {
-        throw new Error("No JSON array found in response");
-      }
-
-      const tagResults = JSON.parse(jsonMatch[0]);
-
-      return originalArticles.map((article, index) => {
-        const tagResult = tagResults.find(
-          (result: any) => result.index === index
-        );
-        const tags = tagResult ? tagResult.tags : [];
-        return { ...article, tags };
-      });
-    } catch (error) {
-      console.error("Error parsing batch response:", error);
-      return originalArticles.map((article) => ({ ...article, tags: [] }));
-    }
   }
 
   private parseTagsFromResponse(responseText: string): string[] {
@@ -226,7 +281,9 @@ async function main() {
   }
 
   console.log(
-    `Found ${untaggedFiles.length} untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`
+    `Found ${
+      untaggedFiles.length
+    } untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`
   );
 
   for (const fileName of untaggedFiles) {
@@ -265,8 +322,7 @@ async function main() {
     } catch (error) {
       console.error(`Failed to process ${fileName}:`, error);
     }
-    console.log(`--- Finished: ${fileName} ---
-`);
+    console.log(`--- Finished: ${fileName} ---\n`);
   }
 
   console.log("Tagging process completed.");

@@ -110,7 +110,7 @@ async function runNormalization() {
     "..",
     "data",
     "tags",
-    "new-tags.json"
+    "tags.json"
   );
 
   try {

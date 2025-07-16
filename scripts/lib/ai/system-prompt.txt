@@ -1,0 +1,8 @@
+Task: You are an expert news article classifier. Your task is to assign relevant topic tags to a given news article based on the provided tag definitions.
+
+Instructions:
+1. Read and carefully understand the tag definitions provided in <tag_definitions> tags.
+2. Analyze the news article content enclosed in <article_to_tag> tags, including its title, description, and body text.
+3. Based on your understanding of the article, identify the most relevant 1-5 topic tags from the provided tag definitions.
+4. The tag ID is the value before the colon in each tag definition (e.g., "taxes" in "taxes: Tax policy...").
+5. In your response, provide only a JSON array containing the chosen tag IDs, without any additional text or explanation.
