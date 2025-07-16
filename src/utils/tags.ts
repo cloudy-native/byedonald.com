@@ -1,5 +1,8 @@
 import tagsData from "../../data/tags/tags.json";
 
+const categoryIdFromTitle = (title: string) =>
+  title.toLowerCase().replace(/ & /g, "_").replace(/ /g, "_");
+
 // --- NEW UNIFIED TAG SYSTEM ---
 
 /**
@@ -19,13 +22,13 @@ export interface DisplayableTag {
 const displayableTagMap = new Map<string, DisplayableTag>();
 
 // Populate the map with all categories and their specific tags
-for (const categoryId in tagsData.tagCategories) {
-  const category = tagsData.tagCategories[categoryId as keyof typeof tagsData.tagCategories];
-  
+for (const category of (tagsData as unknown as TagCategory[])) {
+  const categoryId = categoryIdFromTitle(category.title);
+
   // Add the category itself as a displayable tag
   displayableTagMap.set(categoryId, {
     id: categoryId,
-    name: category.name,
+    name: category.title,
     color: category.color,
   });
 
@@ -62,7 +65,7 @@ export interface Tag {
 }
 
 export interface TagCategory {
-  name: string;
+  title: string;
   description: string;
   color: string;
   tags: Tag[];
@@ -70,6 +73,7 @@ export interface TagCategory {
 
 export interface TagCategoryWithId extends TagCategory {
   id: string;
+  name: string;
 }
 
 export interface TagInfo extends Tag {
@@ -83,14 +87,14 @@ export interface TagInfo extends Tag {
 
 const allTags: TagInfo[] = [];
 
-for (const categoryId in tagsData.tagCategories) {
-  const category = tagsData.tagCategories[categoryId as keyof typeof tagsData.tagCategories];
+for (const category of (tagsData as unknown as TagCategory[])) {
+  const categoryId = categoryIdFromTitle(category.title);
   for (const tag of category.tags) {
     allTags.push({
       ...tag,
       category: {
         id: categoryId,
-        name: category.name,
+        name: category.title,
         description: category.description,
         color: category.color,
       },
@@ -99,14 +103,19 @@ for (const categoryId in tagsData.tagCategories) {
 }
 
 export const getTagById = (id: string): TagInfo | undefined => {
-  return allTags.find(tag => tag.id === id);
+  return allTags.find((tag) => tag.id === id);
 };
 
-export const getCategoryByTagId = (tagId: string): TagCategoryWithId | undefined => {
-  for (const categoryId in tagsData.tagCategories) {
-    const category = tagsData.tagCategories[categoryId as keyof typeof tagsData.tagCategories];
-    if (category.tags.some(tag => tag.id === tagId)) {
-      return { ...category, id: categoryId };
+export const getCategoryByTagId = (
+  tagId: string
+): TagCategoryWithId | undefined => {
+  for (const category of (tagsData as unknown as TagCategory[])) {
+    if (category.tags.some((tag) => tag.id === tagId)) {
+      return {
+        ...category,
+        id: categoryIdFromTitle(category.title),
+        name: category.title,
+      };
     }
   }
   return undefined;
@@ -122,13 +131,14 @@ export const getAllTags = (): TagInfo[] => {
 };
 
 export const getTagsByCategoryId = (categoryId: string): Tag[] => {
-  const category = (tagsData.tagCategories as any)[categoryId];
+  const category = (tagsData as unknown as TagCategory[]).find(category => categoryIdFromTitle(category.title) === categoryId);
   return category ? category.tags : [];
 };
 
-export const getAllTagCategories = () => {
-  return Object.entries(tagsData.tagCategories).map(([id, categoryData]) => ({
-    id,
-    ...categoryData,
+export const getAllTagCategories = (): TagCategoryWithId[] => {
+  return (tagsData as unknown as TagCategory[]).map((category) => ({
+    ...category,
+    id: categoryIdFromTitle(category.title),
+    name: category.title,
   }));
 };

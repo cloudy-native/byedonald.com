@@ -106,10 +106,10 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           <AccordionItem border="none">
             <h2>
               <AccordionButton>
+                <AccordionIcon />
                 <Box as="span" flex='1' textAlign='left' fontWeight="bold">
                   Filter by Tags
                 </Box>
-                <AccordionIcon />
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>

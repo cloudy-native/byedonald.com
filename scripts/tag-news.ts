@@ -1,8 +1,16 @@
-import Anthropic from "@anthropic-ai/sdk";
+import {
+  BedrockRuntimeClient,
+  InvokeModelCommand,
+} from "@aws-sdk/client-bedrock-runtime";
 import * as fs from "fs/promises";
-import * as path from 'path';
-import { deduplicateArticles } from './lib/article-utils';
-import type { NewsArticle, TaggedNewsArticle, NewsResponse, TaggedNewsResponse } from './lib/article-utils';
+import * as path from "path";
+import type {
+  NewsArticle,
+  NewsResponse,
+  TaggedNewsArticle,
+  TaggedNewsResponse,
+} from "./lib/article-utils";
+import { deduplicateArticles } from "./lib/article-utils";
 
 interface Tag {
   id: string;
@@ -11,65 +19,64 @@ interface Tag {
 }
 
 interface TagCategory {
-  name: string;
+  title: string;
   description: string;
   color: string;
   tags: Tag[];
 }
 
-interface TagDefinition {
-  tagCategories: Record<string, TagCategory>;
-}
-
-
+type TagDefinition = TagCategory[];
 
 class NewsArticleTagger {
-  private client: Anthropic;
+  private client: BedrockRuntimeClient;
   private tagDefinitions: TagDefinition;
+  private singleArticlePromptTemplate: string;
 
-  constructor(apiKey: string, tagDefinitions: TagDefinition) {
-    this.client = new Anthropic({ apiKey });
+  private constructor(
+    tagDefinitions: TagDefinition,
+    singleArticlePromptTemplate: string
+  ) {
+    this.client = new BedrockRuntimeClient();
     this.tagDefinitions = tagDefinitions;
+    this.singleArticlePromptTemplate = singleArticlePromptTemplate;
   }
 
-  // Method 1: Process all articles in a single batch
-  async tagArticlesBatch(newsData: NewsResponse): Promise<TaggedNewsResponse> {
-    const prompt = this.createBatchPrompt(newsData.articles);
-
-    try {
-      const response = await this.client.messages.create({
-        model: "claude-sonnet-4-20250514",
-        max_tokens: 4000,
-        messages: [
-          {
-            role: "user",
-            content: prompt,
-          },
-        ],
-      });
-
-      const content = response.content[0];
-      if (content.type !== "text") {
-        throw new Error("Unexpected response type from Claude");
-      }
-
-      const taggedArticles = this.parseTaggedArticles(
-        content.text,
-        newsData.articles
-      );
-
-      return {
-        status: newsData.status,
-        totalResults: newsData.totalResults,
-        articles: taggedArticles,
-      };
-    } catch (error) {
-      console.error("Error in batch processing:", error);
-      throw error;
-    }
+  public static async create(
+    tagDefinitions: TagDefinition
+  ): Promise<NewsArticleTagger> {
+    const promptFilePath = path.join(
+      __dirname,
+      "lib",
+      "ai",
+      "article-tagging-prompt.txt"
+    );
+    const singleArticlePromptTemplate = await fs.readFile(
+      promptFilePath,
+      "utf-8"
+    );
+    return new NewsArticleTagger(tagDefinitions, singleArticlePromptTemplate);
   }
 
-  // Method 2: Process articles one by one
+  private async invokeModel(prompt: string, modelId: string): Promise<string> {
+    const command = new InvokeModelCommand({
+      modelId,
+      contentType: "application/json",
+      accept: "application/json",
+      body: JSON.stringify({
+        prompt: `\n\nHuman: ${prompt}\n\nAssistant:`,
+        max_tokens_to_sample: 500,
+        temperature: 0.2,
+        top_p: 0.9,
+      }),
+    });
+
+    const response = await this.client.send(command);
+    const decodedBody = new TextDecoder().decode(response.body);
+    const responseBody = JSON.parse(decodedBody);
+
+    return responseBody.completion;
+  }
+
   async tagArticlesIndividually(
     newsData: NewsResponse
   ): Promise<TaggedNewsResponse> {
@@ -85,13 +92,11 @@ class NewsArticleTagger {
         const tags = await this.tagSingleArticle(article);
         taggedArticles.push({ ...article, tags });
 
-        // Add a small delay to be respectful to the API
         if (i < newsData.articles.length - 1) {
           await new Promise((resolve) => setTimeout(resolve, 100));
         }
       } catch (error) {
         console.error(`Error processing article "${article.title}":`, error);
-        // Add article with empty tags if individual processing fails
         taggedArticles.push({ ...article, tags: [] });
       }
     }
@@ -106,94 +111,35 @@ class NewsArticleTagger {
   public async tagSingleArticle(article: NewsArticle): Promise<string[]> {
     const prompt = this.createSingleArticlePrompt(article);
 
-    console.log("####################");
-    console.log(prompt);
-    console.log("####################");
+    const responseText = await this.invokeModel(
+      prompt,
+      "anthropic.claude-3-haiku-20240307-v1:0"
+    );
 
-    const response = await this.client.messages.create({
-      model: "claude-3-haiku-20240307",
-      max_tokens: 500,
-      messages: [
-        {
-          role: "user",
-          content: prompt,
-        },
-      ],
-    });
-
-    const content = response.content[0];
-    if (content.type !== "text") {
-      throw new Error("Unexpected response type from Claude");
-    }
-
-    return this.parseTagsFromResponse(content.text);
-  }
-
-  private createBatchPrompt(articles: NewsArticle[]): string {
-    const tagDefinitionsText = this.formatTagDefinitions();
-
-    return `You are a news article classifier. Your task is to assign relevant topic tags to news articles based on the provided tag definitions.
-
-TAG DEFINITIONS:
-${tagDefinitionsText}
-
-INSTRUCTIONS:
-1. Analyze each article's title, description, and content
-2. Assign 1-5 relevant tags from the available tag definitions
-3. Only use tags that are defined in the tag definitions above
-4. Return the results as a JSON array where each object contains an "index" (0-based position) and "tags" (array of tag names)
-
-ARTICLES TO TAG:
-${articles
-  .map(
-    (article, index) => `
-Article ${index}:
-Title: ${article.title}
-Description: ${article.description}
-Content: ${article.content}
-`
-  )
-  .join("\n")}
-
-Return your response as a JSON array in this exact format:
-[
-  {"index": 0, "tags": ["tag1", "tag2"]},
-  {"index": 1, "tags": ["tag3", "tag4"]},
-  ...
-]`;
+    return this.parseTagsFromResponse(responseText);
   }
 
   private createSingleArticlePrompt(article: NewsArticle): string {
     const tagDefinitionsText = this.formatTagDefinitions();
 
-    return `You are a news article classifier. Your task is to assign relevant topic tags to this news article based on the provided tag definitions.
+    return `
+      Given an article with the following details:
+      Title: ${article.title}
+      Description: ${article.description}
+      Content: ${article.content}
 
-TAG DEFINITIONS:
-${tagDefinitionsText}
+      Assign appropriate tags from the following list based on the article's content (use the tag IDs):
+      ${tagDefinitionsText}
 
-ARTICLE TO TAG:
-Title: ${article.title}
-Description: ${article.description}
-Content: ${article.content}
-
-INSTRUCTIONS:
-1. Analyze the article's title, description, and content.
-2. Assign 1-5 relevant tags from the available tag definitions.
-3. Only use tags that are defined in the tag definitions above.
-4. The tag ID is the value before the colon (e.g., \`taxes\` in \`taxes: Tax policy...\`).
-5. Return ONLY a JSON array of the chosen tag IDs.
-
-Return your response as a JSON array of tag IDs:
-["tag_id_1", "tag_id_2", "tag_id_3"]`;
+      Return the tags as a JSON array of strings using the tag IDs.
+    `;
   }
 
   private formatTagDefinitions(): string {
     let formatted = "";
-    for (const [categoryKey, categoryData] of Object.entries(
-      this.tagDefinitions.tagCategories
-    )) {
-      formatted += `\n${categoryKey.toUpperCase()}: ${categoryData.description}\n`;
-      for (const tag of categoryData.tags) {
+    for (const category of this.tagDefinitions) {
+      formatted += `\n${category.title.toUpperCase()}: ${category.description}\n`;
+      for (const tag of category.tags) {
         formatted += `  - ${tag.id}: ${tag.description}\n`;
       }
     }
@@ -205,8 +151,7 @@ Return your response as a JSON array of tag IDs:
     originalArticles: NewsArticle[]
   ): TaggedNewsArticle[] {
     try {
-      // Extract JSON from response
-      const jsonMatch = response.match(/\[[\s\S]*\]/);
+      const jsonMatch = response.match(/(\[[\s\S]*\])/);
       if (!jsonMatch) {
         throw new Error("No JSON array found in response");
       }
@@ -222,57 +167,61 @@ Return your response as a JSON array of tag IDs:
       });
     } catch (error) {
       console.error("Error parsing batch response:", error);
-      // Return articles with empty tags if parsing fails
       return originalArticles.map((article) => ({ ...article, tags: [] }));
     }
   }
 
-  private parseTagsFromResponse(response: string): string[] {
-    try {
-      // Extract JSON array from response
-      const jsonMatch = response.match(/\[[\s\S]*?\]/);
-      if (!jsonMatch) {
-        throw new Error("No JSON array found in response");
-      }
+  private parseTagsFromResponse(responseText: string): string[] {
+    const validTags = this.tagDefinitions.flatMap((category) =>
+      category.tags.map((tag) => tag.id)
+    );
 
-      return JSON.parse(jsonMatch[0]);
+    try {
+      const jsonString = responseText.trim();
+      const tags = JSON.parse(jsonString);
+      if (Array.isArray(tags)) {
+        return tags.filter(
+          (tag) => typeof tag === "string" && validTags.includes(tag)
+        );
+      }
+      return [];
     } catch (error) {
-      console.error("Error parsing tags from response:", error);
+      console.error("Error parsing tags from response:", responseText, error);
       return [];
     }
   }
 }
 
-// Usage example
 async function main() {
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) {
-    throw new Error('ANTHROPIC_API_KEY environment variable is required');
-  }
-
   // --- CONFIGURATION ---
-  const RAW_NEWS_DIR = path.join(__dirname, '..', 'data', 'news', 'raw');
-  const TAGGED_NEWS_DIR = path.join(__dirname, '..', 'data', 'news', 'tagged');
-  const TAGS_FILE_PATH = path.join(__dirname, '..', 'data', 'tags', 'tags.json');
+  const RAW_NEWS_DIR = path.join(__dirname, "..", "data", "news", "raw");
+  const TAGGED_NEWS_DIR = path.join(__dirname, "..", "data", "news", "tagged");
+  const TAGS_FILE_PATH = path.join(
+    __dirname,
+    "..",
+    "data",
+    "tags",
+    "tags.json"
+  );
 
   // Load tag definitions
   const tagDefinitions: TagDefinition = JSON.parse(
-    await fs.readFile(TAGS_FILE_PATH, 'utf8')
+    await fs.readFile(TAGS_FILE_PATH, "utf8")
   );
 
   // Instantiate the tagger
-  const tagger = new NewsArticleTagger(apiKey, tagDefinitions);
+  const tagger = await NewsArticleTagger.create(tagDefinitions);
 
   // Find untagged files
   await fs.mkdir(TAGGED_NEWS_DIR, { recursive: true });
   const rawFiles = await fs.readdir(RAW_NEWS_DIR);
   const taggedFiles = new Set(await fs.readdir(TAGGED_NEWS_DIR));
   const untaggedFiles = rawFiles.filter(
-    file => !taggedFiles.has(file) && file.endsWith('.json')
+    (file) => !taggedFiles.has(file) && file.endsWith(".json")
   );
 
   if (untaggedFiles.length === 0) {
-    console.log('All news files are already tagged. Nothing to do.');
+    console.log("All news files are already tagged. Nothing to do.");
     return;
   }
 
@@ -286,42 +235,41 @@ async function main() {
     const taggedFilePath = path.join(TAGGED_NEWS_DIR, fileName);
 
     try {
-      const rawJsonString = await fs.readFile(rawFilePath, 'utf-8');
+      const rawJsonString = await fs.readFile(rawFilePath, "utf-8");
       const newsData: NewsResponse = JSON.parse(rawJsonString);
 
-      // Deduplicate articles before tagging
       const originalCount = newsData.articles.length;
       newsData.articles = deduplicateArticles(newsData.articles);
       newsData.totalResults = newsData.articles.length;
       const duplicateCount = originalCount - newsData.totalResults;
       if (duplicateCount > 0) {
-        console.log(`Removed ${duplicateCount}/${originalCount} duplicate/similar articles.`);
+        console.log(
+          `Removed ${duplicateCount}/${originalCount} duplicate/similar articles.`
+        );
       }
 
       if (newsData.articles.length === 0) {
-        console.log('No unique articles to tag. Skipping.');
-        // Optional: create an empty tagged file
-        await fs.writeFile(taggedFilePath, JSON.stringify({ ...newsData, articles: [] }, null, 2));
+        console.log("No unique articles to tag. Skipping.");
+        await fs.writeFile(
+          taggedFilePath,
+          JSON.stringify({ ...newsData, articles: [] }, null, 2)
+        );
         console.log(`Created empty tagged file: ${fileName}`);
-        continue; // Skip to the next file
+        continue;
       }
 
-      // const taggedResult = await tagger.tagArticlesBatch(newsData);
       const taggedResult = await tagger.tagArticlesIndividually(newsData);
 
-      await fs.writeFile(
-        taggedFilePath,
-        JSON.stringify(taggedResult, null, 2)
-      );
+      await fs.writeFile(taggedFilePath, JSON.stringify(taggedResult, null, 2));
       console.log(`Successfully tagged and saved: ${fileName}`);
     } catch (error) {
       console.error(`Failed to process ${fileName}:`, error);
-      // Continue to the next file
     }
-    console.log(`--- Finished: ${fileName} ---\n`);
+    console.log(`--- Finished: ${fileName} ---
+`);
   }
 
-  console.log('Tagging process completed.');
+  console.log("Tagging process completed.");
 }
 
 main()
@@ -329,4 +277,4 @@ main()
   .catch(console.error);
 
 export { NewsArticleTagger };
-export type { TaggedNewsResponse, TagDefinition };
+export type { TagDefinition, TaggedNewsResponse };

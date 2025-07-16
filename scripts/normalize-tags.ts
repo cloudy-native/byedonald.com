@@ -8,15 +8,14 @@ interface Tag {
 }
 
 interface TagCategory {
-  name: string;
+  title: string; // Changed from 'name' to 'title'
   description: string;
   color: string;
   tags: Tag[];
 }
 
-interface TagDefinition {
-  tagCategories: Record<string, TagCategory>;
-}
+// The new format is an array of categories directly.
+type TagDefinition = TagCategory[];
 
 interface TaggedNewsArticle {
   tags: string[];
@@ -31,28 +30,19 @@ interface TaggedNewsResponse {
 // --- MAIN LOGIC ---
 
 /**
- * Creates a mapping from a tag's name (lowercase) to its ID.
- * @param {TagDefinition} tagDefinitions - The loaded tag definitions from tags.json.
- * @returns {Map<string, string>} A map where key is the lowercase tag name and value is the tag ID.
- */
-/**
  * Creates a single, comprehensive map from any potential incorrect tag value
  * (lowercase name, lowercase id) to its canonical, correctly-cased ID.
- * @param {TagDefinition} tagDefinitions - The loaded tag definitions from tags.json.
+ * @param {TagDefinition} tagDefinitions - The loaded tag definitions from new-tags.json.
  * @returns {Map<string, string>} A map for normalization.
  */
 function createNormalizationMap(tagDefinitions: TagDefinition): Map<string, string> {
   const normalizationMap = new Map<string, string>();
 
-  for (const [categoryKey, categoryData] of Object.entries(
-    tagDefinitions.tagCategories
-  )) {
-    // Map the category's lowercase name to its canonical key
-    normalizationMap.set(categoryData.name.toLowerCase(), categoryKey);
-    // Map the category's lowercase key to its canonical key (for case-fixing)
-    normalizationMap.set(categoryKey.toLowerCase(), categoryKey);
-
-    for (const tag of categoryData.tags) {
+  // The new format is an array of categories.
+  for (const category of tagDefinitions) {
+    // In the new format, there's no separate category key like 'government_administration'.
+    // The primary items to normalize are the tags themselves.
+    for (const tag of category.tags) {
       // Map the tag's lowercase name to its canonical ID
       normalizationMap.set(tag.name.toLowerCase(), tag.id);
       // Map the tag's lowercase ID to its canonical ID (for case-fixing)
@@ -120,7 +110,7 @@ async function runNormalization() {
     "..",
     "data",
     "tags",
-    "tags.json"
+    "new-tags.json"
   );
 
   try {

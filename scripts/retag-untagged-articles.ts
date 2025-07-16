@@ -9,17 +9,12 @@ dotenv.config({ path: path.join(__dirname, '..', '.env') });
 async function retagMissingArticles() {
   console.log('Starting to re-tag articles with missing or empty tags...');
 
-  const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-  if (!ANTHROPIC_API_KEY) {
-    throw new Error('ANTHROPIC_API_KEY is not set in the environment variables.');
-  }
-
   const TAGS_FILE_PATH = path.join(__dirname, '..', 'data', 'tags', 'tags.json');
   const TAGGED_NEWS_DIR = path.join(__dirname, '..', 'data', 'news', 'tagged');
 
   try {
     const tagDefinitions: TagDefinition = JSON.parse(await fs.readFile(TAGS_FILE_PATH, 'utf8'));
-    const tagger = new NewsArticleTagger(ANTHROPIC_API_KEY, tagDefinitions);
+    const tagger = await NewsArticleTagger.create(tagDefinitions);
 
     const taggedFiles = await fs.readdir(TAGGED_NEWS_DIR);
     const jsonFiles = taggedFiles.filter(file => file.endsWith('.json'));

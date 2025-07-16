@@ -4,7 +4,6 @@ import {
   Heading,
   Tag,
   Tooltip,
-  VStack,
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
@@ -28,76 +27,64 @@ export const TagLegend: React.FC<TagLegendProps> = ({
   onClear,
   relevantTagIds,
 }) => {
+  const isFiltering = activeTags.size > 0;
+
   return (
     <Box mb={8}>
-      <VStack spacing={4} align="stretch">
+      <Wrap spacing={4}>
         {TAG_CATEGORIES.map((category) => {
           const categoryTags = TAGS.filter(
-            (tag) => tag.category.id === category.id && relevantTagIds.has(tag.id)
+            (tag) =>
+              tag.category.id === category.id && relevantTagIds.has(tag.id)
           );
 
           if (categoryTags.length === 0) {
             return null;
           }
 
-          const isActiveCategory = categoryTags.some((tag) =>
-            activeTags.has(tag.id)
-          );
+          const categoryIsActive =
+            !isFiltering || categoryTags.some((tag) => activeTags.has(tag.id));
 
           return (
-            <Box
-              key={category.id}
-              p={4}
-              borderWidth={2}
-              borderColor={isActiveCategory ? category.color : "gray.200"}
-              borderRadius="md"
-              width="100%"
-            >
-              <Wrap spacing={2} align="center">
-                <Heading as="h4" size="sm" color={category.color} mr={2}>
-                  {category.name}
+            <WrapItem key={category.id}>
+              <Box
+                p={4}
+                borderWidth={2}
+                borderColor={categoryIsActive ? category.color : "gray.200"}
+                borderRadius="md"
+              >
+                <Heading as="h4" size="sm" color={category.color} mb={2}>
+                  {category.title}
                 </Heading>
-                <Tag
-                  size="md"
-                  variant="solid"
-                  bg={category.color}
-                  color="white"
-                  cursor="pointer"
-                  opacity={activeTags.has(category.id) ? 1 : 0.4}
-                  onClick={() => onTagClick(category.id)}
-                  _hover={{ opacity: 1 }}
-                >
-                  (All)
-                </Tag>
-              </Wrap>
-              <Wrap spacing={2} mt={2}>
-                {categoryTags.map((tag: TagInfo) => {
-                  const isActive = activeTags.has(tag.id);
-                  return (
-                    <WrapItem key={tag.id}>
-                      <Tooltip label={tag.description} placement="top" hasArrow>
-                        <Tag
-                          size="md"
-                          variant="solid"
-                          bg={category.color}
-                          color="white"
-                          cursor="pointer"
-                          opacity={isActive ? 1 : 0.4}
-                          onClick={() => onTagClick(tag.id)}
-                          _hover={{ opacity: 1 }}
-                        >
-                          {tag.name}
-                        </Tag>
-                      </Tooltip>
-                    </WrapItem>
-                  );
-                })}
-              </Wrap>
-            </Box>
+                <Wrap spacing={2}>
+                  {categoryTags.map((tag: TagInfo) => {
+                    const tagIsActive = !isFiltering || activeTags.has(tag.id);
+                    return (
+                      <WrapItem key={tag.id}>
+                        <Tooltip label={tag.description} placement="top" hasArrow>
+                          <Tag
+                            size="md"
+                            variant="solid"
+                            bg={category.color}
+                            color="white"
+                            cursor="pointer"
+                            opacity={tagIsActive ? 1 : 0.4}
+                            onClick={() => onTagClick(tag.id)}
+                            _hover={{ opacity: 1 }}
+                          >
+                            {tag.name}
+                          </Tag>
+                        </Tooltip>
+                      </WrapItem>
+                    );
+                  })}
+                </Wrap>
+              </Box>
+            </WrapItem>
           );
         })}
-      </VStack>
-      {activeTags.size > 0 && (
+      </Wrap>
+      {isFiltering && (
         <Button mt={4} size="sm" onClick={onClear}>
           Clear All Filters
         </Button>
@@ -105,5 +92,3 @@ export const TagLegend: React.FC<TagLegendProps> = ({
     </Box>
   );
 };
-
-export default TagLegend;
