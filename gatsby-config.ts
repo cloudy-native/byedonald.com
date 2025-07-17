@@ -1,4 +1,7 @@
 import type { GatsbyConfig } from "gatsby";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const algoliaQuery = `
   query {
@@ -9,6 +12,8 @@ const algoliaQuery = `
         title
         description
         content
+        url
+        urlToImage
       }
     }
   }

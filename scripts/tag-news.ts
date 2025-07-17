@@ -11,6 +11,7 @@ import type {
   TaggedNewsResponse,
 } from "./lib/article-utils";
 import { deduplicateArticles } from "./lib/article-utils";
+import tagDefinitions from "../data/tags/tags.json";
 
 interface Tag {
   id: string;
@@ -27,11 +28,77 @@ interface TagCategory {
 
 type TagDefinition = TagCategory[];
 
+interface ModelProviderHandler {
+  canHandle(modelId: string): boolean;
+  buildBody(systemPrompt: string, userPrompt: string): string;
+  parseResponse(responseBody: any): string;
+}
+
+class AnthropicHandler implements ModelProviderHandler {
+  canHandle(modelId: string): boolean {
+    return modelId.startsWith("anthropic");
+  }
+
+  buildBody(systemPrompt: string, userPrompt: string): string {
+    return JSON.stringify({
+      anthropic_version: "bedrock-2023-05-31",
+      system: systemPrompt,
+      messages: [{ role: "user", content: userPrompt }],
+      max_tokens: 500,
+      temperature: 0.2,
+      top_p: 0.9,
+    });
+  }
+
+  parseResponse(responseBody: any): string {
+    if (responseBody.content && responseBody.content.length > 0) {
+      return responseBody.content[0].text;
+    }
+    throw new Error("Empty or invalid response from Anthropic model");
+  }
+}
+
+class AmazonNovaHandler implements ModelProviderHandler {
+  canHandle(modelId: string): boolean {
+    return modelId.startsWith("amazon.nova");
+  }
+
+  buildBody(systemPrompt: string, userPrompt: string): string {
+    return JSON.stringify({
+      messages: [
+        { role: "user", content: [{ text: systemPrompt }] },
+        { role: "user", content: [{ text: userPrompt }] },
+      ],
+      inferenceConfig: {
+        maxTokens: 512,
+        stopSequences: [],
+        temperature: 0.7,
+        topP: 0.9,
+      },
+    });
+  }
+
+  parseResponse(responseBody: any): string {
+    if (
+      responseBody.output &&
+      responseBody.output.message &&
+      responseBody.output.message.content &&
+      responseBody.output.message.content.length > 0 &&
+      responseBody.output.message.content[0].text
+    ) {
+      return responseBody.output.message.content[0].text;
+    }
+    console.error("Invalid response structure from Amazon Nova model:", JSON.stringify(responseBody, null, 2));
+    throw new Error("Empty or invalid response from Amazon Nova model");
+  }
+}
+
 class NewsArticleTagger {
   private client: BedrockRuntimeClient;
   private tagDefinitions: TagDefinition;
   private systemPrompt: string;
   private userPromptTemplate: string;
+  private modelHandlers: ModelProviderHandler[];
 
   private constructor(
     tagDefinitions: TagDefinition,
@@ -42,6 +109,7 @@ class NewsArticleTagger {
     this.tagDefinitions = tagDefinitions;
     this.systemPrompt = systemPrompt;
     this.userPromptTemplate = userPromptTemplate;
+    this.modelHandlers = [new AnthropicHandler(), new AmazonNovaHandler()];
   }
 
   public static async create(
@@ -53,12 +121,7 @@ class NewsArticleTagger {
       "ai",
       "system-prompt.txt"
     );
-    const userPromptPath = path.join(
-      __dirname,
-      "lib",
-      "ai",
-      "user-prompt.txt"
-    );
+    const userPromptPath = path.join(__dirname, "lib", "ai", "user-prompt.txt");
     const [systemPrompt, userPromptTemplate] = await Promise.all([
       fs.readFile(systemPromptPath, "utf-8"),
       fs.readFile(userPromptPath, "utf-8"),
@@ -74,30 +137,13 @@ class NewsArticleTagger {
     userPrompt: string,
     modelId: string
   ): Promise<string> {
-    let body;
+    const handler = this.modelHandlers.find((h) => h.canHandle(modelId));
 
-    if (modelId.startsWith("anthropic")) {
-      body = JSON.stringify({
-        anthropic_version: "bedrock-2023-05-31",
-        system: this.systemPrompt,
-        messages: [{ role: "user", content: userPrompt }],
-        max_tokens: 500,
-        temperature: 0.2,
-        top_p: 0.9,
-      });
-    } else if (modelId.startsWith("amazon")) {
-      const prompt = `${this.systemPrompt}\n\nHuman: ${userPrompt}\n\nAssistant:`;
-      body = JSON.stringify({
-        inputText: prompt,
-        textGenerationConfig: {
-          maxTokenCount: 512,
-          temperature: 0.2,
-          topP: 0.9,
-        },
-      });
-    } else {
+    if (!handler) {
       throw new Error(`Unsupported model provider for modelId: ${modelId}`);
     }
+
+    const body = handler.buildBody(this.systemPrompt, userPrompt);
 
     const command = new InvokeModelCommand({
       modelId,
@@ -110,17 +156,7 @@ class NewsArticleTagger {
     const decodedBody = new TextDecoder().decode(response.body);
     const responseBody = JSON.parse(decodedBody);
 
-    if (modelId.startsWith("anthropic")) {
-      if (responseBody.content && responseBody.content.length > 0) {
-        return responseBody.content[0].text;
-      }
-    } else if (modelId.startsWith("amazon")) {
-      if (responseBody.results && responseBody.results.length > 0) {
-        return responseBody.results[0].outputText;
-      }
-    }
-
-    throw new Error("Empty or invalid response from model");
+    return handler.parseResponse(responseBody);
   }
 
   async tagArticlesIndividually(
@@ -138,8 +174,8 @@ class NewsArticleTagger {
 
       try {
         const tags = await this.tagSingleArticle(article);
-        console.log(`Tags for article ${article.title}: ${tags.join(", ")}`);
-        
+        console.log(`>>>> ${tags.join(", ")}`);
+
         taggedArticles.push({ ...article, tags });
 
         if (i < newsData.articles.length - 1) {
@@ -169,7 +205,7 @@ class NewsArticleTagger {
       try {
         const responseText = await this.invokeModel(
           prompt,
-          "anthropic.claude-instant-v1"
+          "amazon.nova-lite-v1:0"
         );
         return this.parseTagsFromResponse(responseText);
       } catch (error: any) {
@@ -190,7 +226,9 @@ class NewsArticleTagger {
     }
 
     // This part should not be reached if logic is correct, but as a fallback:
-    throw new Error(`Max retries reached for tagging article: ${article.title}`);
+    throw new Error(
+      `Max retries reached for tagging article: ${article.title}`
+    );
   }
 
   private createSingleArticlePrompt(article: NewsArticle): string {
@@ -251,21 +289,10 @@ async function main() {
   // --- CONFIGURATION ---
   const RAW_NEWS_DIR = path.join(__dirname, "..", "data", "news", "raw");
   const TAGGED_NEWS_DIR = path.join(__dirname, "..", "data", "news", "tagged");
-  const TAGS_FILE_PATH = path.join(
-    __dirname,
-    "..",
-    "data",
-    "tags",
-    "tags.json"
-  );
-
-  // Load tag definitions
-  const tagDefinitions: TagDefinition = JSON.parse(
-    await fs.readFile(TAGS_FILE_PATH, "utf8")
-  );
-
   // Instantiate the tagger
-  const tagger = await NewsArticleTagger.create(tagDefinitions);
+  const tagger = await NewsArticleTagger.create(
+    tagDefinitions as TagDefinition
+  );
 
   // Find untagged files
   await fs.mkdir(TAGGED_NEWS_DIR, { recursive: true });

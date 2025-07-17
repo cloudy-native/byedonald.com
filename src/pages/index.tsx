@@ -1,9 +1,15 @@
 import {
+  Accordion,
+  AccordionButton,
+  AccordionIcon,
+  AccordionItem,
+  AccordionPanel,
   Box,
   Button,
   Flex,
   Heading,
   HStack,
+  Icon,
   Progress,
   SimpleGrid,
   Tab,
@@ -17,6 +23,8 @@ import {
 } from "@chakra-ui/react";
 import { graphql, HeadFC, Link, PageProps, useStaticQuery } from "gatsby";
 import * as React from "react";
+import Search from "../components/Search";
+import { SearchIcon } from "@chakra-ui/icons";
 
 // Helper function to get the number of days in a month
 const daysInMonth = (month: number, year: number) => {
@@ -125,7 +133,7 @@ const MonthView: React.FC<MonthViewProps> = ({
           backgroundImage: `url(${backgroundImage})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          opacity: 0.05,
+          opacity: 0.15,
           zIndex: 0,
         },
         ">*": {
@@ -241,7 +249,7 @@ const Countdown: React.FC = () => {
 };
 
 const IndexPage: React.FC<PageProps> = () => {
-  const startYear = 2024;
+  const startYear = 2023;
   const currentYear = new Date().getFullYear();
   const years = Array.from(
     { length: currentYear - startYear + 1 },
@@ -291,7 +299,21 @@ const IndexPage: React.FC<PageProps> = () => {
         </Text>
         <TermProgressBar />
         <Countdown />
-        {/* <Search /> */}
+        <Accordion allowToggle width="100%" maxW="6xl">
+          <AccordionItem>
+            <h2>
+              <AccordionButton>
+                <AccordionIcon />
+                <Text fontSize="lg" color={textColor}>
+                  <Icon as={SearchIcon} /> Search News
+                </Text>
+              </AccordionButton>
+            </h2>
+            <AccordionPanel pb={4}>
+              <Search />
+            </AccordionPanel>
+          </AccordionItem>
+        </Accordion>
       </VStack>
 
       <Box p={8}>
@@ -320,9 +342,9 @@ const IndexPage: React.FC<PageProps> = () => {
                     width="100%"
                   >
                     {months.map((month, monthIndex) => {
-                      const imageIndex =
+                      const imageIndex =  
                         backgroundImages.length > 0
-                          ? ((monthIndex + 1) * year) % backgroundImages.length
+                          ? (year + monthIndex) % backgroundImages.length
                           : 0;
                       const deterministicImage =
                         backgroundImages.length > 0

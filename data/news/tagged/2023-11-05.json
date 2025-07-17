@@ -1,0 +1,463 @@
+{
+  "status": "ok",
+  "totalResults": 25,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Eric Trump Accused by Attorney of 'Taking a Dump' on Justice System",
+      "description": "Eric Trump previously called Letitia James civil fraud suit against his family a \"charade.\"",
+      "url": "https://www.newsweek.com/eric-trump-accused-attorney-taking-dump-justice-system-1841006",
+      "urlToImage": "https://d.newsweek.com/en/full/2304633/eric-trump-lambasted-fraud-trial.jpg",
+      "publishedAt": "2023-11-05T22:27:56Z",
+      "content": "A criminal defense attorney ripped into Eric Trump during a Sunday appearance on Newsmax over his recent comments during his family's civil fraud trial, likening his comments to \"taking a dump\" over the justice system.\nNew York Attorney General Letit... [3100 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "How Trump’s lawyers and campaign staff manage the chaotic collision of his trial and political operations",
+      "description": "Between campaign stops and courtroom appearances, former President Donald Trump has been quietly preparing to take the witness stand in his civil fraud trial in New York, meeting with his lawyers ahead of his testimony on Monday, sources familiar with the preparations tell CNN.",
+      "url": "https://edition.cnn.com/2023/11/05/politics/trump-lawyers-campaign-trials/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1771848189.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-05T22:00:15Z",
+      "content": "CNN —\nBetween campaign stops and courtroom appearances, former President Donald Trump has been quietly preparing to take the witness stand in his civil fraud trial in New York, meeting with his lawyers ahead of his testimony Monday, sources familiar ... [8283 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "elections_politics"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "Trump set to testify in New York fraud trial with business empire at stake",
+      "description": "Donald Trump and lawyers from New York Attorney General Letitia James’s (D) office will face off this week when the former president is expected to take the stand in the fraud case jeopardizing his business empire. His testimony marks an unprecedented turn in U.S. history where a former president and current White House candidate must…",
+      "url": "https://thehill.com/homenews/4290700-trump-testify-new-york-fraud-trial/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/Trump-World-Trump_102423_AP_Stefan-Jeremiah.jpg?w=1280",
+      "publishedAt": "2023-11-05T22:00:08Z",
+      "content": "Donald Trump and lawyers from New York Attorney General Letitia James’s (D) office will face off this week when the former president is expected to take the stand in the fraud case jeopardizing his business empire.\nHis testimony marks an unprecedente... [6875 chars]",
+      "tags": [
+        "personal_legal",
+        "legal_justice",
+        "new_york",
+        "regional_state"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "A Five-Alarm Biden Re-Election Fire",
+      "description": "The President trails Trump in five of six battleground states in a new survey.",
+      "url": "https://www.wsj.com/articles/a-five-alarm-biden-re-election-fire-nyt-siena-trump-2024-2f3f826c",
+      "urlToImage": "https://images.wsj.net/im-881634/social",
+      "publishedAt": "2023-11-05T21:14:00Z",
+      "content": "Journal Editorial Report: Paul Gigot interviews Alaska GOP Senator Dan Sullivan. Images: Getty Images/Zuma Press Composite: Mark Kelly\nPublic-opinion polls are a snapshot in time, and results can change quickly in politics as events intrude. But the ... [409 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chicago Tribune"
+      },
+      "author": "Chicago Tribune",
+      "title": "Iowa governor will endorse DeSantis for president",
+      "description": "Iowa Gov. Kim Reynolds plans to endorse Ron DeSantis for president, giving the Florida governor’s 2024 campaign a boost as he struggles to show progress against Donald Trump in the Republican primary, two people familiar with the matter said Sunday.",
+      "url": "https://www.chicagotribune.com/politics/elections/ct-aud-nw-iowa-governor-desantis-endorsement-20231105-5l3dllgtdbaunclwktcawn6bwq-story.html",
+      "urlToImage": "https://www.chicagotribune.com/resizer/2urVo8a1ANucIcumHpHT05B4EXM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/D2MEZHTASRQ4T6D3RHOETWUMZM.jpg",
+      "publishedAt": "2023-11-05T21:08:00Z",
+      "content": "Florida Gov. Ron DeSantis speaks at an event with Iowa Gov. Kim Reynolds, Friday, March 10, 2023, in Davenport, Iowa. Iowa Gov. Kim Reynolds plans to endorse Ron DeSantis for president, giving the Florida governor's 2024 campaign a boost as he strugg... [3671 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Zelensky pushes U.S. for more aid, invites Trump to Ukraine",
+      "description": "Trump has been sharply critical of U.S. support for Kyiv and has said he could end the war in 24 hours if re-elected",
+      "url": "https://www.theglobeandmail.com/world/article-zelensky-pushes-us-for-more-aid-invites-trump-to-ukraine/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/KRRO5EPI3NA5ZP3GKUBWI7YVS4.JPG?auth=dd3b27bc1842dccf6ec24abff6b006de16506e94b86a6ffe928bfaf6b460e1d8&width=1200&height=800&quality=80",
+      "publishedAt": "2023-11-05T20:50:21Z",
+      "content": "Ukraine’s President Volodymyr Zelensky called on the U.S. to provide more funding to help his forces counter Russia, and invited former U.S. President Donald Trump to fly in to see the scale of the conflict for himself.\nZelensky said American soldier... [1580 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "security_intelligence",
+        "crisis_emergency"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Salon",
+      "title": "Trump claims he won all 50 states in the 2020 election",
+      "description": "During a campaign event in Florida, Trump claims he won all 50 states in the 2020 election",
+      "url": "https://www.salon.com/2023/11/05/claims-he-won-all-50-states-in-the-2020/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/11/gettyimages-1763974694.jpg",
+      "publishedAt": "2023-11-05T20:27:19Z",
+      "content": "During a campaign event held in Florida on Saturday, Donald Trump continued with his usual deal of crediting himself for unearned victories, claiming to have won all 50 states during the 2020 election, although Biden took Arizona, Nevada, Michigan, W... [992 chars]",
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "florida",
+        "regional_state",
+        "media_communications"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Blumenthal: Democrats have ‘work cut out’ as Biden trails Trump in five swing states",
+      "description": "New poll shows Biden ahead in Wisconsin, but Trump leading in Nevada, Arizona, Georgia, Pennsylvania and Michigan",
+      "url": "https://www.theguardian.com/us-news/2023/nov/05/biden-trails-trump-five-swing-states-poll",
+      "urlToImage": "https://i.guim.co.uk/img/media/e42db326f806172a9f8692f272c7fa1e77a3c1fb/0_351_6000_3602/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8d33ec7123d560a169063b514ac3e76",
+      "publishedAt": "2023-11-05T19:15:30Z",
+      "content": "Democratic Senator Richard Blumenthal said on Sunday that the party has “its work cut out for us” in response to new polling that shows President Joe Biden trailing Donald Trump in five of six swing states.\nThe survey by the New York Times and Siena ... [3721 chars]",
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The News International"
+      },
+      "author": "The News International",
+      "title": "What to expect from Donald Trump's testimony in his own $250 million civil fraud trial?",
+      "description": "The trial will determine whether further actions are necessary and what punishment, if any Donald Trump may face",
+      "url": "https://www.thenews.com.pk/latest/1126455-what-to-expect-from-trumps-testimony-in-his-own-250-million-civil-fraud-trial",
+      "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-11-06/l_1126455_060306_updates.jpg",
+      "publishedAt": "2023-11-05T19:00:00Z",
+      "content": "Former President Donald Trump sits in the courtroom for the third day of his civil fraud trial in New York, Oct 4, 2023. — AFP\nDonald Trump will move from his chair beside his attorneys to the witness stand on Monday when he appears in court — he wil... [2482 chars]",
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Huffington Post"
+      },
+      "author": "The Huffington Post",
+      "title": "Trump Leads Biden In 5 Swing States, Per New Polls",
+      "description": "But Biden maintains a modest lead in Wisconsin.",
+      "url": "https://www.huffpost.com/entry/new-polls-trump-leads-biden-swing-states_n_6547df66e4b01b2585841f77",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6547dfa72300003500ea5552.jpeg?cache=Cd4DzWYTB7&ops=1200_630",
+      "publishedAt": "2023-11-05T18:55:28Z",
+      "content": "President Joe Biden speaks in Lewiston, Maine, on Friday, surrounded by first responders, nurses, and others on the front lines of the response to the Oct. 25 mass shooting there. MANDEL NGAN/Getty Images\nMore voters in five key swing states say that... [2682 chars]",
+      "tags": [
+        "elections_politics",
+        "swing_states",
+        "2026_midterms"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Trump’s tariff plans would be disastrous for America and the world",
+      "description": "You may think his worst ideas won’t get far. Sadly, on trade he has been singularly influential",
+      "url": "https://www.livemint.com/economy/trumps-tariff-plans-would-be-disastrous-for-america-and-the-world-11699078409535.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/04/1600x900/Trump-Indictment-Capitol-Riot-0_1693239661147_1699078791193.jpg",
+      "publishedAt": "2023-11-05T18:30:00Z",
+      "content": "Joe Biden’s approval rating is languishing and Donald Trump is cruising to the Republican presidential nomination, so it is wise to consider what another Trump term might bring. Though much about Mr Trump’s policy agenda is chaotic, in one area he is... [4065 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "policy_legislation"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Donald Trump decries ‘political warfare’ in NY business fraud case",
+      "description": "The former U.S. president, like his two adult sons who testified last week, will likely face pointed questions about the questionable accounting practices that Judge Arthur Engoron has already ruled to be fraudulent.",
+      "url": "https://indianexpress.com/article/world/donald-trump-decries-political-warfare-in-ny-business-fraud-case-9016299/",
+      "urlToImage": "https://images.indianexpress.com/2023/11/1-25.jpg",
+      "publishedAt": "2023-11-05T18:30:00Z",
+      "content": "Donald Trump was sworn in to testify on Monday in a New York civil fraud trial that threatens to diminish the real estate empire that built his reputation before he entered politics.\nThe former U.S. president, like his two adult sons who testified la... [3622 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "new_york",
+        "regional_state"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "THE WEEK"
+      },
+      "author": "THE WEEK",
+      "title": "Trump’s business, political ambitions poised to converge as he testifies in New York civil case",
+      "description": "When Donald Trump takes the stand on Monday in a Manhattan courtroom to testify in his civil fraud trial, it will be an undeniable spectacle: A former president and the leading Republican presidential candidate defending himself against allegations that he dramatically inflated his net worth",
+      "url": "https://www.theweek.in/news/world/2023/11/06/trumps-business-political-ambitions-poised-to-converge-as-he-testifies-in-new-york-civil-case.html",
+      "urlToImage": "https://www.theweek.in/content/dam/week/news/world/images/2023/9/27/trump_fraud.jpg",
+      "publishedAt": "2023-11-05T18:30:00Z",
+      "content": "When Donald Trump takes the stand on Monday in a Manhattan courtroom to testify in his civil fraud trial, it will be an undeniable spectacle: A former president and the leading Republican presidential candidate defending himself against allegations t... [4948 chars]",
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "US Presidential Elections: Donald Trump leads Joe Biden in 6 swing states, survey shows",
+      "description": "Former US President Donald Trump leads polls and is followed by US President Joe Biden as Americans were doubtful about Biden's age and were dissatisfied with him for the way he handled the economy.",
+      "url": "https://www.livemint.com/elections/us-presidential-elections-donald-trump-leads-joe-biden-in-6-swing-states-survey-shows-11699231205929.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/11/06/1600x900/llll_1699233252151_1699233252422.jpg",
+      "publishedAt": "2023-11-05T18:30:00Z",
+      "content": "Former US President Donald Trump leads in five of the six most important US states exactly a year before the US election according to polls released on November 5, that were conducted by the New York Times and Siena College, reported Reuters.\nDonald ... [2242 chars]",
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "Fireworks expected as Trump takes the stand accused of overstating his wealth",
+      "description": "The civil action taken by the New York attorney general could result in a fine of $250m",
+      "url": "https://www.irishtimes.com/world/us/2023/11/05/fireworks-expected-as-trump-takes-the-stand-accused-of-overstating-his-wealth/",
+      "urlToImage": "https://www.irishtimes.com/resizer/3erYcnribWM8zjwcmULxIQ-B0JI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YF57FXMI5NU7F3UMONC3SCJFLU.jpg",
+      "publishedAt": "2023-11-05T18:00:00Z",
+      "content": "For weeks Donald Trump has railed against a legal case taken by authorities in New York which contends he overstated his wealth for years to the disadvantage of banks and insurance companies dealing with his company.\nTrump has denounced the civil act... [3771 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Daily News"
+      },
+      "author": "New York Daily News",
+      "title": "Trump leads Biden in 5 crucial swing states: Siena",
+      "description": "Donald Trump would cruise to another term in the White House if the results of the New York Times/Siena College poll are repeated in 12 months at the ballot box.",
+      "url": "https://www.nydailynews.com/2023/11/05/trump-biden-siena-times-poll-swing-states/",
+      "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2023/11/TRUMP-BIDEN.jpg?w=1024&h=632",
+      "publishedAt": "2023-11-05T17:49:35Z",
+      "content": "Donald Trump holds notable leads over Joe Biden in five key swing states, according to a New York Times/Siena College poll released Sunday.\nVoters in Pennsylvania, Georgia, Michigan, Arizona and Nevada all prefer Trump, pollsters found. Of the six st... [2113 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "2024 presidential race: Iowa Gov. Kim Reynolds to endorse Florida Gov. Ron DeSantis over Trump on Monday",
+      "description": "Reynolds' support could be a boost for DeSantis' presidential campaign, which has anchored itself in Iowa.",
+      "url": "https://www.cbsnews.com/news/2024-presidential-race-ron-desantis-kim-reynolds-endorsement-trump/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/29/66fe81a8-95d4-44bb-a2b4-35027c504192/thumbnail/1200x630/a42dec56230f99be058fe699a262cce5/abortion-iowa-22301771084867.jpg?v=c81a9d6c51e6280f2f4f876031d7d9bc",
+      "publishedAt": "2023-11-05T17:49:00Z",
+      "content": "Iowa Gov. Kim Reynolds will endorse Florida Gov. Ron DeSantis on Monday, providing a potential boost for his presidential campaign that has anchored itself in Iowa — but while he still trails former President Donald Trump in early state polling.\nReyn... [3466 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Donald Trump Gets Great News in 5 Key Swing States",
+      "description": "The former president is ahead of President Joe Biden by 6 points in Georgia, 49 to 43 percent.",
+      "url": "https://www.newsweek.com/donald-trump-gets-great-news-5-key-swing-states-1840985",
+      "urlToImage": "https://d.newsweek.com/en/full/2304598/trump-biden.png",
+      "publishedAt": "2023-11-05T17:12:08Z",
+      "content": "Former President Donald Trump is leading President Joe Biden in five key swing states ahead of the 2024 presidential election, according to polling data published on Sunday—and a politics expert told Newsweek the results could be just as significant ... [4629 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Donald Trump ahead of Joe Biden in five key swing states, poll suggests",
+      "description": "Trump led by 10 points in Nevada, six in Georgia, five in Arizona and Michigan and four in Pennsylvania, while Biden had a two-point advantage in Wisconsin.",
+      "url": "https://news.sky.com/story/donald-trump-ahead-of-joe-biden-in-five-key-swing-states-poll-suggests-13001226",
+      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-donald-trump-florida_6349359.jpg?20231105154556",
+      "publishedAt": "2023-11-05T16:37:00Z",
+      "content": "Donald Trump is ahead of US President Joe Biden in five key swing states a year ahead of the 2024 election, according to a poll.\nThe former president was leading the incumbent in Arizona, Georgia, Michigan, Nevada and Pennsylvania, the poll for the N... [1566 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Biden trails Trump in states likely to decide 2024 US election, polls show",
+      "description": "Democratic President Joe Biden trails Republican frontrunner Donald Trump in five of the six most important battleground states exactly a year before the U.S. election as Americans express doubts about Biden's age and dissatisfaction toward his handling of the economy, polls released on Sunday showed.",
+      "url": "https://www.reuters.com/world/us/biden-trails-trump-states-likely-decide-2024-us-election-polls-show-2023-11-05/",
+      "urlToImage": "https://www.reuters.com/resizer/419RDLtwAkImsK7L3UgqH-R_boY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XW42Q2YE75I5DHYYS3IVQZG5JU.jpg",
+      "publishedAt": "2023-11-05T16:17:55Z",
+      "content": "Democratic presidential candidate former Vice President Joe Biden answers a question as President Donald Trump listens during the second and final presidential debate at the Curb Event Center at Belmont University in Nashville, Tennessee, U.S., Octob... [2912 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "economy_finance",
+        "social_issues"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "With the US election a year away, most Americans don’t want Biden or Trump",
+      "description": "Polls continue to show both presidential frontrunners ‘as tied as tied can be’, with third-party candidates tying for a distant third",
+      "url": "https://www.theguardian.com/us-news/2023/nov/05/us-presidential-election-biden-trump-polls",
+      "urlToImage": "https://i.guim.co.uk/img/media/2357cdc9e94341fa4cef9a4b44d6c1881ce3e591/0_300_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fd1ea2392860751ddce03674cfdd2be",
+      "publishedAt": "2023-11-05T16:00:13Z",
+      "content": "Americans are one year away from a presidential election that’s shaping up to be a historically unpopular rematch between the oldest ever sitting president, Joe Biden, a Democrat, and his Republican predecessor, the twice-impeached, serially indicted... [10338 chars]",
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "media_communications"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump angry over trials but happy with attack and delay strategy, insiders say",
+      "description": "Well-worn legal playbook in recent weeks has brought former president victories in court that have actually emboldened him",
+      "url": "https://www.theguardian.com/us-news/2023/nov/05/trump-trials-attack-delay-strategy",
+      "urlToImage": "https://i.guim.co.uk/img/media/d8f8ebc76f2acec144d76451b870ff2fa4d04ffa/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2410abbb3a76634f939b3de09eb477b",
+      "publishedAt": "2023-11-05T16:00:12Z",
+      "content": "Donald Trump has appeared at times angrily under siege as he stews over his predicament in the New York civil fraud case, according to people close to the former president, particularly furious in recent weeks with the witness testimony that could re... [4609 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Eric Trump Could Open Himself Up to Criminal Charge, Ex-Prosecutor Warns",
+      "description": "\"If he is not careful he may walk himself right into a perjury charge,\" Glenn Kirschner said about the former president's son.",
+      "url": "https://www.newsweek.com/glenn-kirschner-warns-eric-trump-charged-perjury-1840987",
+      "urlToImage": "https://d.newsweek.com/en/full/2304595/eric-trump.jpg",
+      "publishedAt": "2023-11-05T15:49:39Z",
+      "content": "After Eric Trump testified in his father's $250 million civil fraud trial, former federal prosecutor Glenn Kirschner warned on Saturday that he could open himself up to a perjury charge.\nThe trial stems from a lawsuit New York Attorney General Letiti... [3728 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "civil_litigation",
+        "doj_actions"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Trump notches considerable lead over Biden in five swing states: poll",
+      "description": "Donald Trump is notching considerable leads against President Biden in five of six key battleground states, a new poll has found.",
+      "url": "https://nypost.com/2023/11/05/news/trump-notches-considerable-lead-over-biden-in-five-swing-states-poll/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/NYPICHPDPICT000071836781.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2023-11-05T15:20:42Z",
+      "content": "Donald Trump is notching considerable leads against President Biden in five of six key battleground states, a new poll has found.\nThe GOP frontrunner is up between 4 to 10 percentage points among registered voters in Arizona, Georgia, Michigan, Nevad... [6554 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ]
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "What to watch when Donald Trump testifies",
+      "description": "Donald Trump takes the stand Monday in high-stakes testimony that could help decide the fate of his business empire in New York.",
+      "url": "https://edition.cnn.com/2023/11/05/politics/what-to-watch-trump-trial/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231104123055-01-donald-trump-1102.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-05T15:00:15Z",
+      "content": "CNN —\nFormer President Donald Trump will take the stand Monday to give high-stakes testimony that could help decide the fate of his business empire in New York.\nTrump is testifying in the civil fraud trial brought by New York Attorney General Letitia... [7521 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "new_york"
+      ]
+    }
+  ]
+}

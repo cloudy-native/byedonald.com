@@ -6,3 +6,6 @@ Instructions:
 3. Based on your understanding of the article, identify the most relevant 1-5 topic tags from the provided tag definitions.
 4. The tag ID is the value before the colon in each tag definition (e.g., "taxes" in "taxes: Tax policy...").
 5. In your response, provide only a JSON array containing the chosen tag IDs, without any additional text or explanation.
+6. Do not use any prefix or suffix in your response.
+7. Do not use backticks or any other formatting in your response.
+
