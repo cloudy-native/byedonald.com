@@ -1,57 +1,94 @@
-import * as cdk from "aws-cdk-lib";
-import * as acm from "aws-cdk-lib/aws-certificatemanager";
-import * as cloudfront from "aws-cdk-lib/aws-cloudfront";
-import * as origins from "aws-cdk-lib/aws-cloudfront-origins";
-import * as route53 from "aws-cdk-lib/aws-route53";
-import * as targets from "aws-cdk-lib/aws-route53-targets";
-import * as s3 from "aws-cdk-lib/aws-s3";
-import * as s3deploy from "aws-cdk-lib/aws-s3-deployment";
+import { CfnOutput, RemovalPolicy, Stack, StackProps } from "aws-cdk-lib";
+import {
+  Certificate,
+  CertificateValidation,
+} from "aws-cdk-lib/aws-certificatemanager";
+import {
+  AllowedMethods,
+  CachePolicy,
+  Distribution,
+  ViewerProtocolPolicy,
+} from "aws-cdk-lib/aws-cloudfront";
+import { S3StaticWebsiteOrigin } from "aws-cdk-lib/aws-cloudfront-origins";
+import { ARecord, HostedZone, RecordTarget } from "aws-cdk-lib/aws-route53";
+import { CloudFrontTarget } from "aws-cdk-lib/aws-route53-targets";
+import { BlockPublicAccess, Bucket } from "aws-cdk-lib/aws-s3";
 import { Construct } from "constructs";
 
-export interface WebsiteStackProps extends cdk.StackProps {
+export interface WebsiteStackProps extends StackProps {
   domainName: string;
 }
 
-export class CdkStack extends cdk.Stack {
+export class CdkStack extends Stack {
   constructor(scope: Construct, id: string, props: WebsiteStackProps) {
     super(scope, id, props);
 
-    const domainName = props.domainName;
+    const { domainName } = props;
+
+    // const githubOidcProvider =
+    //   OpenIdConnectProvider.fromOpenIdConnectProviderArn(
+    //     this,
+    //     "GitHubOidcProvider",
+    //     `arn:aws:iam::${this.account}:oidc-provider/token.actions.githubusercontent.com`
+    //   );
+
+    // const githubActionsRole = new Role(this, "GitHubActionsRole", {
+    //   description: "Role for GitHub Actions to deploy the site and use Bedrock",
+    //   assumedBy: new FederatedPrincipal(
+    //     githubOidcProvider.openIdConnectProviderArn,
+    //     {
+    //       // This condition scopes the role assumption to your specific repository
+    //       StringLike: {
+    //         "token.actions.githubusercontent.com:sub":
+    //           "repo:cloudy-native/byedonald.com:*",
+    //       },
+    //     },
+    //     "sts:AssumeRoleWithWebIdentity"
+    //   ),
+    // });
+
+    // githubActionsRole.addToPolicy(
+    //   new PolicyStatement({
+    //     actions: ["bedrock:InvokeModel"],
+    //     resources: ["*"],
+    //   })
+    // );
 
     // Create S3 bucket for website hosting
-    const bucket = new s3.Bucket(this, "WebsiteBucket", {
+    const bucket = new Bucket(this, "WebsiteBucket", {
       websiteIndexDocument: "index.html",
       websiteErrorDocument: "error.html",
       publicReadAccess: true,
-      blockPublicAccess: new s3.BlockPublicAccess({
+      blockPublicAccess: new BlockPublicAccess({
         blockPublicAcls: false,
         blockPublicPolicy: false,
         ignorePublicAcls: false,
         restrictPublicBuckets: false,
       }),
-      removalPolicy: cdk.RemovalPolicy.DESTROY,
+      removalPolicy: RemovalPolicy.DESTROY,
       autoDeleteObjects: true,
     });
 
-    // Look up the hosted zone
-    const zone = route53.HostedZone.fromLookup(this, "Zone", {
-      domainName: domainName,
+    // bucket.grantReadWrite(githubActionsRole);
+
+    const zone = HostedZone.fromLookup(this, "HostedZone", {
+      domainName,
     });
 
     // Create ACM certificate
-    const certificate = new acm.Certificate(this, "SiteCertificate", {
-      domainName: domainName,
-      validation: acm.CertificateValidation.fromDns(zone),
+    const certificate = new Certificate(this, "SiteCertificate", {
+      domainName,
+      validation: CertificateValidation.fromDns(zone),
     });
 
     // CloudFront distribution
-    const distribution = new cloudfront.Distribution(this, "SiteDistribution", {
+    const distribution = new Distribution(this, "SiteDistribution", {
       defaultBehavior: {
-        origin: new origins.S3StaticWebsiteOrigin(bucket),
-        viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
+        origin: new S3StaticWebsiteOrigin(bucket),
+        viewerProtocolPolicy: ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
         compress: true,
-        allowedMethods: cloudfront.AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
-        cachePolicy: cloudfront.CachePolicy.CACHING_OPTIMIZED,
+        allowedMethods: AllowedMethods.ALLOW_GET_HEAD_OPTIONS,
+        cachePolicy: CachePolicy.CACHING_OPTIMIZED,
       },
       domainNames: [domainName],
       certificate: certificate,
@@ -71,45 +108,30 @@ export class CdkStack extends cdk.Stack {
     });
 
     // Route53 alias record for the CloudFront distribution
-    new route53.ARecord(this, "SiteAliasRecord", {
+    new ARecord(this, "SiteAliasRecord", {
       recordName: domainName,
-      target: route53.RecordTarget.fromAlias(
-        new targets.CloudFrontTarget(distribution)
-      ),
+      target: RecordTarget.fromAlias(new CloudFrontTarget(distribution)),
       zone: zone,
     });
 
-    new route53.ARecord(this, "WWWAliasRecord", {
+    new ARecord(this, "WWWAliasRecord", {
       recordName: `www.${domainName}`,
-      target: route53.RecordTarget.fromAlias(
-        new targets.CloudFrontTarget(distribution)
-      ),
+      target: RecordTarget.fromAlias(new CloudFrontTarget(distribution)),
       zone: zone,
     });
 
     // Deploy site contents to S3 bucket
-    new s3deploy.BucketDeployment(this, "DeployWebsite", {
-      sources: [s3deploy.Source.asset("../public")],
-      destinationBucket: bucket,
-      distribution: distribution,
-      distributionPaths: ["/*"], // Invalidate everything in CloudFront cache
-    });
+    // TODO: This takes forever. Just sync the files manually for now.
+    //
+    // new BucketDeployment(this, "DeployWebsite", {
+    //   sources: [Source.asset("../public")],
+    //   destinationBucket: bucket,
+    //   distribution,
+    // });
 
     // Outputs
-    new cdk.CfnOutput(this, "BucketName", {
+    new CfnOutput(this, "BucketName", {
       value: bucket.bucketName,
-    });
-
-    new cdk.CfnOutput(this, "WebsiteUrl", {
-      value: bucket.bucketWebsiteUrl,
-    });
-
-    new cdk.CfnOutput(this, "DistributionDomainName", {
-      value: distribution.distributionDomainName,
-    });
-
-    new cdk.CfnOutput(this, "SiteURL", {
-      value: `https://${domainName}`,
     });
   }
 }

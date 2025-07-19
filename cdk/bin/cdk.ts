@@ -7,7 +7,8 @@ const env: cdk.Environment = {
   account: process.env.CDK_DEFAULT_ACCOUNT,
   region: process.env.CDK_DEFAULT_REGION,
 };
-new CdkStack(app, 'ByeDonaldStack', {
+
+new CdkStack(app, 'ByeDonald3Stack', {
   env,
   domainName: 'byedonald.com',
 });

@@ -48,6 +48,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   }, [articles]);
 
   const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
+  const [activeSources, setActiveSources] = useState<Set<string>>(new Set());
 
   const handleTagClick = (tagId: string) => {
     setActiveTags(prev => {
@@ -63,8 +64,33 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
   const handleClear = () => setActiveTags(new Set());
 
+  const handleSourceClick = (source: string) => {
+    setActiveSources(prev => {
+      const newActiveSources = new Set(prev);
+      if (newActiveSources.has(source)) {
+        newActiveSources.delete(source);
+      } else {
+        newActiveSources.add(source);
+      }
+      return newActiveSources;
+    });
+  };
+
+  const handleSourceClear = () => setActiveSources(new Set());
+
+  const relevantSources = useMemo(() => {
+    const sources = new Set<string>();
+    articles.forEach(article => {
+      const displayName = [
+        ...new Set([article.author, article.source.name].filter(Boolean)),
+      ].join(", ");
+      sources.add(displayName);
+    });
+    return Array.from(sources).sort();
+  }, [articles]);
+
   const filteredArticles = useMemo(() => {
-    if (activeTags.size === 0) {
+    if (activeTags.size === 0 && activeSources.size === 0) {
       return articles;
     }
 
@@ -81,12 +107,25 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     }, {} as Record<string, string[]>);
 
     return articles.filter(article => {
+      const sourceMatch = activeSources.size === 0 || activeSources.has(
+        [...new Set([article.author, article.source.name].filter(Boolean))].join(", ")
+      );
+
+      if (!sourceMatch) {
+        return false;
+      }
+
+      if (activeTags.size === 0) {
+        return true;
+      }
       const articleTags = new Set(article.tags);
-      return Object.values(activeTagsByCategory).every(categoryTags =>
-        categoryTags.some(tagId => articleTags.has(tagId))
+      return (
+        Object.values(activeTagsByCategory).every(categoryTags =>
+          categoryTags.some(tagId => articleTags.has(tagId))
+        )
       );
     });
-  }, [activeTags, pageContext.articles]);
+  }, [activeTags, activeSources, pageContext.articles]);
 
   const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
     weekday: "long",
@@ -102,25 +141,82 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           Trump News for {displayDate}
         </Heading>
 
-        <Accordion allowToggle mb={4}>
-          <AccordionItem border="none">
+        <Accordion allowMultiple defaultIndex={[0, 1]} mb={4}>
+          <AccordionItem>
+            <h2>
+              <AccordionButton>
+                    <AccordionIcon />
+                <HStack flex="1" spacing={4} alignItems="center">
+                  <Box fontWeight="bold">Filter by Source & Author</Box>
+                  {activeSources.size > 0 && (
+                    <Text
+                      as="button"
+                      fontSize="sm"
+                      color="blue.500"
+                      variant="solid"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        handleSourceClear();
+                      }}
+                    >
+                      Clear source filters
+                    </Text>
+                  )}
+                </HStack>
+              </AccordionButton>
+            </h2>
+            <AccordionPanel pb={4}>
+              <HStack wrap="wrap" spacing={2}>
+                {relevantSources.map(source => (
+                  <Tag
+                    key={source}
+                    size="md"
+                    variant={activeSources.has(source) ? "solid" : "outline"}
+                    colorScheme="blue"
+                    onClick={() => handleSourceClick(source)}
+                    cursor="pointer"
+                  >
+                    {source}
+                  </Tag>
+                ))}
+              </HStack>
+
+            </AccordionPanel>
+          </AccordionItem>
+          <AccordionItem>
             <h2>
               <AccordionButton>
                 <AccordionIcon />
-                <Box as="span" flex='1' textAlign='left' fontWeight="bold">
-                  Filter by Tags
-                </Box>
+                <HStack flex="1" spacing={4} alignItems="center">
+                  <Box fontWeight="bold">Filter by Tags</Box>
+                  {activeTags.size > 0 && (
+                    <Text
+                      as="button"
+                      fontSize="sm"
+                      color="blue.500"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        handleClear();
+                      }}
+                    >
+                      Clear tag filters
+                    </Text>
+                  )}
+                </HStack>
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
               <Text fontSize="sm" color="gray.600" mb={4}>
-                Select tags to filter articles. Tags from different categories narrow results (e.g., 'Legal' AND 'Cohen'). Tags from the same category broaden them (e.g., 'Legal' OR 'Rallies').
+                Select tags to filter articles. Tags from different categories
+                narrow results (e.g., 'Legal' AND 'Cohen'). Tags from the same
+                category broaden them (e.g., 'Legal' OR 'Rallies').
               </Text>
               <TagLegend
                 activeTags={activeTags}
                 onTagClick={handleTagClick}
                 onClear={handleClear}
                 relevantTagIds={relevantTagIds}
+                showClear={false}
               />
             </AccordionPanel>
           </AccordionItem>

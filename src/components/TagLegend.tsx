@@ -19,6 +19,7 @@ interface TagLegendProps {
   onTagClick: (tagId: string) => void;
   onClear: () => void;
   relevantTagIds: Set<string>;
+  showClear?: boolean;
 }
 
 export const TagLegend: React.FC<TagLegendProps> = ({
@@ -26,6 +27,7 @@ export const TagLegend: React.FC<TagLegendProps> = ({
   onTagClick,
   onClear,
   relevantTagIds,
+  showClear = true,
 }) => {
   const isFiltering = activeTags.size > 0;
 
@@ -84,9 +86,9 @@ export const TagLegend: React.FC<TagLegendProps> = ({
           );
         })}
       </Wrap>
-      {isFiltering && (
+      {isFiltering && showClear && (
         <Button mt={4} size="sm" onClick={onClear}>
-          Clear All Filters
+          Clear tag filters
         </Button>
       )}
     </Box>
