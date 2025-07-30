@@ -111,7 +111,7 @@ export ANTHROPIC_API_KEY='xxx'
 export ANTHROPIC_MODEL='claude-sonnet-4-20250514'
 ```
 
-Tag the news
+Tag the news (remember you must have AWS credentials set up in the environment)
 
 ```
 npm run tag-news

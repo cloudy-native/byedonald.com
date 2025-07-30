@@ -63,14 +63,14 @@ async function retagMissingArticles() {
         if (fileWasModified) {
           totalRetagged += articlesRetaggedInFile;
           await fs.writeFile(filePath, JSON.stringify(newsData, null, 2));
-          console.log(`-> Updated ${fileName} with ${articlesRetaggedInFile} new tag sets.\n`);
+          console.log(`-> Updated ${fileName} with ${articlesRetaggedInFile} new tag sets.`);
         }
       } catch (error) {
         console.error(`Failed to process ${fileName}:`, error);
       }
     }
 
-    console.log(`\nRetagging complete. Total articles updated: ${totalRetagged}.`);
+    console.log(`Retagging complete. Total articles updated: ${totalRetagged}.`);
   } catch (error) {
     console.error('An error occurred during the retagging process:', error);
   }
