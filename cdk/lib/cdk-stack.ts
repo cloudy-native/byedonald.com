@@ -10,9 +10,11 @@ import {
   ViewerProtocolPolicy,
 } from "aws-cdk-lib/aws-cloudfront";
 import { S3StaticWebsiteOrigin } from "aws-cdk-lib/aws-cloudfront-origins";
+import { FederatedPrincipal, OpenIdConnectProvider, PolicyStatement, Role } from "aws-cdk-lib/aws-iam";
 import { ARecord, HostedZone, RecordTarget } from "aws-cdk-lib/aws-route53";
 import { CloudFrontTarget } from "aws-cdk-lib/aws-route53-targets";
 import { BlockPublicAccess, Bucket } from "aws-cdk-lib/aws-s3";
+import { BucketDeployment, Source } from "aws-cdk-lib/aws-s3-deployment";
 import { Construct } from "constructs";
 
 export interface WebsiteStackProps extends StackProps {
@@ -25,34 +27,34 @@ export class CdkStack extends Stack {
 
     const { domainName } = props;
 
-    // const githubOidcProvider =
-    //   OpenIdConnectProvider.fromOpenIdConnectProviderArn(
-    //     this,
-    //     "GitHubOidcProvider",
-    //     `arn:aws:iam::${this.account}:oidc-provider/token.actions.githubusercontent.com`
-    //   );
+    const githubOidcProvider =
+      OpenIdConnectProvider.fromOpenIdConnectProviderArn(
+        this,
+        "GitHubOidcProvider",
+        `arn:aws:iam::${this.account}:oidc-provider/token.actions.githubusercontent.com`
+      );
 
-    // const githubActionsRole = new Role(this, "GitHubActionsRole", {
-    //   description: "Role for GitHub Actions to deploy the site and use Bedrock",
-    //   assumedBy: new FederatedPrincipal(
-    //     githubOidcProvider.openIdConnectProviderArn,
-    //     {
-    //       // This condition scopes the role assumption to your specific repository
-    //       StringLike: {
-    //         "token.actions.githubusercontent.com:sub":
-    //           "repo:cloudy-native/byedonald.com:*",
-    //       },
-    //     },
-    //     "sts:AssumeRoleWithWebIdentity"
-    //   ),
-    // });
+    const githubActionsRole = new Role(this, "GitHubActionsRole", {
+      description: "Role for GitHub Actions to deploy the site and use Bedrock",
+      assumedBy: new FederatedPrincipal(
+        githubOidcProvider.openIdConnectProviderArn,
+        {
+          // This condition scopes the role assumption to your specific repository
+          StringLike: {
+            "token.actions.githubusercontent.com:sub":
+              "repo:cloudy-native/byedonald.com:*",
+          },
+        },
+        "sts:AssumeRoleWithWebIdentity"
+      ),
+    });
 
-    // githubActionsRole.addToPolicy(
-    //   new PolicyStatement({
-    //     actions: ["bedrock:InvokeModel"],
-    //     resources: ["*"],
-    //   })
-    // );
+    githubActionsRole.addToPolicy(
+      new PolicyStatement({
+        actions: ["bedrock:InvokeModel"],
+        resources: ["*"],
+      })
+    );
 
     // Create S3 bucket for website hosting
     const bucket = new Bucket(this, "WebsiteBucket", {
@@ -69,7 +71,7 @@ export class CdkStack extends Stack {
       autoDeleteObjects: true,
     });
 
-    // bucket.grantReadWrite(githubActionsRole);
+    bucket.grantReadWrite(githubActionsRole);
 
     const zone = HostedZone.fromLookup(this, "HostedZone", {
       domainName,
@@ -121,13 +123,11 @@ export class CdkStack extends Stack {
     });
 
     // Deploy site contents to S3 bucket
-    // TODO: This takes forever. Just sync the files manually for now.
-    //
-    // new BucketDeployment(this, "DeployWebsite", {
-    //   sources: [Source.asset("../public")],
-    //   destinationBucket: bucket,
-    //   distribution,
-    // });
+    new BucketDeployment(this, "DeployWebsite", {
+      sources: [Source.asset("../public")],
+      destinationBucket: bucket,
+      distribution,
+    });
 
     // Outputs
     new CfnOutput(this, "BucketName", {

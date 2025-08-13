@@ -26,11 +26,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # - name: Configure AWS Credentials
-      #   uses: aws-actions/configure-aws-credentials@v4
-      #   with:
-      #     role-to-assume: arn:aws:iam::YOUR_AWS_ACCOUNT_ID:role/YOUR_CDK_ROLE_NAME # TODO: Replace with your Role ARN
-      #     aws-region: ${{ vars.AWS_REGION }} 
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::607477397669:role/ByeDonald3Stack-GitHubActionsRole4F1BBA26-n8GAvPqRKxMv
+          aws-region: ${{ vars.AWS_REGION }} 
 
       - name: Fetch latest news
         run: npm run backfill-newsapi.org
@@ -60,4 +60,4 @@ jobs:
       - name: Deploy to S3
         if: steps.git-check.outputs.changes
         run: |
-          aws s3 sync public/ s3://${{ secrets.S3_BUCKET_NAME }} --delete
+          aws s3 sync public/ s3://${{ vars.ORIGIN_BUCKET }} --delete
