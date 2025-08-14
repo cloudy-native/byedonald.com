@@ -137,5 +137,9 @@ export class CdkStack extends Stack {
     new CfnOutput(this, "BucketName", {
       value: bucket.bucketName,
     });
+
+    new CfnOutput(this, "DistributionId", {
+      value: distribution.distributionId,
+    });
   }
 }

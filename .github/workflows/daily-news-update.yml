@@ -60,7 +60,15 @@ jobs:
 
       - name: Build site
         run: npm run build
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+          ALGOLIA_APP_ID: ${{ vars.GATSBY_ALGOLIA_APP_ID }}
+          ALGOLIA_INDEX_NAME: ${{ vars.GATSBY_ALGOLIA_INDEX_NAME }}
 
       - name: Deploy to S3
         run: |
           aws s3 sync public/ s3://${{ vars.ORIGIN_BUCKET }} --delete
+
+      - name: Invalidate CloudFront
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
