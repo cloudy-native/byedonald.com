@@ -14,6 +14,9 @@ const algoliaQuery = `
         content
         url
         urlToImage
+        source {
+          name
+        }
         internal {
           contentDigest
         }
@@ -26,7 +29,12 @@ const queries = [
   {
     query: algoliaQuery,
     indexName: "byedonald",
-    transformer: ({ data }: { data: any }) => data.allArticle.nodes,
+    transformer: ({ data }: { data: any }) =>
+      data.allArticle.nodes.map((n: any) => ({
+        ...n,
+        // Flatten nested source name for better search and faceting
+        sourceName: n?.source?.name ?? null,
+      })),
   },
 ];
 
@@ -109,8 +117,22 @@ const config: GatsbyConfig = {
         queries,
         chunkSize: 10000, // default: 1000
         settings: {
-          // optional, any index settings
-          // Note: by supplying settings, you will overwrite all existing settings on the index
+          // Improve query relevance and snippet display
+          searchableAttributes: [
+            "unordered(author)",
+            "unordered(sourceName)",
+            "unordered(title)",
+            "unordered(description)",
+            "unordered(content)",
+          ],
+          attributesForFaceting: [
+            "searchable(author)",
+            "searchable(sourceName)",
+          ],
+          // Keep default ranking order but slightly favor newer content after textual relevance
+          customRanking: ["desc(publishedAt)"],
+          attributesToSnippet: ["description:15", "content:20"],
+          snippetEllipsisText: "…",
         },
         mergeSettings: false, // optional, defaults to false. See notes on mergeSettings below
         concurrentQueries: false, // default: true

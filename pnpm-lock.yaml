@@ -101,6 +101,9 @@ importers:
       gatsby-transformer-sharp:
         specifier: ^5.14.0
         version: 5.14.0(gatsby-plugin-sharp@5.14.0(gatsby@5.14.6(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@2.19.0)(typescript@5.9.2))(graphql@16.11.0))(gatsby@5.14.6(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@2.19.0)(typescript@5.9.2))(graphql@16.11.0)
+      instantsearch.js:
+        specifier: 4.10.0-experimental-typescript.0
+        version: 4.10.0-experimental-typescript.0(algoliasearch@5.35.0)
       prismjs:
         specifier: ^1.29.0
         version: 1.30.0
@@ -2156,6 +2159,10 @@ packages:
   '@types/google.maps@3.58.1':
     resolution: {integrity: sha512-X9QTSvGJ0nCfMzYOnaVs/k6/4L+7F5uCS+4iUmkLEls6J9S/Phv+m/i3mDeyc49ZBgwab3EFO1HEoBY7k98EGQ==}
 
+  '@types/googlemaps@3.43.3':
+    resolution: {integrity: sha512-ZWNoz/O8MPEpiajvj7QiqCY8tTLFNqNZ/a+s+zTV58wFVNAvvqV4bdGfnsjTb5Cs4V6wEsLrX8XRhmnyYJ2Tdg==}
+    deprecated: 'Types for the Google Maps browser API have moved to @types/google.maps. Note: these types are not for the googlemaps npm package, which is a Node API.'
+
   '@types/hast@2.3.10':
     resolution: {integrity: sha512-McWspRw8xx8J9HurkVBfYj0xKoE25tOFlHGdx4MJ5xORQrMGZNqJhVQWaIbm6Oyla5kYOXtDiopzKRJzEOkwJw==}
 
@@ -2976,6 +2983,9 @@ packages:
   ci-info@3.9.0:
     resolution: {integrity: sha512-NIxF55hv4nSqQswkAeiOi1r83xy8JldOFDTWiug55KBu9Jnblncd2U6ViHmYgHf01TPZS77NJBhBMKdWj9HQMQ==}
     engines: {node: '>=8'}
+
+  classnames@2.5.1:
+    resolution: {integrity: sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==}
 
   clear-any-console@1.16.3:
     resolution: {integrity: sha512-x174l55a86DGVU0KvnLITsXhRgqwd/xNDTy16OyKKOiJU+1pXF9DrV9YvlepfMc/JuJ3a7CMNLEF4O7qwk0mEw==}
@@ -3865,6 +3875,10 @@ packages:
   eventemitter3@4.0.7:
     resolution: {integrity: sha512-8guHBZCwKnFhYdHr2ysuRWErTwhoN2X8XELRlrRwpmfeY2jjuUN4taQMsULKUVo1K4DvZl+0pgfyoysHxvmvEw==}
 
+  events@1.1.1:
+    resolution: {integrity: sha512-kEcvvCBByWXGnZy6JUlgAp2gBIUjfCAV6P6TgT1/aaQKcmuAEC4OZTV1I4EWQLz2gxZw76atuVyvHhTxvi0Flw==}
+    engines: {node: '>=0.4.x'}
+
   events@3.3.0:
     resolution: {integrity: sha512-mQw+2fkQbALzQ7V0MY0IqdnXNOeTtP4r0lN9z7AAawCXgqea7bDii20AYrIBrFd/Hx0M2Ocz6S111CaFkUcb0Q==}
     engines: {node: '>=0.8.x'}
@@ -4681,6 +4695,9 @@ packages:
 
   instantsearch-ui-components@0.11.2:
     resolution: {integrity: sha512-XxwqUY6NifxSvHYfyfJRiGhqYqHXQFcFNOEjNyFptB9HOkx14yCdayKar4BZxGx353FnFD6b4Z8LdzbGud+RFA==}
+
+  instantsearch.js@4.10.0-experimental-typescript.0:
+    resolution: {integrity: sha512-RjLvgt7trb+2XSddTD7CDGqE4ZDg0siXuq+vyARYJKtBBdyr7D2vS06NEW7UwVIbeVFxYSxsVBI0LdBQqVo1Lg==}
 
   instantsearch.js@4.79.2:
     resolution: {integrity: sha512-UwTsbzkb/dsNBAWiFCFlxV1vKviPSKETi5OOQbCVqpoGcHVayXDLlEqFx+WCoFJT0nxzxpNI9QmitbYH5ufoVw==}
@@ -10485,6 +10502,8 @@ snapshots:
 
   '@types/google.maps@3.58.1': {}
 
+  '@types/googlemaps@3.43.3': {}
+
   '@types/hast@2.3.10':
     dependencies:
       '@types/unist': 2.0.11
@@ -11527,6 +11546,8 @@ snapshots:
   ci-info@2.0.0: {}
 
   ci-info@3.9.0: {}
+
+  classnames@2.5.1: {}
 
   clear-any-console@1.16.3(react@18.3.1):
     dependencies:
@@ -12595,6 +12616,8 @@ snapshots:
   event-target-shim@5.0.1: {}
 
   eventemitter3@4.0.7: {}
+
+  events@1.1.1: {}
 
   events@3.3.0: {}
 
@@ -13923,6 +13946,19 @@ snapshots:
   instantsearch-ui-components@0.11.2:
     dependencies:
       '@babel/runtime': 7.28.2
+
+  instantsearch.js@4.10.0-experimental-typescript.0(algoliasearch@5.35.0):
+    dependencies:
+      '@types/googlemaps': 3.43.3
+      algoliasearch-helper: 3.26.0(algoliasearch@5.35.0)
+      classnames: 2.5.1
+      events: 1.1.1
+      hogan.js: 3.0.2
+      preact: 10.27.0
+      prop-types: 15.8.1
+      qs: 6.13.0
+    transitivePeerDependencies:
+      - algoliasearch
 
   instantsearch.js@4.79.2(algoliasearch@5.35.0):
     dependencies:

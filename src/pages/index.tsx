@@ -321,6 +321,9 @@ const IndexPage: React.FC<PageProps> = () => {
           <Heading as="h2" size="xl" textAlign="center" color={textColor}>
             News Calendar
           </Heading>
+          <Text fontSize="md" textAlign="center" color="gray.500">
+            Click a day in the calendar to see Trump news from that date.
+          </Text>
           <Tabs
             isFitted
             variant="enclosed"

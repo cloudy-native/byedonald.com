@@ -49,6 +49,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
   const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
   const [activeSources, setActiveSources] = useState<Set<string>>(new Set());
+  const [activeAuthors, setActiveAuthors] = useState<Set<string>>(new Set());
 
   const handleTagClick = (tagId: string) => {
     setActiveTags(prev => {
@@ -78,19 +79,47 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
   const handleSourceClear = () => setActiveSources(new Set());
 
+  const handleAuthorClick = (author: string) => {
+    setActiveAuthors(prev => {
+      const next = new Set(prev);
+      if (next.has(author)) {
+        next.delete(author);
+      } else {
+        next.add(author);
+      }
+      return next;
+    });
+  };
+
+  const handleAuthorClear = () => setActiveAuthors(new Set());
+
   const relevantSources = useMemo(() => {
     const sources = new Set<string>();
     articles.forEach(article => {
-      const displayName = [
-        ...new Set([article.author, article.source.name].filter(Boolean)),
-      ].join(", ");
-      sources.add(displayName);
+      if (article?.source?.name) {
+        sources.add(article.source.name);
+      }
     });
     return Array.from(sources).sort();
   }, [articles]);
 
+  const relevantAuthors = useMemo(() => {
+    const authors = new Set<string>();
+    const sources = new Set<string>();
+    articles.forEach((article: Article) => {
+      if (article?.source?.name) {
+        sources.add(article.source.name);
+      }
+      if (article?.author) {
+        authors.add(article.author);
+      }
+    });
+    const filteredAuthors = Array.from(authors).filter(a => !sources.has(a));
+    return filteredAuthors.sort();
+  }, [articles]);
+
   const filteredArticles = useMemo(() => {
-    if (activeTags.size === 0 && activeSources.size === 0) {
+    if (activeTags.size === 0 && activeSources.size === 0 && activeAuthors.size === 0) {
       return articles;
     }
 
@@ -107,11 +136,12 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     }, {} as Record<string, string[]>);
 
     return articles.filter(article => {
-      const sourceMatch = activeSources.size === 0 || activeSources.has(
-        [...new Set([article.author, article.source.name].filter(Boolean))].join(", ")
-      );
+      const sourceName = article?.source?.name ?? "";
+      const authorName = article?.author ?? "";
+      const sourceMatch = activeSources.size === 0 || (sourceName && activeSources.has(sourceName));
+      const authorMatch = activeAuthors.size === 0 || (authorName && activeAuthors.has(authorName));
 
-      if (!sourceMatch) {
+      if (!sourceMatch || !authorMatch) {
         return false;
       }
 
@@ -125,7 +155,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         )
       );
     });
-  }, [activeTags, activeSources, pageContext.articles]);
+  }, [activeTags, activeSources, activeAuthors, pageContext.articles]);
 
   const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
     weekday: "long",
@@ -162,25 +192,61 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
                       Clear source filters
                     </Text>
                   )}
+                  {activeAuthors.size > 0 && (
+                    <Text
+                      as="button"
+                      fontSize="sm"
+                      color="blue.500"
+                      variant="solid"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        handleAuthorClear();
+                      }}
+                    >
+                      Clear author filters
+                    </Text>
+                  )}
                 </HStack>
               </AccordionButton>
             </h2>
             <AccordionPanel pb={4}>
-              <HStack wrap="wrap" spacing={2}>
-                {relevantSources.map(source => (
-                  <Tag
-                    key={source}
-                    size="md"
-                    variant={activeSources.has(source) ? "solid" : "outline"}
-                    colorScheme="blue"
-                    onClick={() => handleSourceClick(source)}
-                    cursor="pointer"
-                  >
-                    {source}
-                  </Tag>
-                ))}
-              </HStack>
+              <VStack align="stretch" spacing={3}>
+                <Box fontWeight="semibold">Sources</Box>
+                <HStack wrap="wrap" spacing={2}>
+                  {relevantSources.map(source => (
+                    <Tag
+                      key={source}
+                      size="md"
+                      variant={activeSources.has(source) ? "solid" : "outline"}
+                      colorScheme="blue"
+                      onClick={() => handleSourceClick(source)}
+                      cursor="pointer"
+                    >
+                      {source}
+                    </Tag>
+                  ))}
+                </HStack>
 
+                {relevantAuthors.length > 0 && (
+                  <>
+                    <Box fontWeight="semibold" mt={2}>Authors</Box>
+                    <HStack wrap="wrap" spacing={2}>
+                      {relevantAuthors.map(author => (
+                        <Tag
+                          key={author}
+                          size="md"
+                          variant={activeAuthors.has(author) ? "solid" : "outline"}
+                          colorScheme="purple"
+                          onClick={() => handleAuthorClick(author)}
+                          cursor="pointer"
+                        >
+                          {author}
+                        </Tag>
+                      ))}
+                    </HStack>
+                  </>
+                )}
+              </VStack>
             </AccordionPanel>
           </AccordionItem>
           <AccordionItem>

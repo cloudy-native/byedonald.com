@@ -9,7 +9,11 @@ import {
   VStack,
 } from "@chakra-ui/react";
 import { liteClient as algoliasearch } from "algoliasearch/lite";
-import React from "react";
+import React, { useEffect, useState } from "react";
+// @ts-ignore - runtime-only import, types not provided by package
+import { history } from "instantsearch.js/es/lib/routers";
+// @ts-ignore - runtime-only import, types not provided by package
+import { singleIndex } from "instantsearch.js/es/lib/stateMappings";
 import {
   InstantSearch,
   useHits,
@@ -30,12 +34,28 @@ console.log("Search Client", searchClient);
 
 function CustomSearchBox(props) {
   const { query, refine } = useSearchBox(props);
+  const [input, setInput] = useState(query);
+
+  // Keep local input in sync when query changes from external sources (e.g., URL routing)
+  useEffect(() => {
+    setInput(query);
+  }, [query]);
+
+  // Debounce refine calls
+  useEffect(() => {
+    const id = setTimeout(() => {
+      if (input !== query) {
+        refine(input);
+      }
+    }, 300);
+    return () => clearTimeout(id);
+  }, [input, query, refine]);
 
   return (
     <Input
       placeholder="Search Trump news..."
-      value={query}
-      onChange={(e) => refine(e.target.value)}
+      value={input}
+      onChange={(e) => setInput(e.target.value)}
       size="lg"
       borderRadius="md"
       bg={useColorModeValue("white", "gray.700")}
@@ -67,6 +87,7 @@ function Hit({ hit }: { hit: any }) {
           src={hit.urlToImage}
           alt={hit.title}
           objectFit="cover"
+          loading="lazy"
           w="100%"
           h="150px"
         />
@@ -98,7 +119,7 @@ function AlgoliaSearch() {
         {/* Search Results */}
         {status !== "loading" && items.length === 0 && (
           <Text color={useColorModeValue("gray.500", "gray.400")}>
-            No results found.
+            {status === "idle" ? "Start typing to search articles..." : "No results found."}
           </Text>
         )}
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={4} w="full">
@@ -117,7 +138,11 @@ function Search() {
   }
 
   return (
-    <InstantSearch searchClient={searchClient} indexName={indexName}>
+    <InstantSearch
+      searchClient={searchClient}
+      indexName={indexName}
+      routing={{ router: history(), stateMapping: singleIndex(indexName) }}
+    >
       <AlgoliaSearch />
     </InstantSearch>
   );
