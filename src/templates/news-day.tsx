@@ -118,6 +118,58 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     return filteredAuthors.sort();
   }, [articles]);
 
+  // Build adjacency maps for dynamic enabling
+  const adjacency = useMemo(() => {
+    const authorsBySource = new Map<string, Set<string>>();
+    const sourcesByAuthor = new Map<string, Set<string>>();
+    const allSources = new Set<string>();
+    const allAuthors = new Set<string>();
+
+    articles.forEach((article: Article) => {
+      const sourceName = article?.source?.name;
+      const authorName = article?.author;
+
+      if (sourceName) {
+        allSources.add(sourceName);
+      }
+      // Ignore authors equal to the source, per rule
+      if (authorName && authorName !== sourceName) {
+        allAuthors.add(authorName);
+      }
+
+      if (sourceName && authorName && authorName !== sourceName) {
+        if (!authorsBySource.has(sourceName)) authorsBySource.set(sourceName, new Set());
+        authorsBySource.get(sourceName)!.add(authorName);
+
+        if (!sourcesByAuthor.has(authorName)) sourcesByAuthor.set(authorName, new Set());
+        sourcesByAuthor.get(authorName)!.add(sourceName);
+      }
+    });
+
+    return { authorsBySource, sourcesByAuthor, allSources, allAuthors };
+  }, [articles]);
+
+  // Compute which chips should be enabled given current selections
+  const enabledAuthors = useMemo(() => {
+    if (activeSources.size === 0) return adjacency.allAuthors;
+    const acc = new Set<string>();
+    activeSources.forEach(src => {
+      const set = adjacency.authorsBySource.get(src);
+      if (set) set.forEach(a => acc.add(a));
+    });
+    return acc;
+  }, [activeSources, adjacency]);
+
+  const enabledSources = useMemo(() => {
+    if (activeAuthors.size === 0) return adjacency.allSources;
+    const acc = new Set<string>();
+    activeAuthors.forEach(auth => {
+      const set = adjacency.sourcesByAuthor.get(auth);
+      if (set) set.forEach(s => acc.add(s));
+    });
+    return acc;
+  }, [activeAuthors, adjacency]);
+
   const filteredArticles = useMemo(() => {
     if (activeTags.size === 0 && activeSources.size === 0 && activeAuthors.size === 0) {
       return articles;
@@ -213,36 +265,46 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
               <VStack align="stretch" spacing={3}>
                 <Box fontWeight="semibold">Sources</Box>
                 <HStack wrap="wrap" spacing={2}>
-                  {relevantSources.map(source => (
-                    <Tag
-                      key={source}
-                      size="md"
-                      variant={activeSources.has(source) ? "solid" : "outline"}
-                      colorScheme="blue"
-                      onClick={() => handleSourceClick(source)}
-                      cursor="pointer"
-                    >
-                      {source}
-                    </Tag>
-                  ))}
+                  {relevantSources.map(source => {
+                    const disabled = !enabledSources.has(source);
+                    return (
+                      <Tag
+                        key={source}
+                        size="md"
+                        variant={activeSources.has(source) ? "solid" : "outline"}
+                        colorScheme="blue"
+                        onClick={() => !disabled && handleSourceClick(source)}
+                        cursor={disabled ? "not-allowed" : "pointer"}
+                        opacity={disabled ? 0.4 : 1}
+                        pointerEvents={disabled ? "none" : "auto"}
+                      >
+                        {source}
+                      </Tag>
+                    );
+                  })}
                 </HStack>
 
                 {relevantAuthors.length > 0 && (
                   <>
                     <Box fontWeight="semibold" mt={2}>Authors</Box>
                     <HStack wrap="wrap" spacing={2}>
-                      {relevantAuthors.map(author => (
-                        <Tag
-                          key={author}
-                          size="md"
-                          variant={activeAuthors.has(author) ? "solid" : "outline"}
-                          colorScheme="purple"
-                          onClick={() => handleAuthorClick(author)}
-                          cursor="pointer"
-                        >
-                          {author}
-                        </Tag>
-                      ))}
+                      {relevantAuthors.map(author => {
+                        const disabled = !enabledAuthors.has(author);
+                        return (
+                          <Tag
+                            key={author}
+                            size="md"
+                            variant={activeAuthors.has(author) ? "solid" : "outline"}
+                            colorScheme="purple"
+                            onClick={() => !disabled && handleAuthorClick(author)}
+                            cursor={disabled ? "not-allowed" : "pointer"}
+                            opacity={disabled ? 0.4 : 1}
+                            pointerEvents={disabled ? "none" : "auto"}
+                          >
+                            {author}
+                          </Tag>
+                        );
+                      })}
                     </HStack>
                   </>
                 )}
