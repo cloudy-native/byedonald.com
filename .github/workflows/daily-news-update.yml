@@ -42,7 +42,12 @@ jobs:
 
       - name: Check for changes
         id: git-check
-        run: echo "changes=$(git status --porcelain)" >> $GITHUB_OUTPUT
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push changes
         if: steps.git-check.outputs.changes
