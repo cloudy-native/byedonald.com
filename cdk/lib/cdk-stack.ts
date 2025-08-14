@@ -27,12 +27,15 @@ export class CdkStack extends Stack {
 
     const { domainName } = props;
 
-    const githubOidcProvider =
-      OpenIdConnectProvider.fromOpenIdConnectProviderArn(
-        this,
-        "GitHubOidcProvider",
-        `arn:aws:iam::${this.account}:oidc-provider/token.actions.githubusercontent.com`
-      );
+    const githubOidcProvider = new OpenIdConnectProvider(
+      this,
+      "GitHubOidcProvider",
+      {
+        url: "https://token.actions.githubusercontent.com",
+        clientIds: ["sts.amazonaws.com"],
+        // thumbprints: ["6938fd4d98bab03faadb97b34396831e3780aea1"],
+      }
+    );
 
     const githubActionsRole = new Role(this, "GitHubActionsRole", {
       description: "Role for GitHub Actions to deploy the site and use Bedrock",
@@ -123,11 +126,12 @@ export class CdkStack extends Stack {
     });
 
     // Deploy site contents to S3 bucket
-    new BucketDeployment(this, "DeployWebsite", {
-      sources: [Source.asset("../public")],
-      destinationBucket: bucket,
-      distribution,
-    });
+    // TODO: takes forever. aws s3 sync for now
+    // new BucketDeployment(this, "DeployWebsite", {
+    //   sources: [Source.asset("../public")],
+    //   destinationBucket: bucket,
+    //   distribution,
+    // });
 
     // Outputs
     new CfnOutput(this, "BucketName", {

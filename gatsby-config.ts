@@ -14,6 +14,9 @@ const algoliaQuery = `
         content
         url
         urlToImage
+        internal {
+          contentDigest
+        }
       }
     }
   }
