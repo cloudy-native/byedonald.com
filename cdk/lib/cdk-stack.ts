@@ -125,6 +125,14 @@ export class CdkStack extends Stack {
       zone: zone,
     });
 
+    // Add CloudFront invalidation permission to GitHub Actions role
+    githubActionsRole.addToPolicy(
+      new PolicyStatement({
+        actions: ["cloudfront:CreateInvalidation"],
+        resources: [distribution.distributionArn],
+      })
+    );
+
     // Deploy site contents to S3 bucket
     // TODO: takes forever. aws s3 sync for now
     // new BucketDeployment(this, "DeployWebsite", {
