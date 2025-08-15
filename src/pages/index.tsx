@@ -326,7 +326,7 @@ const IndexPage: React.FC<PageProps> = () => {
           </Text>
           <Tabs
             isFitted
-            variant="enclosed"
+            variant="soft-rounded"
             defaultIndex={years.indexOf(new Date().getFullYear())}
           >
             <TabList>

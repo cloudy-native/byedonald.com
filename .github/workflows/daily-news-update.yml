@@ -66,8 +66,7 @@ jobs:
           ALGOLIA_INDEX_NAME: ${{ vars.GATSBY_ALGOLIA_INDEX_NAME }}
 
       - name: Deploy to S3
-        run: |
-          aws s3 sync public/ s3://${{ vars.ORIGIN_BUCKET }} --delete
+        run: npm run deploy
 
       - name: Invalidate CloudFront
         run: |

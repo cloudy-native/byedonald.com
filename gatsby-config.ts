@@ -51,6 +51,20 @@ const config: GatsbyConfig = {
     "gatsby-plugin-robots-txt",
     "gatsby-plugin-catch-links",
     {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-KT2X9S6YZH"],
+        gtagConfig: {
+          anonymize_ip: true,
+          send_page_view: false,
+        },
+        pluginConfig: {
+          head: true,
+          respectDNT: true,
+        },
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
