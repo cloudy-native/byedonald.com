@@ -13,6 +13,7 @@ import {
   HStack,
   Image,
   Link,
+  Select,
   SimpleGrid,
   Tag,
   Text,
@@ -50,6 +51,49 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const [activeTags, setActiveTags] = useState<Set<string>>(new Set());
   const [activeSources, setActiveSources] = useState<Set<string>>(new Set());
   const [activeAuthors, setActiveAuthors] = useState<Set<string>>(new Set());
+  const [sortOrder, setSortOrder] = useState<"newest" | "oldest">("newest");
+
+  // Hydrate filters from URL once on mount (SSR-safe)
+  React.useEffect(() => {
+    if (typeof window === "undefined") return;
+    const params = new URLSearchParams(window.location.search);
+    const parseSet = (key: string) => {
+      const v = params.get(key);
+      if (!v) return new Set<string>();
+      return new Set(v.split(",").map(decodeURIComponent).filter(Boolean));
+    };
+    const tags = parseSet("t");
+    const sources = parseSet("s");
+    const authors = parseSet("a");
+    const order = params.get("o") as "newest" | "oldest" | null;
+    if (tags.size) setActiveTags(tags);
+    if (sources.size) setActiveSources(sources);
+    if (authors.size) setActiveAuthors(authors);
+    if (order === "newest" || order === "oldest") setSortOrder(order);
+  }, []);
+
+  // Sync filters and sort to URL
+  React.useEffect(() => {
+    if (typeof window === "undefined") return;
+    const params = new URLSearchParams(window.location.search);
+    const setOrDelete = (key: string, set: Set<string>) => {
+      if (set.size > 0) {
+        params.set(key, Array.from(set).map(encodeURIComponent).join(","));
+      } else {
+        params.delete(key);
+      }
+    };
+    setOrDelete("t", activeTags);
+    setOrDelete("s", activeSources);
+    setOrDelete("a", activeAuthors);
+    if (sortOrder && sortOrder !== "newest") {
+      params.set("o", sortOrder);
+    } else {
+      params.delete("o");
+    }
+    const newUrl = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+    window.history.replaceState({}, "", newUrl);
+  }, [activeTags, activeSources, activeAuthors, sortOrder]);
 
   const handleTagClick = (tagId: string) => {
     setActiveTags(prev => {
@@ -209,6 +253,17 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     });
   }, [activeTags, activeSources, activeAuthors, pageContext.articles]);
 
+  // Apply sorting
+  const sortedArticles = useMemo(() => {
+    const copy = [...filteredArticles];
+    copy.sort((a, b) => {
+      const at = new Date(a.publishedAt).getTime();
+      const bt = new Date(b.publishedAt).getTime();
+      return sortOrder === "newest" ? bt - at : at - bt;
+    });
+    return copy;
+  }, [filteredArticles, sortOrder]);
+
   const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
     weekday: "long",
     year: "numeric",
@@ -222,6 +277,16 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         <Heading as="h1" size="xl" mb={4}>
           Trump News for {displayDate}
         </Heading>
+        <HStack justify="space-between" align="center">
+          <Text fontSize="sm" color="gray.600">{sortedArticles.length} articles</Text>
+          <HStack>
+            <Text fontSize="sm" color="gray.600">Sort</Text>
+            <Select size="sm" value={sortOrder} onChange={(e) => setSortOrder(e.target.value as any)} maxW="44">
+              <option value="newest">Newest first</option>
+              <option value="oldest">Oldest first</option>
+            </Select>
+          </HStack>
+        </HStack>
 
         <Accordion allowMultiple defaultIndex={[0, 1]} mb={4}>
           <AccordionItem>
@@ -350,7 +415,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           </AccordionItem>
         </Accordion>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
-          {filteredArticles.map((article, index) => {
+          {sortedArticles.map((article, index) => {
             const authorAndSource = [...new Set([article.author, article.source.name].filter(Boolean))].join(", ");
 
             return (

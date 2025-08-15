@@ -115,6 +115,11 @@
         "description": "Economic policy, financial markets, and fiscal matters"
       },
       {
+        "id": "inflation",
+        "name": "Inflation",
+        "description": "Price inflation and related policy"
+      },
+      {
         "id": "taxes",
         "name": "Taxes",
         "description": "Tax policy, IRS, corporate taxes"
@@ -123,6 +128,11 @@
         "id": "trade",
         "name": "Trade",
         "description": "International trade deals, tariffs, exports"
+      },
+      {
+        "id": "national_debt",
+        "name": "National Debt",
+        "description": "Federal debt and deficit issues"
       },
       {
         "id": "banking",
@@ -135,14 +145,34 @@
         "description": "Federal spending, debt ceiling, appropriations"
       },
       {
+        "id": "prices",
+        "name": "Prices and Cost of Living",
+        "description": "Prices, affordability, and consumer costs"
+      },
+      {
         "id": "stock_market",
         "name": "Stock Market",
         "description": "Market reactions, economic indicators"
       },
       {
+        "id": "automotive",
+        "name": "Automotive",
+        "description": "Auto industry, manufacturing, EVs"
+      },
+      {
         "id": "cryptocurrency",
         "name": "Cryptocurrency",
         "description": "Digital currency policy and regulation"
+      },
+      {
+        "id": "tourism",
+        "name": "Tourism",
+        "description": "Travel, tourism industry, hospitality"
+      },
+      {
+        "id": "social_security",
+        "name": "Social Security",
+        "description": "Benefits, programs, and funding"
       },
       {
         "id": "small_business",
@@ -163,6 +193,11 @@
         "description": "International relations, diplomacy, and global affairs"
       },
       {
+        "id": "ukraine",
+        "name": "Ukraine",
+        "description": "War, aid, and US-Ukraine relations"
+      },
+      {
         "id": "nato",
         "name": "NATO",
         "description": "Alliance relations, military cooperation"
@@ -178,6 +213,21 @@
         "description": "Relations, sanctions, interference"
       },
       {
+        "id": "iran",
+        "name": "Iran",
+        "description": "US-Iran relations, nuclear talks, sanctions"
+      },
+      {
+        "id": "israel",
+        "name": "Israel",
+        "description": "US-Israel relations and conflicts"
+      },
+      {
+        "id": "gaza",
+        "name": "Gaza",
+        "description": "Conflict and humanitarian issues in Gaza"
+      },
+      {
         "id": "middle_east",
         "name": "Middle East",
         "description": "Israel, Iran, Saudi Arabia, conflicts"
@@ -186,6 +236,16 @@
         "id": "europe",
         "name": "Europe",
         "description": "EU relations, individual country relations"
+      },
+      {
+        "id": "canada",
+        "name": "Canada",
+        "description": "US-Canada relations and cross-border issues"
+      },
+      {
+        "id": "mexico",
+        "name": "Mexico",
+        "description": "US-Mexico relations, border and trade"
       },
       {
         "id": "asia_pacific",
@@ -198,14 +258,34 @@
         "description": "Mexico, immigration, trade"
       },
       {
+        "id": "brazil",
+        "name": "Brazil",
+        "description": "US-Brazil relations and issues"
+      },
+      {
         "id": "africa",
         "name": "Africa",
         "description": "Aid, security, trade relationships"
       },
       {
+        "id": "arctic",
+        "name": "Arctic",
+        "description": "Arctic policy, climate, and security"
+      },
+      {
         "id": "international_organizations",
         "name": "International Organizations",
         "description": "UN, WHO, WTO interactions"
+      },
+      {
+        "id": "sanctions",
+        "name": "Sanctions",
+        "description": "Economic and diplomatic sanctions"
+      },
+      {
+        "id": "nuclear_policy",
+        "name": "Nuclear Policy",
+        "description": "Nuclear strategy, treaties, and nonproliferation"
       },
       {
         "id": "arms_control",
@@ -226,14 +306,39 @@
         "description": "Legal proceedings, court cases, and justice system matters"
       },
       {
+        "id": "law_enforcement",
+        "name": "Law Enforcement",
+        "description": "Police activity, investigations, and cooperation"
+      },
+      {
+        "id": "lawsuits",
+        "name": "Lawsuits",
+        "description": "Civil lawsuits and legal claims"
+      },
+      {
         "id": "criminal_cases",
         "name": "Criminal Cases",
         "description": "Prosecutions, investigations, charges"
       },
       {
+        "id": "consumer_protection",
+        "name": "Consumer Protection",
+        "description": "Consumer rights, unfair practices, enforcement"
+      },
+      {
         "id": "civil_litigation",
         "name": "Civil Litigation",
         "description": "Lawsuits, civil court proceedings"
+      },
+      {
+        "id": "antitrust",
+        "name": "Antitrust",
+        "description": "Competition policy and enforcement"
+      },
+      {
+        "id": "presidential_security",
+        "name": "Presidential Security",
+        "description": "Protection, records, and security matters"
       },
       {
         "id": "supreme_court",
@@ -279,6 +384,11 @@
         "description": "Electoral activities, campaigns, and political processes"
       },
       {
+        "id": "2024_presidential",
+        "name": "2024 Presidential",
+        "description": "2024 presidential campaign and election"
+      },
+      {
         "id": "2026_midterms",
         "name": "2026 Midterms",
         "description": "Campaign activities, endorsements"
@@ -289,9 +399,19 @@
         "description": "Early campaign positioning"
       },
       {
+        "id": "polling",
+        "name": "Polling",
+        "description": "Polls, surveys, approval ratings"
+      },
+      {
         "id": "voting_rights",
         "name": "Voting Rights",
         "description": "Election security, access, procedures"
+      },
+      {
+        "id": "campaign_events",
+        "name": "Campaign Events",
+        "description": "Rallies, town halls, campaign appearances"
       },
       {
         "id": "campaign_finance",
@@ -299,14 +419,49 @@
         "description": "Fundraising, donations, expenditures"
       },
       {
+        "id": "republican_party",
+        "name": "Republican Party",
+        "description": "GOP leadership, strategy, and activity"
+      },
+      {
+        "id": "democratic_party",
+        "name": "Democratic Party",
+        "description": "Democratic leadership, strategy, and activity"
+      },
+      {
         "id": "political_endorsements",
         "name": "Political Endorsements",
         "description": "Candidate support, rallies"
       },
       {
+        "id": "congress",
+        "name": "Congress",
+        "description": "U.S. House and Senate activity"
+      },
+      {
         "id": "redistricting",
         "name": "Redistricting",
         "description": "Gerrymandering, map changes"
+      },
+      {
+        "id": "appointments",
+        "name": "Appointments",
+        "description": "Nominations and confirmations"
+      },
+      {
+        "id": "presidential_transition",
+        "name": "Presidential Transition",
+        "description": "Transition planning and staffing"
+      },
+      {
+        "id": "leadership",
+        "name": "Leadership",
+        "description": "Party and governmental leadership"
+      },
+      {
+        "id": "trump",
+        "name": "Donald Trump",
+        "description": "News related to Donald J. Trump"
       },
       {
         "id": "state_elections",
@@ -327,6 +482,11 @@
         "description": "Press relations, public communications, and media interactions"
       },
       {
+        "id": "censorship",
+        "name": "Censorship",
+        "description": "Content moderation and censorship issues"
+      },
+      {
         "id": "social_media",
         "name": "Social Media",
         "description": "Truth Social, Twitter/X, other platforms"
@@ -335,6 +495,16 @@
         "id": "press_relations",
         "name": "Press Relations",
         "description": "White House briefings, media access"
+      },
+      {
+        "id": "artificial_intelligence",
+        "name": "Artificial Intelligence",
+        "description": "AI technology, platforms, and policy"
+      },
+      {
+        "id": "fact_checking",
+        "name": "Fact-Checking",
+        "description": "Verification, debunking, and accuracy"
       },
       {
         "id": "interviews",
@@ -418,9 +588,29 @@
         "description": "Civil rights, social policy, and cultural matters"
       },
       {
+        "id": "climate_policy",
+        "name": "Climate Policy",
+        "description": "Climate change policy, regulation, and international agreements"
+      },
+      {
+        "id": "abortion",
+        "name": "Abortion",
+        "description": "Abortion policy and legal issues"
+      },
+      {
+        "id": "protests",
+        "name": "Protests",
+        "description": "Demonstrations, activism, and public gatherings"
+      },
+      {
         "id": "civil_rights",
         "name": "Civil Rights",
         "description": "Discrimination, equality, protection"
+      },
+      {
+        "id": "personal_activities",
+        "name": "Personal Activities",
+        "description": "Non-official personal life activities"
       },
       {
         "id": "lgbtq_rights",

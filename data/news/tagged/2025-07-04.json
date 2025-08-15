@@ -337,7 +337,6 @@
         "middle_east",
         "israel",
         "gaza",
-        "ceasefire",
         "security_incidents"
       ]
     },
@@ -432,7 +431,7 @@
         "budget",
         "political_endorsements",
         "statements",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -540,7 +539,7 @@
       "tags": [
         "regional_state",
         "personal_family",
-        "HISTORY"
+        "social_issues"
       ]
     },
     {
@@ -613,8 +612,7 @@
         "economy_finance",
         "budget",
         "taxes",
-        "DEFICIT",
-        "NATIONAL_DEBT"
+        "national_debt"
       ]
     },
     {
@@ -739,7 +737,6 @@
       "content": "Tony Tan, a Google shareholder, has obtained and published a set of letters the Trump administration sent to multiple tech companies, essentially saying: dont worry about the law, the president has y… [+6632 chars]",
       "tags": [
         "executive_orders",
-        "tech_regulation",
         "media_communications",
         "foreign_policy",
         "security_intelligence"
@@ -1343,8 +1340,7 @@
         "healthcare",
         "taxes",
         "policy_legislation",
-        "economy_finance",
-        "affordable_care_act"
+        "economy_finance"
       ]
     },
     {
@@ -1720,7 +1716,7 @@
         "media_communications",
         "security_intelligence",
         "elections_politics",
-        "history"
+        "social_issues"
       ]
     },
     {
@@ -1795,8 +1791,7 @@
         "government_operations",
         "budget",
         "policy_legislation",
-        "economy_finance",
-        "presidential_actions"
+        "economy_finance"
       ]
     }
   ]

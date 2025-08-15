@@ -94,7 +94,7 @@
         "elections_politics",
         "2028_presidential",
         "media_communications",
-        "rallies",
+        "campaign_events",
         "regional_state",
         "new_york"
       ]
@@ -150,9 +150,9 @@
       "content": "Donald Trump and Kamala Harris are neck-and-neck in the race to the White House — so what happens if they draw?\nThere have been 78 million votes cast already in this election, although the turnout is expected to be lower than in 2020. Of those voters... [3842 chars]",
       "tags": [
         "elections_politics",
-        "elections_politics_2028_presidential",
-        "legal_justice_supreme_court",
-        "security_intelligence_national_security",
+        "2028_presidential",
+        "supreme_court",
+        "national_security",
         "crisis_emergency"
       ]
     },

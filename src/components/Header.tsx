@@ -29,6 +29,14 @@ const NAV_ITEMS: NavItem[] = [
     href: "/",
   },
   {
+    label: "Tags",
+    href: "/tags/",
+  },
+  {
+    label: "Sources",
+    href: "/sources/",
+  },
+  {
     label: "About",
     href: "/about",
   },

@@ -109,7 +109,7 @@
       "tags": [
         "civil_rights",
         "military",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -219,7 +219,7 @@
       "tags": [
         "stock_market",
         "trade",
-        "rallies",
+        "campaign_events",
         "statements",
         "political_endorsements"
       ]
@@ -237,7 +237,7 @@
       "publishedAt": "2025-06-14T17:13:36Z",
       "content": "Hundreds of chanting protesters, carrying signs with phrases like Defend Democracy and No Kings since 1776, rallied across South Florida Saturday, joining nationwide protests against Trump administra… [+2477 chars]",
       "tags": [
-        "rallies",
+        "campaign_events",
         "florida",
         "civil_rights"
       ]
@@ -367,7 +367,7 @@
       "content": "A parade in Washington, D.C., commemorating the 250th anniversary of the armed services and coinciding with the birthday of President Donald Trump, kicked off Saturday with a grand showing of the mil… [+3241 chars]",
       "tags": [
         "military",
-        "rallies",
+        "campaign_events",
         "washington_dc"
       ]
     },
@@ -401,7 +401,7 @@
       "publishedAt": "2025-06-14T21:33:43Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "rallies",
+        "campaign_events",
         "civil_rights",
         "statements",
         "press_relations",
@@ -441,7 +441,7 @@
       "tags": [
         "military",
         "washington_dc",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -605,7 +605,7 @@
       "tags": [
         "national_security",
         "military",
-        "rallies",
+        "campaign_events",
         "government_operations",
         "washington_dc"
       ]
@@ -680,7 +680,6 @@
       "tags": [
         "healthcare",
         "budget",
-        "policy",
         "social_issues"
       ]
     },
@@ -698,8 +697,7 @@
       "content": "The wildfire in the Wharton State Forest in Shamong, Burlington County, NJ, has created unhealthy breathing conditions in parts of Bucks, Delaware and Chester counties and Philadelphia. authorities s… [+2151 chars]",
       "tags": [
         "natural_disasters",
-        "public_health",
-        "regional"
+        "public_health"
       ]
     },
     {
@@ -896,7 +894,7 @@
       "content": "Americans are taking to the streets on Saturday to protest United States President Donald Trumps policies in thousands of locations across the country.\r\nThe No Kings protests will coincide with a mil… [+7378 chars]",
       "tags": [
         "civil_rights",
-        "rallies",
+        "campaign_events",
         "political_endorsements"
       ]
     },
@@ -968,7 +966,7 @@
       "content": "A massive military parade is set to roll through Washington, DC, as United States President Donald Trump marks his 79th birthday with a contentious show of force that coincides with the US Armys 250t… [+3845 chars]",
       "tags": [
         "military",
-        "rallies",
+        "campaign_events",
         "washington_dc",
         "national_security",
         "protests"
@@ -1134,8 +1132,7 @@
       "tags": [
         "security_incidents",
         "criminal_cases",
-        "state_elections",
-        "minnesota"
+        "state_elections"
       ]
     },
     {
@@ -1265,7 +1262,7 @@
       "tags": [
         "military",
         "washington_dc",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -1282,7 +1279,7 @@
       "content": "EXCLUSIVE: Donald Trump’s vainglorious birthday parade masquerading as a celebration of the 250th anniversary of the U.S. Army may get drenched in a rainy DC this Flag Day, but the financial sun is s… [+5389 chars]",
       "tags": [
         "military",
-        "rallies",
+        "campaign_events",
         "washington_dc",
         "government_operations"
       ]
@@ -1320,7 +1317,7 @@
       "tags": [
         "media_criticism",
         "press_relations",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -1358,9 +1355,7 @@
       "tags": [
         "civil_rights",
         "military",
-        "national_security",
-        "crisis_management",
-        "regional"
+        "national_security"
       ]
     },
     {
@@ -1399,7 +1394,7 @@
         "veterans_affairs",
         "military",
         "political_endorsements",
-        "rallies",
+        "campaign_events",
         "budget"
       ]
     },
@@ -1419,7 +1414,6 @@
         "congressional_investigations",
         "civil_rights",
         "government_operations",
-        "constitutional_crisis",
         "security_incidents"
       ]
     },
@@ -1437,7 +1431,7 @@
       "content": "The march was inescapable along one of the oldest streets in downtown Los Angeles on Saturday. Tens of thousands of people chanted over each other, laid on air horns and sang along with live bands pe… [+3850 chars]",
       "tags": [
         "immigration",
-        "rallies",
+        "campaign_events",
         "california"
       ]
     },
@@ -1457,7 +1451,7 @@
         "military",
         "washington_dc",
         "civil_rights",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -1474,7 +1468,7 @@
       "content": "As President Donald Trump prepares to attend an unprecedented military-style parade in Washington, D.C. later todaycommemorating the U.S. Armys 250th anniversary and his 79th birthdaymillions across … [+3339 chars]",
       "tags": [
         "military",
-        "rallies",
+        "campaign_events",
         "civil_rights",
         "washington_dc",
         "security_incidents"
@@ -1547,7 +1541,6 @@
       "tags": [
         "immigration",
         "civil_rights",
-        "crisis_management",
         "california"
       ]
     },

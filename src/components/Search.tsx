@@ -1,9 +1,13 @@
 import {
   Box,
+  Button,
+  HStack,
   Image,
   Input,
+  Select,
   SimpleGrid,
   Spinner,
+  Tag,
   Text,
   useColorModeValue,
   VStack,
@@ -15,9 +19,16 @@ import { history } from "instantsearch.js/es/lib/routers";
 // @ts-ignore - runtime-only import, types not provided by package
 import { singleIndex } from "instantsearch.js/es/lib/stateMappings";
 import {
+  Highlight,
   InstantSearch,
+  Snippet,
+  useClearRefinements,
+  useConfigure,
   useHits,
+  useHitsPerPage,
   useInstantSearch,
+  usePagination,
+  useRefinementList,
   useSearchBox,
 } from "react-instantsearch";
 
@@ -32,8 +43,8 @@ const searchClient =
 
 console.log("Search Client", searchClient);
 
-function CustomSearchBox(props) {
-  const { query, refine } = useSearchBox(props);
+function CustomSearchBox({ onArrow, onEnter }: { onArrow: (delta: number) => void; onEnter: () => void }) {
+  const { query, refine } = useSearchBox({});
   const [input, setInput] = useState(query);
 
   // Keep local input in sync when query changes from external sources (e.g., URL routing)
@@ -56,6 +67,17 @@ function CustomSearchBox(props) {
       placeholder="Search Trump news..."
       value={input}
       onChange={(e) => setInput(e.target.value)}
+      onKeyDown={(e) => {
+        if (e.key === "ArrowDown") {
+          e.preventDefault();
+          onArrow(1);
+        } else if (e.key === "ArrowUp") {
+          e.preventDefault();
+          onArrow(-1);
+        } else if (e.key === "Enter") {
+          onEnter();
+        }
+      }}
       size="lg"
       borderRadius="md"
       bg={useColorModeValue("white", "gray.700")}
@@ -67,7 +89,8 @@ function CustomSearchBox(props) {
   );
 }
 
-function Hit({ hit }: { hit: any }) {
+function Hit({ hit, selected }: { hit: any; selected: boolean }) {
+  const borderColor = useColorModeValue("blue.400", "blue.300");
   return (
     <Box
       as="a"
@@ -77,6 +100,7 @@ function Hit({ hit }: { hit: any }) {
       borderRadius="md"
       overflow="hidden"
       borderWidth="1px"
+      borderColor={selected ? borderColor : undefined}
       bg={useColorModeValue("white", "gray.700")}
       _hover={{ shadow: "lg", transform: "translateY(-4px)" }}
       transition="all 0.2s"
@@ -94,39 +118,152 @@ function Hit({ hit }: { hit: any }) {
       )}
       <Box p={4}>
         <Text fontWeight="bold" fontSize="md" noOfLines={2}>
-          {hit.title}
+          <Highlight attribute="title" hit={hit} />
         </Text>
+        {hit.sourceName || hit.author ? (
+          <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")} noOfLines={1} mt={1}>
+            {[hit.author, hit.sourceName].filter(Boolean).join(", ")}
+          </Text>
+        ) : null}
+        {hit.description && (
+          <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")} noOfLines={3} mt={2}>
+            <Snippet attribute="description" hit={hit} />
+          </Text>
+        )}
       </Box>
     </Box>
   );
 }
 
+function FacetChips({ attribute, label }: { attribute: string; label: string }) {
+  const { items, refine, canToggleShowMore, isShowingMore, toggleShowMore } = useRefinementList({ attribute, limit: 10, showMore: true, showMoreLimit: 30 });
+  if (!items || items.length === 0) return null;
+  return (
+    <VStack align="stretch" spacing={2} w="full">
+      <HStack justify="space-between">
+        <Text fontWeight="semibold">{label}</Text>
+        {canToggleShowMore && (
+          <Button size="xs" variant="ghost" onClick={toggleShowMore}>{isShowingMore ? "Show less" : "Show more"}</Button>
+        )}
+      </HStack>
+      <HStack wrap="wrap" spacing={2}>
+        {items.map((item: any) => (
+          <Tag
+            key={item.value}
+            size="sm"
+            variant={item.isRefined ? "solid" : "outline"}
+            colorScheme="blue"
+            cursor="pointer"
+            onClick={() => refine(item.value)}
+          >
+            {item.label} {item.count != null ? `(${item.count})` : ""}
+          </Tag>
+        ))}
+      </HStack>
+    </VStack>
+  );
+}
+
+function ClearRefinementsButton() {
+  const { canRefine, refine } = useClearRefinements();
+  if (!canRefine) return null;
+  return (
+    <Button size="sm" variant="ghost" onClick={() => refine()}>Clear filters</Button>
+  );
+}
+
+function HitsPerPageSelect() {
+  const { items, refine } = useHitsPerPage({ items: [
+    { label: "12 per page", value: 12, default: true },
+    { label: "24 per page", value: 24 },
+    { label: "48 per page", value: 48 },
+  ]});
+  return (
+    <Select size="sm" maxW="48" onChange={(e) => refine(Number(e.target.value))} value={(items.find(i => i.isRefined) || items[0]).value}>
+      {items.map((i) => (
+        <option key={i.value} value={i.value}>{i.label}</option>
+      ))}
+    </Select>
+  );
+}
+
+function PaginationControls() {
+  const { pages, currentRefinement, nbPages, refine, isFirstPage, isLastPage } = usePagination({ padding: 1 });
+  if (nbPages <= 1) return null;
+  return (
+    <HStack spacing={2}>
+      <Button size="sm" onClick={() => refine(currentRefinement - 1)} isDisabled={isFirstPage}>Prev</Button>
+      {pages.map((p) => (
+        <Button key={p} size="sm" variant={p === currentRefinement ? "solid" : "outline"} onClick={() => refine(p)}>{p + 1}</Button>
+      ))}
+      <Button size="sm" onClick={() => refine(currentRefinement + 1)} isDisabled={isLastPage}>Next</Button>
+    </HStack>
+  );
+}
+
 function AlgoliaSearch() {
   const { status } = useInstantSearch();
-  const { items  } = useHits();
+  const { items } = useHits();
+  useConfigure({ clickAnalytics: true });
 
-  console.log("Items", items);
+  const [selected, setSelected] = useState<number>(-1);
+
+  const handleArrow = (delta: number) => {
+    if (!items || items.length === 0) return;
+    setSelected((prev) => {
+      const next = (prev + delta + items.length) % items.length;
+      return next;
+    });
+  };
+
+  const handleEnter = () => {
+    if (selected >= 0 && selected < items.length) {
+      const url = (items as any[])[selected]?.url;
+      if (url) window.open(url, "_blank", "noopener,noreferrer");
+    }
+  };
 
   return (
     <Box p={6}>
-      <VStack spacing={6}>
-        {/* Search Box */}
-        <CustomSearchBox />
+      <VStack spacing={6} align="stretch">
+        {/* Search Box and top controls */}
+        <VStack spacing={3} align="stretch">
+          <CustomSearchBox onArrow={handleArrow} onEnter={handleEnter} />
+          <HStack justify="space-between">
+            <HStack spacing={3}>
+              <ClearRefinementsButton />
+              <HitsPerPageSelect />
+            </HStack>
+            {/* simple results info */}
+            <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")}>{items.length} results</Text>
+          </HStack>
+        </VStack>
+
+        {/* Facets */}
+        <VStack spacing={4} align="stretch">
+          <FacetChips attribute="sourceName" label="Sources" />
+          <FacetChips attribute="author" label="Authors" />
+        </VStack>
 
         {/* Loading Indicator */}
         {status === "loading" && <Spinner size="lg" color="blue.500" />}
 
-        {/* Search Results */}
+        {/* Empty/Results */}
         {status !== "loading" && items.length === 0 && (
           <Text color={useColorModeValue("gray.500", "gray.400")}>
-            {status === "idle" ? "Start typing to search articles..." : "No results found."}
+            {status === "idle" ? "Start typing to search articles..." : "No results found. Try different keywords or clearing filters."}
           </Text>
         )}
+
+        {/* Hits */}
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={4} w="full">
-          {items.map((hit) => (
-            <Hit key={hit.objectID} hit={hit} />
+          {items.map((hit: any, i: number) => (
+            <Hit key={hit.objectID} hit={hit} selected={i === selected} />
           ))}
         </SimpleGrid>
+
+        {/* Pagination */}
+        <PaginationControls />
       </VStack>
     </Box>
   );

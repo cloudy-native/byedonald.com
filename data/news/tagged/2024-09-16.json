@@ -114,8 +114,7 @@
         "security_incidents",
         "national_security",
         "legal_justice",
-        "criminal_cases",
-        "trump_personal"
+        "criminal_cases"
       ]
     },
     {
@@ -133,7 +132,7 @@
       "tags": [
         "security_incidents",
         "political_endorsements",
-        "rallies",
+        "campaign_events",
         "statements",
         "personal_legal"
       ]
@@ -192,7 +191,7 @@
       "tags": [
         "elections_politics",
         "2028_presidential",
-        "POLLS"
+        "polling"
       ]
     },
     {

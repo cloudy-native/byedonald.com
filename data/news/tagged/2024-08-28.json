@@ -306,7 +306,7 @@
         "elections_politics",
         "2028_presidential",
         "media_communications",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -364,7 +364,7 @@
         "political_endorsements",
         "campaign_finance",
         "media_communications",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -457,8 +457,7 @@
       "tags": [
         "criminal_cases",
         "security_incidents",
-        "legal_justice",
-        "violence"
+        "legal_justice"
       ]
     },
     {

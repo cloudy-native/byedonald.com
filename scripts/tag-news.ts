@@ -70,10 +70,10 @@ class AmazonNovaHandler implements ModelProviderHandler {
         { role: "user", content: [{ text: userPrompt }] },
       ],
       inferenceConfig: {
-        maxTokens: 512,
+        maxTokens: 256,
         stopSequences: [],
-        temperature: 0.7,
-        topP: 0.9,
+        temperature: 0.2,
+        topP: 0.8,
       },
     });
   }
@@ -99,17 +99,20 @@ class NewsArticleTagger {
   private systemPrompt: string;
   private userPromptTemplate: string;
   private modelHandlers: ModelProviderHandler[];
+  private maxTags: number;
 
   private constructor(
     tagDefinitions: TagDefinition,
     systemPrompt: string,
-    userPromptTemplate: string
+    userPromptTemplate: string,
+    maxTags: number
   ) {
     this.client = new BedrockRuntimeClient();
     this.tagDefinitions = tagDefinitions;
     this.systemPrompt = systemPrompt;
     this.userPromptTemplate = userPromptTemplate;
     this.modelHandlers = [new AnthropicHandler(), new AmazonNovaHandler()];
+    this.maxTags = maxTags;
   }
 
   public static async create(
@@ -122,14 +125,18 @@ class NewsArticleTagger {
       "system-prompt.txt"
     );
     const userPromptPath = path.join(__dirname, "lib", "ai", "user-prompt.txt");
-    const [systemPrompt, userPromptTemplate] = await Promise.all([
+    const [systemPromptRaw, userPromptTemplate] = await Promise.all([
       fs.readFile(systemPromptPath, "utf-8"),
       fs.readFile(userPromptPath, "utf-8"),
     ]);
+    const maxTagsEnv = Number(process.env.MAX_TAGS);
+    const maxTags = Number.isFinite(maxTagsEnv) && maxTagsEnv > 0 ? maxTagsEnv : 5;
+    const systemPrompt = systemPromptRaw.replace("{max_tags}", String(maxTags));
     return new NewsArticleTagger(
       tagDefinitions,
       systemPrompt,
-      userPromptTemplate
+      userPromptTemplate,
+      maxTags
     );
   }
 
@@ -273,9 +280,10 @@ class NewsArticleTagger {
       const jsonString = responseText.trim();
       const tags = JSON.parse(jsonString);
       if (Array.isArray(tags)) {
-        return tags.filter(
+        const filtered = tags.filter(
           (tag) => typeof tag === "string" && validTags.includes(tag)
         );
+        return filtered.slice(0, this.maxTags); // cap at configured max
       }
       return [];
     } catch (error) {

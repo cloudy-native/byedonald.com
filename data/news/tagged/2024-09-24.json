@@ -252,7 +252,6 @@
         "security_clearances",
         "presidential_security",
         "elections_politics",
-        "political_violence",
         "national_security"
       ]
     },
@@ -311,7 +310,6 @@
       "tags": [
         "security_incidents",
         "criminal_cases",
-        "presidential_protection",
         "national_security",
         "legal_justice"
       ]
@@ -408,7 +406,6 @@
       "tags": [
         "criminal_cases",
         "security_incidents",
-        "presidential_candidate",
         "legal_justice",
         "security_intelligence"
       ]

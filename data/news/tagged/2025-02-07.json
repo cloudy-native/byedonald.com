@@ -38,7 +38,6 @@
         "security_clearances",
         "intelligence",
         "national_security",
-        "presidential_actions",
         "government_operations"
       ]
     },
@@ -116,8 +115,7 @@
       "tags": [
         "government_operations",
         "federal_agencies",
-        "legal_justice",
-        "courts"
+        "legal_justice"
       ]
     },
     {

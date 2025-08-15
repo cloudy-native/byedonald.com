@@ -176,7 +176,7 @@
         "immigration",
         "criminal_cases",
         "political_endorsements",
-        "presidential_2024",
+        "2024_presidential",
         "policy_legislation"
       ]
     },
@@ -253,8 +253,7 @@
       "tags": [
         "legal_justice",
         "elections_politics",
-        "criminal_cases",
-        "presidential_election"
+        "criminal_cases"
       ]
     },
     {
@@ -291,7 +290,7 @@
         "elections_politics",
         "political_endorsements",
         "media_communications",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -384,7 +383,6 @@
       "tags": [
         "elections_politics",
         "social_issues",
-        "gender_rights",
         "media_communications",
         "personal_family"
       ]

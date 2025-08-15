@@ -149,7 +149,7 @@
         "public_health_emergency",
         "national_security",
         "crisis_emergency",
-        "weather"
+        "social_issues"
       ]
     },
     {
@@ -264,8 +264,6 @@
       "tags": [
         "foreign_policy",
         "economy_finance",
-        "natural_resources",
-        "business",
         "government_administration"
       ]
     },
@@ -358,7 +356,6 @@
       "tags": [
         "housing",
         "small_business",
-        "inequality",
         "political_endorsements",
         "elections_politics"
       ]
@@ -416,7 +413,6 @@
       "tags": [
         "legal_justice",
         "supreme_court",
-        "constitutional",
         "government_administration",
         "policy_legislation"
       ]
@@ -565,7 +561,6 @@
       "tags": [
         "china",
         "latin_america",
-        "cuba",
         "foreign_policy",
         "economy_finance"
       ]
@@ -602,8 +597,7 @@
       "content": "Today, the American fashion industry imports the vast majority of its goods, but supply chain upheaval and trade uncertainty are convincing more brands to take another look at U.S. manufacturing.\r\nAs… [+6218 chars]",
       "tags": [
         "economy_finance",
-        "policy_legislation",
-        "MANUFACTURING"
+        "policy_legislation"
       ]
     },
     {
@@ -843,8 +837,7 @@
       "content": "<ul><li>Sean 'Diddy' Combs trial: Verdict watch begins\r\n</li><li>Israel getting closer to accepting US proposal: Defense analyst\r\n</li><li>US agencies warn Iranian hackers 'may still conduct maliciou… [+4415 chars]",
       "tags": [
         "personal_family",
-        "media_communications",
-        "CELEBRITY"
+        "media_communications"
       ]
     },
     {
@@ -1380,7 +1373,6 @@
       "tags": [
         "space_policy",
         "europe",
-        "nasa",
         "government_administration",
         "policy_legislation"
       ]
@@ -1611,7 +1603,6 @@
       "content": "The University of Virginia's President resigned under pressure from the Trump administration. Leila Fadel asks Professor Brenden Cantwell at Michigan State about the impact on public higher education.",
       "tags": [
         "government_administration",
-        "higher_education",
         "regional_state"
       ]
     },
@@ -1745,7 +1736,6 @@
       "tags": [
         "foreign_policy",
         "international_organizations",
-        "economic_finance",
         "policy_legislation",
         "health_science"
       ]

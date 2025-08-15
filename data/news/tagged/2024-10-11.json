@@ -53,9 +53,7 @@
       "tags": [
         "security_incidents",
         "elections_politics",
-        "2028_presidential",
-        "personal_travel",
-        "golf"
+        "2028_presidential"
       ]
     },
     {
@@ -74,7 +72,7 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements",
-        "rallies",
+        "campaign_events",
         "swing_states"
       ]
     },
@@ -130,7 +128,6 @@
       "content": "US Vice President Kamala Harris is in “excellent health” and “possesses the physical and mental resiliency” required to serve as president, her doctor said in a letter summarising her medical history and status.\nDr Joshua Simmons, a US Army colonel a... [1490 chars]",
       "tags": [
         "health",
-        "personal_health",
         "government_administration",
         "elections_politics",
         "security_intelligence"
@@ -170,8 +167,7 @@
         "immigration",
         "policy_legislation",
         "security_intelligence",
-        "elections_politics",
-        "crime_justice"
+        "elections_politics"
       ]
     },
     {
@@ -250,7 +246,7 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements",
-        "polls",
+        "polling",
         "media_communications"
       ]
     },
@@ -481,9 +477,7 @@
       "content": "Former President Donald Trump is polling stronger with men than he did in his 2016 and 2020 presidential campaigns, according to several recent surveys.\nTrump won male voters in both the 2020 and 2016 presidential races, according to New York Times e... [8548 chars]",
       "tags": [
         "elections_politics",
-        "gender_politics",
-        "polling",
-        "voting_patterns"
+        "polling"
       ]
     }
   ]

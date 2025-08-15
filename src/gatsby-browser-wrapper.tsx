@@ -7,7 +7,7 @@ import theme from "./theme";
 export const wrapRootElement = ({ element }: { element: React.ReactNode }) => {
   return (
     <>
-      <ColorModeScript initialColorMode={"system"} />
+      <ColorModeScript initialColorMode={"light"} />
       <ChakraProvider resetCSS theme={theme}>
         {element}
       </ChakraProvider>

@@ -57,7 +57,7 @@
         "personal_business",
         "stock_market",
         "federal_agencies",
-        "foreign_policy_international"
+        "foreign_policy"
       ]
     },
     {
@@ -94,7 +94,6 @@
         "healthcare",
         "policy_legislation",
         "government_operations",
-        "social_issues_culture",
         "economy_finance"
       ]
     },
@@ -115,7 +114,7 @@
         "iran",
         "israel",
         "national_security",
-        "foreign_policy_international"
+        "foreign_policy"
       ]
     },
     {
@@ -131,9 +130,9 @@
       "publishedAt": "2025-06-16T17:15:51Z",
       "content": "Jonathan Beale\r\nA woman looks out of her bomb-damaged flat in Tehran\r\nIsrael's conflict with Iran may look like a mismatch on paper - a nation of nine million people taking on a giant of the Middle E… [+5327 chars]",
       "tags": [
-        "foreign_policy_&_international",
+        "foreign_policy",
         "middle_east",
-        "security_&_intelligence",
+        "security_intelligence",
         "military",
         "israel"
       ]
@@ -173,7 +172,7 @@
       "tags": [
         "criminal_cases",
         "security_incidents",
-        "regional_&_state"
+        "regional_state"
       ]
     },
     {
@@ -228,8 +227,8 @@
         "immigration",
         "agriculture",
         "labor",
-        "policy_&_legislation",
-        "foreign_policy_&_international"
+        "policy_legislation",
+        "foreign_policy"
       ]
     },
     {
@@ -248,8 +247,7 @@
         "government_operations",
         "immigration",
         "education",
-        "legal_justice",
-        "higher_education"
+        "legal_justice"
       ]
     },
     {
@@ -265,9 +263,9 @@
       "publishedAt": "2025-06-16T19:02:22Z",
       "content": "The Trump administration is considering a move that could nearly triple the number of countries subject to a travel ban, according to a State Department memo obtained by NPR. Up to 36 additional nati… [+3401 chars]",
       "tags": [
-        "foreign_policy_&_international",
-        "security_&_intelligence",
-        "government_&_administration"
+        "foreign_policy",
+        "security_intelligence",
+        "government_administration"
       ]
     },
     {
@@ -341,7 +339,6 @@
       "publishedAt": "2025-06-16T22:17:53Z",
       "content": "Just four years ago, when the Biden administration declared Juneteenth a national holiday, the bill had sailed through Congress with very little opposition. \r\nAnd on the heels of the Black Lives Matt… [+740 chars]",
       "tags": [
-        "social_issues_culture",
         "civil_rights",
         "racial_justice"
       ]
@@ -396,8 +393,7 @@
       "content": "Millions of people who use the Supplemental Nutrition Assistance Program (SNAP) are facing changes, not only to what kinds of food they can buy, but how much money they receive, what they have to do … [+7292 chars]",
       "tags": [
         "healthcare",
-        "social_issues_&_culture",
-        "economy_&_finance"
+        "economy_finance"
       ]
     },
     {
@@ -493,7 +489,7 @@
         "international_crisis",
         "economy_finance",
         "europe",
-        "foreign_policy_international"
+        "foreign_policy"
       ]
     },
     {
@@ -552,7 +548,7 @@
         "congressional_investigations",
         "ethics",
         "stock_market",
-        "legal_and_justice",
+        "legal_justice",
         "federal_agencies"
       ]
     },
@@ -586,8 +582,8 @@
       "publishedAt": "2025-06-16T10:00:43Z",
       "content": "The US and China reached a deal this week, a tentative deal on trade, once again opening access to China's much-needed rare earth minerals for American companies. China dominates the global mining an… [+5931 chars]",
       "tags": [
-        "foreign_policy_&_international",
-        "economy_&_finance",
+        "foreign_policy",
+        "economy_finance",
         "trade",
         "china",
         "energy"
@@ -625,8 +621,7 @@
       "content": "President Donald Trump said he wants to expand efforts to detain and deport illegal Aliens in Americas largest cities, such as Los Angeles, Chicago, and New York, where Millions upon Millions of Ille… [+1854 chars]",
       "tags": [
         "government_operations",
-        "immigration",
-        "enforcement_actions"
+        "immigration"
       ]
     },
     {
@@ -662,7 +657,7 @@
       "publishedAt": "2025-06-16T08:00:35Z",
       "content": "The U.S. has repeatedly denied involvement in Israels initial attack against Irana position that Iran has disputed as missiles continue to fly between the two countries and the risk of further escala… [+5416 chars]",
       "tags": [
-        "foreign_policy_international",
+        "foreign_policy",
         "middle_east",
         "russia",
         "national_security",
@@ -683,7 +678,6 @@
       "content": "This article is part of The D.C. Brief, TIMEs politics newsletter. Sign up here to get stories like this sent to your inbox.\r\nFor years, Doug Pagitt has been sounding the alarm to fellow Democrats ab… [+5498 chars]",
       "tags": [
         "elections_politics",
-        "social_issues_culture",
         "media_communications"
       ]
     },
@@ -718,11 +712,11 @@
       "publishedAt": "2025-06-16T19:05:52Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nPresident Donald Trump had a miserable weekend. As an IsraelIran war erup… [+5242 chars]",
       "tags": [
-        "foreign_policy_&_international",
+        "foreign_policy",
         "middle_east",
         "national_security",
-        "security_&_intelligence",
-        "crisis_&_emergency"
+        "security_intelligence",
+        "crisis_emergency"
       ]
     },
     {
@@ -756,9 +750,9 @@
       "publishedAt": "2025-06-16T09:00:19Z",
       "content": "President Donald Trump arrived on Sunday in Canada for a Group of Seven summit, where international leaders are expected to focus on trade, energy and the resolution of conflicts, including Russias w… [+490 chars]",
       "tags": [
-        "FOREIGN_POLICY_&_INTERNATIONAL",
+        "foreign_policy",
         "russia",
-        "UKRAINE",
+        "ukraine",
         "nato",
         "international_organizations"
       ]
@@ -777,8 +771,7 @@
       "content": "The Trump Organization on Monday announced a mobile phone service and a Trump-branded smartphone, extending the family real estate company into the vast U.S. telecom market.\r\nThe announcement arrives… [+2580 chars]",
       "tags": [
         "personal_family",
-        "economy_finance",
-        "BUSINESS"
+        "economy_finance"
       ]
     },
     {
@@ -812,7 +805,7 @@
       "publishedAt": "2025-06-16T21:27:17Z",
       "content": "President Donald Trump does not intend to sign a statement currently being drafted by world leaders at the G7 summit, calling for de-escalation between Israel and Iran, according to two U.S. official… [+3299 chars]",
       "tags": [
-        "foreign_policy_international",
+        "foreign_policy",
         "middle_east",
         "israel",
         "iran"
@@ -832,7 +825,6 @@
       "content": "A temporary restraining order on President Donald Trump barring foreign Harvard University students from entering the U.S. will remain in effect until next Monday while a federal judge considers argu… [+5154 chars]",
       "tags": [
         "legal_justice",
-        "higher_education",
         "immigration"
       ]
     },
@@ -850,8 +842,7 @@
       "content": "A pair of lawmakers in California are seeking to ban law enforcement officers in the state from wearing face coverings, amid protests in Los Angeles against the Trump administration's immigration pol… [+1878 chars]",
       "tags": [
         "civil_rights",
-        "law_enforcement",
-        "state_and_local_government"
+        "law_enforcement"
       ]
     },
     {
@@ -866,9 +857,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/175c8f97-b26d-4ea3-aca8-3737efd8ddfb/250616_gmafl_pigeon_impersonatorL_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-16T10:44:44Z",
       "content": "<ul><li>Israel and Iran trade strikes as conflict intensifies\r\n</li><li>Police search for suspects in deadly mass shooting in Indiana\r\n</li><li>Manhunt for suspect in Minnesota shooting enters 2nd da… [+4414 chars]",
-      "tags": [
-        
-      ]
+      "tags": []
     },
     {
       "source": {
@@ -1126,9 +1115,9 @@
       "publishedAt": "2025-06-16T11:00:00Z",
       "content": "Within weeks of Donald Trump’s second inauguration, pundits began saying that his return to office opened new doors for Vladimir Putin, offering Moscow opportunities it hadn’t seen in years. The defe… [+8296 chars]",
       "tags": [
-        "foreign_policy_&_international",
+        "foreign_policy",
         "russia",
-        "media_&_communications"
+        "media_communications"
       ]
     },
     {
@@ -1164,7 +1153,7 @@
       "publishedAt": "2025-06-16T15:37:24Z",
       "content": "The head of the global nuclear watchdog says there has been no further damage to Iran's Natanz uranium enrichment plant since Israel struck the country's nuclear sites on Friday.\r\nRafael Grossi told … [+5066 chars]",
       "tags": [
-        "foreign_policy_international",
+        "foreign_policy",
         "middle_east",
         "iran",
         "national_security",
@@ -1203,7 +1192,7 @@
       "tags": [
         "personal_business",
         "small_business",
-        "economy_and_finance"
+        "economy_finance"
       ]
     },
     {
@@ -1330,9 +1319,9 @@
       "content": "SHADY SIDE, Md. The sun is barely up when Bill Scerbo unties the lines on his aging crabber and turns its bow toward open water. He and his deckhand are heading out to check crab traps in the shallow… [+8506 chars]",
       "tags": [
         "environment",
-        "policy_&_legislation",
-        "government_&_administration",
-        "economy_&_finance",
+        "policy_legislation",
+        "government_administration",
+        "economy_finance",
         "natural_disasters"
       ]
     },
@@ -1422,7 +1411,7 @@
       "content": "from the one-big-giant-head-fake dept\r\nBack in 2019, the Trump DOJ and FCC cobbled together a dumb plan to try and hide the problems created by their rubber stamping of the competition-eroding T-Mobi… [+3138 chars]",
       "tags": [
         "economy_finance",
-        "telecommunications",
+        "media_communications",
         "government_operations",
         "legal_justice",
         "policy_legislation"
@@ -1460,7 +1449,6 @@
       "content": "from the gang-on-gang-violence dept\r\nWhile Donald Trump was trying (and failing) to cheer himself up with a self-congratulatory birthday parade — I mean, just look at this sad boy:\r\n— the Los Angeles… [+2256 chars]",
       "tags": [
         "security_incidents",
-        "police",
         "legal_justice"
       ]
     },
@@ -1591,7 +1579,6 @@
       "content": "Millions of student loan borrowers are watching their credit scores plummet in real time as the Trump administration resumes federal debt collections.\r\nAfter a five-year pause on collections, missed … [+3199 chars]",
       "tags": [
         "economy_finance",
-        "student_loans",
         "banking"
       ]
     },
@@ -1661,9 +1648,9 @@
       "publishedAt": "2025-06-16T17:05:43Z",
       "content": "NewsFeed\r\nUS President Donald Trump said Iran and Israel should talk immediately about de-escalating their conflict before its too late. Speaking at the G7 summit in Canada he said Tehran is not winn… [+12 chars]",
       "tags": [
-        "foreign_policy_&_international",
+        "foreign_policy",
         "middle_east",
-        "security_&_intelligence"
+        "security_intelligence"
       ]
     },
     {
@@ -1679,7 +1666,7 @@
       "publishedAt": "2025-06-16T07:36:20Z",
       "content": "NewsFeed\r\nSometimes they have to fight it out. Donald Trump tells reporters he hopes Iran and Israel can real a deal to end the fighting but declines to say if he has urged Israel to end its attacks.",
       "tags": [
-        "foreign_policy_&_international",
+        "foreign_policy",
         "middle_east",
         "israel",
         "iran"
@@ -1698,9 +1685,9 @@
       "publishedAt": "2025-06-16T20:12:46Z",
       "content": "World leaders assembled at this weeks Group of Seven summit in Canada will try to push United States President Donald Trump to back away from his punishing trade war, which experts say poses a risk t… [+3657 chars]",
       "tags": [
-        "foreign_policy_international",
+        "foreign_policy",
         "trade",
-        "g7",
+        "international_organizations",
         "iran",
         "israel"
       ]
@@ -1736,7 +1723,7 @@
       "publishedAt": "2025-06-16T16:35:35Z",
       "content": "Washington, DC A prominent Democratic senator has introduced a bill to require United States President Donald Trump to first seek authorisation from Congress before ordering military strikes against … [+6857 chars]",
       "tags": [
-        "foreign_policy_international",
+        "foreign_policy",
         "congress",
         "iran",
         "national_security",

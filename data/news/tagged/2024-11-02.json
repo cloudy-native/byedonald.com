@@ -75,7 +75,7 @@
       "tags": [
         "elections_politics",
         "media_communications",
-        "polls"
+        "polling"
       ]
     },
     {
@@ -135,7 +135,7 @@
         "swing_states",
         "campaign_finance",
         "political_endorsements",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -152,7 +152,7 @@
       "content": "There are just three days until Election Day and recent polling shows Vice President Kamala Harris up in Nevada, Georgia, Michigan and Wisconsin while former President Donald Trump is ahead in Arizona and North Carolina, with the two candidates essen... [5174 chars]",
       "tags": [
         "elections_politics",
-        "polls",
+        "polling",
         "swing_states"
       ]
     },
@@ -270,7 +270,7 @@
         "swing_states",
         "campaign_finance",
         "political_endorsements",
-        "rallies"
+        "campaign_events"
       ]
     },
     {
@@ -404,9 +404,8 @@
         "elections_politics",
         "2026_midterms",
         "media_communications",
-        "rallies",
-        "regional_state",
-        "north_carolina"
+        "campaign_events",
+        "regional_state"
       ]
     },
     {

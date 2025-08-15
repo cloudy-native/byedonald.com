@@ -76,8 +76,7 @@
         "elections_politics",
         "political_endorsements",
         "media_communications",
-        "statements",
-        "personal_attacks"
+        "statements"
       ]
     },
     {
@@ -114,7 +113,7 @@
         "elections_politics",
         "political_endorsements",
         "swing_states",
-        "rallies",
+        "campaign_events",
         "personal_business"
       ]
     },
@@ -228,7 +227,7 @@
         "elections_politics",
         "swing_states",
         "2028_presidential",
-        "rallies",
+        "campaign_events",
         "political_endorsements"
       ]
     },
@@ -266,7 +265,7 @@
         "elections_politics",
         "policy_legislation",
         "environment",
-        "climate_change"
+        "climate_policy"
       ]
     },
     {
@@ -433,7 +432,7 @@
       "content": "THE FAMILY of the firefighter who died while saving his family from shots at the Donald Trump rally in Pennsylvania has made a vow for answers.\nCorey Comperatore, 50, attended the rally with his wife Helen, and two daughters Allyson, 27, and Kaylee, ... [4198 chars]",
       "tags": [
         "security_incidents",
-        "rallies",
+        "campaign_events",
         "personal_family",
         "crisis_emergency",
         "legal_justice"
