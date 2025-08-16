@@ -4,6 +4,7 @@ import {
 } from "@aws-sdk/client-bedrock-runtime";
 import * as fs from "fs/promises";
 import * as path from "path";
+import tagDefinitions from "../data/tags/tags.json";
 import type {
   NewsArticle,
   NewsResponse,
@@ -11,7 +12,6 @@ import type {
   TaggedNewsResponse,
 } from "./lib/article-utils";
 import { deduplicateArticles } from "./lib/article-utils";
-import tagDefinitions from "../data/tags/tags.json";
 
 interface Tag {
   id: string;
@@ -88,7 +88,10 @@ class AmazonNovaHandler implements ModelProviderHandler {
     ) {
       return responseBody.output.message.content[0].text;
     }
-    console.error("Invalid response structure from Amazon Nova model:", JSON.stringify(responseBody, null, 2));
+    console.error(
+      "Invalid response structure from Amazon Nova model:",
+      JSON.stringify(responseBody, null, 2),
+    );
     throw new Error("Empty or invalid response from Amazon Nova model");
   }
 }
@@ -105,7 +108,7 @@ class NewsArticleTagger {
     tagDefinitions: TagDefinition,
     systemPrompt: string,
     userPromptTemplate: string,
-    maxTags: number
+    maxTags: number,
   ) {
     this.client = new BedrockRuntimeClient();
     this.tagDefinitions = tagDefinitions;
@@ -116,13 +119,13 @@ class NewsArticleTagger {
   }
 
   public static async create(
-    tagDefinitions: TagDefinition
+    tagDefinitions: TagDefinition,
   ): Promise<NewsArticleTagger> {
     const systemPromptPath = path.join(
       __dirname,
       "lib",
       "ai",
-      "system-prompt.txt"
+      "system-prompt.txt",
     );
     const userPromptPath = path.join(__dirname, "lib", "ai", "user-prompt.txt");
     const [systemPromptRaw, userPromptTemplate] = await Promise.all([
@@ -130,19 +133,20 @@ class NewsArticleTagger {
       fs.readFile(userPromptPath, "utf-8"),
     ]);
     const maxTagsEnv = Number(process.env.MAX_TAGS);
-    const maxTags = Number.isFinite(maxTagsEnv) && maxTagsEnv > 0 ? maxTagsEnv : 5;
+    const maxTags =
+      Number.isFinite(maxTagsEnv) && maxTagsEnv > 0 ? maxTagsEnv : 5;
     const systemPrompt = systemPromptRaw.replace("{max_tags}", String(maxTags));
     return new NewsArticleTagger(
       tagDefinitions,
       systemPrompt,
       userPromptTemplate,
-      maxTags
+      maxTags,
     );
   }
 
   private async invokeModel(
     userPrompt: string,
-    modelId: string
+    modelId: string,
   ): Promise<string> {
     const handler = this.modelHandlers.find((h) => h.canHandle(modelId));
 
@@ -167,7 +171,7 @@ class NewsArticleTagger {
   }
 
   async tagArticlesIndividually(
-    newsData: NewsResponse
+    newsData: NewsResponse,
   ): Promise<TaggedNewsResponse> {
     const taggedArticles: TaggedNewsArticle[] = [];
 
@@ -176,7 +180,7 @@ class NewsArticleTagger {
       console.log(
         `Processing article ${i + 1}/${newsData.articles.length}: ${
           article.title
-        }`
+        }`,
       );
 
       try {
@@ -212,7 +216,7 @@ class NewsArticleTagger {
       try {
         const responseText = await this.invokeModel(
           prompt,
-          "amazon.nova-lite-v1:0"
+          "amazon.nova-lite-v1:0",
         );
         return this.parseTagsFromResponse(responseText);
       } catch (error: any) {
@@ -220,7 +224,7 @@ class NewsArticleTagger {
           console.warn(
             `Throttling detected. Retrying in ${delay / 1000}s... (Attempt ${
               attempt + 1
-            }/${maxRetries})`
+            }/${maxRetries})`,
           );
           await new Promise((resolve) => setTimeout(resolve, delay));
           delay *= 2; // exponential backoff
@@ -234,7 +238,7 @@ class NewsArticleTagger {
 
     // This part should not be reached if logic is correct, but as a fallback:
     throw new Error(
-      `Max retries reached for tagging article: ${article.title}`
+      `Max retries reached for tagging article: ${article.title}`,
     );
   }
 
@@ -273,7 +277,7 @@ class NewsArticleTagger {
 
   private parseTagsFromResponse(responseText: string): string[] {
     const validTags = this.tagDefinitions.flatMap((category) =>
-      category.tags.map((tag) => tag.id)
+      category.tags.map((tag) => tag.id),
     );
 
     try {
@@ -281,7 +285,7 @@ class NewsArticleTagger {
       const tags = JSON.parse(jsonString);
       if (Array.isArray(tags)) {
         const filtered = tags.filter(
-          (tag) => typeof tag === "string" && validTags.includes(tag)
+          (tag) => typeof tag === "string" && validTags.includes(tag),
         );
         return filtered.slice(0, this.maxTags); // cap at configured max
       }
@@ -299,7 +303,7 @@ async function main() {
   const TAGGED_NEWS_DIR = path.join(__dirname, "..", "data", "news", "tagged");
   // Instantiate the tagger
   const tagger = await NewsArticleTagger.create(
-    tagDefinitions as TagDefinition
+    tagDefinitions as TagDefinition,
   );
 
   // Find untagged files
@@ -307,7 +311,7 @@ async function main() {
   const rawFiles = await fs.readdir(RAW_NEWS_DIR);
   const taggedFiles = new Set(await fs.readdir(TAGGED_NEWS_DIR));
   const untaggedFiles = rawFiles.filter(
-    (file) => !taggedFiles.has(file) && file.endsWith(".json")
+    (file) => !taggedFiles.has(file) && file.endsWith(".json"),
   );
 
   if (untaggedFiles.length === 0) {
@@ -318,7 +322,7 @@ async function main() {
   console.log(
     `Found ${
       untaggedFiles.length
-    } untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`
+    } untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`,
   );
 
   for (const fileName of untaggedFiles) {
@@ -336,7 +340,7 @@ async function main() {
       const duplicateCount = originalCount - newsData.totalResults;
       if (duplicateCount > 0) {
         console.log(
-          `Removed ${duplicateCount}/${originalCount} duplicate/similar articles.`
+          `Removed ${duplicateCount}/${originalCount} duplicate/similar articles.`,
         );
       }
 
@@ -344,7 +348,7 @@ async function main() {
         console.log("No unique articles to tag. Skipping.");
         await fs.writeFile(
           taggedFilePath,
-          JSON.stringify({ ...newsData, articles: [] }, null, 2)
+          JSON.stringify({ ...newsData, articles: [] }, null, 2),
         );
         console.log(`Created empty tagged file: ${fileName}`);
         continue;

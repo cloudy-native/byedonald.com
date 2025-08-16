@@ -1,18 +1,18 @@
 import {
   Box,
   Container,
+  chakra,
   Divider,
   Icon,
   Link,
   SimpleGrid,
   Stack,
   Text,
-  VisuallyHidden,
-  chakra,
   useColorModeValue,
+  VisuallyHidden,
 } from "@chakra-ui/react";
 import { Link as GatsbyLink } from "gatsby";
-import React from "react";
+import type React from "react";
 import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
 import BuyMeCoffeeButton from "./BuyMeCoffeeButton";
 

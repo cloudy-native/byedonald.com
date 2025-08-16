@@ -14,7 +14,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && aws s3 sync ./public/ s3://byedonald3stack-websitebucket75c24d94-qo97w51klbe9 --delete",
+    "deploy": "aws s3 sync ./public/ s3://byedonald3stack-websitebucket75c24d94-qo97w51klbe9 --delete",
     "typecheck": "tsc --noEmit",
     "theme": "chakra-cli tokens src/theme/index.ts",
     "theme:watch": "chakra-cli tokens src/theme/index.ts --watch",
@@ -25,6 +25,7 @@
     "upload-to-opensearch": "ts-node scripts/upload-to-opensearch.ts",
     "tag-news": "ts-node scripts/tag-news.ts",
     "normalize-tags": "ts-node scripts/normalize-tags.ts",
+    "move-articles-to-correct-date": "ts-node scripts/move-articles-to-correct-date.ts",
     "prune-tagged-news": "ts-node scripts/prune-tagged-news.ts",
     "retag-untagged-articles": "ts-node scripts/retag-untagged-articles.ts"
   },
@@ -70,6 +71,7 @@
     "recharts": "^2.15.1"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.2.0",
     "@chakra-ui/cli": "^2.3.0",
     "@types/fast-levenshtein": "^0.0.4",
     "@types/node": "^20.19.6",

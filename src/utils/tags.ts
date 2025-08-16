@@ -22,7 +22,7 @@ export interface DisplayableTag {
 const displayableTagMap = new Map<string, DisplayableTag>();
 
 // Populate the map with all categories and their specific tags
-for (const category of (tagsData as unknown as TagCategory[])) {
+for (const category of tagsData as unknown as TagCategory[]) {
   const categoryId = categoryIdFromTitle(category.title);
 
   // Add the category itself as a displayable tag
@@ -51,10 +51,9 @@ for (const category of (tagsData as unknown as TagCategory[])) {
 export const getDisplayableTagsByIds = (ids: string[]): DisplayableTag[] => {
   if (!ids) return [];
   return ids
-    .map(id => displayableTagMap.get(id))
+    .map((id) => displayableTagMap.get(id))
     .filter((tag): tag is DisplayableTag => !!tag);
 };
-
 
 // --- LEGACY & SHARED TYPES / FUNCTIONS ---
 
@@ -87,7 +86,7 @@ export interface TagInfo extends Tag {
 
 const allTags: TagInfo[] = [];
 
-for (const category of (tagsData as unknown as TagCategory[])) {
+for (const category of tagsData as unknown as TagCategory[]) {
   const categoryId = categoryIdFromTitle(category.title);
   for (const tag of category.tags) {
     allTags.push({
@@ -107,9 +106,9 @@ export const getTagById = (id: string): TagInfo | undefined => {
 };
 
 export const getCategoryByTagId = (
-  tagId: string
+  tagId: string,
 ): TagCategoryWithId | undefined => {
-  for (const category of (tagsData as unknown as TagCategory[])) {
+  for (const category of tagsData as unknown as TagCategory[]) {
     if (category.tags.some((tag) => tag.id === tagId)) {
       return {
         ...category,
@@ -123,7 +122,7 @@ export const getCategoryByTagId = (
 
 // Kept for any other part of the app that might still use it
 export const getTagsByIds = (ids: string[]): TagInfo[] => {
-  return ids.map(id => getTagById(id)).filter((tag): tag is TagInfo => !!tag);
+  return ids.map((id) => getTagById(id)).filter((tag): tag is TagInfo => !!tag);
 };
 
 export const getAllTags = (): TagInfo[] => {
@@ -131,7 +130,9 @@ export const getAllTags = (): TagInfo[] => {
 };
 
 export const getTagsByCategoryId = (categoryId: string): Tag[] => {
-  const category = (tagsData as unknown as TagCategory[]).find(category => categoryIdFromTitle(category.title) === categoryId);
+  const category = (tagsData as unknown as TagCategory[]).find(
+    (category) => categoryIdFromTitle(category.title) === categoryId,
+  );
   return category ? category.tags : [];
 };
 

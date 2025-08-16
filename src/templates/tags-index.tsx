@@ -1,8 +1,17 @@
-import { Box, Heading, Tag, VStack, Text, Wrap, WrapItem, Tooltip } from "@chakra-ui/react";
-import { Link as GatsbyLink, PageProps } from "gatsby";
-import React from "react";
-import { getAllTags, getAllTagCategories, TagInfo } from "../utils/tags";
+import {
+  Box,
+  Heading,
+  Tag,
+  Text,
+  Tooltip,
+  VStack,
+  Wrap,
+  WrapItem,
+} from "@chakra-ui/react";
+import { Link as GatsbyLink, type PageProps } from "gatsby";
+import type React from "react";
 import { slugify } from "../utils/slugify";
+import { getAllTagCategories, getAllTags, type TagInfo } from "../utils/tags";
 
 interface TagsIndexContext {
   tags: string[]; // tag IDs passed from gatsby-node (used to build links)
@@ -14,7 +23,9 @@ interface TagsIndexContext {
 const TAGS = getAllTags();
 const TAG_CATEGORIES = getAllTagCategories();
 
-const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({ pageContext }) => {
+const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({
+  pageContext,
+}) => {
   const { tags = [] } = pageContext;
   const tagIdSet = new Set(tags);
 
@@ -26,7 +37,9 @@ const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({ pageCon
     if (!tagsByCategory[cid]) tagsByCategory[cid] = [];
     tagsByCategory[cid].push(tag);
   }
-  Object.values(tagsByCategory).forEach(list => list.sort((a, b) => a.name.localeCompare(b.name)));
+  Object.values(tagsByCategory).forEach((list) =>
+    list.sort((a, b) => a.name.localeCompare(b.name)),
+  );
 
   // Count selected tags
   const totalCount = tags.length;
@@ -34,24 +47,37 @@ const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({ pageCon
   return (
     <Box p={8}>
       <VStack align="stretch" spacing={6}>
-        <Heading as="h1" size="xl">All Tags</Heading>
-        <Text fontSize="sm" color="gray.600">{totalCount} tags</Text>
+        <Heading as="h1" size="xl">
+          All Tags
+        </Heading>
+        <Text fontSize="sm" color="gray.600">
+          {totalCount} tags
+        </Text>
 
         <Wrap spacing={4}>
-          {TAG_CATEGORIES.map(category => {
+          {TAG_CATEGORIES.map((category) => {
             const categoryTags = tagsByCategory[category.id] || [];
             if (categoryTags.length === 0) return null;
 
             return (
               <WrapItem key={category.id}>
-                <Box p={4} borderWidth={2} borderColor={category.color} borderRadius="md">
+                <Box
+                  p={4}
+                  borderWidth={2}
+                  borderColor={category.color}
+                  borderRadius="md"
+                >
                   <Heading as="h4" size="sm" color={category.color} mb={2}>
                     {category.title}
                   </Heading>
                   <Wrap spacing={2}>
-                    {categoryTags.map(tag => (
+                    {categoryTags.map((tag) => (
                       <WrapItem key={tag.id}>
-                        <Tooltip label={tag.description} placement="top" hasArrow>
+                        <Tooltip
+                          label={tag.description}
+                          placement="top"
+                          hasArrow
+                        >
                           <Tag
                             as={GatsbyLink}
                             to={`/tags/${slugify(tag.id)}/`}

@@ -8,7 +8,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const tagTemplate = path.resolve("./src/templates/tag.tsx");
   const sourceTemplate = path.resolve("./src/templates/source.tsx");
   const tagsIndexTemplate = path.resolve("./src/templates/tags-index.tsx");
-  const sourcesIndexTemplate = path.resolve("./src/templates/sources-index.tsx");
+  const sourcesIndexTemplate = path.resolve(
+    "./src/templates/sources-index.tsx",
+  );
 
   // using shared slugify util
 
@@ -83,7 +85,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     }
   `);
   if (allArticlesRes.errors) {
-    reporter.panicOnBuild(`Error while querying allArticle for tag/source pages.`, allArticlesRes.errors);
+    reporter.panicOnBuild(
+      `Error while querying allArticle for tag/source pages.`,
+      allArticlesRes.errors,
+    );
     return;
   }
   const articles = allArticlesRes.data.allArticle.nodes || [];
@@ -137,7 +142,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     path: `/tags/`,
     component: tagsIndexTemplate,
     context: {
-      tags: Array.from(tagsMap.keys())
+      tags: Array.from(tagsMap.keys()),
     },
   });
 
@@ -145,16 +150,21 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     path: `/sources/`,
     component: sourcesIndexTemplate,
     context: {
-      sources: Array.from(sourcesMap.keys())
+      sources: Array.from(sourcesMap.keys()),
     },
   });
 };
 
-exports.onCreateNode = ({ node, actions, createNodeId, createContentDigest }) => {
+exports.onCreateNode = ({
+  node,
+  actions,
+  createNodeId,
+  createContentDigest,
+}) => {
   const { createNode } = actions;
 
-  if (node.internal.type === 'TaggedJson' && node.articles) {
-    node.articles.forEach(article => {
+  if (node.internal.type === "TaggedJson" && node.articles) {
+    node.articles.forEach((article) => {
       const nodeId = createNodeId(`article-${article.url}`);
       const nodeContent = JSON.stringify(article);
       const nodeData = {
@@ -162,7 +172,7 @@ exports.onCreateNode = ({ node, actions, createNodeId, createContentDigest }) =>
         id: nodeId,
         parent: node.id,
         internal: {
-          type: 'Article',
+          type: "Article",
           content: nodeContent,
           contentDigest: createContentDigest(article),
         },

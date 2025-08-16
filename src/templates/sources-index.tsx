@@ -1,5 +1,15 @@
-import { Box, Heading, HStack, Tag, VStack, Text, Input, Wrap, WrapItem } from "@chakra-ui/react";
-import { Link as GatsbyLink, PageProps } from "gatsby";
+import {
+  Box,
+  Heading,
+  HStack,
+  Input,
+  Tag,
+  Text,
+  VStack,
+  Wrap,
+  WrapItem,
+} from "@chakra-ui/react";
+import { Link as GatsbyLink, type PageProps } from "gatsby";
 import React from "react";
 import { slugify } from "../utils/slugify";
 
@@ -9,9 +19,14 @@ interface SourcesIndexContext {
 
 // using shared slugify util
 
-const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({ pageContext }) => {
+const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({
+  pageContext,
+}) => {
   const { sources = [] } = pageContext;
-  const sorted = React.useMemo(() => [...sources].sort((a, b) => a.localeCompare(b)), [sources]);
+  const sorted = React.useMemo(
+    () => [...sources].sort((a, b) => a.localeCompare(b)),
+    [sources],
+  );
 
   // Search state hydrated from URL
   const [query, setQuery] = React.useState<string>("");
@@ -24,7 +39,8 @@ const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({ p
   React.useEffect(() => {
     if (typeof window === "undefined") return;
     const params = new URLSearchParams(window.location.search);
-    if (query) params.set("q", query); else params.delete("q");
+    if (query) params.set("q", query);
+    else params.delete("q");
     const newUrl = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
     window.history.replaceState({}, "", newUrl);
   }, [query]);
@@ -47,18 +63,27 @@ const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({ p
     const order = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
     return order
       .filter((k) => map[k] && map[k].length)
-      .map((k) => ({ key: k, items: map[k]!.sort((a, b) => a.localeCompare(b)) }));
+      .map((k) => ({
+        key: k,
+        items: map[k]!.sort((a, b) => a.localeCompare(b)),
+      }));
   }, [filtered]);
 
   return (
     <Box p={8}>
       <VStack align="stretch" spacing={6}>
-        <Heading as="h1" size="xl">All Sources</Heading>
-        <Text fontSize="sm" color="gray.600">{filtered.length} sources</Text>
+        <Heading as="h1" size="xl">
+          All Sources
+        </Heading>
+        <Text fontSize="sm" color="gray.600">
+          {filtered.length} sources
+        </Text>
         <Input
           placeholder="Search sources..."
           value={query}
-          onChange={(e) => { setQuery(e.target.value); }}
+          onChange={(e) => {
+            setQuery(e.target.value);
+          }}
         />
         <Wrap spacing={3}>
           {groups.map(({ key, items }) => (

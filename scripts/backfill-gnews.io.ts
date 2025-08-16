@@ -47,7 +47,7 @@ const getDatesToCheck = (): string[] => {
  */
 const backfillNews = async () => {
   console.log(
-    "Checking for missing gnews.io files from the start of the year..."
+    "Checking for missing gnews.io files from the start of the year...",
   );
 
   const existingDates = getExistingDates();
@@ -57,13 +57,13 @@ const backfillNews = async () => {
 
   if (missingDates.length === 0) {
     console.log(
-      "All news from the start of the year is up to date. Nothing to do."
+      "All news from the start of the year is up to date. Nothing to do.",
     );
     return;
   }
 
   console.log(
-    `Found ${missingDates.length} missing day(s): ${missingDates.join(", ")}`
+    `Found ${missingDates.length} missing day(s): ${missingDates.join(", ")}`,
   );
   console.log("Starting gnews.io backfill process...");
 
@@ -88,7 +88,7 @@ backfillNews()
   .catch((error) => {
     console.error(
       "An unexpected error occurred during the gnews.io backfill process:",
-      error
+      error,
     );
     process.exit(1);
   });

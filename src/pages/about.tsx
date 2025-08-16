@@ -19,27 +19,22 @@ import {
   useColorModeValue,
   VStack,
 } from "@chakra-ui/react";
-import { graphql, HeadFC, PageProps, useStaticQuery } from "gatsby";
+import { graphql, type HeadFC, type PageProps, useStaticQuery } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import * as React from "react";
+import type * as React from "react";
 import { FaCode, FaGithub, FaSearch, FaTags } from "react-icons/fa";
 
 const AboutHero = () => {
   const bgGradient = useColorModeValue(
     "linear(to-b, blue.50, white)",
-    "linear(to-b, gray.900, gray.800)"
+    "linear(to-b, gray.900, gray.800)",
   );
   const bg = useColorModeValue("blue.50", "gray.900");
   const accentColor = useColorModeValue("blue.600", "blue.300");
   const textColor = useColorModeValue("gray.700", "gray.100");
 
   return (
-    <Box
-      bg={bg}
-      bgGradient={bgGradient}
-      pt={16}
-      pb={10}
-    >
+    <Box bg={bg} bgGradient={bgGradient} pt={16} pb={10}>
       <Stack spacing={6} textAlign="center">
         <Heading
           as="h1"
@@ -373,10 +368,14 @@ const AboutPage: React.FC<PageProps> = () => {
                             href={attributionData[image.name]?.imageLink!}
                             isExternal
                           >
-                            {attributionData[image.name]?.imageName || image.name}
+                            {attributionData[image.name]?.imageName ||
+                              image.name}
                           </Link>
                         ) : (
-                          <>{attributionData[image.name]?.imageName || image.name}</>
+                          <>
+                            {attributionData[image.name]?.imageName ||
+                              image.name}
+                          </>
                         )}
                       </Td>
                       <Td>

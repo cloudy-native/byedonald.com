@@ -13,11 +13,11 @@ import {
   VStack,
 } from "@chakra-ui/react";
 import { liteClient as algoliasearch } from "algoliasearch/lite";
-import React, { useEffect, useState } from "react";
-// @ts-ignore - runtime-only import, types not provided by package
+// @ts-expect-error - runtime-only import, types not provided by package
 import { history } from "instantsearch.js/es/lib/routers";
-// @ts-ignore - runtime-only import, types not provided by package
+// @ts-expect-error - runtime-only import, types not provided by package
 import { singleIndex } from "instantsearch.js/es/lib/stateMappings";
+import React, { useEffect, useState } from "react";
 import {
   Highlight,
   InstantSearch,
@@ -43,7 +43,13 @@ const searchClient =
 
 console.log("Search Client", searchClient);
 
-function CustomSearchBox({ onArrow, onEnter }: { onArrow: (delta: number) => void; onEnter: () => void }) {
+function CustomSearchBox({
+  onArrow,
+  onEnter,
+}: {
+  onArrow: (delta: number) => void;
+  onEnter: () => void;
+}) {
   const { query, refine } = useSearchBox({});
   const [input, setInput] = useState(query);
 
@@ -121,12 +127,22 @@ function Hit({ hit, selected }: { hit: any; selected: boolean }) {
           <Highlight attribute="title" hit={hit} />
         </Text>
         {hit.sourceName || hit.author ? (
-          <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")} noOfLines={1} mt={1}>
+          <Text
+            fontSize="sm"
+            color={useColorModeValue("gray.600", "gray.300")}
+            noOfLines={1}
+            mt={1}
+          >
             {[hit.author, hit.sourceName].filter(Boolean).join(", ")}
           </Text>
         ) : null}
         {hit.description && (
-          <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")} noOfLines={3} mt={2}>
+          <Text
+            fontSize="sm"
+            color={useColorModeValue("gray.600", "gray.300")}
+            noOfLines={3}
+            mt={2}
+          >
             <Snippet attribute="description" hit={hit} />
           </Text>
         )}
@@ -135,15 +151,29 @@ function Hit({ hit, selected }: { hit: any; selected: boolean }) {
   );
 }
 
-function FacetChips({ attribute, label }: { attribute: string; label: string }) {
-  const { items, refine, canToggleShowMore, isShowingMore, toggleShowMore } = useRefinementList({ attribute, limit: 10, showMore: true, showMoreLimit: 30 });
+function FacetChips({
+  attribute,
+  label,
+}: {
+  attribute: string;
+  label: string;
+}) {
+  const { items, refine, canToggleShowMore, isShowingMore, toggleShowMore } =
+    useRefinementList({
+      attribute,
+      limit: 10,
+      showMore: true,
+      showMoreLimit: 30,
+    });
   if (!items || items.length === 0) return null;
   return (
     <VStack align="stretch" spacing={2} w="full">
       <HStack justify="space-between">
         <Text fontWeight="semibold">{label}</Text>
         {canToggleShowMore && (
-          <Button size="xs" variant="ghost" onClick={toggleShowMore}>{isShowingMore ? "Show less" : "Show more"}</Button>
+          <Button size="xs" variant="ghost" onClick={toggleShowMore}>
+            {isShowingMore ? "Show less" : "Show more"}
+          </Button>
         )}
       </HStack>
       <HStack wrap="wrap" spacing={2}>
@@ -168,35 +198,66 @@ function ClearRefinementsButton() {
   const { canRefine, refine } = useClearRefinements();
   if (!canRefine) return null;
   return (
-    <Button size="sm" variant="ghost" onClick={() => refine()}>Clear filters</Button>
+    <Button size="sm" variant="ghost" onClick={() => refine()}>
+      Clear filters
+    </Button>
   );
 }
 
 function HitsPerPageSelect() {
-  const { items, refine } = useHitsPerPage({ items: [
-    { label: "12 per page", value: 12, default: true },
-    { label: "24 per page", value: 24 },
-    { label: "48 per page", value: 48 },
-  ]});
+  const { items, refine } = useHitsPerPage({
+    items: [
+      { label: "12 per page", value: 12, default: true },
+      { label: "24 per page", value: 24 },
+      { label: "48 per page", value: 48 },
+    ],
+  });
   return (
-    <Select size="sm" maxW="48" onChange={(e) => refine(Number(e.target.value))} value={(items.find(i => i.isRefined) || items[0]).value}>
+    <Select
+      size="sm"
+      maxW="48"
+      onChange={(e) => refine(Number(e.target.value))}
+      value={(items.find((i) => i.isRefined) || items[0]).value}
+    >
       {items.map((i) => (
-        <option key={i.value} value={i.value}>{i.label}</option>
+        <option key={i.value} value={i.value}>
+          {i.label}
+        </option>
       ))}
     </Select>
   );
 }
 
 function PaginationControls() {
-  const { pages, currentRefinement, nbPages, refine, isFirstPage, isLastPage } = usePagination({ padding: 1 });
+  const { pages, currentRefinement, nbPages, refine, isFirstPage, isLastPage } =
+    usePagination({ padding: 1 });
   if (nbPages <= 1) return null;
   return (
     <HStack spacing={2}>
-      <Button size="sm" onClick={() => refine(currentRefinement - 1)} isDisabled={isFirstPage}>Prev</Button>
+      <Button
+        size="sm"
+        onClick={() => refine(currentRefinement - 1)}
+        isDisabled={isFirstPage}
+      >
+        Prev
+      </Button>
       {pages.map((p) => (
-        <Button key={p} size="sm" variant={p === currentRefinement ? "solid" : "outline"} onClick={() => refine(p)}>{p + 1}</Button>
+        <Button
+          key={p}
+          size="sm"
+          variant={p === currentRefinement ? "solid" : "outline"}
+          onClick={() => refine(p)}
+        >
+          {p + 1}
+        </Button>
       ))}
-      <Button size="sm" onClick={() => refine(currentRefinement + 1)} isDisabled={isLastPage}>Next</Button>
+      <Button
+        size="sm"
+        onClick={() => refine(currentRefinement + 1)}
+        isDisabled={isLastPage}
+      >
+        Next
+      </Button>
     </HStack>
   );
 }
@@ -235,7 +296,12 @@ function AlgoliaSearch() {
               <HitsPerPageSelect />
             </HStack>
             {/* simple results info */}
-            <Text fontSize="sm" color={useColorModeValue("gray.600", "gray.300")}>{items.length} results</Text>
+            <Text
+              fontSize="sm"
+              color={useColorModeValue("gray.600", "gray.300")}
+            >
+              {items.length} results
+            </Text>
           </HStack>
         </VStack>
 
@@ -251,7 +317,9 @@ function AlgoliaSearch() {
         {/* Empty/Results */}
         {status !== "loading" && items.length === 0 && (
           <Text color={useColorModeValue("gray.500", "gray.400")}>
-            {status === "idle" ? "Start typing to search articles..." : "No results found. Try different keywords or clearing filters."}
+            {status === "idle"
+              ? "Start typing to search articles..."
+              : "No results found. Try different keywords or clearing filters."}
           </Text>
         )}
 

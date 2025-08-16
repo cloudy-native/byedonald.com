@@ -8,12 +8,23 @@ const SIMILARITY_THRESHOLD = 10;
  * Canonicalize a URL by removing common tracking/query params and hashes,
  * normalizing host casing, and trimming trailing slashes.
  */
-export function canonicalizeUrl(rawUrl: string | null | undefined): string | null {
+export function canonicalizeUrl(
+  rawUrl: string | null | undefined,
+): string | null {
   if (!rawUrl) return null;
   try {
     const u = new URL(rawUrl);
     // Remove known tracking params; default policy: drop all unless whitelisted
-    const dropPrefixes = ["utm_", "mc_", "fbclid", "gclid", "igsh", "ref", "cmp", "cmpid"]; // not exhaustive
+    const dropPrefixes = [
+      "utm_",
+      "mc_",
+      "fbclid",
+      "gclid",
+      "igsh",
+      "ref",
+      "cmp",
+      "cmpid",
+    ]; // not exhaustive
     const whitelist: string[] = []; // keep none by default
     const toDelete: string[] = [];
     u.searchParams.forEach((_, key) => {
@@ -122,8 +133,8 @@ export interface TaggedNewsResponse {
  * @param articles An array of articles (can be tagged or not).
  * @returns A new array with duplicate articles removed.
  *
- * We ued to check for desription too and make the threshold much larger. 
- * But AP news syndicates, for exmaple, often put their publication as a prefix 
+ * We ued to check for desription too and make the threshold much larger.
+ * But AP news syndicates, for exmaple, often put their publication as a prefix
  * and then it's not similar enough to be considered a duplicate, even though the title may be exact
  */
 export function deduplicateArticles<T extends NewsArticle>(articles: T[]): T[] {

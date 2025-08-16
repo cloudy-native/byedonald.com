@@ -1,6 +1,6 @@
 #!/opt/homebrew/opt/node/bin/node
-import * as cdk from 'aws-cdk-lib';
-import { CdkStack } from '../lib/cdk-stack';
+import * as cdk from "aws-cdk-lib";
+import { CdkStack } from "../lib/cdk-stack";
 
 const app = new cdk.App();
 const env: cdk.Environment = {
@@ -8,7 +8,7 @@ const env: cdk.Environment = {
   region: process.env.CDK_DEFAULT_REGION,
 };
 
-new CdkStack(app, 'ByeDonald3Stack', {
+new CdkStack(app, "ByeDonald3Stack", {
   env,
-  domainName: 'byedonald.com',
+  domainName: "byedonald.com",
 });

@@ -58,7 +58,9 @@ function cleanTagId(raw: string): string {
  * @param {TagDefinition} tagDefinitions - The loaded tag definitions from new-tags.json.
  * @returns {Map<string, string>} A map for normalization.
  */
-function createNormalizationMap(tagDefinitions: TagDefinition): Map<string, string> {
+function createNormalizationMap(
+  tagDefinitions: TagDefinition,
+): Map<string, string> {
   const normalizationMap = new Map<string, string>();
   const canonicalIds = new Set<string>();
 
@@ -84,7 +86,10 @@ function createNormalizationMap(tagDefinitions: TagDefinition): Map<string, stri
   }
   // Store canonicalIds inside the map under a reserved key for later access
   // (simplest way without changing function signatures elsewhere)
-  normalizationMap.set("__CANONICAL_IDS__", JSON.stringify(Array.from(canonicalIds)));
+  normalizationMap.set(
+    "__CANONICAL_IDS__",
+    JSON.stringify(Array.from(canonicalIds)),
+  );
   return normalizationMap;
 }
 
@@ -212,7 +217,7 @@ function getAliasMap(): Array<[string, string]> {
 function normalizeTags(
   newsData: TaggedNewsResponse,
   normalizationMap: Map<string, string>,
-  unknowns: Map<string, number>
+  unknowns: Map<string, number>,
 ): { normalizedData: TaggedNewsResponse; wasModified: boolean } {
   let wasModified = false;
   const normalizedArticles = newsData.articles.map((article) => {
@@ -224,7 +229,9 @@ function normalizeTags(
       .filter((t) => typeof t === "string" && t.trim().length > 0)
       .map((tag) => {
         const cleaned = cleanTagId(tag);
-        let mapped = normalizationMap.get(cleaned) || normalizationMap.get(cleaned.toLowerCase());
+        let mapped =
+          normalizationMap.get(cleaned) ||
+          normalizationMap.get(cleaned.toLowerCase());
         if (!mapped) {
           // Dynamic prefix stripping: if tag looks like "prefix_actualid" and actualid is canonical, map to it
           const prefixes = [
@@ -294,7 +301,7 @@ async function runNormalization() {
     "..",
     "data",
     "tags",
-    "tags.json"
+    "tags.json",
   );
 
   try {
@@ -302,7 +309,9 @@ async function runNormalization() {
     const tagsJson = await fs.readFile(TAGS_FILE_PATH, "utf-8");
     const tagDefinitions: TagDefinition = JSON.parse(tagsJson);
     const normalizationMap = createNormalizationMap(tagDefinitions);
-    console.log(`Created a comprehensive map with ${normalizationMap.size} normalization entries.`);
+    console.log(
+      `Created a comprehensive map with ${normalizationMap.size} normalization entries.`,
+    );
     const unknowns = new Map<string, number>();
 
     // 2. Process each file in the tagged directory
@@ -316,7 +325,11 @@ async function runNormalization() {
       const fileContent = await fs.readFile(filePath, "utf-8");
       const newsData: TaggedNewsResponse = JSON.parse(fileContent);
 
-      const { normalizedData, wasModified } = normalizeTags(newsData, normalizationMap, unknowns);
+      const { normalizedData, wasModified } = normalizeTags(
+        newsData,
+        normalizationMap,
+        unknowns,
+      );
 
       if (wasModified) {
         await fs.writeFile(filePath, JSON.stringify(normalizedData, null, 2));
@@ -327,18 +340,20 @@ async function runNormalization() {
 
     if (unknowns.size > 0) {
       const sorted = Array.from(unknowns.entries()).sort((a, b) => b[1] - a[1]);
-      console.log(`\nUnknown tags encountered (post-cleaning, dropped): ${unknowns.size}`);
+      console.log(
+        `\nUnknown tags encountered (post-cleaning, dropped): ${unknowns.size}`,
+      );
       console.log(
         sorted
           .slice(0, 200)
           .map(([tag, count]) => `${tag}:${count}`)
-          .join(", ")
+          .join(", "),
       );
     }
 
     if (filesModifiedCount === 0) {
       console.log(
-        "All tagged files already have normalized IDs. No changes were needed."
+        "All tagged files already have normalized IDs. No changes were needed.",
       );
     } else {
       console.log(`

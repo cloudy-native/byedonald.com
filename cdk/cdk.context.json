@@ -3,11 +3,7 @@
     "Id": "/hostedzone/Z08502132HYHN1UXVIMCP",
     "Name": "byedonald.com."
   },
-  "acknowledged-issue-numbers": [
-    34892,
-    34892,
-    34892
-  ],
+  "acknowledged-issue-numbers": [34892, 34892, 34892],
   "hosted-zone:account=607477397669:domainName=byedonald.com:region=us-east-1": {
     "Id": "/hostedzone/Z08502132HYHN1UXVIMCP",
     "Name": "byedonald.com."

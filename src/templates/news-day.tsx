@@ -19,11 +19,11 @@ import {
   Text,
   VStack,
 } from "@chakra-ui/react";
-import { PageProps } from "gatsby";
+import type { PageProps } from "gatsby";
 import React, { useMemo, useState } from "react";
-import { Article } from "../types/news";
-import { getAllTags, getDisplayableTagsByIds } from "../utils/tags";
 import { TagLegend } from "../components/TagLegend";
+import type { Article } from "../types/news";
+import { getAllTags, getDisplayableTagsByIds } from "../utils/tags";
 
 // Get tag data once
 const TAGS = getAllTags();
@@ -40,8 +40,8 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
   const relevantTagIds = useMemo(() => {
     const tagIds = new Set<string>();
-    articles.forEach(article => {
-      article.tags.forEach(tagId => {
+    articles.forEach((article) => {
+      article.tags.forEach((tagId) => {
         tagIds.add(tagId);
       });
     });
@@ -96,7 +96,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   }, [activeTags, activeSources, activeAuthors, sortOrder]);
 
   const handleTagClick = (tagId: string) => {
-    setActiveTags(prev => {
+    setActiveTags((prev) => {
       const newActiveTags = new Set(prev);
       if (newActiveTags.has(tagId)) {
         newActiveTags.delete(tagId);
@@ -110,7 +110,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const handleClear = () => setActiveTags(new Set());
 
   const handleSourceClick = (source: string) => {
-    setActiveSources(prev => {
+    setActiveSources((prev) => {
       const newActiveSources = new Set(prev);
       if (newActiveSources.has(source)) {
         newActiveSources.delete(source);
@@ -124,7 +124,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const handleSourceClear = () => setActiveSources(new Set());
 
   const handleAuthorClick = (author: string) => {
-    setActiveAuthors(prev => {
+    setActiveAuthors((prev) => {
       const next = new Set(prev);
       if (next.has(author)) {
         next.delete(author);
@@ -139,7 +139,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
   const relevantSources = useMemo(() => {
     const sources = new Set<string>();
-    articles.forEach(article => {
+    articles.forEach((article) => {
       if (article?.source?.name) {
         sources.add(article.source.name);
       }
@@ -158,7 +158,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         authors.add(article.author);
       }
     });
-    const filteredAuthors = Array.from(authors).filter(a => !sources.has(a));
+    const filteredAuthors = Array.from(authors).filter((a) => !sources.has(a));
     return filteredAuthors.sort();
   }, [articles]);
 
@@ -182,10 +182,12 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
       }
 
       if (sourceName && authorName && authorName !== sourceName) {
-        if (!authorsBySource.has(sourceName)) authorsBySource.set(sourceName, new Set());
+        if (!authorsBySource.has(sourceName))
+          authorsBySource.set(sourceName, new Set());
         authorsBySource.get(sourceName)!.add(authorName);
 
-        if (!sourcesByAuthor.has(authorName)) sourcesByAuthor.set(authorName, new Set());
+        if (!sourcesByAuthor.has(authorName))
+          sourcesByAuthor.set(authorName, new Set());
         sourcesByAuthor.get(authorName)!.add(sourceName);
       }
     });
@@ -197,9 +199,9 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const enabledAuthors = useMemo(() => {
     if (activeSources.size === 0) return adjacency.allAuthors;
     const acc = new Set<string>();
-    activeSources.forEach(src => {
+    activeSources.forEach((src) => {
       const set = adjacency.authorsBySource.get(src);
-      if (set) set.forEach(a => acc.add(a));
+      if (set) set.forEach((a) => acc.add(a));
     });
     return acc;
   }, [activeSources, adjacency]);
@@ -207,35 +209,46 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
   const enabledSources = useMemo(() => {
     if (activeAuthors.size === 0) return adjacency.allSources;
     const acc = new Set<string>();
-    activeAuthors.forEach(auth => {
+    activeAuthors.forEach((auth) => {
       const set = adjacency.sourcesByAuthor.get(auth);
-      if (set) set.forEach(s => acc.add(s));
+      if (set) set.forEach((s) => acc.add(s));
     });
     return acc;
   }, [activeAuthors, adjacency]);
 
   const filteredArticles = useMemo(() => {
-    if (activeTags.size === 0 && activeSources.size === 0 && activeAuthors.size === 0) {
+    if (
+      activeTags.size === 0 &&
+      activeSources.size === 0 &&
+      activeAuthors.size === 0
+    ) {
       return articles;
     }
 
-    const activeTagsByCategory = Array.from(activeTags).reduce((acc, tagId) => {
-      const tag = TAGS.find(t => t.id === tagId);
-      if (tag) {
-        const categoryId = tag.category.id;
-        if (!acc[categoryId]) {
-          acc[categoryId] = [];
+    const activeTagsByCategory = Array.from(activeTags).reduce(
+      (acc, tagId) => {
+        const tag = TAGS.find((t) => t.id === tagId);
+        if (tag) {
+          const categoryId = tag.category.id;
+          if (!acc[categoryId]) {
+            acc[categoryId] = [];
+          }
+          acc[categoryId].push(tagId);
         }
-        acc[categoryId].push(tagId);
-      }
-      return acc;
-    }, {} as Record<string, string[]>);
+        return acc;
+      },
+      {} as Record<string, string[]>,
+    );
 
-    return articles.filter(article => {
+    return articles.filter((article) => {
       const sourceName = article?.source?.name ?? "";
       const authorName = article?.author ?? "";
-      const sourceMatch = activeSources.size === 0 || (sourceName && activeSources.has(sourceName));
-      const authorMatch = activeAuthors.size === 0 || (authorName && activeAuthors.has(authorName));
+      const sourceMatch =
+        activeSources.size === 0 ||
+        (sourceName && activeSources.has(sourceName));
+      const authorMatch =
+        activeAuthors.size === 0 ||
+        (authorName && activeAuthors.has(authorName));
 
       if (!sourceMatch || !authorMatch) {
         return false;
@@ -245,10 +258,8 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         return true;
       }
       const articleTags = new Set(article.tags);
-      return (
-        Object.values(activeTagsByCategory).every(categoryTags =>
-          categoryTags.some(tagId => articleTags.has(tagId))
-        )
+      return Object.values(activeTagsByCategory).every((categoryTags) =>
+        categoryTags.some((tagId) => articleTags.has(tagId)),
       );
     });
   }, [activeTags, activeSources, activeAuthors, pageContext.articles]);
@@ -278,10 +289,19 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           Trump News for {displayDate}
         </Heading>
         <HStack justify="space-between" align="center">
-          <Text fontSize="sm" color="gray.600">{sortedArticles.length} articles</Text>
+          <Text fontSize="sm" color="gray.600">
+            {sortedArticles.length} articles
+          </Text>
           <HStack>
-            <Text fontSize="sm" color="gray.600">Sort</Text>
-            <Select size="sm" value={sortOrder} onChange={(e) => setSortOrder(e.target.value as any)} maxW="44">
+            <Text fontSize="sm" color="gray.600">
+              Sort
+            </Text>
+            <Select
+              size="sm"
+              value={sortOrder}
+              onChange={(e) => setSortOrder(e.target.value as any)}
+              maxW="44"
+            >
               <option value="newest">Newest first</option>
               <option value="oldest">Oldest first</option>
             </Select>
@@ -292,7 +312,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           <AccordionItem>
             <h2>
               <AccordionButton>
-                    <AccordionIcon />
+                <AccordionIcon />
                 <HStack flex="1" spacing={4} alignItems="center">
                   <Box fontWeight="bold">Filter by Source & Author</Box>
                   {activeSources.size > 0 && (
@@ -330,13 +350,15 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
               <VStack align="stretch" spacing={3}>
                 <Box fontWeight="semibold">Sources</Box>
                 <HStack wrap="wrap" spacing={2}>
-                  {relevantSources.map(source => {
+                  {relevantSources.map((source) => {
                     const disabled = !enabledSources.has(source);
                     return (
                       <Tag
                         key={source}
                         size="md"
-                        variant={activeSources.has(source) ? "solid" : "outline"}
+                        variant={
+                          activeSources.has(source) ? "solid" : "outline"
+                        }
                         colorScheme="blue"
                         onClick={() => !disabled && handleSourceClick(source)}
                         cursor={disabled ? "not-allowed" : "pointer"}
@@ -351,17 +373,23 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
                 {relevantAuthors.length > 0 && (
                   <>
-                    <Box fontWeight="semibold" mt={2}>Authors</Box>
+                    <Box fontWeight="semibold" mt={2}>
+                      Authors
+                    </Box>
                     <HStack wrap="wrap" spacing={2}>
-                      {relevantAuthors.map(author => {
+                      {relevantAuthors.map((author) => {
                         const disabled = !enabledAuthors.has(author);
                         return (
                           <Tag
                             key={author}
                             size="md"
-                            variant={activeAuthors.has(author) ? "solid" : "outline"}
+                            variant={
+                              activeAuthors.has(author) ? "solid" : "outline"
+                            }
                             colorScheme="purple"
-                            onClick={() => !disabled && handleAuthorClick(author)}
+                            onClick={() =>
+                              !disabled && handleAuthorClick(author)
+                            }
                             cursor={disabled ? "not-allowed" : "pointer"}
                             opacity={disabled ? 0.4 : 1}
                             pointerEvents={disabled ? "none" : "auto"}
@@ -416,7 +444,9 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         </Accordion>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
           {sortedArticles.map((article, index) => {
-            const authorAndSource = [...new Set([article.author, article.source.name].filter(Boolean))].join(", ");
+            const authorAndSource = [
+              ...new Set([article.author, article.source.name].filter(Boolean)),
+            ].join(", ");
 
             return (
               <Card
@@ -452,8 +482,8 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
 
                   {article.tags && article.tags.length > 0 && (
                     <HStack spacing={2} mt={4} wrap="wrap">
-                      {getDisplayableTagsByIds(article.tags).map(tag => (
-                        // @ts-ignore
+                      {getDisplayableTagsByIds(article.tags).map((tag) => (
+                        // @ts-expect-error
 
                         <Tag
                           key={tag.id}

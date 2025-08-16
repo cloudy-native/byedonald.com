@@ -30,7 +30,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v4
         with:
           role-to-assume: arn:aws:iam::607477397669:role/ByeDonald3Stack-GitHubActionsRole4F1BBA26-11Rv3x2wQC4I
-          aws-region: ${{ vars.AWS_REGION }} 
+          aws-region: ${{ vars.AWS_REGION }}
 
       - name: Fetch latest news
         run: npm run backfill-newsapi.org
@@ -39,6 +39,12 @@ jobs:
 
       - name: Tag new articles
         run: npm run tag-news
+
+      - name: Normalize tags
+        run: npm run normalize-tags
+
+      - name: Move articles to correct date files
+        run: npm run move-articles-to-correct-date
 
       - name: Check for changes
         id: git-check

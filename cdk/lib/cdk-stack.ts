@@ -10,7 +10,12 @@ import {
   ViewerProtocolPolicy,
 } from "aws-cdk-lib/aws-cloudfront";
 import { S3StaticWebsiteOrigin } from "aws-cdk-lib/aws-cloudfront-origins";
-import { FederatedPrincipal, OpenIdConnectProvider, PolicyStatement, Role } from "aws-cdk-lib/aws-iam";
+import {
+  FederatedPrincipal,
+  OpenIdConnectProvider,
+  PolicyStatement,
+  Role,
+} from "aws-cdk-lib/aws-iam";
 import { ARecord, HostedZone, RecordTarget } from "aws-cdk-lib/aws-route53";
 import { CloudFrontTarget } from "aws-cdk-lib/aws-route53-targets";
 import { BlockPublicAccess, Bucket } from "aws-cdk-lib/aws-s3";
@@ -34,7 +39,7 @@ export class CdkStack extends Stack {
         url: "https://token.actions.githubusercontent.com",
         clientIds: ["sts.amazonaws.com"],
         // thumbprints: ["6938fd4d98bab03faadb97b34396831e3780aea1"],
-      }
+      },
     );
 
     const githubActionsRole = new Role(this, "GitHubActionsRole", {
@@ -48,7 +53,7 @@ export class CdkStack extends Stack {
               "repo:cloudy-native/byedonald.com:*",
           },
         },
-        "sts:AssumeRoleWithWebIdentity"
+        "sts:AssumeRoleWithWebIdentity",
       ),
     });
 
@@ -56,7 +61,7 @@ export class CdkStack extends Stack {
       new PolicyStatement({
         actions: ["bedrock:InvokeModel"],
         resources: ["*"],
-      })
+      }),
     );
 
     // Create S3 bucket for website hosting
@@ -130,7 +135,7 @@ export class CdkStack extends Stack {
       new PolicyStatement({
         actions: ["cloudfront:CreateInvalidation"],
         resources: [distribution.distributionArn],
-      })
+      }),
     );
 
     // Deploy site contents to S3 bucket

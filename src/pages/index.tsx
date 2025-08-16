@@ -1,3 +1,4 @@
+import { SearchIcon } from "@chakra-ui/icons";
 import {
   Accordion,
   AccordionButton,
@@ -21,10 +22,15 @@ import {
   useColorModeValue,
   VStack,
 } from "@chakra-ui/react";
-import { graphql, HeadFC, Link, PageProps, useStaticQuery } from "gatsby";
+import {
+  graphql,
+  type HeadFC,
+  Link,
+  type PageProps,
+  useStaticQuery,
+} from "gatsby";
 import * as React from "react";
 import Search from "../components/Search";
-import { SearchIcon } from "@chakra-ui/icons";
 
 // Helper function to get the number of days in a month
 const daysInMonth = (month: number, year: number) => {
@@ -37,12 +43,12 @@ const firstDayOfMonth = (month: number, year: number) => {
 };
 
 const monthNames = Array.from({ length: 12 }, (_, i) =>
-  new Date(0, i).toLocaleString("en-US", { month: "long" })
+  new Date(0, i).toLocaleString("en-US", { month: "long" }),
 );
 
 const dayNames = Array.from({ length: 7 }, (_, i) =>
   // Use a known Sunday (day 0) to start from
-  new Date(1970, 0, 4 + i).toLocaleString("en-US", { weekday: "short" })
+  new Date(1970, 0, 4 + i).toLocaleString("en-US", { weekday: "short" }),
 );
 
 interface MonthViewProps {
@@ -91,7 +97,7 @@ const MonthView: React.FC<MonthViewProps> = ({
     const dayButton = (
       <Button
         as={hasNews ? Link : "button"}
-        // @ts-ignore - Gatsby's Link component props are not perfectly typed here
+        // @ts-expect-error - Gatsby's Link component props are not perfectly typed here
         to={hasNews ? `/news/${dateString}/` : undefined}
         key={day}
         borderRadius="full"
@@ -173,10 +179,10 @@ const TermProgressBar: React.FC = () => {
 
   const progressPercentage = Math.max(
     0,
-    Math.min(100, (elapsedDuration / totalDuration) * 100)
+    Math.min(100, (elapsedDuration / totalDuration) * 100),
   );
   const textColor = useColorModeValue("blue.600", "blue.300");
- 
+
   return (
     <Box w="full" maxW="lg">
       <Progress
@@ -253,7 +259,7 @@ const IndexPage: React.FC<PageProps> = () => {
   const currentYear = new Date().getFullYear();
   const years = Array.from(
     { length: currentYear - startYear + 1 },
-    (_, i) => startYear + i
+    (_, i) => startYear + i,
   );
   const months = Array.from({ length: 12 }, (_, i) => i); // 0-11
 
@@ -275,14 +281,14 @@ const IndexPage: React.FC<PageProps> = () => {
   `);
 
   const newsDates = new Set(
-    data.allFile.nodes.map((node: { name: string }) => node.name)
+    data.allFile.nodes.map((node: { name: string }) => node.name),
   );
 
   const backgroundImages = data.backgroundImages.nodes;
   const textColor = useColorModeValue("blue.600", "blue.300");
   const bgGradient = useColorModeValue(
     "linear(to-b, blue.50, white)",
-    "linear(to-b, gray.900, gray.800)"
+    "linear(to-b, gray.900, gray.800)",
   );
   const bg = useColorModeValue("blue.50", "gray.900");
 
@@ -345,7 +351,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     width="100%"
                   >
                     {months.map((month, monthIndex) => {
-                      const imageIndex =  
+                      const imageIndex =
                         backgroundImages.length > 0
                           ? (year + monthIndex) % backgroundImages.length
                           : 0;

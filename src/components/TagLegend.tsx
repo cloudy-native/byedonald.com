@@ -7,8 +7,8 @@ import {
   Wrap,
   WrapItem,
 } from "@chakra-ui/react";
-import React from "react";
-import { getAllTags, getAllTagCategories, TagInfo } from "../utils/tags";
+import type React from "react";
+import { getAllTagCategories, getAllTags, type TagInfo } from "../utils/tags";
 
 // Get tag data once
 const TAGS = getAllTags();
@@ -37,7 +37,7 @@ export const TagLegend: React.FC<TagLegendProps> = ({
         {TAG_CATEGORIES.map((category) => {
           const categoryTags = TAGS.filter(
             (tag) =>
-              tag.category.id === category.id && relevantTagIds.has(tag.id)
+              tag.category.id === category.id && relevantTagIds.has(tag.id),
           );
 
           if (categoryTags.length === 0) {
@@ -63,7 +63,11 @@ export const TagLegend: React.FC<TagLegendProps> = ({
                     const tagIsActive = !isFiltering || activeTags.has(tag.id);
                     return (
                       <WrapItem key={tag.id}>
-                        <Tooltip label={tag.description} placement="top" hasArrow>
+                        <Tooltip
+                          label={tag.description}
+                          placement="top"
+                          hasArrow
+                        >
                           <Tag
                             size="md"
                             variant="solid"
