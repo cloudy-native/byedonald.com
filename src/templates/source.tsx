@@ -1,6 +1,5 @@
 import {
   Box,
-  Button,
   Card,
   CardBody,
   Heading,
@@ -15,6 +14,7 @@ import {
 } from "@chakra-ui/react";
 import { Link as GatsbyLink, graphql, type PageProps } from "gatsby";
 import React from "react";
+import PaginationControls from "../components/PaginationControls";
 import type { Article } from "../types/news";
 import { getDisplayableTagsByIds } from "../utils/tags";
 
@@ -39,15 +39,20 @@ interface SourcePageContext {
   sourceName: string;
 }
 
-const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
-  data,
-  pageContext,
-}) => {
-  const articles = (data?.allArticle?.nodes ?? []) as Article[];
+type SortOrder = "newest" | "oldest";
+
+interface SourcePageData {
+  allArticle: {
+    nodes: Article[];
+  };
+}
+
+const SourceTemplate: React.FC<
+  PageProps<SourcePageData, SourcePageContext>
+> = ({ data, pageContext }) => {
+  const articles = data?.allArticle?.nodes ?? [];
   const { sourceName } = pageContext;
-  const [sortOrder, setSortOrder] = React.useState<"newest" | "oldest">(
-    "newest",
-  );
+  const [sortOrder, setSortOrder] = React.useState<SortOrder>("newest");
   const [page, setPage] = React.useState<number>(1);
   const [pageSize, setPageSize] = React.useState<number>(24);
 
@@ -68,7 +73,8 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
     const order = params.get("o");
     const p = params.get("p");
     const ps = params.get("ps");
-    if (order === "newest" || order === "oldest") setSortOrder(order as any);
+    if (order === "newest" || order === "oldest")
+      setSortOrder(order as SortOrder);
     if (p) {
       const n = parseInt(p, 10);
       if (!Number.isNaN(n) && n > 0) setPage(n);
@@ -107,46 +113,10 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
   const startIndex = (page - 1) * pageSize;
   const endIndex = startIndex + pageSize;
   const currentPageArticles = sortedArticles.slice(startIndex, endIndex);
-
-  const PaginationControls = () => (
-    <HStack justify="center" align="center" spacing={4} wrap="wrap">
-      <Button
-        size="sm"
-        onClick={() => setPage((p) => Math.max(1, p - 1))}
-        isDisabled={page <= 1}
-      >
-        Prev
-      </Button>
-      <Text fontSize="sm" color="gray.600">
-        Page {page} of {totalPages}
-      </Text>
-      <Button
-        size="sm"
-        onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
-        isDisabled={page >= totalPages}
-      >
-        Next
-      </Button>
-      <HStack spacing={2} pl={2}>
-        <Select
-          size="sm"
-          value={pageSize}
-          onChange={(e) => {
-            setPageSize(parseInt(e.target.value, 10));
-            setPage(1);
-          }}
-          maxW="24"
-        >
-          <option value={12}>12</option>
-          <option value={24}>24</option>
-          <option value={48}>48</option>
-        </Select>
-        <Text fontSize="xs" color="gray.500">
-          per page
-        </Text>
-      </HStack>
-    </HStack>
-  );
+  const totalCount = sortedArticles.length;
+  const startDisplay = totalCount === 0 ? 0 : startIndex + 1;
+  const endDisplay = Math.min(endIndex, totalCount);
+  const articleWord = (n: number) => (n === 1 ? "article" : "articles");
 
   return (
     <Box p={8}>
@@ -156,7 +126,9 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
         </Heading>
         <HStack justify="space-between" align="center" wrap="wrap" rowGap={2}>
           <Text fontSize="sm" color="gray.600">
-            {sortedArticles.length} articles
+            {totalCount === 0
+              ? `0 ${articleWord(0)}`
+              : `Showing ${startDisplay}–${endDisplay} of ${totalCount} ${articleWord(totalCount)}`}
           </Text>
           <HStack>
             <Text fontSize="sm" color="gray.600">
@@ -165,7 +137,7 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
             <Select
               size="sm"
               value={sortOrder}
-              onChange={(e) => setSortOrder(e.target.value as any)}
+              onChange={(e) => setSortOrder(e.target.value as SortOrder)}
               maxW="44"
             >
               <option value="newest">Newest first</option>
@@ -173,18 +145,28 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
             </Select>
           </HStack>
         </HStack>
-        <PaginationControls />
+        <PaginationControls
+          page={page}
+          totalPages={totalPages}
+          pageSize={pageSize}
+          onPrev={() => setPage((p) => Math.max(1, p - 1))}
+          onNext={() => setPage((p) => Math.min(totalPages, p + 1))}
+          onPageSizeChange={(n) => {
+            setPageSize(n);
+            setPage(1);
+          }}
+        />
         <Text>
           <GatsbyLink to="/sources">← All sources</GatsbyLink>
         </Text>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
-          {currentPageArticles.map((article, index) => {
+          {currentPageArticles.map((article) => {
             const authorAndSource = [
               ...new Set([article.author, article.source.name].filter(Boolean)),
             ].join(", ");
             return (
               <Card
-                key={index}
+                key={article.url}
                 as={Link}
                 href={article.url}
                 isExternal
@@ -216,7 +198,6 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
                   {article.tags && article.tags.length > 0 && (
                     <HStack spacing={2} mt={4} wrap="wrap">
                       {getDisplayableTagsByIds(article.tags).map((tag) => (
-                        // @ts-expect-error
                         <Tag
                           key={tag.id}
                           size="sm"
@@ -246,7 +227,17 @@ const SourceTemplate: React.FC<PageProps<any, SourcePageContext>> = ({
             );
           })}
         </SimpleGrid>
-        <PaginationControls />
+        <PaginationControls
+          page={page}
+          totalPages={totalPages}
+          pageSize={pageSize}
+          onPrev={() => setPage((p) => Math.max(1, p - 1))}
+          onNext={() => setPage((p) => Math.min(totalPages, p + 1))}
+          onPageSizeChange={(n) => {
+            setPageSize(n);
+            setPage(1);
+          }}
+        />
       </VStack>
     </Box>
   );

@@ -1,6 +1,6 @@
+import * as fs from "node:fs";
+import * as path from "node:path";
 import axios from "axios";
-import * as fs from "fs";
-import * as path from "path";
 
 export async function fetchNewsForDate(
   newsDate: string,

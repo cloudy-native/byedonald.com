@@ -1,10 +1,7 @@
+import * as fs from "node:fs/promises";
+import * as path from "node:path";
 import * as dotenv from "dotenv";
-import * as fs from "fs/promises";
-import * as path from "path";
-import type {
-  TaggedNewsArticle,
-  TaggedNewsResponse,
-} from "./lib/article-utils";
+import type { TaggedNewsResponse } from "./lib/article-utils";
 import { NewsArticleTagger, type TagDefinition } from "./tag-news";
 
 dotenv.config({ path: path.join(__dirname, "..", ".env") });

@@ -1,22 +1,16 @@
 import {
   Box,
-  Container,
   chakra,
-  Divider,
   Icon,
   Link,
-  SimpleGrid,
-  Stack,
   Text,
   useColorModeValue,
   VisuallyHidden,
 } from "@chakra-ui/react";
-import { Link as GatsbyLink } from "gatsby";
 import type React from "react";
-import { FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
-import BuyMeCoffeeButton from "./BuyMeCoffeeButton";
+import { FaLinkedin } from "react-icons/fa";
 
-const SocialButton = ({
+const _SocialButton = ({
   children,
   label,
   href,
@@ -49,7 +43,7 @@ const SocialButton = ({
   );
 };
 
-const ListHeader = ({ children }: { children: React.ReactNode }) => {
+const _ListHeader = ({ children }: { children: React.ReactNode }) => {
   return (
     <Text fontWeight={"600"} fontSize={"lg"} mb={2}>
       {children}

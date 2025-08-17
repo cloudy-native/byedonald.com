@@ -37,12 +37,13 @@ const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({
     if (!tagsByCategory[cid]) tagsByCategory[cid] = [];
     tagsByCategory[cid].push(tag);
   }
-  Object.values(tagsByCategory).forEach((list) =>
-    list.sort((a, b) => a.name.localeCompare(b.name)),
-  );
+  Object.values(tagsByCategory).forEach((list) => {
+    list.sort((a, b) => a.name.localeCompare(b.name));
+  });
 
   // Count selected tags
   const totalCount = tags.length;
+  const tagWord = totalCount === 1 ? "tag" : "tags";
 
   return (
     <Box p={8}>
@@ -51,7 +52,7 @@ const TagsIndexPage: React.FC<PageProps<unknown, TagsIndexContext>> = ({
           All Tags
         </Heading>
         <Text fontSize="sm" color="gray.600">
-          {totalCount} tags
+          {totalCount} {tagWord}
         </Text>
 
         <Wrap spacing={4}>

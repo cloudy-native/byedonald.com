@@ -1,5 +1,5 @@
-import * as fs from "fs/promises";
-import * as path from "path";
+import * as fs from "node:fs/promises";
+import * as path from "node:path";
 
 // --- TYPE DEFINITIONS (simplified for this script) ---
 interface Tag {
@@ -19,12 +19,12 @@ type TagDefinition = TagCategory[];
 
 interface TaggedNewsArticle {
   tags: string[];
-  [key: string]: any; // Allow other properties
+  [key: string]: unknown; // Allow other properties
 }
 
 interface TaggedNewsResponse {
   articles: TaggedNewsArticle[];
-  [key: string]: any; // Allow other properties
+  [key: string]: unknown; // Allow other properties
 }
 
 // --- MAIN LOGIC ---
@@ -252,7 +252,7 @@ function normalizeTags(
             ? new Set<string>(JSON.parse(canonicalIdsRaw))
             : new Set<string>();
           for (const p of prefixes) {
-            const prefix = p + "_";
+            const prefix = `${p}_`;
             if (cleaned.startsWith(prefix)) {
               const candidate = cleaned.slice(prefix.length);
               if (canonicalIds.has(candidate)) {

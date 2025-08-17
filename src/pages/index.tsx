@@ -97,7 +97,6 @@ const MonthView: React.FC<MonthViewProps> = ({
     const dayButton = (
       <Button
         as={hasNews ? Link : "button"}
-        // @ts-expect-error - Gatsby's Link component props are not perfectly typed here
         to={hasNews ? `/news/${dateString}/` : undefined}
         key={day}
         borderRadius="full"
@@ -206,7 +205,7 @@ const TermProgressBar: React.FC = () => {
 
 const Countdown: React.FC = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date("2029-01-20T12:00:00-05:00") - +new Date();
+    const difference = +new Date("2029-01-20T12:00:00-05:00") - Date.now();
     let timeLeft = {
       days: 0,
       hours: 0,

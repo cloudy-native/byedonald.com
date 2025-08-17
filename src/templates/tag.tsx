@@ -1,6 +1,5 @@
 import {
   Box,
-  Button,
   Card,
   CardBody,
   Heading,
@@ -18,6 +17,7 @@ import {
 } from "@chakra-ui/react";
 import { Link as GatsbyLink, graphql, type PageProps } from "gatsby";
 import React from "react";
+import PaginationControls from "../components/PaginationControls";
 import type { Article } from "../types/news";
 import { getDisplayableTagsByIds, getTagById } from "../utils/tags";
 
@@ -25,6 +25,7 @@ export const query = graphql`
   query($tagId: String!) {
     allArticle(filter: { tags: { in: [$tagId] } }) {
       nodes {
+        id
         author
         title
         description
@@ -42,11 +43,17 @@ interface TagPageContext {
   tagId: string;
 }
 
-const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
+interface TagPageData {
+  allArticle: {
+    nodes: Array<Article & { id: string }>;
+  };
+}
+
+const TagTemplate: React.FC<PageProps<TagPageData, TagPageContext>> = ({
   data,
   pageContext,
 }) => {
-  const articles = (data?.allArticle?.nodes ?? []) as Article[];
+  const articles = data?.allArticle?.nodes ?? [];
   const { tagId } = pageContext;
   const [sortOrder, setSortOrder] = React.useState<"newest" | "oldest">(
     "newest",
@@ -73,7 +80,7 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
     const order = params.get("o");
     const p = params.get("p");
     const ps = params.get("ps");
-    if (order === "newest" || order === "oldest") setSortOrder(order as any);
+    if (order === "newest" || order === "oldest") setSortOrder(order);
     if (p) {
       const n = parseInt(p, 10);
       if (!Number.isNaN(n) && n > 0) setPage(n);
@@ -112,46 +119,6 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
   const startIndex = (page - 1) * pageSize;
   const endIndex = startIndex + pageSize;
   const currentPageArticles = sortedArticles.slice(startIndex, endIndex);
-
-  const PaginationControls = () => (
-    <HStack justify="center" align="center" spacing={4} wrap="wrap">
-      <Button
-        size="sm"
-        onClick={() => setPage((p) => Math.max(1, p - 1))}
-        isDisabled={page <= 1}
-      >
-        Prev
-      </Button>
-      <Text fontSize="sm" color="gray.600">
-        Page {page} of {totalPages}
-      </Text>
-      <Button
-        size="sm"
-        onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
-        isDisabled={page >= totalPages}
-      >
-        Next
-      </Button>
-      <HStack spacing={2} pl={2}>
-        <Select
-          size="sm"
-          value={pageSize}
-          onChange={(e) => {
-            setPageSize(parseInt(e.target.value, 10));
-            setPage(1);
-          }}
-          maxW="24"
-        >
-          <option value={12}>12</option>
-          <option value={24}>24</option>
-          <option value={48}>48</option>
-        </Select>
-        <Text fontSize="xs" color="gray.500">
-          per page
-        </Text>
-      </HStack>
-    </HStack>
-  );
 
   return (
     <Box p={8}>
@@ -196,7 +163,11 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
             <Select
               size="sm"
               value={sortOrder}
-              onChange={(e) => setSortOrder(e.target.value as any)}
+              onChange={(e) =>
+                setSortOrder(
+                  (e.target.value as "newest" | "oldest") ?? "newest",
+                )
+              }
               maxW="44"
             >
               <option value="newest">Newest first</option>
@@ -204,18 +175,28 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
             </Select>
           </HStack>
         </HStack>
-        <PaginationControls />
+        <PaginationControls
+          page={page}
+          totalPages={totalPages}
+          pageSize={pageSize}
+          onPrev={() => setPage((p) => Math.max(1, p - 1))}
+          onNext={() => setPage((p) => Math.min(totalPages, p + 1))}
+          onPageSizeChange={(n) => {
+            setPageSize(n);
+            setPage(1);
+          }}
+        />
         <Text>
           <GatsbyLink to="/tags">← All tags</GatsbyLink>
         </Text>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
-          {currentPageArticles.map((article, index) => {
+          {currentPageArticles.map((article, _index) => {
             const authorAndSource = [
               ...new Set([article.author, article.source.name].filter(Boolean)),
             ].join(", ");
             return (
               <Card
-                key={index}
+                key={article.id}
                 as={Link}
                 href={article.url}
                 isExternal
@@ -247,7 +228,6 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
                   {article.tags && article.tags.length > 0 && (
                     <HStack spacing={2} mt={4} wrap="wrap">
                       {getDisplayableTagsByIds(article.tags).map((tag) => (
-                        // @ts-expect-error
                         <Tag
                           key={tag.id}
                           size="sm"
@@ -283,7 +263,7 @@ const TagTemplate: React.FC<PageProps<any, TagPageContext>> = ({
   );
 };
 
-export const Head: React.FC<PageProps<any, TagPageContext>> = ({
+export const Head: React.FC<PageProps<unknown, TagPageContext>> = ({
   pageContext,
 }) => {
   const name = getTagById(pageContext.tagId)?.name ?? pageContext.tagId;

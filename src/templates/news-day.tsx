@@ -7,8 +7,6 @@ import {
   Box,
   Card,
   CardBody,
-  Container,
-  filter,
   Heading,
   HStack,
   Image,
@@ -182,13 +180,21 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
       }
 
       if (sourceName && authorName && authorName !== sourceName) {
-        if (!authorsBySource.has(sourceName))
+        if (!authorsBySource.has(sourceName)) {
           authorsBySource.set(sourceName, new Set());
-        authorsBySource.get(sourceName)!.add(authorName);
+        }
+        const sourceAuthors = authorsBySource.get(sourceName);
+        if (sourceAuthors) {
+          sourceAuthors.add(authorName);
+        }
 
-        if (!sourcesByAuthor.has(authorName))
+        if (!sourcesByAuthor.has(authorName)) {
           sourcesByAuthor.set(authorName, new Set());
-        sourcesByAuthor.get(authorName)!.add(sourceName);
+        }
+        const authorSources = sourcesByAuthor.get(authorName);
+        if (authorSources) {
+          authorSources.add(sourceName);
+        }
       }
     });
 
@@ -201,7 +207,10 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     const acc = new Set<string>();
     activeSources.forEach((src) => {
       const set = adjacency.authorsBySource.get(src);
-      if (set) set.forEach((a) => acc.add(a));
+      if (set)
+        set.forEach((a) => {
+          acc.add(a);
+        });
     });
     return acc;
   }, [activeSources, adjacency]);
@@ -211,7 +220,10 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     const acc = new Set<string>();
     activeAuthors.forEach((auth) => {
       const set = adjacency.sourcesByAuthor.get(auth);
-      if (set) set.forEach((s) => acc.add(s));
+      if (set)
+        set.forEach((s) => {
+          acc.add(s);
+        });
     });
     return acc;
   }, [activeAuthors, adjacency]);
@@ -262,7 +274,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         categoryTags.some((tagId) => articleTags.has(tagId)),
       );
     });
-  }, [activeTags, activeSources, activeAuthors, pageContext.articles]);
+  }, [activeTags, activeSources, activeAuthors, articles]);
 
   // Apply sorting
   const sortedArticles = useMemo(() => {
@@ -275,12 +287,16 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
     return copy;
   }, [filteredArticles, sortOrder]);
 
-  const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
+  const displayDate = new Date(`${date}T00:00:00`).toLocaleDateString("en-US", {
     weekday: "long",
     year: "numeric",
     month: "long",
     day: "numeric",
   });
+
+  const totalCount = articles.length;
+  const visibleCount = sortedArticles.length;
+  const articleWord = (n: number) => (n === 1 ? "article" : "articles");
 
   return (
     <Box p={8}>
@@ -290,7 +306,17 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
         </Heading>
         <HStack justify="space-between" align="center">
           <Text fontSize="sm" color="gray.600">
-            {sortedArticles.length} articles
+            {activeTags.size > 0 ||
+            activeSources.size > 0 ||
+            activeAuthors.size > 0 ? (
+              <>
+                Showing {visibleCount} of {totalCount} {articleWord(totalCount)}
+              </>
+            ) : (
+              <>
+                {totalCount} {articleWord(totalCount)}
+              </>
+            )}
           </Text>
           <HStack>
             <Text fontSize="sm" color="gray.600">
@@ -299,7 +325,10 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
             <Select
               size="sm"
               value={sortOrder}
-              onChange={(e) => setSortOrder(e.target.value as any)}
+              onChange={(e: React.ChangeEvent<HTMLSelectElement>) => {
+                const v = e.target.value === "oldest" ? "oldest" : "newest";
+                setSortOrder(v);
+              }}
               maxW="44"
             >
               <option value="newest">Newest first</option>
@@ -443,14 +472,14 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           </AccordionItem>
         </Accordion>
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={8}>
-          {sortedArticles.map((article, index) => {
+          {sortedArticles.map((article) => {
             const authorAndSource = [
               ...new Set([article.author, article.source.name].filter(Boolean)),
             ].join(", ");
 
             return (
               <Card
-                key={index}
+                key={article.url}
                 as={Link}
                 href={article.url}
                 isExternal
@@ -483,8 +512,6 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
                   {article.tags && article.tags.length > 0 && (
                     <HStack spacing={2} mt={4} wrap="wrap">
                       {getDisplayableTagsByIds(article.tags).map((tag) => (
-                        // @ts-expect-error
-
                         <Tag
                           key={tag.id}
                           size="sm"
@@ -523,7 +550,7 @@ export const Head: React.FC<PageProps<null, NewsDayPageContext>> = ({
   pageContext,
 }) => {
   const { date } = pageContext;
-  const displayDate = new Date(date + "T00:00:00").toLocaleDateString("en-US", {
+  const displayDate = new Date(`${date}T00:00:00`).toLocaleDateString("en-US", {
     weekday: "long",
     year: "numeric",
     month: "long",

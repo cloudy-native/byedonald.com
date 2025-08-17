@@ -1,5 +1,5 @@
-import * as fs from "fs/promises";
-import * as path from "path";
+import * as fs from "node:fs/promises";
+import * as path from "node:path";
 import {
   deduplicateArticles,
   type TaggedNewsArticle,
@@ -11,7 +11,7 @@ function toDateString(iso: string | null | undefined): string | null {
   // Expect ISO like 2023-02-10T12:34:56Z; take first 10 chars
   try {
     const d = new Date(iso);
-    if (isNaN(d.getTime())) return iso.slice(0, 10) || null;
+    if (Number.isNaN(d.getTime())) return iso.slice(0, 10) || null;
     const yyyy = d.getUTCFullYear();
     const mm = String(d.getUTCMonth() + 1).padStart(2, "0");
     const dd = String(d.getUTCDate()).padStart(2, "0");
@@ -27,8 +27,15 @@ async function readJson(filePath: string): Promise<TaggedNewsResponse | null> {
     const parsed = JSON.parse(content) as TaggedNewsResponse;
     // Basic shape guard
     if (!parsed || !Array.isArray(parsed.articles)) return null;
+    console.log("Read file:", filePath, "articles:", parsed.articles.length);
     return parsed;
-  } catch {
+  } catch (e) {
+    console.warn(
+      "Failed to read/parse file:",
+      filePath,
+      "error:",
+      (e as Error)?.message,
+    );
     return null;
   }
 }
@@ -40,6 +47,7 @@ async function writeJsonAtomic(
   const tmpPath = `${filePath}.tmp`;
   await fs.writeFile(tmpPath, JSON.stringify(data, null, 2));
   await fs.rename(tmpPath, filePath);
+  console.log("Wrote file:", filePath, "totalResults:", data.totalResults);
 }
 
 async function ensureDir(dir: string): Promise<void> {
@@ -48,11 +56,13 @@ async function ensureDir(dir: string): Promise<void> {
 
 async function run() {
   const TAGGED_DIR = path.join(__dirname, "..", "data", "news", "tagged");
+  console.log("Starting move process. Tagged dir:", TAGGED_DIR);
   await ensureDir(TAGGED_DIR);
 
   const files = (await fs.readdir(TAGGED_DIR)).filter((f) =>
     f.endsWith(".json"),
   );
+  console.log("Found JSON files:", files.length);
 
   const dateFileMap = new Map<string, string>(); // date => filePath
   for (const f of files) {
@@ -85,11 +95,25 @@ async function run() {
       }
     }
 
+    const movedHere = Object.values(moveGroups).reduce(
+      (acc, arr) => acc + arr.length,
+      0,
+    );
+    console.log(
+      "Processed file:",
+      filePath,
+      "stay:",
+      stay.length,
+      "move:",
+      movedHere,
+    );
+
     // Record moves
     for (const [d, arr] of Object.entries(moveGroups)) {
       if (!toAppend[d]) toAppend[d] = [];
       toAppend[d].push(...arr);
       movedCount += arr.length;
+      console.log("  Will move:", arr.length, "article(s) ->", d);
     }
 
     // Prepare updated current file (only the ones that stay)
@@ -99,10 +123,19 @@ async function run() {
         filePath,
         data: { ...data, totalResults: deduped.length, articles: deduped },
       });
+      console.log(
+        "Queue update for:",
+        filePath,
+        "old:",
+        data.articles.length,
+        "new:",
+        deduped.length,
+      );
     }
   }
 
   // Apply updates to current files first
+  console.log("Files to update (source after moves):", toWriteCurrent.length);
   for (const item of toWriteCurrent) {
     await writeJsonAtomic(item.filePath, item.data);
   }
@@ -119,6 +152,7 @@ async function run() {
         totalResults: 0,
         articles: [],
       } as TaggedNewsResponse;
+      console.log("Creating new target file:", targetPath, "for date:", date);
     }
 
     const merged = deduplicateArticles<TaggedNewsArticle>([
@@ -130,6 +164,18 @@ async function run() {
       totalResults: merged.length,
       articles: merged,
     };
+    console.log(
+      "Appending to target:",
+      date,
+      "path:",
+      targetPath,
+      "existing:",
+      target.articles.length,
+      "adding:",
+      arr.length,
+      "merged:",
+      merged.length,
+    );
     await writeJsonAtomic(targetPath, updated);
   }
 

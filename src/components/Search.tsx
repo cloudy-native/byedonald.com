@@ -13,11 +13,10 @@ import {
   VStack,
 } from "@chakra-ui/react";
 import { liteClient as algoliasearch } from "algoliasearch/lite";
-// @ts-expect-error - runtime-only import, types not provided by package
+import type { Hit as AlgoliaHit } from "instantsearch.js";
 import { history } from "instantsearch.js/es/lib/routers";
-// @ts-expect-error - runtime-only import, types not provided by package
 import { singleIndex } from "instantsearch.js/es/lib/stateMappings";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import {
   Highlight,
   InstantSearch,
@@ -37,6 +36,24 @@ const searchKey = process.env.GATSBY_ALGOLIA_API_KEY;
 const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME;
 
 console.log("Algolia", appId, searchKey, indexName);
+
+// Types for Algolia records and UI items
+type Article = {
+  url: string;
+  urlToImage?: string;
+  title: string;
+  sourceName?: string;
+  author?: string;
+  description?: string;
+  objectID: string;
+};
+type ArticleHit = AlgoliaHit<Article>;
+type FacetItem = {
+  value: string;
+  isRefined: boolean;
+  label: string;
+  count?: number | null;
+};
 
 const searchClient =
   appId && searchKey ? algoliasearch(appId, searchKey) : null;
@@ -95,8 +112,9 @@ function CustomSearchBox({
   );
 }
 
-function Hit({ hit, selected }: { hit: any; selected: boolean }) {
+function Hit({ hit, selected }: { hit: ArticleHit; selected: boolean }) {
   const borderColor = useColorModeValue("blue.400", "blue.300");
+  const mutedTextColor = useColorModeValue("gray.600", "gray.300");
   return (
     <Box
       as="a"
@@ -127,22 +145,12 @@ function Hit({ hit, selected }: { hit: any; selected: boolean }) {
           <Highlight attribute="title" hit={hit} />
         </Text>
         {hit.sourceName || hit.author ? (
-          <Text
-            fontSize="sm"
-            color={useColorModeValue("gray.600", "gray.300")}
-            noOfLines={1}
-            mt={1}
-          >
+          <Text fontSize="sm" color={mutedTextColor} noOfLines={1} mt={1}>
             {[hit.author, hit.sourceName].filter(Boolean).join(", ")}
           </Text>
         ) : null}
         {hit.description && (
-          <Text
-            fontSize="sm"
-            color={useColorModeValue("gray.600", "gray.300")}
-            noOfLines={3}
-            mt={2}
-          >
+          <Text fontSize="sm" color={mutedTextColor} noOfLines={3} mt={2}>
             <Snippet attribute="description" hit={hit} />
           </Text>
         )}
@@ -177,7 +185,7 @@ function FacetChips({
         )}
       </HStack>
       <HStack wrap="wrap" spacing={2}>
-        {items.map((item: any) => (
+        {items.map((item: FacetItem) => (
           <Tag
             key={item.value}
             size="sm"
@@ -264,10 +272,11 @@ function PaginationControls() {
 
 function AlgoliaSearch() {
   const { status } = useInstantSearch();
-  const { items } = useHits();
+  const { items } = useHits<ArticleHit>();
   useConfigure({ clickAnalytics: true });
 
   const [selected, setSelected] = useState<number>(-1);
+  const emptyTextColor = useColorModeValue("gray.500", "gray.400");
 
   const handleArrow = (delta: number) => {
     if (!items || items.length === 0) return;
@@ -279,7 +288,7 @@ function AlgoliaSearch() {
 
   const handleEnter = () => {
     if (selected >= 0 && selected < items.length) {
-      const url = (items as any[])[selected]?.url;
+      const url = items[selected]?.url;
       if (url) window.open(url, "_blank", "noopener,noreferrer");
     }
   };
@@ -316,7 +325,7 @@ function AlgoliaSearch() {
 
         {/* Empty/Results */}
         {status !== "loading" && items.length === 0 && (
-          <Text color={useColorModeValue("gray.500", "gray.400")}>
+          <Text color={emptyTextColor}>
             {status === "idle"
               ? "Start typing to search articles..."
               : "No results found. Try different keywords or clearing filters."}
@@ -325,7 +334,7 @@ function AlgoliaSearch() {
 
         {/* Hits */}
         <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={4} w="full">
-          {items.map((hit: any, i: number) => (
+          {items.map((hit: ArticleHit, i: number) => (
             <Hit key={hit.objectID} hit={hit} selected={i === selected} />
           ))}
         </SimpleGrid>

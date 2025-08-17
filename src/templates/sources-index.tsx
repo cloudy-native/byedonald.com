@@ -1,7 +1,6 @@
 import {
   Box,
   Heading,
-  HStack,
   Input,
   Tag,
   Text,
@@ -51,6 +50,10 @@ const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({
     return sorted.filter((s) => s.toLowerCase().includes(q));
   }, [sorted, query]);
 
+  const totalCount = sorted.length;
+  const visibleCount = filtered.length;
+  const sourceWord = (n: number) => (n === 1 ? "source" : "sources");
+
   // Group by initial with '#' for non-letters
   const groups = React.useMemo(() => {
     const map: Record<string, string[]> = {};
@@ -62,10 +65,10 @@ const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({
     }
     const order = ["#", ..."ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("")];
     return order
-      .filter((k) => map[k] && map[k].length)
+      .filter((k) => map[k]?.length)
       .map((k) => ({
         key: k,
-        items: map[k]!.sort((a, b) => a.localeCompare(b)),
+        items: [...(map[k] ?? [])].sort((a, b) => a.localeCompare(b)),
       }));
   }, [filtered]);
 
@@ -76,7 +79,9 @@ const SourcesIndexPage: React.FC<PageProps<unknown, SourcesIndexContext>> = ({
           All Sources
         </Heading>
         <Text fontSize="sm" color="gray.600">
-          {filtered.length} sources
+          {query.trim()
+            ? `Showing ${visibleCount} of ${totalCount} ${sourceWord(totalCount)}`
+            : `${totalCount} ${sourceWord(totalCount)}`}
         </Text>
         <Input
           placeholder="Search sources..."

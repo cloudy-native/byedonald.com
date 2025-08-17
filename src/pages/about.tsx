@@ -20,8 +20,9 @@ import {
   VStack,
 } from "@chakra-ui/react";
 import { graphql, type HeadFC, type PageProps, useStaticQuery } from "gatsby";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import { GatsbyImage, type IGatsbyImageData } from "gatsby-plugin-image";
 import type * as React from "react";
+import type { IconType } from "react-icons";
 import { FaCode, FaGithub, FaSearch, FaTags } from "react-icons/fa";
 
 const AboutHero = () => {
@@ -69,7 +70,7 @@ const Feature = ({
 }: {
   title: string;
   text: string;
-  icon: any;
+  icon: IconType;
 }) => {
   const bgColor = useColorModeValue("white", "gray.800");
   const borderColor = useColorModeValue("gray.200", "gray.700");
@@ -122,7 +123,14 @@ const AboutPage: React.FC<PageProps> = () => {
     }
   `);
 
-  const backgroundImages = data.backgroundImages.nodes;
+  type BackgroundImageNode = {
+    name: string;
+    childImageSharp?: {
+      gatsbyImageData: IGatsbyImageData;
+    };
+  };
+
+  const backgroundImages: BackgroundImageNode[] = data.backgroundImages.nodes;
 
   type AttributionData = {
     creator: string;
@@ -340,62 +348,55 @@ const AboutPage: React.FC<PageProps> = () => {
                   </Tr>
                 </Thead>
                 <Tbody>
-                  {backgroundImages.map((image: any) => (
-                    <Tr key={image.name}>
-                      <Td>
-                        {attributionData[image.name]?.imageLink ? (
-                          <Link
-                            href={attributionData[image.name]?.imageLink!}
-                            isExternal
-                          >
+                  {backgroundImages.map((image: BackgroundImageNode) => {
+                    const gImg = image.childImageSharp?.gatsbyImageData;
+                    if (!gImg) return null;
+
+                    const attr = attributionData[image.name];
+                    const imageLink = attr?.imageLink;
+                    const imageName = attr?.imageName || image.name;
+
+                    return (
+                      <Tr key={image.name}>
+                        <Td>
+                          {imageLink ? (
+                            <Link href={imageLink} isExternal>
+                              <GatsbyImage
+                                image={gImg}
+                                alt={`Thumbnail for ${image.name}`}
+                                style={{ borderRadius: "4px" }}
+                              />
+                            </Link>
+                          ) : (
                             <GatsbyImage
-                              image={getImage(image)!}
+                              image={gImg}
                               alt={`Thumbnail for ${image.name}`}
                               style={{ borderRadius: "4px" }}
                             />
+                          )}
+                        </Td>
+                        <Td>
+                          {imageLink ? (
+                            <Link href={imageLink} isExternal>
+                              {imageName}
+                            </Link>
+                          ) : (
+                            imageName
+                          )}
+                        </Td>
+                        <Td>
+                          <Link href={attr?.creatorLink} isExternal>
+                            {attr?.creator}
                           </Link>
-                        ) : (
-                          <GatsbyImage
-                            image={getImage(image)!}
-                            alt={`Thumbnail for ${image.name}`}
-                            style={{ borderRadius: "4px" }}
-                          />
-                        )}
-                      </Td>
-                      <Td>
-                        {attributionData[image.name]?.imageLink ? (
-                          <Link
-                            href={attributionData[image.name]?.imageLink!}
-                            isExternal
-                          >
-                            {attributionData[image.name]?.imageName ||
-                              image.name}
+                        </Td>
+                        <Td>
+                          <Link href={attr?.licenseLink} isExternal>
+                            {attr?.license}
                           </Link>
-                        ) : (
-                          <>
-                            {attributionData[image.name]?.imageName ||
-                              image.name}
-                          </>
-                        )}
-                      </Td>
-                      <Td>
-                        <Link
-                          href={attributionData[image.name]?.creatorLink}
-                          isExternal
-                        >
-                          {attributionData[image.name]?.creator}
-                        </Link>
-                      </Td>
-                      <Td>
-                        <Link
-                          href={attributionData[image.name]?.licenseLink}
-                          isExternal
-                        >
-                          {attributionData[image.name]?.license}
-                        </Link>
-                      </Td>
-                    </Tr>
-                  ))}
+                        </Td>
+                      </Tr>
+                    );
+                  })}
                 </Tbody>
               </Table>
             </TableContainer>

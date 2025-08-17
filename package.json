@@ -27,7 +27,12 @@
     "normalize-tags": "ts-node scripts/normalize-tags.ts",
     "move-articles-to-correct-date": "ts-node scripts/move-articles-to-correct-date.ts",
     "prune-tagged-news": "ts-node scripts/prune-tagged-news.ts",
-    "retag-untagged-articles": "ts-node scripts/retag-untagged-articles.ts"
+    "retag-untagged-articles": "ts-node scripts/retag-untagged-articles.ts",
+    "biome:check": "biome check .",
+    "biome:fix": "biome check --write .",
+    "biome:format": "biome format .",
+    "biome:format:write": "biome format --write .",
+    "biome:lint": "biome lint ."
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.24.3",

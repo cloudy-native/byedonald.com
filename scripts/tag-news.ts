@@ -1,9 +1,9 @@
+import * as fs from "node:fs/promises";
+import * as path from "node:path";
 import {
   BedrockRuntimeClient,
   InvokeModelCommand,
 } from "@aws-sdk/client-bedrock-runtime";
-import * as fs from "fs/promises";
-import * as path from "path";
 import tagDefinitions from "../data/tags/tags.json";
 import type {
   NewsArticle,
@@ -31,7 +31,7 @@ type TagDefinition = TagCategory[];
 interface ModelProviderHandler {
   canHandle(modelId: string): boolean;
   buildBody(systemPrompt: string, userPrompt: string): string;
-  parseResponse(responseBody: any): string;
+  parseResponse(responseBody: unknown): string;
 }
 
 class AnthropicHandler implements ModelProviderHandler {
@@ -50,9 +50,15 @@ class AnthropicHandler implements ModelProviderHandler {
     });
   }
 
-  parseResponse(responseBody: any): string {
-    if (responseBody.content && responseBody.content.length > 0) {
-      return responseBody.content[0].text;
+  parseResponse(responseBody: unknown): string {
+    const body = responseBody as {
+      content?: Array<{ text?: string }>;
+    };
+    if (
+      Array.isArray(body.content) &&
+      typeof body.content[0]?.text === "string"
+    ) {
+      return body.content[0].text;
     }
     throw new Error("Empty or invalid response from Anthropic model");
   }
@@ -78,15 +84,17 @@ class AmazonNovaHandler implements ModelProviderHandler {
     });
   }
 
-  parseResponse(responseBody: any): string {
-    if (
-      responseBody.output &&
-      responseBody.output.message &&
-      responseBody.output.message.content &&
-      responseBody.output.message.content.length > 0 &&
-      responseBody.output.message.content[0].text
-    ) {
-      return responseBody.output.message.content[0].text;
+  parseResponse(responseBody: unknown): string {
+    const body = responseBody as {
+      output?: {
+        message?: {
+          content?: Array<{ text?: string }>;
+        };
+      };
+    };
+    const content = body.output?.message?.content;
+    if (Array.isArray(content) && typeof content[0]?.text === "string") {
+      return content[0].text;
     }
     console.error(
       "Invalid response structure from Amazon Nova model:",
@@ -219,8 +227,14 @@ class NewsArticleTagger {
           "amazon.nova-lite-v1:0",
         );
         return this.parseTagsFromResponse(responseText);
-      } catch (error: any) {
-        if (error.name === "ThrottlingException" && attempt < maxRetries - 1) {
+      } catch (error: unknown) {
+        if (
+          typeof error === "object" &&
+          error !== null &&
+          "name" in error &&
+          (error as { name?: unknown }).name === "ThrottlingException" &&
+          attempt < maxRetries - 1
+        ) {
           console.warn(
             `Throttling detected. Retrying in ${delay / 1000}s... (Attempt ${
               attempt + 1

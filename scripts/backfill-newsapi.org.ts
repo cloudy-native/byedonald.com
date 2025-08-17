@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+import fs from "node:fs";
+import path from "node:path";
 import { fetchNewsForDate } from "./fetch-newsapi.org";
 
 const NEWS_DIR = path.join(__dirname, "..", "data", "news", "raw");
@@ -9,7 +9,7 @@ const getExistingDates = (): Set<string> => {
     const existingFiles = fs.readdirSync(NEWS_DIR);
     return new Set(existingFiles.map((file) => file.replace(".json", "")));
   } catch (error) {
-    console.error(`Error reading news directory: ${NEWS_DIR}`);
+    console.error(`Error reading news directory: ${NEWS_DIR}:`, error);
     process.exit(1);
   }
 };
@@ -51,7 +51,7 @@ const backfillNews = async () => {
       await fetchNewsForDate(date);
     } catch (error) {
       // The error is already logged by fetchNewsForDate
-      console.error(`Aborting backfill due to error on date: ${date}.`);
+      console.error(`Aborting backfill due to error on date: ${date}:`, error);
       process.exit(1);
     }
   }

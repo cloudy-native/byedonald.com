@@ -37,7 +37,9 @@ export function canonicalizeUrl(
       // Drop everything else by default to maximize dedup; adjust if needed
       toDelete.push(key);
     });
-    toDelete.forEach((k) => u.searchParams.delete(k));
+    toDelete.forEach((k) => {
+      u.searchParams.delete(k);
+    });
 
     // Normalize
     u.hash = ""; // drop fragment
