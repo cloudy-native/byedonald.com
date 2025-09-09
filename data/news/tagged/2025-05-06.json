@@ -20,7 +20,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1746575379
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "nato",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746575210
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "foreign_policy",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746575179
     },
     {
       "source": {
@@ -72,7 +75,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/DGWUUVF2AFDPQD7V6AJXD52SNI.jpg?smart=true&auth=26fbc6b6a28bc9ec87b43311df8940a9ea7e7721f5cb82fe1c5aab60b2a394d0&width=1200&height=630",
       "publishedAt": "2025-05-06T23:35:45Z",
       "content": "The El Valle Detention Center in Raymondville, Texas is pictured, Thursday, May 1, 2025, after a federal judge in the district barred the Trump administration from deporting any Venezuelans at the south Texas detention center under the Alien Enemies ... [3184 chars]",
-      "tags": ["legal_justice", "immigration", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "government_administration"
+      ],
+      "publishedAtTs": 1746574545
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "middle_east",
         "security_incidents",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1746574358
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "elections_politics",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1746574093
     },
     {
       "source": {
@@ -126,7 +136,13 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/648bed3dc8592ae79fa0f156077dedde551985f48c9279f28a3d1559ebc020d6.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-06T23:01:42Z",
       "content": "WASHINGTON (AP) — Top U.S. officials are set to meet with a high-level Chinese delegation this weekend in Switzerland, the administration announced Tuesday, in the first major talks between the two nations since President Donald Trump sparked a trade... [2029 chars]",
-      "tags": ["foreign_policy", "china", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1746572502
     }
   ]
 }

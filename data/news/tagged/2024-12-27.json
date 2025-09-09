@@ -20,7 +20,8 @@
         "technology_regulation",
         "national_security",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1735343979
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "border_security",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1735343929
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1735343726
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "policy_legislation",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1735343542
     },
     {
       "source": {
@@ -99,7 +103,8 @@
         "trade",
         "border_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735343495
     },
     {
       "source": {
@@ -119,7 +124,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735343100
     },
     {
       "source": {
@@ -139,7 +145,8 @@
         "foreign_policy",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1735342940
     },
     {
       "source": {
@@ -159,7 +166,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1735342501
     },
     {
       "source": {
@@ -178,7 +186,8 @@
         "technology_regulation",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735342200
     }
   ]
 }

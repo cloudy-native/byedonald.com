@@ -14,7 +14,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/trump-tariffs-customs-duties.jpg?quality=75&strip=all&1747074897&w=1024",
       "publishedAt": "2025-05-12T23:54:28Z",
       "content": "President Trump’s tariffs brought in $7.6 billion more in customs payments in April than what the US collected the previous month as duties on imported goods ramped up, the Treasury Department said Monday.\nThe customs duties in April totaled $16 bill... [3698 chars]",
-      "tags": ["economy_finance", "trade", "taxes"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "taxes"
+      ],
+      "publishedAtTs": 1747094068
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/CHIZ3VBWCJEBPHXNNTX2UDSUWE.JPG?auth=e0cd5ebdec757bff100d5fef2ef437ab5042cc8315fb5958b35e497380611460&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-05-12T23:50:40Z",
       "content": "Open this photo in gallery: The Yangshan Port in Shanghai, China, on Feb. 1.THE NEW YORK TIMES/The New York Times News Service\nStrike up the band and break out the champagne. Happy days are here again. Right?\nAfter the United States and China announc... [4753 chars]",
-      "tags": ["economy_finance", "trade", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
+      "publishedAtTs": 1747093840
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-cywoerynp-1747086023954.jpg?quality=75&strip=all&1747071742&w=1024",
       "publishedAt": "2025-05-12T23:50:32Z",
       "content": "What is President Trump thinking? He’s bragging of winning a $400 million “gift” — a “palace in the sky” Boeing 747-8 jet — from Qatar that, in effect, he’ll eventually own personally.\nSorry, this “gift” is far from free; Qatar will surely expect som... [2847 chars]",
-      "tags": ["foreign_policy", "economy_finance", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1747093832
     },
     {
       "source": {
@@ -62,7 +77,8 @@
         "legal_justice",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1747093687
     },
     {
       "source": {
@@ -82,7 +98,8 @@
         "africa",
         "racial_justice",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1747093520
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "economy_finance",
         "security_intelligence",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1747093515
     },
     {
       "source": {
@@ -116,7 +134,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-6hjvvnpec-1747089182457.jpg?quality=75&strip=all&1747074932&w=1024",
       "publishedAt": "2025-05-12T23:44:35Z",
       "content": "Two cheers for the US-China trade-war pause Donald Trump and Xi Jinping managed to hammer out over the weekend.\nThe accord takes tariffs on both sides down significantly, from 125% to 10% on US goods flowing to China and from 145% to 30% on Chinese g... [1794 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1747093475
     },
     {
       "source": {
@@ -136,7 +159,8 @@
         "security_intelligence",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1747093441
     },
     {
       "source": {
@@ -156,7 +180,8 @@
         "policy_legislation",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1747092713
     },
     {
       "source": {
@@ -170,7 +195,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/89519a6037be3e1c43ea0cd9a4652037d193a748/667_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f12300f155b8c68dc555f70902b99bf",
       "publishedAt": "2025-05-12T23:25:10Z",
       "content": "Joe Biden “totally fucked us” by leaving it too late to drop out of the 2024 US presidential election, a former top campaign aide to Kamala Harris has told the authors of a new book.\nDavid Plouffe, who was manager of Barack Obama’s winning 2008 campa... [4353 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1747092310
     }
   ]
 }

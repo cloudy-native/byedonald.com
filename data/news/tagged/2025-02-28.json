@@ -14,7 +14,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/WGEYFPB7XZE6NJSSWY3ZI3ES7Q.JPG?auth=bca8ecd4babb1f9c9c5db44ed61945c0e1604b2aceb5b29ff0f351a84404108e&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-02-28T23:59:32Z",
       "content": "Open this photo in gallery: A statue of Wayne Gretzky stands outside the home of the Edmonton Oilers, Rogers Place arena, in Edmonton, on July 2, 2020.JASON FRANSON/The Canadian Press\nIn the fall of 1985, The New York Times Magazine ran a lengthy pro... [9702 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1740787172
     },
     {
       "source": {
@@ -32,7 +37,8 @@
         "foreign_policy",
         "security_intelligence",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1740786996
     },
     {
       "source": {
@@ -46,7 +52,13 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/EXRLJ3OXDJF4VMUKDQCUELJNIU.jpg?auth=2839cea55ad58e74602f135020e5a7239302c3daaf07effe47c349ef08f3fa78&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-02-28T23:27:43Z",
       "content": "Open this photo in gallery: Much of Andil Gosine's cancelled Art Museum of the America's exhibition was intended to unpack this photo of him at age 3, titled 'Magna Carta'.Andil Gosine/Supplied\nThe Washington-based Art Museum of the Americas has canc... [3913 chars]",
-      "tags": ["canada", "free_speech", "censorship", "personal_legal"]
+      "tags": [
+        "canada",
+        "free_speech",
+        "censorship",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1740785263
     },
     {
       "source": {
@@ -66,7 +78,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1740785160
     },
     {
       "source": {
@@ -86,7 +99,8 @@
         "national_security",
         "military",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1740785090
     },
     {
       "source": {
@@ -100,7 +114,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/02/ca6ed85ad3b7dcae57348f1cdd925758082d15b0ce65cc8198cea7124d5efada.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-02-28T23:23:08Z",
       "content": "EDMONTON — Hockey legend Wayne Gretzky might be in the penalty box in the minds of many Canadians right now, but one Alberta-based superfan says his admiration for the Great One remains intact.\n\"Wayne is still Wayne,\" said Shawn Chaulk in an intervie... [3669 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1740784988
     }
   ]
 }

@@ -19,7 +19,8 @@
         "russia",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752938539
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
       "publishedAt": "2025-07-19T11:54:21Z",
       "content": "President Trump celebrated another legislative win, clawing back $9 billion from public broadcasting and foreign aid. And the fallout continues over the administration's handling of the Epstein case.",
-      "tags": ["policy_legislation", "budget", "foreign_policy"]
+      "tags": [
+        "policy_legislation",
+        "budget",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752926061
     },
     {
       "source": {
@@ -47,7 +53,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+111/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2F60%2F16df1c1b4f2ca11b390d9abcb2ce%2Fgettyimages-2192048758.jpg",
       "publishedAt": "2025-07-19T11:00:00Z",
       "content": "The nation's Suicide and Crisis Lifeline, 988, shuttered the specialized services for LGBTQ+ youth this week. The move came a day after the Lifeline marked three years since its launch. During this p… [+5043 chars]",
-      "tags": ["social_issues", "health_science"]
+      "tags": [
+        "social_issues",
+        "health_science"
+      ],
+      "publishedAtTs": 1752922800
     },
     {
       "source": {
@@ -61,7 +71,11 @@
       "urlToImage": "https://i.insider.com/6877fea5f748d8c055f5bd76?width=1200&format=jpeg",
       "publishedAt": "2025-07-19T09:51:01Z",
       "content": "Several polls this week found that while many voters would consider joining a third party, far fewer are interested in one created by Elon Musk.AP Photo/Matt Rourke\r\n<ul><li>Several new polls suggest… [+2825 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752918661
     },
     {
       "source": {
@@ -75,7 +89,11 @@
       "urlToImage": "https://i.insider.com/687acc8b85e81483682e51cc?width=1200&format=jpeg",
       "publishedAt": "2025-07-19T09:00:01Z",
       "content": "Chris Power, CEO of Hadrian, gives the opening address at the Reindustrialize Summit in Detroit.Julia Hornstein / BI\r\n<ul><li>The Reindustrialize Summit featured founders building defense and industr… [+5517 chars]",
-      "tags": ["economy_finance", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752915601
     },
     {
       "source": {
@@ -89,7 +107,11 @@
       "urlToImage": "https://i.insider.com/687aa03cf748d8c055f5e71b?width=1200&format=jpeg",
       "publishedAt": "2025-07-19T09:00:01Z",
       "content": "AP\r\n<ul><li>The GENIUS Act, aimed at regulating digital currency, could allow banks to issue stablecoins.</li><li>Bank CEOs discussed launching stablecoin products during second-quarter earnings call… [+5060 chars]",
-      "tags": ["economy_finance", "cryptocurrency"]
+      "tags": [
+        "economy_finance",
+        "cryptocurrency"
+      ],
+      "publishedAtTs": 1752915601
     },
     {
       "source": {
@@ -103,7 +125,11 @@
       "urlToImage": null,
       "publishedAt": "2025-07-19T16:48:54Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752943734
     },
     {
       "source": {
@@ -121,7 +147,8 @@
         "government_administration",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752955214
     },
     {
       "source": {
@@ -135,7 +162,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FcH0NZW2QR7lv7aWdIfkLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/7ecfaa94d61851998930a035bfe68e66",
       "publishedAt": "2025-07-19T12:44:00Z",
       "content": "<ul><li>A provision in the One Big Beautiful Bill Act states all visitors who need nonimmigrant visas to enter the U.S.tourists, business travelers and international students, to name a fewmust pay a… [+3693 chars]",
-      "tags": ["economy_finance", "immigration"]
+      "tags": [
+        "economy_finance",
+        "immigration"
+      ],
+      "publishedAtTs": 1752929040
     },
     {
       "source": {
@@ -149,7 +180,11 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "publishedAt": "2025-07-19T23:00:00Z",
       "content": "“There is no peak in oil demand on the horizon,” the head of OPEC, Haitham al Ghais, said last month in Canada. Demand will continue to increase as global population grows, he added. And OPEC will be… [+5083 chars]",
-      "tags": ["energy", "economy_finance"]
+      "tags": [
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752966000
     },
     {
       "source": {
@@ -163,7 +198,11 @@
       "urlToImage": "https://media.zenfs.com/en/palm-beach-daily-news/9e7dad416197954cccda763c76099f62",
       "publishedAt": "2025-07-19T13:02:32Z",
       "content": "The National Hurricane Center is watching an area of disorganized weather in the Atlantic moving east to west, but the chances it will develop are low and conditions aren't favorable for the showers … [+7751 chars]",
-      "tags": ["natural_disasters", "regional_state"]
+      "tags": [
+        "natural_disasters",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752930152
     },
     {
       "source": {
@@ -177,7 +216,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/1139df56-9289-404b-8b3e-7a4d632b4144/trump-hallway-ap-jt-250719_1752939267164_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-19T18:37:43Z",
       "content": "Although President Donald Trump ordered the Justice Department to request the release of more details in the probe of convicted sex offender Jeffrey Epstein, he claimed Saturday that the move may do … [+4360 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752950263
     },
     {
       "source": {
@@ -191,7 +234,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/050f4f79-bc77-46ff-ae90-27fa9922ba3c/trump-3-rt-er-250715_1752605248756_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-19T00:19:06Z",
       "content": "Leading voices in President Donald Trump's MAGA base who had been critical for days of the president and administration's handling of the Epstein files are now rallying to Trump's defense following a… [+4071 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752884346
     },
     {
       "source": {
@@ -205,7 +252,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/1940e8b4-ad68-4457-87f0-06698d26fbf6/trump-9-ap-er-250715_1752608657520_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-19T10:17:56Z",
       "content": "President Donald Trumps tariffs tanked markets and unleashed recession forecasts when the president unveiled sweeping levies little more than 100 days ago. Now, as Trump continues to tout the policy,… [+5358 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752920276
     },
     {
       "source": {
@@ -219,7 +270,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a48d8f56-9d6b-49c5-8216-fc6554af608c/250718_abc_social_lost_stuffy_project4_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-19T03:40:36Z",
       "content": "<ul><li>DOJ files request to unseal Epstein grand jury records in New York and Florida\r\n</li><li>Flight makes emergency landing after passenger allegedly tries to open emergency exit\r\n</li><li>Severe… [+4638 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752896436
     },
     {
       "source": {
@@ -233,7 +285,11 @@
       "urlToImage": null,
       "publishedAt": "2025-07-19T16:17:18Z",
       "content": "Matthew Belloni, writing at Puck (paywall-busting gift link) regarding the claim from anonymous CBS sources that The Late Show lost $40 million last year:\n\n\n Nobody can know for sure. All I can tell … [+1295 chars]",
-      "tags": ["economy_finance", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752941838
     },
     {
       "source": {
@@ -247,7 +303,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Elon-Musk-Trump-May-30-2025-1200x675.jpg",
       "publishedAt": "2025-07-19T22:04:21Z",
       "content": "On June 5, Elon Musk did something no one had managed to do since Donald Trump first stormed the political stage in 2015: he destabilized the king of Make America Great Again (MAGA).\r\nIt started with… [+4422 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752962661
     },
     {
       "source": {
@@ -261,7 +322,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/07/gizmodo-social.jpg",
       "publishedAt": "2025-07-19T12:15:23Z",
       "content": "President Donald Trump is navigating one of the most perilous periods of his two combined terms as a firestorm of controversy over the so-called “Epstein Files” divides his Make America Great Again (… [+4942 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752927323
     },
     {
       "source": {
@@ -275,7 +341,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/xhThzYgrjouZlAD0Wu4EFdAtZIY=/0x43:1920x1043/1200x625/media/img/mt/2025/07/still4/original.jpg",
       "publishedAt": "2025-07-19T13:28:03Z",
       "content": "Editor’s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings, watch… [+1508 chars]",
-      "tags": ["budget", "government_administration", "policy_legislation"]
+      "tags": [
+        "budget",
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752931683
     },
     {
       "source": {
@@ -289,7 +360,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/pWhX5fXnKb4Wi_0YyAeKRuWYqzM=/0x113:5306x2877/1200x625/media/img/mt/2025/07/2025_07_18_Dont_Degrade_Church_with_Politics/original.jpg",
       "publishedAt": "2025-07-19T13:00:00Z",
       "content": "In a court document filed earlier this month, the Internal Revenue Service quietly revealed a significant break with long-standing practice: Churches will no longer risk their nonprofit status if cle… [+4882 chars]",
-      "tags": ["social_issues", "civil_rights", "religious_freedom"]
+      "tags": [
+        "social_issues",
+        "civil_rights",
+        "religious_freedom"
+      ],
+      "publishedAtTs": 1752930000
     },
     {
       "source": {
@@ -303,7 +379,8 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/ZUBUEsrEg6mgO3n6aovLYSnYux8=/0x0:2000x1042/1200x625/media/img/mt/2025/07/MahaTAN/original.png",
       "publishedAt": "2025-07-19T14:00:00Z",
       "content": "The early aughts were the worst possible kind of golden age. Tans were inescapableon Britney Spearss midriff, on the flexing biceps outside of Abercrombie &amp; Fitch stores. The Jersey Shore ethos o… [+8830 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752933600
     },
     {
       "source": {
@@ -317,7 +394,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9802/live/df9b8fc0-64ce-11f0-a503-eb61b7b0ded1.jpg",
       "publishedAt": "2025-07-19T19:12:32Z",
       "content": "Tom McArthur\r\nUkraine has proposed a new round of peace talks with Russia, President Volodymyr Zelensky has said, in a move aimed at restarting negotiations that halted last month.\r\nSenior security o… [+2103 chars]",
-      "tags": ["foreign_policy", "russia", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752952352
     },
     {
       "source": {
@@ -331,7 +413,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e521/live/051261b0-6499-11f0-a88c-11fcc4abfa1a.jpg",
       "publishedAt": "2025-07-19T14:27:09Z",
       "content": "Danai Nesta Kupemba &amp; Natasha Booty\r\nThe Democratic Republic of Congo and M23 rebels have signed ceasefire deal in Qatar to end fighting between the warring sides. \r\nDubbed the Declaration of Pri… [+2448 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752935229
     },
     {
       "source": {
@@ -345,7 +431,11 @@
       "urlToImage": "https://media.zenfs.com/en/snopes_632/39dd78b52b891680a1805498293ded89",
       "publishedAt": "2025-07-19T23:00:00Z",
       "content": "Claim:\r\nAn image authentically shows Jeffrey Epstein posing with U.S. President Donald Trump and a young girl.\r\nRating:\r\nAn image claiming to show a young girl with U.S. President Donald Trump and th… [+2760 chars]",
-      "tags": ["legal_justice", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752966000
     },
     {
       "source": {
@@ -363,7 +453,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752929089
     },
     {
       "source": {
@@ -377,7 +468,8 @@
       "urlToImage": null,
       "publishedAt": "2025-07-19T13:00:00Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752930000
     },
     {
       "source": {
@@ -391,7 +483,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JdtHS.mS2dBWuBsA2uZ2QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/1af5326161812c429f79a068fc23160f",
       "publishedAt": "2025-07-19T13:01:47Z",
       "content": "SACRAMENTO, Calif. (AP) For nearly 20 years, Maria would call her sister a nurse in Mexico for advice on how to manage her asthma and control her husbands diabetes instead of going to the doctor in C… [+8203 chars]",
-      "tags": ["healthcare", "immigration", "policy_legislation"]
+      "tags": [
+        "healthcare",
+        "immigration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752930107
     },
     {
       "source": {
@@ -405,7 +502,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64411-134204-62963-130708-BigBen1-xl-xl.jpg",
       "publishedAt": "2025-07-19T17:08:17Z",
       "content": "Ahead of Trump's visit, the United Kingdom plans to specify iPhone maker Apple and Google as having a \"strategic market advantage\" over rivals, subjecting them to new regulations and potential fines.… [+2483 chars]",
-      "tags": ["foreign_policy", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752944897
     },
     {
       "source": {
@@ -419,7 +520,11 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/46cd1155712bfb053985026d4bf8b40f5b5344ab/hub/2025/07/18/6fb62982-c23c-4510-921e-28bd233e247f/iphone-17-concept.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-07-19T19:27:00Z",
       "content": "The new iPhone is likely just a couple of months away from release, and rumors about an iPhone 17 Pro have been ramping up.\r\nAlthough whispers about an ultrathin iPhone 17 Air have hogged a lot of th… [+12670 chars]",
-      "tags": ["technology_regulation", "personal_family"]
+      "tags": [
+        "technology_regulation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752953220
     },
     {
       "source": {
@@ -433,7 +538,8 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/inflation-1.png",
       "publishedAt": "2025-07-19T10:55:50Z",
       "content": "The weekend is here! Pour yourself a mug of Danish Blendcoffee, grab a seat outside, and get ready for our longer-form weekend reads:A band of innovators reimagines the spy game for a world with no c… [+3424 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752922550
     },
     {
       "source": {
@@ -447,7 +553,11 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/1/6/9/1335169.jpg",
       "publishedAt": "2025-07-19T18:42:00Z",
       "content": "According to entertainment industry insiders, Paramount is preparing a payout and contract extension with South Park creators Trey Parker and Matt Stone just days after the duo hired a notoriously ag… [+3309 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752950520
     },
     {
       "source": {
@@ -461,7 +571,8 @@
       "urlToImage": "https://imagez.tmz.com/image/1d/16by9/2025/07/18/1d1cafe033a344ac85172c80b0243596_xl.jpg",
       "publishedAt": "2025-07-19T07:45:11Z",
       "content": "Donald Trump has had the heat turned up on him big time in the Epstein case, and the CEO of Astronomer may not be a Coldplay fan anymore. So we gotta ask ...",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752911111
     },
     {
       "source": {
@@ -475,7 +586,11 @@
       "urlToImage": "https://imagez.tmz.com/image/39/16by9/2025/07/19/39765a3717024474aba5c092c7a8900c_xl.jpg",
       "publishedAt": "2025-07-19T19:54:49Z",
       "content": "Dave Portnoy's not sorry to see Stephen Colbert's show ending ... pointing out this is just capitalism at work -- lose millions, find a new job!\r\nThe Barstool Sports founder took to X Saturday to fir… [+1969 chars]",
-      "tags": ["media_communications", "social_issues"]
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752954889
     },
     {
       "source": {
@@ -489,7 +604,12 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/epstein-and-right-wingers.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-07-19T14:00:00Z",
       "content": "The GOP representative from Tennessee echoed some of the more extreme rhetoric heard from conspiracy theorists talking about the potential prosecutions of Epstein’s supposed clients. “Find them guilt… [+9087 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752933600
     },
     {
       "source": {
@@ -503,7 +623,12 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/TulsiGabbard-1.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-07-19T22:02:05Z",
       "content": "Director of National Intelligence Tulsi Gabbard, the former Democratic lawmaker who has since turned MAGA, is helping her boss President Donald Trump try to rewrite the history of 2016 to match his p… [+2962 chars]",
-      "tags": ["foreign_policy", "legal_justice", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752962525
     },
     {
       "source": {
@@ -517,7 +642,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752930512.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-07-19T13:09:52Z",
       "content": "The Epstein saga has flipped the script within the MAGA movement. Having spent years accusing the Democrats of an establishment cover-up, many right-wing influencers are now turning against their ido… [+943 chars]",
-      "tags": ["government_administration", "legal_justice", "social_issues"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752930592
     },
     {
       "source": {
@@ -531,7 +661,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AFP__20250510__467N9WD__v1__HighRes__PakistanIndiaKashmirUnrestConflictCeasefire-1746883968.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-19T07:04:58Z",
       "content": "United States President Donald Trump has said up to five fighter jets were shot down during the recent India-Pakistan conflict, which erupted after an April attack in Indian-administered Kashmir brou… [+2523 chars]",
-      "tags": ["foreign_policy", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752908698
     },
     {
       "source": {
@@ -545,7 +679,8 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/GettyImages-1192977790-1752836036.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-19T01:23:31Z",
       "content": "United States President Donald Trump has filed a defamation lawsuit against The Wall Street Journal publication and its owners, including media magnate Rupert Murdoch, seeking at least $10bn in damag… [+3379 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752888211
     },
     {
       "source": {
@@ -559,7 +694,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-18T170346Z_643238062_RC24PFA6M0E6_RTRMADP_3_BRAZIL-BOLSONARO-1752893390.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-19T03:54:39Z",
       "content": "Washington will restrict travel visas for Brazilian judicial officials and their immediate family members, United States Secretary of State Marco Rubio has announced, over what he called a political … [+4244 chars]",
-      "tags": ["foreign_policy", "government_administration"]
+      "tags": [
+        "foreign_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752897279
     },
     {
       "source": {
@@ -573,7 +712,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752952817.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-07-19T20:19:06Z",
       "content": "US threatens 50-percent tariffs unless Bolsonaros prosecution is dropped.Theres deepening conflict between the United States and Brazil over the prosecution of former President Jair Bolsonaro.\r\nUS Pr… [+398 chars]",
-      "tags": ["foreign_policy", "trade"]
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752956346
     },
     {
       "source": {
@@ -587,7 +730,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25200394354392-1752951301.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-19T19:41:14Z",
       "content": "Ukraine has proposed to hold a new round of peace talks with Russia next week after negotiations stalled last month.\r\nPresident Volodymyr Zelenskyy confirmed on Saturday that Defence Council secretar… [+3508 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752954074
     },
     {
       "source": {
@@ -601,7 +749,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-01T151526Z_1550042760_RC2RDFAQV071_RTRMADP_3_USA-TRUMP-1751383750.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-19T12:41:07Z",
       "content": "Democratic members of Congress who saw Floridas new immigration detention centre, Alligator Alcatraz, said they witnessed dozens of people in metal enclosures, bugs and mosquitos in bunk areas, indoo… [+9916 chars]",
-      "tags": ["immigration", "security_intelligence", "social_issues"]
+      "tags": [
+        "immigration",
+        "security_intelligence",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752928867
     },
     {
       "source": {
@@ -615,7 +768,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-18T213902Z_575235590_RC25PFAVWMC5_RTRMADP_3_SYRIA-SECURITY-DRUZE-1752913786.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-19T08:51:56Z",
       "content": "Syrias security forces have begun deploying in the restive southern province of Suwayda, a Ministry of Interior spokesperson has said, where heavy fighting between Druze and Bedouin armed groups and … [+4695 chars]",
-      "tags": ["foreign_policy", "middle_east", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752915116
     },
     {
       "source": {
@@ -635,7 +793,8 @@
         "middle_east",
         "crisis_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1752891736
     },
     {
       "source": {
@@ -649,7 +808,8 @@
       "urlToImage": "https://dnyuz.com/wp-content/uploads/2025/07/1752941774_Trump-Savages-‘Lunatics-Demanding-Epstein-Files-Release.jpg",
       "publishedAt": "2025-07-19T17:01:36Z",
       "content": "President Donald Trump raged against the MAGA troublemakers and radical left lunatics demanding further disclosure on the Epstein files Saturday. \r\nThe seething president, who has spent the last week… [+3227 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752944496
     },
     {
       "source": {
@@ -663,7 +823,11 @@
       "urlToImage": "https://i.insider.com/68791e8a85e81483682e338f?width=1200&format=jpeg",
       "publishedAt": "2025-07-19T10:13:01Z",
       "content": "Commercial flights faster than the speed of sound are one of the few historic innovations that have fallen out of favor, but that might not stay the case for long.\r\nConcorde revolutionized air travel… [+7392 chars]",
-      "tags": ["technology_regulation", "transportation"]
+      "tags": [
+        "technology_regulation",
+        "transportation"
+      ],
+      "publishedAtTs": 1752919981
     },
     {
       "source": {
@@ -681,7 +845,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752935429
     },
     {
       "source": {
@@ -695,7 +860,12 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/01/donald_trump_robert_f_kennedy_jr_harm_reduction_syringes_sharps_bin_1695225720.jpg",
       "publishedAt": "2025-07-19T13:00:07Z",
       "content": "Against all the evidence of horrific, devastating weather around us, climate change is still a hoax. A measles outbreak sparked by anti-vaccineconspiracy theorists now extends beyond Texas to 34 stat… [+9608 chars]",
-      "tags": ["social_issues", "health_science", "policy_legislation"]
+      "tags": [
+        "social_issues",
+        "health_science",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752930007
     },
     {
       "source": {
@@ -709,7 +879,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/07/donald-trump-big-beautiful-bill-2222703152.jpg",
       "publishedAt": "2025-07-19T10:00:15Z",
       "content": "President Donald Trump has said the big, beautiful bill he signed into law on July 4, 2025, will stimulate the economy and foster financial security.\r\nBut a close look at the legislation reveals a di… [+6539 chars]",
-      "tags": ["social_issues", "economy_finance"]
+      "tags": [
+        "social_issues",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752919215
     },
     {
       "source": {
@@ -723,7 +897,12 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/07/ice-agents-2224533016.jpg",
       "publishedAt": "2025-07-19T10:30:33Z",
       "content": "The push to unmask ICE agents is catching fire, as backlash grows to President Donald Trumps policy of mass deportation.\r\nIt comes across as kidnappings. At some point, where do we end up with vigila… [+5641 chars]",
-      "tags": ["immigration", "security_intelligence", "social_issues"]
+      "tags": [
+        "immigration",
+        "security_intelligence",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752921033
     },
     {
       "source": {
@@ -737,7 +916,11 @@
       "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2025/07/Bad-Bunny.jpg?w=1536&h=768&crop=1",
       "publishedAt": "2025-07-19T00:30:00Z",
       "content": "Bad Bunny just kicked off his three month sold out residency at Puerto Rico’s José Miguel Agrelot Coliseum in San Juan, and videos of his performances (and its celebrity attendees) are already making… [+3007 chars]",
-      "tags": ["media_communications", "social_issues"]
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752885000
     },
     {
       "source": {
@@ -751,7 +934,11 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-122786096,width-1200,height-630,imgsize-59310,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2025-07-19T17:43:20Z",
       "content": "Private equity giant Blackstone has withdrawn from a consortium seeking to invest in TikToks U.S. operations, a source familiar with the matter told Reuters on Friday.The latest change came as uncert… [+2667 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752947000
     },
     {
       "source": {
@@ -765,7 +952,8 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/Screenshot-2025-07-19-at-12.56.44 AM.png",
       "publishedAt": "2025-07-19T10:55:22Z",
       "content": "Pollinators send out good vibrations and plants respond sweetly Science News (Dr. Kevin)\r\nIs breakfast really the most important meal of the day? BBC (Robin K). Lordie. I heard decades ago from the p… [+11165 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752922522
     },
     {
       "source": {
@@ -779,7 +967,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6879d8895e7ee213ef3fb82c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T17:15:19Z",
       "content": "Donald Trump pumps his fist as he's rushed offstage by U.S. Secret Service agents after being grazed ... More by a bullet during a rally on July 13, 2024 in Butler, Pennsylvania. (Photo by Anna Money… [+3512 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752945319
     },
     {
       "source": {
@@ -793,7 +986,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687aa8b898e6bba072a72066/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T09:00:00Z",
       "content": "These are the leading U.S. exports YTD, including many that face tariffs at countries around the ... More world.\r\nustradenumbers.com\r\nPresident Trump should consider subsidizing exports rather than i… [+5061 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752915600
     },
     {
       "source": {
@@ -807,7 +1004,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687b614935ef728126f5edd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T11:32:17Z",
       "content": "Bitcoin has hit a fresh all-time high this month as a nightmare scenario engulfs the Federal Reserve and traders brace for the next big move that could come as soon as next week.\r\nSign up now for \r\nC… [+5281 chars]",
-      "tags": ["economy_finance", "cryptocurrency"]
+      "tags": [
+        "economy_finance",
+        "cryptocurrency"
+      ],
+      "publishedAtTs": 1752924737
     },
     {
       "source": {
@@ -821,7 +1022,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687996c73f30a0b648a8b267/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T14:15:34Z",
       "content": "USA artificial intelligence\r\ngetty\r\nNext week, President Trump is expected to deliver the most comprehensive statement on technology of his two terms. He will speak at the Winning the AI Race Summit … [+7131 chars]",
-      "tags": ["economy_finance", "technology_regulation", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752934534
     },
     {
       "source": {
@@ -835,7 +1041,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687b8cbf753add68f8423250/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T12:29:14Z",
       "content": "US President Donald Trump displays the GENIUS Act (Guiding and Establishing National Innovation for ... More US Stablecoins Act), which codifies the use of stablecoins after signing it in the East Ro… [+8318 chars]",
-      "tags": ["cryptocurrency", "economy_finance", "policy_legislation"]
+      "tags": [
+        "cryptocurrency",
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752928154
     },
     {
       "source": {
@@ -849,7 +1060,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687ad4aa753dbaa10b93931f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T18:15:07Z",
       "content": "The CEO and President of National Public Radio (NPR), Katherine Maher, testifies during a House ... More committee hearing in Washington, DC, on March 26, 2025. (Photo by DREW ANGERER/AFP via Getty I… [+5036 chars]",
-      "tags": ["policy_legislation", "government_administration"]
+      "tags": [
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752948907
     },
     {
       "source": {
@@ -863,7 +1078,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687a8eb9c3ab2782b08a0d48/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T15:51:18Z",
       "content": "(Photo: Bob Riha, Jr.)\r\nGetty Images\r\nEarlier this month, the Organization of Petroleum Exporting Countries made yet another attempt to counter energy market chatter about oil demand peaking over the… [+5817 chars]",
-      "tags": ["energy", "economy_finance"]
+      "tags": [
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752940278
     },
     {
       "source": {
@@ -877,7 +1096,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687bcd43a74c8e76b5b6f579/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T16:55:57Z",
       "content": "Skeptical Intelligence\r\nChatGPT\r\nIn boardrooms, strategy offsites, and investor summits, the conversation invariably turns to artificial intelligence. Will it take our jobs, supercharge our growth, o… [+10108 chars]",
-      "tags": ["technology_regulation", "health_science", "economy_finance"]
+      "tags": [
+        "technology_regulation",
+        "health_science",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752944157
     },
     {
       "source": {
@@ -891,7 +1115,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687a7deeb7777f1c682cd057/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T14:00:00Z",
       "content": "The historic Union Station in Denver, Colorado, is a transportation hub offering Amtrak and light rail train service along with shops, restaurants and a hotel.\r\nRobert Alexander/Getty Images\r\nThis we… [+17657 chars]",
-      "tags": ["taxes", "policy_legislation", "economy_finance"]
+      "tags": [
+        "taxes",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752933600
     },
     {
       "source": {
@@ -905,7 +1134,11 @@
       "urlToImage": "https://biztoc.com/cdn/929023535c8f850b_s.webp",
       "publishedAt": "2025-07-19T14:03:53Z",
       "content": "United States President Donald Trump requested the Justice Department release all Grand Jury testimony concerning Jeffrey Epstein, pending court approval.\"Even if the Court gave its full and un...\r\nT… [+62 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752933833
     },
     {
       "source": {
@@ -919,7 +1152,8 @@
       "urlToImage": "https://biztoc.com/cdn/d43d6fcf85013326_s.webp",
       "publishedAt": "2025-07-19T21:30:59Z",
       "content": "According to documents reviewed by The Wall Street Journal, a letter bearing President Donald Trump's name was sent to Jeffrey ...\r\nThis story appeared on youtube.com, 2025-07-19 21:06:44.",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752960659
     },
     {
       "source": {
@@ -933,7 +1167,12 @@
       "urlToImage": "https://biztoc.com/cdn/872cf1fcdf24ce12_s.webp",
       "publishedAt": "2025-07-19T12:00:09Z",
       "content": "President Trump has signed into law the GENIUS Act, which will mean that many mainstream banks and fintechs will try to make stablecoins a part of everyday life in America soon.Why it matters: With c… [+141 chars]",
-      "tags": ["cryptocurrency", "economy_finance", "policy_legislation"]
+      "tags": [
+        "cryptocurrency",
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752926409
     },
     {
       "source": {
@@ -947,7 +1186,11 @@
       "urlToImage": "https://biztoc.com/cdn/fed71c69ff52bf28_s.webp",
       "publishedAt": "2025-07-19T15:22:18Z",
       "content": "CBS says its decision to end Stephen Colberts late-night comedy show is financial, not political. Yet even with the ample skepticism about that explanation, theres no denying the economics were not w… [+140 chars]",
-      "tags": ["economy_finance", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752938538
     },
     {
       "source": {
@@ -961,7 +1204,11 @@
       "urlToImage": "https://biztoc.com/cdn/950/og.png",
       "publishedAt": "2025-07-19T14:03:50Z",
       "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;What impact does the GENIUS Act have on crypto markets? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are Trump's t… [+874 chars]",
-      "tags": ["economy_finance", "energy"]
+      "tags": [
+        "economy_finance",
+        "energy"
+      ],
+      "publishedAtTs": 1752933830
     },
     {
       "source": {
@@ -975,7 +1222,10 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/678578b7afda7f2dba404b10/0x0.jpg?format=jpg&crop=2996,1998,x0,y0,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-07-19T16:46:53Z",
       "content": "President Donald Trump said Saturday his administrations court request to produce grand jury testimony from the indictment of late sex offender Jeffrey Epstein will not be good enough for the trouble… [+4999 chars]",
-      "tags": ["legal_justice"]
+      "tags": [
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752943613
     },
     {
       "source": {
@@ -989,7 +1239,12 @@
       "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=61240665&width=1200&height=600&coordinates=0%2C6%2C0%2C165",
       "publishedAt": "2025-07-19T19:00:00Z",
       "content": "There is an editorial genre kept alive at liberal publications around the country that is focused on questions about what to do with conservative kin and how best to prevent family members from simil… [+6153 chars]",
-      "tags": ["social_issues", "civil_rights", "free_speech"]
+      "tags": [
+        "social_issues",
+        "civil_rights",
+        "free_speech"
+      ],
+      "publishedAtTs": 1752951600
     },
     {
       "source": {
@@ -1003,7 +1258,12 @@
       "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/07/image-12.png",
       "publishedAt": "2025-07-19T17:49:21Z",
       "content": "Author note: The text in bold comes the editorial We Didnt Get Covid Right. But This Is Just Wrong by Dr. Monica Gandhi.\r\nDuring the pandemic I gained something of a reputation as a so-called Covid c… [+5269 chars]",
-      "tags": ["social_issues", "health_science", "media_communications"]
+      "tags": [
+        "social_issues",
+        "health_science",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752947361
     },
     {
       "source": {
@@ -1017,7 +1277,11 @@
       "urlToImage": null,
       "publishedAt": "2025-07-19T17:15:02Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["economy_finance", "federal_agencies"]
+      "tags": [
+        "economy_finance",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1752945302
     },
     {
       "source": {
@@ -1031,7 +1295,11 @@
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/6416d0657f3acbfbb4a5e1a323ebea7a",
       "publishedAt": "2025-07-19T14:17:17Z",
       "content": "Meta Platforms, Inc. (NASDAQ:META) is one of the AI Stocks Investors Are Watching Closely. On July 16, Cantor Fitzgerald raised its price target on the stock to $828.00 from $807.00, while maintainin… [+1323 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752934637
     },
     {
       "source": {
@@ -1045,7 +1313,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2_gCK8ZvGUvgnZEcUrRorg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/97a0611deb9ef98c10b883ef386f84f6",
       "publishedAt": "2025-07-19T04:55:56Z",
       "content": "Iridium Communications (NASDAQ:IRDM) is one of the best space stocks to buy according to hedge funds. On July 17, Cantor Fitzgerald reiterated its Overweight rating and set a $40 price target, ahead … [+1325 chars]",
-      "tags": ["economy_finance", "technology_regulation", "space_policy"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "space_policy"
+      ],
+      "publishedAtTs": 1752900956
     },
     {
       "source": {
@@ -1059,7 +1332,11 @@
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/c745662fcc96be7fe403c0cc6756a4c4",
       "publishedAt": "2025-07-19T14:17:11Z",
       "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the AI Stocks Investors Are Watching Closely. On July 16, Needham analyst Rajvindra Gill raised the price target on the stock to $200 from $16. The firm has… [+1698 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752934631
     },
     {
       "source": {
@@ -1073,7 +1350,11 @@
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/12f5c7ca23789c7407214409763ffd25",
       "publishedAt": "2025-07-19T18:05:44Z",
       "content": "We recently published 10 Stocks With Unbelievable Gains This Week. Pagaya Technologies Ltd. (NASDAQ:PGY) is one of this weeks biggest players.\r\nPagaya Technologies jumped by 35.24 percent week-on-wee… [+1479 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752948344
     },
     {
       "source": {
@@ -1087,7 +1368,11 @@
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/9f239d03a7a0602d63ec83476fe1f9b5",
       "publishedAt": "2025-07-19T14:16:34Z",
       "content": "International Business Machines Corporation (NYSE:IBM) is one of the AI Stocks Investors Are Watching Closely.  On July 16, Stifel analyst David Grossman reaffirmed a Buy rating for the stock and inc… [+1740 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752934594
     },
     {
       "source": {
@@ -1101,7 +1386,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6XHxFcjLG_PI86rH4tyVCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bc45efc4f31ae9798a564d253d050758",
       "publishedAt": "2025-07-19T06:37:43Z",
       "content": "Enphase Energy, Inc. (NASDAQ:ENPH) is one of the Best Beaten Down Stocks to Buy Now. JPMorgan downgraded the companys stock to Neutral from Overweight with a price objective of $37, down from the pri… [+1726 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752907063
     },
     {
       "source": {
@@ -1115,7 +1404,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UUrmeLYv9d.rv0kB2kTHEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/insidermonkey.com/d2404fc756dc449f1bbfb4044bddd352",
       "publishedAt": "2025-07-19T14:17:36Z",
       "content": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the AI Stocks Investors Are Watching Closely.  On July 16, Cantor Fitzgerald analyst Deepak Mathivanan raised the price target on the stock to $260.00 (from $… [+1966 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752934656
     },
     {
       "source": {
@@ -1129,7 +1422,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KcCuSXmF4WtCc0Q8B00aRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/9bbb89ebaabf3d70fdba695a6a72a8ca",
       "publishedAt": "2025-07-19T14:49:32Z",
       "content": "We recently published 11 Fresh Stocks Jim Cramer Talked About While Discussing AI-Led American Renaissance. AppLovin Corporation (NASDAQ:APP) is one of the stocks Jim Cramer recently discussed.\r\nAppL… [+2101 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752936572
     },
     {
       "source": {
@@ -1143,7 +1440,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZsrqNB_sdV78LPtS9DZ12A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4da437b7638100421dc4d0ddd5060036",
       "publishedAt": "2025-07-19T01:07:14Z",
       "content": "Bristol-Myers Squibb Company (NYSE:BMY) is included among the 14 Best Pharma Dividend Stocks to Buy in 2025.\r\nWhy Income Investors Are Watching Bristol-Myers Squibb Company (BMY) in 2025\r\nA pharmacy … [+1863 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752887234
     },
     {
       "source": {
@@ -1157,7 +1458,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0Lt6cXGBK0QeQuks_Ria0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/insidermonkey.com/db9e393839e5d21e6fb3240e699d15de",
       "publishedAt": "2025-07-19T04:55:58Z",
       "content": "Rocket Lab USA, Inc. (NASDAQ:RKLB) is one of the best space stocks to buy according to hedge funds. Fresh off a Citi analyst report earlier in July, Rocket Labs stock got a solid thumbs-up. Citis Jas… [+1886 chars]",
-      "tags": ["space_policy", "economy_finance"]
+      "tags": [
+        "space_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752900958
     },
     {
       "source": {
@@ -1171,7 +1476,11 @@
       "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/5aa30f6ecf653eb01c521d097b0645bc",
       "publishedAt": "2025-07-19T11:11:09Z",
       "content": "Meta Platforms, Inc. (NASDAQ:META) is one of the Trending AI Stocks in Focus This Week. On July 16, Canaccord Genuity analyst Maria Ripps raised the price target on the stock to $850.00 (from $825.00… [+2431 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752923469
     },
     {
       "source": {
@@ -1185,7 +1494,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Vig3Tdgnh8f.PNgMqcERDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/bccc982560058efc138dc5f44a9c3199",
       "publishedAt": "2025-07-19T14:27:25Z",
       "content": "CoreWeave, Inc. (NASDAQ:CRWV) is one of the AI Stocks on Wall Streets Radar. On July 17, HSBC initiated the stock as Reduce with a $32 per share price target. The firm said it sees too many negative … [+2319 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752935245
     },
     {
       "source": {
@@ -1199,7 +1512,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/snndpRpRyQ_jZxge0fjH2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/27e505872adefba2f8e6aad9324535b6",
       "publishedAt": "2025-07-19T06:38:02Z",
       "content": "Simulations Plus, Inc. (NASDAQ:SLP) is one of the Best Beaten Down Stocks to Buy Now. KeyBanc downgraded the companys stock to Sector Weight from Overweight without a price target, as reported by The… [+3173 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752907082
     },
     {
       "source": {
@@ -1213,7 +1530,8 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QaaYmnjKIzbEulVrVI83Bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/ac873e61c86a3e826007d8e5b9a0abfd",
       "publishedAt": "2025-07-19T12:00:07Z",
       "content": "(Bloomberg) The second-quarter earnings season is off to a ripping start, with consumer strength powering resilient corporate profits. In the stock market, however, the reaction has been fairly quiet… [+5809 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752926407
     },
     {
       "source": {
@@ -1227,7 +1545,11 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/07/carlosv1034_trump_epstein.png",
       "publishedAt": "2025-07-19T23:00:00Z",
       "content": "Claim:\r\nAn image authentically shows Jeffrey Epstein posing with U.S. President Donald Trump and a young girl.\r\nAn image claiming to show a young girl with U.S. President Donald Trump and the late se… [+2207 chars]",
-      "tags": ["legal_justice", "social_issues"]
+      "tags": [
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752966000
     },
     {
       "source": {
@@ -1241,7 +1563,11 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/07/donald_melania_trump_january.jpg",
       "publishedAt": "2025-07-19T00:13:00Z",
       "content": "\"(45) Melania Trump.\" U.C. Santa Barbara, The American Presidency Project, https://www.presidency.ucsb.edu/statistics/data/45-melania-trump.\r\n\"Anchor Baby.\" Cambridge Dictionary, https://dictionary.c… [+4300 chars]",
-      "tags": ["immigration", "legal_justice"]
+      "tags": [
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752883980
     },
     {
       "source": {
@@ -1255,7 +1581,12 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/07/trump_melania_epstein_and_ghislaine.png",
       "publishedAt": "2025-07-19T13:00:00Z",
       "content": "Claim:\r\nIn 2002, Donald Trump called Jeffrey Epstein a \"fun\" and \"terrific guy,\" and added, \"It is even said that he likes beautiful women as much as I do, and many of them are on the younger side.\"\r… [+8791 chars]",
-      "tags": ["legal_justice", "criminal_cases", "social_issues"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752930000
     },
     {
       "source": {
@@ -1269,7 +1600,8 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/07/stephen_colbert.png",
       "publishedAt": "2025-07-19T18:00:00Z",
       "content": "Benjamin Mullin, Michael M. Grynbau, Lauren Hirsch and David Enrich. \"Paramount to Pay Trump $16 Million to Settle '60 Minutes' Lawsuit.\" The New York Times, 2 Jul. 2025, https://www.nytimes.com/2025… [+257 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752948000
     },
     {
       "source": {
@@ -1283,7 +1615,8 @@
       "urlToImage": "https://viewfromthewing.com/wp-content/uploads/2020/09/buffet-bbn.jpg",
       "publishedAt": "2025-07-19T21:04:35Z",
       "content": "Four years ago Hilton eliminated free breakfast as a benefit for Honors Gold and Diamond members at U.S properties. In its place they offer a small food and beverage credit that can be used at any ti… [+3283 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752959075
     },
     {
       "source": {
@@ -1297,7 +1630,12 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/07/gettyimages-2216593083.jpg",
       "publishedAt": "2025-07-19T02:00:01Z",
       "content": "A new analysis details precisely how a slate of proposed cryptocurrency bills making their way through Congress this week, if passed, will enrich U.S. President Donald Trump and members of his family… [+8514 chars]",
-      "tags": ["cryptocurrency", "economy_finance", "elections_politics"]
+      "tags": [
+        "cryptocurrency",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752890401
     },
     {
       "source": {
@@ -1311,7 +1649,12 @@
       "urlToImage": "https://crooksandliars.com/files/mediaposters/2025/07/57413.jpg",
       "publishedAt": "2025-07-19T13:40:44Z",
       "content": "Nick Fuentes, who once was an Ultra MAGA supporter of Donald Trump and even dined with Trump at Mar-a-Lago in 2022, has had a change of mind after his one-time hero did a 180 on releasing the Epstein… [+1664 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752932444
     },
     {
       "source": {
@@ -1325,7 +1668,11 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/07/bondi_for_071825.jpg",
       "publishedAt": "2025-07-19T13:39:56Z",
       "content": "Sen. Dick Durbin, the ranking member of the Judiciary Committee, wrote to Attorney General Pam Bondi on Friday, saying he received information she had pressured the FBI to put more than 1,000 personn… [+2301 chars]",
-      "tags": ["legal_justice", "federal_agencies"]
+      "tags": [
+        "legal_justice",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1752932396
     },
     {
       "source": {
@@ -1339,7 +1686,12 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/07/vlcsnap-2025-07-17-11h33m03s062.png",
       "publishedAt": "2025-07-19T13:30:01Z",
       "content": "Alex Jones has now flipped back into Trump's arms after telling Real America's Voice Steve Bannon that the media blew his angst put of proportion and he still loves Demented Donald.\r\nThe fact that a … [+1442 chars]",
-      "tags": ["media_communications", "social_issues", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752931801
     },
     {
       "source": {
@@ -1353,7 +1705,8 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/07/cnn-ben-ferguson-071725.png",
       "publishedAt": "2025-07-19T13:39:30Z",
       "content": "Trump is probably \"not a guy that draws pictures.\" You're going to have to come up with something better than that to defend Mr. Sharpie, Ben.During a panel discussion on this Thursday's CNN NewsNigh… [+2029 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752932370
     },
     {
       "source": {
@@ -1367,7 +1720,11 @@
       "urlToImage": "https://crooksandliars.com/files/embeds/2025/07/66384.jpg",
       "publishedAt": "2025-07-19T18:00:17Z",
       "content": "Gavin Newsom has called the Trump administrations bluff, joking that the notorious Alcatraz prison in northern California will reopen the same day that the so-called Epstein files are released. Via T… [+731 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752948017
     },
     {
       "source": {
@@ -1381,7 +1738,8 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/07/52251851593_608221a4b2_k.jpg",
       "publishedAt": "2025-07-19T20:26:56Z",
       "content": "Donald Trump Jr. tweeted in July 2023, \"Show us all the Epstein client list now!!! Why would anyone protect those scum bags? Ask yourselves this question daily and the answer becomes very apparent!!\"… [+1620 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752956816
     },
     {
       "source": {
@@ -1395,7 +1753,11 @@
       "urlToImage": "https://crooksandliars.com/files/embeds/2025/07/66383.jpg",
       "publishedAt": "2025-07-19T12:00:01Z",
       "content": "Donald Trump has some serious shit going on with his...um, body, which is a thought that repulses me, but we stil must discuss it, as it looks...well, not very not healthy. \r\nWe'll let the video do m… [+542 chars]",
-      "tags": ["personal_family", "health"]
+      "tags": [
+        "personal_family",
+        "health"
+      ],
+      "publishedAtTs": 1752926401
     }
   ]
 }

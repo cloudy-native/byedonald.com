@@ -20,7 +20,8 @@
         "media_communications",
         "press_relations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731715178
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "policy_legislation",
         "economy_finance",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731715120
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "russia",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1731715072
     }
   ]
 }

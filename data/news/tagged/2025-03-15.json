@@ -20,7 +20,8 @@
         "middle_east",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1742083167
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1742082539
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKS486_DOGE_DEPARTMENT_e.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-03-15T23:25:43Z",
       "content": "is a weekend editor who covers the latest in tech and entertainment. He has written news, reviews, and more as a tech journalist since 2020.\nCourt documents filed Friday in an ongoing lawsuit against the US Treasury Department reveal that a 25-year-o... [1727 chars]",
-      "tags": ["cryptocurrency", "government_administration", "legal_justice"]
+      "tags": [
+        "cryptocurrency",
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1742081143
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "middle_east",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1742078923
     }
   ]
 }

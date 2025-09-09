@@ -14,7 +14,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDlcXFwvMjIxMjE1MTJcXFwvR2V0dHlJbWFnZXMtNDUyMjU1NTI0LWUxNjk1MzgxMzI4MzY0LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNzJjODUzYTkxYmI1NWVmNzJmZTMyMWY0NzkyZTE1N2U5M2Y0N2EyYiJ9/rupert-murdoch-exit-may-give-trump-a-fox-news-reset-republican-strategists-say.jpg",
       "publishedAt": "2023-09-21T23:00:00Z",
       "content": "Rupert Murdoch's departure as the chairman of Fox Corp and News Corp could provide an opportunity to mend the relationship between former US president Donald Trump and Fox News as the 2024 election campaign heats up, said a former adviser to Mr Trump... [4792 chars]",
-      "tags": ["media_communications", "elections_politics", "foreign_policy"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1695337200
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "security_intelligence",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1695332061
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "economy_finance",
         "labor",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1695331649
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://compote.slate.com/images/b7cbe522-ab76-4419-86e3-7a02c5f8cdd1.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-09-21T20:36:57Z",
       "content": "It is depressingly easy to summarize the career of Rupert Murdoch, the 92-year-old media mogul who on Thursday announced that he would retire in November as chair of Fox News and News Corp. Over the past half-century, Murdoch made billions of dollars... [9412 chars]",
-      "tags": ["media_communications", "foreign_policy", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1695328617
     },
     {
       "source": {
@@ -81,7 +93,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230918200154-donald-trump-091823.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-21T19:36:04Z",
       "content": "CNN —\nFormer President Donald Trump faced blowback this week from his Republican presidential rivals over his recent comments to NBC News on abortion, in which he called Florida’s six-week abortion ban a “terrible mistake” and said that he’d be willi... [5344 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1695324964
     },
     {
       "source": {
@@ -95,7 +112,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23236056798870-e1694727040961.jpg?w=1280",
       "publishedAt": "2023-09-21T19:30:43Z",
       "content": "Most 2024 Republicans – notably, not Trump – will be heading to Simi Valley, Calif. next Wednesday to participate in the second GOP debate at the Ronald Reagan Presidential Library, hosted by Fox Business.\nWhile it’s not immediately clear the exact l... [1812 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1695324643
     },
     {
       "source": {
@@ -109,7 +130,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_14_7140931.jpg?width=920&format=jpeg",
       "publishedAt": "2023-09-21T19:30:14Z",
       "content": "Republican presidential hopeful Vivek Ramaswamy swiped at former President Donald Trump on Thursday for failing to repeal and replace the health care overhaul championed by his predecessor, President Barack Obama.\n\"I am never somebody who will make a... [2152 chars]",
-      "tags": ["healthcare", "policy_legislation", "elections_politics"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1695324614
     },
     {
       "source": {
@@ -123,7 +149,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/trumpdonald_pencemike_080723_split-GN-AP_trump-pence.jpg?w=1280",
       "publishedAt": "2023-09-21T19:07:13Z",
       "content": "Former Vice President Mike Pence told Fox News that former President Trump is “backing away” from his commitment after Trump is pushing back on a five-week abortion ban.\n“I have to tell you that, you know, the president and I have had our differences... [2740 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1695323233
     },
     {
       "source": {
@@ -137,7 +167,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/GettyImages-614884578.jpg?w=1280",
       "publishedAt": "2023-09-21T18:30:00Z",
       "content": "According to a recent Wall Street Journal poll, the four prosecutions bedeviling former President Donald Trump are deemed illegitimate by a plurality of the country. Meanwhile, the House of Representatives is heading towards an impeachment inquiry ta... [4663 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695321000
     },
     {
       "source": {
@@ -151,7 +186,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/09/22/600x338/lm_1695356370707_1695356370893.jpg",
       "publishedAt": "2023-09-21T18:30:00Z",
       "content": "Vivek Ramaswamy, a Republican presidential candidate for the 2024 election, criticised former President Donald Trump on September 21 ,at a campaign stop in Ohio, for his failure to repeal and replace the health care overhaul introduced by Trump's pre... [1942 chars]",
-      "tags": ["elections_politics", "policy_legislation", "healthcare"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "healthcare"
+      ],
+      "publishedAtTs": 1695321000
     },
     {
       "source": {
@@ -165,7 +205,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23118618654905-e1686681563673.jpg?w=1280",
       "publishedAt": "2023-09-21T17:45:11Z",
       "content": "New York Attorney General Letitia James’s (D) office late Wednesday night pushed back on former President Trump’s “brazen and meritless” attempt to delay an upcoming civil trial in which she is suing Trump, his business and two of his adult children ... [2680 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695318311
     },
     {
       "source": {
@@ -179,7 +223,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/08/megyn-kelly-1044861298.jpg",
       "publishedAt": "2023-09-21T17:34:28Z",
       "content": "Trump called Hillary Clinton a nasty woman in the 2016 presidential race — and now he's hurling the insult at conservative commentator Megyn Kelly.\nKelly interviewed Trump last week — for the first time since shortly after Trump lashed out at her the... [1166 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695317668
     },
     {
       "source": {
@@ -193,7 +242,11 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2018/05/rupert-murdoch1.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2023-09-21T17:13:04Z",
       "content": "Rupert Murdoch’s announcement that he is retiring from the boards of Fox and of News Corporation had particularly interesting timing for one journalist.\n“The Fall,” the new book by Michael Wolff, peers inside what we now know are the final days of Mu... [7765 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695316384
     },
     {
       "source": {
@@ -207,7 +260,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230921-lin-wood-jm-1153-8daa88.jpg",
       "publishedAt": "2023-09-21T17:11:37Z",
       "content": "A prominent attorney who advocated for President Donald Trump's false stolen election claims in 2020 will be a witness for the prosecution in Georgia's criminal case against Trump and 18 other people, according to a court filing.\n\"L. Lin Wood is a wi... [2586 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1695316297
     },
     {
       "source": {
@@ -221,7 +279,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/5fd00f69aa19764a1047e41a6d5cf6aadfd2b3a7/0_0_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1c60955959ba426cd2874ff7ed88c41",
       "publishedAt": "2023-09-21T16:54:41Z",
       "content": "The resignation of Rupert Murdoch comes amid a period of unprecedented turmoil at his embattled Fox News empire, and leaves a number of questions hanging over the future of the nation’s most-watched rightwing network.\nExclusive reporting by the Guard... [6050 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1695315281
     },
     {
       "source": {
@@ -240,7 +303,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1695313618
     },
     {
       "source": {
@@ -254,7 +318,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/AP23139670410622-e1690376588913.jpg?w=1280",
       "publishedAt": "2023-09-21T16:23:14Z",
       "content": "Rudy Giuliani has denied allegations that he groped former Trump White House staffer Cassidy Hutchinson at an event on Jan. 6, 2021, calling her accusation “completely, absolutely false” and “totally absurd.”\nIn her new book, Hutchinson claims Giulia... [1607 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695313394
     },
     {
       "source": {
@@ -272,7 +340,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1695313047
     },
     {
       "source": {
@@ -286,7 +355,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2284944/donald-trump-joe-biden.png",
       "publishedAt": "2023-09-21T16:13:31Z",
       "content": "Donald Trump and Joe Biden's public exchanges have never revealed even so much as a friendly rivalry, with vicious barbs and accusations of corruption on both sides.\nTrump has referred to Biden as \"very stupid\" and \"impaired,\" while Biden has called ... [3521 chars]",
-      "tags": ["personal_family", "elections_politics", "media_communications"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1695312811
     },
     {
       "source": {
@@ -300,7 +374,12 @@
       "urlToImage": "https://static.politico.com/fa/cd/b3af88574e1e8be6b3994c9685a9/https-delivery-gettyimages.com/downloads/1692661700",
       "publishedAt": "2023-09-21T15:55:11Z",
       "content": "The office’s filing came in response to a lawsuit that Trump filed earlier this month against the judge overseeing the upcoming fraud trial and the attorney general’s office. Trump’s lawsuit accuses the judge, Arthur Engoron, of failing to comply wit... [2117 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ],
+      "publishedAtTs": 1695311711
     },
     {
       "source": {
@@ -314,7 +393,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/FarahGriffinAlyssa_050120_APPhotoEvanVucci.jpg?w=1280",
       "publishedAt": "2023-09-21T15:28:57Z",
       "content": "Former White House communications director Alyssa Farah Griffin said Wednesday that the Trump administration knew Rudy Giuliani was “a liability,” a comment that comes as Giuliani faces new allegations that he groped ex-Trump aide Cassidy Hutchinson.... [2499 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695310137
     },
     {
       "source": {
@@ -328,7 +412,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2285093/maga-celebrates-murdochs-retirement.jpg",
       "publishedAt": "2023-09-21T15:15:17Z",
       "content": "Supporters of Donald Trump's Make America Great Again (MAGA) movement are celebrating the change in leadership at Fox.\nMurdoch is stepping down as chairman of the Fox Corp. and News Corp. boards, effective in November. Murdoch's son Lachlan will assu... [3287 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1695309317
     },
     {
       "source": {
@@ -352,7 +440,8 @@
         "education",
         "energy",
         "transportation"
-      ]
+      ],
+      "publishedAtTs": 1695305915
     },
     {
       "source": {
@@ -366,7 +455,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/21/2fd29a2d-9db2-408b-a2c2-c7deb75e8107/thumbnail/1200x630g2/5d3d1a6c6b6e55315d2b2e613b7f0d38/0921-cmo-giulianiaccusations-diaz-2308421-640x360.jpg?v=8e14bdb7e67d007af3399b47230d2245",
       "publishedAt": "2023-09-21T14:08:03Z",
       "content": "Cassidy Hutchinson, a former White House aide who became a key witness in congressional Jan. 6 hearings, alleges that former President Donald Trump's lawyer, Rudy Giuliani, groped her on the day of the assault on the Capitol.\nThe incident allegedly t... [1788 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1695305283
     }
   ]
 }

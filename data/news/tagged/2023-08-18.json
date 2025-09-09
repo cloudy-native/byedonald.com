@@ -18,7 +18,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1692399600
     },
     {
       "source": {
@@ -32,7 +33,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/iNW4dqA_zKxfUGTwPUEGvkICmXU=/1200x820/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/RKFUWRZ4GBLDZPVQX3TKRTA7UY.JPG",
       "publishedAt": "2023-08-18T22:10:28Z",
       "content": "Open this photo in gallery: Republican presidential candidate and former U.S. President Donald Trump campaigns at the Iowa State Fair in Des Moines, Iowa, on Aug. 12.SCOTT MORGAN/Reuters\nDonald Trump may have decided to skip Wednesday’s premier Repub... [5949 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692396628
     },
     {
       "source": {
@@ -46,7 +52,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230818095216-01-fulton-county-jail-0818.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-18T21:03:49Z",
       "content": "CNN —\nFormer President Donald Trump is expected to surrender himself to the Fulton County jail at the end of next week – on Thursday or Friday, a senior law enforcement official with knowledge of the surrender told CNN.\nTrump and 18 co-defendants wer... [1806 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692392629
     },
     {
       "source": {
@@ -60,7 +70,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/63/46378ff6-6efd-543e-a929-d0ab377f6063/64e000ac68f29.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2023-08-18T19:54:00Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692388440
     },
     {
       "source": {
@@ -74,7 +88,11 @@
       "urlToImage": "https://static.politico.com/6a/b5/b9ebf27147f98c22ed97d87c57a1/election-2024-republicans-georgia-30555.jpg",
       "publishedAt": "2023-08-18T19:41:35Z",
       "content": "Kemp, a focus of Trump’s wrath for his resistance to overturning the results of the 2020 election in Georgia, is one of three Republican governors DeSantis has been courting in recent months. He has appeared in Iowa with that state’s Republican gover... [1474 chars]",
-      "tags": ["regional_state", "elections_politics"]
+      "tags": [
+        "regional_state",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1692387695
     },
     {
       "source": {
@@ -88,7 +106,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2271788/donald-trump-keeps-striking-out-court.jpg",
       "publishedAt": "2023-08-18T19:29:32Z",
       "content": "Former President Donald Trump struck out again in New York on Friday when a federal judge rejected his fourth bid to delay a defamation trial with columnist E. Jean Carroll.\nCarroll, who was awarded $5 million in damages by a jury that found Trump li... [3160 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692386972
     },
     {
       "source": {
@@ -102,7 +125,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230818-donald-trump-tucker-carlson-se-134p-1b91e3.jpg",
       "publishedAt": "2023-08-18T19:24:00Z",
       "content": "Former President Donald Trump has made up his mind not to attend the first GOP debate next week, according to two sources familiar with his thinking, and is seeking a sit-down interview with former Fox News host Tucker Carlson as a means of counter-p... [3046 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1692386640
     },
     {
       "source": {
@@ -116,7 +143,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/e7d2262911b91af7b9edadb6d67bc94172afe8cd/0_257_4013_2408/master/4013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=cc08b647b04aa4462c2f3175416e5c88",
       "publishedAt": "2023-08-18T19:06:37Z",
       "content": "Monday\nDonald Trump’s legal woes grow in Georgia, as the former president faces new charges of election interference, bringing his total felony count to 91 and returning his co-defendant – former Time magazine Person of the Year (2001), Rudy Giuliani... [5422 chars]",
-      "tags": ["legal_justice", "personal_family", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1692385597
     },
     {
       "source": {
@@ -130,7 +162,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/18/600x338/Election-2024-Ramaswamy-6_1692389356467_1692389389750.jpg",
       "publishedAt": "2023-08-18T18:30:00Z",
       "content": "Indian-American lawmaker Vivek Ramaswamy found an unlikely ally in billionaire businessman Elon Musk this week. The Tesla and SpaceX CEO dubbed the US Presidential hopeful a “very promising candidate\" and urged people to listen to an interview of Ram... [1827 chars]",
-      "tags": ["elections_politics", "foreign_policy", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1692383400
     },
     {
       "source": {
@@ -144,7 +181,11 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/19/600x338/trump_1692415894395_1692415894516.JPG",
       "publishedAt": "2023-08-18T18:30:00Z",
       "content": "The former United States President Donald Trump is likely to surrender by end of next week in connection with the efforts to overturn the 2020 election results in Georgia, CNN has reported citing a senior law enforcement official.\nAs per the report, ... [2211 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1692383400
     },
     {
       "source": {
@@ -158,7 +199,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817161308-trump-iowa-aug-12.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-18T18:03:31Z",
       "content": "CNN —\nFormer President Donald Trump is planning to skip the first Republican presidential debate on Wednesday and is instead expected to sit for an interview with former Fox News Host Tucker Carlson, multiple sources familiar with his plans tell CNN.... [1760 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692381811
     },
     {
       "source": {
@@ -172,7 +218,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2271710/evangelical-christians-trump.jpg",
       "publishedAt": "2023-08-18T17:44:10Z",
       "content": "Dr. Russell Moore, an evangelical leader, echoed previously stated fears on Friday about former President Donald Trump's effect on Christianity as the current 2024 Republican presidential candidate continues to dominate polling among evangelical Chri... [3703 chars]",
-      "tags": ["social_issues", "elections_politics", "media_communications"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1692380650
     },
     {
       "source": {
@@ -186,7 +237,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/UolbqVD1VEoA9YBE3wQ46OzeK2M=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/L2CLIPF4KVOPXHDB4XFPS5WER4.jpg",
       "publishedAt": "2023-08-18T17:34:42Z",
       "content": "Open this photo in gallery: Republican presidential candidate former President Donald Trump speaks to supporters during a visit to the Iowa State Fair, in Des Moines, Iowa on Aug. 12.Charlie Neibergall/The Associated Press\nFormer President Donald Tru... [3339 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692380082
     },
     {
       "source": {
@@ -200,7 +256,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230818095322-01-fulton-county-jail-0816.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-18T17:23:16Z",
       "content": "CNN —\nIf former President Donald Trump were facing the booking process that newly charged criminal defendants in Fulton County typically experience, he might find himself lingering for hours at the Rice Street jail waiting for his fingerprints and mu... [8327 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692379396
     },
     {
       "source": {
@@ -218,7 +278,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692377574
     },
     {
       "source": {
@@ -232,7 +293,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/18/multimedia/18pol-trumptucker-gjbk/18pol-trumptucker-gjbk-facebookJumbo.jpg",
       "publishedAt": "2023-08-18T16:48:50Z",
       "content": "Still, people close to him had said for months that he was unlikely to take part in the first two Republican debates, both of which are sponsored by the Republican National Committee. And Mr. Trump’s apparent decision to skip the first debate of the ... [1128 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692377330
     },
     {
       "source": {
@@ -246,7 +312,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/georgia-gov-brian-kemp.png?id=27361036&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2023-08-18T16:47:01Z",
       "content": "I am an anthropological geneticist who studies degraded DNA in archaeological and forensic contexts. My research group applies ancient DNA and forensic analysis methods to optimize DNA recovery from burned bones. Retrieving DNA from severely burned r... [7107 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1692377221
     },
     {
       "source": {
@@ -260,7 +330,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817192123-trump-silhouette-file-081723.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-18T16:42:06Z",
       "content": "CNN —\nA debate whisperer to collegiate champions and past presidential nominees is coaching Florida Gov. Ron DeSantis. Former Vice President Mike Pence is practicing with and without someone acting his onetime running mate. And South Carolina Sen. Ti... [10678 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692376926
     },
     {
       "source": {
@@ -274,7 +349,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/eff58b8e337f488acb98d6447f6a9fefb52d7c58/0_173_5210_3128/master/5210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6aa1170bccf3bac2c3a35bcbd073b771",
       "publishedAt": "2023-08-18T16:39:29Z",
       "content": "Law enforcement officials in the US state of Georgia were on Friday intensifying their investigations into threats targeting members of the grand jury that indicted former president Donald Trump and 18 of his allies earlier this month, after private ... [4692 chars]",
-      "tags": ["legal_justice", "criminal_cases", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1692376769
     },
     {
       "source": {
@@ -293,7 +373,8 @@
         "media_communications",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1692376380
     },
     {
       "source": {
@@ -307,7 +388,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2271678/royce-white.jpg",
       "publishedAt": "2023-08-18T16:03:08Z",
       "content": "A former NBA player has declared his intention to run for Senate in 2024 and backed former President Donald Trump to win the election and lead the country, even if he is behind bars.\nRoyce White, who played three regular-season games with Sacramento ... [3337 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692374588
     },
     {
       "source": {
@@ -321,7 +407,11 @@
       "urlToImage": "https://images.perthnow.com.au/publication/C-11635190/b30345b78b9e9aed0657683eed434a9c98c40315-16x9-x0y0w1280h720.jpg?imwidth=1200",
       "publishedAt": "2023-08-18T16:02:47Z",
       "content": "A US judge has declared that Donald Trump had filed a \"frivolous\" appeal of his decision not to dismiss the first of writer E. Jean Carroll's two defamation lawsuits stemming from her claims that he raped her.\nUS District Judge Lewis Kaplan on Friday... [1048 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692374567
     },
     {
       "source": {
@@ -340,7 +430,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692374503
     },
     {
       "source": {
@@ -354,7 +445,12 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/z1ZzwBXGfgQD-9ns63ptjTUM_TM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/VYTAD2MJRAOUBOXVGUYD3OJUQQ.jpg",
       "publishedAt": "2023-08-18T16:01:00Z",
       "content": "Three different prosecutors want to put former President Donald Trump on trial in four different cities next year, all before Memorial Day and in the midst of his presidential campaign.\nIt will be nearly impossible to pull off.\nA morass of delays, co... [10747 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692374460
     },
     {
       "source": {
@@ -368,7 +464,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107282442-16913228762023-08-05t002433z_1398849598_rc2ch2abpvbo_rtrmadp_0_usa-election-trump.jpeg?v=1692374353&w=1920&h=1080",
       "publishedAt": "2023-08-18T15:59:13Z",
       "content": "Former Elle magazine advice columnist E. Jean Carroll watches as Joe Tacopina, lawyer of former U.S. President Donald Trump, makes closing arguments during a civil trial where Carroll accuses Trump of raping her in a department store dressing room in... [1619 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692374353
     }
   ]
 }

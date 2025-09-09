@@ -18,7 +18,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693266960
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "doj_actions",
         "federal_courts",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1693266900
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693263650
     },
     {
       "source": {
@@ -70,7 +73,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825080812-01-donald-trump-atlanta-airport-0824.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-28T22:22:48Z",
       "content": "CNN —\nFormer President Donald Trump falsely claimed Monday that he “never” faced an impeachment inquiry.\nTrump made the claim in a social media post the day after House Speaker Kevin McCarthy said in a television interview that launching an impeachme... [2036 chars]",
-      "tags": ["legal_justice", "impeachment", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "impeachment",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693261368
     },
     {
       "source": {
@@ -84,7 +92,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/trumpdonald_082423ap_memo.jpg?w=1280",
       "publishedAt": "2023-08-28T22:22:30Z",
       "content": "The judge in former President Trump’s Jan. 6-related federal case landed a bombshell Monday when she set a date for his trial.\nU.S. District Judge Tanya Chutkan announced jury selection in the trial would begin March 4 — the day before Super Tuesday,... [5107 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693261350
     },
     {
       "source": {
@@ -98,7 +110,12 @@
       "urlToImage": "https://compote.slate.com/images/9c437fdf-6184-4be5-9d0c-8de1a3b3fa0f.jpeg?crop=5568%2C3712%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-08-28T22:18:00Z",
       "content": "There’s a new wave of COVID going around—but this one isn’t quite like all the ones before. Shannon Palus considers whether the coronavirus is finally becoming more like the flu, and what that means about how we should treat COVID, and other illnesse... [2429 chars]",
-      "tags": ["public_health", "health_science", "crisis_emergency"]
+      "tags": [
+        "public_health",
+        "health_science",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1693261080
     },
     {
       "source": {
@@ -112,7 +129,11 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/mzZIR9oB0PhseoSKpzXkS0kPS_o=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/EJFHYIVAFRJ7DJ754QEABR2NUI.JPG",
       "publishedAt": "2023-08-28T21:37:29Z",
       "content": "Good evening, let’s start with today’s top stories:\nPolice are now treating the March fire that killed seven people in Montreal as a criminal investigation after finding evidence of arson in the rubble of the building.\nInspectors say the fire appears... [7688 chars]",
-      "tags": ["crisis_emergency", "public_health_emergency"]
+      "tags": [
+        "crisis_emergency",
+        "public_health_emergency"
+      ],
+      "publishedAtTs": 1693258649
     },
     {
       "source": {
@@ -126,7 +147,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230828161831-trump-file-082823.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-28T21:36:03Z",
       "content": "A version of this story appears in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nDonald Trump’s very complicated legal calendar is coming into view. It currently appears that his criminal trials will occur after... [6003 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693258563
     },
     {
       "source": {
@@ -145,7 +171,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1693258320
     },
     {
       "source": {
@@ -159,7 +186,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23204779192966-e1691013145624.jpg?w=1280",
       "publishedAt": "2023-08-28T21:13:58Z",
       "content": "Former President Trump faces a jam-packed first few months of 2024, with trials and primaries at times occurring on back-to-back days.\nThe judge overseeing the federal case into efforts to overturn the 2020 election has set the trial to begin on Marc... [1376 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693257238
     },
     {
       "source": {
@@ -173,7 +204,12 @@
       "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b760546025739d6d19394658bd1382fe.jpg",
       "publishedAt": "2023-08-28T21:10:00Z",
       "content": "Foxconn is selling off two of its large facilities in Wisconsin after years of neglected promises to bring thousands of jobs to Eau Claire and Green Bay. The Taiwanese manufacturing company has pivoted from one potential production idea to the next s... [4251 chars]",
-      "tags": ["economy_finance", "policy_legislation", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1693257000
     },
     {
       "source": {
@@ -192,7 +228,8 @@
         "legal_justice",
         "policy_legislation",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1693256917
     },
     {
       "source": {
@@ -210,7 +247,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1693256510
     },
     {
       "source": {
@@ -228,7 +266,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693255752
     },
     {
       "source": {
@@ -247,7 +286,8 @@
         "executive_orders",
         "congressional_investigations",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1693255569
     },
     {
       "source": {
@@ -261,7 +301,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2275206/trumps-key-defenses-jan-6-case.jpg",
       "publishedAt": "2023-08-28T20:39:25Z",
       "content": "Former President Donald Trump's most likely defenses against his federal criminal charges for election subversion are risky and could very well backfire on him, according to legal expert and professor Steven Lubet on Monday.\nAt the start of August, T... [3386 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1693255165
     },
     {
       "source": {
@@ -275,7 +320,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/Trump-DeSantis-Iowa-2023.png?w=1280",
       "publishedAt": "2023-08-28T20:30:48Z",
       "content": "Florida Gov. Ron DeSantis’s (R) presidential campaign Monday railed against former President Trump’s suggestion that DeSantis might drop out of the 2024 presidential election, calling Trump’s claim “fake news.”\n“This is fake news,” DeSantis’s press s... [2080 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693254648
     },
     {
       "source": {
@@ -289,7 +339,11 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/2RmCa4so1jrXHh5fTeMACM0To7M=/0x522:7289x4338/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24879632/1244782084.jpg",
       "publishedAt": "2023-08-28T20:10:00Z",
       "content": "Monday marked the first major hearing in the case over former President Donald Trump’s efforts to overturn the 2020 election in Georgia — and the outcome could shape how Trump’s trial ultimately unfolds.\nThe hearing concerned whether one of the defen... [7166 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693253400
     },
     {
       "source": {
@@ -303,7 +357,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/TOP-Trump_081423_AP_Butch-Dill.jpg?w=1280",
       "publishedAt": "2023-08-28T20:05:00Z",
       "content": "Former President Trump and his campaign Monday lashed out at the federal judge overseeing his trial in Washington, D.C., over his efforts to subvert the 2020 election shortly after she scheduled his trial to begin for March.\nU.S. District Judge Tanya... [3307 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693253100
     },
     {
       "source": {
@@ -317,7 +375,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.M5cAjfuazJWvpZL8swA_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/salon_articles_879/19379e21b6119fa0650abc51ac5d0a11",
       "publishedAt": "2023-08-28T20:01:02Z",
       "content": "U.S. District Judge Tanya Chutkan on Monday scheduled the trial in former President Donald Trump's election subversion case for March 4, 2024, in Washington, D.C.\nJury selection in the trial is set to begin on March 4, under Chutkan's schedule, comme... [4487 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693252862
     },
     {
       "source": {
@@ -331,7 +393,11 @@
       "urlToImage": "https://www.reuters.com/resizer/HYgLxeinbIgdzmjMKNI2xOUdy8Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C4KXRYCREFISTPKM7QLTY7V2JQ.jpg",
       "publishedAt": "2023-08-28T19:51:52Z",
       "content": "Former U.S. President and Republican presidential candidate Donald Trump speaks during a campaign rally in Erie, Pennsylvania, U.S., July 29, 2023. REUTERS/Lindsay DeDario/File Photo Acquire Licensing Rights\nWASHINGTON, Aug 28 (Reuters) - Donald Trum... [984 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693252312
     },
     {
       "source": {
@@ -345,7 +411,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/08/alina_habba_1258676914.jpg",
       "publishedAt": "2023-08-28T19:29:28Z",
       "content": "Trump attorney Alina Habba claimed that the former president will not need any preparation ahead of his numerous overlapping trials because he is \"incredibly intelligent\" unlike the \"average person.\" Habba told Fox News host Shannon Bream that \"if th... [1017 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693250968
     },
     {
       "source": {
@@ -359,7 +430,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2275196/sense-humor.jpg",
       "publishedAt": "2023-08-28T19:27:54Z",
       "content": "Donald ditched the Republicans and Joe should ditch Donald.\nDespite skipping last week's first primary debate in Milwaukee and hinting that he may not debate at all in the primary, former President Donald Trump and his team reportedly view fall 2024 ... [4872 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693250874
     },
     {
       "source": {
@@ -379,7 +454,8 @@
         "impeachment",
         "executive_orders",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693250760
     }
   ]
 }

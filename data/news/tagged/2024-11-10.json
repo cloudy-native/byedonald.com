@@ -20,7 +20,8 @@
         "criminal_cases",
         "impeachment",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731282965
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "foreign_policy",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731282693
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/35c2e72dc61ae2e8ba0219e397e045fe3f5ae30f",
       "publishedAt": "2024-11-10T23:33:53Z",
       "content": "Copenhagen/Brussels | Attempts to stop some of the world’s biggest companies shifting profits across borders to avoid paying tax are “in peril” following Donald Trump’s definitive win in the US presidential election, experts said.\nA global deal inked... [311 chars]",
-      "tags": ["economy_finance", "taxes", "trade"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "trade"
+      ],
+      "publishedAtTs": 1731281633
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://pyxis.nymag.com/v1/imgs/08f/872/03d4ac959603ad9e4de135cc61806b0621-snl-buff-trump.1x.rsocial.w1200.png",
       "publishedAt": "2024-11-10T23:31:20Z",
       "content": "Sorry to everyone who bet money on Maya Rudolph’s Kamala Harris doing a mournful piano version of “Apple” by Charli XCX. Saturday Night Live decided to pivot right wing in their first post-election cold open. In a very “jk! jk!” way. Bowen Yang, Ego ... [645 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1731281480
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "elections_politics",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1731281410
     },
     {
       "source": {
@@ -105,7 +118,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731281040
     },
     {
       "source": {
@@ -119,7 +133,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump.png?id=52327535&width=1200&height=600&coordinates=0%2C103%2C0%2C103",
       "publishedAt": "2024-11-10T23:15:10Z",
       "content": "Donald Trump may have crushed his federal cases by winning the presidential election, but there's still a chance he gets some jail time in the state case in which he was already convicted, according to an expert who was in the room during the former ... [1498 chars]",
-      "tags": ["legal_justice", "personal_legal", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1731280510
     },
     {
       "source": {
@@ -133,7 +152,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/EJ7JK5QR25YDBLYW5IE2QXOOGE.jpg?smart=true&auth=bcd4cfee445ac2494361112e99f0d8b07f23a42777228cf33e20d1ea11fb6f59&width=1200&height=630",
       "publishedAt": "2024-11-10T23:12:16Z",
       "content": "Bill Burr, a cast member in \"Unfrosted,\" poses at the premiere of the Netflix film at the Egyptian Theatre, April 30, 2024, in Los Angeles. (AP Photo/Chris Pizzello, File)\nThe first “Saturday Night Live” since Donald Trump’s election victory began wi... [4355 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1731280336
     },
     {
       "source": {
@@ -153,7 +177,8 @@
         "legal_justice",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731280150
     },
     {
       "source": {
@@ -173,7 +198,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731279721
     },
     {
       "source": {
@@ -191,7 +217,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731279685
     },
     {
       "source": {
@@ -210,7 +237,8 @@
         "energy",
         "foreign_policy",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1731279612
     },
     {
       "source": {
@@ -224,7 +252,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_11_2024_10_17_41_1250639.jpg?width=920&format=jpeg",
       "publishedAt": "2024-11-10T22:55:46Z",
       "content": "In a significant diplomatic move, President-elect Donald Trump has initiated a conversation with Russian President Vladimir Putin, addressing the ongoing Ukraine conflict, according to sources familiar with the matter.\nAs Biden urges Trump to continu... [425 chars]",
-      "tags": ["foreign_policy", "russia", "ukraine", "policy_legislation"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1731279346
     },
     {
       "source": {
@@ -244,7 +278,8 @@
         "policy_legislation",
         "elections_politics",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1731279047
     },
     {
       "source": {
@@ -264,7 +299,8 @@
         "foreign_policy",
         "crisis_emergency",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731278740
     },
     {
       "source": {
@@ -283,7 +319,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731278084
     },
     {
       "source": {
@@ -303,7 +340,8 @@
         "policy_legislation",
         "regional_state",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731278037
     },
     {
       "source": {
@@ -317,7 +355,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/barbara-bush-r-seen-with-her-parents-george-w-bush-c-and-laura-bush-l-in-2008-has-endorsed-democrat-kamala-harris-in-th.png?id=54020447&width=1200&height=600&coordinates=0%2C97%2C0%2C98",
       "publishedAt": "2024-11-10T22:33:07Z",
       "content": "George W. Bush in a recent interview downplayed the division in the United States, simply telling citizens that they should \"turn to religion.\"\nFormer President Bush, who has criticized Donald Trump in the past but stopped short of endorsing Vice Pre... [576 chars]",
-      "tags": ["social_issues", "media_communications", "personal_family"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1731277987
     },
     {
       "source": {
@@ -337,7 +380,8 @@
         "nato",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1731277913
     },
     {
       "source": {
@@ -356,7 +400,8 @@
         "europe",
         "nato",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1731277828
     },
     {
       "source": {
@@ -374,7 +419,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731277800
     },
     {
       "source": {
@@ -388,7 +434,10 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/OCXUG4SH6BCE3LD6VDU7ZBUFKY.jpg?auth=e58b97800843be571b4f90c7a3eb3183e1855032bc3b4c511425c8b175579ac9&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2024-11-10T22:21:31Z",
       "content": "Open this photo in gallery: San Francisco 49ers defensive end Nick Bosa after a game against the Dallas Cowboys, on Oct. 27, in Santa Clara, Calif.Scot Tucker/The Associated Press\nLike the Democrats, North American sports leagues should by now unders... [5497 chars]",
-      "tags": ["media_communications"]
+      "tags": [
+        "media_communications"
+      ],
+      "publishedAtTs": 1731277291
     },
     {
       "source": {
@@ -406,7 +455,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731277001
     },
     {
       "source": {
@@ -426,7 +476,8 @@
         "ukraine",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1731276000
     },
     {
       "source": {
@@ -446,7 +497,8 @@
         "ukraine",
         "military",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1731275836
     }
   ]
 }

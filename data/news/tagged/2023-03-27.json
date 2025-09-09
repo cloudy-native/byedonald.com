@@ -19,7 +19,8 @@
         "legal_justice",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1679958669
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1679958000
     },
     {
       "source": {
@@ -51,7 +53,12 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/03/trump_rally.jpg",
       "publishedAt": "2023-03-27T22:41:48Z",
       "content": "Advertisment:\nOn March 25, 2023, former U.S. President Donald Trump held a rally for his 2024 presidential campaign in Waco, Texas. Claims soon spread that a \"pro-insurrection\" song was performed at the rally by a group called the \"J6 Prisoners Choir... [1836 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1679956908
     },
     {
       "source": {
@@ -70,7 +77,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1679956521
     },
     {
       "source": {
@@ -89,7 +97,8 @@
         "doj_actions",
         "congressional_investigations",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1679954208
     },
     {
       "source": {
@@ -103,7 +112,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/9961679948194/2023/1/8eff213dd295019f1e175981c028d8ab/v1.5/Trump-alleges-election-interference-as-NY-grand-jury-continues-hush-money-probe.jpg",
       "publishedAt": "2023-03-27T20:38:00Z",
       "content": "1/6\nSecurity guards and media stand outside of the The Louis J. Lefkowitz State Office Building in advance of a potential indictment of former US president Donald J. Trump in New York City on Monday. Photo by John Angelillo/UPI | License Photo\nMarch ... [2580 chars]",
-      "tags": ["legal_justice", "personal_legal", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1679949480
     },
     {
       "source": {
@@ -122,7 +136,8 @@
         "doj_actions",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1679948892
     },
     {
       "source": {
@@ -136,7 +151,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130123521-david-pecker-file.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-03-27T20:05:13Z",
       "content": "CNN —\nThe Manhattan grand jury investigating former President Donald Trump’s alleged role in a scheme to pay hush money to an adult film star adjourned Monday without taking a vote on whether to indict Trump, a source familiar with the proceeding tol... [2294 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679947513
     },
     {
       "source": {
@@ -150,7 +169,10 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/0d2a9419728ef810f55fb2acd0b7212f?impolicy=wcms_crop_resize&cropH=540&cropW=960&xPos=0&yPos=0&width=862&height=485",
       "publishedAt": "2023-03-27T19:52:26Z",
       "content": "(Reuters: Karen Toro)\nA landslide triggered by heavy rains in Ecuador's Andean region killed at least seven people, with 23 people hurt and almost 50 missing, the country's risk agency says.\nThe agency says that 32 people were rescued after a large a... [504 chars]",
-      "tags": ["public_health_emergency"]
+      "tags": [
+        "public_health_emergency"
+      ],
+      "publishedAtTs": 1679946746
     },
     {
       "source": {
@@ -164,7 +186,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/pencemike_021623gn44_w.jpg?w=1280",
       "publishedAt": "2023-03-27T19:24:07Z",
       "content": "Former Vice President Mike Pence will visit Iowa on Wednesday amid speculation that he could join former President Trump and former U.N. Ambassador Nikki Haley in the running for the GOP’s presidential primary in 2024.\nPence’s Great America Committee... [1230 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1679945047
     },
     {
       "source": {
@@ -178,7 +204,12 @@
       "urlToImage": "https://static.politico.com/f7/0b/c4c6ce944b99b19eb1f037b45acc/https-delivery-gettyimages.com/downloads/1249634888",
       "publishedAt": "2023-03-27T19:09:20Z",
       "content": "NEW YORK — A House Democrat stepped into the fray around Manhattan District Attorney Alvin Bragg’s investigation of Donald Trump, holding a rally in support of the progressive prosecutor Monday after his Republican counterparts demanded information a... [699 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679944160
     },
     {
       "source": {
@@ -192,7 +223,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/TrumpDeSantis-2.png?w=1280",
       "publishedAt": "2023-03-27T19:00:06Z",
       "content": "A super PAC aligned with Florida Gov. Ron DeSantis (R) is adding another former Trump campaign aide to its ranks.\nMatt Wolking, who served as deputy communications director for Trump’s last presidential bid, announced on Monday that he would join the... [2233 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1679943606
     },
     {
       "source": {
@@ -212,7 +247,8 @@
         "doj_actions",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1679943420
     },
     {
       "source": {
@@ -231,7 +267,8 @@
         "campaign_events",
         "texas",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1679942951
     },
     {
       "source": {
@@ -245,7 +282,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008852287.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-03-27T18:48:37Z",
       "content": "Former President Donald Trump went on another tirade against Manhattan District Attorney Alvin Bragg on Monday over the Democratic prosecutor’s effort to indict him over a “hush money” payment to adult film star Stormy Daniels.\n“ELECTION INTERFERENCE... [3825 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679942917
     },
     {
       "source": {
@@ -259,7 +301,12 @@
       "urlToImage": "https://compote.slate.com/images/d6af1248-1887-49ce-a741-1a1810455a0f.jpeg?crop=5788%2C3859%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-03-27T18:47:10Z",
       "content": "Former President Donald Trump once promised that under him, his supporters would “get tired of winning.” He must not have been talking about in the courtroom. On Friday it was reported that Trump has suffered yet another devastating judicial defeat i... [5539 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1679942830
     },
     {
       "source": {
@@ -273,7 +320,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/27/600x338/USA-TRUMP--0_1679960756340_1679960756340_1679961189537_1679961189537.JPG",
       "publishedAt": "2023-03-27T18:30:00Z",
       "content": "Nine days after Donald Trump announced he was about to be arrested over a hush-money payment to a porn star, the world still awaits what would be one of the most famous police mugshots in history.\nThe Republican former US president, who has never bee... [2952 chars]",
-      "tags": ["legal_justice", "personal_family", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "new_york"
+      ],
+      "publishedAtTs": 1679941800
     },
     {
       "source": {
@@ -287,7 +339,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/4938e63/2147483647/strip/true/crop/5046x2649+0+357/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F43%2Fc2%2F1995964848a3a6babb8634c13ea7%2Fap23084836032854.jpg",
       "publishedAt": "2023-03-27T18:22:33Z",
       "content": "TRUMP'S JAN. 6 NATIONAL ANTHEM MASHUP. Former President Donald Trump does not usually play the national anthem when he appears at rallies around the country. Trump enters the arena to the strains of Lee Greenwood's \"God Bless the USA.\" He walks aroun... [5602 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679941353
     },
     {
       "source": {
@@ -301,7 +358,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2214075/trump-rallygoers-leave-early-report.png",
       "publishedAt": "2023-03-27T18:01:34Z",
       "content": "The following is a lightly edited transcript of remarks made by Amani Wells-Onyioha during a Newsweek debate about the possibility of Donald Trump facing indictment. You can listen to the podcast here:\nI feel like this is going to help Donald Trump o... [2542 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1679940094
     },
     {
       "source": {
@@ -315,7 +377,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2214412/trump-gop-2024.jpg",
       "publishedAt": "2023-03-27T17:54:47Z",
       "content": "The following is a lightly edited transcript of remarks made by Jeff Charles during a Newsweek debate about the possibility of Donald Trump facing indictment. You can listen to the podcast here:\nTrump knows how to play the public relations game. He's... [2661 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1679939687
     }
   ]
 }

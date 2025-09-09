@@ -20,7 +20,8 @@
         "trade",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1740527817
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1740527734
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1740527453
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1740527126
     },
     {
       "source": {
@@ -97,7 +101,8 @@
         "legal_justice",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1740527091
     },
     {
       "source": {
@@ -116,7 +121,8 @@
         "policy_legislation",
         "healthcare",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1740526724
     },
     {
       "source": {
@@ -136,7 +142,8 @@
         "europe",
         "national_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1740526718
     },
     {
       "source": {
@@ -155,7 +162,8 @@
         "free_speech",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1740526695
     },
     {
       "source": {
@@ -174,7 +182,8 @@
         "foreign_policy",
         "policy_legislation",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1740526572
     },
     {
       "source": {
@@ -192,7 +201,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1740526433
     }
   ]
 }

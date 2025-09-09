@@ -14,7 +14,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/desntisron_091523gn03_w.jpg?w=1280",
       "publishedAt": "2023-09-17T23:05:14Z",
       "content": "Republican presidential candidate Ron DeSantis’s campaign targeted former President Trump for his comments on abortion during a new interview with NBC News.\nThe DeSantis War Room account attacked Trump on X, the platform formerly known as Twitter, fo... [2119 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1694991914
     },
     {
       "source": {
@@ -28,7 +33,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230917153112-03-donald-trump-0915.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-17T22:32:27Z",
       "content": "CNN —\nFormer President Donald Trump delivered a laundry list of his familiar election lies and other false claims – plus some new falsehoods on subjects ranging from abortion laws to his policy on dealing with drug cartels – in an interview that aire... [13248 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694989947
     },
     {
       "source": {
@@ -42,7 +51,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/ballys-bus-ferry-point-bronx-trump-links-golf-comp-01.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-09-17T22:05:53Z",
       "content": "Bally’s is betting big on the Bronx, launching a free shuttle bus service beginning Oct. 1 as part of its takeover of the former Trump Golf Links at Ferry Point.\n“Our patrons are at the heart of every decision we make. With this shuttle bus service, ... [4065 chars]",
-      "tags": ["regional_state", "personal_family", "economy_finance"]
+      "tags": [
+        "regional_state",
+        "personal_family",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1694988353
     },
     {
       "source": {
@@ -56,7 +70,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/09/donald-trump-1668663328.jpg",
       "publishedAt": "2023-09-17T21:51:43Z",
       "content": "In a one-hour interview with new \"Meet the Press\" moderator Kristen Welker, conducted at his Bedminster, New Jersey estate, Donald Trump addressed a number of questions pertaining to his 2024 campaign, but focused primarily on his legal woes.\nWhen as... [1017 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1694987503
     },
     {
       "source": {
@@ -76,7 +95,8 @@
         "economy_finance",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1694985601
     },
     {
       "source": {
@@ -90,7 +110,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230917-uaw-strike-mjf-1406-ff4ce9.jpg",
       "publishedAt": "2023-09-17T20:40:14Z",
       "content": "Here’s the biggest news you missed this weekend.\nUAW strike\nThe United Auto Workers continued to strike through the weekend as negotiations continued with the Big Three carmakers. The union said Saturday its talks with Ford were \"reasonably productiv... [6215 chars]",
-      "tags": ["economy_finance", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694983214
     },
     {
       "source": {
@@ -104,7 +128,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/rWFs1XE58dJd6TPL0HY6Us4IRJI=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24929383/1672364183.jpg",
       "publishedAt": "2023-09-17T20:14:06Z",
       "content": "Donald Trump appeared on NBC’s Meet the Press on Sunday, ostensibly to discuss his platform for the 2024 campaign — but ultimately responding to interviewer Kristen Welker’s questions with his trademark blend of self-aggrandizement and conspiracy the... [6579 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1694981646
     },
     {
       "source": {
@@ -118,7 +147,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/Joe-Biden-Donald-Trump-1.png?w=1280",
       "publishedAt": "2023-09-17T19:08:11Z",
       "content": "About a third of U.S. registered voters surveyed said they think President Biden would finish a second term if reelected, compared to a little more than half of voters who think the same for former President Trump, according to a poll.\nThe CBS News/Y... [2642 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1694977691
     },
     {
       "source": {
@@ -132,7 +165,12 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/7b59e324b5d9c69dada2458d693f6fc2",
       "publishedAt": "2023-09-17T18:44:26Z",
       "content": "Former President Donald Trump said that he received counsel from numerous people shortly after the 2020 election but that it was his decision to push the false claim he won the presidency and try to overturn the results.\n“It was my decision, but I li... [1772 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694976266
     },
     {
       "source": {
@@ -151,7 +189,8 @@
         "foreign_policy",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1694975040
     },
     {
       "source": {
@@ -170,7 +209,8 @@
         "education",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694974822
     },
     {
       "source": {
@@ -184,7 +224,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230820180146-donald-trump-campaign-rally-nh-080823.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-17T18:09:41Z",
       "content": "CNN —\nFormer President Donald Trump, who paved the way for the undoing of federal abortion rights protections, said that some Republicans “speak very inarticulately” about the issue and have pursued “terrible” state-level restrictions that could alie... [7042 chars]",
-      "tags": ["elections_politics", "social_issues", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1694974181
     },
     {
       "source": {
@@ -198,7 +243,12 @@
       "urlToImage": "https://www.reuters.com/resizer/C8XTj_P1HxB09ABes9A5hUVr8VE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XRWIOIVMAFNKNNUYR357AS7GDU.jpg",
       "publishedAt": "2023-09-17T18:01:21Z",
       "content": "Republican presidential candidate and former U.S. President Donald Trump speaks as he campaigns at the Iowa State Fair in Des Moines, Iowa, U.S. August 12, 2023. REUTERS/Evelyn Hockstein/File Photo Acquire Licensing Rights\nWASHINGTON, Sept 17 (Reuter... [2005 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694973681
     },
     {
       "source": {
@@ -216,7 +266,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1694973600
     },
     {
       "source": {
@@ -236,7 +287,8 @@
         "media_communications",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1694970597
     },
     {
       "source": {
@@ -250,7 +302,12 @@
       "urlToImage": "https://static.politico.com/84/dc/944530b9449db766d7258a6a1cdb/election-2024-trump-08665.jpg",
       "publishedAt": "2023-09-17T16:44:10Z",
       "content": "Former President Donald Trump said Sunday that he didn’t respect lawyers and members of his campaign who told him he lost the 2020 presidential election, and that it was his decision to buy into the theory that the election was rigged.\n“In many cases... [740 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694969050
     },
     {
       "source": {
@@ -264,7 +321,10 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230916223055-06-gop-candidates-faith-and-freedom-evangelical-voters.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-17T16:27:37Z",
       "content": "CNN —\nFormer Vice President Mike Pence on Sunday intensified his attacks on his former boss, hitting former President Donald Trump over everything from his abortion messaging to comments about the war in Ukraine.\n“When Donald Trump ran for president ... [2366 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694968057
     },
     {
       "source": {
@@ -278,7 +338,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2283174/key-moments-trump-meet-press-interview.jpg",
       "publishedAt": "2023-09-17T15:47:45Z",
       "content": "Former President Donald Trump addressed his legal battles, abortion and the Russia-Ukraine War during a wide-ranging interview on NBC News' Meet the Press that aired Sunday morning.\nTrump, who is running in the Republican presidential primary, sat do... [6272 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694965665
     },
     {
       "source": {
@@ -297,7 +362,8 @@
         "elections_politics",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1694965380
     },
     {
       "source": {
@@ -316,7 +382,8 @@
         "elections_politics",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1694964387
     },
     {
       "source": {
@@ -330,7 +397,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/b6fec06604e25e4c5f6e4b2da20846e5a5e1b890/0_364_5603_3364/master/5603.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=060e52a1e9033fc7e324095dce2871ed",
       "publishedAt": "2023-09-17T15:15:56Z",
       "content": "Donald Trump grappled with a wide range of contentious issues in an interview with NBC that generated criticism against the network, including his thoughts on democratic principles, abortion rights and ageing politicians.\nHe also confirmed his intere... [6201 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1694963756
     }
   ]
 }

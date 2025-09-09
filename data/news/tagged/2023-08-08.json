@@ -14,7 +14,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/de71cf1494ad6b172a2db84194a788213d91d52c/0_0_5257_3156/master/5257.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=261a30570bf2899e31f3c63c709c493f",
       "publishedAt": "2023-08-08T23:53:53Z",
       "content": "The Fulton county district attorney investigating Donald Trump’s efforts to overturn the 2020 election results in the state of Georgia is expected to present evidence to a grand jury and ask it to return indictments as early as next Tuesday, accordin... [4033 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691538833
     },
     {
       "source": {
@@ -34,7 +38,8 @@
         "doj_actions",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1691538456
     },
     {
       "source": {
@@ -48,7 +53,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2267223/donald-trump-protective-order-hearing-what-toknow.jpg",
       "publishedAt": "2023-08-08T23:40:43Z",
       "content": "The federal judge overseeing former President Donald Trump's 2020 election case has scheduled a hearing for Friday morning to discuss Special Counsel Jack Smith's requested protective order.\nThe hearing date was set after U.S. District Judge Tanya Ch... [3384 chars]",
-      "tags": ["legal_justice", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1691538043
     },
     {
       "source": {
@@ -68,7 +77,8 @@
         "supreme_court",
         "doj_actions",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1691537837
     },
     {
       "source": {
@@ -82,7 +92,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23215690610114.jpg?w=1280",
       "publishedAt": "2023-08-08T23:18:53Z",
       "content": "U.S. District Judge Tanya Chuktan on Tuesday evening set a 10 a.m. Friday hearing for a proposed protective order by prosecutors in Special Counsel Jack Smith’s case against former President Donald Trump for efforts to overturn the 2020 presidential ... [913 chars]",
-      "tags": ["legal_justice", "doj_actions", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1691536733
     },
     {
       "source": {
@@ -101,7 +116,8 @@
         "doj_actions",
         "criminal_cases",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1691535600
     },
     {
       "source": {
@@ -115,7 +131,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDhcXFwvMDkwNTI0MTdcXFwvZDJhYTE0YzBmN2QzNDRlYjhhNGQwMmI0Yjg2ZDRiZjcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhZGNhNjE4ODVlN2EwNDFmMTE5YjQ4N2QwNzllNzRhZWUyMDdmMzczIn0=/trump-calls-prosecutor-thug-and-vows-to-keep-talking-about-criminal-cases.jpg",
       "publishedAt": "2023-08-08T23:00:00Z",
       "content": "Former president Donald Trump has kept up his attacks on special counsel Jack Smith and vowed to continue talking about his criminal cases.\nHis comments came even as prosecutors sought a protective order to limit the evidence that Mr Trump and his te... [3317 chars]",
-      "tags": ["legal_justice", "criminal_cases", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691535600
     },
     {
       "source": {
@@ -129,7 +150,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-08T22:37:32Z",
       "content": "Donald Trump will attend the Iowa State Fair this Saturday, his campaign announced on Tuesday, a move likely designed to steal the limelight from his White House rivals, especially Florida Governor Ron DeSantis who will visit the event on the same da... [2052 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1691534252
     },
     {
       "source": {
@@ -143,7 +169,12 @@
       "urlToImage": "https://images.wsj.net/im-831862/social",
       "publishedAt": "2023-08-08T22:20:00Z",
       "content": "Holman W. Jenkins Jr. is a member of the editorial board of The Wall Street Journal. He writes the twice-weekly “Business World” column that appears on the paper's op-ed page on Wednesdays and Saturdays.\nMr. Jenkins joined the Journal in May 1992 as ... [596 chars]",
-      "tags": ["legal_justice", "policy_legislation", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691533200
     },
     {
       "source": {
@@ -157,7 +188,11 @@
       "urlToImage": "https://s.abcnews.com/images/Politics/pence-1-gty-er-230808_1691507276659_hpMain_16x9_608.jpg?w=1600",
       "publishedAt": "2023-08-08T22:15:27Z",
       "content": "Former Vice President Mike Pence speaks to supporters as he formally announces his intention to seek the Republican nomination for president, June 7, 2023, in Ankeny, Iowa.\nFormer Vice President Mike Pence speaks to supporters as he formally announce... [5078 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1691532927
     },
     {
       "source": {
@@ -171,7 +206,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2267211/trump-accuses-fani-willis-relationship-gangmember01.jpg",
       "publishedAt": "2023-08-08T22:11:28Z",
       "content": "Former President Donald Trump accused Fulton County District Attorney Fani Willis of having a relationship with a gang member during his rally in Windham, New Hampshire, on Tuesday afternoon.\nWillis is the Atlanta-area prosecutor expected to announce... [3920 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691532688
     },
     {
       "source": {
@@ -185,7 +225,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/08/multimedia/08evening-nl-trump/08nat-trump-georgia-mgqw-facebookJumbo.jpg",
       "publishedAt": "2023-08-08T22:07:10Z",
       "content": "The fourth criminal case against Donald Trump is likely to intensify next week, when Fani Willis, the district attorney in Fulton County, Ga., is expected to take her election interference case to a grand jury.\nWillis has focused her investigation on... [692 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691532430
     },
     {
       "source": {
@@ -199,7 +244,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_04_05_4766438.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-08T22:05:59Z",
       "content": "A federal judge presiding over former President Donald Trump's trial on charges of trying to overturn the 2020 election has ordered his attorneys and federal prosecutors to appear in court on Friday for a hearing to help determine how evidence can be... [2285 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691532359
     },
     {
       "source": {
@@ -213,7 +262,12 @@
       "urlToImage": "https://s.hdnux.com/photos/01/34/00/70/24120856/3/rawImage.jpg",
       "publishedAt": "2023-08-08T22:05:00Z",
       "content": "This is a carousel. Use Next and Previous buttons to navigate\nWINDHAM, N.H. (AP) — Former President Donald Trump on Tuesday blasted special counsel Jack Smith anew and vowed to continue campaigning on his criminal cases even as prosecutors seek a pro... [4214 chars]",
-      "tags": ["legal_justice", "personal_legal", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691532300
     },
     {
       "source": {
@@ -232,7 +286,8 @@
         "criminal_cases",
         "federal_courts",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1691532180
     },
     {
       "source": {
@@ -252,7 +307,8 @@
         "doj_actions",
         "criminal_cases",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1691532000
     },
     {
       "source": {
@@ -266,7 +322,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/08/multimedia/08pol-desantis-campaign-wjlc/08pol-desantis-campaign-wjlc-facebookJumbo.jpg",
       "publishedAt": "2023-08-08T21:53:59Z",
       "content": "Gov. Ron DeSantis of Florida is shaking up his presidential campaign — again.\nFor the third time in less than a month, Mr. DeSantis’s campaign announced a major restructuring, this time removing his embattled campaign manager, Generra Peck, and repla... [1314 chars]",
-      "tags": ["elections_politics", "florida", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1691531639
     },
     {
       "source": {
@@ -280,7 +341,11 @@
       "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/fan-made-Mortal-Kombat.png",
       "publishedAt": "2023-08-08T21:40:14Z",
       "content": "Fighting game fans are eagerly awaiting the launch of Mortal Kombat 1. Apart from being a new title from NetherRealm Studios, the game also reboots the long-time-running fighting series. The reboot allowed the developers to keep the favorite elements... [2441 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691530814
     },
     {
       "source": {
@@ -294,7 +359,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/Mw4S04xhDVKp1kJZ3i6ug7Wn2hQ=/1200x630/filters:format(jpg):quality(70):focal(1233x878:1243x888)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UFCEXN3XUFDY3CSWCC5REDUZLE.jpg",
       "publishedAt": "2023-08-08T21:38:00Z",
       "content": "Former Police Officer Salvatore Greco photographed during an interview in Midtown Manhattan Saturday. (Graham Rayman)\nA judge has dismissed parts of a lawsuit filed by former NYPD Officer Sal Greco over his firing because of his friendship with Donal... [3300 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691530680
     },
     {
       "source": {
@@ -308,7 +377,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000020245979.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-08-08T21:34:49Z",
       "content": "Former President Donald Trump took aim Tuesday at another popular Republican governor during a political rally in New Hampshire on Tuesday, calling Chris Sununu a “selfish, selfish guy” who “never helped” him.\nTrump slammed Sununu after a rally atten... [4684 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691530489
     },
     {
       "source": {
@@ -322,7 +396,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23215777550307-e1691155343122.jpg?w=1280",
       "publishedAt": "2023-08-08T21:33:22Z",
       "content": "When it comes to criminal cases, many lawyers advise their clients not to speak publicly about their cases.\nBut most clients are not former President Trump.\nAs Trump’s legal problems continue to pile up, the former president has remained outspoken on... [4803 chars]",
-      "tags": ["legal_justice", "personal_legal", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691530402
     },
     {
       "source": {
@@ -336,7 +415,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2267189/trump-may-have-give-campaignfunds-back.jpg",
       "publishedAt": "2023-08-08T21:24:09Z",
       "content": "A retired FBI official on Tuesday said Donald Trump may eventually be forced to return campaign funds.\nFrank Figliuzzi, a former assistant director for counterintelligence at the bureau, shared his thoughts on the matter while linking to an article f... [3709 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691529849
     },
     {
       "source": {
@@ -350,7 +434,12 @@
       "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/71c22d12-83e0-41e8-a5b1-ed93082228d3/c0f5e76b-de48-4641-adec-13f7fc375a6d/1280x720/match/image.jpg",
       "publishedAt": "2023-08-08T21:19:26Z",
       "content": "But Trump said Tuesday that he didn’t care, calling the charges against him “bullshit” and accusing President Joe Biden of “weaponizing” the Justice Department to take out a political rival.\n“They don’t want me to speak about a rigged election. They ... [1169 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691529566
     }
   ]
 }

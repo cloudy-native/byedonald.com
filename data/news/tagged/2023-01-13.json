@@ -14,7 +14,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/dumpLATVKBZ5zTtf-RGRZfcEr48=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GI3IJTTSD5MHFE6FGCAIO575NE.jpg",
       "publishedAt": "2023-01-13T23:53:22Z",
       "content": "Questioned for a lawsuit, former President Donald Trump hurled insults and threatened to sue the columnist who accused him of raping her in a department store in the 1990s, according to excerpts of his videotaped testimony unsealed by a court on Frid... [4513 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1673654002
     },
     {
       "source": {
@@ -33,7 +38,8 @@
         "personal_legal",
         "civil_litigation",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1673653281
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "personal_family",
         "civil_litigation",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1673652771
     },
     {
       "source": {
@@ -66,7 +73,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221104174000-donald-trump-file-060519.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-01-13T22:53:29Z",
       "content": "CNN —\nFormer President Donald Trump denied sexually assaulting former magazine columnist E. Jean Carroll and said he never pressured a woman to have sex with him in a deposition transcript that was unsealed Friday.\n“But it’s a false accusation. Never... [3548 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1673650409
     },
     {
       "source": {
@@ -85,7 +96,8 @@
         "personal_legal",
         "civil_litigation",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1673649008
     },
     {
       "source": {
@@ -104,7 +116,8 @@
         "elections_politics",
         "campaign_finance",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1673648580
     },
     {
       "source": {
@@ -124,7 +137,8 @@
         "legal_justice",
         "personal_family",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1673648499
     },
     {
       "source": {
@@ -138,7 +152,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/aSS4-b8kuiWia5s2JlGalCgGido=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LCKIDN2WLFFQZB5EG6ADWWDWUU.jpg",
       "publishedAt": "2023-01-13T22:20:24Z",
       "content": "A New York City judge on Friday unsealed portions of former President Donald Trump’s deposition in E. Jean Carroll’s rape and defamation lawsuit against him.\nManhattan Federal Court Judge Lewis Kaplan categorically rejected Trump’s arguments for keep... [1047 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1673648424
     },
     {
       "source": {
@@ -152,7 +170,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2179059/donald-trump-jr.png",
       "publishedAt": "2023-01-13T22:13:28Z",
       "content": "Donald Trump Jr. on Friday shared a post on social media that contained a joke about paying taxes hours after the Trump Organization was ordered to pay $1.6 million in fines for its conviction on felony tax fraud and other charges.\nTrump Jr., the eld... [2294 chars]",
-      "tags": ["taxes", "legal_justice", "personal_family"]
+      "tags": [
+        "taxes",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1673648008
     },
     {
       "source": {
@@ -170,7 +193,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1673647957
     },
     {
       "source": {
@@ -184,7 +208,12 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1453105-12-20230113101257.jpeg",
       "publishedAt": "2023-01-13T22:01:39Z",
       "content": "A common refrain heard after the midterms is that Donald Trump might be finished as the top dog in the GOP. In a New York Times essay, former aide Kellyanne Conway suggests wishful thinking is in play among his obsessed enemies as she makes the case ... [1270 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1673647299
     },
     {
       "source": {
@@ -204,7 +233,8 @@
         "civil_litigation",
         "criminal_cases",
         "supreme_court"
-      ]
+      ],
+      "publishedAtTs": 1673647044
     },
     {
       "source": {
@@ -223,7 +253,8 @@
         "doj_actions",
         "criminal_cases",
         "federal_courts"
-      ]
+      ],
+      "publishedAtTs": 1673645160
     },
     {
       "source": {
@@ -237,7 +268,12 @@
       "urlToImage": "https://images.wsj.net/im-702749/social",
       "publishedAt": "2023-01-13T21:26:00Z",
       "content": "Alvin Rosenfeld and Leslie Lenkowsky’s op-ed “Can the Biden Administration Define Anti-Semitism?” (Jan. 8), urging the Biden administration to adopt the International Holocaust Remembrance Alliance (IHRA) working definition of anti-Semitism, inaccura... [575 chars]",
-      "tags": ["foreign_policy", "legal_justice", "social_issues"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1673645160
     },
     {
       "source": {
@@ -251,7 +287,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/judge-dismisses-trump-jean-carroll-lawsuit-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-01-13T21:25:30Z",
       "content": "A federal judge on Friday shot down Donald Trump’s bid to dismiss a lawsuit filed against him by advice columnist E. Jean Carroll, who claims the former president sexually assaulted her in a Bergdorf Goodman dressing room more than two decades ago.\nC... [1866 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1673645130
     },
     {
       "source": {
@@ -270,7 +310,8 @@
         "doj_actions",
         "criminal_cases",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1673642832
     },
     {
       "source": {
@@ -284,7 +325,12 @@
       "urlToImage": "https://www.boston.com/wp-content/uploads/2023/01/Election_2024_Republicans_49679-63c1bb753c840-scaled.jpg",
       "publishedAt": "2023-01-13T20:24:21Z",
       "content": "Politics New Poll out of UMass-Amherst shows Desantis and Trump neck and neck \"GOP voters will have a difficult decision to make between two viable and popular candidates.” Then-President Donald Trump stands behind gubernatorial candidate Ron DeSanti... [3911 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1673641461
     },
     {
       "source": {
@@ -298,7 +344,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/NPCBzxgMIKnzZXPXstcg255qksU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ABB33GFUXBK4VVPW3QDMWCYA7U.jpg",
       "publishedAt": "2023-01-13T20:04:00Z",
       "content": "Donald Trump’s business empire will be forced to pay about $1.6 million (€1.47 million) in penalties after being convicted of running a 13-year tax fraud scheme in which executives were handed “off-the-books” perks including a luxury apartment, Merce... [3245 chars]",
-      "tags": ["personal_family", "taxes", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "taxes",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1673640240
     },
     {
       "source": {
@@ -312,7 +363,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230113143355-01-alvin-bragg-manhattan-da-011323.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-01-13T20:03:30Z",
       "content": "CNN —\nInvestigations into the Trump Organization’s business practices are entering a new chapter and will “go as long as the facts and the law require,” Manhattan District Attorney Alvin Bragg told CNN on Friday, even as he stressed that “a very impo... [1804 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1673640210
     },
     {
       "source": {
@@ -330,7 +385,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1673640100
     },
     {
       "source": {
@@ -344,7 +400,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/ae9c9f93d0a54159bca647b912aee56e.jpg?w=1280",
       "publishedAt": "2023-01-13T19:49:40Z",
       "content": "Former Trump adviser Stephen Bannon on Thursday asked to change his representation in the fraud case over the “We Build the Wall” funding campaign, according to ABC News.\nBannon was indicted in September, accused of defrauding donors to “We Build the... [1299 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_family"
+      ],
+      "publishedAtTs": 1673639380
     },
     {
       "source": {
@@ -358,7 +419,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/MeElTmT7Jt0b9BPY3AMPnJVOSzI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/PG5EM25LZBI3LCNXK7BDWBK24I.JPG",
       "publishedAt": "2023-01-13T19:16:55Z",
       "content": "Writer E. Jean Carroll can proceed with lawsuits alleging she was raped by former President Donald Trump in a department store a quarter century ago, a federal judge ruled Friday.CARLO ALLEGRI/Reuters\nA columnist can proceed with lawsuits alleging sh... [2663 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1673637415
     },
     {
       "source": {
@@ -377,7 +443,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1673637378
     },
     {
       "source": {
@@ -391,7 +458,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230112125345-03-steve-bannon-ny-hearing-011223.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-01-13T19:15:33Z",
       "content": "New York CNN —\nA New York judge has given Steve Bannon until the end of February to find new lawyers to advise him in a criminal fraud case after the former Donald Trump aide’s attorney said there were “irreconcilable differences” and communications ... [1162 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1673637333
     }
   ]
 }

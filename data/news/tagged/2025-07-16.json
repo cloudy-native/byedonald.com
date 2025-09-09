@@ -14,7 +14,12 @@
       "urlToImage": "https://media.wired.com/photos/6876abf629002effc2c6739b/191:100/w_1280,c_limit/Pittsburgh-AI-Summit-Science-2225249320.jpg",
       "publishedAt": "2025-07-16T16:16:45Z",
       "content": "The industry is finding a willing partner in the Trump administration. Since taking office, Trump has used AI as a lever to open up opportunities for fossil fuels, including a well-publicized effort … [+2859 chars]",
-      "tags": ["energy", "economy_finance", "technology_regulation"]
+      "tags": [
+        "energy",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752682605
     },
     {
       "source": {
@@ -33,7 +38,8 @@
         "security_intelligence",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752687000
     },
     {
       "source": {
@@ -47,7 +53,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2021/11/285f57bdfd7b26bf6f9a13d701f22f7f.jpg",
       "publishedAt": "2025-07-16T21:15:38Z",
       "content": "Back in April, Donald Trump fired three Democratic members of the board at the Corporation for Public Broadcasting (CPB), a move similar to his efforts to oust Democrats from the Federal Trade Commis… [+2466 chars]",
-      "tags": ["government_administration", "legal_justice"]
+      "tags": [
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752700538
     },
     {
       "source": {
@@ -61,7 +71,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/NASA-sign-1200x675.jpg",
       "publishedAt": "2025-07-16T09:00:40Z",
       "content": "Since taking office in January, the Trump administration has launched a major effort to limit public access to information about climate change. After the president canned the official government sit… [+5081 chars]",
-      "tags": ["environment", "government_administration"]
+      "tags": [
+        "environment",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752656440
     },
     {
       "source": {
@@ -75,7 +89,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/CFPBprotest-1200x675.jpg",
       "publishedAt": "2025-07-16T15:55:36Z",
       "content": "Yet another Biden-era reform intended to make life easier for some Americans has been quashed. Late last week, a Trump-appointed federal judge struck down a rule issued by the Consumer Financial Prot… [+2823 chars]",
-      "tags": ["policy_legislation", "economy_finance"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752681336
     },
     {
       "source": {
@@ -94,7 +112,8 @@
         "healthcare",
         "economy_finance",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1752694962
     },
     {
       "source": {
@@ -108,7 +127,11 @@
       "urlToImage": "https://i.insider.com/68781ddff748d8c055f5c1a9?width=1200&format=jpeg",
       "publishedAt": "2025-07-16T22:09:33Z",
       "content": "President Donald Trump on Wednesday said a \"better\" version of Coca-Cola products was on its way.\r\nIn a Truth Social post, the president said he'd been working on a deal with the beverage company to … [+1295 chars]",
-      "tags": ["economy_finance", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752703773
     },
     {
       "source": {
@@ -122,7 +145,11 @@
       "urlToImage": "https://i.insider.com/687762253d5881a51c1d680d?width=1145&format=jpeg",
       "publishedAt": "2025-07-16T15:04:51Z",
       "content": "Elon Musk is right to worry about America's debt problem and bitcoin is no more valuable than a flower, author Nassim Nicholas Taleb said in a wide-ranging interview with Business Insider.\r\nTaleb pop… [+3105 chars]",
-      "tags": ["economy_finance", "taxes"]
+      "tags": [
+        "economy_finance",
+        "taxes"
+      ],
+      "publishedAtTs": 1752678291
     },
     {
       "source": {
@@ -140,7 +167,8 @@
         "security_intelligence",
         "immigration",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752644786
     },
     {
       "source": {
@@ -154,7 +182,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7243x4074+0+377/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2Fd9%2F74ae8ca846398c99fb1e51eea4a9%2Fgettyimages-2206434753.jpg",
       "publishedAt": "2025-07-16T09:00:00Z",
       "content": "The Senate voted by a razor-thin margin late Tuesday to advance debate on a package of funding cuts requested by President Trump. They're aimed at clawing back $1.1 billion previously allocated to th… [+6832 chars]",
-      "tags": ["policy_legislation", "budget"]
+      "tags": [
+        "policy_legislation",
+        "budget"
+      ],
+      "publishedAtTs": 1752656400
     },
     {
       "source": {
@@ -173,7 +205,8 @@
         "immigration",
         "voting_rights",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752676383
     },
     {
       "source": {
@@ -187,7 +220,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5142x2892+0+252/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F6c%2Fc667c13b4a0bb493712ce7724de4%2Fgettyimages-2197432945.jpg",
       "publishedAt": "2025-07-16T23:52:24Z",
       "content": "The Trump administration says it has a compelling reason to ask the Senate to claw back $7.9 billion in foreign aid funds that Congress had approved prior to his taking office: evidence of what Presi… [+9456 chars]",
-      "tags": ["government_administration", "policy_legislation"]
+      "tags": [
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752709944
     },
     {
       "source": {
@@ -201,7 +238,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5827x3278+0+361/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2Ff9%2Ff4708b744b5da5dbd01c168f9e6e%2Fgettyimages-2219832721.jpg",
       "publishedAt": "2025-07-16T09:00:00Z",
       "content": "If you've wanted to install rooftop solar panels or buy an electric vehicle in recent years, you've probably been able to get federal money for them in the form of tax credits.\r\nBut those incentives … [+6463 chars]",
-      "tags": ["energy", "environment", "economy_finance"]
+      "tags": [
+        "energy",
+        "environment",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752656400
     },
     {
       "source": {
@@ -215,7 +257,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F7d%2Ff4bd2bc04d0a8c46cb788282f75b%2F20250709-npr-wimberley-0102.JPG",
       "publishedAt": "2025-07-16T09:00:00Z",
       "content": "WIMBERLEY, Texas On a hot and humid mid-July afternoon, cars rumble down the streets of downtown Wimberley. Visitors browse Western-themed shops boasting vintage cowboy boots, cacti and local wine. F… [+7929 chars]",
-      "tags": ["natural_disasters", "regional_state", "texas"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "texas"
+      ],
+      "publishedAtTs": 1752656400
     },
     {
       "source": {
@@ -229,7 +276,12 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
       "publishedAt": "2025-07-16T13:00:00Z",
       "content": "Chinese firms have begun rushing to order Nvidia's H20 AI chips as the company plans to resume sales to mainland China, Reuters reports. The chip giant expects to receive US government licenses soon … [+1931 chars]",
-      "tags": ["trade", "technology_regulation", "economy_finance"]
+      "tags": [
+        "trade",
+        "technology_regulation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752670800
     },
     {
       "source": {
@@ -243,7 +295,11 @@
       "urlToImage": "https://i.insider.com/687782743d5881a51c1d685a?width=1200&format=jpeg",
       "publishedAt": "2025-07-16T11:25:13Z",
       "content": "Embraer CEO Francisco Gomes Neto.SAJJAD HUSSAIN/AFP via Getty Images\r\n<ul><li>Embraer's CEO warned tariffs could harm the company as much as the pandemic did.</li><li>Trump has proposed a 50% levy on… [+2701 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752665113
     },
     {
       "source": {
@@ -257,7 +313,11 @@
       "urlToImage": "https://i.insider.com/6877274a3d5881a51c1d66b1?width=1200&format=jpeg",
       "publishedAt": "2025-07-16T05:08:48Z",
       "content": "Russia's foreign minister, Sergey Lavrov, meets other Kremlin officials at a Victory Day parade.Anadolu/Anadolu Agency via Getty Images\r\n<ul><li>Russia is brushing aside Trump's 50-day tariff ultimat… [+3466 chars]",
-      "tags": ["foreign_policy", "trade"]
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752642528
     },
     {
       "source": {
@@ -271,7 +331,12 @@
       "urlToImage": "https://i.insider.com/687160333d5881a51c1d3546?width=1200&format=jpeg",
       "publishedAt": "2025-07-16T09:55:01Z",
       "content": "Scott Williams, CEO of Batteries Plus, started moving his company's sourcing away from China after Donald Trump's first trade war in 2018.Batteries Plus\r\n<ul><li>Companies are rethinking their sourci… [+3994 chars]",
-      "tags": ["economy_finance", "trade", "energy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1752659701
     },
     {
       "source": {
@@ -285,7 +350,8 @@
       "urlToImage": "https://i.insider.com/6877efb085e81483682e21e1?width=1200&format=jpeg",
       "publishedAt": "2025-07-16T18:56:22Z",
       "content": "David SolomonJeenah Moon/Bloomberg via Getty Images\r\n<ul><li>Goldman Sachs reported strong second-quarter revenue on Wednesday.</li><li>One especially strong area was IB advisory, where revenue was u… [+4258 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752692182
     },
     {
       "source": {
@@ -299,7 +365,12 @@
       "urlToImage": null,
       "publishedAt": "2025-07-16T15:40:23Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["regional_state", "policy_legislation", "crisis_emergency"]
+      "tags": [
+        "regional_state",
+        "policy_legislation",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752680423
     },
     {
       "source": {
@@ -313,7 +384,10 @@
       "urlToImage": "https://media.zenfs.com/en/usa_today_news_641/e14ccc39cc44c6f6fb75cca7a1fb344d",
       "publishedAt": "2025-07-16T15:00:24Z",
       "content": "WASHINGTON President Donald Trump expressed bewilderment at the interest his supporters have in the Jeffrey Epstein case as top MAGA voices press for the full release of documents in the government's… [+4242 chars]",
-      "tags": ["legal_justice"]
+      "tags": [
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752678024
     },
     {
       "source": {
@@ -327,7 +401,11 @@
       "urlToImage": null,
       "publishedAt": "2025-07-16T15:11:42Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["social_issues", "environment"]
+      "tags": [
+        "social_issues",
+        "environment"
+      ],
+      "publishedAtTs": 1752678702
     },
     {
       "source": {
@@ -341,7 +419,10 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/341d3f46759f7810ed1af822d84949f0",
       "publishedAt": "2025-07-16T02:19:21Z",
       "content": "President Trumps disapproval rating is at its highest level since the start of his second term, according to the latest Economist/YouGov poll.\r\nThe survey, conducted over the weekend, shows 55 percen… [+2108 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752632361
     },
     {
       "source": {
@@ -355,7 +436,10 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/fb10268b5f391051e4b545f335872887",
       "publishedAt": "2025-07-16T07:59:08Z",
       "content": "DUBAI (Reuters) -Iran's parliament said the country should not resume nuclear negotiations with the United States until preconditions are met, in a statement reported on Wednesday by Iranian state me… [+1760 chars]",
-      "tags": ["foreign_policy"]
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752652748
     },
     {
       "source": {
@@ -369,7 +453,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/910922a81e24b577712e5dfb10d52639",
       "publishedAt": "2025-07-16T14:57:52Z",
       "content": "By Nupur Anand\r\nNEW YORK (Reuters) -Bank of America has been working on stablecoins like the rest of the industry and investors can expect the lender to move forward on this, CEO Brian Moynihan said … [+1601 chars]",
-      "tags": ["cryptocurrency", "banking", "economy_finance"]
+      "tags": [
+        "cryptocurrency",
+        "banking",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752677872
     },
     {
       "source": {
@@ -383,7 +472,11 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/af18369e2cfda28ed9dc638b90902258",
       "publishedAt": "2025-07-16T15:30:00Z",
       "content": "Democratic socialist Zohran Mamdanis New York City mayoral primary victory is the Democrats latest lurch toward socialism. It is hardly new or rare. Over the last decade, Democrats have in fact gone … [+5232 chars]",
-      "tags": ["policy_legislation", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752679800
     },
     {
       "source": {
@@ -401,7 +494,8 @@
         "regional_state",
         "natural_disasters",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752686640
     },
     {
       "source": {
@@ -415,7 +509,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c5d55ebd-4f6f-4a5b-ba8f-fed9b88b0ea6/comey-ap-er-250716_1752704952280_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-16T22:52:17Z",
       "content": "The Justice Department on Wednesday fired Maurene Comey from the United States Attorney's Office for the Southern District of New York, where she most recently led the prosecution of Sean \"Diddy\" Com… [+1498 chars]",
-      "tags": ["government_administration", "personnel", "doj_actions"]
+      "tags": [
+        "government_administration",
+        "personnel",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1752706337
     },
     {
       "source": {
@@ -429,7 +528,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/20209147-6047-428d-a2c6-040ea734f3a7/Ukraine-drone-damage-DB-250716_1752651965308_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-16T10:42:44Z",
       "content": "LONDON -- This week marked a possible pivot by President Donald Trump regarding Russia's ongoing full-scale invasion of Ukraine, with his Monday announcement of a \"really big\" deal to provide Kyiv wi… [+4771 chars]",
-      "tags": ["foreign_policy", "russia", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752662564
     },
     {
       "source": {
@@ -443,7 +547,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/562816fa-7d64-47c9-86c9-ea8bcdd3928d/donald-trump-03-jef-250716_1752668836813_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-16T17:30:57Z",
       "content": "President Donald Trump continued Wednesday to dismiss calls within his own party for more transparency into the Jeffrey Epstein investigation and made claims, without evidence, that the controversy w… [+1634 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752687057
     },
     {
       "source": {
@@ -457,7 +565,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/72a2779e-cc04-49b0-9816-1a463a14a32f/trump-10-gty-er-250715_1752608776297_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-16T21:01:20Z",
       "content": "President Donald Trump continues to face backlash from his MAGA supporters over his administration's handling of the Jeffrey Epstein files.\r\nThe Justice Department and FBI said in a brief memo that a… [+8086 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752699680
     },
     {
       "source": {
@@ -471,7 +583,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/67c0e083-c037-4802-be13-faa67142ab05/250716_abc_social_trump_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:15:43Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": ["cryptocurrency", "policy_legislation"]
+      "tags": [
+        "cryptocurrency",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752704143
     },
     {
       "source": {
@@ -485,7 +601,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/21bfa39d-bfc5-49e3-bdfd-b0c805773d6f/trump-main_1752575548836_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-07-16T09:12:25Z",
       "content": "LONDON -- President Donald Trump had promised a \"major statement\" on Russia on Monday, and it did look like a big shift in his approach to the war in Ukraine. But significant uncertainty remains amid… [+4939 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1752657145
     },
     {
       "source": {
@@ -499,7 +619,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e88c210c-24f1-4867-b4ad-f1522be592af/250716_abc_social_lightning_striking_nj_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T05:11:12Z",
       "content": "<ul><li>GOP Sen. Hawley says Ghislaine Maxwell should testify before the Senate\r\n</li><li>We need to help Ukraine, says former US ambassador to NATO\r\n</li><li>New 'flag system' at Gaza aid site unvei… [+4489 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752642672
     },
     {
       "source": {
@@ -513,7 +634,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b024e3c9-9157-49a2-9493-171bda0efc9d/250716_abc_social_runyon_arsonist_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-07-16T05:11:23Z",
       "content": "<ul><li>GOP Sen. Hawley says Ghislaine Maxwell should testify before the Senate\r\n</li><li>We need to help Ukraine, says former US ambassador to NATO\r\n</li><li>New 'flag system' at Gaza aid site unvei… [+4489 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752642683
     },
     {
       "source": {
@@ -527,7 +649,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b1b1399b-754a-4886-8ef0-4dd2298b1eea/250716_abc_social_christian_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:29:00Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752704940
     },
     {
       "source": {
@@ -541,7 +664,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7a252dca-52bc-4895-aa8c-94dc486260da/250716_abc_social_emmy_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:16:26Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752704186
     },
     {
       "source": {
@@ -555,7 +679,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/da0d00d7-55b1-4c03-a676-b0918d558e33/250716_abc_social_softball_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:13:24Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752704004
     },
     {
       "source": {
@@ -569,7 +694,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f3abf915-ea54-4bc7-8f20-e3dc06b966e3/250716_abc_social_miley_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:29:50Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752704990
     },
     {
       "source": {
@@ -583,7 +709,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f105057c-eabd-456a-ae94-d6c21e8ac110/250716_abc_social_project_runway_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:28:56Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752704936
     },
     {
       "source": {
@@ -597,7 +724,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/98ab4d28-3e30-4daa-bf7c-f24e17c86305/250716_abc_social_raccoon_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-16T22:12:58Z",
       "content": "<ul><li> Trump says it's 'highly unlikely' he'll fire Fed's Powell\r\n</li><li>Israel strikes Syrian military headquarters, IDF says\r\n</li><li>Multiple Louisiana law enforcement leaders charged in immi… [+4593 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752703978
     },
     {
       "source": {
@@ -611,7 +739,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/donald-trump-july-15-2025-1200x675.jpg",
       "publishedAt": "2025-07-16T13:10:00Z",
       "content": "President Donald Trump appeared at an event in Pennsylvania on Tuesday to promote investment in artificial intelligence. But in classic Trump fashion, he veered into a story that had nothing to do wi… [+3072 chars]",
-      "tags": ["personal_family", "media_communications"]
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752671400
     },
     {
       "source": {
@@ -625,7 +757,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/donald-trump-july-16-2025-1200x675.jpg",
       "publishedAt": "2025-07-16T18:35:02Z",
       "content": "Reports leaked Wednesday that President Donald Trump was getting ready to fire the chairman of the Federal Reserve, Jerome Powell. The news caused markets to dip, but TACO, the popular Wall Street ac… [+5475 chars]",
-      "tags": ["government_administration", "economy_finance"]
+      "tags": [
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752690902
     },
     {
       "source": {
@@ -639,7 +775,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2021/09/df4df207f8e4f1a17115a13e65ffa60b.jpg",
       "publishedAt": "2025-07-16T03:44:40Z",
       "content": "Joe Rogan is furious with Donald Trump, and he is making it known. The hugely popular podcaster, whose audience consists of millions of loyal listeners, feels betrayed by a president he controversial… [+5328 chars]",
-      "tags": ["legal_justice", "social_issues"]
+      "tags": [
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752637480
     },
     {
       "source": {
@@ -653,7 +793,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/W-JIIExnepKenjNgK9B9D6l0qx8=/0x43:2000x1085/1200x625/media/img/mt/2025/07/2025_07_16_Epstein_mpg/original.jpg",
       "publishedAt": "2025-07-16T16:35:00Z",
       "content": "Donald Trump had two opportunities yesterday, and another this morning, to dispel any nagging sense that he is hiding incriminating information about his relationship with Jeffrey Epstein. He did not… [+5043 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752683700
     },
     {
       "source": {
@@ -667,7 +811,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Hd33TI5pt_i3lAKpQqbUEJ8-WrQ=/2x0:2000x1041/1200x625/media/img/mt/2025/07/atlantic_children_final/original.jpg",
       "publishedAt": "2025-07-16T10:00:00Z",
       "content": "In the Trump administration’s escalating effort to deport millions of undocumented immigrants, next up was Brian, age 7, who took a seat alone before a judge in a Manhattan courtroom recently. His sh… [+20228 chars]",
-      "tags": ["immigration", "social_issues", "legal_justice"]
+      "tags": [
+        "immigration",
+        "social_issues",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752660000
     },
     {
       "source": {
@@ -681,7 +830,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/pjh-xLOdxCH4eN5rqbYyeqYJRjs=/0x43:2000x1085/1200x625/media/img/mt/2025/07/2025_07_10_rfk2_mpg/original.jpg",
       "publishedAt": "2025-07-16T19:26:00Z",
       "content": "Robert F. Kennedy Jr. has spent a lot of his time as health secretary on the road. Late last month, he spoke at an event in Baton Rouge and lamented how Americans have gotten sicker and sicker over t… [+7481 chars]",
-      "tags": ["social_issues", "health_science"]
+      "tags": [
+        "social_issues",
+        "health_science"
+      ],
+      "publishedAtTs": 1752693960
     },
     {
       "source": {
@@ -695,7 +848,8 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/AfVO360I-C5fk978YbySVSuFRVQ=/0x27:1200x652/1200x625/media/img/mt/2025/07/2025_07_16_Andrea_Gibson_Appreciation/original.jpg",
       "publishedAt": "2025-07-16T19:21:00Z",
       "content": "When the poet Andrea Gibson learned two years ago that their ovarian cancer was incurable, the news marked a turning point; Gibson would often say it led to some of the most joyous moments of their l… [+5664 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752693660
     },
     {
       "source": {
@@ -709,7 +863,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2596/live/a5718970-6281-11f0-83d2-4f671b8c1523.jpg",
       "publishedAt": "2025-07-16T20:45:30Z",
       "content": "Anthony Zurcher\r\nAs Donald Trump continues to be dogged by questions about his administration's handling of possible files related to deceased sex offenderJeffrey Epstein, he is relying on a tried an… [+5330 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752698730
     },
     {
       "source": {
@@ -723,7 +881,11 @@
       "urlToImage": "https://www.oregonlive.com/resizer/v2/D5C7G74LXZDNLBCZZZ5DTBP6SQ.jpg?auth=77fab378361fcb0146e63acc981c6aa4c39d0d0d3be453504b443c53c7d09dd2&width=1280&quality=90",
       "publishedAt": "2025-07-16T19:08:39Z",
       "content": "Over the five decades Intel has operated in Oregon, its local footprint had moved in just one direction: Upward.\r\nFrom a single factory in Aloha that opened in 1976, the chipmaker grew into the state… [+7598 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752692919
     },
     {
       "source": {
@@ -737,7 +899,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rHlEGAoCYqCBx.7642M9nA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/d068cbe5262c09c911574dd026a1adcf",
       "publishedAt": "2025-07-16T15:59:39Z",
       "content": "WASHINGTON (AP) Online firearms seller GrabAGun Digital Holdings, with the stock ticker PEW, made its market debut on Wednesday after board member and son of the U.S. president, Donald Trump Jr., ran… [+1727 chars]",
-      "tags": ["gun_policy", "economy_finance", "personal_family"]
+      "tags": [
+        "gun_policy",
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752681579
     },
     {
       "source": {
@@ -751,7 +918,11 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/c34c54986a26d45137d6439f20ae70a2",
       "publishedAt": "2025-07-16T12:54:56Z",
       "content": "By Maria Martinez\r\nBERLIN (Reuters) -U.S. President Donald Trump's tariffs threaten the American economy at least as much the European one, German Finance Minister Lars Klingbeil said on Wednesday, c… [+890 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752670496
     },
     {
       "source": {
@@ -765,7 +936,12 @@
       "urlToImage": null,
       "publishedAt": "2025-07-16T20:28:09Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752697689
     },
     {
       "source": {
@@ -779,7 +955,8 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/5b6c97804a97a2143c04218d320dd3cd",
       "publishedAt": "2025-07-16T15:55:07Z",
       "content": "LONDON/NEW YORK (Reuters -The dollar fell sharply on Wednesday after Bloomberg, citing an unidentified White House official, reported U.S. President Donald Trump is likely to fire Federal Reserve Cha… [+2482 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752681307
     },
     {
       "source": {
@@ -793,7 +970,8 @@
       "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/57ef8a0d480fb0c7c7e7b3ee4b1ff139",
       "publishedAt": "2025-07-16T16:04:46Z",
       "content": "CNN host Abby Phillip chastised the networks MAGA mouthpiece Scott Jennings for derailing the conversation after accusing fellow panelists of lying about the price of eggs. During a discussion about … [+450 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752681886
     },
     {
       "source": {
@@ -807,7 +985,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/U4gseVqsQ56QBdCGa1lNCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/1ccc5d5b9f3e2b0ed1d0325e30c07996",
       "publishedAt": "2025-07-16T20:18:12Z",
       "content": "A former senior aide of Jill Biden has declined to answer questions on her husbands mental state while he was in office.\r\nAnthony Bernal, who served as chief of staff to the former first lady, pleade… [+2729 chars]",
-      "tags": ["personal_family", "government_administration"]
+      "tags": [
+        "personal_family",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752697092
     },
     {
       "source": {
@@ -821,7 +1003,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64383-134147-000-lead-iPhone-16e-xl.jpg",
       "publishedAt": "2025-07-16T10:35:50Z",
       "content": "US regulator ITC is recommending that BOE smartphone displays, such as those in some iPhones, should be banned, following a preliminary ruling in Samsung's case against its rival. \r\nBack in 2023, bot… [+3307 chars]",
-      "tags": ["trade", "technology_regulation", "foreign_policy"]
+      "tags": [
+        "trade",
+        "technology_regulation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752662150
     },
     {
       "source": {
@@ -835,7 +1022,12 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/15cfa8c99481e150e8a70ebd194f3eaa1b7cd451/hub/2025/07/15/80aaa46d-9ecf-4acb-8976-156985e72cbe/gettyimages-2206481891.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-07-16T15:00:05Z",
       "content": "It's not just iPhones and TVs that might cost more. President Donald Trump's tariff policies might be driving up the cost of electric vehicles and combustion cars, too. EVs, in fact, might be especia… [+7299 chars]",
-      "tags": ["economy_finance", "energy", "trade"]
+      "tags": [
+        "economy_finance",
+        "energy",
+        "trade"
+      ],
+      "publishedAtTs": 1752678005
     },
     {
       "source": {
@@ -849,7 +1041,12 @@
       "urlToImage": "https://media.pitchfork.com/photos/6877ccdcd4958290ea028a9f/16:9/w_1280,c_limit/Yelle.jpeg",
       "publishedAt": "2025-07-16T18:27:40Z",
       "content": "Back in February, Yelle announced a tour to celebrate their 20th anniversary. The French electropop band has now canceled the North American leg of the tour, citing the current political climate in t… [+2507 chars]",
-      "tags": ["social_issues", "immigration", "free_speech"]
+      "tags": [
+        "social_issues",
+        "immigration",
+        "free_speech"
+      ],
+      "publishedAtTs": 1752690460
     },
     {
       "source": {
@@ -867,7 +1064,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752668762
     },
     {
       "source": {
@@ -886,7 +1084,8 @@
         "social_issues",
         "health_science",
         "public_health_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752683015
     },
     {
       "source": {
@@ -900,7 +1099,11 @@
       "urlToImage": "https://www.jalopnik.com/img/gallery/heartbreaking-worst-person-you-know-has-good-ideas-to-eliminate-tsa-security-theater/l-intro-1752707451.jpg",
       "publishedAt": "2025-07-16T23:12:13Z",
       "content": "Noem brought up the proposed policy change at Wednesday's Hill Nation Sumit, a media event replete with business leaders, government power players, and reporters. According to The Hill, Noem said, \"B… [+1041 chars]",
-      "tags": ["security_intelligence", "transportation"]
+      "tags": [
+        "security_intelligence",
+        "transportation"
+      ],
+      "publishedAtTs": 1752707533
     },
     {
       "source": {
@@ -914,7 +1117,11 @@
       "urlToImage": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/china-solar-01.jpg",
       "publishedAt": "2025-07-16T18:58:12Z",
       "content": "Over at the Atlantic, Alan Taylor has collected a bunch of photos showing just how hard China is pushing on solar energy.\n\nAs the Trump administration’s “Big, Beautiful Bill” eliminates many clean-en… [+863 chars]",
-      "tags": ["environment", "energy"]
+      "tags": [
+        "environment",
+        "energy"
+      ],
+      "publishedAtTs": 1752692292
     },
     {
       "source": {
@@ -928,7 +1135,8 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/9/2/3/1333923.jpg",
       "publishedAt": "2025-07-16T15:30:00Z",
       "content": "The crimes of Jeffrey Epstein arent funny. He ruined countless lives and created an unprecedented network of pedophilia and exploitation. He died before he could answer for any of it, before he could… [+2785 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752679800
     },
     {
       "source": {
@@ -942,7 +1150,10 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/2/3/0/1334230.jpg",
       "publishedAt": "2025-07-16T21:30:00Z",
       "content": "Five seasons. Nine years. Child stars married. Netflix budgets blown. The Duffer Brothers unprecedented level of creative control. Its been a long road for Stranger Things. With the release of the tr… [+2540 chars]",
-      "tags": ["media_communications"]
+      "tags": [
+        "media_communications"
+      ],
+      "publishedAtTs": 1752701400
     },
     {
       "source": {
@@ -956,7 +1167,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9BoQoQWUnLxtKLqz7UqEZY.jpg",
       "publishedAt": "2025-07-16T21:00:00Z",
       "content": "A major climate report, the U.S. government's primary, peer-reviewed climate assessment that is completed every four to five years, will not be published on NASA's website, reversing course after the… [+2603 chars]",
-      "tags": ["environment", "health_science"]
+      "tags": [
+        "environment",
+        "health_science"
+      ],
+      "publishedAtTs": 1752699600
     },
     {
       "source": {
@@ -970,7 +1185,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-16T20:31:02Z",
       "content": "from the make-America-segregated-again dept\r\nTrump claims to love the military. Of course, he loves himself even more. And he tends to view those injured, killed, or captured by enemy forces as “suck… [+7318 chars]",
-      "tags": ["government_administration", "social_issues", "military"]
+      "tags": [
+        "government_administration",
+        "social_issues",
+        "military"
+      ],
+      "publishedAtTs": 1752697862
     },
     {
       "source": {
@@ -984,7 +1204,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-16T16:30:34Z",
       "content": "from the rogue-administration dept\r\nThe Trump administration continues to demonstrate it cares nothing for the law, despite repeated claims that it’s here to restore respect for the rule of law. It’s… [+4765 chars]",
-      "tags": ["government_administration", "legal_justice", "immigration"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1752683434
     },
     {
       "source": {
@@ -998,7 +1223,12 @@
       "urlToImage": "http://img.youtube.com/vi//0.jpg",
       "publishedAt": "2025-07-16T12:27:34Z",
       "content": "from the this-is-why-we-can't-have-nice-things dept\r\nLast January, Democratic California Assemblymember Tasha Boerner introduced the California Affordable Home Internet Act (AB 353), which mandated t… [+4665 chars]",
-      "tags": ["economy_finance", "technology_regulation", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752668854
     },
     {
       "source": {
@@ -1012,7 +1242,11 @@
       "urlToImage": "https://imagez.tmz.com/image/71/16by9/2025/07/16/7166df1f2ae7404dbb71012c9037a66d_xl.jpg",
       "publishedAt": "2025-07-16T12:41:47Z",
       "content": "Rosie O'Donnell is continuing her seemingly never-ending feud with President Trump ... saying she wasn't shocked one bit about his threat to revoke her U.S. citizenship after enduring decades of abus… [+1667 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752669707
     },
     {
       "source": {
@@ -1026,7 +1260,12 @@
       "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2025/07/16/f1c72224d435484a9730a639b3dde0a2_xl.jpg",
       "publishedAt": "2025-07-16T19:56:29Z",
       "content": "Michael Knowles says the controversy regarding Jeffrey Epstein had a \"client list\" or not won't break the MAGA movement ... but, he admits it might be the biggest challenge the coalition's ever faced… [+1282 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752695789
     },
     {
       "source": {
@@ -1040,7 +1279,11 @@
       "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2025/07/16/d710c02699064d17b928b2d52d38802b_xl.jpg",
       "publishedAt": "2025-07-16T23:12:28Z",
       "content": "Diddy's controversial verdict may have cost the lead prosecutor in the case her job ... 'cause a new report indicates Maurene Comey has been fired.\r\nPolitico broke the news Wednesday ... announcing t… [+1185 chars]",
-      "tags": ["legal_justice", "personnel"]
+      "tags": [
+        "legal_justice",
+        "personnel"
+      ],
+      "publishedAtTs": 1752707548
     },
     {
       "source": {
@@ -1059,7 +1302,8 @@
         "government_administration",
         "foreign_policy",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1752635659
     },
     {
       "source": {
@@ -1073,7 +1317,12 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/donald-trump-epstein-rant.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-07-16T15:43:27Z",
       "content": "After nearly a decade of stoking conspiracy theories insisting that he was ordained to destroy a cabal of pedophiles in control of the nation, President Donald Trump would like everyone to shut up ab… [+2596 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752680607
     },
     {
       "source": {
@@ -1087,7 +1336,11 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/Maurene-Comey-fired-epstein-cases.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-07-16T23:47:58Z",
       "content": "Maurene Comey, the federal prosecutor who handled the criminal cases against Jeffrey Epstein and Ghislaine Maxwell, was fired from the United States Attorney’s Office for the Southern District of New… [+1064 chars]",
-      "tags": ["legal_justice", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1752709678
     },
     {
       "source": {
@@ -1101,7 +1354,12 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/07/GettyImages-109906687.jpg?w=650",
       "publishedAt": "2025-07-16T13:30:00Z",
       "content": "On July 12, Donald Trump took to Truth Social to threaten stripping his longtime nemesis Rosie O’Donnell of her U.S. citizenship, despite her having been born to American citizens and in the U.S. — s… [+8788 chars]",
-      "tags": ["personal_family", "media_communications", "social_issues"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752672600
     },
     {
       "source": {
@@ -1115,7 +1373,12 @@
       "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
       "publishedAt": "2025-07-16T09:02:25Z",
       "content": "The Supreme Court on Monday ruled to allow the Trump administration to resume its efforts to dismantle the U.S. Department of Education. What will that mean to schools, students and families?",
-      "tags": ["education", "policy_legislation", "government_administration"]
+      "tags": [
+        "education",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752656545
     },
     {
       "source": {
@@ -1129,7 +1392,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/03/GettyImages-2201963568-1-1741065945.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T04:55:35Z",
       "content": "United States President Donald Trump has said Ukraine should not target Moscow after he reportedly asked Ukrainian President Volodymyr Zelenskyy if Kyiv could strike the Russian capital if he provide… [+2049 chars]",
-      "tags": ["foreign_policy", "russia", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752641735
     },
     {
       "source": {
@@ -1143,7 +1411,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/reuters_6877972f-1752667951.jpg?resize=1920%2C1248",
       "publishedAt": "2025-07-16T13:09:18Z",
       "content": "Moscow is closely monitoring the Wests supply of weapons to Ukraine, the Kremlins spokesperson says shortly after United States President Donald Trump announced the resumption of arms deliveries to K… [+3966 chars]",
-      "tags": ["foreign_policy", "russia", "military"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "military"
+      ],
+      "publishedAtTs": 1752671358
     },
     {
       "source": {
@@ -1157,7 +1430,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25098516503645-1752681016.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T21:28:11Z",
       "content": "Already, miners have successfully protested a proposal by the Trump administration to close more than 30 field offices run by the Mining Safety and Health Administration, a branch of the Labor Depart… [+3197 chars]",
-      "tags": ["environment", "labor", "government_administration"]
+      "tags": [
+        "environment",
+        "labor",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752701291
     },
     {
       "source": {
@@ -1171,7 +1449,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25197576437826-1752682355.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T17:16:35Z",
       "content": "Bahrains crown prince is set to invest more than $17bn in the United States.\r\nThe White House outlined the new deal before a meeting between Crown Prince Salman bin Hamad Al Khalifa and US President … [+2937 chars]",
-      "tags": ["economy_finance", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752686195
     },
     {
       "source": {
@@ -1185,7 +1467,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752679553.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-16T15:26:51Z",
       "content": "Fact Check\r\nRead moreThose threatened with revocation include Elon Musk but can Trump do that? In this Fact Check, Jillian Wolf breaks down what the law says, and why a passport doesnt depend on pres… [+17 chars]",
-      "tags": ["legal_justice", "immigration"]
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1752679611
     },
     {
       "source": {
@@ -1203,7 +1489,8 @@
         "security_intelligence",
         "immigration",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752638894
     },
     {
       "source": {
@@ -1217,7 +1504,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-14T163721Z_236368956_RC2FMFAP98XR_RTRMADP_3_UKRAINE-CRISIS-NATO-USA-1752566019.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T17:09:20Z",
       "content": "United States President Donald Trump continues to feud with supporters disappointed by his handling of information about deceased convicted sex offender Jeffrey Epstein, calling them weaklings and la… [+3743 chars]",
-      "tags": ["legal_justice", "security_intelligence", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752685760
     },
     {
       "source": {
@@ -1231,7 +1523,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/04/Trump_Powell_composite_image_16x9-1744918306.jpg?resize=1920%2C1215",
       "publishedAt": "2025-07-16T18:35:20Z",
       "content": "United States President Donald Trump has denied plans to fire US Federal Reserve Chair Jerome Powell, after media reports that the president is likely to do so soon triggered a drop in stocks and the… [+3872 chars]",
-      "tags": ["government_administration", "economy_finance"]
+      "tags": [
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752690920
     },
     {
       "source": {
@@ -1245,7 +1541,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP24293442250059-1752680943.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T17:47:17Z",
       "content": "The government of the tiny, landlocked African country of Eswatini has confirmed that it received five individuals deported from the United States under President Donald Trump.\r\nIn a statement on Wed… [+6575 chars]",
-      "tags": ["immigration", "foreign_policy", "africa"]
+      "tags": [
+        "immigration",
+        "foreign_policy",
+        "africa"
+      ],
+      "publishedAtTs": 1752688037
     },
     {
       "source": {
@@ -1259,7 +1560,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/trump-1752626028_ef8a5d-1752631320.jpeg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-07-16T02:03:04Z",
       "content": "United States President Donald Trump has expressed support for the release of credible files on accused sex trafficker Jeffrey Epstein amid outrage among his supporters over his administrations handl… [+2763 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752631384
     },
     {
       "source": {
@@ -1273,7 +1578,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP24153256190833-1717231396-1752655803.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-07-16T09:07:31Z",
       "content": "Indonesias leader has welcomed United States President Donald Trumps move to slash tariffs for Southeast Asias biggest economy, hailing the beginning of a new era of mutual benefit.\r\nIndonesian Presi… [+1907 chars]",
-      "tags": ["trade", "foreign_policy"]
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752656851
     },
     {
       "source": {
@@ -1287,7 +1596,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/2018-07-11T201137Z_1213738156_RC1A1D1A37D0_RTRMADP_3_USA-OPIOIDS-FENTANYL-1706615907.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T21:19:20Z",
       "content": "United States President Donald Trump has said that China may start sentencing people to death for involvement in the manufacture or distribution of fentanyl, whose trafficking Trump has sought harsh … [+1822 chars]",
-      "tags": ["foreign_policy", "china", "health_science", "public_health"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "health_science",
+        "public_health"
+      ],
+      "publishedAtTs": 1752700760
     },
     {
       "source": {
@@ -1301,7 +1616,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/reuters_687740ee-1752645870.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T12:23:24Z",
       "content": "United States President Donald Trump threatened to impose very severe tariffs on Russia on Monday if a peace agreement to end the Ukraine war is not reached in the next 50 days.\r\nTrump has also unvei… [+8495 chars]",
-      "tags": ["foreign_policy", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752668604
     },
     {
       "source": {
@@ -1315,7 +1635,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/04/AP25099308863724-1744251411.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T13:00:56Z",
       "content": "The European Union is readying a package of tariffs to be levied on 72 billion euros ($84bn) worth of goods against the US, even as it steps up efforts to reach a trade deal and avert a transatlantic… [+6756 chars]",
-      "tags": ["trade", "foreign_policy", "economy_finance"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752670856
     },
     {
       "source": {
@@ -1329,7 +1654,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/Ukraine-1752700571.jpg?resize=1200%2C630",
       "publishedAt": "2025-07-16T22:04:25Z",
       "content": "A Russian air raid on a shopping centre and market in Dobropillia in eastern Ukraine has killed at least two people, wounded 22 others and caused widespread damage, officials said, the latest blow to… [+3186 chars]",
-      "tags": ["foreign_policy", "russia", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752703465
     },
     {
       "source": {
@@ -1343,7 +1673,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25197120252371-1752653825.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T09:26:55Z",
       "content": "Nvidia CEO Jensen Huang has called Chinas open-source artificial intelligence a catalyst for global progress and says it is revolutionising supply chains.\r\nIn a speech during Wednesdays opening cerem… [+2813 chars]",
-      "tags": ["technology_regulation", "economy_finance", "foreign_policy"]
+      "tags": [
+        "technology_regulation",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752658015
     },
     {
       "source": {
@@ -1357,7 +1692,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AFP__20250622__63C74VJ__v1__HighRes__IranUsIsraelConflictProtest-1750608641.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T07:46:02Z",
       "content": "France, the United Kingdom and Germany will reinstate harsh sanctions on Iran by the end of August if no progress is made on a nuclear deal, Western diplomats and officials say.\r\nThe economic penalti… [+3492 chars]",
-      "tags": ["foreign_policy"]
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752651962
     },
     {
       "source": {
@@ -1375,7 +1713,8 @@
         "foreign_policy",
         "policy_legislation",
         "public_health_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752702857
     },
     {
       "source": {
@@ -1389,7 +1728,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25176476486339-1752691650.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T19:44:18Z",
       "content": "Canadian Prime Minister Mark Carney has said that Canada will introduce a tariff rate quota on countries it has free trade agreements with, excluding the United States, in order to protect its domest… [+2262 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752695058
     },
     {
       "source": {
@@ -1403,7 +1746,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25196757932557-1752636359.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-16T05:56:52Z",
       "content": "Cuban Labour and Social Security Minister Marta Elena Feito Cabrera has resigned after saying there are no beggars in Cuba, only people pretending to be.\r\nCubas presidency said in a post on social me… [+2945 chars]",
-      "tags": ["personnel", "government_administration", "social_issues"]
+      "tags": [
+        "personnel",
+        "government_administration",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752645412
     },
     {
       "source": {
@@ -1417,7 +1765,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2024-02-12T175257Z_975502477_RC2416AKPGIX_RTRMADP_3_ISRAEL-PALESTINIANS-ICC-1747779397.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-16T11:07:13Z",
       "content": "The chief prosecutor of the International Criminal Court (ICC), Karim Khan, has been warned that if arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former Defence Minister Yoav Gall… [+3471 chars]",
-      "tags": ["foreign_policy", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752664033
     },
     {
       "source": {
@@ -1431,7 +1783,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AA-20250715-38569096-38569084-UKRAINIAN_EMERGENCY_CREWS_INTERVENE_THE_FIRE-1752614172.jpg?resize=1200%2C630",
       "publishedAt": "2025-07-16T00:39:03Z",
       "content": "Here is how things stand on Wednesday, July 16:\r\nFighting\r\n<ul><li>A Russian attack on the Kupiansk district in Ukraines Kharkiv region killed two people in their late 60s and injured two others, the… [+3270 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752626343
     },
     {
       "source": {
@@ -1450,7 +1808,8 @@
         "middle_east",
         "crisis_emergency",
         "public_health_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752706350
     }
   ]
 }

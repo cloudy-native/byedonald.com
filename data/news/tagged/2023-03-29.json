@@ -14,7 +14,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2215893/pompeo-dismisses-trumps-ukraine-pledge.png",
       "publishedAt": "2023-03-29T23:52:35Z",
       "content": "Former Secretary of State Mike Pompeo can't make any sense of former President Donald Trump's claim that he would personally end the Russia-Ukraine war within 24 hours of negotiation.\nPompeo, who served during the Trump administration as secretary of... [3403 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1680133955
     },
     {
       "source": {
@@ -28,7 +32,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/03/untitled-design-39-3-167980164416x9.jpg",
       "publishedAt": "2023-03-29T23:43:39Z",
       "content": "The possible indictment of former president Donald Trump in New York could take several more weeks as a grand jury breaks from the case through most of April, US media reported Wednesday.\nOn March 18 Trump declared he was three days away from being c... [1995 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ],
+      "publishedAtTs": 1680133419
     },
     {
       "source": {
@@ -47,7 +56,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1680131721
     },
     {
       "source": {
@@ -61,7 +71,12 @@
       "urlToImage": "https://img.rasset.ie/001dae9b-1600.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "Analysis: we can learn a lot about AI from viral images of Donald Trump being arrested and a fashionable Pope Francis that fooled us all\n86-year-old Pope Francis is an unlikely source of fashion inspiration. But when a photo purporting to show the po... [6971 chars]",
-      "tags": ["health_science", "media_communications", "social_issues"]
+      "tags": [
+        "health_science",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -75,7 +90,11 @@
       "urlToImage": "https://img.rasset.ie/001d993d-1600.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "New York prosecutors took a historic step today by filing criminal charges against Donald Trump, the first time this has happened to a former US president.\nThe decision by the Manhattan District Attorney to charge Mr Trump for hush money payments to ... [5199 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -89,7 +108,12 @@
       "urlToImage": "https://img.rasset.ie/001da287-1600.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "Former President Donald Trump was indicted in New York City today on criminal charges arising from alleged hush money paid to adult film actress Stormy Daniels to avoid a scandal ahead of the 2016 US election.\nMs Daniels has said she had a sexual enc... [3529 chars]",
-      "tags": ["legal_justice", "personal_family", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -103,7 +127,12 @@
       "urlToImage": "https://www.independent.ie/world-news/north-america/a1786/42412121.ece/AUTOCROP/w1240h700/a5da1c80f2a64775ae29f89f5aeb2bbd.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "A lawyer for Donald Trump said tonight he has been told that the former president has been indicted in New York on charges involving payments made during the 2016 presidential campaign to silence claims of an extramarital sexual encounter.\nIt becomes... [1595 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -117,7 +146,12 @@
       "urlToImage": "https://www.independent.ie/world-news/north-america/3a10e/42412171.ece/AUTOCROP/w1240h700/US%20Trump%2033",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "Former US president Donald Trump was last night indicted by a Manhattan grand jury after a probe into hush money paid to porn star Stormy Daniels.\nThe decision of the grand jury makes him the first former US president to face criminal charges even as... [4635 chars]",
-      "tags": ["legal_justice", "personal_family", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -131,7 +165,12 @@
       "urlToImage": "https://img.rasset.ie/001db02e-1600.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "A New York grand jury has indicted Donald Trump over hush money payments made to an adult film star, making him the first-ever serving or former US president to face criminal charges.\nThe historic indictment of the 76-year-old Republican, who denies ... [4156 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -145,7 +184,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDNcXFwvMzAyMTUxMTRcXFwvYzE4NDQ4YTc0MWI2NDI4NzlmYmZhN2ZkZTg2ZWRlYWItMS1lMTY4MDIxNjM0NDQ1NS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE4NDZkNTU0ZjBjZGFkODcwYmQwYTkxNTkxMTk5NzMyMGU5NDBmMDgifQ==/donald-trump-indicted-and-set-to-be-first-ex-president-to-face-criminal-charge.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "A Manhattan grand jury has voted to indict Donald Trump on charges involving payments made during the 2016 presidential campaign to silence claims of an extramarital sexual encounter.\nIt is the first ever criminal case against a former US president a... [6449 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -159,7 +203,12 @@
       "urlToImage": "https://img.rasset.ie/001dadeb-1600.jpg",
       "publishedAt": "2023-03-29T23:00:00Z",
       "content": "Research laboratory Midjourney has paused free trials of its image-generation software after users cranked out realistic deepfakes, including of former US president Donald Trump getting arrested and Pope Francis in a puffer jacket.\nMidjourney respond... [2007 chars]",
-      "tags": ["technology_regulation", "media_communications", "social_issues"]
+      "tags": [
+        "technology_regulation",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1680130800
     },
     {
       "source": {
@@ -178,7 +227,8 @@
         "doj_actions",
         "congressional_investigations",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1680130555
     },
     {
       "source": {
@@ -192,7 +242,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/donald_trump_1186241816.jpg",
       "publishedAt": "2023-03-29T22:49:16Z",
       "content": "Former President Donald Trump on Fox News bragged that he withdrew from NATO, confusing the security alliance with the NAFTA trade agreement.\nIn an interview on Tuesday with Fox News' Sean Hannity, Trump boasted that other countries learned \"not to m... [2231 chars]",
-      "tags": ["nato", "foreign_policy", "media_communications"]
+      "tags": [
+        "nato",
+        "foreign_policy",
+        "media_communications"
+      ],
+      "publishedAtTs": 1680130156
     },
     {
       "source": {
@@ -206,7 +261,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/alvin_bragg_1475378644.jpg",
       "publishedAt": "2023-03-29T22:40:03Z",
       "content": "The Manhattan grand jury that has been examining former President Donald Trump's alleged hush-money payment to porn star Stormy Daniels is not expected to hear evidence in the case for the next month, mainly due to a previously scheduled hiatus, a pe... [2514 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680129603
     },
     {
       "source": {
@@ -226,7 +286,8 @@
         "elections_politics",
         "government_administration",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1680129186
     },
     {
       "source": {
@@ -245,7 +306,8 @@
         "congressional_investigations",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1680128976
     },
     {
       "source": {
@@ -259,7 +321,12 @@
       "urlToImage": "https://www.boston.com/wp-content/uploads/2023/03/Election_2024_Trump_36273-64247fa4660a3-scaled.jpg",
       "publishedAt": "2023-03-29T22:09:46Z",
       "content": "Politics Trump grand jury poised to take pre-planned break from case The Manhattan grand jury investigating hush money paid on behalf of Donald Trump is scheduled to consider other matters next week before taking a previously scheduled two-week hiatu... [6167 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680127786
     },
     {
       "source": {
@@ -273,7 +340,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/03/29/multimedia/29dc-trump-justice-01-cfpt/29dc-trump-justice-01-cfpt-facebookJumbo.jpg",
       "publishedAt": "2023-03-29T21:48:06Z",
       "content": "“I would tell him why it was wrong, and while I was there I did everything I could to steer him away from it and tell him why it was a bad idea,” Mr. Kelly said. “I thought we were successful, but he would often ask a lot of people to do a lot of thi... [1232 chars]",
-      "tags": ["legal_justice", "doj_actions", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "media_communications"
+      ],
+      "publishedAtTs": 1680126486
     },
     {
       "source": {
@@ -287,7 +359,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/Bragg_020723_AP_Seth-Wenig.jpg?w=1280",
       "publishedAt": "2023-03-29T21:02:56Z",
       "content": "The Manhattan grand jury weighing the hush money case involving former President Trump is not set to consider the case again until the end of April, a source familiar with the matter confirmed to The Hill on Wednesday.\nTrump had said he expected to b... [951 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1680123776
     },
     {
       "source": {
@@ -301,7 +377,11 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/a5da1c80f2a64775ae29f89f5aeb2bbd/3000.webp",
       "publishedAt": "2023-03-29T21:01:34Z",
       "content": "FILE - Former President Donald Trump speaks with reporters while in flight on his plane after a campaign rally at Waco Regional Airport, in Waco, Texas, March 25, 2023, while en route to West Palm Beach, Fla. As Trump rails against possible indictmen... [8274 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1680123694
     },
     {
       "source": {
@@ -315,7 +395,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/642374ebd6d972.57274295-e1680122209530.jpeg?w=1280",
       "publishedAt": "2023-03-29T20:38:42Z",
       "content": "Former President Trump and former Vice President Mike Pence are set to headline the National Rifle Association’s (NRA) annual meeting next month on the heels of the school shooting in Tennessee this week that left three children and three adults dead... [2011 chars]",
-      "tags": ["gun_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "gun_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1680122322
     },
     {
       "source": {
@@ -329,7 +414,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2215878/fox-news-ceo-suzanne-scott-donald-trump.png",
       "publishedAt": "2023-03-29T20:08:49Z",
       "content": "The CEO of Fox News personally demanded the network's reporters refrain from fact-checking former President Donald Trump's lies about the 2020 election, documents obtained by Newsweek and other outlets show, marking yet another setback for the conser... [4972 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1680120529
     },
     {
       "source": {
@@ -343,7 +433,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/17600b12c6a964c342f573ec51b26dd7f05eaa21/0_314_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4942aa089b3da47cd316cef6bbc153e9",
       "publishedAt": "2023-03-29T20:01:27Z",
       "content": "The top executive at Fox News was furious one of the network’s reporters was fact-checking Donald Trump’s false claims about the 2020 election, writing in a December 2020 email that it was “bad for business.”\nSuzanne Scott, the chief executive of Fox... [3683 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1680120087
     },
     {
       "source": {
@@ -362,7 +456,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1680119580
     }
   ]
 }

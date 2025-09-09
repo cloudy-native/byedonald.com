@@ -14,7 +14,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830150318-powell-chesebro-split.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-30T23:50:32Z",
       "content": "CNN —\nTwo Trump co-defendants in Georgia who requested speedy trials asked a judge Wednesday to formally separate their cases from the sprawling overall indictment, a move that would undercut Fulton County District Attorney Fani Willis’ attempt to ho... [3279 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693439432
     },
     {
       "source": {
@@ -28,7 +32,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2276325/why-trumps-tucker-interview-isnt-mostwatched01.jpg",
       "publishedAt": "2023-08-30T23:29:28Z",
       "content": "Former President Donald Trump is falsely claiming that his interview with former Fox News host Tucker Carlson last week was \"the most watched\" interview and video in \"history.\"\nIn a video shared to Truth Social on Wednesday, the former president clai... [4039 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693438168
     },
     {
       "source": {
@@ -42,7 +50,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDhcXFwvMzExNTI3MTBcXFwvN2M2ODNiNTg3MDczNGRlMzk5Njc5OGVjMGI0OGFlZGEtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjRjZDU4Y2IxYzIxZGQ2MjBmMTJiZjMwMzNiMmE0OWYxM2VlNjI1NjcifQ==/donald-trump-pleads-not-guilty-in-georgia-election-case.jpg",
       "publishedAt": "2023-08-30T23:00:00Z",
       "content": "Former US president Donald Trump has pleaded not guilty and waived arraignment in the case accusing him and others of illegally trying to overturn the results of the 2020 election in Georgia.\nThat means he will not have to show up for an arraignment ... [1381 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693436400
     },
     {
       "source": {
@@ -56,7 +69,12 @@
       "urlToImage": "https://static.politico.com/99/37/99e90b8a4f19a00edcc36b6e0f9f/election-2022-michigan-governor-96121.jpg",
       "publishedAt": "2023-08-30T22:55:48Z",
       "content": "The race was dominated by abortion rights following the overturning of Roe v. Wade, as voters simultaneously weighed a ballot measure that would enshrine abortion rights into the Michigan Constitution. During her campaign, Dixon, who described hersel... [1298 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1693436148
     },
     {
       "source": {
@@ -75,7 +93,8 @@
         "security_intelligence",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1693435836
     },
     {
       "source": {
@@ -89,7 +108,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/07zDFzsaQthljKPHcK535sBD414=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/PZOILPJTLNNCZBI5WSOZ27ZF4I.JPG",
       "publishedAt": "2023-08-30T22:42:57Z",
       "content": "New York’s attorney general on Wednesday asked a state judge to declare, even before the start of a trial, that Donald Trump committed fraud by submitting false statements to bankers and insurers and overstating his net worth by up to $2.23-billion.\n... [2338 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ],
+      "publishedAtTs": 1693435377
     },
     {
       "source": {
@@ -107,7 +131,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693435288
     },
     {
       "source": {
@@ -121,7 +146,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/N7z3DaNoKWvyiIW_OgiRzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbsmoneywatch.com/04f58099fcc356f3445c07d62ddf56b4",
       "publishedAt": "2023-08-30T22:39:44Z",
       "content": "Former President Donald Trump overstated his net worth by between $812 million and $2.2 billion each year between 2011 and 2021, the office of New York Attorney General Letitia James claims in a filing made public Wednesday.\nThe allegations were rais... [2911 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693435184
     },
     {
       "source": {
@@ -135,7 +164,13 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230731101802-02-carlos-de-oliveira-073123.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-30T22:13:55Z",
       "content": "CNN —\nLawyers for Carlos de Oliveira – the Mar-a-Lago property manager charged alongside former President Donald Trump in the classified documents case – said Wednesday that special counsel Jack Smith was overplaying a potential ethical conflict in t... [2037 chars]",
-      "tags": ["personal_family", "legal_justice", "regional_state", "florida"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1693433635
     },
     {
       "source": {
@@ -149,7 +184,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/30/multimedia/30trump-ag-wzjq/30trump-ag-wzjq-facebookJumbo.jpg",
       "publishedAt": "2023-08-30T22:02:51Z",
       "content": "Before Donald J. Trump was indicted four times over, he was sued by New York’s attorney general, who said that for years the former president, his business and members of his family had fraudulently overvalued their assets by billions of dollars.\nBef... [786 chars]",
-      "tags": ["legal_justice", "personal_family", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "new_york"
+      ],
+      "publishedAtTs": 1693432971
     },
     {
       "source": {
@@ -168,7 +208,8 @@
         "personal_legal",
         "civil_litigation",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1693431420
     },
     {
       "source": {
@@ -187,7 +228,8 @@
         "personal_legal",
         "civil_litigation",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1693428396
     },
     {
       "source": {
@@ -201,7 +243,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/plOpNF3H0sYW2yW_haH50A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cbs_news_897/fc87a9e8184da64be153858b69c48d17",
       "publishedAt": "2023-08-30T20:20:18Z",
       "content": "Washington — Former President Donald Trump may not show up to his arraignment in Georgia next week, according to two sources familiar with his plans.\nTrump is considering waiving his arraignment appearance, which is scheduled for the morning of Sept.... [2046 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693426818
     },
     {
       "source": {
@@ -215,7 +261,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23236841141360-e1692919503801.jpg?w=1280",
       "publishedAt": "2023-08-30T19:46:05Z",
       "content": "Arizona Secretary of State Adrian Fontes (D) said he does not have the ability to bar former President Donald Trump from running for president in his state Wednesday.\nThere have been calls to bar the former president from being able to run in 2024 re... [934 chars]",
-      "tags": ["elections_politics", "legal_justice", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1693424765
     },
     {
       "source": {
@@ -229,7 +280,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.So18vHoEKYL86laEv5zSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/053f12c0-4766-11ee-b777-19198cbdd8cf",
       "publishedAt": "2023-08-30T19:40:16Z",
       "content": "Two Georgia election workers at the heart of a Fulton County defamation lawsuit against Donald Trump’s former lawyer win a court victory. The former president may opt out of an in-person Sept. 6 arraignment, and his mug shot makes an appearance in a ... [3875 chars]",
-      "tags": ["legal_justice", "civil_litigation", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1693424416
     },
     {
       "source": {
@@ -243,7 +299,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/30/multimedia/30pol-trump-ballot1-wkfc/30pol-trump-ballot1-wkfc-facebookJumbo.jpg",
       "publishedAt": "2023-08-30T19:23:45Z",
       "content": "The theory has been gaining momentum since two prominent conservative law professors published an article this month concluding that Mr. Trump is constitutionally disqualified from running for office.\nBut even advocates of the disqualification theory... [1443 chars]",
-      "tags": ["elections_politics", "legal_justice", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1693423425
     },
     {
       "source": {
@@ -257,7 +318,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830145920-01-donald-trump-053123.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-30T19:17:10Z",
       "content": "CNN —\nDonald Trump inflated his net worth by as much as $2.2 billion in one year, lawyers for the New York attorney general’s office alleged as part of their civil fraud lawsuit against the former president, his adult sons and the Trump Organization.... [10227 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693423030
     },
     {
       "source": {
@@ -271,7 +336,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/7641693417323/2023/1/e21abc9f58819cb3f57a9ef5dfd30db4/v1.5/Judge-rejects-executive-privilege-claim-made-by-ex-Trump-adviser-Peter-Navarro.jpg",
       "publishedAt": "2023-08-30T19:12:19Z",
       "content": "A district court judge said Wednesday that former Trump adviser Peter Navarro had failed to demonstrate executive privilege to justify his failure to appear before Congress. File Photo by Stefani Reynolds/UPI | License Photo\nAug. 30 (UPI) -- A distri... [1070 chars]",
-      "tags": ["legal_justice", "executive_orders", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "executive_orders",
+        "government_administration"
+      ],
+      "publishedAtTs": 1693422739
     },
     {
       "source": {
@@ -292,7 +362,8 @@
         "supreme_court",
         "executive_orders",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1693422120
     },
     {
       "source": {
@@ -306,7 +377,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/992ba05587953e62156fda5e9a0073f113f303c9/0_0_3641_2185/master/3641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=201375f9db010c5a71aa7b7a3405b5fa",
       "publishedAt": "2023-08-30T18:34:24Z",
       "content": "Rudy Giuliani, an attorney and close ally of Donald Trump, is liable for defaming two Georgia poll workers following the 2020 election, a federal judge has ruled in a default judgment.\nGiuliani failed to produce records during the discovery process w... [2548 chars]",
-      "tags": ["legal_justice", "civil_litigation", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693420464
     },
     {
       "source": {
@@ -320,7 +396,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/31/600x338/Not-Real-News-0_1693097765978_1693443621517.jpg",
       "publishedAt": "2023-08-30T18:30:00Z",
       "content": "Donald Trump confronted the New York attorney general's lawsuit accusing him of fraud, defending both his real estate business and his presidential tenure. During a private questioning in April, he asserted that his company has abundant funds and arg... [5958 chars]",
-      "tags": ["legal_justice", "personal_family", "economy_finance"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1693420200
     },
     {
       "source": {
@@ -334,7 +415,11 @@
       "urlToImage": "https://www.theweek.in/content/dam/week/news/world/images/2023/8/25/Trump.jpg",
       "publishedAt": "2023-08-30T18:30:00Z",
       "content": "Former President Donald Trump has pleaded not guilty and waived arraignment in the case accusing him and others of illegally trying to overturn the results of the 2020 election in Georgia.\nThat means he won't have to show up for an arraignment hearin... [647 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693420200
     },
     {
       "source": {
@@ -348,7 +433,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/c33fa9dcf72c58a772287d255628e2a69df8232e/0_349_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=09597ad87c94f53392df4a49d17d2d00",
       "publishedAt": "2023-08-30T18:11:12Z",
       "content": "Joe Biden is a little tired.\nThat shouldn’t be surprising. Biden is, after all, the president of the United States. He has a demanding job, an intense travel schedule and a re-election campaign looming, Most presidents, one would assume, are tired a ... [5754 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693419072
     },
     {
       "source": {
@@ -362,7 +452,11 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/08/sjm-tion_Indictment_81706-b2619_1066496193_133948828.jpg?w=1024&h=682",
       "publishedAt": "2023-08-30T18:03:52Z",
       "content": "By Eric Tucker | Associated Press\nWASHINGTON — A federal judge on Wednesday held Rudy Giuliani liable in a defamation lawsuit brought by two Georgia election workers who say they were falsely accused of fraud, entering a default judgment against the ... [5084 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1693418632
     },
     {
       "source": {
@@ -381,7 +475,8 @@
         "supreme_court",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1693417628
     }
   ]
 }

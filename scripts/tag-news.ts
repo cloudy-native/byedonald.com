@@ -191,18 +191,31 @@ class NewsArticleTagger {
         }`,
       );
 
+      // Derive Unix timestamp (seconds) when publishedAt is a valid date (once per article)
+      const timeMs = Date.parse(article.publishedAt);
+      const hasValidDate = !Number.isNaN(timeMs);
+      const publishedAtTs = hasValidDate ? Math.floor(timeMs / 1000) : undefined;
+
       try {
         const tags = await this.tagSingleArticle(article);
         console.log(`>>>> ${tags.join(", ")}`);
 
-        taggedArticles.push({ ...article, tags });
+        taggedArticles.push(
+          publishedAtTs !== undefined
+            ? { ...article, tags, publishedAtTs }
+            : { ...article, tags },
+        );
 
         if (i < newsData.articles.length - 1) {
           await new Promise((resolve) => setTimeout(resolve, 100));
         }
       } catch (error) {
         console.error(`Error processing article "${article.title}":`, error);
-        taggedArticles.push({ ...article, tags: [] });
+        taggedArticles.push(
+          publishedAtTs !== undefined
+            ? { ...article, tags: [], publishedAtTs }
+            : { ...article, tags: [] },
+        );
       }
     }
 

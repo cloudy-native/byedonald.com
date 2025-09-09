@@ -20,7 +20,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722383557
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDdcXFwvMzEwOTE1MjZcXFwvYWRkZTI1NjM4ZDVjNDJiMmEwM2ViMDczOTZmZjU5YmMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJlZTA1NjQyYzIxOTAzOTMxYjk5MjcxNjdjOTJlZmE4NzA0YmYzNjU0In0=/80-of-democrats-satisfied-with-harris-after-biden-withdraws-poll.jpg",
       "publishedAt": "2024-07-30T23:00:00Z",
       "content": "US vice president Kamala Harris appears to have energised Democrats in the early days of her candidacy for the White House.\nA surge in warm feelings extends across multiple groups, including some key Democratic constituencies that had been especially... [5263 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1722380400
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDdcXFwvMzEyMTA5MjJcXFwvNjRiNzIxMGZmZjBjNDYyNDgwYTVkZDI3NzMxMjg0YTIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4ZDdhNzk5ZTdkZjlmYzFiZTc0OGExOTdkYWFhYWE4YTBjNDQ5MmMyIn0=/trump-falsely-questions-harris-s-race-at-gathering-of-black-journalists.jpg",
       "publishedAt": "2024-07-30T23:00:00Z",
       "content": "Donald Trump has falsely suggested Kamala Harris misled voters about her race as the former president appeared before the National Association of Black Journalists in Chicago.\nThe Republican former president claimed that Ms Harris, the first black wo... [4047 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722380400
     },
     {
       "source": {
@@ -62,7 +73,12 @@
       "urlToImage": "https://img.rasset.ie/0020b1fb-1600.jpg",
       "publishedAt": "2024-07-30T23:00:00Z",
       "content": "Republican presidential candidate Donald Trump has questioned whether his Democratic rival Kamala Harris is black, during a contentious appearance at a gathering of the National Association of Black Journalists.\nA White House spokesperson has called ... [2639 chars]",
-      "tags": ["social_issues", "elections_politics", "media_communications"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722380400
     },
     {
       "source": {
@@ -80,7 +96,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722379611
     },
     {
       "source": {
@@ -100,7 +117,8 @@
         "legal_justice",
         "personal_family",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722378606
     },
     {
       "source": {
@@ -120,7 +138,8 @@
         "political_endorsements",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722377302
     },
     {
       "source": {
@@ -138,7 +157,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1722376918
     },
     {
       "source": {
@@ -157,7 +177,8 @@
         "elections_politics",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1722376743
     },
     {
       "source": {
@@ -177,7 +198,8 @@
         "legal_justice",
         "government_administration",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1722376680
     },
     {
       "source": {
@@ -191,7 +213,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/86491210.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-07-30T21:36:58Z",
       "content": "Donald Trump has been invited to appear at National Association of Black Journalists’ annual convention in Chicago on Wednesday, and some of the nation’s top black journos are furious. Washington Post columnist Karen Attiah even stepped down as co-ch... [4046 chars]",
-      "tags": ["media_communications", "social_issues", "racial_justice"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "racial_justice"
+      ],
+      "publishedAtTs": 1722375418
     },
     {
       "source": {
@@ -211,7 +238,8 @@
         "border_security",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722373102
     },
     {
       "source": {
@@ -231,7 +259,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722372571
     },
     {
       "source": {
@@ -251,7 +280,8 @@
         "media_communications",
         "personal_business",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722371862
     },
     {
       "source": {
@@ -270,7 +300,8 @@
         "policy_legislation",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722371051
     },
     {
       "source": {
@@ -288,7 +319,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722370255
     },
     {
       "source": {
@@ -308,7 +340,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722370131
     },
     {
       "source": {
@@ -328,7 +361,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722368860
     }
   ]
 }

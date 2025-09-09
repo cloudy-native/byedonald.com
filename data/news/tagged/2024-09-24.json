@@ -20,7 +20,8 @@
         "security_intelligence",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727222350
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727221946
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "elections_politics",
         "international_organizations",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727221888
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "legal_justice",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727220468
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "presidential_security",
         "national_security",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727220300
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "legal_justice",
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1727220120
     },
     {
       "source": {
@@ -132,7 +138,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_09_2024_09_56_03_6841838.jpg?width=920&format=jpeg",
       "publishedAt": "2024-09-24T23:02:15Z",
       "content": "Donald Trump declared on Tuesday his intention to 'take' manufacturing jobs from foreign nations, including U.S. allies, if victorious in the Nov. 5 election. He aims to achieve this goal by offering incentives to lure companies to the United States.... [758 chars]",
-      "tags": ["economy_finance", "policy_legislation", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1727218935
     },
     {
       "source": {
@@ -152,7 +163,8 @@
         "government_administration",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727218800
     },
     {
       "source": {
@@ -171,7 +183,8 @@
         "elections_politics",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727218649
     },
     {
       "source": {
@@ -190,7 +203,8 @@
         "legal_justice",
         "social_issues",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727218641
     },
     {
       "source": {
@@ -210,7 +224,8 @@
         "personal_family",
         "florida",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727218281
     },
     {
       "source": {
@@ -230,7 +245,8 @@
         "legal_justice",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727217963
     },
     {
       "source": {
@@ -249,7 +265,8 @@
         "presidential_security",
         "elections_politics",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1727217748
     },
     {
       "source": {
@@ -269,7 +286,8 @@
         "security_intelligence",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727217746
     },
     {
       "source": {
@@ -289,7 +307,8 @@
         "legal_justice",
         "personal_legal",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1727217598
     },
     {
       "source": {
@@ -308,7 +327,8 @@
         "criminal_cases",
         "national_security",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727217540
     },
     {
       "source": {
@@ -327,7 +347,8 @@
         "security_incidents",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727217516
     },
     {
       "source": {
@@ -347,7 +368,8 @@
         "legal_justice",
         "regional_state",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727217446
     },
     {
       "source": {
@@ -361,7 +383,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2479772/ryan-wesley-routh.jpg",
       "publishedAt": "2024-09-24T22:36:53Z",
       "content": "Federal prosecutors formally charged Ryan Routh Tuesday with the attempted assassination of former President Donald Trump following his arrest at Trump's West Palm Beach golf course on September 15.\nThe case has been assigned to U.S. District Judge A... [4607 chars]",
-      "tags": ["legal_justice", "security_intelligence", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1727217413
     },
     {
       "source": {
@@ -381,7 +408,8 @@
         "foreign_policy",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727217341
     },
     {
       "source": {
@@ -400,7 +428,8 @@
         "security_incidents",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727217287
     },
     {
       "source": {
@@ -419,7 +448,8 @@
         "security_incidents",
         "personal_legal",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1727217120
     },
     {
       "source": {
@@ -439,7 +469,8 @@
         "florida",
         "criminal_cases",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727217046
     }
   ]
 }

@@ -18,7 +18,8 @@
         "security_intelligence",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722642909
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722642875
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1722641940
     },
     {
       "source": {
@@ -72,7 +75,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/republican-vice-presidential-candidate-sen-j-d-vance-r-oh-listens-during-the-faith-freedom-coalitions-god-cou.jpg?id=52964158&width=1200&height=600&coordinates=0%2C500%2C0%2C500",
       "publishedAt": "2024-08-02T23:04:45Z",
       "content": "Sen. J.D. Vance (R-OH) is in no position to lecture Vice President Kamala Harris about her identity, Fox News' resident Democratic strategist Jessica Tarlov said on Friday's edition of \"The Five.\"\nThis comes as Vance, the running mate of former Presi... [1462 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1722639885
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "security_intelligence",
         "crisis_emergency",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722639881
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "security_intelligence",
         "crisis_emergency",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722639600
     },
     {
       "source": {
@@ -132,7 +142,8 @@
         "media_communications",
         "interviews",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1722639600
     },
     {
       "source": {
@@ -146,7 +157,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/on-friday-fox-news-afternoon-show-the-five-waded-into-the-fray-including-anchor-jesse-watters-who-suggested-that-olympic-c.png?id=53093201&width=1200&height=600&coordinates=0%2C0%2C0%2C22",
       "publishedAt": "2024-08-02T22:49:27Z",
       "content": "Multiple prominent Fox News hosts doubled down on right-wing attacks against an Olympic boxer who defeated her opponent in under a minute and has since faced a deluge of smears on social media, including from former President Donald Trump and his run... [1714 chars]",
-      "tags": ["social_issues", "media_communications", "security_intelligence"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1722638967
     },
     {
       "source": {
@@ -164,7 +180,8 @@
         "media_communications",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722638914
     },
     {
       "source": {
@@ -184,7 +201,8 @@
         "media_communications",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722638701
     },
     {
       "source": {
@@ -204,7 +222,8 @@
         "media_communications",
         "political_endorsements",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722637540
     },
     {
       "source": {
@@ -224,7 +243,8 @@
         "personal_legal",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1722636817
     },
     {
       "source": {
@@ -244,7 +264,8 @@
         "policy_legislation",
         "labor",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722635448
     },
     {
       "source": {
@@ -264,7 +285,8 @@
         "personal_family",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722635243
     },
     {
       "source": {
@@ -278,7 +300,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2024/08/the-daily-show-ronny-chieng-kamala-harris-mindy-kaling.jpg?w=1024",
       "publishedAt": "2024-08-02T21:38:43Z",
       "content": "Ronny Chieng took to The Daily Show to call out Donald Trump for the “weird turn” his campaign has taken to talking about Kamala Harris’s racial identity.\nVice President Harris is of Indian and Jamaican descent, which has confused many Trump supporte... [1650 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1722634723
     },
     {
       "source": {
@@ -292,7 +319,11 @@
       "urlToImage": "https://www.manilatimes.net/manilatimes/uploads/images/2024/08/03/383445.jpg",
       "publishedAt": "2024-08-02T21:24:00Z",
       "content": "WASHINGTON —US Vice President Kamala Harris effectively secured the Democratic party's presidential nomination Friday, confirming her remarkable rise to party standard bearer in November's showdown against Republican Donald Trump.\nHarris, 59, was the... [258 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1722633840
     },
     {
       "source": {
@@ -312,7 +343,8 @@
         "elections_politics",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1722633361
     },
     {
       "source": {
@@ -326,7 +358,12 @@
       "urlToImage": "https://media.wltx.com/assets/VERIFY/images/e84ccb33-6072-4b71-a2bb-a9fe8a50af41/20240802T204252/e84ccb33-6072-4b71-a2bb-a9fe8a50af41_1140x641.jpg",
       "publishedAt": "2024-08-02T21:08:35Z",
       "content": "An image claiming to prove Donald Trump had a connection with Thomas Crooks, the person who attempted to shoot him, is fake.\nOn July 13, 20-year-old Thomas Matthew Crooks attempted to assassinate former President Donald Trump while he was speaking at... [2882 chars]",
-      "tags": ["media_communications", "security_intelligence", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1722632915
     },
     {
       "source": {
@@ -346,7 +383,8 @@
         "middle_east",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1722632022
     },
     {
       "source": {
@@ -360,7 +398,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/kyle-rittenhouse.jpg?id=33076669&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2024-08-02T20:35:46Z",
       "content": "Kyle Rittenhouse, the shooter acquitted of murder charges in the deaths of two men during a Wisconsin protest, abruptly announced he was abandoning his support for Donald Trump in the 2024 election. But after a torrent of backlash from the right, Rit... [1770 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722630946
     },
     {
       "source": {
@@ -374,7 +417,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2442151/john-bolton.jpg",
       "publishedAt": "2024-08-02T20:35:06Z",
       "content": "Former Trump national security adviser John Bolton believes the deal that set free the Wall Street Journal reporter Evan Gerskovich and other Americans held captive in Russia sets \"a bad precedent\" for U.S. policy and provides an incentive for more A... [6413 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1722630906
     },
     {
       "source": {
@@ -392,7 +440,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722630409
     },
     {
       "source": {
@@ -411,7 +460,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1722630119
     },
     {
       "source": {
@@ -425,7 +475,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2442184/rittenhouse-backtracks-trump-comment.png",
       "publishedAt": "2024-08-02T20:21:58Z",
       "content": "Kyle Rittenhouse has taken back his previous presidential endorsement and is \"100%\" behind former President Donald Trump in November.\nIn less than 24 hours since releasing a video statement to X, formerly Twitter, about not voting for Trump over Seco... [4266 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1722630118
     }
   ]
 }

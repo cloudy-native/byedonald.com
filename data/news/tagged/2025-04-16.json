@@ -19,7 +19,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1744847608
     },
     {
       "source": {
@@ -33,7 +34,13 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/EV5WMSCVP3HPFGGNS27RFIPB6E.jpg?smart=true&auth=fc6ec958ecb3e37e48af9e59afed135392ed5707f79b66bcac7d20d6df695631&width=1200&height=630",
       "publishedAt": "2025-04-16T23:48:44Z",
       "content": "U.S. President Donald Trump gestures to the crowd as he departs after welcoming the 2025 College Football National Champions, the Ohio State University football team, during an event on the South Lawn of the White House, Monday, April 14, 2025, in Wa... [7276 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy", "asia_pacific"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy",
+        "asia_pacific"
+      ],
+      "publishedAtTs": 1744847324
     },
     {
       "source": {
@@ -51,7 +58,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1744847051
     },
     {
       "source": {
@@ -65,7 +73,13 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/33c43f7f6cff92725c58ec34ea7a49f53fc8968c7f67eaff4e7fd9b6c11905e9.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-16T23:19:11Z",
       "content": "WASHINGTON (AP) — President Donald Trump on Wednesday inserted himself directly into trade talks with Japanese officials, a sign of the high stakes for the United States after its tariffs rattled the economy and caused the administration to assure th... [6989 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy", "china"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy",
+        "china"
+      ],
+      "publishedAtTs": 1744845551
     },
     {
       "source": {
@@ -79,7 +93,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/91eb3bb5fcb760fe09562dbffbc78928fafca93be61fc9225c9c98fdab2ae5a2.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-16T23:18:53Z",
       "content": "OTTAWA — As the French language election debate got underway Wednesday night, the four main federal party leaders were asked to lay out policy priorities that have nothing with the United States.\nBut the conversation quickly turned to the elephant in... [3023 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1744845533
     }
   ]
 }

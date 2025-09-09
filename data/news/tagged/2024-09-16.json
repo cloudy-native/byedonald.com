@@ -20,7 +20,8 @@
         "foreign_policy",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726530872
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "crisis_emergency",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726530855
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "government_administration",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1726530715
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1726530188
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "national_security",
         "security_incidents",
         "presidential_transition"
-      ]
+      ],
+      "publishedAtTs": 1726529740
     },
     {
       "source": {
@@ -115,7 +120,8 @@
         "national_security",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1726529428
     },
     {
       "source": {
@@ -135,7 +141,8 @@
         "campaign_events",
         "statements",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1726528946
     },
     {
       "source": {
@@ -154,7 +161,8 @@
         "economy_finance",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726528585
     },
     {
       "source": {
@@ -174,7 +182,8 @@
         "criminal_cases",
         "government_administration",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1726528272
     },
     {
       "source": {
@@ -188,7 +197,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2473005/donald-trump-polling-50-days-out-election.jpg",
       "publishedAt": "2024-09-16T23:08:38Z",
       "content": "With 50 days until the election, polling indicates the race between former President Donald Trump and Vice President Kamala Harris is looking more like the 2016 election than the 2020 election.\nHarris' surge as the Democratic nominee after President ... [5835 chars]",
-      "tags": ["elections_politics", "2028_presidential", "polling"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "polling"
+      ],
+      "publishedAtTs": 1726528118
     },
     {
       "source": {
@@ -208,7 +222,8 @@
         "elections_politics",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1726527732
     },
     {
       "source": {
@@ -222,7 +237,12 @@
       "urlToImage": "https://img.rasset.ie/0020f9aa-1600.jpg",
       "publishedAt": "2024-09-16T23:00:00Z",
       "content": "US presidential candidate Kamala Harris has called her rival Donald Trump after he faced another apparent assassination attempt, though she separately condemned him for \"hateful\" peddling of false stories about Haitian migrants eating pets.\nAs Mr Tru... [5538 chars]",
-      "tags": ["security_incidents", "foreign_policy", "social_issues"]
+      "tags": [
+        "security_incidents",
+        "foreign_policy",
+        "social_issues"
+      ],
+      "publishedAtTs": 1726527600
     },
     {
       "source": {
@@ -242,7 +262,8 @@
         "national_security",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726527600
     }
   ]
 }

@@ -14,7 +14,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/08/john_eastman_2153349031.jpg",
       "publishedAt": "2024-08-26T23:53:55Z",
       "content": "Allies of former President Donald Trump who tried to subvert the 2020 election results in Arizona will go to trial in Jan. 2026, a judge announced at a hearing on Monday, CNN reported.\nIn April, an Arizona grand jury indicted 18 Republicans, includin... [1136 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1724716435
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6551724714184/2024/1/8fb32610caad0d5dcd4b6b60c5192ee8/v1.5/Special-counsel-Jack-Smith-files-brief-to-revive-Trump-documents-case.jpg",
       "publishedAt": "2024-08-26T23:41:00Z",
       "content": "1 of 2 | Special Counsel Jack Smith filed a brief Monday to revive the documents case against former President Donald Trump, accusing U.S. District Court Judge Aileen Cannon of having \"erred\" when she dismissed the case last month over violations of ... [2316 chars]",
-      "tags": ["legal_justice", "government_administration", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1724715660
     },
     {
       "source": {
@@ -46,7 +56,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724715291
     },
     {
       "source": {
@@ -64,7 +75,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1724714873
     },
     {
       "source": {
@@ -84,7 +96,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1724714852
     },
     {
       "source": {
@@ -104,7 +117,8 @@
         "social_issues",
         "civil_rights",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1724713880
     },
     {
       "source": {
@@ -118,7 +132,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/08/25/0e19b394-bc22-4e1a-8701-d5e2af7efd4c/thumbnail/1200x630g2/451ee631cb159e26438041df57518821/gettyimages-2166798066.jpg?v=29ebd300d9a3cd24077d945a46991f72",
       "publishedAt": "2024-08-26T23:10:02Z",
       "content": "It was one of the most fiery moments of the Democratic National Convention. Last Monday night, Shawn Fain, president of the United Auto Workers union, strode onto the stage at the United Center, took off his blazer and revealed a red t-shirt that rea... [9279 chars]",
-      "tags": ["policy_legislation", "elections_politics", "labor"]
+      "tags": [
+        "policy_legislation",
+        "elections_politics",
+        "labor"
+      ],
+      "publishedAtTs": 1724713802
     },
     {
       "source": {
@@ -132,7 +151,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/2024-detroit-michigan-michigans-importance-88338750-e1724711730767.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-08-26T23:04:14Z",
       "content": "From the right: Trump Can Win on Character\nFriendly advice that Donald Trump should focus on the economy or “concentrate more on the issues in this campaign” is “ insufficient to making the case against Kamala Harris,” argues Rich Lowry at The New Yo... [4226 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724713454
     },
     {
       "source": {
@@ -152,7 +176,8 @@
         "personal_legal",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1724713202
     },
     {
       "source": {
@@ -170,7 +195,8 @@
         "government_administration",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1724713200
     },
     {
       "source": {
@@ -188,7 +214,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724713200
     },
     {
       "source": {
@@ -206,7 +233,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724713200
     },
     {
       "source": {
@@ -224,7 +252,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724712796
     },
     {
       "source": {
@@ -242,7 +271,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724712604
     },
     {
       "source": {
@@ -260,7 +290,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724711973
     },
     {
       "source": {
@@ -280,7 +311,8 @@
         "media_communications",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1724711865
     },
     {
       "source": {
@@ -299,7 +331,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1724711430
     },
     {
       "source": {
@@ -319,7 +352,8 @@
         "doj_actions",
         "federal_courts",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1724711427
     },
     {
       "source": {
@@ -337,7 +371,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1724711230
     },
     {
       "source": {
@@ -356,7 +391,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1724711084
     },
     {
       "source": {
@@ -376,7 +412,8 @@
         "russia",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1724710879
     },
     {
       "source": {
@@ -396,7 +433,8 @@
         "crisis_emergency",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1724710639
     },
     {
       "source": {
@@ -410,7 +448,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2024/08/Dave-Grohl-of-Foo-Fighters-Donald-Trump.jpg?w=1024",
       "publishedAt": "2024-08-26T22:10:52Z",
       "content": "This is a call from Donald Trump to Foo Fighters.\nA spokesman for the ex-POTUS and current GOP presidential nominee hit back at the multiplatinum band today after Dave Grohl and company complained about their hit “My Hero” being played at a weekend r... [3756 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724710252
     },
     {
       "source": {
@@ -430,7 +473,8 @@
         "legal_justice",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1724710001
     },
     {
       "source": {
@@ -448,7 +492,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1724709660
     }
   ]
 }

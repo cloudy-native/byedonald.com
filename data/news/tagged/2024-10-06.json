@@ -20,7 +20,8 @@
         "policy_legislation",
         "legal_justice",
         "natural_disasters"
-      ]
+      ],
+      "publishedAtTs": 1728258730
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/09/donald_trump_2167843519.jpg",
       "publishedAt": "2024-10-06T23:45:53Z",
       "content": "A new ad from the Harris-Walz campaign hits Donald Trump on the latest revelations in the Jack Smith election interference case.\nThe ad, titled \"Bombshell,\" focuses on Trump's alleged reaction when he heard that then-Vice President Mike Pence was end... [1241 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1728258353
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/Schiff-scaled.webp",
       "publishedAt": "2024-10-06T23:43:23Z",
       "content": "Rep. Adam Schiff (D-CA) argued that former President Donald Trump has “more reason” to challenge the results of this election cycle than in 2020, specifically due to how the former president faces potential jail time.\nTrump has claimed numerous times... [3023 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1728258203
     },
     {
       "source": {
@@ -66,7 +77,8 @@
         "government_administration",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728257711
     },
     {
       "source": {
@@ -80,7 +92,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/former-president-donald-trump-jim-watson-afp.jpg?id=52504756&width=1200&height=600&coordinates=0%2C58%2C0%2C58",
       "publishedAt": "2024-10-06T23:33:12Z",
       "content": "Donald Trump on Sunday gave a speech in which he messed up his words multiple times, leading observers to label it yet \"another senior moment.\"\nTrump spoke in Wisconsin, where he made a comment that some took as a veiled threat to supporters of Vice ... [1635 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728257592
     },
     {
       "source": {
@@ -100,7 +117,8 @@
         "elections_politics",
         "regional_state",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1728257580
     },
     {
       "source": {
@@ -120,7 +138,8 @@
         "policy_legislation",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728255745
     },
     {
       "source": {
@@ -134,7 +153,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTBcXFwvMDcxNjMxMTNcXFwvNDcwYjkyNGJhMGJlNDRlZWE1ODQ4MzkxZjdmOTc1ZGEtMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjQyODExZDAzODljYWNhNTBlNWNjMjRhNGNiODIzMWU1MGJhZDUwNjYifQ==/us-supreme-court-will-not-hear-appeal-from-musk-s-x-over-warrant-in-trump-case.jpg",
       "publishedAt": "2024-10-06T23:00:00Z",
       "content": "The US Supreme Court said on Monday it will not hear an appeal from the social media platform X over a search warrant prosecutors obtained in the election-interference case against former president Donald Trump.\nThe justices did not explain their rea... [2171 chars]",
-      "tags": ["legal_justice", "security_intelligence", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1728255600
     },
     {
       "source": {
@@ -148,7 +172,12 @@
       "urlToImage": "https://img.rasset.ie/00211937-1600.jpg",
       "publishedAt": "2024-10-06T23:00:00Z",
       "content": "\"I've gotten a lot of abuse over the years for being enthusiastic,\" says Ben Elton. \"The British don’t like enthusiasm. I’ve always been an enemy of the idea that it’s cool to be sneery and dismissive.\n\"When I was at university, the cool people were ... [9827 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1728255600
     },
     {
       "source": {
@@ -168,7 +197,8 @@
         "policy_legislation",
         "elections_politics",
         "taxes"
-      ]
+      ],
+      "publishedAtTs": 1728255600
     },
     {
       "source": {
@@ -188,7 +218,8 @@
         "security_intelligence",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728255600
     },
     {
       "source": {
@@ -208,7 +239,8 @@
         "travel",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1728255001
     },
     {
       "source": {
@@ -222,7 +254,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.png?id=51701852&width=1200&height=600&coordinates=0%2C131%2C0%2C132",
       "publishedAt": "2024-10-06T22:43:13Z",
       "content": "Donald Trump on Sunday reignited a feud with late-night host Jimmy Kimmel.\nTrump over the weekend hosted a rally in the battleground state of Wisconsin. During his speech, the former president battled a fly on stage and made an off-hand comment that ... [1034 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728254593
     },
     {
       "source": {
@@ -236,7 +273,12 @@
       "urlToImage": "https://pyxis.nymag.com/v1/imgs/7d8/094/19641d7c26d36e9f16ce4c708fde4677e3-call-her-daddy.1x.rsocial.w1200.png",
       "publishedAt": "2024-10-06T22:42:39Z",
       "content": "Photo: Unwell Media/YouTube\nShoutout to Alex Cooper for upholding the fairness doctrine, we guess. On the most recent episode of Call Her Daddy, featuring presidential hopeful Kamala Harris, Cooper said she’d extended the same invite to former presid... [961 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728254559
     },
     {
       "source": {
@@ -256,7 +298,8 @@
         "swing_states",
         "political_endorsements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728253259
     },
     {
       "source": {
@@ -275,7 +318,8 @@
         "media_communications",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1728252640
     },
     {
       "source": {
@@ -289,7 +333,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/1991728251419/2024/1/c7edbad3578990bc681e12a805594550/v1.5/With-weeks-until-election-Harris-and-Trump-sling-criticisms-at-one-another.jpg",
       "publishedAt": "2024-10-06T22:09:10Z",
       "content": "1 of 3 | A supporter of former President Donald Trump dresses as Uncle Sam during the rally at the Butler Farm Show grounds in Pennsylvania on Saturday. Photo by Archie Carpenter/UPI | License Photo\nOct. 6 (UPI) -- With just several weeks until Elect... [3630 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728252550
     },
     {
       "source": {
@@ -308,7 +357,8 @@
         "social_issues",
         "gun_policy",
         "religious_freedom"
-      ]
+      ],
+      "publishedAtTs": 1728251797
     },
     {
       "source": {
@@ -326,7 +376,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728251663
     },
     {
       "source": {
@@ -340,7 +391,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/10/CTC-Election-2024-Trump207032917.jpg?w=1024&h=683",
       "publishedAt": "2024-10-06T21:50:52Z",
       "content": "JUNEAU, Wis. — Donald Trump on Sunday visited Wisconsin for the fourth time in eight days as his campaign showers attention on a pivotal state where Republicans fret about his ability to match Democrats’ enthusiasm and turnout machine.\n“They say that... [5486 chars]",
-      "tags": ["elections_politics", "regional_state", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "swing_states"
+      ],
+      "publishedAtTs": 1728251452
     },
     {
       "source": {
@@ -354,7 +410,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409067-1714591721981-gettyimages-2151008548-jr025523_ferdn5sx.jpeg?v=1714591896&w=1920&h=1080",
       "publishedAt": "2024-10-06T21:32:30Z",
       "content": "Vice President Kamala Harris sits for an interview with Alex Cooper on the \"Call Her Daddy\" podcast.\nVice President Kamala Harris was all business in an interview on the sex-positive \"Call Her Daddy\" podcast that aired Sunday.\nHarris, the Democratic ... [1109 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1728250350
     },
     {
       "source": {
@@ -368,7 +429,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump.jpg?id=53773884&width=1200&height=600&coordinates=0%2C0%2C0%2C71",
       "publishedAt": "2024-10-06T21:11:39Z",
       "content": "Donald Trump was in the middle of talking about fossil fuels when a fly distracted him, and critics say he came off looking old and even confused.\nTrump, who at the end of September was similarly thrown off when a small fly stole his thunder at a ral... [1491 chars]",
-      "tags": ["media_communications", "personal_family", "crisis_emergency"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1728249099
     },
     {
       "source": {
@@ -382,7 +448,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1564268-12-20241006134734.jpeg",
       "publishedAt": "2024-10-06T21:10:00Z",
       "content": "As a public speaker, Elon Musk usually is somewhat subdued. But his enthusiasm for Donald Trump apparently transformed him Saturday in a high-energy, bouncy appearance at the candidate's rally in Pennsylvania . Jumping up and down, arms raised, the b... [1070 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728249000
     },
     {
       "source": {
@@ -396,7 +467,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2488608/smiths-new-donald-trump-filing-could-backfire.jpg",
       "publishedAt": "2024-10-06T20:51:54Z",
       "content": "Legal analyst and attorney Jonathan Turley wrote in a Saturday opinion column that Department of Justice (DOJ) special counsel Jack Smith's latest filing against former President Donald Trump could \"backfire\" on prosecutors.\nOn Wednesday, U.S. Distri... [6045 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1728247914
     },
     {
       "source": {
@@ -415,7 +491,8 @@
         "social_issues",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728247766
     }
   ]
 }

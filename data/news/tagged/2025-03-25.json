@@ -18,7 +18,8 @@
         "government_administration",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1742947180
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "intelligence",
         "cybersecurity",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1742946360
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://i.cbc.ca/1.7170140.1712794457!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/alta-legislation-20240410.jpg?im=Resize%3D620",
       "publishedAt": "2025-03-25T23:34:25Z",
       "content": "Alberta Premier Danielle Smith came into the federal election campaign hoping her words would leave an imprint.\nWell, maybe not like this.\nShe wanted her points about oil and gas regulation, and her demands on pipeline approvals, to influence the con... [6562 chars]",
-      "tags": ["regional_state", "policy_legislation", "economy_finance"]
+      "tags": [
+        "regional_state",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1742945665
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "national_security",
         "intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742945520
     },
     {
       "source": {
@@ -86,7 +94,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2023/10/TNY-LCR0606.jpg?w=1024&h=576",
       "publishedAt": "2025-03-25T23:08:48Z",
       "content": "A federal judge on Tuesday halted the detention and potential deportation of a Columbia University junior who was arrested outside the hours-long takeover of a Barnard College library earlier this month.\nJudge Naomi Reice Buchwald issued a temporary ... [2720 chars]",
-      "tags": ["legal_justice", "civil_rights", "immigration"]
+      "tags": [
+        "legal_justice",
+        "civil_rights",
+        "immigration"
+      ],
+      "publishedAtTs": 1742944128
     },
     {
       "source": {
@@ -100,7 +113,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/03/Trump_Speech_Congress_30637_1d893f.jpg?w=1024&h=683",
       "publishedAt": "2025-03-25T23:08:37Z",
       "content": "WASHINGTON — The Trump administration can stop approving new refugees for entry into the U.S. but has to allow in people who were conditionally accepted before the president suspended the nation’s refugee admissions system, an appeals court ruled Tue... [2866 chars]",
-      "tags": ["legal_justice", "government_administration", "foreign_policy"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1742944117
     },
     {
       "source": {
@@ -120,7 +138,8 @@
         "national_security",
         "security_intelligence",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1742943660
     },
     {
       "source": {
@@ -138,7 +157,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1742943324
     },
     {
       "source": {
@@ -152,7 +172,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/9f27c9d378210130426140ec41c0998477870afe/0_166_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=746dcfa73936dc066461b210645ac7f4",
       "publishedAt": "2025-03-25T22:53:52Z",
       "content": "A federal judge in Manhattan blocked immigration officials from detaining Yunseo Chung, a Columbia University student and legal permanent resident the Trump administration is trying to deport for taking part in Gaza solidarity protests.\nThe 21-year-o... [3411 chars]",
-      "tags": ["legal_justice", "civil_rights", "immigration"]
+      "tags": [
+        "legal_justice",
+        "civil_rights",
+        "immigration"
+      ],
+      "publishedAtTs": 1742943232
     },
     {
       "source": {
@@ -166,7 +191,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/2dc1621/2147483647/strip/true/crop/6336x3564+0+330/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2Fb2%2Fdb391d9e2fd1cf9d448cacd95ff2%2Ffc030d2e9e53408b8fcfb9369bc617ba",
       "publishedAt": "2025-03-25T22:51:38Z",
       "content": "President Donald Trump’s crypto empire is expanding with the recent announcements of a new dollar-backed stablecoin and investment funds for digital assets. The moves are the latest in the norm-defying ways the president has leaned into crypto projec... [3422 chars]",
-      "tags": ["cryptocurrency", "economy_finance", "personal_business"]
+      "tags": [
+        "cryptocurrency",
+        "economy_finance",
+        "personal_business"
+      ],
+      "publishedAtTs": 1742943098
     }
   ]
 }

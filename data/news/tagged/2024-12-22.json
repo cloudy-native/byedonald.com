@@ -20,7 +20,8 @@
         "security_intelligence",
         "economy_finance",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1734911535
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_intelligence",
         "regional_state",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1734911514
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "government_administration",
         "economy_finance",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1734911375
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1734911111
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "government_administration",
         "economy_finance",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1734910660
     },
     {
       "source": {
@@ -110,7 +115,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/18_12_2024_22_41_55_8456816.jpg?width=920&format=jpeg",
       "publishedAt": "2024-12-22T23:33:56Z",
       "content": "In a controversial move, Donald Trump suggested his administration might attempt to reclaim the Panama Canal, criticizing the United States for 'foolishly' ceding control. He described current passage fees as 'ridiculous,' sparking diplomatic unease ... [599 chars]",
-      "tags": ["foreign_policy", "government_administration", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1734910436
     },
     {
       "source": {
@@ -128,7 +138,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734909648
     },
     {
       "source": {
@@ -148,7 +159,8 @@
         "foreign_policy",
         "middle_east",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734908157
     },
     {
       "source": {
@@ -168,7 +180,8 @@
         "security_intelligence",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734907406
     },
     {
       "source": {
@@ -182,7 +195,12 @@
       "urlToImage": "https://media.zenfs.com/en/thestreet_881/b16df033e8928608a11a0dbbd83d4d80",
       "publishedAt": "2024-12-22T22:36:41Z",
       "content": "U.S. president-elect Donald Trump has named pro-bitcoin advocate Stephen Miran as chairman of the Council of Economic Advisors, an agency which advises Trump on domestic and international economic policy.\nMiran’s appointment suggests that the second ... [1766 chars]",
-      "tags": ["economy_finance", "cryptocurrency", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "cryptocurrency",
+        "government_administration"
+      ],
+      "publishedAtTs": 1734907001
     }
   ]
 }

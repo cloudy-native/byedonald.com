@@ -19,7 +19,8 @@
         "ukraine",
         "russia",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727395067
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "policy_legislation",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727394942
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2024/04/gettyimages-1258353176-2-2024-04-79756464c5062faf039a2cf171e5cdb7.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2024-09-26T23:53:53Z",
       "content": "Trump spoke hours after the Ukrainian president met with his US counterpart Joe Biden and Trump’s November election rival Kamala Harris at the White House read more\nDonald Trump said he would meet Ukrainian President Volodymyr Zelenskyy on Friday in ... [1283 chars]",
-      "tags": ["foreign_policy", "europe", "ukraine"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "ukraine"
+      ],
+      "publishedAtTs": 1727394833
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727394703
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "military",
         "ukraine",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1727393701
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "government_administration",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727393115
     },
     {
       "source": {
@@ -133,7 +143,8 @@
         "terrorism",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1727392227
     },
     {
       "source": {
@@ -147,7 +158,10 @@
       "urlToImage": "https://img.rasset.ie/00210a13-1600.jpg",
       "publishedAt": "2024-09-26T23:00:00Z",
       "content": "Judd Trump made his 1,000th century break at the British Open in Cheltenham but lost 5-3 to Ireland's Mark Allen in their quarter-final.\nWorld number one Trump became just the third player after Ronnie O'Sullivan and John Higgins to reach the career ... [1131 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -161,7 +175,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDlcXFwvMjQxNTAyMTZcXFwvR2V0dHlJbWFnZXMtMjE3MDU4MzgzNi1lMTcyNzE4NjU2MzMxMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQ1NTdlNTEzY2RhNWI3ZDQ0ZGExZGI0ZjhiNWEzZjFmMjljOTcxMjQifQ==/harris-has-narrow-lead-over-trump-in-swing-states-poll-says.jpg",
       "publishedAt": "2024-09-26T23:00:00Z",
       "content": "Democratic presidential candidate Kamala Harris holds a narrow lead over Republican rival Donald Trump in six US swing states and is tied in a seventh, according to a Bloomberg poll of likely voters released on Friday.\nHer leads in individual states ... [2046 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -180,7 +199,8 @@
         "security_intelligence",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -200,7 +220,8 @@
         "russia",
         "military",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -220,7 +241,8 @@
         "personal_family",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -234,7 +256,12 @@
       "urlToImage": "https://img.rasset.ie/00210792-1600.jpg",
       "publishedAt": "2024-09-26T23:00:00Z",
       "content": "British Prime Minister Keir Starmer has met US Republican presidential candidate Donald Trump during a visit to New York.\nMr Starmer visited Trump Tower for talks ahead of November's US election. Mr Starmer said he wanted to meet Mr Trump face to fac... [2928 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727391600
     },
     {
       "source": {
@@ -254,7 +281,8 @@
         "security_incidents",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727391378
     },
     {
       "source": {
@@ -274,7 +302,8 @@
         "2028_presidential",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1727391178
     },
     {
       "source": {
@@ -294,7 +323,8 @@
         "policy_legislation",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727391035
     },
     {
       "source": {
@@ -314,7 +344,8 @@
         "government_administration",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727390979
     },
     {
       "source": {
@@ -328,7 +359,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90466958.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-26T22:45:33Z",
       "content": "Video shows the moment the son of would-be Donald Trump assassin Ryan Routh was busted by federal agents in North Carolina on child porn charges.\nOran Routh, 35, was arrested this week after images of child sex abuse were discovered at his Greensboro... [2408 chars]",
-      "tags": ["criminal_cases", "legal_justice", "security_intelligence"]
+      "tags": [
+        "criminal_cases",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1727390733
     },
     {
       "source": {
@@ -342,7 +378,12 @@
       "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-kamala-harris-volodymyr-zelenskyy_6697621.jpg?20240926223114",
       "publishedAt": "2024-09-26T22:38:00Z",
       "content": "Kamala Harris and her campaign team will hope her balcony appearance with Volodymyr Zelenskyy is a glimpse into a presidential future.\nThe Democratic Party candidate, with her vice-presidential hat on, was meeting Ukraine's president at her office in... [2781 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727390280
     },
     {
       "source": {
@@ -361,7 +402,8 @@
         "security_intelligence",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727390206
     },
     {
       "source": {
@@ -375,7 +417,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90456395.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-26T22:36:33Z",
       "content": "Former New York City Mayor Rudy Giuliani was disbarred in Washington, DC, Thursday over false claims about the 2020 presidential election when he represented former President Donald Trump.\nThe DC Court of Appeals order stripping the 80-year-old forme... [2444 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727390193
     },
     {
       "source": {
@@ -389,7 +436,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2112608341.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-09-26T22:35:41Z",
       "content": "CNN —\nA major Trump Media shareholder and former contestant on “The Apprentice” has unloaded almost his entire stake in former President Donald Trump’s social media company. Although the stock price has been volatile, that stake is worth roughly $100... [1386 chars]",
-      "tags": ["personal_business", "stock_market", "small_business"]
+      "tags": [
+        "personal_business",
+        "stock_market",
+        "small_business"
+      ],
+      "publishedAtTs": 1727390141
     },
     {
       "source": {
@@ -403,7 +455,13 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240926-joe-biden-volodymyr-zelenskyy-mn-1508-715cd8.jpg",
       "publishedAt": "2024-09-26T22:25:14Z",
       "content": "WASHINGTON — Former President Donald Trump said on Thursday that he would meet with Ukraine's President Volodymyr Zelenskyy Friday morning at Trump Tower in New York.\nTrump was previously not expected to meet with the Ukrainian president, who has alr... [3969 chars]",
-      "tags": ["foreign_policy", "europe", "russia", "ukraine"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1727389514
     },
     {
       "source": {
@@ -417,7 +475,12 @@
       "urlToImage": "https://i2-prod.liverpoolecho.co.uk/article29998310.ece/ALTERNATES/s1200/0_WhatsApp-Image-2024-09-24-at-141311_5d610902.jpg",
       "publishedAt": "2024-09-26T22:22:00Z",
       "content": "Sir Keir Starmer set to meet Donald Trump for talks ahead of US election\nThe Prime Minister is visiting the Republican presidential candidate’s Trump Tower\nSir Keir Starmer delivers his Labour Party Conference speech in Liverpool (Image: Liverpool EC... [1783 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727389320
     },
     {
       "source": {
@@ -437,7 +500,8 @@
         "government_administration",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727389114
     }
   ]
 }

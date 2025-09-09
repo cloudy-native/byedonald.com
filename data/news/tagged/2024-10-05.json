@@ -20,7 +20,8 @@
         "security_intelligence",
         "security_incidents",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728172446
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_intelligence",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728172200
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "2028_presidential",
         "media_communications",
         "polling"
-      ]
+      ],
+      "publishedAtTs": 1728172080
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "media_communications",
         "campaign_events",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1728171612
     },
     {
       "source": {
@@ -93,7 +97,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2024/10/GettyImages-2176078700.jpg?w=1024",
       "publishedAt": "2024-10-05T23:30:42Z",
       "content": "Elon Musk spoke for the first time at a Donald Trump rally, telling a massive crowd in Butler, PA that the election was a “must-win situation.”\n“As you can see, I am not just MAGA, I’m dark MAGA,” Musk, wearing a black Make America Great Again hat, t... [3590 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728171042
     },
     {
       "source": {
@@ -113,7 +122,8 @@
         "elections_politics",
         "personal_business",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728170735
     },
     {
       "source": {
@@ -133,7 +143,8 @@
         "regional_state",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1728169200
     },
     {
       "source": {
@@ -153,7 +164,8 @@
         "personal_family",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728169200
     },
     {
       "source": {
@@ -171,7 +183,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728169200
     },
     {
       "source": {
@@ -185,7 +198,12 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-donald-trump-butler_6707795.jpg?20241005232313",
       "publishedAt": "2024-10-05T22:44:00Z",
       "content": "Donald Trump has returned to the site where he survived an assassination attempt in Butler, Pennsylvania - and opened with a joke.\n\"Thank you,\" he told a large crowd, reportedly in the tens of thousands. \"A very big thank you. We love Pennsylvania, a... [2595 chars]",
-      "tags": ["regional_state", "security_intelligence", "personal_family"]
+      "tags": [
+        "regional_state",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728168240
     },
     {
       "source": {
@@ -204,7 +222,8 @@
         "media_communications",
         "social_issues",
         "religious_freedom"
-      ]
+      ],
+      "publishedAtTs": 1728167744
     },
     {
       "source": {
@@ -223,7 +242,8 @@
         "security_intelligence",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1728167286
     },
     {
       "source": {
@@ -243,7 +263,8 @@
         "media_communications",
         "political_endorsements",
         "polling"
-      ]
+      ],
+      "publishedAtTs": 1728165840
     },
     {
       "source": {
@@ -263,7 +284,8 @@
         "government_administration",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728163018
     },
     {
       "source": {
@@ -283,7 +305,8 @@
         "2026_midterms",
         "campaign_events",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728161095
     },
     {
       "source": {
@@ -303,7 +326,8 @@
         "security_intelligence",
         "foreign_policy",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728159564
     },
     {
       "source": {
@@ -321,7 +345,8 @@
         "crisis_emergency",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728158178
     },
     {
       "source": {
@@ -341,7 +366,8 @@
         "policy_legislation",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728154838
     },
     {
       "source": {
@@ -361,7 +387,8 @@
         "elections_politics",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728154489
     },
     {
       "source": {
@@ -381,7 +408,8 @@
         "elections_politics",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728152844
     },
     {
       "source": {
@@ -401,7 +429,8 @@
         "security_intelligence",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728151200
     },
     {
       "source": {
@@ -415,7 +444,12 @@
       "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/10/rajat-sharma-10-1728148348-1728150210.jpg",
       "publishedAt": "2024-10-05T17:44:40Z",
       "content": "Follow us on Image Source : INDIA TV India TV Chairman and Editor-in-Chief Rajat Sharma.\nIndia TV Chairman and Editor-in-Chief Rajat Sharma expressed his intention to invite former US President Donald Trump to his famous show, 'Aap Ki Adalat,' during... [1347 chars]",
-      "tags": ["media_communications", "personal_family", "regional_state"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1728150280
     },
     {
       "source": {
@@ -435,7 +469,8 @@
         "foreign_policy",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728149580
     }
   ]
 }

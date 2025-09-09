@@ -20,7 +20,8 @@
         "government_administration",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1675986844
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "doj_actions",
         "criminal_cases",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1675986300
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2193601/donald-trump-lashes-out-conservative-donors-2024.jpg",
       "publishedAt": "2023-02-09T23:41:08Z",
       "content": "Former President Donald Trump has lashed out in anger after a network of wealthy Republican donors indicated they will not be supporting his 2024 presidential bid.\nTrump, in a Truth Social post on Thursday, ripped The Wall Street Journal as \"globalis... [2879 chars]",
-      "tags": ["personal_family", "elections_politics", "media_communications"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1675986068
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://www.reuters.com/resizer/0l-Bbc772Z8ZyLFXtLs-UcrEBA4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IZPYFKCEZFLSPHNMPK4Y2ONYWI.jpg",
       "publishedAt": "2023-02-09T23:36:41Z",
       "content": "[1/2] Former U.S. Vice President Mike Pence speaks at the Heritage Foundation in Washington, U.S., October 19, 2022. REUTERS/Leah Millis\nWASHINGTON, Feb 9 (Reuters) - Former U.S. Vice President Mike Pence and former national security adviser Robert O... [2415 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675985801
     },
     {
       "source": {
@@ -81,7 +93,11 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.3531%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_58/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/b8e3905b88e01f9f177c70c46e20700009c0cc70",
       "publishedAt": "2023-02-09T23:36:21Z",
       "content": "The 2022 midterm elections, which Republicans predicted would be a triumph for their party, turned into a stinging disappointment, and some blame Mr Trump for elevating acolytes in primaries who fared poorly in statewide contests, and for continuing ... [4329 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675985781
     },
     {
       "source": {
@@ -95,7 +111,12 @@
       "urlToImage": "https://www.reuters.com/resizer/r0SDc4aM4UYOGjCP2WJXH02OWpg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QB6IAVHMJRPILAA52XZLLFEYGE.jpg",
       "publishedAt": "2023-02-09T23:34:44Z",
       "content": "[1/2] Former Brazilian President Jair Bolsonaro looks on during \"Power of The People\" event hosted by Turning Point USA at Trump National Doral Miami Resort in Doral, Florida, U.S., February 3, 2023. REUTERS/Marco Bello\nWASHINGTON, Feb 10 (Reuters) -... [2345 chars]",
-      "tags": ["foreign_policy", "latin_america", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "latin_america",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675985684
     },
     {
       "source": {
@@ -115,7 +136,8 @@
         "impeachment",
         "criminal_cases",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1675985422
     },
     {
       "source": {
@@ -134,7 +156,8 @@
         "elections_politics",
         "social_issues",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1675983715
     },
     {
       "source": {
@@ -148,7 +171,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/W3yk9Zqcf9eWpTKk92xG72wZfYQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IVGNANYLJG7RMV7PZU6PW65FA.jpg",
       "publishedAt": "2023-02-09T22:55:21Z",
       "content": "Will it be Don vs. Ron in 2024 — or Don vs. Ron and the rest of them?\nFormer President Donald Trump badly trails Florida Gov. Ron DeSantis in a new head-to-head national poll of Republican 2024 voters.\nAdvertisement\nFormer President Donald Trump and ... [2686 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1675983321
     },
     {
       "source": {
@@ -162,7 +190,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000006396294.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-02-09T22:49:49Z",
       "content": "Former President Donald Trump edges out Florida Gov. Ron DeSantis in a hypothetical three-way 2024 GOP presidential primary — with former South Carolina Gov. Nikki Haley playing spoiler, a new poll finds.\nIn a head-to-head matchup, DeSantis, 44, gets... [2739 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1675982989
     },
     {
       "source": {
@@ -176,7 +209,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/11/donald_trump_1440108837.jpg",
       "publishedAt": "2023-02-09T22:33:59Z",
       "content": "Former President Donald Trump did not spend most of the donor money he received in the past two years to help his own presidential bid — or the GOP as a whole — while putting nearly $1 million into his own properties.\nSince leaving office through the... [3656 chars]",
-      "tags": ["personal_family", "campaign_finance", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "campaign_finance",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1675982039
     },
     {
       "source": {
@@ -190,7 +228,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209155108-file-national-security-adviser-robert-obrien.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-09T22:04:15Z",
       "content": "CNN —\nFormer national security adviser Robert O’Brien has been subpoenaed by special counsel Jack Smith in both his investigation into classified documents found at former President Donald Trump’s Mar-a-Lago residence and the probe related to efforts... [3126 chars]",
-      "tags": ["legal_justice", "security_intelligence", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675980255
     },
     {
       "source": {
@@ -204,7 +247,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/newspress-collage-25697148-1675980180933.jpg?quality=75&strip=all&1675962274&w=1024",
       "publishedAt": "2023-02-09T21:55:24Z",
       "content": "Former President Donald Trump has plowed nearly $1 million in donor contributions into Trump Tower, Mar-a-Lago and his other properties in the two years since he left office, a new report said Thursday.\nThe cash injections were made through Trump’s v... [2638 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675979724
     },
     {
       "source": {
@@ -218,7 +266,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/62c2bEIhnxl5Bg_8FT_U6cS5g3s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/K56DGFMY7ZBLPBL3LWMNM54SE4.jpg",
       "publishedAt": "2023-02-09T21:50:28Z",
       "content": "Mayor Adams has recently struck up a friendship with conservative talk show host Sid Rosenberg, unnerving some of the mayor’s fellow Democrats who argue palling around with the right-wing radio personality sends a troubling message.\nSince taking offi... [4157 chars]",
-      "tags": ["media_communications", "elections_politics", "regional_state"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1675979428
     },
     {
       "source": {
@@ -236,7 +289,8 @@
         "congressional_investigations",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1675978159
     },
     {
       "source": {
@@ -250,7 +304,12 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/c7e1c0aa-7578-49da-982f-8baa50e09ab0/c7e1c0aa-7578-49da-982f-8baa50e09ab0_1140x641.jpg",
       "publishedAt": "2023-02-09T21:03:00Z",
       "content": "Trump has been using his own social media platform Truth Social for the last two years.\nNEW YORK — Former President Donald Trump's Facebook and Instagram accounts were reactivated Thursday after they were suspended in the wake of the Jan. 6, 2021 ass... [2376 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675976580
     },
     {
       "source": {
@@ -264,7 +323,12 @@
       "urlToImage": "https://img2.thejournal.ie/article/5991671/river/?height=400&version=5991695",
       "publishedAt": "2023-02-09T20:17:36Z",
       "content": "FORMER US PRESIDENT Donald Trump has had his pages on Facebook and Instagram restored today, more than two years after they were banned.\nMeta, the parent company of both social media sites, banned Trump for his “praise for people engaged in violence ... [1747 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675973856
     },
     {
       "source": {
@@ -278,7 +342,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/AP22314498959966-e1675973804327.jpg?w=1280",
       "publishedAt": "2023-02-09T20:16:55Z",
       "content": "Jason Miller, a longtime advisor to former President Trump, is joining the Trump campaign as he assembles a team for his 2024 White House bid.\nMiller worked on both Trump’s 2016 and 2020 campaigns. He will provide the campaign with strategic guidance... [1324 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675973815
     },
     {
       "source": {
@@ -292,7 +360,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/9GRmp5qhEgzqf2dp9OWAyQXMM7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/7O7WECU26NAPHOIQM34AHB42X4.jpg",
       "publishedAt": "2023-02-09T19:29:21Z",
       "content": "Former President Donald Trump’s suspensions on Facebook and Instagram have been lifted, more than two years after his supporters stormed the U.S. Capitol, parent company Meta confirmed Thursday.\nMeta had suspended Trump from its platforms after “his ... [1818 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675970961
     },
     {
       "source": {
@@ -306,7 +378,11 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107189606-1675711395323-gettyimages-1246619645-eisen_trump012823_003.jpeg?v=1675970260&w=1920&h=1080",
       "publishedAt": "2023-02-09T19:17:40Z",
       "content": "Former U.S. President Donald Trump speaks at the New Hampshire Republican State Committee's Annual Meeting on January 28, 2023 in Salem, New Hampshire.\nFormer President Donald Trump now has access to his Facebook and Instagram accounts once again, pa... [1457 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675970260
     },
     {
       "source": {
@@ -320,7 +396,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130103937-01-donald-trump-0128.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-09T19:06:29Z",
       "content": "CNN —\nDonald Trump’s Facebook and Instagram accounts were restored on Thursday, allowing the former president to once again post on the social media platforms, a Meta spokesperson confirmed to CNN.\nAs of Thursday afternoon, Trump had not yet resumed ... [1363 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675969589
     },
     {
       "source": {
@@ -334,7 +414,12 @@
       "urlToImage": "https://static.politico.com/17/ce/d32952684c09968a5e3e196917f9/media-newsmax-miller-28314.jpg",
       "publishedAt": "2023-02-09T18:57:51Z",
       "content": "“It was always a matter of when and not if I returned to help re-elect President Trump in 2024, and seeing the current state of the country under Joe Biden I couldn’t remain sidelined any longer,” said Miller in a statement. “You can impact the world... [2101 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675969071
     },
     {
       "source": {
@@ -348,7 +433,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/02/sarah-huckabee-sanders-1246878769.jpg",
       "publishedAt": "2023-02-09T18:57:40Z",
       "content": "Prominent supporters of former President Donald Trump on Wednesday criticized Arkansas Gov. Sarah Huckabee Sanders' response to President Joe Biden's State of the Union address.\nSanders, who served as Trump's White House press secretary, delivered a ... [3734 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675969060
     },
     {
       "source": {
@@ -362,7 +452,12 @@
       "urlToImage": "https://images.wsj.net/im-712702/social",
       "publishedAt": "2023-02-09T18:49:00Z",
       "content": "Despite recently passing legislation that will impose hundreds of billions of dollars in taxes on America’s job creators, my Democratic colleagues are using a new Government Accountability Office report as justification for a push to raise taxes even... [735 chars]",
-      "tags": ["economy_finance", "taxes", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1675968540
     }
   ]
 }

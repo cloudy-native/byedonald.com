@@ -14,7 +14,8 @@
       "urlToImage": "https://img.rasset.ie/001ef4da-1600.jpg",
       "publishedAt": "2023-10-14T23:00:00Z",
       "content": "Judd Trump came from behind to defeat Ali Carter 10-7 in the final of the Wuhan Open.\nThe 34-year-old made it back-to-back ranking titles following his English Open victory last week.\nTrump raced into a 4-1 lead but fellow Englishman Carter reeled of... [455 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1697324400
     },
     {
       "source": {
@@ -28,7 +29,12 @@
       "urlToImage": "https://www.reuters.com/resizer/MnXca3rnaIJ28QwjQMSoqYtmASE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HHC3K263EBLQDC3CXRLUCGULSQ.jpg",
       "publishedAt": "2023-10-14T21:11:00Z",
       "content": "The U.S. Capitol is seen at sunrise as Republican House members will today continue their search to find a House speaker following the ouster of Kevin McCarthy, in Washington, U.S., October 13, 2023. REUTERS/Kevin Lamarque Acquire Licensing Rights\nWA... [5615 chars]",
-      "tags": ["foreign_policy", "crisis_emergency", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "crisis_emergency",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697317860
     },
     {
       "source": {
@@ -42,7 +48,12 @@
       "urlToImage": "https://media.zenfs.com/en/snopes_632/41e47732599fd645b5a1216cdb698e57",
       "publishedAt": "2023-10-14T21:00:00Z",
       "content": "Claim:\nU.S. President Joe Biden ordered the FBI to make unannounced \"knock and talk\" visits to the homes of over 100,000 supporters of former U.S. President Donald Trump .\nRating:\nIn September 2023, a user on X posted what appeared to be a shocking n... [2956 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697317200
     },
     {
       "source": {
@@ -56,7 +67,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/haleynikki_101323getty_haley.jpg?w=1280",
       "publishedAt": "2023-10-14T21:00:00Z",
       "content": "Nikki Haley is increasingly being viewed as the most viable alternative to former President Trump, as Florida Gov. Ron DeSantis (R) continues to struggle to gain traction in the primary.\nThe former United Nations ambassador received widespread praise... [6612 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1697317200
     },
     {
       "source": {
@@ -70,7 +85,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hUEpFQlta16RSw8HFPgp8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/5414c440ffe83fb8b56fa400b09c7fa7",
       "publishedAt": "2023-10-14T18:27:59Z",
       "content": "Former Trump lawyer Michael Cohen will not testify next week in the $250 million civil fraud case against the former president because of a health-related issue, two sources confirmed to NBC News on Friday.\nIt was not immediately clear how long Cohen... [1971 chars]",
-      "tags": ["legal_justice", "personal_family", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1697308079
     },
     {
       "source": {
@@ -84,7 +104,11 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/97b267055b3114508b14d04acab42962",
       "publishedAt": "2023-10-14T10:00:00Z",
       "content": "President Biden’s response to the terrorist attacks against Israel may have given him a point of contrast with former President Donald Trump on foreign policy and leadership style.\nBiden has drawn plaudits from both sides of the aisle for his unequiv... [4693 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1697277600
     },
     {
       "source": {
@@ -103,7 +127,8 @@
         "civil_litigation",
         "criminal_cases",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1697258012
     },
     {
       "source": {
@@ -117,7 +142,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/10/010aef78-91a2-5b6b-b5d4-1db4c37f7be9/652990322d8a6.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2023-10-14T02:57:03Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "government_administration"]
+      "tags": [
+        "elections_politics",
+        "government_administration"
+      ],
+      "publishedAtTs": 1697252223
     },
     {
       "source": {
@@ -131,7 +160,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/Cohen-on-Trump-2023.png?w=1280",
       "publishedAt": "2023-10-14T02:41:11Z",
       "content": "Former President Trump’s ex-lawyer Michael Cohen will no longer testify next week in the New York civil fraud trial against Trump due to health reasons.\nCohen delayed his court appearance, citing a medical issue, sources confirmed to the Daily Beast,... [1668 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697251271
     },
     {
       "source": {
@@ -145,7 +178,12 @@
       "urlToImage": "https://static.politico.com/fd/1e/ac45e8b54530a18613e3221df5ac/election-2024-haley-36811.jpg",
       "publishedAt": "2023-10-14T01:23:05Z",
       "content": "In this notoriously late-breaking state with a libertarian streak where independents are poised to play an outsize role in the Republican primary, DeSantis’ polling decline has created an opening for Haley, the former South Carolina governor. But Chr... [8661 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1697246585
     },
     {
       "source": {
@@ -164,7 +202,8 @@
         "personal_legal",
         "civil_litigation",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1697245500
     }
   ]
 }

@@ -20,7 +20,8 @@
         "foreign_policy",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1746489409
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/05/Mattel_Results_47017.jpg?w=1024&h=700",
       "publishedAt": "2025-05-05T23:50:46Z",
       "content": "NEW YORK — Mattel Inc., the maker of Barbie dolls, Hot Wheels cars and other popular toys, said Monday that it would have to raise prices for some products sold in the U.S. “where necessary” to offset higher costs related to President Donald Trump’s ... [1827 chars]",
-      "tags": ["economy_finance", "trade", "small_business"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "small_business"
+      ],
+      "publishedAtTs": 1746489046
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "personal_family",
         "regional_state",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1746488291
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "elections_politics",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1746488207
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "foreign_policy",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746488116
     },
     {
       "source": {
@@ -106,7 +115,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/05/Justice_Grant_Cancellations_96292_90f11e-1.jpg?w=1024&h=683",
       "publishedAt": "2025-05-05T23:33:05Z",
       "content": "WASHINGTON — The Trump administration on Monday asked a judge to toss out a lawsuit from three GOP-led states seeking to cut off telehealth access to abortion medication mifepristone.\nJustice Department attorneys stayed the legal course charted by Bi... [3107 chars]",
-      "tags": ["legal_justice", "health_science", "policy_legislation"]
+      "tags": [
+        "legal_justice",
+        "health_science",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746487985
     },
     {
       "source": {
@@ -125,7 +139,8 @@
         "education",
         "civil_rights",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1746487348
     },
     {
       "source": {
@@ -145,7 +160,8 @@
         "economy_finance",
         "small_business",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1746486609
     },
     {
       "source": {
@@ -163,7 +179,8 @@
         "foreign_policy",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746486000
     },
     {
       "source": {
@@ -177,7 +194,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDYyMTQ1MThcXFwvNzhjMzE3MTgxNzg1NDZmZDhmMTE5OWFlOTgyZDNkZGEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1YzlmZTZjYThmZDUxZjZmYWE0YzAzOTc3OTgyZjUyMjM1MDBjMDJhIn0=/carney-and-trump-remain-apart-on-tariffs-and-51-state-after-white-house-meeting.jpg",
       "publishedAt": "2025-05-05T23:00:00Z",
       "content": "US president Donald Trump and Canadian prime minister Mark Carney faced off in the Oval Office and showed no signs of retreating from their gaping differences in an ongoing trade war that has shattered decades of trust between the two countries.\nThe ... [3721 chars]",
-      "tags": ["trade", "foreign_policy", "government_administration"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1746486000
     }
   ]
 }

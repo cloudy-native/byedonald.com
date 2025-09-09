@@ -14,7 +14,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/2Xg22435yzW3AuTMADMxxgv9ZQY=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/76CT5QWSTBH5HORRALXIWQZ57Y.jpg",
       "publishedAt": "2023-02-24T22:27:58Z",
       "content": "Ten news outlets appealed Friday for Georgia’s top court to release a grand jury report containing recommendations on whether former President Donald Trump should be charged over his efforts to overturn the 2020 presidential election.\nThe grand jury ... [1810 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677277678
     },
     {
       "source": {
@@ -28,7 +32,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/10/donald_trump_mar_a_lago_1242585432_1399664383.jpg",
       "publishedAt": "2023-02-24T22:21:35Z",
       "content": "Months after the Justice Department combed through former President Donald Trump's private estate in Mar-a-Lago, another box containing a handful of classified records mysteriously turned up, despite several rounds of searches of the property by fede... [6532 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1677277295
     },
     {
       "source": {
@@ -48,7 +57,8 @@
         "foreign_policy",
         "legal_justice",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1677273075
     },
     {
       "source": {
@@ -62,7 +72,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230224154731-02-fulton-county-superior-court-judge-robert-mcburney-file.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-24T20:59:12Z",
       "content": "CNN —\nThe judge who oversaw a special grand jury investigating efforts by former President Donald Trump and his allies to overturn the 2020 election in Georgia says he instructed jurors they were prevented from discussing deliberations but did not fa... [2423 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677272352
     },
     {
       "source": {
@@ -80,7 +94,8 @@
         "government_administration",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1677271501
     },
     {
       "source": {
@@ -94,7 +109,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg?width=920&format=jpeg",
       "publishedAt": "2023-02-24T20:18:48Z",
       "content": "Less than a fortnight after entering the race to the White House, Indian-American Nikki Haley is leading against President Joe Biden in a hypothetical match, a latest opinion poll said on Friday.\nBut she trails badly against leading GOP candidate for... [921 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1677269928
     },
     {
       "source": {
@@ -108,7 +127,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/201208121723-jenna-ellis-1202.jpg?q=x_2,y_88,h_1123,w_1995,c_crop/w_800",
       "publishedAt": "2023-02-24T19:56:40Z",
       "content": "Washington CNN —\nThe disciplinary office that regulates attorney conduct in Colorado is taking steps toward potentially bringing an ethics complaint against Jenna Ellis, the lawyer who played a prominent role in former President Donald Trump’s attemp... [3334 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677268600
     },
     {
       "source": {
@@ -127,7 +150,8 @@
         "2028_presidential",
         "regional_state",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1677268427
     },
     {
       "source": {
@@ -145,7 +169,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1677267533
     },
     {
       "source": {
@@ -159,7 +184,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/11/donald_trump_1439881034.jpg",
       "publishedAt": "2023-02-24T19:36:55Z",
       "content": "As with every other week for the past few months, the big question of the week among the chattering classes has been whether former president Donald Trump still has his mojo among the MAGA crowd. With the ambitious Florida dreamboat Gov. Ron DeSantis... [6089 chars]",
-      "tags": ["elections_politics", "personal_family", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677267415
     },
     {
       "source": {
@@ -179,7 +209,8 @@
         "doj_actions",
         "congressional_investigations",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1677266322
     },
     {
       "source": {
@@ -193,7 +224,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/01/donald_trump_justice_coming_down_1367002408_487401374.jpg",
       "publishedAt": "2023-02-24T18:53:20Z",
       "content": "A federal judge on Thursday ruled that two former FBI officials can depose former President Donald Trump as part of a wrongful termination lawsuit after he bragged about firing them.\nPeter Strzok and Lisa Page, two former FBI officials that were part... [3365 chars]",
-      "tags": ["legal_justice", "doj_actions", "personnel"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personnel"
+      ],
+      "publishedAtTs": 1677264800
     },
     {
       "source": {
@@ -207,7 +243,12 @@
       "urlToImage": "https://images.livemint.com/img/2023/02/25/600x338/Donald_Trump_1677305813233_1677305813522_1677305813522.JPG",
       "publishedAt": "2023-02-24T18:30:00Z",
       "content": "\"We are looking to kill Donald Trump,\" a top Revolutionary Guards commander warned the former US President and other two officials while speaking about the country's repeated threat to avenge the US killing of a top Iranian Commander, according to th... [1553 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1677263400
     },
     {
       "source": {
@@ -221,7 +262,12 @@
       "urlToImage": "https://www.theweek.in/content/dam/week/news/world/images/2019/5/1/iran-missiles-portrait.jpg",
       "publishedAt": "2023-02-24T18:30:00Z",
       "content": "Iran has developed a cruise missile with a range of 1,650 km in a move likely to raise Western concerns after Russia's use of Iranian drones in the Ukraine conflict. The head of the Revolutionary Guards aerospace force, Amirali Hajizadeh, spoke of Ir... [1527 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1677263400
     },
     {
       "source": {
@@ -240,7 +286,8 @@
         "regional_state",
         "2026_midterms",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1677262729
     },
     {
       "source": {
@@ -254,7 +301,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/f6af4ad5e2ec4eaaa8801f51d9c26296.jpg?w=1280",
       "publishedAt": "2023-02-24T17:55:12Z",
       "content": "The Justice Department is seeking answers about a box containing classified materials that was moved to former President Trump’s Mar-a-Lago residence after federal agents searched the property last August, CNN reported on Friday.\nTrump’s lawyers repo... [1870 chars]",
-      "tags": ["legal_justice", "personal_family", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677261312
     },
     {
       "source": {
@@ -268,7 +320,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230215153819-06-trump-investigations-fulton-county.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-24T17:51:29Z",
       "content": "CNN —\nA coalition of media outlets is asking the Georgia Supreme Court to reconsider a decision that blocked the full release of a Fulton County special grand jury report, which includes recommendations for whether former President Donald Trump or an... [3187 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1677261089
     },
     {
       "source": {
@@ -282,7 +339,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230224-donald-trump-al-0846-0090aa.jpg",
       "publishedAt": "2023-02-24T17:20:30Z",
       "content": "A federal judge in Washington on Thursday denied a request from news outlets to release court records related to former President Donald Trump's efforts to stop ex-aides from testifying before a grand jury about efforts to overturn the 2020 election ... [3270 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677259230
     },
     {
       "source": {
@@ -296,7 +358,10 @@
       "urlToImage": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-02/golf.jpg?h=a5ae579a&itok=FO-LLjbc",
       "publishedAt": "2023-02-24T16:55:11Z",
       "content": "February 24, 2023\nThe Saudi-funded LIV Golf league began its second season on Friday.\nThe first tournament is being held at the El Camaleon Mayakoba Golf Course on Mexico’s Gulf coast. LIV, which is 93% owned by the Saudi Public Investment Fund, will... [3182 chars]",
-      "tags": ["legal_justice"]
+      "tags": [
+        "legal_justice"
+      ],
+      "publishedAtTs": 1677257711
     },
     {
       "source": {
@@ -310,7 +375,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2200630/buttigieg.png",
       "publishedAt": "2023-02-24T16:51:46Z",
       "content": "In the days leading up to his visit to the site of a catastrophic train derailment that left the small town of East Palestine, Ohio, plagued with highly toxic chemicals, U.S. Secretary of Transportation Pete Buttigieg was, for a time, the most scruti... [6819 chars]",
-      "tags": ["crisis_emergency", "transportation", "regional_state"]
+      "tags": [
+        "crisis_emergency",
+        "transportation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677257506
     },
     {
       "source": {
@@ -324,7 +394,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/americans-united-for-separation-of-church-and-state-president-and-ceo-rachel-laser.jpg?id=33088867&width=1200&height=600&coordinates=0%2C1153%2C0%2C2591",
       "publishedAt": "2023-02-24T16:00:19Z",
       "content": "The leader of one the nation’s largest religious-freedom groups warns “America cannot stay America” without a renewed commitment to fighting back against extremists emboldened by former President Donald Trump.\nIn a wide-ranging interview with Raw Sto... [6940 chars]",
-      "tags": ["supreme_court", "religious_freedom", "social_issues"]
+      "tags": [
+        "supreme_court",
+        "religious_freedom",
+        "social_issues"
+      ],
+      "publishedAtTs": 1677254419
     },
     {
       "source": {
@@ -338,7 +413,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/2ff081aa6d88ae2c7439825a509971a9c8b08a95/273_109_2584_1550/master/2584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=042bc4b87b5212d7d0bf1b0692e88dab",
       "publishedAt": "2023-02-24T15:58:41Z",
       "content": "Stephen Colbert\nStephen Colbert continued to focus on the devastating toxic train derailment in East Palestine, Ohio, on Thursday evening, as the transportation secretary, Pete Buttigieg, finally visited the site nearly three weeks after the disaster... [3783 chars]",
-      "tags": ["media_communications", "policy_legislation", "social_issues"]
+      "tags": [
+        "media_communications",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1677254321
     },
     {
       "source": {
@@ -352,7 +432,12 @@
       "urlToImage": "https://compote.slate.com/images/310000a1-6800-43f0-bffd-0a1ac9321c96.jpeg?crop=1485%2C990%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-02-24T15:48:31Z",
       "content": "Can the government arrest and jail citizens for criticizing public officials? The answer might seem obvious in light of the First Amendment. In the 5th Circuit Court of Appeals, however, it is not. Instead, the court has blessed the detention of one ... [9516 chars]",
-      "tags": ["legal_justice", "free_speech", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "free_speech",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1677253711
     },
     {
       "source": {
@@ -371,7 +456,8 @@
         "elections_politics",
         "government_administration",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1677253261
     },
     {
       "source": {
@@ -391,7 +477,8 @@
         "supreme_court",
         "doj_actions",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1677250200
     }
   ]
 }

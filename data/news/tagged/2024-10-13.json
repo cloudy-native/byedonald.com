@@ -20,7 +20,8 @@
         "elections_politics",
         "media_communications",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1728863460
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_intelligence",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728863064
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2024_15_16_52_1492491.png?width=920&format=jpeg",
       "publishedAt": "2024-10-13T23:40:28Z",
       "content": "A man was arrested near Donald Trump's rally in California after being found with loaded firearms, fake license plate, and multiple passports, according to Riverside County Sheriff Chad Bianco. The arrest is believed to have thwarted a potential assa... [592 chars]",
-      "tags": ["security_incidents", "national_security", "crisis_emergency"]
+      "tags": [
+        "security_incidents",
+        "national_security",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1728862828
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "legal_justice",
         "criminal_cases",
         "border_security"
-      ]
+      ],
+      "publishedAtTs": 1728862057
     },
     {
       "source": {
@@ -93,7 +101,8 @@
         "personal_legal",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728861777
     },
     {
       "source": {
@@ -113,7 +122,8 @@
         "personal_legal",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728861640
     },
     {
       "source": {
@@ -127,7 +137,8 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lkZfV4BGETtv8eVKdc5SLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/wall_street_journal_733/6460719b52b6eebf304f8b6fe20dd5d8",
       "publishedAt": "2024-10-13T23:20:00Z",
       "content": "Reuters\nChina is locking in steps to shape the pricing of the vast quantities of industrial metals it produces and consumes, with moves to attract foreign firms to trade on Shanghai's futures exchange, which would eventually fragment global markets. ... [531 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1728861600
     },
     {
       "source": {
@@ -141,7 +152,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-y0musap3v-1728862021690.jpg?quality=75&strip=all&1728847675&w=1024",
       "publishedAt": "2024-10-13T23:14:07Z",
       "content": "Top operatives from Donald Trump’s presidential campaign are very confident in their ability to close strong in swing states, contending Kamala Harris’ metrics have collapsed in the seven battlegrounds likely to decide the presidential election in ju... [3969 chars]",
-      "tags": ["elections_politics", "media_communications", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "swing_states"
+      ],
+      "publishedAtTs": 1728861247
     },
     {
       "source": {
@@ -161,7 +177,8 @@
         "elections_politics",
         "policy_legislation",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728860668
     },
     {
       "source": {
@@ -175,7 +192,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTBcXFwvMTQwMDM5MjZcXFwvOWE0Y2VhYTE5YWUyNGRiNTliODZkZTQzNGZjMGMxZTkuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1OGUzMTkzYWY1MGE1ZDU1YTQ2YjZhYjNmNmEyYzVkMmE1MzJmMWY4In0=/man-with-firearms-in-car-arrested-near-trump-rally.jpg",
       "publishedAt": "2024-10-13T23:00:00Z",
       "content": "A man with a shotgun-loaded handgun, ammunition and several fake passports in his vehicle was arrested at a security checkpoint outside Donald Trump’s rally on Saturday night in the Southern California desert, authorities said.\nHe was released on Sat... [2437 chars]",
-      "tags": ["security_incidents", "legal_justice", "crisis_emergency"]
+      "tags": [
+        "security_incidents",
+        "legal_justice",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1728860400
     },
     {
       "source": {
@@ -194,7 +216,8 @@
         "media_communications",
         "regional_state",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1728860400
     },
     {
       "source": {
@@ -213,7 +236,8 @@
         "campaign_events",
         "border_security",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1728860315
     },
     {
       "source": {
@@ -233,7 +257,8 @@
         "national_security",
         "crisis_emergency",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728859872
     },
     {
       "source": {
@@ -252,7 +277,8 @@
         "security_intelligence",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728858115
     },
     {
       "source": {
@@ -272,7 +298,8 @@
         "government_administration",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728857886
     },
     {
       "source": {
@@ -292,7 +319,8 @@
         "california",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728856800
     },
     {
       "source": {
@@ -306,7 +334,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/Trump-MAGA-Hat.webp",
       "publishedAt": "2024-10-13T21:56:42Z",
       "content": "Democratic strategist James Carville called for Vice President Kamala Harris to continue to promote former President Donald Trump’s comments at rallies, as voters need to “pay attention” to Trump’s rhetoric.\nCarville specifically spotlighted recent c... [1970 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728856602
     },
     {
       "source": {
@@ -324,7 +357,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728856462
     },
     {
       "source": {
@@ -344,7 +378,8 @@
         "elections_politics",
         "campaign_events",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728856291
     },
     {
       "source": {
@@ -358,7 +393,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=53099217&width=1200&height=600&coordinates=0%2C170%2C0%2C171",
       "publishedAt": "2024-10-13T21:48:34Z",
       "content": "Police assigned to patrol Donald Trump's rally in California on Saturday say they arrested a man outside of the event for illegal possession of firearms.\nTrump faced one attempt on his life months ago in Pennsylvania, and a separate person was arrest... [848 chars]",
-      "tags": ["security_incidents", "campaign_events", "criminal_cases"]
+      "tags": [
+        "security_incidents",
+        "campaign_events",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1728856114
     },
     {
       "source": {
@@ -378,7 +418,8 @@
         "government_administration",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728856062
     },
     {
       "source": {
@@ -397,7 +438,8 @@
         "border_security",
         "national_security",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1728856020
     },
     {
       "source": {
@@ -416,7 +458,8 @@
         "personal_family",
         "elections_politics",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1728855084
     },
     {
       "source": {
@@ -430,7 +473,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/84ddeb1/2147483647/strip/true/crop/2773x1560+0+145/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fee%2F8c7fb9eaef4c1733ca7068da3a11%2F5ba1f6fff456407abdf1876f8422939e",
       "publishedAt": "2024-10-13T21:23:52Z",
       "content": "NEW YORK (AP) — The choices on the movie marquee this weekend included Joaquin Phoenix as the Joker, a film about Donald Trump, a “Saturday Night Live” origin story and even Pharrell Williams as a Lego. In the end, all were trounced by an ax-wielding... [5888 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728854632
     }
   ]
 }

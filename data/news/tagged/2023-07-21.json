@@ -19,7 +19,8 @@
         "criminal_cases",
         "supreme_court",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1689983443
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "doj_actions",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1689981163
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1689974537
     },
     {
       "source": {
@@ -71,7 +74,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/owQYypZQFIT_v_59la8dVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/d852cb40-280b-11ee-afbe-1f624dd21099",
       "publishedAt": "2023-07-21T21:16:26Z",
       "content": "The Canadian Press\nNEW YORK (AP) — Donald Trump's company and his former longtime lawyer and fixer Michael Cohen have settled a lawsuit over Cohen's claims that he was unfairly stuck with big legal bills after getting entangled in investigations into... [268 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1689974186
     },
     {
       "source": {
@@ -85,7 +93,12 @@
       "urlToImage": "https://img2.thejournal.ie/article/6125623/river/?height=400&version=6125637",
       "publishedAt": "2023-07-21T21:00:37Z",
       "content": "DONALD TRUMP’S COMPANY and his former longtime lawyer and fixer Michael Cohen have settled a lawsuit over Cohen’s claims that he was unfairly stuck with big legal bills after becoming entangled in investigations into the former president.\nLawyers for... [2959 chars]",
-      "tags": ["personal_family", "legal_justice", "personal_legal"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1689973237
     },
     {
       "source": {
@@ -99,7 +112,12 @@
       "urlToImage": "https://static.politico.com/89/eb/254456984949a8b9d80c20bac71f/trump-legal-troubles-54698.jpg",
       "publishedAt": "2023-07-21T20:24:32Z",
       "content": "A spokesperson for the court confirmed the existence of the settlement and said the trial had been adjourned. He said he couldn’t provide details of the settlement.\nA lawyer for Cohen, Lauren Handelsman, said, “The matter has been resolved in a manne... [916 chars]",
-      "tags": ["legal_justice", "personal_family", "civil_litigation"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "civil_litigation"
+      ],
+      "publishedAtTs": 1689971072
     },
     {
       "source": {
@@ -113,7 +131,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
       "publishedAt": "2023-07-21T20:12:50Z",
       "content": "A federal judge in Florida has scheduled a trial date for next May for former President Donald Trump in a case charging him with illegally retaining hundreds of classified documents.\nThe May 20, 2024, trial date, set for Friday by US District Judge A... [3748 chars]",
-      "tags": ["legal_justice", "personal_family", "florida"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "florida"
+      ],
+      "publishedAtTs": 1689970370
     },
     {
       "source": {
@@ -132,7 +155,8 @@
         "criminal_cases",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1689969660
     },
     {
       "source": {
@@ -146,7 +170,12 @@
       "urlToImage": "https://www.reuters.com/resizer/vJH6utLQtX4LURGGqsbZ3x4Z81o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QYZPA7G5KFMIRPTQE3SXTZDDAY.jpg",
       "publishedAt": "2023-07-21T19:49:37Z",
       "content": "WASHINGTON, July 21 (Reuters) - Former President Donald Trump's trial over his alleged mishandling of classified documents will begin on May 20 next year, according to a U.S. court order on Friday.\nTrump's lawyers had resisted setting a date but said... [1469 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1689968977
     },
     {
       "source": {
@@ -160,7 +189,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/8889f4e/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F5d%2Fe1%2F6ee4d2dd4f888db86a5245766487%2Fcampaign2.jpg",
       "publishedAt": "2023-07-21T19:24:23Z",
       "content": "ORONO, Maine — A brick exterior wall of the University of Maine’s Climate Change Institute features, behind glass, a recent USA Today article touting its scientific research. The story focused on the U.S. Ocean Climate Action Plan put in place by the... [11636 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1689967463
     },
     {
       "source": {
@@ -174,7 +208,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_51_4304562.jpg?width=920&format=jpeg",
       "publishedAt": "2023-07-21T19:00:01Z",
       "content": "Michael Cohen, the onetime personal lawyer and fixer for Donald Trump, has settled his lawsuit accusing the Trump Organization of failing to cover millions of dollars of legal bills he incurred over his work for the former U.S. president. Lawyers for... [2351 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1689966001
     },
     {
       "source": {
@@ -194,7 +232,8 @@
         "doj_actions",
         "federal_courts",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1689964200
     },
     {
       "source": {
@@ -213,7 +252,8 @@
         "media_communications",
         "personal_family",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1689964053
     },
     {
       "source": {
@@ -227,7 +267,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/07/20230721120728-64bab2df9afe9addd5e95a47jpeg.jpg;w=650;h=433;mode=crop",
       "publishedAt": "2023-07-21T17:29:53Z",
       "content": "NEW YORK (AP) — Donald Trump's company and his former longtime lawyer and fixer Michael Cohen have settled a lawsuit over Cohen's claims that he was unfairly stuck with big legal bills after getting entangled in investigations into the former preside... [4648 chars]",
-      "tags": ["personal_family", "legal_justice", "personal_legal"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1689960593
     },
     {
       "source": {
@@ -241,7 +286,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/06/untitled-design-101-168634753616x9.png",
       "publishedAt": "2023-07-21T17:06:58Z",
       "content": "A US judge on Friday ordered Donald Trump’s trial for mishandling top secret documents to begin in May of next year, at the height of what is expected to be a bitter and divisive presidential election campaign.\nUS District Court Judge Aileen Cannon s... [3470 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689959218
     },
     {
       "source": {
@@ -255,7 +304,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NAVHOwynadg.Cl2eBX3RdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/d2c5c657cfb4dd1141ec3a9c26b35812",
       "publishedAt": "2023-07-21T16:49:36Z",
       "content": "TALLAHASSEE, Fla. — Florida Gov. Ron DeSantis’ campaign is planning a reboot, top campaign officials said, with a significant shift on messaging, events and media strategy.\nExpect fewer big speeches and more handshaking in diners and churches.\nThere ... [7023 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1689958176
     },
     {
       "source": {
@@ -269,7 +323,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2260583/cornel-wests-chance-ruining-biden-reelection.jpg",
       "publishedAt": "2023-07-21T16:40:19Z",
       "content": "While Cornel West appears to have little chance of becoming the next president of the United States, the Green Party candidate could skew the election in Donald Trump's favor.\nSeveral polls show Trump and President Joe Biden as the top contenders in ... [3505 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1689957619
     }
   ]
 }

@@ -14,7 +14,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909163050-01-trump-iowa-state-090923.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-10T19:58:23Z",
       "content": "Ames, Iowa CNN —\nOn the field at Jack Trice Stadium in Ames, Iowa, on Saturday, the long-standing football rivalry between the Iowa State Cyclones and the Iowa Hawkeyes was just kicking off.\nOff the field, a high-profile Republican Party rivalry was ... [3406 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694375903
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/1984068ecf1d91b441841e26bb08725d",
       "publishedAt": "2023-09-10T17:30:46Z",
       "content": "Rep. French Hill (R-Ark.) said Sunday the House should not “repeat the mistakes” of former Speaker Nancy Pelosi’s (D-Calif.) impeachment inquiry into former President Trump when weighing the same for President Biden.\n“We don’t want to repeat the mist... [1682 chars]",
-      "tags": ["elections_politics", "legal_justice", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1694367046
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://extra.ie/wp-content/uploads/2023/09/meg-and-trump.png",
       "publishedAt": "2023-09-10T12:12:01Z",
       "content": "Former President Donald Trump has revealed he would 'love' to debate none other than Duchess of Sussex, Meghan Markle.\nThe unlikely pairing was brought about in a radio interview on Wednesday, with Trump expressing his desire to go head to head with ... [3649 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694347921
     },
     {
       "source": {
@@ -62,7 +77,8 @@
         "media_communications",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1694347251
     },
     {
       "source": {
@@ -76,7 +92,12 @@
       "urlToImage": "https://static.politico.com/a1/3e/ac83ca054f969e651f09f004fa5e/election-2024-trump-south-dakota-32772.jpg",
       "publishedAt": "2023-09-10T11:00:00Z",
       "content": "But he’s not taking his eye entirely off the primary. In fact, he and his team are heavily engaged behind the scenes.\nIn recent weeks, Trump allies have worked with officials in various states to ensure that rules around the rewarding of delegates be... [6466 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694343600
     },
     {
       "source": {
@@ -95,7 +116,8 @@
         "china",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1694338223
     },
     {
       "source": {
@@ -109,7 +131,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907203544-trump-biden-split-0907.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-10T09:07:03Z",
       "content": "CNN —\nPresidential reelection bids tend to revolve around the incumbent’s performance in office. But a potential rematch between President Joe Biden and former President Donald Trump could upend that dynamic, polling suggests, with most voters saying... [7328 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1694336823
     },
     {
       "source": {
@@ -128,7 +154,8 @@
         "economy_finance",
         "elections_politics",
         "labor"
-      ]
+      ],
+      "publishedAtTs": 1694336448
     },
     {
       "source": {
@@ -142,7 +169,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230909-donald-trump-mn-1630-26e3cf.jpg",
       "publishedAt": "2023-09-10T09:00:00Z",
       "content": "WEST PALM BEACH, Fla. — Donald Trump likes to put his name on everything — except his taxpayer-funded post-presidential office here on North Flagler Drive.\nTrump’s website doesn’t list the address, which is about a 10-minute drive from his Mar-a-Lago... [9645 chars]",
-      "tags": ["personal_family", "florida", "regional_state"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694336400
     },
     {
       "source": {
@@ -156,7 +188,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/8fc873324bd79e0459be6bf197a183d2f50592b8/0_9_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=3f9ef47c56884b509097b20f0c3a043f",
       "publishedAt": "2023-09-10T07:02:45Z",
       "content": "It is going to be nasty, brutish and very, very long. The general election is probably more than a year away, but the campaign has already begun. Sir Keir Starmer refettled his shadow cabinet with the main aim of having an election-ready top team. Th... [8474 chars]",
-      "tags": ["policy_legislation", "immigration", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694329365
     },
     {
       "source": {
@@ -170,7 +207,12 @@
       "urlToImage": "https://content.api.news/v3/images/bin/181db32c50ecb1c040e2f5395a1e1789",
       "publishedAt": "2023-09-10T02:39:24Z",
       "content": "US President Joe Biden will use a visit to Hanoi to boost his image as a unifier by saluting the memory of John McCain -- Vietnam War hero, Republican stalwart, and serial antagonist of Donald Trump.\nBiden begins a two-day visit to Vietnam on Sunday ... [3125 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694313564
     },
     {
       "source": {
@@ -184,7 +226,10 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/643027/uploads/d0a1e1d0-4aff-11ee-b244-c5869339e6ff_800_420.jpeg",
       "publishedAt": "2023-09-10T02:30:00Z",
       "content": "Just after his initial arrest in April, Donald Trump gave an extremely important speech, but he left out a significant member of his family: his wife Melania Trump.\nFollowing an investigation into an alleged hush money payment he made to adult film s... [3829 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1694313000
     },
     {
       "source": {
@@ -198,7 +243,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/84SKGjqa2u8sa9YASzd_0e3emQ0=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/UKTJTBCNVZON7K7AQDLZFG75OM.jpg",
       "publishedAt": "2023-09-10T00:27:01Z",
       "content": "Open this photo in gallery: Former President Donald Trump throws a football to the crowd during a visit to the Alpha Gamma Rho, agricultural fraternity, at Iowa State University before an NCAA college football game between Iowa State and Iowa, Saturd... [5065 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694305621
     }
   ]
 }

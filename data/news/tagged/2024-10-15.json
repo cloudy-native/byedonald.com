@@ -20,7 +20,8 @@
         "media_communications",
         "security_intelligence",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1729035946
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "government_administration",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1729035301
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/10/GettyImages-2178603888.jpg?w=1024&h=681",
       "publishedAt": "2024-10-15T23:28:50Z",
       "content": "Democrat presidential nominee Kamala Harris sat down Tuesday with Power 105.1 host Charlamagne Tha God for an audio town hall in Detroit.\n“The Breakfast Club” host kicked off the event by asking Harris what she would say to critics who accuse her of ... [2825 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1729034930
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/10/CTC-Election-2024-Harris208538736.jpg?w=1024&h=683",
       "publishedAt": "2024-10-15T23:26:54Z",
       "content": "DETROIT — Democratic presidential nominee Kamala Harris warned Tuesday that Republican Donald Trump would try to “institutionalize” harsh policing tactics that disproportionately affect Black men nationwide as she promised to push for legislation to ... [6744 chars]",
-      "tags": ["civil_rights", "racial_justice", "law_enforcement"]
+      "tags": [
+        "civil_rights",
+        "racial_justice",
+        "law_enforcement"
+      ],
+      "publishedAtTs": 1729034814
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-kamala-harris-us-election_6717068.jpg?20241015232540",
       "publishedAt": "2024-10-15T23:21:00Z",
       "content": "Star of film about Trump's life says it will take 'two years to get over' playing him\nThe star of a new film about Donald Trump's career has said it will take \"two years to get over\" playing the former US president.\nThe Apprentice biopic depicts the ... [1250 chars]",
-      "tags": ["elections_politics", "media_communications", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1729034460
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "social_issues",
         "health_science",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1729034207
     },
     {
       "source": {
@@ -116,7 +134,12 @@
       "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/4DO2S6FARZGSNIFAH2P4MQJUTY.PNG?auth=e5b2783ffaa5831772859673bf603d6587a4e3e11e1584362ce76548b9d1d54f&width=1200&height=600&smart=true",
       "publishedAt": "2024-10-15T23:16:44Z",
       "content": "BOONE, N.C. (WBTV) – Donald Trump Jr. defending repeated false statement’s made by his father, former president Donald Trump, in an interview with WBTV.\nThe former president’s son spoke with Chief Investigative Reporter Nick Ochsner after going on a ... [3836 chars]",
-      "tags": ["media_communications", "personal_family", "crisis_emergency"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1729034204
     },
     {
       "source": {
@@ -134,7 +157,8 @@
         "legal_justice",
         "congressional_investigations",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1729033934
     },
     {
       "source": {
@@ -154,7 +178,8 @@
         "security_intelligence",
         "national_security",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1729033738
     },
     {
       "source": {
@@ -174,7 +199,8 @@
         "policy_legislation",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1729033726
     },
     {
       "source": {
@@ -194,7 +220,8 @@
         "personal_family",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1729033660
     },
     {
       "source": {
@@ -208,7 +235,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/720237/uploads/e6703840-8ae6-11ef-9cd3-bb808bf184b2_1200_630.jpeg",
       "publishedAt": "2024-10-15T23:01:52Z",
       "content": "Concerns around Donald Trump's declining mental and physical health prompted The View hosts to weigh in on his looks with a critical eye. The all-women panelists discussed Trump's refusal to make public his medical records ahead of the November elect... [3249 chars]",
-      "tags": ["media_communications", "personal_family", "health_science"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "health_science"
+      ],
+      "publishedAtTs": 1729033312
     },
     {
       "source": {
@@ -226,7 +258,8 @@
         "elections_politics",
         "campaign_finance",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1729033200
     },
     {
       "source": {
@@ -246,7 +279,8 @@
         "legal_justice",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1729033200
     },
     {
       "source": {
@@ -260,7 +294,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTBcXFwvMTYyMTUyMjhcXFwvMi43NzgxNjEwNi1lMTcyOTExMjAzNzc0MC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjFiMDViMTg0NGVmNTFhOWUyMDVhZDlkZTVkMjkyZjA0OGMwM2NkOWQifQ==/sebastian-stan-says-it-will-take-two-years-to-get-over-playing-donald-trump.jpg",
       "publishedAt": "2024-10-15T23:00:00Z",
       "content": "Actor Sebastian Stan has said it will take “two years to get over” playing former US president Donald Trump in The Apprentice.\nSpeaking to the PA news agency, the Romanian-born American actor likened playing a real-life character to being in a relati... [3359 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1729033200
     },
     {
       "source": {
@@ -274,7 +313,12 @@
       "urlToImage": "https://img.rasset.ie/001937e6-1600.jpg",
       "publishedAt": "2024-10-15T23:00:00Z",
       "content": "Leonard Cohen's estate has reportedly issued a cease and desist letter to Donald Trump after he used Rufus Wainwright’s cover of Hallelujah at a rally.\nCanadian-American singer Wainwright has also issued a statement saying he was \"horrified\" by his r... [2171 chars]",
-      "tags": ["media_communications", "personal_family", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1729033200
     },
     {
       "source": {
@@ -294,7 +338,8 @@
         "political_endorsements",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1729033200
     },
     {
       "source": {
@@ -314,7 +359,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1729032678
     },
     {
       "source": {
@@ -333,7 +379,8 @@
         "elections_politics",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1729031400
     }
   ]
 }

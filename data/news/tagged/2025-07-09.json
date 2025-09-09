@@ -19,7 +19,8 @@
         "technology_regulation",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752092311
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752082304
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/epstein-trump-maxwell-musk-1200x675.jpg",
       "publishedAt": "2025-07-09T12:25:34Z",
       "content": "This is a total fucking disaster, an anonymous intelligence source recently said, of the crisis swiftly engulfing the Donald Trump’s Justice Department. That crisis involves the Jeffrey Epstein files… [+6210 chars]",
-      "tags": ["legal_justice", "personal_family", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752063934
     },
     {
       "source": {
@@ -73,7 +80,8 @@
         "media_communications",
         "foreign_policy",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1752091552
     },
     {
       "source": {
@@ -93,7 +101,8 @@
         "technology_regulation",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752096971
     },
     {
       "source": {
@@ -107,7 +116,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/elon-musk-air-force-academy-april-7.-2022-1200x675.jpg",
       "publishedAt": "2025-07-09T20:30:03Z",
       "content": "Linda Yaccarino announced she’s stepping down as the CEO of X on Wednesday morning, prompting X owner Elon Musk to respond with a terse “thank you for your contributions.” And while it comes just a d… [+2890 chars]",
-      "tags": ["media_communications", "social_media", "personal_business"]
+      "tags": [
+        "media_communications",
+        "social_media",
+        "personal_business"
+      ],
+      "publishedAtTs": 1752093003
     },
     {
       "source": {
@@ -125,7 +139,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752094837
     },
     {
       "source": {
@@ -145,7 +160,8 @@
         "foreign_policy",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752082252
     },
     {
       "source": {
@@ -159,7 +175,13 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8907/live/7b3d1400-5d07-11f0-a844-279cd2217db0.jpg",
       "publishedAt": "2025-07-09T21:09:44Z",
       "content": "US President Donald Trump said he was planning to impose a 50% tax on goods made in Brazil, escalating his fight with the South American country.\r\nHe announced the plan in his latest tariff letter, s… [+447 chars]",
-      "tags": ["trade", "foreign_policy", "economy_finance", "latin_america"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "economy_finance",
+        "latin_america"
+      ],
+      "publishedAtTs": 1752095384
     },
     {
       "source": {
@@ -177,7 +199,8 @@
         "government_administration",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752103308
     },
     {
       "source": {
@@ -191,7 +214,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f259/live/2a9b6bd0-5cff-11f0-a844-279cd2217db0.jpg",
       "publishedAt": "2025-07-09T20:09:21Z",
       "content": "The Trump administration is imposing sanctions on the UN Human Rights Council special rapporteur Francesca Albanese, an outspoken critic of Israel's military offensive in Gaza. \r\nSecretary of State M… [+2712 chars]",
-      "tags": ["foreign_policy", "legal_justice", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752091761
     },
     {
       "source": {
@@ -211,7 +239,8 @@
         "foreign_policy",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752096401
     },
     {
       "source": {
@@ -231,7 +260,8 @@
         "brazil",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752098757
     },
     {
       "source": {
@@ -245,7 +275,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4865x2737+0+505/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F6a%2F3e49c0da453c8467d1ee5097cb7c%2Fgettyimages-2208195300-2.jpg",
       "publishedAt": "2025-07-09T09:00:00Z",
       "content": "This week was supposed to mark the deadline for other countries to strike trade deals with the U.S. or face tariffs of up to 49% on the goods they sell in the United States. \r\nPresident Trump is stil… [+6520 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752051600
     },
     {
       "source": {
@@ -265,7 +300,8 @@
         "crisis_emergency",
         "natural_disasters",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1752051600
     },
     {
       "source": {
@@ -284,7 +320,8 @@
         "africa",
         "international_organizations",
         "china"
-      ]
+      ],
+      "publishedAtTs": 1752073053
     },
     {
       "source": {
@@ -304,7 +341,8 @@
         "government_administration",
         "federal_courts",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752058109
     },
     {
       "source": {
@@ -318,7 +356,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6628x3728+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2F2c%2Ff6e139df4bc19324541fc4a3d226%2Fap25149691447696.jpg",
       "publishedAt": "2025-07-09T19:35:27Z",
       "content": "The Diocese of San Bernardino is the first in the nation to formally lift the obligation for Catholics to attend Mass in response to immigration detentions on church property.\r\nCatholics are usually … [+781 chars]",
-      "tags": ["immigration", "religious_freedom", "social_issues"]
+      "tags": [
+        "immigration",
+        "religious_freedom",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752089727
     },
     {
       "source": {
@@ -336,7 +379,8 @@
         "health_science",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752051600
     },
     {
       "source": {
@@ -350,7 +394,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5252x2954+0+388/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Ffc%2Fa925dae44b888b6c071fe6bff78c%2F250629-1757.JPG",
       "publishedAt": "2025-07-09T09:00:00Z",
       "content": "Phillipa Munari started antidepressants in 2003. Her doctor recommended one, she said, after she complained of feeling tired. She didn't think it helped, but she kept taking it anyway. When she decid… [+11761 chars]",
-      "tags": ["public_health", "medical_research", "mental_health"]
+      "tags": [
+        "public_health",
+        "medical_research",
+        "mental_health"
+      ],
+      "publishedAtTs": 1752051600
     },
     {
       "source": {
@@ -370,7 +419,8 @@
         "personal_business",
         "foreign_policy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752038693
     },
     {
       "source": {
@@ -389,7 +439,8 @@
         "personal_family",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752079587
     },
     {
       "source": {
@@ -403,7 +454,13 @@
       "urlToImage": "https://i.insider.com/686d848cf748d8c055f5330c?width=1200&format=jpeg",
       "publishedAt": "2025-07-09T09:00:02Z",
       "content": "President Donald Trump meets with immigration crime victimsThomson Reuters\r\n<ul><li>Trump has been cracking down on immigration, including tighter security at the borders.</li><li>This is affecting h… [+5470 chars]",
-      "tags": ["immigration", "banking", "economy_finance", "foreign_policy"]
+      "tags": [
+        "immigration",
+        "banking",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752051602
     },
     {
       "source": {
@@ -417,7 +474,12 @@
       "urlToImage": "https://i.insider.com/686eb43b85e81483682daea5?width=1200&format=jpeg",
       "publishedAt": "2025-07-09T20:35:52Z",
       "content": "Proposed DOGE cuts have sparked backlash before.ALEX WROBLEWSKI/AFP via Getty Images\r\n<ul><li>The Supreme Court has allowed the Trump administration's federal job cut plans to proceed.</li><li>Federa… [+5624 chars]",
-      "tags": ["government_operations", "federal_agencies", "budget"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "budget"
+      ],
+      "publishedAtTs": 1752093352
     },
     {
       "source": {
@@ -437,7 +499,8 @@
         "government_administration",
         "economy_finance",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1752086019
     },
     {
       "source": {
@@ -457,7 +520,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752076523
     },
     {
       "source": {
@@ -477,7 +541,8 @@
         "terrorism",
         "crisis_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1752033624
     },
     {
       "source": {
@@ -491,7 +556,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vYju7fBHtbZa7ZsEcZcVyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/7cff4390-5c9d-11f0-bcbe-5f6002f10ae0",
       "publishedAt": "2025-07-09T08:20:22Z",
       "content": "Stock markets in Asia were mixed overnight, as investors digested Trumps latest trade announcements, which included a 50% tariff on copper and soon-coming levies on semiconductors and pharmaceuticals… [+1457 chars]",
-      "tags": ["economy_finance", "foreign_policy", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752049222
     },
     {
       "source": {
@@ -509,7 +579,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752058824
     },
     {
       "source": {
@@ -529,7 +600,8 @@
         "lgbtq_rights",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752101002
     },
     {
       "source": {
@@ -547,7 +619,8 @@
         "security_incidents",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752105068
     },
     {
       "source": {
@@ -567,7 +640,8 @@
         "security_intelligence",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752099349
     },
     {
       "source": {
@@ -581,7 +655,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/67569a0e-0759-40ba-b836-af93cd86f07e/250709_abc_social_newmexico_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T13:26:32Z",
       "content": "<ul><li>3 killed as flash flooding hits Southwest\r\n</li><li>Death toll rises to 110 after deadly Texas floods\r\n</li><li>Trump criticizes Putin as US prepares to send more weapons to Ukraine\r\n</li><li… [+4502 chars]",
-      "tags": ["natural_disasters", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752067592
     },
     {
       "source": {
@@ -595,7 +673,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ee8df051-f8a1-49a9-9d5f-22db944db71a/250709_abc_social_noshoes_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T13:26:45Z",
       "content": "<ul><li>3 killed as flash flooding hits Southwest\r\n</li><li>Death toll rises to 110 after deadly Texas floods\r\n</li><li>Trump criticizes Putin as US prepares to send more weapons to Ukraine\r\n</li><li… [+4502 chars]",
-      "tags": ["security_clearances", "transportation", "government_operations"]
+      "tags": [
+        "security_clearances",
+        "transportation",
+        "government_operations"
+      ],
+      "publishedAtTs": 1752067605
     },
     {
       "source": {
@@ -614,7 +697,8 @@
         "crisis_emergency",
         "regional_state",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1752067681
     },
     {
       "source": {
@@ -628,7 +712,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ce543945-deed-4b2c-b877-aa41d8b3a845/250709_abc_social_mcdonald_kidnap_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T21:15:22Z",
       "content": "<ul><li>Dozens of workers rescued after tunnel collapse\r\n</li><li>New questions about emergency response in Texas after flooding\r\n</li><li>Severe storms drench East Coast\r\n</li><li>At least 2 killed … [+4532 chars]",
-      "tags": ["regional_state", "crisis_emergency", "security_incidents"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1752095722
     },
     {
       "source": {
@@ -642,7 +731,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/826ab673-d710-4113-8aba-9dde7a949be2/250709_gma_social_barbie_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T19:47:25Z",
       "content": "<ul><li>Son searching for parents after Texas floods hopes tragedy will bring people together\r\n</li><li>Russia launches largest aerial assault on Ukraine after Trump's criticism of Putin\r\n</li><li>At… [+4339 chars]",
-      "tags": ["health_science", "social_issues"]
+      "tags": [
+        "health_science",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752090445
     },
     {
       "source": {
@@ -656,7 +749,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fb4bd21d-3177-4a0a-ae7f-8d3d7fb0cd4c/250709_abc_social_parallel_parking_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T23:19:58Z",
       "content": "<ul><li>Son searching for parents after Texas floods hopes tragedy will bring people together\r\n</li><li>Russia launches largest aerial assault on Ukraine after Trump's criticism of Putin\r\n</li><li>At… [+4339 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752103198
     },
     {
       "source": {
@@ -670,7 +764,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/10d7dd77-4667-4030-927e-7f29f6d980cd/250709_gma_social_devilprada_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-09T18:33:47Z",
       "content": "<ul><li>Son searching for parents after Texas floods hopes tragedy will bring people together\r\n</li><li>Russia launches largest aerial assault on Ukraine after Trump's criticism of Putin\r\n</li><li>At… [+4339 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752086027
     },
     {
       "source": {
@@ -688,7 +783,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752096720
     },
     {
       "source": {
@@ -702,7 +798,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Gv5O5To0rougifh8bshALH1sHI4=/0x74:3536x1916/1200x625/media/newsletters/2025/07/2025_07_09_Musk_American_Party/original.jpg",
       "publishedAt": "2025-07-09T21:13:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.If… [+10115 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752095580
     },
     {
       "source": {
@@ -720,7 +821,8 @@
         "security_intelligence",
         "cybersecurity",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752094620
     },
     {
       "source": {
@@ -740,7 +842,8 @@
         "ukraine",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752070848
     },
     {
       "source": {
@@ -760,7 +863,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1752057125
     },
     {
       "source": {
@@ -774,7 +878,11 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2025-07/09/19/thumb/5vOUklGF5.jpg?crop=3000:1571;0,0%26downsize=1250:*",
       "publishedAt": "2025-07-09T19:37:55Z",
       "content": "Whats been most upsetting to Asian American viewers of Love Island USA is how disregarded their experience with the word has been by other viewers. While some are taking it as a teachable moment, oth… [+1656 chars]",
-      "tags": ["social_issues", "media_communications"]
+      "tags": [
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752089875
     },
     {
       "source": {
@@ -794,7 +902,8 @@
         "government_administration",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752076763
     },
     {
       "source": {
@@ -814,7 +923,8 @@
         "natural_disasters",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752076800
     },
     {
       "source": {
@@ -834,7 +944,8 @@
         "economy_finance",
         "crisis_emergency",
         "public_health_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752056572
     },
     {
       "source": {
@@ -854,7 +965,8 @@
         "technology_regulation",
         "science_policy",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1752043698
     },
     {
       "source": {
@@ -874,7 +986,8 @@
         "health_science",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752103808
     },
     {
       "source": {
@@ -894,7 +1007,8 @@
         "personal_business",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752089431
     },
     {
       "source": {
@@ -914,7 +1028,8 @@
         "social_issues",
         "personal_family",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752098400
     },
     {
       "source": {
@@ -928,7 +1043,12 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/0/6/5/1330065.jpg",
       "publishedAt": "2025-07-09T16:30:00Z",
       "content": "A Terry Gilliam satire starring Jeff Bridges, Johnny Depp, Adam Driver, Jason Momoa and Tom Waits? Sounds amazing except well probably never get the chance to see it. And Gilliam blames the return of… [+2172 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752078600
     },
     {
       "source": {
@@ -946,7 +1066,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1752067800
     },
     {
       "source": {
@@ -966,7 +1087,8 @@
         "government_administration",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1752080400
     },
     {
       "source": {
@@ -986,7 +1108,8 @@
         "elections_politics",
         "health_science",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1752064222
     },
     {
       "source": {
@@ -1006,7 +1129,8 @@
         "health_science",
         "social_issues",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752093108
     },
     {
       "source": {
@@ -1020,7 +1144,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-09T16:28:02Z",
       "content": "from the seems-important dept\r\nFor months, the DOJ has insisted to US courts that it has no jurisdiction over the people it rendered to Salvadoran detention facilities. But when the UN came asking, E… [+8384 chars]",
-      "tags": ["foreign_policy", "legal_justice", "doj_actions"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1752078482
     },
     {
       "source": {
@@ -1040,7 +1169,8 @@
         "government_administration",
         "policy_legislation",
         "federal_agencies"
-      ]
+      ],
+      "publishedAtTs": 1752080011
     },
     {
       "source": {
@@ -1060,7 +1190,8 @@
         "israel",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1752084952
     },
     {
       "source": {
@@ -1074,7 +1205,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2207387741.jpg?quality=90&strip=all&crop=0%2C11.614288885117%2C100%2C76.771422229766&w=1200",
       "publishedAt": "2025-07-09T16:33:30Z",
       "content": "The One Big Beautiful Bill could make it harder for people to earn advanced degrees. | Justin Sullivan/Getty Images\r\n\n\nUniversity tuition in the United States is notoriously expensive — so much so th… [+5559 chars]",
-      "tags": ["education", "policy_legislation", "economy_finance"]
+      "tags": [
+        "education",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752078810
     },
     {
       "source": {
@@ -1094,7 +1230,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752068417
     },
     {
       "source": {
@@ -1114,7 +1251,8 @@
         "media_communications",
         "political_endorsements",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1752058201
     },
     {
       "source": {
@@ -1128,7 +1266,12 @@
       "urlToImage": "https://imagez.tmz.com/image/f7/16by9/2025/01/09/f7641a17892a4eb88f72a0963dbc3748_xl.jpg",
       "publishedAt": "2025-07-09T12:50:46Z",
       "content": "President Trump's famous and surprisingly cordial interaction with President Obama at President Jimmy Carter's funeral in January was a tantalizing mystery about what the two world leaders quietly ta… [+1182 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752065446
     },
     {
       "source": {
@@ -1148,7 +1291,8 @@
         "government_administration",
         "regional_state",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752070121
     },
     {
       "source": {
@@ -1166,7 +1310,8 @@
         "natural_disasters",
         "public_health_emergency",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752061137
     },
     {
       "source": {
@@ -1186,7 +1331,8 @@
         "security_intelligence",
         "cybersecurity",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1752024901
     },
     {
       "source": {
@@ -1205,7 +1351,8 @@
         "government_administration",
         "government_operations",
         "labor"
-      ]
+      ],
+      "publishedAtTs": 1752066174
     },
     {
       "source": {
@@ -1224,7 +1371,8 @@
         "technology_regulation",
         "social_issues",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752051600
     },
     {
       "source": {
@@ -1244,7 +1392,8 @@
         "policy_legislation",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752087600
     },
     {
       "source": {
@@ -1262,7 +1411,8 @@
         "foreign_policy",
         "economy_finance",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1752071130
     },
     {
       "source": {
@@ -1282,7 +1432,8 @@
         "legal_justice",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752089575
     },
     {
       "source": {
@@ -1302,7 +1453,8 @@
         "security_intelligence",
         "crisis_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1752096121
     },
     {
       "source": {
@@ -1320,7 +1472,8 @@
         "middle_east",
         "international_organizations",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752066573
     },
     {
       "source": {
@@ -1334,7 +1487,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/Clean2-1752071991.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-07-09T14:40:18Z",
       "content": "NewsFeed\r\nDespite two meetings in two days, US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have yet to agree on terms for a ceasefire deal with Hamas in Gaza. Al Jazeeras Nou… [+85 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752072018
     },
     {
       "source": {
@@ -1348,7 +1506,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752092689.jpg?resize=1620%2C1080&quality=80",
       "publishedAt": "2025-07-09T20:25:12Z",
       "content": "Toggle Play\r\nTrump: Very good chance of Gaza ceasefire this week or next",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752092712
     },
     {
       "source": {
@@ -1362,7 +1524,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/afp_686e3165a5d8-1752052069.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-09T09:43:44Z",
       "content": "In the latest instalment of the cant-make-this-sh*t-up contest in global politics and diplomacy, Israeli Prime Minister Benjamin Netanyahu has nominated United States President Donald Trump for the N… [+5235 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752054224
     },
     {
       "source": {
@@ -1376,7 +1543,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25187778032538-1751944446_edabbb-1751944849.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-07-09T14:13:55Z",
       "content": "United States President Donald Trump upped the stakes in his global trade war on Tuesday, with the announcement of plans to impose a 50 percent tariff on all imported copper alongside a 20 percent le… [+7734 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752070435
     },
     {
       "source": {
@@ -1396,7 +1568,8 @@
         "africa",
         "international_organizations",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752085529
     },
     {
       "source": {
@@ -1415,7 +1588,8 @@
         "security_intelligence",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752070228
     },
     {
       "source": {
@@ -1435,7 +1609,8 @@
         "trade",
         "latin_america",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752103571
     },
     {
       "source": {
@@ -1449,7 +1624,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25190261588391-1752079508.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-09T17:44:56Z",
       "content": "US President Donald Trump has issued a new round of tariff letters to six countries, including Algeria, Brunei, Iraq, Libya, Moldova and the Philippines.\r\nThe letters, which were sent on Wednesday, c… [+2592 chars]",
-      "tags": ["foreign_policy", "economy_finance", "trade"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752083096
     },
     {
       "source": {
@@ -1463,7 +1643,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-07T234647Z_201401360_RC2ZHFAXBC1U_RTRMADP_3_USA-ISRAEL-1752020473.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-09T00:26:00Z",
       "content": "United States President Donald Trump has met Israeli Prime Minister Benjamin Netanyahu at the White House for a second time in 24 hours to discuss a possible ceasefire deal in Gaza.\r\nThe unscheduled … [+3861 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel"
+      ],
+      "publishedAtTs": 1752020760
     },
     {
       "source": {
@@ -1483,7 +1668,8 @@
         "security_intelligence",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1752030053
     },
     {
       "source": {
@@ -1503,7 +1689,8 @@
         "middle_east",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752086134
     },
     {
       "source": {
@@ -1523,7 +1710,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1752052510
     },
     {
       "source": {
@@ -1537,7 +1725,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25190131757476-1752043511_a2faab-1752045201.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-07-09T08:36:44Z",
       "content": "Malaysian Prime Minister Anwar Ibrahim has warned of global trade being weaponised against weaker countries, as Southeast Asian ministers gather for a summit against the backdrop of United States Pre… [+2566 chars]",
-      "tags": ["foreign_policy", "trade", "international_organizations"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "international_organizations"
+      ],
+      "publishedAtTs": 1752050204
     },
     {
       "source": {
@@ -1551,7 +1744,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25189633946531-1752038879.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-09T07:03:18Z",
       "content": "Francesca Albanese, the United Nations special rapporteur on the human rights situation in the occupied Palestinian territory, has hit out at countries that allowed Israeli Prime Minister Benjamin Ne… [+2880 chars]",
-      "tags": ["foreign_policy", "international_organizations", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "international_organizations",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752044598
     },
     {
       "source": {
@@ -1571,7 +1769,8 @@
         "economy_finance",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752088410
     },
     {
       "source": {
@@ -1585,7 +1784,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/000_64ZL4Y4-1751954883.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-09T10:05:28Z",
       "content": "Europes top human rights court has ruled that Russia violated international law in Ukraine, marking the first time an international court has found Moscow responsible for human rights abuses since th… [+1706 chars]",
-      "tags": ["foreign_policy", "legal_justice", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752055528
     },
     {
       "source": {
@@ -1605,7 +1809,8 @@
         "crisis_emergency",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752096668
     },
     {
       "source": {
@@ -1625,7 +1830,8 @@
         "security_intelligence",
         "national_security",
         "border_security"
-      ]
+      ],
+      "publishedAtTs": 1752069150
     },
     {
       "source": {
@@ -1639,7 +1845,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AA-20250708-38502313-38502304-AFTERMATH_OF_RUSSIAN_DRONE_ATTACK_IN_UKRAINES_KHARKIV-1752010804_3b5951-1752019653.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-07-09T02:54:41Z",
       "content": "Here is how things stand on Wednesday, July 9:\r\nFighting\r\n<ul><li>A Ukrainian attack on a beach in the Russian city of Kursk killed three people and injured seven, including a five-year-old boy, acti… [+2787 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752029681
     },
     {
       "source": {
@@ -1653,7 +1864,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-05-05T232515Z_2011199722_RC2ZBEAIKW1F_RTRMADP_3_USA-INVESTMENT-MILKEN-1752076928.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-09T17:09:17Z",
       "content": "Elon Musk-owned Xs CEO Linda Yaccarino announced her resignation in a surprise move, just months after the social media platform was acquired by the billionaires AI startup, xAI.\r\nIn a statement post… [+2944 chars]",
-      "tags": ["media_communications", "personal_business", "social_media"]
+      "tags": [
+        "media_communications",
+        "personal_business",
+        "social_media"
+      ],
+      "publishedAtTs": 1752080957
     },
     {
       "source": {
@@ -1671,7 +1887,8 @@
         "transportation",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752094008
     },
     {
       "source": {
@@ -1691,7 +1908,8 @@
         "middle_east",
         "international_organizations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752044361
     },
     {
       "source": {
@@ -1705,7 +1923,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bdf0/live/c07745d0-5c95-11f0-8547-e5153bdee31d.jpg",
       "publishedAt": "2025-07-09T07:47:41Z",
       "content": "US president Donald Trump has confirmed he will attend Sunday's Fifa Club World Cup final in New Jersey.\r\nThe news came a day after Fifa, world football's governing body, announced it has opened an o… [+1579 chars]",
-      "tags": ["regional_state"]
+      "tags": [
+        "regional_state"
+      ],
+      "publishedAtTs": 1752047261
     },
     {
       "source": {
@@ -1723,7 +1944,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752089504
     }
   ]
 }

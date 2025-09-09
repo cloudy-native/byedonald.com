@@ -14,7 +14,12 @@
       "urlToImage": "https://images.firstpost.com/wp-content/uploads/2023/09/Donald-Trump-Joe-Biden.png",
       "publishedAt": "2023-09-16T18:12:03Z",
       "content": "Slamming US President Joe Biden for his 2024 election bid stating that his age and suitability for the highest position are separate issues, Donald Trump has said that the US President is “not too old” but “grossly incompetent,” The Hill reported.\nAc... [1339 chars]",
-      "tags": ["elections_politics", "media_communications", "statements"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "statements"
+      ],
+      "publishedAtTs": 1694887923
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://e3.365dm.com/23/09/1600x900/skynews-donald-trump-washington_6287083.jpg?20230916162510",
       "publishedAt": "2023-09-16T18:05:00Z",
       "content": "Donald Trump has said he is against an age limit for running for US president but backed a competency test.\nThe frontrunner for the Republican nomination argued some of the greatest world leaders had been in their 80s.\nBut while Mr Trump did not thin... [3101 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694887500
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230916100916-6505b98a6194889ae3a61404jpeg.jpg;w=650;h=433;mode=crop",
       "publishedAt": "2023-09-16T17:53:31Z",
       "content": "AUSTIN, Texas (AP) — Texas Attorney General Ken Paxton was acquitted Saturday of all charges at a historic impeachment trial that divided Republicans over whether to remove a powerful defender of former President Donald Trump after years of scandal a... [8036 chars]",
-      "tags": ["legal_justice", "state_elections", "texas"]
+      "tags": [
+        "legal_justice",
+        "state_elections",
+        "texas"
+      ],
+      "publishedAtTs": 1694886811
     },
     {
       "source": {
@@ -56,7 +71,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-5vuv9csvf-1694885085528.jpg?quality=75&strip=all&1694870782&w=1024",
       "publishedAt": "2023-09-16T17:48:01Z",
       "content": "Ronald Reagan once said, “The nine most terrifying words in the English language are: I’m from the Government, and I’m here to help.”\nAfter Friday night, we can add nine more: “a narrowly tailored order that imposes modest, permissible restrictions.”... [7220 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694886481
     },
     {
       "source": {
@@ -70,7 +90,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/32bd4e0/2147483647/strip/true/crop/4738x2487+0+336/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fcd%2F57%2F4c50af6841159a1579f80db4680d%2F091523-trump-1.JPG",
       "publishedAt": "2023-09-16T16:58:59Z",
       "content": "Former President Donald Trump returned to Washington D.C. this week voluntarily, following his arraignment in August on federal criminal charges related to efforts to overturn the 2020 election and the Jan. 6 riot at the Capitol.\nThe former president... [4605 chars]",
-      "tags": ["legal_justice", "elections_politics", "foreign_policy"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1694883539
     },
     {
       "source": {
@@ -84,7 +109,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/donald-trump-biden-mugshot-169302328916x9.jpg",
       "publishedAt": "2023-09-16T16:23:19Z",
       "content": "Joe Biden, America’s oldest president, received support from an unexpected ally over his age: Donald Trump said the Democrat was “not too old\" to seek a second term, while quickly adding: “I think he’s incompetent.\"\nThe former president’s comments, m... [2703 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694881399
     },
     {
       "source": {
@@ -98,7 +128,12 @@
       "urlToImage": "https://static.politico.com/6e/c3/5a47681443ac87a8751d6f4460ac/https-delivery-gettyimages.com/downloads/1219099190",
       "publishedAt": "2023-09-16T15:57:05Z",
       "content": "Buck’s positioning as an impeachment skeptic is something of an anomaly among hardline conservatives in the the far-right caucus responsible for McCarthy’s many headaches.\nIn an interview last Sunday, Buck suggested that “there is not a strong connec... [1119 chars]",
-      "tags": ["elections_politics", "legal_justice", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1694879825
     },
     {
       "source": {
@@ -112,7 +147,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230424095710-02-joe-biden-lead.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-16T15:07:07Z",
       "content": "Washington CNN —\nThe Biden administration is seeking to strengthen protections for federal workers as a host of Republican candidates, including frontrunner Donald Trump, make reducing and altering the federal workforce a key component of their campa... [2510 chars]",
-      "tags": ["government_administration", "personnel", "elections_politics"]
+      "tags": [
+        "government_administration",
+        "personnel",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694876827
     },
     {
       "source": {
@@ -130,7 +170,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694875087
     },
     {
       "source": {
@@ -144,7 +185,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915194412-04-trump-supporters-091523.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-16T14:03:36Z",
       "content": "CNN —\nPhil Jensen wore a bright red T-shirt with Donald Trump’s mug shot and “NEVER SURRENDER!” printed on it to the former president’s rally in Rapid City, South Dakota, last week. The longtime state legislator loved the shirt so much, he planned on... [9945 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694873016
     },
     {
       "source": {
@@ -158,7 +204,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/f0551c8c617b5c0dd5b95eb0bc5dfda381a52a6a/0_27_4730_2837/master/4730.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56dbd38e63b3ce721223f6692bf407aa",
       "publishedAt": "2023-09-16T13:55:23Z",
       "content": "Donald Trump enjoyed hearing that he had drawn praise from the Russian leader Vladimir Putin, the former US president and frontrunner for the 2024 Republican White House nomination has said.\nTold during a recorded interview with the new NBC Meet the ... [3104 chars]",
-      "tags": ["foreign_policy", "russia", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694872523
     },
     {
       "source": {
@@ -172,7 +223,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_huffington_post_584/27ac5eae13dc31989d17c3e0b106c805",
       "publishedAt": "2023-09-16T13:24:43Z",
       "content": "Former President Donald Trump on Friday suggested that people need identification to purchase groceries, repeating a wild claim he’s pushed in the past.\n“You have voter ID to buy a loaf of bread. You have ID to buy a loaf of bread,” he said at a summ... [1551 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694870683
     },
     {
       "source": {
@@ -190,7 +246,8 @@
         "government_administration",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1694862000
     },
     {
       "source": {
@@ -204,7 +261,11 @@
       "urlToImage": "https://static.politico.com/ee/ff/a8be6c2a4d689cdec847136494c9/election-2024-trump-south-dakota-40021.jpg",
       "publishedAt": "2023-09-16T11:00:00Z",
       "content": "Examining the voters assembled behind Trump — and the minority who are backing other candidates — is essential to understanding how he came to dominate the fight for the GOP nomination. It also underscores the uphill climb Trump’s opponents have to u... [5304 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1694862000
     },
     {
       "source": {
@@ -224,7 +285,8 @@
         "personal_legal",
         "florida",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1694855058
     },
     {
       "source": {
@@ -243,7 +305,8 @@
         "elections_politics",
         "economy_finance",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1694853279
     },
     {
       "source": {
@@ -257,7 +320,11 @@
       "urlToImage": "https://i.cbc.ca/1.6968872.1694819237!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/trudeau-housing-20230913.JPG",
       "publishedAt": "2023-09-16T08:00:00Z",
       "content": "Eight and a half years ago, in January 2015, the Liberal Party's 36-member caucus gathered in London, Ont. ahead of a new sitting of Parliament.\nThere was some reason at the time to believe their leader, Justin Trudeau, would be the next prime minist... [7744 chars]",
-      "tags": ["elections_politics", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1694851200
     },
     {
       "source": {
@@ -277,7 +344,8 @@
         "health_science",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694840400
     },
     {
       "source": {
@@ -291,7 +359,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-b9mucjc41-1694837963568.jpg?quality=75&strip=all&1694823620&w=1024",
       "publishedAt": "2023-09-16T04:32:47Z",
       "content": "Florida Republicans will no longer require that 2024 GOP presidential candidates sign a loyalty pledge vowing to back the party’s eventual nominee in order to get on the Sunshine State’s primary ballot.\nThe oath requirement was scrapped Friday in a v... [2652 chars]",
-      "tags": ["elections_politics", "florida", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694838767
     },
     {
       "source": {
@@ -305,7 +378,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230915121129-03-donald-trump-090823.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-16T04:03:34Z",
       "content": "CNN —\nFormer President Donald Trump on Friday said he would appoint a task force to review the cases of people he claimed had been unjustly prosecuted related to their political beliefs by the Biden administration, should he win a second term in 2024... [2243 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694837014
     }
   ]
 }

@@ -20,7 +20,8 @@
         "canada",
         "foreign_policy",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1740959565
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "ukraine",
         "media_communications",
         "press_relations"
-      ]
+      ],
+      "publishedAtTs": 1740958216
     },
     {
       "source": {
@@ -54,7 +56,14 @@
       "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/4830df5946a03618df25c5c8f07920f0c6c04d88e8ca1fc40500c3470334370c",
       "publishedAt": "2025-03-02T23:20:00Z",
       "content": "(From left) Ukraine's President Volodymyr Zelensky, Britain's Prime Minister Keir Starmer and France's President Emmanuel Macron hold a meeting during a summit at Lancaster House in London. PHOTO: AFP\nEuropeans rally around Ukraine after Zelensky’s r... [5270 chars]",
-      "tags": ["foreign_policy", "europe", "nato", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "nato",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1740957600
     },
     {
       "source": {
@@ -74,7 +83,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1740957420
     },
     {
       "source": {
@@ -94,7 +104,8 @@
         "russia",
         "ukraine",
         "protests"
-      ]
+      ],
+      "publishedAtTs": 1740957409
     },
     {
       "source": {
@@ -114,7 +125,8 @@
         "ukraine",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1740956761
     },
     {
       "source": {
@@ -134,7 +146,8 @@
         "government_administration",
         "canada",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1740956617
     },
     {
       "source": {
@@ -154,7 +167,8 @@
         "policy_legislation",
         "economy_finance",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1740955544
     },
     {
       "source": {
@@ -172,7 +186,8 @@
         "foreign_policy",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1740955380
     }
   ]
 }

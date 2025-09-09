@@ -14,7 +14,14 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-donald-trump-keir-starmer_6725403.jpg?20241023150903",
       "publishedAt": "2025-02-26T23:59:00Z",
       "content": "Prime Minister Sir Keir Starmer brushed aside growing tensions between the White House and Europe over Ukraine on Wednesday, saying he trusted Donald Trump and wanted the \"special relationship\" to go \"from strength to strength\".\nSpeaking to reporters... [5203 chars]",
-      "tags": ["foreign_policy", "ukraine", "nato", "russia", "europe"]
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "nato",
+        "russia",
+        "europe"
+      ],
+      "publishedAtTs": 1740614340
     },
     {
       "source": {
@@ -32,7 +39,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1740613878
     },
     {
       "source": {
@@ -51,7 +59,8 @@
         "federal_agencies",
         "budget",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1740613712
     },
     {
       "source": {
@@ -71,7 +80,8 @@
         "security_intelligence",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1740612716
     }
   ]
 }

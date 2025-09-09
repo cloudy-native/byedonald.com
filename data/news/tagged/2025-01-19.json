@@ -20,7 +20,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1737331163
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1737330560
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "foreign_policy",
         "security_incidents",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1737330319
     }
   ]
 }

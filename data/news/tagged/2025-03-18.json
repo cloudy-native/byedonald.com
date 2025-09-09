@@ -20,7 +20,8 @@
         "security_intelligence",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1742341997
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_intelligence",
         "military",
         "lgbtq_rights"
-      ]
+      ],
+      "publishedAtTs": 1742341260
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "space_policy",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1742341009
     },
     {
       "source": {
@@ -72,7 +75,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/f4/7f4313ee-46bc-5ead-b46d-553cccb6b566/67d963c52f530.image.jpg?crop=1429%2C750%2C0%2C164&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-03-18T23:25:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1742340300
     },
     {
       "source": {
@@ -86,7 +93,11 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/03/79d6b6f68accb0897a1348a1b4a695805cc0095f388e935bf0bbccce54c86b1d.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-03-18T23:25:00Z",
       "content": "DALLAS (AP) — Previously classified documents related to the 1963 assassination of President John F. Kennedy were released Tuesday following an order by President Donald Trump shortly after he took office.\nThe documents were posted on the website of ... [2544 chars]",
-      "tags": ["legal_justice", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1742340300
     }
   ]
 }

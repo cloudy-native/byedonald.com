@@ -19,7 +19,8 @@
         "national_security",
         "florida",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1726354800
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "criminal_cases",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726354800
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "florida",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1726354800
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "security_intelligence",
         "national_security",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1726354800
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "economy_finance",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726354800
     },
     {
       "source": {
@@ -112,7 +117,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump.png?id=24822546&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2024-09-14T21:55:26Z",
       "content": "Donald Trump at his latest rally reportedly made a slip-up that's being labeled as \"embarrassing.\"\nTrump at his event on Friday accepted the endorsement of a singer named \"Nicky Jam,\" but the moment didn't go smoothly, according to a report from Bill... [1469 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1726350926
     },
     {
       "source": {
@@ -132,7 +142,8 @@
         "media_communications",
         "political_endorsements",
         "polling"
-      ]
+      ],
+      "publishedAtTs": 1726348372
     },
     {
       "source": {
@@ -151,7 +162,8 @@
         "media_communications",
         "social_issues",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726347420
     },
     {
       "source": {
@@ -171,7 +183,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726345796
     },
     {
       "source": {
@@ -190,7 +203,8 @@
         "legal_justice",
         "federal_agencies",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726343831
     },
     {
       "source": {
@@ -210,7 +224,8 @@
         "supreme_court",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1726341864
     },
     {
       "source": {
@@ -230,7 +245,8 @@
         "climate_policy",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1726338600
     },
     {
       "source": {
@@ -244,7 +260,12 @@
       "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-donald-trump-president_6685150.jpg?20240914164600",
       "publishedAt": "2024-09-14T17:32:00Z",
       "content": "Explained: How does the voting work?\nSimilarly to the UK system, people in the US vote on ballot papers, and most do so in person at their local voting station.\nThere are three ways of filling out the ballots:\nHand-marked paper ballots - most people ... [1243 chars]",
-      "tags": ["elections_politics", "media_communications", "immigration"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "immigration"
+      ],
+      "publishedAtTs": 1726335120
     },
     {
       "source": {
@@ -263,7 +284,8 @@
         "criminal_cases",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1726327320
     },
     {
       "source": {
@@ -282,7 +304,8 @@
         "elections_politics",
         "media_communications",
         "religious_freedom"
-      ]
+      ],
+      "publishedAtTs": 1726326420
     },
     {
       "source": {
@@ -302,7 +325,8 @@
         "crisis_emergency",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1726326084
     },
     {
       "source": {
@@ -316,7 +340,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/82b64cbc8508177a150e2790cc8a1bd906e904db/0_11_3644_2186/master/3644.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5c4c1f2b656034c3a34b4962b6d703f",
       "publishedAt": "2024-09-14T15:00:31Z",
       "content": "Close Donald Trump ally Laura Loomer told a white nationalist conference in 2022 that she considered herself a “white advocate”, according to a recording of the speech obtained by the Guardian.\nLoomer has come under scrutiny in recent days after bein... [5916 chars]",
-      "tags": ["social_issues", "elections_politics", "media_communications"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1726326031
     },
     {
       "source": {
@@ -330,7 +359,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2171039114.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-09-14T14:31:27Z",
       "content": "CNN —\nFormer President Donald Trump lashed out at Nasdaq over a routine trading halt in shares of his social media company and even threatened to move the listing to the New York Stock Exchange.\n“Why is NASDAQ halting the sale of DJT?” Trump said Fri... [2181 chars]",
-      "tags": ["media_communications", "stock_market", "personal_business"]
+      "tags": [
+        "media_communications",
+        "stock_market",
+        "personal_business"
+      ],
+      "publishedAtTs": 1726324287
     },
     {
       "source": {
@@ -350,7 +384,8 @@
         "media_communications",
         "elections_politics",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1726322429
     },
     {
       "source": {
@@ -364,7 +399,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2155539743.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-09-14T14:00:23Z",
       "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nIt’s hard to make sense of tariffs in today’s political conversation.\nVoters uniformly complain about inflation, but both Republi... [13425 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1726322423
     },
     {
       "source": {
@@ -384,7 +424,8 @@
         "security_intelligence",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1726321380
     },
     {
       "source": {
@@ -404,7 +445,8 @@
         "policy_legislation",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726319076
     },
     {
       "source": {
@@ -418,7 +460,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/a67497e5463cd3aa0ead0e77bda69924fc1aed3c/0_177_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=0682f96ec1f25253b047b0c3c608dbb0",
       "publishedAt": "2024-09-14T13:00:29Z",
       "content": "Can doctors kill babies after they’re born?\nExcuse me for a moment while I state the bleeding obvious: there is no state in the US where it is “OK” to kill a baby after it is born. That is homicide and there are one or two laws that frown on that sor... [7959 chars]",
-      "tags": ["legal_justice", "social_issues", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1726318829
     },
     {
       "source": {
@@ -432,7 +479,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/1a9992d92b6cdc433e078eb71def2a2aac65d1bd/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46526622002dde883496f103afa459cf",
       "publishedAt": "2024-09-14T13:00:28Z",
       "content": "Even as gleeful Democrats spent days circulating video clips and memes of Kamala Harris ridiculing and riling Donald Trump in Tuesday’s presidential debate, the candidates themselves got back to the brutal grind of winning over the tiny proportion of... [9150 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1726318828
     }
   ]
 }

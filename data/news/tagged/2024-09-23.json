@@ -14,7 +14,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2478734/harris-chances-beating-trump-arizona.jpg",
       "publishedAt": "2024-09-23T23:57:14Z",
       "content": "As the race to November 5 heats up, former President Donald Trump is holding on to a slight lead in Arizona, one of seven critical states that could tip the results of the 2024 election.\nRecent polling shows that Trump may be building on his lead abo... [3273 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1727135834
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_07_2024_02_18_14_7341877.png?width=920&format=jpeg",
       "publishedAt": "2024-09-23T23:54:33Z",
       "content": "In an expansive update on internal affairs, the U.S. grapples with racial disparity in the job market, evolving crime stats, and environmental lawsuits. The U.S. workforce system has been found to contribute to racial inequalities for Black Americans... [1015 chars]",
-      "tags": ["social_issues", "legal_justice", "economy_finance"]
+      "tags": [
+        "social_issues",
+        "legal_justice",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1727135673
     },
     {
       "source": {
@@ -42,7 +52,13 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/republican-presidential-nominee-former-president-90277627.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-23T23:42:14Z",
       "content": "SMITHTON, Pa. — Former President Donald Trump said Monday his first call in the Oval Office would be to Xi Jinping, demanding the Chinese leader buckle down on a previously struck $50 billion agriculture deal.\n“My first call — I’m going to call up Pr... [3080 chars]",
-      "tags": ["foreign_policy", "china", "trade", "agriculture"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "trade",
+        "agriculture"
+      ],
+      "publishedAtTs": 1727134934
     },
     {
       "source": {
@@ -56,7 +72,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/09/Trump-1-2.webp",
       "publishedAt": "2024-09-23T23:39:16Z",
       "content": "A Texas jury cleared nearly all six supporters of former President Donald Trump who were accused of threatening Biden campaign officials on a bus four years ago.\nOn Monday, a seven-person Austin jury found five Trump supporters innocent of violating ... [2917 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1727134756
     },
     {
       "source": {
@@ -70,7 +91,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-hxcqlgaxt-1727133235600.jpg?quality=75&strip=all&1727118925&w=1024",
       "publishedAt": "2024-09-23T23:38:02Z",
       "content": "The man who intended to murder Donald Trump on Sept. 18 has explained in his own words why he wanted to do it.\nThe words aren’t only his, though — they’re also the slogans and cliches of Trump’s Democratic opponents, virtually verbatim.\nRyan Routh le... [3237 chars]",
-      "tags": ["elections_politics", "security_intelligence", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1727134682
     },
     {
       "source": {
@@ -90,7 +116,8 @@
         "political_endorsements",
         "2028_presidential",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727134308
     },
     {
       "source": {
@@ -104,7 +131,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/ukrainian-president-volodymyr-zelensky-speaks-90275035.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-23T23:00:09Z",
       "content": "Ukrainian President Volodymyr Zelensky publicly bashed GOP vice presidential hopeful JD Vance as being “too radical” this week, ahead of a potential meeting with former President Donald Trump.\nZelensky, 46, further blasted the blueprint Vance, 40, ou... [5231 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727132409
     },
     {
       "source": {
@@ -123,7 +155,8 @@
         "criminal_cases",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727132400
     },
     {
       "source": {
@@ -137,7 +170,10 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDlcXFwvMjQxNjMzMzhcXFwvOTQ4OWE5NmZmMzc0NDRjZGI4MDcwNDUwMTMzMGU1MDYtMS1lMTcyNzE5MjE0MjU2Ni5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjYyZGRiODk3ZmU0MWM1MWJhYTYzYThjNjAwZGI1OTIzNDZhNDYyYmYifQ==/son-of-trump-assassination-attempt-suspect-charged-over-child-sex-abuse-images.jpg",
       "publishedAt": "2024-09-23T23:00:00Z",
       "content": "The son of the man suspected in the assassination attempt in Florida of former US president Donald Trump has been arrested on federal charges of possessing child sexual abuse images.\nOran Routh was arrested this week after authorities searched his Gr... [834 chars]",
-      "tags": ["criminal_cases"]
+      "tags": [
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1727132400
     },
     {
       "source": {
@@ -155,7 +191,8 @@
         "legal_justice",
         "elections_politics",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1727131358
     },
     {
       "source": {
@@ -174,7 +211,8 @@
         "security_intelligence",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727131271
     },
     {
       "source": {
@@ -188,7 +226,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-c6s4b9vtf-1727127759669.jpg?quality=75&strip=all&1727113374&w=1024",
       "publishedAt": "2024-09-23T22:38:49Z",
       "content": "Former US Attorney General William Barr panned the Justice Department he once ran for publicly disclosing a chilling letter from the man who allegedly attempted to assassinate former President Donald Trump earlier this month.\nIn a court filing Monday... [4702 chars]",
-      "tags": ["legal_justice", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1727131129
     },
     {
       "source": {
@@ -208,7 +251,8 @@
         "government_administration",
         "legal_justice",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1727130801
     },
     {
       "source": {
@@ -228,7 +272,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727129908
     },
     {
       "source": {
@@ -242,7 +287,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_11_15_3417518.jpg?width=920&format=jpeg",
       "publishedAt": "2024-09-23T22:13:00Z",
       "content": "A last-minute Republican effort to award Nebraska's five Electoral College votes on a winner-take-all basis appeared doomed on Monday. Key Republican State Senator Mike McDonnell opposed the proposal, despite heavy lobbying from Trump's allies.\nMcDon... [719 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1727129580
     },
     {
       "source": {
@@ -262,7 +312,8 @@
         "congressional_investigations",
         "elections_politics",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1727129279
     },
     {
       "source": {
@@ -276,7 +327,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/201031214725-biden-bus-trump-caravan-texas-1031.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-09-23T22:03:39Z",
       "content": "CNN —\nA federal jury on Monday found only one of six Trump supporters sued in a civil case liable for harassing a Biden-Harris campaign bus nearly four years ago on a Texas highway. The civil case has tested a law that victims of political intimidati... [3670 chars]",
-      "tags": ["elections_politics", "legal_justice", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1727129019
     },
     {
       "source": {
@@ -296,7 +352,8 @@
         "elections_politics",
         "foreign_policy",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1727128819
     },
     {
       "source": {
@@ -316,7 +373,8 @@
         "personal_family",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727128800
     },
     {
       "source": {
@@ -335,7 +393,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727128508
     },
     {
       "source": {
@@ -355,7 +414,8 @@
         "policy_legislation",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727127912
     },
     {
       "source": {
@@ -369,7 +429,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/b73b9d3e252752b792366e5a1c395b02b2bc1a33/0_22_2274_1364/master/2274.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59a70ac13b3d8955021697e1ee9e99d6",
       "publishedAt": "2024-09-23T21:36:05Z",
       "content": "A Republican attempt to change the electoral system in Nebraska to give Donald Trump a possible advantage in the event of a tied presidential election has been rebuffed after a state legislator refused to back the plan.\nMike McDonnell, a former Democ... [4066 chars]",
-      "tags": ["elections_politics", "voting_rights", "redistricting"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "redistricting"
+      ],
+      "publishedAtTs": 1727127365
     },
     {
       "source": {
@@ -383,7 +448,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_08_2024_12_48_36_8872016.png?width=920&format=jpeg",
       "publishedAt": "2024-09-23T21:29:45Z",
       "content": "A federal jury in Texas on Monday cleared a group of former President Donald Trump supporters in a civil trial. The case revolved around a so-called 'Trump Train' that surrounded a Biden-Harris campaign bus days before the 2020 election.\nDuring the t... [586 chars]",
-      "tags": ["legal_justice", "elections_politics", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1727126985
     },
     {
       "source": {
@@ -402,7 +472,8 @@
         "voting_rights",
         "regional_state",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1727126696
     }
   ]
 }

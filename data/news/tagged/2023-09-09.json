@@ -20,7 +20,8 @@
         "media_communications",
         "health_science",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1694301287
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "social_issues",
         "health_science",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1694295139
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/64fcd0022200007708b25c0d.jpeg?cache=OlbGHSbGvZ&ops=1200_630",
       "publishedAt": "2023-09-09T20:10:01Z",
       "content": "LOADING ERROR LOADING\nDES MOINES, Iowa (AP) — Donald Trump crossed paths with several Republican rivals Saturday as he attended Iowa's in-state college football grudge match, one of the former president's few visits so far to the state that holds the... [3482 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694290201
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2280210/mark-meadows.jpg",
       "publishedAt": "2023-09-09T19:50:52Z",
       "content": "Former President Donald Trump's legal team may need to come up with a more \"creative argument\" in defending him as their legal one \"ain't working,\" former Republican National Committee (RNC) chairman Michael Steele said on Saturday.\nSteele's comments... [3226 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694289052
     },
     {
       "source": {
@@ -86,7 +98,8 @@
         "legal_justice",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1694281242
     },
     {
       "source": {
@@ -100,7 +113,11 @@
       "urlToImage": "https://static01.nyt.com/images/2023/09/09/multimedia/09isaacson-book-2-bpcw/09isaacson-book-2-bpcw-facebookJumbo.jpg",
       "publishedAt": "2023-09-09T17:21:13Z",
       "content": "A new biography of Elon Musk portrays the billionaire entrepreneur as a complex, tortured figure whose brilliance is often overshadowed by his inability to relate on a human level to the people around him — his wives, his children and those on whom h... [796 chars]",
-      "tags": ["personal_family", "technology_regulation"]
+      "tags": [
+        "personal_family",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1694280073
     },
     {
       "source": {
@@ -119,7 +136,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694276645
     },
     {
       "source": {
@@ -139,7 +157,8 @@
         "economy_finance",
         "environment",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1694275200
     },
     {
       "source": {
@@ -159,7 +178,8 @@
         "policy_legislation",
         "agriculture",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1694273501
     },
     {
       "source": {
@@ -178,7 +198,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1694272251
     },
     {
       "source": {
@@ -192,7 +213,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/MastersBlake_LakeKari.jpeg?w=1280",
       "publishedAt": "2023-09-09T14:58:39Z",
       "content": "Former President Trump warned Blake Masters that he is likely to lose an Arizona Senate primary to Kari Lake in 2024, The New York Times reported Friday.\nThe Times report claims Trump called Masters on Sunday to make the blunt prediction, in what wou... [2183 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1694271519
     },
     {
       "source": {
@@ -206,7 +231,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/trumpdonald_jan6_selectcomm.jpg?w=1280",
       "publishedAt": "2023-09-09T14:36:52Z",
       "content": "Former President Trump isn’t too pleased with a lawsuit filed earlier this week to try and keep him off the ballot in 2024 in Colorado.\nThe lawsuit was filed by Citizens for Responsibility and Ethics in Washington (CREW) Wednesday. It tries to use th... [1316 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694270212
     },
     {
       "source": {
@@ -220,7 +250,10 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23236516644883-1-e1692915167796.jpg?w=1280",
       "publishedAt": "2023-09-09T13:57:39Z",
       "content": "In an interview on CNN Friday, Fulton County Sheriff Patrick Labat described Donald Trump’s demeanor when surrendering at the Fulton County Jail as unemotional.\n“He came out, he was very stoic, really in a space that he was able to really lean on wha... [880 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1694267859
     },
     {
       "source": {
@@ -234,7 +267,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/b8a7679ab223e8fd9b54daad1de324f412b9785a/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2ebf3911a8ef42133d93cd6203d34d1",
       "publishedAt": "2023-09-09T13:49:29Z",
       "content": "Donald Trump was “really, really upset” when he learned that his former White House adviser Peter Navarro had been convicted of contempt of Congress, according to the ex-president’s close ally Rudy Giuliani.\n“This one really got to me,” Giuliani – th... [3366 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1694267369
     },
     {
       "source": {
@@ -248,7 +286,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/Trump-DeSantis-Iowa-2023.png?w=1280",
       "publishedAt": "2023-09-09T13:28:12Z",
       "content": "The top three Republican presidential candidates will feature in the crowd of the Iowa-Iowa State football game on Saturday afternoon, for what will likely be the largest sports crowd in the state for the prestigious rivalry game.\nFormer President Tr... [1679 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694266092
     },
     {
       "source": {
@@ -262,7 +305,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230907203544-trump-biden-split-0907.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-09T12:16:28Z",
       "content": "CNN —\nPresident Joe Biden continues to be plagued by approval ratings well below 50%. Under normal circumstances, that might be worrying for an incumbent heading into his reelection year. But Biden likes to rely on a common refrain: “Don’t compare me... [3844 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1694261788
     },
     {
       "source": {
@@ -276,7 +323,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/trump-merch_090823getty_blocking-trump.jpg?w=1280",
       "publishedAt": "2023-09-09T10:00:00Z",
       "content": "Donald Trump’s campaign for a second term alongside his prosecution for seeking to block the transfer of power has raised questions over whether the former president can be barred from the ballot under a 14th Amendment provision targeting those invol... [8911 chars]",
-      "tags": ["legal_justice", "elections_politics", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1694253600
     },
     {
       "source": {
@@ -295,7 +347,8 @@
         "racial_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694239216
     },
     {
       "source": {
@@ -309,7 +362,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/noem.jpg?quality=75&strip=all&1694218405&w=1024",
       "publishedAt": "2023-09-09T04:13:49Z",
       "content": "Republican South Dakota Gov. Kristi Noem endorsed former President Donald Trump’s 2024 White House bid on Friday, calling him “the fighter that our country needs.”\nNoem’s endorsement came during a South Dakota GOP rally headlined by the 77-year-old, ... [3035 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694232829
     },
     {
       "source": {
@@ -323,7 +381,12 @@
       "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/9jsnBV2NEd2shMGQL2q2Q1Pocxc=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/ZYUM54JLRW3HJARPGDM3RADX3A.jpg",
       "publishedAt": "2023-09-09T04:00:00Z",
       "content": "Amid four separate criminal indictments and all the court maneuverings involved, Trump, the leading candidate for the Republican nomination, isn’t actually, you know, campaigning.\nIt was the first time in exactly a month that Trump spoke at a major p... [3060 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694232000
     },
     {
       "source": {
@@ -337,7 +400,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/09/untitled-2023-09-09t085150.729-1-169422999016x9.jpg",
       "publishedAt": "2023-09-09T03:28:28Z",
       "content": "MS Dhoni is known for his penchant for the unexpected, often leaving everyone pleasantly surprised. This time, it happened during his golf outing with former US President Donald Trump, who hosted the cricketer for a match at his place. The delightful... [2076 chars]",
-      "tags": ["personal_family", "foreign_policy", "regional_state"]
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1694230108
     },
     {
       "source": {
@@ -355,7 +423,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1694228098
     }
   ]
 }

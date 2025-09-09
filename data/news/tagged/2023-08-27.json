@@ -20,7 +20,8 @@
         "doj_actions",
         "impeachment",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1693177200
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "criminal_cases",
         "federal_courts",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1693177200
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://img.rasset.ie/001ea817-1600.jpg",
       "publishedAt": "2023-08-27T23:00:00Z",
       "content": "Analysis: As Trump is released from jail on a $200,000 bond, an expert explains the US cash bail system\nBy Megan T. Stevenson, University of Virginia\nFor several days, former President Donald Trump and his 18 co-defendants in a Georgia election inter... [6839 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1693177200
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/24b4464a1ea24a0a0452e82801f2efe6208acc02/0_3_3039_1823/master/3039.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f3e8f311159c243909689bc2b7b3a50",
       "publishedAt": "2023-08-27T19:24:44Z",
       "content": "Donald Trump’s legal spokesperson has predicted that forthcoming early trial dates in the former president’s four criminal cases will not hold, and that his multiple cases could clash with the final stages of the 2024 presidential election campaign a... [5911 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693164284
     },
     {
       "source": {
@@ -81,7 +93,11 @@
       "urlToImage": "https://www.businessinsider.in/photo/103110904/nyts-maggie-haberman-says-trump-gave-a-menacing-stare-in-his-mugshot-because-he-doesnt-want-to-look-weak.jpg?imgsize=38926",
       "publishedAt": "2023-08-27T18:06:00Z",
       "content": "Maggie Haberman said Trump made a \"menacing\" face in his mugshot to dispel any notion of weakness.\n\"That does not mean he's enjoying any of this. This is a serious thing,\" she told CNN's Jake Tapper.\nAdvertisement\nNew York Times reporter Maggie Haber... [2696 chars]",
-      "tags": ["media_communications", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693159560
     },
     {
       "source": {
@@ -95,7 +111,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23236053329295-1-e1692842738422.jpg?w=1280",
       "publishedAt": "2023-08-27T17:34:57Z",
       "content": "Republican presidential candidate Vivek Ramaswamy said Sunday that he thinks former Vice President Mike Pence missed a “historic opportunity” when he refused to intervene in the ceremonial counting of electoral votes on Jan. 6, 2021, to secure the 20... [1891 chars]",
-      "tags": ["elections_politics", "legal_justice", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1693157697
     },
     {
       "source": {
@@ -109,7 +130,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230827-donald-trump-jm-1051-a555f1.jpg",
       "publishedAt": "2023-08-27T17:03:36Z",
       "content": "The mugshot seen around the world has given Donald Trump his largest single-day fundraising paycheck yet, according to his campaign.\nThe former president's 2024 campaign reported that it has raised $7.1 million since he was booked at the Fulton Count... [2053 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693155816
     },
     {
       "source": {
@@ -123,7 +148,10 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/0BBHutBBe9yaBqRazeSYE0BqudQ=/0x198:2601x1560/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24876797/1596959441.jpg",
       "publishedAt": "2023-08-27T16:54:18Z",
       "content": "Donald Trump has supposedly won another club championship, according to a post he made on Truth Social.\nHe claimed to have won the Senior Club Championship at Trump National Bedminster in New Jersey, which hosted a LIV Golf event on Aug. 11-13. Camer... [3389 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1693155258
     },
     {
       "source": {
@@ -137,7 +165,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/27/b90a0f2d-c31c-4d20-9337-029476387527/thumbnail/1200x630/c7942bfccbbb17a6f5dd04964a4c0dfd/1693150551911.png?v=85153828b1c3c07a041ab8e73ff87e39",
       "publishedAt": "2023-08-27T16:22:00Z",
       "content": "The following is a transcript of an interview with Fiona Hill, the former senior director for European and Russian affairs on the National Security Council during the Trump administration, that aired on \"Face the Nation\" on August 27, 2023.\nNANCY COR... [6486 chars]",
-      "tags": ["security_intelligence", "foreign_policy", "russia"]
+      "tags": [
+        "security_intelligence",
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1693153320
     },
     {
       "source": {
@@ -151,7 +184,12 @@
       "urlToImage": "https://images.wsj.net/im-842739/social",
       "publishedAt": "2023-08-27T16:22:00Z",
       "content": "Journal Editorial Report: GOP candidates square off in first primary debate and clash over aid to Ukraine. Image: Win McNamee/Getty Images\nSay this much for Vivek Ramaswamy: He has an impressive aptitude for attracting attention. Last Monday he tweet... [254 chars]",
-      "tags": ["elections_politics", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1693153320
     },
     {
       "source": {
@@ -165,7 +203,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/RichmondCedric_072121_APPhotoAndrewHarnik.jpg?w=1280",
       "publishedAt": "2023-08-27T14:51:33Z",
       "content": "Cedric Richmond, the co-chair of the Biden campaign, said Sunday the president’s 2024 run will not focus on the legal problems facing former President Trump or President Biden’s son, Hunter Biden.\nWhen asked on ABC’s “This Week” about Trump and Hunte... [1727 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693147893
     },
     {
       "source": {
@@ -179,7 +222,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2274923/trump-golf-win-bedminster.jpg",
       "publishedAt": "2023-08-27T14:19:20Z",
       "content": "Former President Donald Trump shared the contact information of one of his golf course executives after raising skepticism online with another claim about winning a senior championship.\nIn a post to his platform Truth Social on Saturday, Trump claime... [3126 chars]",
-      "tags": ["personal_family", "regional_state"]
+      "tags": [
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1693145960
     },
     {
       "source": {
@@ -198,7 +245,8 @@
         "supreme_court",
         "free_speech",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1693144800
     },
     {
       "source": {
@@ -212,7 +260,12 @@
       "urlToImage": "https://images.theconversation.com/files/544796/original/file-20230825-21-k4cmur.jpg?ixlib=rb-1.1.0&rect=19%2C0%2C6521%2C3255&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2023-08-27T14:00:00Z",
       "content": "In each of former President Donald Trump’s four indictments, he has been allowed to stay out of jail before his trial so long as he abides by certain conditions commonly applied to most people accused of crimes in the U.S.\nIn the New York state case ... [6276 chars]",
-      "tags": ["legal_justice", "supreme_court", "free_speech"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "free_speech"
+      ],
+      "publishedAtTs": 1693144800
     },
     {
       "source": {
@@ -226,7 +279,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/qtmfGA38C-zHl6Ao6yFTxNAUqwE=/1200x630/filters:format(jpg):quality(70):focal(2110x1832:2120x1842)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/N3YRWJ73WYVTDDJQYR2K2HEZ7U.jpg",
       "publishedAt": "2023-08-27T14:00:00Z",
       "content": "'Trump has long felt that squinting or scowling is a good look for him.' Photograph: Fulton County sheriff's office\nIf there were any justice in the world, Donald Trump would have taken the Mugshot of Dorian Gray.\nAs with Oscar Wilde’s charismatic an... [5055 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693144800
     },
     {
       "source": {
@@ -240,7 +298,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2274922/michael-cohen-predicts-codefendants-flip-trump.jpg",
       "publishedAt": "2023-08-27T13:58:31Z",
       "content": "Donald Trump's ex-lawyer Michael Cohen predicted on Saturday that three co-defendants would flip on the former president in his 2020 election interference case in Georgia.\nTrump surrendered to Fulton County, Georgia, authorities on Thursday after a g... [3397 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693144711
     },
     {
       "source": {
@@ -254,7 +317,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/untitled-design-1-43-169293822816x9.png",
       "publishedAt": "2023-08-27T13:56:49Z",
       "content": "With Donald Trump facing felony charges over his attempts to overturn the 2020 election, the former president is flooding the airwaves and his social media platform with distortions, misinformation and unfounded conspiracy theories about his defeat.\n... [10046 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693144609
     },
     {
       "source": {
@@ -273,7 +341,8 @@
         "criminal_cases",
         "federal_courts",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1693139488
     },
     {
       "source": {
@@ -287,7 +356,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/c2/ac2becee-1c23-5aeb-9edd-470fca9d2da9/64eb3868be055.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2023-08-27T11:44:00Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693136640
     },
     {
       "source": {
@@ -301,7 +375,11 @@
       "urlToImage": "https://www.reuters.com/resizer/SZG6Wzxw1ZlisJBKh_PrzAwFZAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/444JF64IQNNWNJQUV4PP44S5KE.jpg",
       "publishedAt": "2023-08-27T11:10:59Z",
       "content": "U.S. President Joe Biden convenes the fourth virtual leader-level meeting of the Major Economies Forum (MEF) on Energy and Climate at the White House in Washington, U.S., April 20, 2023. REUTERS/Kevin Lamarque/File Photo Acquire Licensing Rights\nAug ... [1467 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693134659
     },
     {
       "source": {
@@ -315,7 +393,12 @@
       "urlToImage": "https://www.reuters.com/resizer/kqwv78alLd7M0ZnNGBdGB8_4cE4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JQENEUOK3JJ5JD5E7T4FWRYPHQ.jpg",
       "publishedAt": "2023-08-27T10:07:32Z",
       "content": "JACKSON HOLE, Wyoming, Aug 26 (Reuters) - U.S. trade has shifted away from China due to policies enacted by the Biden and Trump administrations, but U.S. reliance on China-linked supply chains has not necessarily been reduced and consumers have faced... [2537 chars]",
-      "tags": ["economy_finance", "trade", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1693130852
     },
     {
       "source": {
@@ -329,7 +412,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230824192501-06-trump-lands-in-atlanta-082423.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-27T10:04:20Z",
       "content": "CNN —\nPolls show Donald Trump leading Florida Gov. Ron DeSantis, his nearest rival for the 2024 Republican presidential nomination, by about 40 points. You might think this would cause the former president’s GOP rivals to attack him in an attempt to ... [5157 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1693130660
     },
     {
       "source": {
@@ -343,7 +430,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/08/AP23227121154854-e1692649528271.jpg?w=1280",
       "publishedAt": "2023-08-27T10:00:00Z",
       "content": "Fulton County, Ga., District Attorney Fani Willis (D) on Monday will have her first major courtroom faceoff after indicting former President Trump and 18 others in the Georgia election case.\nAt a Monday morning hearing in Atlanta, prosecutors are set... [5532 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693130400
     },
     {
       "source": {
@@ -357,7 +449,11 @@
       "urlToImage": "https://www.reuters.com/resizer/QMjTCW_4P-wbZCIJxTJ5LgYibGU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PG4KWDVNDZNLTFKBSCPN2UKPTM.jpg",
       "publishedAt": "2023-08-27T08:31:44Z",
       "content": "T-shirts and hats with an image depicting the mugshot of former President Donald Trump are pictured at the Y-Que printing store in Los Angeles, California, U.S., August 25, 2023. REUTERS/Mario Anzuoni Acquire Licensing Rights\nAug 26 (Reuters) - Forme... [2322 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693125104
     },
     {
       "source": {
@@ -371,7 +467,10 @@
       "urlToImage": "https://content.api.news/v3/images/bin/79441a15ef0c18c558793aeb267ba373",
       "publishedAt": "2023-08-27T06:38:22Z",
       "content": "Former president Donald Trump posted on Truth Social Saturday that he won his club tournament on his home course in Bedminster with an impressive score.\nBut the internet isn’t buying it.\n“I am pleased to report, for those that care, that I just won t... [2880 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1693118302
     }
   ]
 }

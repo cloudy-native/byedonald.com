@@ -19,7 +19,8 @@
         "policy_legislation",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1699743734
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://www.reuters.com/resizer/yPNygDiYeRy9joqocAT-umb3VG8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OAQE7FEBHJKDNOF3TSZCCZMHRQ.jpg",
       "publishedAt": "2023-11-11T22:55:53Z",
       "content": "[1/2] Republican presidential candidate and former U.S. President Donald Trump speaks during a campaign rally in Claremont, New Hampshire, U.S., November 11, 2023. REUTERS/Brian Snyder Acquire Licensing Rights\nWASHINGTON, Nov 11 (Reuters) - Former U.... [2269 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699743353
     },
     {
       "source": {
@@ -53,7 +58,8 @@
         "government_administration",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1699740144
     },
     {
       "source": {
@@ -72,7 +78,8 @@
         "legal_justice",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1699734851
     },
     {
       "source": {
@@ -86,7 +93,11 @@
       "urlToImage": "https://static.politico.com/29/63/3a0293054644b18664cecf9ebc9f/gettyimages-1328192114.jpg",
       "publishedAt": "2023-11-11T20:32:47Z",
       "content": "“Mass detention camps, attempts to deny children born here citizenship, uprooting families with mass deportations — this is the horrifying reality that awaits the American people if Donald Trump is allowed anywhere near the Oval Office again,” Biden ... [2992 chars]",
-      "tags": ["immigration", "elections_politics"]
+      "tags": [
+        "immigration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699734767
     },
     {
       "source": {
@@ -100,7 +111,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/93h8sQJlyMtMbtr2TFvNzsx3ef0=/1200x630/filters:format(jpg):quality(70):focal(2085x655:2095x665)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YLUY5HIGHNQLYEWFVIEXLR3WCY.jpg",
       "publishedAt": "2023-11-11T20:25:00Z",
       "content": "This is first time Donald Trump has formally weighed in on the issue of whether to broadcast any of the four criminal trials he is facing. Photograph: AP Photo/Lynne Sladky\nLawyers for former US president Donald Trump have told a judge that she shoul... [3117 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699734300
     },
     {
       "source": {
@@ -114,7 +130,11 @@
       "urlToImage": "https://img2.thejournal.ie/article/6219392/river/?height=400&version=6219393",
       "publishedAt": "2023-11-11T20:00:54Z",
       "content": "DEMOCRATS IN THE United States were able to breathe a collective sigh of relief after so-called “off-year” elections around the country this past Tuesday. Generally, it was a successful night that offered some cause for optimism ahead of upcoming pre... [7835 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1699732854
     },
     {
       "source": {
@@ -128,7 +148,12 @@
       "urlToImage": "https://img2.thejournal.ie/article/6220676/river/?height=400&version=6220681",
       "publishedAt": "2023-11-11T18:55:40Z",
       "content": "DONALD TRUMP IS pushing for his US federal election interference trial in Washington to be televised, joining media outlets that say the American public should be able to watch the historic case unfold.\nFederal court rules prohibit broadcasting proce... [3927 chars]",
-      "tags": ["legal_justice", "elections_politics", "impeachment"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "impeachment"
+      ],
+      "publishedAtTs": 1699728940
     },
     {
       "source": {
@@ -147,7 +172,8 @@
         "taxes",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1699727400
     },
     {
       "source": {
@@ -161,7 +187,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1501952-12-20231111114815.jpeg",
       "publishedAt": "2023-11-11T17:30:00Z",
       "content": "Donald Trump is pushing for his federal election interference trial in Washington to be televised, joining media outlets that say the American public should be able to watch the historic case unfold. The Justice Department is opposing the effort to b... [1831 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699723800
     },
     {
       "source": {
@@ -175,7 +206,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/38f465a0065d82104f86a3d35fc35055e1326966/0_88_2732_1639/master/2732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5f1995b9a39130d094e8456536c66ae",
       "publishedAt": "2023-11-11T16:58:11Z",
       "content": "Donald Trump’s attorneys have requested authorization for live, in-courtroom television coverage of his trial on charges that he conspired to overturn his 2020 presidential election loss so that the former commander-in-chief can publicly argue that t... [3546 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699721891
     },
     {
       "source": {
@@ -193,7 +229,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1699714802
     },
     {
       "source": {
@@ -207,7 +244,12 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6632889.1699289193!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
       "publishedAt": "2023-11-11T14:39:22Z",
       "content": "The Associated Press\nDonald Trump is pushing for his federal election interference trial in Washington to be televised, joining media outlets that say the American public should be able to watch the historic case unfold.\nThe Justice Department is opp... [1802 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699713562
     },
     {
       "source": {
@@ -221,7 +263,12 @@
       "urlToImage": "https://static.politico.com/61/ca/af7e5b0947b4b56b343fab50e79b/trump-fraud-lawsuit-19898.jpg",
       "publishedAt": "2023-11-11T14:12:36Z",
       "content": "The five-page submission to U.S. District Court Judge Tanya Chutkan makes no mention of a federal court rule that has been in place for decades prohibiting broadcasting of criminal court proceedings.\nProsecutors from special counsel Jack Smith’s team... [4325 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699711956
     },
     {
       "source": {
@@ -235,7 +282,12 @@
       "urlToImage": "https://nypost.com/wp-content/themes/nypost-2016/static/images/apple-icons/nypost/apple-icon.png",
       "publishedAt": "2023-11-11T13:11:24Z",
       "content": "Former Trump attorney Michael Cohen confronted a woman on the Upper East Side Friday tearing down fliers of missing Israeli hostages — precipitating a tense confrontation.\n“What’s wrong with you?” Cohen snapped at the well-dressed middle-aged woman, ... [1322 chars]",
-      "tags": ["foreign_policy", "legal_justice", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699708284
     },
     {
       "source": {
@@ -255,7 +307,8 @@
         "policy_legislation",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1699708273
     },
     {
       "source": {
@@ -269,7 +322,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231110201825-trump-new-hampshire-10232023.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-11T13:00:02Z",
       "content": "CNN —\nWhen former President Donald Trump returns to New Hampshire on Saturday, he’ll be doing so eager to continue leveraging the Israel-Hamas war to draw a contrast with President Joe Biden, his likely 2024 general election opponent.\nTrump’s speech ... [3483 chars]",
-      "tags": ["elections_politics", "2028_presidential", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1699707602
     },
     {
       "source": {
@@ -283,7 +341,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2307805/donald-trump.jpg",
       "publishedAt": "2023-11-11T12:07:41Z",
       "content": "Donald Trump may have violated his federal indictment by auctioning off a priceless gun from his collection at Mar-a-Lago.\nLast weekend, an auction held at his Florida home saw the item, described as \"a one of a kind Trump Glock from the 45th Preside... [4423 chars]",
-      "tags": ["personal_family", "regional_state", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1699704461
     },
     {
       "source": {
@@ -297,7 +360,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/656618/uploads/416eb6c0-805e-11ee-befe-2905a36a4037_800_420.jpeg",
       "publishedAt": "2023-11-11T12:03:07Z",
       "content": "In current happenings, Donald Trump’s declarations about his potential second term have taken the front seat, revealing a dark undertone in his political aspirations. His comments, often contradicted due to their frequency, warrant a closer look, dem... [3294 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1699704187
     },
     {
       "source": {
@@ -315,7 +383,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1699700432
     },
     {
       "source": {
@@ -333,7 +402,8 @@
         "elections_politics",
         "media_communications",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1699700400
     }
   ]
 }

@@ -14,6 +14,8 @@ const algoliaQuery = `
         content
         url
         urlToImage
+        publishedAt
+        publishedAtTs
         source {
           name
         }
@@ -130,6 +132,10 @@ const config: GatsbyConfig = {
         indexName: process.env.ALGOLIA_INDEX_NAME, // for all queries
         queries,
         chunkSize: 10000, // default: 1000
+        // Force a one-time full reindex so newly added fields (e.g., publishedAtTs) are pushed
+        // The plugin usually does partial updates based on matchFields (e.g., contentDigest)
+        // which may skip unchanged records. Revert this to the default after a successful run.
+        // enablePartialUpdates: false,
         settings: {
           // Improve query relevance and snippet display
           searchableAttributes: [

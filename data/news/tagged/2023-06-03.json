@@ -14,7 +14,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.png?id=24483518&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2023-06-03T21:17:01Z",
       "content": "A spokesperson for the Kansas Catholic Church and leader of a Medicaid expansion advocacy group disputed comments made by Denning about the fate of Medicaid expansion in 2019 and 2020, when Denning controlled the Senate’s legislative calendar.\nAlan C... [5285 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685827021
     },
     {
       "source": {
@@ -28,7 +33,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23110845635282-e1685816252552.jpg?w=1280",
       "publishedAt": "2023-06-03T21:00:00Z",
       "content": "Former New Jersey Gov. Chris Christie’s 2024 bid is likely to put his criticism of Donald Trump front and center, offering a test of just how much appetite there is in the GOP for an explicitly anti-Trump candidate.\nChristie’s expected presidential b... [5458 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1685826000
     },
     {
       "source": {
@@ -42,7 +51,13 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230603150423-drag-bill-protest-tennessee-file-021423.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-06-03T19:20:30Z",
       "content": "CNN —\nA federal judge in Tennessee has ruled that a state law limiting public drag show performances represented an “unconstitutional restriction on the freedom of speech.”\n“As a matter of text alone, the (Adult Entertainment Act) is a content, and v... [3788 chars]",
-      "tags": ["legal_justice", "free_speech", "social_issues", "lgbtq_rights"]
+      "tags": [
+        "legal_justice",
+        "free_speech",
+        "social_issues",
+        "lgbtq_rights"
+      ],
+      "publishedAtTs": 1685820030
     },
     {
       "source": {
@@ -56,7 +71,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012112536-e1685817109486.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-03T18:33:03Z",
       "content": "Supporters of Ron DeSantis explained this week why they were backing the Florida governor as the GOP candidate for president: he can win against President Joe Biden in 2024.\n“I just think he is more like we have a chance to [beat] the Democratic cand... [1089 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1685817183
     },
     {
       "source": {
@@ -70,7 +90,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2242341/trump-faces-more-bad-news-classified-documents-probe.jpg",
       "publishedAt": "2023-06-03T16:41:12Z",
       "content": "Former U.S. attorney Joyce Vance said that former President Donald Trump might be facing more legal challenges after his attorneys reportedly couldn't find a classified U.S. military document that he previously spoke about keeping.\nIn March, Trump's ... [3827 chars]",
-      "tags": ["legal_justice", "security_intelligence", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685810472
     },
     {
       "source": {
@@ -84,7 +109,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2242348/desantis-chance-beating-trump-polls.jpg",
       "publishedAt": "2023-06-03T16:19:04Z",
       "content": "Florida Governor Ron DeSantis faces an uphill battle to beat former President Donald Trump in the key early presidential primary states of Iowa and New Hampshire, according to recent polls.\nRepublicans running in the 2024 presidential primary will fa... [4343 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1685809144
     },
     {
       "source": {
@@ -103,7 +132,8 @@
         "policy_legislation",
         "executive_orders",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1685808819
     },
     {
       "source": {
@@ -123,7 +153,8 @@
         "lgbtq_rights",
         "civil_rights",
         "free_speech"
-      ]
+      ],
+      "publishedAtTs": 1685807679
     },
     {
       "source": {
@@ -137,7 +168,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-mark-meadows.jpg?id=28227931&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2023-06-03T15:25:24Z",
       "content": "A spokesperson for the Kansas Catholic Church and leader of a Medicaid expansion advocacy group disputed comments made by Denning about the fate of Medicaid expansion in 2019 and 2020, when Denning controlled the Senate’s legislative calendar.\nAlan C... [5285 chars]",
-      "tags": ["government_administration", "legal_justice"]
+      "tags": [
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1685805924
     },
     {
       "source": {
@@ -151,7 +186,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012058816.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-03T13:11:36Z",
       "content": "Donald Trump’s 2024 election campaign’s claims are already being hit with Twitter’s new “community notes,” which fact-check or offer context to dubious posts.\nIn May alone, Team Trump and their surrogates were slapped with community notes on at least... [2446 chars]",
-      "tags": ["media_communications", "elections_politics", "social_media"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_media"
+      ],
+      "publishedAtTs": 1685797896
     },
     {
       "source": {
@@ -165,7 +205,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/45c50787440297066b4c9655fae5a7e19b7248b0/0_250_4427_2658/master/4427.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4bdc8fa3d8fe8e5e8c9260d49efa736",
       "publishedAt": "2023-06-03T12:48:35Z",
       "content": "Lawyers for Donald Trump have demanded the judge in the former president’s New York criminal trial, Juan Manuel Merchan, step aside because of what they say is bias and a conflict of interest arising from his daughter’s work for leading Democrats.\nIn... [3730 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1685796515
     },
     {
       "source": {
@@ -179,7 +224,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/f797064c1206b7ee1f49aebd5623497ad27d03ee/595_0_4905_2943/master/4905.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a02c7bad60c0b77b448ba31275cc5535",
       "publishedAt": "2023-06-03T10:27:16Z",
       "content": "Ukraine’s president has declared his country’s military is ready to launch a long-awaited counteroffensive and hinted at concern about the possibility of Donald Trump retaking the White House.\nVolodymyr Zelenskiy, giving an interview to the Wall Stre... [4857 chars]",
-      "tags": ["foreign_policy", "russia", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1685788036
     },
     {
       "source": {
@@ -193,7 +243,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/06/trump-hannity-biden-fall-joke-reuters-168577914916x9.jpg",
       "publishedAt": "2023-06-03T07:59:26Z",
       "content": "Former US president Donald Trump on Thursday said he told Fox News host Sean Hannity to refrain from making fun of US President Joe Biden’s cognitive abilities, the Hill said in a report.\nTrump earlier this week participated in a town hall event with... [1520 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685779166
     },
     {
       "source": {
@@ -207,7 +262,12 @@
       "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
       "publishedAt": "2023-06-03T07:00:00Z",
       "content": "NASHVILLE, Tenn. (AP) — A federal judge says Tennessee’s first-in-the-nation law designed to place strict limits on drag shows is unconstitutional.\nIn a 70-page ruling handed down late Friday night, U.S. District Judge Thomas Parker wrote that the la... [3907 chars]",
-      "tags": ["legal_justice", "social_issues", "lgbtq_rights"]
+      "tags": [
+        "legal_justice",
+        "social_issues",
+        "lgbtq_rights"
+      ],
+      "publishedAtTs": 1685775600
     },
     {
       "source": {
@@ -221,7 +281,12 @@
       "urlToImage": "https://images.thestarimages.com/OrEjwfWC-MfK1k1TL9SQFHvcIqQ=/1200x765/smart/filters:cb(1685742342688):format(webp)/https://www.thestar.com/content/dam/thestar/politics/political-opinion/2023/06/03/in-attacking-david-johnston-pierre-poilievre-borrows-a-disgraceful-tactic-from-donald-trump/pierre_poilievre.jpg",
       "publishedAt": "2023-06-03T07:00:00Z",
       "content": "The best way to disrupt an investigation is to discredit the investigators.\nPierre Poilievre didn’t write that playbook. He borrowed it from Donald Trump.\nNo, this isn’t another hyperbolic comparison between American Trumpies and Canadian Tories. The... [4830 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1685775600
     },
     {
       "source": {
@@ -235,7 +300,12 @@
       "urlToImage": "https://images.thestarimages.com/daYTF8bYkRfIFVuiqWJTZax57nM=/1280x1024/smart/filters:cb(1685812424959):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2023/06/03/desantis-pence-and-other-gop-2024-hopefuls-but-not-trump-set-to-appear-at-iowa-rally/20230531170552-6477c254074e8bb2ad549147jpeg.jpg",
       "publishedAt": "2023-06-03T07:00:00Z",
       "content": "DES MOINES, Iowa (AP) — Eight Republican presidential hopefuls are in Iowa on Saturday to attend a political event hosted by U.S. Sen. Joni Ernst.\nFlorida Gov. Ron DeSantis and former Vice President Mike Pence are among those scheduled to appear at a... [3498 chars]",
-      "tags": ["elections_politics", "2028_presidential", "state_elections"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "state_elections"
+      ],
+      "publishedAtTs": 1685775600
     },
     {
       "source": {
@@ -249,7 +319,12 @@
       "urlToImage": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
       "publishedAt": "2023-06-03T04:00:00Z",
       "content": "Published Jun 03, 2023 06:04AM ET\n2/2 © Reuters. FILE PHOTO: Republican presidential candidate and Florida Governor Ron DeSantis speaks at a campaign event in Rochester, New Hampshire, U.S., June 1, 2023. REUTERS/Brian Snyder 2/2\nBy James Oliphant an... [5273 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1685764800
     },
     {
       "source": {
@@ -263,7 +338,10 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/06/e-jean-carroll-1253173401.jpg",
       "publishedAt": "2023-06-03T03:27:05Z",
       "content": "In an unexpected twist that fans of one-handed reads are unlikely to have had on their Bingo cards, E. Jean Carroll is partnering with Mary Trump and law professor Jennifer Taub on a serialized romance novel titled \"The Italian Lesson.\"\nThe first ins... [1904 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1685762825
     },
     {
       "source": {
@@ -277,7 +355,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/z8xaYGq7BvEBw61Ox7HwBdBQSnQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/SBPHO3V76NSJFC2MBCUVAKM7MM.jpg",
       "publishedAt": "2023-06-03T03:15:00Z",
       "content": "Former US president Donald Trump and Turkey’s president Recep Tayyip Erdogan: The 'new' autocrats rule in their own name. The state is a vehicle for their personal interests and aggrandisement, and they fashion cults of personality and a politics dri... [5596 chars]",
-      "tags": ["foreign_policy", "media_communications", "social_issues"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1685762100
     }
   ]
 }

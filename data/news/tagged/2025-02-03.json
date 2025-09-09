@@ -14,7 +14,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/02/18460141153d92a6c2b2d5f2b762e03b39f2fbe8aeca570a55fa70aeaa22ad63.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-02-03T23:59:57Z",
       "content": "EDMONTON — Alberta Premier Danielle Smith says she's \"greatly heartened\" by U.S. President Donald Trump's tariff pause, saying the eleventh-hour deal with Canada follows through on a border security measure she had been calling for.\nPrime Minister Ju... [3031 chars]",
-      "tags": ["foreign_policy", "government_administration", "regional_state"]
+      "tags": [
+        "foreign_policy",
+        "government_administration",
+        "regional_state"
+      ],
+      "publishedAtTs": 1738627197
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "policy_legislation",
         "economy_finance",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1738626967
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "regional_state",
         "policy_legislation",
         "border_security"
-      ]
+      ],
+      "publishedAtTs": 1738626897
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "policy_legislation",
         "economy_finance",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1738626840
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "policy_legislation",
         "economy_finance",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1738626824
     }
   ]
 }

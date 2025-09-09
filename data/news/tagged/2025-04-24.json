@@ -20,7 +20,8 @@
         "security_intelligence",
         "crisis_emergency",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1745538904
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "economy_finance",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1745538296
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "science_policy",
         "policy_legislation",
         "federal_agencies"
-      ]
+      ],
+      "publishedAtTs": 1745538159
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "government_administration",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1745537588
     },
     {
       "source": {
@@ -99,7 +103,8 @@
         "media_communications",
         "personal_business",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1745536523
     },
     {
       "source": {
@@ -113,7 +118,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/342KEXXMGNHLPFUMUCOHDG77TA.jpg?auth=04f7734144b3bfdd5d67804ebd355c46818164fd96aba7740ca7424beed0fe30&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-04-24T23:12:50Z",
       "content": "Open this photo in gallery: Trucks line up to enter a shipping berth at the Port of Oakland on April 18, in Oakland, Calif.. The commercial transportation industry is struggling amid economic uncertainty as the fallout from U.S. President Donald Trum... [4631 chars]",
-      "tags": ["trade", "economy_finance", "small_business"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "small_business"
+      ],
+      "publishedAtTs": 1745536370
     },
     {
       "source": {
@@ -127,7 +137,12 @@
       "urlToImage": "https://img.rasset.ie/00225d0d-1600.jpg",
       "publishedAt": "2025-04-24T23:00:00Z",
       "content": "US officials have arrested a Wisconsin judge and charged her with helping a man in her court evade immigration authorities in an escalating dispute between President Donald Trump's administration and local officials over immigration enforcement.\nIn a... [4878 chars]",
-      "tags": ["legal_justice", "immigration", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "government_administration"
+      ],
+      "publishedAtTs": 1745535600
     },
     {
       "source": {
@@ -141,7 +156,13 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMjUyMzMzMzBcXFwvY2MyNDlhYjg3YTFjNDk5MTlkYmE4NWI0MGIyZDhlZDMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxMTg5MzJhYmUxODUyYmE1MjMwZjhhOTRiYjg0NjRmYWE0ZTZkMTYxIn0=/trump-calls-for-ukraine-and-russia-to-meet-as-they-are-close-to-peace-deal.jpg",
       "publishedAt": "2025-04-24T23:00:00Z",
       "content": "President Donald Trump has called for Ukraine and Russia to meet for “very high level talks”, saying they are “very close to a deal” on ending the bloody three-year war.\nMr Trump posted on his Truth Social site shortly after arriving in Rome for Pope... [7038 chars]",
-      "tags": ["foreign_policy", "russia", "ukraine", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine",
+        "middle_east"
+      ],
+      "publishedAtTs": 1745535600
     },
     {
       "source": {
@@ -161,7 +182,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1745535600
     },
     {
       "source": {
@@ -181,7 +203,8 @@
         "europe",
         "ukraine",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1745534609
     }
   ]
 }

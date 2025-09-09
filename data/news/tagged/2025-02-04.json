@@ -20,7 +20,8 @@
         "health_science",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738713592
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/103548683-IMG_9928rr.jpg?v=1695684041&w=1920&h=1080",
       "publishedAt": "2025-02-04T23:56:10Z",
       "content": "CNBC's Jim Cramer unpacked President Donald Trump's actions over the past few days, and concluded that investors should heed his assertions because he is largely unchallenged in a number of arenas.\n\"People on Wall Street, they better start taking the... [1464 chars]",
-      "tags": ["media_communications", "stock_market", "economy_finance"]
+      "tags": [
+        "media_communications",
+        "stock_market",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1738713370
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1738713318
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "security_intelligence",
         "social_issues",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738713300
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "government_administration",
         "legal_justice",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1738712899
     },
     {
       "source": {
@@ -111,7 +120,8 @@
         "government_administration",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738712849
     },
     {
       "source": {
@@ -130,7 +140,8 @@
         "energy",
         "environment",
         "federal_agencies"
-      ]
+      ],
+      "publishedAtTs": 1738712832
     },
     {
       "source": {
@@ -144,7 +155,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/67a1336b1600002600afed83.jpeg?cache=QgCG3zJqnf&ops=1200_630",
       "publishedAt": "2025-02-04T23:42:51Z",
       "content": "The next four years will change America forever. But HuffPost won't back down when it comes to providing free and impartial journalism. For the first time, we're offering an ad-free experience to qualifying contributors who support our fearless newsr... [386 chars]",
-      "tags": ["media_communications", "economy_finance", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1738712571
     },
     {
       "source": {
@@ -164,7 +180,8 @@
         "economy_finance",
         "small_business",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738712549
     }
   ]
 }

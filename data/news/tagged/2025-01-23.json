@@ -18,7 +18,8 @@
         "government_administration",
         "technology_regulation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1737676273
     },
     {
       "source": {
@@ -36,7 +37,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1737676080
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "government_administration",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1737675967
     },
     {
       "source": {
@@ -74,7 +77,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1737675900
     },
     {
       "source": {
@@ -94,7 +98,8 @@
         "social_issues",
         "womens_rights",
         "abortion"
-      ]
+      ],
+      "publishedAtTs": 1737675668
     },
     {
       "source": {
@@ -108,7 +113,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/01/2-splitter-copy-2025-01-23T152457.420.jpeg?w=1024&h=683",
       "publishedAt": "2025-01-23T23:40:26Z",
       "content": "Trace Cyrus, son of country star Billy Ray Cyrus, said his family is “worried” and shared a heartfelt plea with his father following his chaotic performance at President Donald Trump’s inauguration on Monday.\n“Since my earliest memories all I can rem... [1804 chars]",
-      "tags": ["personal_family", "media_communications", "crisis_emergency"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1737675626
     },
     {
       "source": {
@@ -128,7 +138,8 @@
         "immigration",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1737675505
     },
     {
       "source": {
@@ -146,7 +157,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1737675490
     },
     {
       "source": {
@@ -164,7 +176,8 @@
         "government_administration",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1737675045
     },
     {
       "source": {
@@ -178,7 +191,11 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/sudbury/images/LocalImages/220125_tc_chamber_event-1-1.JPG;w=1200;h=800;mode=crop",
       "publishedAt": "2025-01-23T23:30:00Z",
       "content": "Scotiabank senior vice-president and chief economist Jean-François Perrault spoke to a Greater Sudbury Chamber of Commerce audience in Copper Cliff on Wednesday\nThe threat of 25-per-cent tariffs on Canadian goods going into the United States could ha... [4747 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1737675000
     }
   ]
 }

@@ -20,7 +20,8 @@
         "policy_legislation",
         "transportation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731974134
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731974009
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731974007
     },
     {
       "source": {
@@ -71,7 +74,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/trump-supporters-show-support-waving-93200790-e1731970471988.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-11-18T23:51:21Z",
       "content": "We live in an age of whispered conversations.\nThere are aspects of American life that everyone, or nearly everyone, knows are absurd but is too afraid to speak out against and feels powerless to reverse.\nIt used to be said that if someone looked over... [3718 chars]",
-      "tags": ["social_issues", "elections_politics", "media_communications"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1731973881
     },
     {
       "source": {
@@ -90,7 +98,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731973811
     },
     {
       "source": {
@@ -108,7 +117,8 @@
         "government_administration",
         "transportation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731973562
     },
     {
       "source": {
@@ -127,7 +137,8 @@
         "foreign_policy",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731973560
     },
     {
       "source": {
@@ -145,7 +156,8 @@
         "government_administration",
         "policy_legislation",
         "transportation"
-      ]
+      ],
+      "publishedAtTs": 1731973506
     }
   ]
 }

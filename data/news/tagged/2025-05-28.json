@@ -20,7 +20,8 @@
         "elections_politics",
         "media_communications",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1748476698
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "policy_legislation",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1748476635
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/33cf658aadfee01369a9eb649a7095ca71d3d353dff9a8fedb6db211bbee61c6.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-28T23:55:28Z",
       "content": "WASHINGTON — The U.S. Court of International Trade ruled today that U.S. President Donald Trump does not have the authority to impose his sweeping \"Liberation Day\" tariffs or his fentanyl-related duties against Canada and Mexico.\nWASHINGTON — The U.S... [922 chars]",
-      "tags": ["legal_justice", "foreign_policy", "economy_finance"]
+      "tags": [
+        "legal_justice",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748476528
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2653126/donald-trump.jpg",
       "publishedAt": "2025-05-28T23:53:56Z",
       "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nThe White House slammed \"... [5086 chars]",
-      "tags": ["government_administration", "legal_justice", "economy_finance"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748476436
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "security_intelligence",
         "health_science",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1748476434
     },
     {
       "source": {
@@ -101,7 +114,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108125271-17436250942025-04-02t201436z_12535733_rc2wpdaeu6bx_rtrmadp_0_usa-trump-tariffs.jpeg?v=1743627069&w=1920&h=1080",
       "publishedAt": "2025-05-28T23:52:00Z",
       "content": "The U.S. Court of International Trade on Wednesday blocked steep reciprocal tariffs unilaterally imposed by President Donald Trump on scores of countries in April to correct what he said were persistent trade imbalances.\nThe ruling deals a potentiall... [2141 chars]",
-      "tags": ["legal_justice", "economy_finance", "foreign_policy"]
+      "tags": [
+        "legal_justice",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748476320
     },
     {
       "source": {
@@ -121,7 +139,8 @@
         "pardons",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1748476247
     },
     {
       "source": {
@@ -141,7 +160,8 @@
         "government_administration",
         "federal_agencies",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1748476175
     },
     {
       "source": {
@@ -155,7 +175,12 @@
       "urlToImage": "https://images.indianexpress.com/2025/04/China_20250428182127.jpg",
       "publishedAt": "2025-05-28T23:49:13Z",
       "content": "US President Donald Trump delivers remarks on tariffs in the Rose Garden at the White House in Washington, DC US. (Photo: Reuters)\nA Manhattan-based federal court in the United States has blocked President Donald Trump’s “Liberation Day” tariffs from... [449 chars]",
-      "tags": ["economy_finance", "legal_justice", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748476153
     },
     {
       "source": {
@@ -175,7 +200,8 @@
         "government_administration",
         "economy_finance",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1748475678
     }
   ]
 }

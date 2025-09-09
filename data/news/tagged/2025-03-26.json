@@ -14,7 +14,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/03/26/24827e14-25ee-498f-8370-64ce0f82d7a1/thumbnail/1200x630/e0dd0f5dba349bb9d8d2e8bf7c675c06/gettyimages-2206492808.jpg?v=95354023eeb6141c58c08d9a5716f291",
       "publishedAt": "2025-03-26T23:51:30Z",
       "content": "Will Trump's order aimed at overhauling elections stand up in court?\nThis week, President Trump signed the 100th executive order of his second term. Historical records show Mr. Trump has exercised his presidential pen at a pace that's unprecedented i... [4513 chars]",
-      "tags": ["government_operations", "elections_politics", "legal_justice"]
+      "tags": [
+        "government_operations",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1743033090
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108120615-1742857160156-gettyimages-978625278-66565695.jpeg?v=1742857186&w=1920&h=1080",
       "publishedAt": "2025-03-26T23:48:09Z",
       "content": "Asia-Pacific markets traded mixed Thursday, tracking losses on Wall Street as investors weighed U.S. President Donald Trump's 25% tariffs on auto imports.\nJapan's benchmark Nikkei 225 ended the day 0.6% lower at 37,799.97, while the broader Topix ind... [445 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1743032889
     },
     {
       "source": {
@@ -48,7 +58,8 @@
         "media_communications",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1743032385
     },
     {
       "source": {
@@ -68,7 +79,8 @@
         "security_intelligence",
         "foreign_policy",
         "latin_america"
-      ]
+      ],
+      "publishedAtTs": 1743032282
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/03/26/multimedia/26tariffs-live-promo730p-vqmk/26tariffs-live-promo730p-vqmk-facebookJumbo.jpg",
       "publishedAt": "2025-03-26T23:36:13Z",
       "content": "A BMW factory in Munich. The United States is the most important export market for Germany’s auto industry.\nAfter months of threats, the White House unveiled plans on Wednesday to impose tariffs on automobiles imported to the United States, a plan th... [4930 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743032173
     },
     {
       "source": {
@@ -96,7 +113,12 @@
       "urlToImage": "https://static.theprint.in/wp-content/uploads/2025/01/trupp1.jpg",
       "publishedAt": "2025-03-26T23:32:02Z",
       "content": "Industry experts warn that the tariffs could have far-reaching consequences. Autos Drive America, a representative group for international car manufacturers operating in the US, expressed serious concerns about the potential fallout.\nThe tariffs, set... [2165 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743031922
     },
     {
       "source": {
@@ -116,7 +138,8 @@
         "policy_legislation",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1743031891
     },
     {
       "source": {
@@ -130,7 +153,13 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/trump-tiktok.jpg?quality=75&strip=all&1743014945&w=1024",
       "publishedAt": "2025-03-26T23:30:26Z",
       "content": "President Trump said Wednesday he would be willing to reduce tariffs to get a deal done with TikTok’s Chinese parent, ByteDance.\nByteDance faces an April 5 deadline to find a non-Chinese buyer for TikTok or face a US ban on national security grounds.... [1610 chars]",
-      "tags": ["economy_finance", "foreign_policy", "china", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "china",
+        "trade"
+      ],
+      "publishedAtTs": 1743031826
     },
     {
       "source": {
@@ -150,7 +179,8 @@
         "media_communications",
         "press_relations",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1743031703
     },
     {
       "source": {
@@ -164,7 +194,12 @@
       "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/73MSGBN6HERHCPFOWZURRWLRNI.jpg?auth=320cd5bdab10c24c2c2631c670b0c18cae3952158802cd64710badada06c873d&height=630&width=1200&smart=true&quality=80",
       "publishedAt": "2025-03-26T23:22:43Z",
       "content": "WASHINGTON — President Donald Trump said Wednesday he was placing 25% tariffs on auto imports, a move the White House says would foster domestic manufacturing but could also put a financial squeeze on automakers that depend on global supply chains.\n“... [4787 chars]",
-      "tags": ["economy_finance", "trade", "taxes"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "taxes"
+      ],
+      "publishedAtTs": 1743031363
     }
   ]
 }

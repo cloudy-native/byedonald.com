@@ -14,7 +14,12 @@
       "urlToImage": "https://images.indianexpress.com/2025/04/trump-musk-protest.jpg",
       "publishedAt": "2025-04-05T23:57:48Z",
       "content": "Demonstrators hold up signs during a \"Hands Off!\" protest against President Donald Trump at the Washington Monument in Washington. (AP Photo/Jose Luis Magana)\nMillions of people protested in multiple cities across the United States on Saturday agains... [565 chars]",
-      "tags": ["elections_politics", "social_issues", "crisis_emergency"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1743897468
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "government_administration",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1743897346
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "trade",
         "media_communications",
         "protests"
-      ]
+      ],
+      "publishedAtTs": 1743897328
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/ff582a411b770a574948d5246edaa84158dc4678/0_161_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=006dc6f7490f36b4d753de490944564e",
       "publishedAt": "2025-04-05T23:44:52Z",
       "content": "The Democratic senator Cory Booker took a version of his record-breaking Senate floor speech on the road Saturday to a town hall meeting in a New Jersey gymnasium, calling on people to find out what they can do to push back against Donald Trump’s age... [3523 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1743896692
     },
     {
       "source": {
@@ -88,7 +100,8 @@
         "doj_actions",
         "congressional_investigations",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743896552
     },
     {
       "source": {
@@ -102,7 +115,12 @@
       "urlToImage": "https://cdn.manilastandard.net/wp-content/uploads/2025/03/us-president-donald-trump.jpg",
       "publishedAt": "2025-04-05T23:41:56Z",
       "content": "When Liz Gabbitas joined thousands of fellow protesters Saturday in the US capital, she thought her message to the Trump administration would be best delivered through her homemade sign: a cardboard guillotine.\nThe 34-year-old librarian made clear sh... [3353 chars]",
-      "tags": ["elections_politics", "social_issues", "protests"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "protests"
+      ],
+      "publishedAtTs": 1743896516
     },
     {
       "source": {
@@ -122,7 +140,8 @@
         "media_communications",
         "campaign_events",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1743894875
     },
     {
       "source": {
@@ -142,7 +161,8 @@
         "regional_state",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743894282
     },
     {
       "source": {
@@ -162,7 +182,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743894000
     },
     {
       "source": {
@@ -176,7 +197,12 @@
       "urlToImage": "https://img.rasset.ie/00223a64-1600.jpg",
       "publishedAt": "2025-04-05T23:00:00Z",
       "content": "Tens of thousands of protesters have flooded the streets of major US cities to oppose the divisive policies of President Donald Trump, in the largest demonstrations since his return to the White House.\nOpponents of the Republican president's policies... [3507 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1743894000
     }
   ]
 }

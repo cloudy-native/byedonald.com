@@ -20,7 +20,8 @@
         "security_intelligence",
         "terrorism",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1737590374
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://i.cbc.ca/1.7438957.1737589022!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ubcic-on-rcmp-stewart-phillip.jpg?im=Resize%3D620",
       "publishedAt": "2025-01-22T23:58:40Z",
       "content": "The president of the Union of B.C. Indian Chiefs apologized Wednesday and walked back comments he made earlier this week suggesting he supported reviving the Northern Gateway pipeline project.\n\"I do not support resuscitating dead projects such as the... [4544 chars]",
-      "tags": ["environment", "civil_rights", "energy"]
+      "tags": [
+        "environment",
+        "civil_rights",
+        "energy"
+      ],
+      "publishedAtTs": 1737590320
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "media_communications",
         "social_media",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1737589680
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/01/GettyImages-2194700265.jpg?w=1024&h=683",
       "publishedAt": "2025-01-22T23:45:07Z",
       "content": "Steve Bannon convinced a Manhattan judge Wednesday to let a “more aggressive” attorney defend him against charges similar to those President Trump pardoned him for and won a weeklong delay of his upcoming trial.\nAt a brief hearing, Manhattan Supreme ... [3229 chars]",
-      "tags": ["legal_justice", "criminal_cases", "pardons"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "pardons"
+      ],
+      "publishedAtTs": 1737589507
     },
     {
       "source": {
@@ -86,7 +98,8 @@
         "europe",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1737589423
     }
   ]
 }

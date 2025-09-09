@@ -18,7 +18,8 @@
         "government_administration",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748908035
     },
     {
       "source": {
@@ -32,7 +33,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/8adcf7d78f6caafae13fe20f167ddeaecc052bb8/297_0_6660_5328/master/6660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=956e9cda5020c3195456f23a8fe1b5e0",
       "publishedAt": "2025-06-02T23:46:15Z",
       "content": "Donald Trump has pardoned two south Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore.\nPardons for Tanner Mansell and John Moore Jr were signed on Wednesday. They ha... [1591 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1748907975
     },
     {
       "source": {
@@ -46,7 +51,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/02/360ee8ea-06ae-4783-a2e8-4279680a8488/thumbnail/1200x630g2/85263f080c245d98d48eae4abb216b2c/ap25150806621369.jpg?v=bf13c71e7181bf2db128edf777c4aecf",
       "publishedAt": "2025-06-02T23:37:56Z",
       "content": "Why did the Supreme Court block Trump from using Alien Enemies Act for deportations?\nA judge in California on Monday blocked the Trump administration from using the wartime Alien Enemies Act to deport Venezuelan migrants in the Los Angeles area, ruli... [3809 chars]",
-      "tags": ["legal_justice", "immigration", "civil_litigation"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "civil_litigation"
+      ],
+      "publishedAtTs": 1748907476
     },
     {
       "source": {
@@ -66,7 +76,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1748907277
     },
     {
       "source": {
@@ -80,7 +91,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/07/AP24200853248538.jpg?w=1024&h=682",
       "publishedAt": "2025-06-02T23:30:37Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nFear and anger, not age,\nseparate GOP, Dems\nRe: “Democrats’ age problem goes far beyond Biden” (Page A7, May 29).\nThe mainstream media must drop the myth that Republican... [4481 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1748907037
     },
     {
       "source": {
@@ -100,7 +116,8 @@
         "nuclear_policy",
         "national_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1748906398
     },
     {
       "source": {
@@ -118,7 +135,8 @@
         "government_administration",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748906314
     },
     {
       "source": {
@@ -132,7 +150,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/irvin-works-west-mifflin-pennsylvania-105594323-e1748900184607.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-06-02T23:07:20Z",
       "content": "From the right: Trump’s Art of the Steel Deal\n“Nippon Steel is buying US Steel for $15 billion and has agreed to let the American company remain American-operated” in a Trump-approved deal that “addressed concerns about national security while securi... [4290 chars]",
-      "tags": ["economy_finance", "national_security", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "national_security",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748905640
     },
     {
       "source": {
@@ -152,7 +175,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1748905227
     },
     {
       "source": {
@@ -171,7 +195,8 @@
         "economy_finance",
         "foreign_policy",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1748905200
     }
   ]
 }

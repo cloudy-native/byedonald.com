@@ -14,7 +14,11 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/02/donald_trump_2005690427_01.jpg",
       "publishedAt": "2024-04-02T23:57:09Z",
       "content": "The New York judge overseeing Donald Trump's upcoming hush-money trial expanded the gag order on the former president on Monday to protect his and the Manhattan District attorney's family members, following Trump's week of attacks of the judge's daug... [7203 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712102229
     },
     {
       "source": {
@@ -28,7 +32,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/3c81fa655f98e8f1fc0676fe330371eda10160a0/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=681741a818c8a66e47ec3b7e07f8e078",
       "publishedAt": "2024-04-02T23:54:56Z",
       "content": "A Ukrainian drone struck the primary unit of the third-largest Russian oil refinery in the Tatarstan region, more than 1,100km (690 miles) from Ukraine, one of their deepest attacks into Russia yet. Russia claimed to have intercepted a drone meant to... [3815 chars]",
-      "tags": ["foreign_policy", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1712102096
     },
     {
       "source": {
@@ -42,7 +50,11 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/1781712098919/2024/1/4f72b0fb50085d46d34e17a26e538b0d/v1.5/House-Republicans-introduce-bill-to-rename-Dulles-Airport-after-Donald-Trump.jpg",
       "publishedAt": "2024-04-02T23:53:34Z",
       "content": "1 of 4 | House Republicans are seeking to rename Washington Dulles International Airport in Virginia (pictured) to \"Donald J. Trump International Airport.\" The bill, introduced Tuesday by House Republicans to honor the former president, was blasted b... [2960 chars]",
-      "tags": ["policy_legislation", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712102014
     },
     {
       "source": {
@@ -56,7 +68,11 @@
       "urlToImage": "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_170810501-1.jpg",
       "publishedAt": "2024-04-02T23:51:43Z",
       "content": "Republicans in the United States House of Representatives have introduced a bill that would rename Dulles International Airport to Donald J. Trump International Airport.\nRenaming Dulles\nNaming United States airports after presidents is not uncommon. ... [2923 chars]",
-      "tags": ["policy_legislation", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712101903
     },
     {
       "source": {
@@ -70,7 +86,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2371962/donald-trump.jpg",
       "publishedAt": "2024-04-02T23:35:02Z",
       "content": "Amid ongoing tension over the handling of the U.S.-Mexico border, former President Donald Trump on Tuesday said during a speech along the campaign trail in Michigan that \"the suburban housewives actually like Donald Trump\" and that they should vote f... [3924 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712100902
     },
     {
       "source": {
@@ -84,7 +105,11 @@
       "urlToImage": "https://img.rasset.ie/00200488-1600.jpg",
       "publishedAt": "2024-04-02T23:00:00Z",
       "content": "A New York judge has denied Donald Trump's bid to delay his 15 April trial on charges stemming from hush money paid to a porn star until the US Supreme Court reviews claim to presidential immunity in a separate criminal case.\nThe court is scheduled t... [2303 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712098800
     },
     {
       "source": {
@@ -98,7 +123,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDNcXFwvMjYxOTA5MjdcXFwvMmZjODJiNTYzZjAzNDI3YWEyY2VkYjc1MjM2MzY4OTktZTE3MTIxNjI0MjU0MDMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0YmU0MDgxZWNhMDYxMGQyMjcyMjdlZjFlMWQxZTNkMjBkMzZjMDU5In0=/trump-leads-biden-in-battleground-us-states-poll-finds.jpg",
       "publishedAt": "2024-04-02T23:00:00Z",
       "content": "Republican Donald Trump leads president Joe Biden in six battleground states in the 2024 US presidential election, according to a Wall Street Journal poll released on Wednesday that cited concerns about the economy and Mr Biden's performance.\nMr Trum... [1455 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712098800
     },
     {
       "source": {
@@ -112,7 +141,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDRcXFwvMDMyMTU0MTlcXFwvYjIyMTNlOTY3ZGEzNDUwYmIwYjg1YjQ3Y2JkMDkwMDEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzYWM5NzdhMWZlMTU0ZDUzMjkwZWJlNzc4MGU5YTM2ODNmYzI3ZTc3In0=/judge-rejects-trump-s-request-to-delay-hush-money-trial-until-ruling-on-immunity.jpg",
       "publishedAt": "2024-04-02T23:00:00Z",
       "content": "A judge has rejected Donald Trump’s bid to delay his April 15 hush money criminal trial until the Supreme Court rules on the presidential immunity claims he raised in another of his criminal cases.\nManhattan Judge Juan M Merchan deemed the former pre... [871 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712098800
     },
     {
       "source": {
@@ -126,7 +159,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240228-donald-trump-ew-551p-dfe846.jpg",
       "publishedAt": "2024-04-02T22:39:24Z",
       "content": "Former President Donald Trump has sued the co-founders of Truth Social, alleging they mismanaged the social media platform early on and should therefore lose their stock in the company, which recently went public.\nIn papers filed last week in Florida... [2002 chars]",
-      "tags": ["personal_family", "media_communications", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1712097564
     },
     {
       "source": {
@@ -140,7 +178,11 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2024/04/Bad-Faith-Critics-Pick.jpg?w=1000&h=562&crop=1",
       "publishedAt": "2024-04-02T22:28:04Z",
       "content": "“Bad Faith: Christian Nationalism’s Unholy War on Democracy” is the scariest film I’ve seen in a long time. It’s a documentary that explores the rise of Christian Nationalism, and much of what it shows you, about the mutation of the Christian Right i... [8789 chars]",
-      "tags": ["social_issues", "elections_politics"]
+      "tags": [
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1712096884
     },
     {
       "source": {
@@ -154,7 +196,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23200715851386.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-04-02T22:23:57Z",
       "content": "CNN —\nTrump Media & Technology Group, the Truth Social owner controlled by former President Donald Trump, recently filed a lawsuit against two of its co-founders seeking to eliminate their stakes in the multi-billion dollar company.\nThe lawsuit marks... [1756 chars]",
-      "tags": ["personal_family", "media_communications", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1712096637
     },
     {
       "source": {
@@ -168,7 +215,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240402-donald-trump-ew-420p-98e639.jpg",
       "publishedAt": "2024-04-02T22:01:45Z",
       "content": "GRAND RAPIDS, Mich. — Former President Donald Trump on Tuesday announced that his campaign would address the issue of abortion next week, a move that comes just after a Florida court paved the way for a six-week ban on the procedure.\nAt a campaign ra... [4056 chars]",
-      "tags": ["elections_politics", "social_issues", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712095305
     },
     {
       "source": {
@@ -182,7 +234,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/bbb709855e8b532d0ec28cbe7ece39035c054ccc/0_0_3678_2207/master/3678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01edf105de709b98c3812c0bffc8e09c",
       "publishedAt": "2024-04-02T22:00:10Z",
       "content": "Voters in Connecticut, New York, Rhode Island and Wisconsin cast ballots in the presidential primaries on Tuesday. The results, particularly those in the crucial battleground state of Wisconsin, could provide more clues about the general election in ... [4220 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712095210
     },
     {
       "source": {
@@ -196,7 +252,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240402-donald-trump-wisconsin-se-319p-fd90c1.jpg",
       "publishedAt": "2024-04-02T22:00:00Z",
       "content": "Welcome to the online version of From the Politics Desk, an evening newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the campaign trail, the White House and Capitol Hill.\nIn today’s edition, national politica... [9881 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712095200
     },
     {
       "source": {
@@ -210,7 +270,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2371965/trump-blasted-amid-fight-have-judgerecused.jpg",
       "publishedAt": "2024-04-02T21:56:06Z",
       "content": "The Manhattan District Attorney's Office ridiculed Donald Trump's ongoing fight to have the judge recused from the former president's hush money case in New York.\nIn a court filing Tuesday, prosecutors for District Attorney Alvin Bragg again opposed ... [1192 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712094966
     },
     {
       "source": {
@@ -224,7 +288,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_01_2022_04_05_36_7275105.jpg?width=920&format=jpeg",
       "publishedAt": "2024-04-02T21:47:34Z",
       "content": "A conservative ally of Donald Trump filed a complaint on Tuesday against a U.S. federal judge who in a rare television interview criticized the former president's verbal attacks on the New York judge overseeing Trump's upcoming criminal trial. Mike D... [1881 chars]",
-      "tags": ["legal_justice", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1712094454
     },
     {
       "source": {
@@ -238,7 +306,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/trump-court.jpg?id=50967313&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2024-04-02T21:42:34Z",
       "content": "Donald Trump filed notice that he will demand Judge Juan Merchan recuse himself from the New York City hush money case set to come to court later this month, newly revealed records show.\nThe attorneys Monday wrote a pre-motion letter saying that afte... [1782 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712094154
     },
     {
       "source": {
@@ -252,7 +324,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2371926/petition-calls-trump-invesetigatedforfraud.jpg",
       "publishedAt": "2024-04-02T21:41:38Z",
       "content": "Thousands have signed a petition demanding that Donald Trump be investigated regarding securities fraud after shares of the former president's social media company spiked—then plummeted—within its first week of going public.\nShares of Trump Media & T... [3681 chars]",
-      "tags": ["legal_justice", "economy_finance", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1712094098
     },
     {
       "source": {
@@ -266,7 +343,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2133611486.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-04-02T21:40:34Z",
       "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nMost Americans have moved on from the presidential primaries now that they are effectively over. President Joe Biden and former P... [5569 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712094034
     },
     {
       "source": {
@@ -280,7 +361,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/a03184dd08c2f8a5962664d840428f1f5a6fe439/0_0_5381_3228/master/5381.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=902d449c9b328e37b0a3c2ae8bd903cc",
       "publishedAt": "2024-04-02T21:39:04Z",
       "content": "Donald Trump is again seeking to remove the judge overseeing his upcoming New York criminal trial from the case, arguing the judge’s daughter’s work for a political consultancy with Democratic clients poses a conflict of interest.\nThe Republican pres... [1754 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712093944
     },
     {
       "source": {
@@ -294,7 +379,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2371917/truth-social.jpg",
       "publishedAt": "2024-04-02T21:33:28Z",
       "content": "Mary Trump, the outspoken niece and frequent critic of former president Donald Trump, has offered her views on Truth Social, the social media venture spearheaded by her uncle, saying it could be a potential multi-billion-dollar campaign funding scam.... [5264 chars]",
-      "tags": ["media_communications", "elections_politics", "economy_finance"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1712093608
     },
     {
       "source": {
@@ -308,7 +398,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
       "publishedAt": "2024-04-02T21:31:47Z",
       "content": "Donald Trump is again seeking to get the judge overseeing his April 15 New York criminal trial off the case, arguing the judge's daughter's work for a political consultancy with Democratic clients poses a conflict of interest.\nThe Republican presiden... [2247 chars]",
-      "tags": ["legal_justice", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712093507
     },
     {
       "source": {
@@ -322,7 +416,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
       "publishedAt": "2024-04-02T21:31:37Z",
       "content": "Donald Trump called immigrants in the United States illegally \"animals\" and \"not human\" in a speech in Michigan on Tuesday, resorting to the degrading rhetoric he has employed time and again on the campaign trail.\nThe Republican presidential candidat... [3735 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712093497
     },
     {
       "source": {
@@ -336,7 +435,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240320-joe-biden-donald-trump-seamless-2-up-split-3x2-ac-1124p-0e563c.jpg",
       "publishedAt": "2024-04-02T21:14:24Z",
       "content": "GREEN BAY, Wis. — Former President Donald Trump on Tuesday issued a demonstrative call for head-to-head debates with President Joe Biden, placing an empty lectern on the stage before a rally here to represent where Biden could stand.\nA staple of down... [7121 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712092464
     },
     {
       "source": {
@@ -350,7 +453,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/03/Trump_hushmoney.png?w=1280",
       "publishedAt": "2024-04-02T21:09:29Z",
       "content": "Former President Trump has secured a $175 million bond in his civil fraud case, keeping at bay the seizure of his most prized properties — for now.\nThe bond — a fragment of the amount Trump and his co-defendants owe after a New York judge found they ... [5664 chars]",
-      "tags": ["legal_justice", "personal_family", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712092169
     }
   ]
 }

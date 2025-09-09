@@ -14,7 +14,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/e3bfea2f805e38ce3c6cf22854ada6ab004abede/0_0_3277_2621/master/3277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=189f05441cde34dde207e6e55ae0ec2c",
       "publishedAt": "2025-05-07T23:56:06Z",
       "content": "Donald Trump has tapped Dr Casey Means, a wellness influencer with close ties to Robert F Kennedy Jr, the US health secretary, as nominee for surgeon general after withdrawing his initial pick for the influential health post.\nThe US president said in... [5667 chars]",
-      "tags": ["personnel", "civil_rights"]
+      "tags": [
+        "personnel",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1746662166
     },
     {
       "source": {
@@ -32,7 +36,8 @@
         "government_administration",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1746661725
     },
     {
       "source": {
@@ -46,7 +51,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
       "publishedAt": "2025-05-07T23:46:55Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "latin_america", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "latin_america",
+        "immigration"
+      ],
+      "publishedAtTs": 1746661615
     },
     {
       "source": {
@@ -66,7 +76,8 @@
         "health_science",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1746661560
     },
     {
       "source": {
@@ -84,7 +95,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1746661431
     },
     {
       "source": {
@@ -98,7 +110,12 @@
       "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-pakistan-india-airstrike_6909647.jpg?20250507235338",
       "publishedAt": "2025-05-07T23:33:00Z",
       "content": "Pakistan's prime minister has pledged to retaliate after India's deadly missile strike, saying the country will \"now have to pay the price\" for their \"blatant mistake\".\nIn a televised address on state broadcaster PTV, Shehbaz Sharif responded to Wedn... [4110 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1746660780
     },
     {
       "source": {
@@ -117,7 +134,8 @@
         "national_security",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746660480
     },
     {
       "source": {
@@ -136,7 +154,8 @@
         "foreign_policy",
         "government_administration",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1746659349
     },
     {
       "source": {
@@ -156,7 +175,8 @@
         "national_security",
         "budget",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1746659260
     },
     {
       "source": {
@@ -170,7 +190,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDgwNzAyMTRcXFwvMi43OTIxMTE0Ny1lMTc0NjY4NDM5OTQ4OS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjFjZTFmYjVlYTQwYTgzN2NkZTdhMWIzNmJiNjUzMjBlOTc0MWUzYjQifQ==/donald-trump-to-announce-major-trade-deal-with-uk-on-thursday.jpg",
       "publishedAt": "2025-05-07T23:00:00Z",
       "content": "Donald Trump will on Thursday announce the US has reached a “major trade deal” with a “highly respected country”, the US president said.\nMultiple media outlets in the US, including The New York Times, reported the deal was with the UK, citing people ... [1933 chars]",
-      "tags": ["foreign_policy", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1746658800
     }
   ]
 }

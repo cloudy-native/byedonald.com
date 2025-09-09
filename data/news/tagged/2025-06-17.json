@@ -14,7 +14,12 @@
       "urlToImage": "https://media.wired.com/photos/68506cefe46fc92c73b35855/191:100/w_1280,c_limit/Tariff-Evasion-Business-2207972180.jpg",
       "publishedAt": "2025-06-17T10:00:00Z",
       "content": "US Customs and Border Protection experienced a sharp rise in reports about potential tariff evasion after President Donald Trump abruptly imposed new duties on over 100 countries earlier this year, a… [+3060 chars]",
-      "tags": ["economy_finance", "policy_legislation", "trade"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "trade"
+      ],
+      "publishedAtTs": 1750154400
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-06-17T22:37:43Z",
       "content": "The Federal Communications Commission will be back to a quorum once shes sworn in.\r\nThe Senate confirmed Republican Olivia Trusty to serve on the Federal Communications Commission (FCC) on Tuesday, i… [+3310 chars]",
-      "tags": ["government_operations", "federal_agencies", "personnel"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "personnel"
+      ],
+      "publishedAtTs": 1750199863
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/Tim-Walz-1200x675.jpg",
       "publishedAt": "2025-06-17T20:20:14Z",
       "content": "Every year, there are a number of terrible incidents in this country that, due to boiling polarization, leave everyone scrambling to quickly determine who they can blame. Most of the time, it’s a mas… [+5719 chars]",
-      "tags": ["media_criticism", "elections_politics", "social_issues"]
+      "tags": [
+        "media_criticism",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750191614
     },
     {
       "source": {
@@ -56,7 +71,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3798/live/5c7746b0-4b6b-11f0-8c47-237c2e4015f5.jpg",
       "publishedAt": "2025-06-17T23:04:03Z",
       "content": "Martina Navratilova, left, tells Amol Rajan, right, that she feels the US has become \"totalitarian\"\r\nFifty years ago, Martina Navratilova left everything she knew in communist Czechoslovakia to start… [+5587 chars]",
-      "tags": ["civil_rights", "personal_family"]
+      "tags": [
+        "civil_rights",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750201443
     },
     {
       "source": {
@@ -70,7 +89,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24e7/live/0ba07070-4b31-11f0-aec9-f96b0139508c.jpg",
       "publishedAt": "2025-06-17T04:20:20Z",
       "content": "This had all the hallmarks of Trumpian political theatrics.\r\nIn the Canadian sunshine here in the Rockies at the G7 summit, President Trump emerged from a meeting with Sir Keir Starmer brandishing a … [+1869 chars]",
-      "tags": ["foreign_policy", "economy_finance", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1750134020
     },
     {
       "source": {
@@ -90,7 +114,8 @@
         "israel",
         "iran",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750120682
     },
     {
       "source": {
@@ -110,7 +135,8 @@
         "security_incidents",
         "europe",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750185300
     },
     {
       "source": {
@@ -128,7 +154,8 @@
         "government_operations",
         "technology_regulation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750202101
     },
     {
       "source": {
@@ -142,7 +169,12 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/a47430c5a1a996de677be2e97f655c950bb274ba/hub/2025/06/16/c52a0666-5ee1-4a89-b5c3-17cc3261011c/amazon-prime-day-shopping-tariffs-0964-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-06-17T07:17:18Z",
       "content": "Amazon Prime Day is getting even bigger this year. Amazon announced its summer shopping event will take place July 8-11 -- ballooning from two to four days. The mega retailer's sale, exclusive to Pri… [+1677 chars]",
-      "tags": ["economy_finance", "trade", "small_business"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "small_business"
+      ],
+      "publishedAtTs": 1750144638
     },
     {
       "source": {
@@ -162,7 +194,8 @@
         "policy_legislation",
         "government_administration",
         "environment"
-      ]
+      ],
+      "publishedAtTs": 1750174039
     },
     {
       "source": {
@@ -176,7 +209,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5642x3174+0+587/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F1c%2Fb57eab034136998d5ef880335aba%2Fgettyimages-2219845754.jpg",
       "publishedAt": "2025-06-17T17:09:12Z",
       "content": "President Trump escalated his rhetoric against Iran on Tuesday, issuing a threat on social media against its Supreme Leader Ayatollah Ali Khamenei and taking credit for having \"complete and total con… [+1987 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "middle_east"
+      ],
+      "publishedAtTs": 1750180152
     },
     {
       "source": {
@@ -190,7 +228,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5185x2917+0+270/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F0a%2Fc78ce9404ae9a8f750affe4c8704%2Fspanberger-earle-sears-diptych.jpg",
       "publishedAt": "2025-06-17T08:59:30Z",
       "content": "It's primary election day in Virginia, and the state is gearing up for a big election year. In November, Virginians will vote for governor, lieutenant governor, attorney general, and all 100 seats in… [+11178 chars]",
-      "tags": ["elections_politics", "2026_midterms", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "swing_states"
+      ],
+      "publishedAtTs": 1750150770
     },
     {
       "source": {
@@ -209,7 +252,8 @@
         "immigration",
         "legal_justice",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1750190730
     },
     {
       "source": {
@@ -228,7 +272,8 @@
         "federal_agencies",
         "natural_disasters",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750183322
     },
     {
       "source": {
@@ -248,7 +293,8 @@
         "security_incidents",
         "technology_regulation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750143659
     },
     {
       "source": {
@@ -268,7 +314,8 @@
         "international_organizations",
         "africa",
         "travel"
-      ]
+      ],
+      "publishedAtTs": 1750180257
     },
     {
       "source": {
@@ -282,7 +329,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2Fc2%2Ff3d0435848c7866ef0cfa6f31c9d%2Fgettyimages-2219152041-1.jpg",
       "publishedAt": "2025-06-17T22:15:22Z",
       "content": "Senate Republicans are considering adjustments to the bill that's a cornerstone of President Trump's second-term agenda, with new provisions that could set up a collision course in the House.\r\nThe Se… [+8196 chars]",
-      "tags": ["policy_legislation", "government_administration", "congress"]
+      "tags": [
+        "policy_legislation",
+        "government_administration",
+        "congress"
+      ],
+      "publishedAtTs": 1750198522
     },
     {
       "source": {
@@ -296,7 +348,12 @@
       "urlToImage": "https://i.insider.com/68514feb3d5881a51c1b8a61?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T12:12:34Z",
       "content": "Alex WROBLEWSKI / AFP\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Good morning! Add… [+7466 chars]",
-      "tags": ["personal_business", "technology_regulation", "small_business"]
+      "tags": [
+        "personal_business",
+        "technology_regulation",
+        "small_business"
+      ],
+      "publishedAtTs": 1750162354
     },
     {
       "source": {
@@ -310,7 +367,11 @@
       "urlToImage": "https://i.insider.com/6851c1c1f748d8c055f3dfea?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T19:42:16Z",
       "content": "Donald Trump's sons unveiled a new service called Trump Mobile on Monday. Among the new offerings will be a $500 gold-colored smartphone.Read the original article on Business Insider",
-      "tags": ["personal_business", "small_business"]
+      "tags": [
+        "personal_business",
+        "small_business"
+      ],
+      "publishedAtTs": 1750189336
     },
     {
       "source": {
@@ -324,7 +385,12 @@
       "urlToImage": "https://i.insider.com/68517dd43d5881a51c1b8d22?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T23:51:42Z",
       "content": "TikTok now has until September to find a new owner as President Donald Trump plans to delay a ban.Pool/Getty Images.\r\n<ul><li>TikTok now has until September to find a new owner as President Donald Tr… [+2858 chars]",
-      "tags": ["economy_finance", "technology_regulation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1750204302
     },
     {
       "source": {
@@ -344,7 +410,8 @@
         "personal_legal",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750165945
     },
     {
       "source": {
@@ -358,7 +425,11 @@
       "urlToImage": "https://i.insider.com/68513ff185e81483682c382a?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T11:46:14Z",
       "content": "Tesla vehicles have topped the list of most American-made cars for the past four years.Newsday LLC/Newsday via Getty Images\r\n<ul><li>Trump's tariffs are shaking the auto industry, but Tesla might hav… [+2537 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1750160774
     },
     {
       "source": {
@@ -372,7 +443,12 @@
       "urlToImage": "https://i.insider.com/6851699a85e81483682c39a4?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T13:40:16Z",
       "content": "Boeing makes the Chinook helicopter used by armed forces including the US Army.US Army/Staff Sgt. Reed Knutson\r\n<ul><li>Boeing executives said they expected a \"very significant expansion\" in Europe o… [+2858 chars]",
-      "tags": ["foreign_policy", "military", "europe"]
+      "tags": [
+        "foreign_policy",
+        "military",
+        "europe"
+      ],
+      "publishedAtTs": 1750167616
     },
     {
       "source": {
@@ -386,7 +462,12 @@
       "urlToImage": "https://i.insider.com/685167a0f748d8c055f3d2f0?width=1200&format=jpeg",
       "publishedAt": "2025-06-17T14:54:48Z",
       "content": "Amazon's Prime Day this year will be twice as long as in 2024. It could be a welcome sight for shoppers worried about tariffs.\r\nThe retail giant said Tuesday that this summer's Prime Day deals event … [+3290 chars]",
-      "tags": ["economy_finance", "small_business", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "small_business",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750172088
     },
     {
       "source": {
@@ -406,7 +487,8 @@
         "military",
         "technology_regulation",
         "government_operations"
-      ]
+      ],
+      "publishedAtTs": 1750128314
     },
     {
       "source": {
@@ -426,7 +508,8 @@
         "national_security",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750192791
     },
     {
       "source": {
@@ -445,7 +528,8 @@
         "healthcare",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750170730
     },
     {
       "source": {
@@ -465,7 +549,8 @@
         "iran",
         "national_security",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750175069
     },
     {
       "source": {
@@ -479,7 +564,12 @@
       "urlToImage": "https://media.zenfs.com/en/thestreet_881/3dbd106b4a9586445a2fc25716bc4fd9",
       "publishedAt": "2025-06-17T16:09:20Z",
       "content": "Billionaire Mark Cuban has a blunt response to Trump's $499 golden phone originally appeared on TheStreet.\r\nBillionaire entrepreneur Mark Cuban is sharing what he thinks is the \"smart game\" being pla… [+1966 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750176560
     },
     {
       "source": {
@@ -493,7 +583,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.FmjmIYUwcK2Ppfv8JNyOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/2c877f15fb0a83651b2453557ce170a5",
       "publishedAt": "2025-06-17T20:04:45Z",
       "content": "NVIDIA Corporation (NASDAQ:NVDA) is one of the 10 Best American Semiconductor Stocks to Buy Now. On May 29, Citi analysts raised the price target for NVIDIA Corporation (NASDAQ:NVDA) from $150 to $18… [+1557 chars]",
-      "tags": ["stock_market", "technology_regulation", "economy_finance"]
+      "tags": [
+        "stock_market",
+        "technology_regulation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750190685
     },
     {
       "source": {
@@ -513,7 +608,8 @@
         "texas",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750154400
     },
     {
       "source": {
@@ -527,7 +623,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tGWSpE5SgDrUPP_3IPUlcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_entertainment_893/e3559d682441a8eaa6277fea58609997",
       "publishedAt": "2025-06-17T13:01:20Z",
       "content": "Lawyers for R. Kelly are alleging the singer overdosed last week on medication given to him by prison staff.\r\nThe \"Ignition\" singer's legal team, in a June 17 filing obtained by USA TODAY, claims tha… [+1889 chars]",
-      "tags": ["criminal_cases", "personal_legal", "security_incidents"]
+      "tags": [
+        "criminal_cases",
+        "personal_legal",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1750165280
     },
     {
       "source": {
@@ -547,7 +648,8 @@
         "economy_finance",
         "small_business",
         "stock_market"
-      ]
+      ],
+      "publishedAtTs": 1750127481
     },
     {
       "source": {
@@ -567,7 +669,8 @@
         "intelligence",
         "iran",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750155173
     },
     {
       "source": {
@@ -586,7 +689,8 @@
         "media_communications",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750191287
     },
     {
       "source": {
@@ -606,7 +710,8 @@
         "iran",
         "israel",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750192718
     },
     {
       "source": {
@@ -626,7 +731,8 @@
         "legal_justice",
         "new_york",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750184667
     },
     {
       "source": {
@@ -640,7 +746,11 @@
       "urlToImage": "https://api.time.com/wp-content/uploads/2025/06/graffiti-depicting-Zumbi-Dos-Palmares.jpg?quality=85&w=1024&h=628&crop=1",
       "publishedAt": "2025-06-17T21:51:56Z",
       "content": "The Trump Administration recently cutfunding to the 400 Years of African American History Commission. Another cut targeted the Whitney Plantation in Louisiana and its planned exhibit on resistance to… [+8520 chars]",
-      "tags": ["foreign_policy", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750197116
     },
     {
       "source": {
@@ -654,7 +764,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/997f2e8a-3aff-4bfb-be90-6fa2d91c035a/trump-main_1750159255033_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-17T12:05:00Z",
       "content": "President Donald Trump denied early on Tuesday having had contact with leaders in Iran, saying he hadn't reached out about a potential ceasefire and that he was \"not too much in the mood\" to negotiat… [+2136 chars]",
-      "tags": ["foreign_policy", "national_security", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "national_security",
+        "middle_east"
+      ],
+      "publishedAtTs": 1750161900
     },
     {
       "source": {
@@ -674,7 +789,8 @@
         "russia",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1750179896
     },
     {
       "source": {
@@ -688,7 +804,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5bfeb70b-985d-419a-ae87-87d3f9bdde41/250617_gma_champion_soccer2_0742_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T12:16:15Z",
       "content": "<ul><li>Israel and Iran trade deadly strikes\r\n</li><li>Trump leaves G7 summit early as tensions in Middle East rise\r\n</li><li>More than a dozen killed in Russian strike on Ukraine\r\n</li><li>Minnesota… [+4385 chars]",
-      "tags": ["health", "public_health_emergency", "security_incidents"]
+      "tags": [
+        "health",
+        "public_health_emergency",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1750162575
     },
     {
       "source": {
@@ -702,7 +823,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5205b00d-6379-4142-9d3a-27435409e9b3/250617_gma_play_graduation_0749_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T12:20:13Z",
       "content": "<ul><li>Israel and Iran trade deadly strikes\r\n</li><li>Trump leaves G7 summit early as tensions in Middle East rise\r\n</li><li>More than a dozen killed in Russian strike on Ukraine\r\n</li><li>Minnesota… [+4385 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750162813
     },
     {
       "source": {
@@ -716,7 +838,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c74df764-5934-4235-b47d-c6f806a255e2/50617_gma_ray_mascots_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T15:56:07Z",
       "content": "<ul><li>Israeli forces launch strikes in western Iran, IDF says\r\n</li><li>Senate's version of 'big, beautiful bill' sets up a potential clash with the House\r\n</li><li>Former Sean 'Diddy' Combs associ… [+4418 chars]",
-      "tags": ["media_communications", "personal_family", "regional_state"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750175767
     },
     {
       "source": {
@@ -736,7 +863,8 @@
         "israel",
         "iran",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750123953
     },
     {
       "source": {
@@ -750,7 +878,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5aaeba49-60d9-4292-8175-9ca9b7309f10/250617_abc_social_tornado1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-17T16:35:12Z",
       "content": "<ul><li>Israeli forces launch strikes in western Iran, IDF says\r\n</li><li>Senate's version of 'big, beautiful bill' sets up a potential clash with the House\r\n</li><li>Former Sean 'Diddy' Combs associ… [+4418 chars]",
-      "tags": ["natural_disasters", "regional_state"]
+      "tags": [
+        "natural_disasters",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750178112
     },
     {
       "source": {
@@ -764,7 +896,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b36a70b5-e44c-4a24-ac7c-b1e10b7281b1/250616_abcnl_prime_surgery_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T02:32:06Z",
       "content": "<ul><li>Trump warns Iran about war in meeting with G7 leaders\r\n</li><li>Netanyahu says he's not ruling out taking out Iran's Supreme Leader Ali Khamenei\r\n</li><li>Live broadcast captures moment Israe… [+4247 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750127526
     },
     {
       "source": {
@@ -778,7 +911,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/884ec73d-4a96-4009-a2fd-1ebfd804a3e2/250617_wnn_gator_hotel_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T10:17:44Z",
       "content": "<ul><li>Trump warns Iran about war in meeting with G7 leaders\r\n</li><li>Netanyahu says he's not ruling out taking out Iran's Supreme Leader Ali Khamenei\r\n</li><li>Live broadcast captures moment Israe… [+4247 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750155464
     },
     {
       "source": {
@@ -792,7 +926,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a6c34109-f7ad-4926-94e2-4928cc35e21a/indonesiavolcano_lg_250617_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T21:20:29Z",
       "content": "<ul><li>Trump calls for Irans unconditional surrender\r\n</li><li>Israel and Iran trade deadly strikes amid fears of escalation\r\n</li><li>How US could respond to Middle East crisis as tensions escalate… [+4548 chars]",
-      "tags": ["natural_disasters", "asia_pacific", "international_crisis"]
+      "tags": [
+        "natural_disasters",
+        "asia_pacific",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1750195229
     },
     {
       "source": {
@@ -806,7 +945,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/75821835-a202-4b80-98c2-ad668e2c0df7/250617_VOD_BradLangerICE_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-17T21:20:02Z",
       "content": "<ul><li>Trump calls for Irans unconditional surrender\r\n</li><li>Israel and Iran trade deadly strikes amid fears of escalation\r\n</li><li>How US could respond to Middle East crisis as tensions escalate… [+4548 chars]",
-      "tags": ["civil_rights", "immigration", "legal_justice"]
+      "tags": [
+        "civil_rights",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750195202
     },
     {
       "source": {
@@ -820,7 +964,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fe569f7f-cfe6-41ed-b559-6ef9c8f29e44/bomb-1-ap-er-250617_1750198154969_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-17T22:35:31Z",
       "content": "Israel's attack on Iran aimed at destroying its nuclear program has raised speculation about whether the U.S. would use one of America's most powerful weapons to make that happen.\r\nThe Israeli govern… [+2420 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "middle_east"
+      ],
+      "publishedAtTs": 1750199731
     },
     {
       "source": {
@@ -834,7 +983,12 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2025/06/Donald-Trump.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2025-06-17T01:14:50Z",
       "content": "President Trump and his family are getting into the wireless business, in partnership with the three major U.S. carriers.\r\nThe Trump Organization on Monday announced Trump Mobile, which will offer 5G… [+4175 chars]",
-      "tags": ["personal_business", "technology_regulation", "small_business"]
+      "tags": [
+        "personal_business",
+        "technology_regulation",
+        "small_business"
+      ],
+      "publishedAtTs": 1750122890
     },
     {
       "source": {
@@ -852,7 +1006,8 @@
         "technology_regulation",
         "media_communications",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1750179600
     },
     {
       "source": {
@@ -866,7 +1021,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/they-blame-immigrants-poster-june-14-2025-1200x675.jpg",
       "publishedAt": "2025-06-17T15:10:02Z",
       "content": "It was a lovely day for a protest until the cops decided to riot.\r\nMillions took to the streets on Saturday for No Kings Day, nationwide protests in cities big and small, timed to provide counter-pro… [+13793 chars]",
-      "tags": ["security_incidents", "civil_rights", "protests"]
+      "tags": [
+        "security_incidents",
+        "civil_rights",
+        "protests"
+      ],
+      "publishedAtTs": 1750173002
     },
     {
       "source": {
@@ -880,7 +1040,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/02/Elon-Musk-holds-a-toy-airplane-on-Feb.-19-2025-1200x675.jpg",
       "publishedAt": "2025-06-17T18:35:35Z",
       "content": "Elon Musk posted what appeared to be his drug test results on X early Tuesday. And even though multiple credible news organizations have said Musk is a regular user of illicit drugs, it looks like th… [+3749 chars]",
-      "tags": ["media_criticism", "technology_regulation", "personal_legal"]
+      "tags": [
+        "media_criticism",
+        "technology_regulation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1750185335
     },
     {
       "source": {
@@ -900,7 +1065,8 @@
         "iran",
         "national_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750189455
     },
     {
       "source": {
@@ -918,7 +1084,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750196820
     },
     {
       "source": {
@@ -938,7 +1105,8 @@
         "policy_legislation",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750158000
     },
     {
       "source": {
@@ -958,7 +1126,8 @@
         "international_organizations",
         "government_operations",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1750122911
     },
     {
       "source": {
@@ -972,7 +1141,12 @@
       "urlToImage": "https://www.thecity.nyc/wp-content/uploads/2025/06/061725_lander_arrest-1-1.jpg",
       "publishedAt": "2025-06-17T17:25:42Z",
       "content": "Support local news today!\r\nOur nonprofit newsroom relies on readers like you to power investigations like these.\r\nJoin the community that powers NYC’s independent local news.\r\nNew York City Comptroll… [+3274 chars]",
-      "tags": ["legal_justice", "immigration", "security_incidents"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1750181142
     },
     {
       "source": {
@@ -986,7 +1160,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/tiktok-america.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-06-17T23:03:04Z",
       "content": "The White House confirmed today that President Donald Trump will sign a new executive order giving TikTok 90 days to avoid a U.S. ban. This marks the third time Trump has delayed enforcement of the l… [+1887 chars]",
-      "tags": ["executive_orders", "technology_regulation", "china"]
+      "tags": [
+        "executive_orders",
+        "technology_regulation",
+        "china"
+      ],
+      "publishedAtTs": 1750201384
     },
     {
       "source": {
@@ -1000,7 +1179,12 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/1163d271919f1bcc/original/solar-agriculture-well.jpg?m=1750174368.83&w=1200",
       "publishedAt": "2025-06-17T16:00:00Z",
       "content": "CLIMATEWIRE | Renewable energy doesn't need subsidies to compete with fossil fuels when it comes to building new power plants.\r\nThat's a key takeaway in Lazard's annual report on electricity generati… [+3607 chars]",
-      "tags": ["environment", "energy", "economy_finance"]
+      "tags": [
+        "environment",
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750176000
     },
     {
       "source": {
@@ -1020,7 +1204,8 @@
         "public_health_emergency",
         "science_policy",
         "natural_disasters"
-      ]
+      ],
+      "publishedAtTs": 1750165200
     },
     {
       "source": {
@@ -1040,7 +1225,8 @@
         "national_security",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750155871
     },
     {
       "source": {
@@ -1060,7 +1246,8 @@
         "economy_finance",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750193090
     },
     {
       "source": {
@@ -1080,7 +1267,8 @@
         "asia_pacific",
         "technology_regulation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750188714
     },
     {
       "source": {
@@ -1094,7 +1282,11 @@
       "urlToImage": "https://www.jalopnik.com/img/gallery/these-airlines-would-be-hardest-hit-by-a-boeing-787-grounding/l-intro-1750118090.jpg",
       "publishedAt": "2025-06-17T21:25:00Z",
       "content": "If the FAA does put safety first and decides to ground the Dreamliner, nearly 1,120 Boeing planes would be taken out of service. United Airlines and American Airlines would be the heaviest impacted b… [+1281 chars]",
-      "tags": ["transportation", "economy_finance"]
+      "tags": [
+        "transportation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750195500
     },
     {
       "source": {
@@ -1108,7 +1300,11 @@
       "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/06/trump-t1-phone-alternatives-hero.jpg",
       "publishedAt": "2025-06-17T10:00:54Z",
       "content": "Theres a new Android phone on the block, and its an interesting one. On June 16, the Trump Organization announced the T1 Phone. Its an Android phone part of the new Trump Mobile brand, described as a… [+9760 chars]",
-      "tags": ["technology_regulation", "personal_business"]
+      "tags": [
+        "technology_regulation",
+        "personal_business"
+      ],
+      "publishedAtTs": 1750154454
     },
     {
       "source": {
@@ -1126,7 +1322,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750133460
     },
     {
       "source": {
@@ -1140,7 +1337,11 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/3/4/7/1316347.jpg",
       "publishedAt": "2025-06-17T12:00:00Z",
       "content": "Do you roll your eyes when a movie lectures the audience, offering some heavy-handed political message? If so, bad news: Youre around 10 years out-of-date when it comes to what youre supposed to comp… [+11777 chars]",
-      "tags": ["media_criticism", "free_speech"]
+      "tags": [
+        "media_criticism",
+        "free_speech"
+      ],
+      "publishedAtTs": 1750161600
     },
     {
       "source": {
@@ -1154,7 +1355,12 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/06/LA-protests.jpg",
       "publishedAt": "2025-06-17T11:34:31Z",
       "content": "Members of the California National Guard stand in front of protesters.\r\nAn AFP photographer was shot in the head by a rubber bullet during the Los Angeles protests on Saturday — at least the third ph… [+2847 chars]",
-      "tags": ["security_incidents", "media_criticism", "protests"]
+      "tags": [
+        "security_incidents",
+        "media_criticism",
+        "protests"
+      ],
+      "publishedAtTs": 1750160071
     },
     {
       "source": {
@@ -1168,7 +1374,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-06-17T12:26:00Z",
       "content": "from the lazy-garbage-for-rubes dept\r\nNever one to miss an opportunity to exploit the presidency for a quick and tacky buck, the Trump administration is getting into the cell phone business. \r\nWell, … [+3732 chars]",
-      "tags": ["personal_business", "small_business", "media_criticism"]
+      "tags": [
+        "personal_business",
+        "small_business",
+        "media_criticism"
+      ],
+      "publishedAtTs": 1750163160
     },
     {
       "source": {
@@ -1188,7 +1399,8 @@
         "policy_legislation",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750177560
     },
     {
       "source": {
@@ -1208,7 +1420,8 @@
         "security_intelligence",
         "civil_rights",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750182720
     },
     {
       "source": {
@@ -1228,7 +1441,8 @@
         "social_issues",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750187280
     },
     {
       "source": {
@@ -1247,7 +1461,8 @@
         "republican_party",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750202215
     },
     {
       "source": {
@@ -1266,7 +1481,8 @@
         "medical_research",
         "science_policy",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1750203938
     },
     {
       "source": {
@@ -1286,7 +1502,8 @@
         "middle_east",
         "security_intelligence",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1750181475
     },
     {
       "source": {
@@ -1306,7 +1523,8 @@
         "israel",
         "national_security",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1750191265
     },
     {
       "source": {
@@ -1320,7 +1538,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19186724/877179384.jpg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-06-17T19:59:16Z",
       "content": "A protester wearing a Trump paper mâché head stands in front of a barricade and holds a sign that reads, “Death and taxes” in New York in 2019.\r\n\n\nFour years ago, America was on the cusp of the large… [+15175 chars]",
-      "tags": ["policy_legislation", "economy_finance", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750190356
     },
     {
       "source": {
@@ -1334,7 +1557,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/GettyImages-1354775068.jpg?quality=90&strip=all&crop=0%2C10.73599395179%2C100%2C78.52801209642&w=1200",
       "publishedAt": "2025-06-17T15:04:05Z",
       "content": "A lot of people are getting jacked these days, and it’s not just who you would think.\n\nFor men, muscles have always been a symbol of brute strength and power. In our current era, that’s manifesting i… [+12908 chars]",
-      "tags": ["health_science"]
+      "tags": [
+        "health_science"
+      ],
+      "publishedAtTs": 1750172645
     },
     {
       "source": {
@@ -1352,7 +1578,8 @@
         "government_operations",
         "federal_agencies",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750198200
     },
     {
       "source": {
@@ -1366,7 +1593,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/07-tiktokapp-bej.JPG?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-06-17T22:25:02Z",
       "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:25 PM ET, June 17, 2025.\r\nThe most current version of the site as always is available at our home page.\r\nTo view… [+67 chars]",
-      "tags": ["executive_orders", "technology_regulation", "media_criticism"]
+      "tags": [
+        "executive_orders",
+        "technology_regulation",
+        "media_criticism"
+      ],
+      "publishedAtTs": 1750199102
     },
     {
       "source": {
@@ -1386,7 +1618,8 @@
         "personal_business",
         "media_criticism",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1750177209
     },
     {
       "source": {
@@ -1400,7 +1633,11 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/mumia-abu-jamal-LEAD.jpg?crop=144px%2C23px%2C1656px%2C931px&resize=1600%2C900",
       "publishedAt": "2025-06-17T14:46:46Z",
       "content": "Seven minutes from bucolic Molly Maguire Historical Park in Frackville, Pennsylvania is the State Correctional Institution at Mahanoy. Behind the dull-grey concrete walls and razor wire, in a situati… [+17947 chars]",
-      "tags": ["criminal_cases", "legal_justice"]
+      "tags": [
+        "criminal_cases",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750171606
     },
     {
       "source": {
@@ -1420,7 +1657,8 @@
         "social_issues",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750150165
     },
     {
       "source": {
@@ -1434,7 +1672,12 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/06/Screenshot-2025-06-17-at-2.26.01 PM.jpg?w=650",
       "publishedAt": "2025-06-17T22:00:00Z",
       "content": "For nearly 10 years now, “The Daily Show” correspondent Jordan Klepper has been on the Trump beat, traveling far and wide to rallies, protests, and inaugurations to get the MAGA faithful’s thoughts o… [+2265 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750197600
     },
     {
       "source": {
@@ -1448,7 +1691,12 @@
       "urlToImage": "https://qz.com/api/media/file/Mike%20Crapo%20John%20Thune%20GOP%20senators-1200x630.jpg",
       "publishedAt": "2025-06-17T17:22:38Z",
       "content": "Senate Republicans released their tax portion of President Trumps megabill on Tuesday afternoon, kicking off whats expected to be an intense period of negotiations to send the final version of the me… [+5288 chars]",
-      "tags": ["economy_finance", "taxes", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750180958
     },
     {
       "source": {
@@ -1462,7 +1710,12 @@
       "urlToImage": "https://qz.com/api/media/file/GettyImages-1852954823-1200x630.jpg",
       "publishedAt": "2025-06-17T21:55:00Z",
       "content": "Good morning, Quartz readers!\r\nHeres what you need to know\r\nA global mood swing. A survey from Bank America shows that investor sentiment is bouncing back to pre-Liberation-Day levels (but mostly ove… [+4909 chars]",
-      "tags": ["economy_finance", "banking", "taxes"]
+      "tags": [
+        "economy_finance",
+        "banking",
+        "taxes"
+      ],
+      "publishedAtTs": 1750197300
     },
     {
       "source": {
@@ -1476,7 +1729,12 @@
       "urlToImage": "https://qz.com/_next/static/media/logo-initials.7c4a39d5.webp",
       "publishedAt": "2025-06-17T18:31:31Z",
       "content": "Intel is reported to be laying off up to 20% of its factory workforce as the struggling chipmaker tries to turn its business around.\r\nThese are difficult actions but essential to meet our affordabili… [+2111 chars]",
-      "tags": ["economy_finance", "small_business", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "small_business",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1750185091
     },
     {
       "source": {
@@ -1496,7 +1754,8 @@
         "military",
         "technology_regulation",
         "science_policy"
-      ]
+      ],
+      "publishedAtTs": 1750174729
     }
   ]
 }

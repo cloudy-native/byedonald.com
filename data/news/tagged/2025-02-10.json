@@ -14,7 +14,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/02/AP25041682845966.webp",
       "publishedAt": "2025-02-10T23:59:18Z",
       "content": "President Donald Trump signed a full pardon for former Democratic Illinois Gov. Rod Blagojevich on Monday after commuting his sentence back in 2020.\nBlagojevich developed a relationship with Trump when he appeared as a contestant on the ninth season ... [1634 chars]",
-      "tags": ["pardons", "criminal_cases", "political_endorsements"]
+      "tags": [
+        "pardons",
+        "criminal_cases",
+        "political_endorsements"
+      ],
+      "publishedAtTs": 1739231958
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "legal_justice",
         "government_administration",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1739231782
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1739231651
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "foreign_policy",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1739231645
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "foreign_policy",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1739231491
     }
   ]
 }

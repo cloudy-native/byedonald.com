@@ -19,7 +19,8 @@
         "national_security",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1722211002
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1722210849
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "2028_presidential",
         "foreign_policy",
         "environment"
-      ]
+      ],
+      "publishedAtTs": 1722209691
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "personal_legal",
         "regional_state",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1722208808
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "social_issues",
         "political_endorsements",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1722208431
     },
     {
       "source": {
@@ -117,7 +122,8 @@
         "security_incidents",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722207600
     },
     {
       "source": {
@@ -137,7 +143,8 @@
         "doj_actions",
         "2028_presidential",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1722207600
     },
     {
       "source": {
@@ -151,7 +158,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-6d4osu8ay-1722205055638.jpg?quality=75&strip=all&1722190740&w=1024",
       "publishedAt": "2024-07-28T22:45:57Z",
       "content": "She’s strong, but not right\nAttacking Kamala in a coming debate will be no walk in the park. Dwayne “The Rock” Johnson growing curls will be easier.\nShe’ll lodge insults and put-downs. She’s got nothing to lose. Not like she’s going forth to rediscov... [3167 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1722206757
     },
     {
       "source": {
@@ -171,7 +183,8 @@
         "media_communications",
         "political_endorsements",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1722205468
     },
     {
       "source": {
@@ -189,7 +202,8 @@
         "elections_politics",
         "political_endorsements",
         "state_elections"
-      ]
+      ],
+      "publishedAtTs": 1722203772
     },
     {
       "source": {
@@ -209,7 +223,8 @@
         "2028_presidential",
         "political_endorsements",
         "press_relations"
-      ]
+      ],
+      "publishedAtTs": 1722203671
     },
     {
       "source": {
@@ -223,7 +238,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-wtvwlnuxp-1722200739737.jpg?quality=75&strip=all&1722186365&w=1024",
       "publishedAt": "2024-07-28T21:44:41Z",
       "content": "Donald Trump received a rude awakening Friday night from Fox News, when it reported fresh polling in four key states (Michigan, Minnesota, Pennsylvania and Wisconsin) that showed three of them too close to call and the other one slipping away.\nIt’s n... [4431 chars]",
-      "tags": ["elections_politics", "swing_states", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "swing_states",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1722203081
     },
     {
       "source": {
@@ -243,7 +263,8 @@
         "media_communications",
         "polling",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1722202808
     },
     {
       "source": {
@@ -261,7 +282,8 @@
         "security_incidents",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722202386
     },
     {
       "source": {
@@ -275,7 +297,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/GettyImages-2161350716-e1721252256622.jpg?w=1280",
       "publishedAt": "2024-07-28T21:26:13Z",
       "content": "The second man injured during the attempted assassination against former President Trump has been discharged from a hospital in Pittsburgh, a spokesperson for the hospital group confirmed to The Hill.\nJames Copenhaver, 74, was discharged from Alleghe... [1902 chars]",
-      "tags": ["security_incidents", "personal_legal", "regional_state"]
+      "tags": [
+        "security_incidents",
+        "personal_legal",
+        "regional_state"
+      ],
+      "publishedAtTs": 1722201973
     },
     {
       "source": {
@@ -295,7 +322,8 @@
         "media_communications",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722201332
     },
     {
       "source": {
@@ -315,7 +343,8 @@
         "womens_rights",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722201062
     },
     {
       "source": {
@@ -335,7 +364,8 @@
         "regional_state",
         "swing_states",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1722200403
     },
     {
       "source": {
@@ -355,7 +385,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1722200186
     },
     {
       "source": {
@@ -373,7 +404,8 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1722200147
     },
     {
       "source": {
@@ -393,7 +425,8 @@
         "personal_family",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1722199008
     },
     {
       "source": {
@@ -407,7 +440,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-s-and-j-d-vance.jpg?id=52822731&width=1200&height=600&coordinates=0%2C65%2C0%2C65",
       "publishedAt": "2024-07-28T20:31:15Z",
       "content": "Donald Trump gave us an insight into who Americans are in 2016, but it appears his running mate has yet to learn that lesson, according to a Wall Street Journal columnist Sunday.\nAllysia Finley, a member of the Journal's editorial board who previousl... [1984 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1722198675
     },
     {
       "source": {
@@ -421,7 +459,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2437942/harris-florida.jpg",
       "publishedAt": "2024-07-28T20:14:38Z",
       "content": "In her bid to win over Florida, Vice President Kamala Harris took her campaign to The Villages on Saturday, a Republican and Donald Trump stronghold, where videos of crowds of golf carts lined up for a Harris event have gone viral on social media.\nLa... [4122 chars]",
-      "tags": ["elections_politics", "regional_state", "political_endorsements"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "political_endorsements"
+      ],
+      "publishedAtTs": 1722197678
     },
     {
       "source": {
@@ -441,7 +484,8 @@
         "media_communications",
         "economy_finance",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1722196809
     }
   ]
 }

@@ -20,7 +20,8 @@
         "social_media",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748044620
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2025_18_33_00_8426813.jpg?width=920&format=jpeg",
       "publishedAt": "2025-05-23T23:56:52Z",
       "content": "A federal judge issued a temporary injunction against the Trump administration's attempt to retract Harvard University's ability to enroll international students, labeling the policy unconstitutional, a significant legal win for Harvard.\nMeanwhile, P... [482 chars]",
-      "tags": ["legal_justice", "policy_legislation", "economy_finance"]
+      "tags": [
+        "legal_justice",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748044612
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "education",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1748044595
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ASIFIG44ZBENXMFDDKYGZU6BGM.jpg?auth=f20f510815889f2f9ed3381539b2a6cf29427cc5ffcd41b50212daae48b3aab9&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-05-23T23:56:24Z",
       "content": "Open this photo in gallery: U.S. President Donald Trump holds up a signed executive order in the Oval Office of the White House on May 23. President Trump signed executive orders related to the nuclear power industry.Win McNamee/Getty Images\nU.S. Pre... [5138 chars]",
-      "tags": ["government_administration", "energy", "policy_legislation"]
+      "tags": [
+        "government_administration",
+        "energy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1748044584
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2025/05/Representational-Image-2025-05-20T225344.445-2025-05-4e038a18c8a5a24861a235beea5646d9.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2025-05-23T23:54:10Z",
       "content": "Initially, the president had announced that the duties would only apply to Apple after he called out CEO Tim Cook for sourcing its smartphones from India. It is unusual for a country’s trade policy to target one company, however, Trump later expanded... [2349 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748044450
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "natural_disasters",
         "foreign_policy",
         "civil_rights"
-      ]
+      ],
+      "publishedAtTs": 1748044137
     },
     {
       "source": {
@@ -121,7 +139,8 @@
         "policy_legislation",
         "foreign_policy",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1748043609
     },
     {
       "source": {
@@ -141,7 +160,8 @@
         "economy_finance",
         "taxes",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1748043228
     },
     {
       "source": {
@@ -161,7 +181,8 @@
         "latin_america",
         "international_organizations",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1748043043
     }
   ]
 }

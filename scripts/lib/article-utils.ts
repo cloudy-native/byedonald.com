@@ -114,6 +114,11 @@ export interface NewsArticle {
 
 export interface TaggedNewsArticle extends NewsArticle {
   tags: string[];
+  /**
+   * Optional Unix timestamp (in seconds) derived from `publishedAt`.
+   * Only present when `publishedAt` exists and is a valid date.
+   */
+  publishedAtTs?: number;
 }
 
 export interface NewsResponse {

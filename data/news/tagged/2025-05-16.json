@@ -14,7 +14,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_21_09_27_7259112.png?width=920&format=jpeg",
       "publishedAt": "2025-05-16T23:53:21Z",
       "content": "The United Nations dismissed an alternative aid delivery plan for Gaza, emphasizing its own established strategy. On Friday, UN aid chief Tom Fletcher made it clear that resources are ready and waiting, urging immediate action without diversion to co... [593 chars]",
-      "tags": ["foreign_policy", "international_organizations", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "international_organizations",
+        "middle_east"
+      ],
+      "publishedAtTs": 1747439601
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "legal_justice",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1747439473
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "foreign_policy",
         "security_intelligence",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1747439257
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_04_2025_13_21_07_5325789.png?width=920&format=jpeg",
       "publishedAt": "2025-05-16T23:37:54Z",
       "content": "James Comey, the former FBI director, engaged with the U.S. Secret Service following a social media post that Trump supporters deemed a threat to the president. The meeting conducted on Friday afternoon was prompted by an Instagram post from Comey fe... [1040 chars]",
-      "tags": ["security_intelligence", "legal_justice", "media_communications"]
+      "tags": [
+        "security_intelligence",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1747438674
     },
     {
       "source": {
@@ -82,7 +94,14 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_04_2025_09_51_34_6792909.png?width=920&format=jpeg",
       "publishedAt": "2025-05-16T23:35:38Z",
       "content": "In a dramatic turn of events, Moody's Investors Service downgraded the United States' sovereign credit rating on Friday. The surprising move, rooted in concerns about the country's mounting debt reaching $36 trillion, raises complexities for Presiden... [715 chars]",
-      "tags": ["economy_finance", "budget", "stock_market", "taxes", "banking"]
+      "tags": [
+        "economy_finance",
+        "budget",
+        "stock_market",
+        "taxes",
+        "banking"
+      ],
+      "publishedAtTs": 1747438538
     },
     {
       "source": {
@@ -96,7 +115,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2024/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTNsd3V3dncwMDA1M2I2bW45aWdqZ2pr-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtM2x3bDd4bDAwMWoyNnFjM29jdDE4Nno.jpg?w=1024&h=683",
       "publishedAt": "2025-05-16T23:30:20Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nWalters deserves thanks\nfor his perspective\nRe: “Walters columns make monotonous placeholder” (Page A6, May 14).\nIt is interesting that Dewayne Guidinger finds Dan Walte... [4266 chars]",
-      "tags": ["media_communications", "personal_family", "regional_state"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1747438220
     },
     {
       "source": {
@@ -115,7 +139,8 @@
         "middle_east",
         "personal_business",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1747437615
     },
     {
       "source": {
@@ -135,7 +160,8 @@
         "government_administration",
         "immigration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1747437445
     },
     {
       "source": {
@@ -149,7 +175,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/05/16/multimedia/dc-assess2-mlcv/dc-assess2-mlcv-facebookJumbo.jpg",
       "publishedAt": "2025-05-16T23:01:00Z",
       "content": "To a small but crucial group of hard-right House Republicans, the tax and spending cut package produced by their colleagues to deliver what President Trump calls the “big, beautiful bill” was nothing more than a homely cop-out.\nThe handful of lawmake... [1212 chars]",
-      "tags": ["policy_legislation", "economy_finance", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1747436460
     },
     {
       "source": {
@@ -163,7 +194,13 @@
       "urlToImage": "https://www.rte.ie/images/002289c3-1600.jpg",
       "publishedAt": "2025-05-16T23:00:00Z",
       "content": "US President Donald Trump has said he will speak by phone to his Russian counterpart Vladimir Putin on Monday to discuss finding a way out of the the Ukraine war.\nIn a post on Truth Social, President Trump said he will speak to Ukrainian President Vo... [4534 chars]",
-      "tags": ["foreign_policy", "russia", "ukraine", "international_crisis"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1747436400
     }
   ]
 }

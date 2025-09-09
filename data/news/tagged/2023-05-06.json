@@ -14,7 +14,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDVcXFwvMDcxMDExMThcXFwvUEEtNzIwMTQxNzktZTE2ODM0NTA3MDYxNDguanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4NTI5NjQ5Y2I3ZTk0YmM5NGYxOGUyZWQ2YjNlODkwNDRiMzQxZmE4In0=/trump-says-ireland-s-housing-crisis-is-good-thing-in-one-way.jpg",
       "publishedAt": "2023-05-06T23:00:00Z",
       "content": "Former US president Donald Trump has said Ireland's housing crisis is a \"good thing in one way\" because \"people want to live in Ireland\".\nMr Trump made the comments in an interview with the Irish Independent at during his recent visit to his resort i... [1771 chars]",
-      "tags": ["regional_state", "housing", "crisis_emergency"]
+      "tags": [
+        "regional_state",
+        "housing",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1683414000
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/41144d2/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F3a%2F25%2Fce117de54030b73f0a903a429895%2Fap23126419857030.jpg",
       "publishedAt": "2023-05-06T21:41:13Z",
       "content": "Politicians and reporters blasted President Joe Biden's absence at the coronation of King Charles III.\nWhile Biden did not attend, first lady Jill Biden and their granddaughter Finnegan attended the coronation instead. The last time the U.K. had a co... [3222 chars]",
-      "tags": ["media_communications", "foreign_policy", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1683409273
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/coronation-1252676271.jpg",
       "publishedAt": "2023-05-06T19:10:53Z",
       "content": "First lady Jill Biden and her granddaughter Finnegan Biden attended the coronation of King Charles III — held at Westminster Abbey on Saturday — but, sticking with American tradition, President Biden himself did not attend.\nAs New York Post points ou... [1664 chars]",
-      "tags": ["foreign_policy", "media_communications", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683400253
     },
     {
       "source": {
@@ -56,7 +71,12 @@
       "urlToImage": "https://www.cnnphilippines.com/.imaging/default/dam/cnn/2023/5/7/Migrants-US-Mexico-border_CNNPH.png/jcr:content.png?width=750&height=450&crop:1:1,smart",
       "publishedAt": "2023-05-06T16:00:00Z",
       "content": "(CNN) — More than 100 migrants were found aboard a train in Texas near the US-Mexico border on Friday in extreme heat conditions, days before a surge in migrants is expected when a Trump-era border restriction ends next week.\nThe train was stopped on... [2029 chars]",
-      "tags": ["immigration", "border_security", "public_health_emergency"]
+      "tags": [
+        "immigration",
+        "border_security",
+        "public_health_emergency"
+      ],
+      "publishedAtTs": 1683388800
     },
     {
       "source": {
@@ -70,7 +90,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/ae82b83/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F78%2Fd0%2F2dd2f54b4341bb4ba0b2617b8695%2Fcollage-maker-06-may-2023-11-21-am-9491.jpg",
       "publishedAt": "2023-05-06T15:34:00Z",
       "content": "Donald Trump offered fresh criticism of special counsel Jack Smith, unleashing a tirade of posts on his Truth Social account attacking the prosecutor for ramping up investigative efforts over the classified documents found at the former president’s M... [2489 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1683387240
     },
     {
       "source": {
@@ -84,7 +109,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2231631/kari-lake-charles.jpg",
       "publishedAt": "2023-05-06T15:17:58Z",
       "content": "Former Arizona gubernatorial candidate Kari Lake deleted a tweet on Saturday morning celebrating the coronation of King Charles III.\nLake had sent the tweet after King Charles was crowned at a ceremony at London's Westminster Abbey on May 6.\nCharles ... [2984 chars]",
-      "tags": ["media_communications", "foreign_policy", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1683386278
     },
     {
       "source": {
@@ -98,7 +128,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-and-ron-desantis-afp.jpg?id=33612720&width=1200&height=600&coordinates=0%2C84%2C0%2C84",
       "publishedAt": "2023-05-06T15:00:20Z",
       "content": "Even though less than 4 percent of taxpayers checked the box in recent years, the fund continues to grow, now reaching $434.9 million as of March 31, according to U.S. Treasury records reviewed by Raw Story.\nAs the fund continues to climb toward half... [13958 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683385220
     },
     {
       "source": {
@@ -112,7 +147,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33615801&width=1200&height=600&coordinates=0%2C0%2C0%2C42",
       "publishedAt": "2023-05-06T14:07:48Z",
       "content": "Even though less than 4 percent of taxpayers checked the box in recent years, the fund continues to grow, now reaching $434.9 million as of March 31, according to U.S. Treasury records reviewed by Raw Story.\nAs the fund continues to climb toward half... [13958 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683382068
     },
     {
       "source": {
@@ -126,7 +165,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33612757&width=1200&height=600&coordinates=0%2C0%2C0%2C52",
       "publishedAt": "2023-05-06T11:31:40Z",
       "content": "While Ortega's political opponents are thrown in jail or forced into exile -- a \"continuum of repression,\" in the words of a recent Amnesty International report -- this little corner of tropical paradise attracts foreigners to enjoy its bars, restaur... [3274 chars]",
-      "tags": ["personal_family", "legal_justice", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1683372700
     },
     {
       "source": {
@@ -145,7 +189,8 @@
         "border_security",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1683371723
     },
     {
       "source": {
@@ -159,7 +204,11 @@
       "urlToImage": "https://static01.nyt.com/images/2023/05/06/multimedia/06douthat1-jckm/06douthat1-jckm-facebookJumbo.jpg",
       "publishedAt": "2023-05-06T11:00:06Z",
       "content": "Let’s count off a few of them. First, there’s the limits of ideological box-checking in a campaign against Trump. This is my colleague Nate Cohn’s main point in his assessment of DeSantis’s recent struggles, and it’s a good one: DeSantis has spent th... [2831 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1683370806
     },
     {
       "source": {
@@ -173,7 +222,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2231514/trump-bill-barr.jpg",
       "publishedAt": "2023-05-06T10:20:06Z",
       "content": "Donald Trump has hit back at Bill Barr after the former attorney general predicted it would be \"chaos\" and a \"horror show\" if the Republican is re-elected as president.\nWriting on Truth Social, Trump accused Barr of being a \"weak & slovenly man\" who ... [3974 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683368406
     },
     {
       "source": {
@@ -187,7 +241,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/trumpdonald_050323_trump-debates.jpg?w=1280",
       "publishedAt": "2023-05-06T10:00:00Z",
       "content": "Former President Donald Trump is publicly and privately suggesting he will skip the first Republican presidential primary debates scheduled for this summer, an idea that is divisive among current and former advisers.\nTrump has openly mused he should ... [6445 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1683367200
     },
     {
       "source": {
@@ -206,7 +264,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1683356408
     },
     {
       "source": {
@@ -220,7 +279,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/371a4968903166f2dcc4455a526518d097bfa103/0_0_6123_3674/master/6123.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22b475f30bfcc8646b687c9986c9fb07",
       "publishedAt": "2023-05-06T07:00:02Z",
       "content": "Donald Trump had good reason to believe he found the man to get him off the hook. Joseph Tacopina, a Brooklyn-born former prosecutor, made his name winning freedom for accused killers, rapists and celebrities.\nTwelve years ago, he successfully defend... [9021 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683356402
     },
     {
       "source": {
@@ -234,7 +298,11 @@
       "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/JObhsePlwhhNHEAQfAdoUK-mjzM=/38x0:3639x2401/3601x2401/prod-mh-ireland/65c3c5a6-5b17-4729-a0b6-2c6c7120967b/4884f5f0-e8cd-46f8-b04a-963ac088a3c3/3_James_Nesbitt_296.jpg",
       "publishedAt": "2023-05-06T06:00:00Z",
       "content": "James Nesbitt is preparing to show off his golf skills against fellow famous faces at this summer’s Legends Tour Wapp Celebrity Series at Donald Trump’s Aberdeen course.\nTrump International Golf Links Aberdeen will host the event for the first time f... [1640 chars]",
-      "tags": ["personal_family", "regional_state"]
+      "tags": [
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1683352800
     },
     {
       "source": {
@@ -248,7 +316,12 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GJD2T6ITHJFZPMAQZJH6PFKMFM.jpg?_a=ATCqVhC0",
       "publishedAt": "2023-05-06T04:16:15Z",
       "content": "In this image taken from video released by Kaplan Hecker & Fink, former President Donald answers questions during his Oct. 19, 2022, deposition for his trial against writer E. Jean Carroll. The video recording of Trump being questioned about the rape... [4113 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683346575
     },
     {
       "source": {
@@ -262,7 +335,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/donald-trump-1252535523.jpg",
       "publishedAt": "2023-05-06T04:05:55Z",
       "content": "In a newly released video of Donald Trump's deposition for the E. Jean Carroll rape and defamation trial, he answers questions regarding the infamous 2016 \"Access Hollywood\" tape in which he commented that famous people can walk up to women and \"grab... [1686 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683345955
     },
     {
       "source": {
@@ -276,7 +354,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/zowS97twhl1_wijt3C52dIl3U-s=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YC4MEZGI374DBHWT72WKJFAR5M.jpg",
       "publishedAt": "2023-05-06T04:00:00Z",
       "content": "In the space of less than a month, Ireland has hosted the two men who may run off against each other in next year’s US presidential election. The visits of Donald Trump and Joe Biden were in many ways vastly different: Biden, the sitting president, l... [7748 chars]",
-      "tags": ["personal_family", "foreign_policy", "media_communications"]
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "media_communications"
+      ],
+      "publishedAtTs": 1683345600
     },
     {
       "source": {
@@ -294,7 +377,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1683345600
     },
     {
       "source": {
@@ -308,7 +392,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/06_05_2023_02_12_28_6317922.jpg?width=920&format=jpeg",
       "publishedAt": "2023-05-06T02:12:30Z",
       "content": "Former US President Donald Trump has praised Indian-American entrepreneur Vivek Ramaswamy for doing well in the recent Republican Primary poll, CBS YouGov. Vivek Ramaswamy has announced his 2024 presidential bid. In a statement, Trump stated he likes... [2371 chars]",
-      "tags": ["elections_politics", "2028_presidential", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1683339150
     },
     {
       "source": {
@@ -322,7 +411,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/d076445/2147483647/strip/true/crop/1024x538+0+41/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F66%2Ff6%2F3f1287fd465e9973e16b8656936d%2Fhbsjb.jpg",
       "publishedAt": "2023-05-06T02:06:16Z",
       "content": "Republicans condemned new information exposed by the Washington Examiner that ex-intelligence leaders sought to give then-candidate Joe Biden a \"talking point\" in his critical 2020 debate with Donald Trump when they signed onto a letter discrediting ... [5448 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1683338776
     },
     {
       "source": {
@@ -336,7 +430,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_28_56_3344151.jpg?width=920&format=jpeg",
       "publishedAt": "2023-05-06T02:03:37Z",
       "content": "A video recording of former President Donald Trump being questioned about the rape allegations against him was made public for the first time Friday, providing a glimpse of the Republican's emphatic, often colourful denials.\nJurors got to see the vid... [1464 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1683338617
     },
     {
       "source": {
@@ -350,7 +448,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_06_33_8443168.jpg?width=920&format=jpeg",
       "publishedAt": "2023-05-06T01:49:21Z",
       "content": "The U.S. Justice Department asked a federal judge on Friday to sentence Oath Keepers founder Stewart Rhodes to 25 years in prison for his conviction on seditious conspiracy and other charges over the 2021 attack on the U.S. Capitol by supporters of f... [3432 chars]",
-      "tags": ["legal_justice", "doj_actions", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1683337761
     },
     {
       "source": {
@@ -364,7 +467,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/30382c6/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0f%2Fab%2F064662104e7ca907e422e1a8c366%2Fcollage-maker-25-apr-2023-03-30-pm-5200.jpg",
       "publishedAt": "2023-05-06T01:07:00Z",
       "content": "Witnesses in E. Jean Carroll's lawsuit accusing Donald Trump of rape and defamation accused the former president of assaulting them, too, as they testified.\nCarroll, a notable columnist, accused Trump of sexually assaulting her in a Bergdorf Goodman ... [4401 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1683335220
     }
   ]
 }

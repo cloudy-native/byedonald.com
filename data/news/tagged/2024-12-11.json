@@ -20,7 +20,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733961418
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "congressional_investigations",
         "media_communications",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1733961296
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "security_incidents",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733961019
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/95187993.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-11T23:48:17Z",
       "content": "Paparazzi photos emerged earlier this week that confirmed to the rest of the world that Donald Trump Jr. is in a relationship with socialite Bettina Anderson.\nBut the romance was already on display to Palm Beach locals.\nIn fact, just moments before t... [4826 chars]",
-      "tags": ["personal_family", "florida", "lifestyle"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "lifestyle"
+      ],
+      "publishedAtTs": 1733960897
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "energy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733960715
     },
     {
       "source": {
@@ -114,7 +123,8 @@
         "foreign_policy",
         "legal_justice",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1733960408
     },
     {
       "source": {
@@ -128,7 +138,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_33_56_2660097.png?width=920&format=jpeg",
       "publishedAt": "2024-12-11T23:39:09Z",
       "content": "U.S. President-elect Donald Trump's pick for NASA administrator, tech billionaire Jared Isaacman, said on Wednesday his planned private astronaut missions with Elon Musk's SpaceX may be paused as he prepares to enter government service. \"The future o... [2665 chars]",
-      "tags": ["space_policy", "government_administration", "personal_business"]
+      "tags": [
+        "space_policy",
+        "government_administration",
+        "personal_business"
+      ],
+      "publishedAtTs": 1733960349
     },
     {
       "source": {
@@ -147,7 +162,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1733960162
     },
     {
       "source": {
@@ -166,7 +182,8 @@
         "legal_justice",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733960108
     }
   ]
 }

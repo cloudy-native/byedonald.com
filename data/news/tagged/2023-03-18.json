@@ -14,7 +14,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33316885&width=1200&height=600&coordinates=0%2C447%2C0%2C65",
       "publishedAt": "2023-03-18T23:05:24Z",
       "content": "Previous technological advances from electricity to the internet ignited powerful social change, says Siqi Chen, chief executive of San Francisco startup Runway.\n\"But what we're looking at now is intelligence itself... This is the first time we're ab... [4126 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679180724
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2210950/donald-trump-compared-jesus.jpg",
       "publishedAt": "2023-03-18T22:57:49Z",
       "content": "An attorney known for defending January 6, 2021 Capitol riot participants compared former President Donald Trump to Jesus Christ in light of his rumored arrest next week.\nTrump on Saturday morning claimed on his Truth Social platform that he expects ... [2750 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1679180269
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
       "publishedAt": "2023-03-18T22:42:29Z",
       "content": "Top Republicans, including some of Donald Trump's potential rivals for the GOP's 2024 presidential nomination, rushed to his defence Saturday after Trump said he is bracing for possible arrest.\n''The idea of indicting a former president of the United... [5785 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679179349
     },
     {
       "source": {
@@ -62,7 +77,8 @@
         "doj_actions",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1679179028
     },
     {
       "source": {
@@ -80,7 +96,8 @@
         "media_communications",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1679176821
     },
     {
       "source": {
@@ -94,7 +111,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230318-kevin-mccarthy-mjf-1233-090b11.jpg",
       "publishedAt": "2023-03-18T21:44:40Z",
       "content": "House Speaker Kevin McCarthy, R-Calif., and several MAGA Republicans rallied around Donald Trump on Saturday ahead of the former president's possible indictment by a Manhattan grand jury.\nTrump, in posts to his social media platform Truth Social, pre... [4235 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679175880
     },
     {
       "source": {
@@ -113,7 +135,8 @@
         "personal_legal",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1679173673
     },
     {
       "source": {
@@ -127,7 +150,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/02/donald_trump_ron_desantis_1244917651_1246619868.jpg",
       "publishedAt": "2023-03-18T20:00:01Z",
       "content": "Donald Trump was initially treated by the media as a largely harmless curiosity, then a compelling and fascinating public figure who was viewed as an \"insurgent\" and \"unconventional.\" That is when the media began to normalize Trump. He would show him... [7901 chars]",
-      "tags": ["elections_politics", "florida", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679169601
     },
     {
       "source": {
@@ -146,7 +174,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1679168713
     },
     {
       "source": {
@@ -165,7 +194,8 @@
         "media_communications",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1679168661
     },
     {
       "source": {
@@ -179,7 +209,11 @@
       "urlToImage": "https://static.standard.co.uk/2023/03/18/15/0f02e4d218504389bac19fdde28eed51.jpg?width=1200&width=1200&auto=webp&quality=75",
       "publishedAt": "2023-03-18T19:05:45Z",
       "content": "F ormer US President Donald Trump said he expects to be arrested on Tuesday as prosecutors consider charges over a hush money payment to a porn star.\nThe politician, who is again in the running to be the Republican Party candidate at the next preside... [3000 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679166345
     },
     {
       "source": {
@@ -193,7 +227,11 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/03/Trump_Legal_Troubles_85966-1-1.jpg?w=1024&h=682",
       "publishedAt": "2023-03-18T18:37:50Z",
       "content": "By MICHELLE L. PRICE, JILL COLVIN and ERIC TUCKER (Associated Press)\nNEW YORK (AP) — Donald Trump claimed on Saturday that his arrest is imminent and issued an extraordinary call for his supporters to protest as a New York grand jury investigates hus... [7698 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1679164670
     },
     {
       "source": {
@@ -207,7 +245,12 @@
       "urlToImage": "https://images.livemint.com/img/2023/03/19/600x338/im-746580_1679157628274_1679201715798_1679201715798.jpg",
       "publishedAt": "2023-03-18T18:30:00Z",
       "content": "Former President of the United States and his family failed to report more than 100 gifts from foreign nations worth more than a quarter-million dollars, a report from Democrats on the House Oversight Committee has stated.\nOf these gifts, the report ... [3627 chars]",
-      "tags": ["personal_family", "legal_justice", "government_administration"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1679164200
     },
     {
       "source": {
@@ -221,7 +264,12 @@
       "urlToImage": "https://images.livemint.com/img/2023/03/19/600x338/Elon_Musk_1679200763846_1679200764035_1679200764035.JPG",
       "publishedAt": "2023-03-18T18:30:00Z",
       "content": "Former US President Donald Trump could be re-elected in a landslide victory if arrested, said Billionaire Elon Musk while reacting to the reports that Trump would be charged as soon as next week.\nTaking to Twitter, Musk wrote, “If this happens, Trump... [1893 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_legal"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1679164200
     },
     {
       "source": {
@@ -235,7 +283,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/78ca8f8/2147483647/strip/true/crop/5441x2857+0+385/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F48%2Fda%2F03857df346eeb6e308bd87333777%2Fap23076800072636.jpeg",
       "publishedAt": "2023-03-18T18:15:46Z",
       "content": "Donald Trump’s top ally in the House today charged that plans to arrest the former president, possibly next week, is part of a “political persecution” meant to stall his 2024 bid for the White House.\n“This is what they do in communist countries,” Rep... [3984 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679163346
     },
     {
       "source": {
@@ -249,7 +302,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V7HurMYt6H1GibXmXpUd.A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/0270db62d3a3ed0e4de499e1ea437fc0",
       "publishedAt": "2023-03-18T18:03:20Z",
       "content": "Elon Musk and Donald Trump Saul Martinez/Getty Images and Andrew Lichtenstein/Corbis via Getty Images\nElon Musk said that Trump would be \"re-elected\" if he's charged in a hush-money case.\nHis comments follow Trump 'Truth' that he's getting arrested o... [2022 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679162600
     },
     {
       "source": {
@@ -268,7 +326,8 @@
         "media_communications",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1679162219
     },
     {
       "source": {
@@ -288,7 +347,8 @@
         "doj_actions",
         "impeachment",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1679160898
     },
     {
       "source": {
@@ -302,7 +362,12 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article29493633.ece/ALTERNATES/s1200/3_Porn-star-Stormy-Daniels-plans-to-change-name-after-Donald-Trump-affair-claims.jpg",
       "publishedAt": "2023-03-18T17:31:21Z",
       "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nGet daily headlines and breaking news alerts for FREE by signing up to our newsletter\nDonald Trump has taken to social media to claim that he wi... [4717 chars]",
-      "tags": ["legal_justice", "personal_legal", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679160681
     },
     {
       "source": {
@@ -321,7 +386,8 @@
         "media_communications",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1679160642
     },
     {
       "source": {
@@ -335,7 +401,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230318-donald-trump-mjf-1114-ceaf49.jpg",
       "publishedAt": "2023-03-18T17:21:04Z",
       "content": "An indictment could boost former President Donald Trump's chances of winning the GOP nomination in 2024.\nAt least that's the view of Trump supporters who spoke to NBC News at a rally Monday in Davenport, Iowa — which holds the first nominating contes... [3694 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679160064
     },
     {
       "source": {
@@ -349,7 +420,13 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.ysjvVVifR00SsOTql8mKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/4dabfb4e62f08e9e98db631766f38bfa",
       "publishedAt": "2023-03-18T17:15:03Z",
       "content": "Donald Trump. Win McNamee/Getty Images\nDonald Trump has found an unlikely group of supporters — in China.\nThere was a deluge of support for Trump on Weibo after he said he may be arrested on Tuesday.\nTrump-loving Chinese users urged him to fight the ... [4043 chars]",
-      "tags": ["foreign_policy", "china", "legal_justice", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1679159703
     },
     {
       "source": {
@@ -368,7 +445,8 @@
         "personal_legal",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1679159304
     }
   ]
 }

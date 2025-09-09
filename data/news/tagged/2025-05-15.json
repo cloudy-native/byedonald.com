@@ -19,7 +19,8 @@
         "doj_actions",
         "intelligence",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1747353098
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "stock_market",
         "foreign_policy",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1747352943
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/b6bdb56d8e55f1ebea5f168f104491296f8fc415/361_0_3009_2408/master/3009.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57a6a5b1024194382c1db648012a1790",
       "publishedAt": "2025-05-15T23:40:46Z",
       "content": "Donald Trump has announced deals totaling more than $200bn between the United States and the United Arab Emirates, including a $14.5bn commitment among Boeing, GE Aerospace and Etihad Airways, as he pledged to strengthen ties between the US and the G... [1849 chars]",
-      "tags": ["foreign_policy", "economy_finance", "trade"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1747352446
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2645742/pete-hegseth-pentagon.jpg",
       "publishedAt": "2025-05-15T23:36:30Z",
       "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nMilitary commanders will ... [4543 chars]",
-      "tags": ["security_intelligence", "military", "lgbtq_rights"]
+      "tags": [
+        "security_intelligence",
+        "military",
+        "lgbtq_rights"
+      ],
+      "publishedAtTs": 1747352190
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "technology_regulation",
         "energy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1747351497
     },
     {
       "source": {
@@ -101,7 +114,11 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/2931747347892/2025/1/e72931f4eea7fe21647d29e00cac25dd/v1.5/Price-tag-for-Washington-military-parade-on-Trump-birthday-approaches-45-million.jpg",
       "publishedAt": "2025-05-15T23:18:27Z",
       "content": "President Donald Trump (pictured at the White House in May) has insisted that the June parade is about putting the United States' military strength on display. The event is set to take place on June 14th, Trump's 79th birthday. File Photo by Chris Kl... [1555 chars]",
-      "tags": ["military", "government_operations"]
+      "tags": [
+        "military",
+        "government_operations"
+      ],
+      "publishedAtTs": 1747351107
     },
     {
       "source": {
@@ -121,7 +138,8 @@
         "gaza",
         "national_security",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1747350000
     },
     {
       "source": {
@@ -141,7 +159,8 @@
         "asia_pacific",
         "economy_finance",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1747349422
     },
     {
       "source": {
@@ -161,7 +180,8 @@
         "government_administration",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747348096
     }
   ]
 }

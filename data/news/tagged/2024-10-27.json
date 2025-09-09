@@ -19,7 +19,8 @@
         "media_communications",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730073367
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "middle_east",
         "europe",
         "latin_america"
-      ]
+      ],
+      "publishedAtTs": 1730073285
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730073250
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "media_communications",
         "campaign_events",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1730072400
     },
     {
       "source": {
@@ -99,7 +103,8 @@
         "media_communications",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1730072362
     },
     {
       "source": {
@@ -119,7 +124,8 @@
         "security_incidents",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730071775
     },
     {
       "source": {
@@ -139,7 +145,8 @@
         "stock_market",
         "banking",
         "asia_pacific"
-      ]
+      ],
+      "publishedAtTs": 1730071406
     },
     {
       "source": {
@@ -159,7 +166,8 @@
         "social_issues",
         "racial_justice",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1730071275
     },
     {
       "source": {
@@ -179,7 +187,8 @@
         "elections_politics",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730070992
     },
     {
       "source": {
@@ -198,7 +207,8 @@
         "cybersecurity",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730070020
     },
     {
       "source": {
@@ -218,7 +228,8 @@
         "government_administration",
         "government_operations",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1730069769
     },
     {
       "source": {
@@ -238,7 +249,8 @@
         "national_security",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730069084
     },
     {
       "source": {
@@ -258,7 +270,8 @@
         "media_communications",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1730066933
     },
     {
       "source": {
@@ -278,7 +291,8 @@
         "intelligence",
         "china",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1730066353
     },
     {
       "source": {
@@ -296,7 +310,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1730063617
     },
     {
       "source": {
@@ -316,7 +331,8 @@
         "personal_family",
         "campaign_events",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1730063530
     },
     {
       "source": {
@@ -335,7 +351,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730059215
     },
     {
       "source": {
@@ -349,7 +366,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/67/26798bf9-2822-5b1e-b6bf-6ea6e46f10a2/671e97118b345.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-10-27T20:00:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["regional_state", "natural_disasters", "crisis_emergency"]
+      "tags": [
+        "regional_state",
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1730059200
     },
     {
       "source": {
@@ -368,7 +390,8 @@
         "political_endorsements",
         "regional_state",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1730059200
     },
     {
       "source": {
@@ -388,7 +411,8 @@
         "health_science",
         "social_issues",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1730058553
     },
     {
       "source": {
@@ -408,7 +432,8 @@
         "security_intelligence",
         "personal_family",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730058345
     },
     {
       "source": {
@@ -428,7 +453,8 @@
         "criminal_cases",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730057588
     },
     {
       "source": {
@@ -442,7 +468,12 @@
       "urlToImage": "https://i.dawn.com/large/2024/10/281313436144e93.jpg?r=131349",
       "publishedAt": "2024-10-27T19:00:00Z",
       "content": "As the US presidential race unfolds, Pakistan watches closely — yet the outcome is unlikely to stray from the well-worn paths of pragmatism.\nListen to article 1x 1.2x 1.5x\nThe US presidential election is just days away, and many within Pakistan are k... [8679 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "international_organizations"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "international_organizations"
+      ],
+      "publishedAtTs": 1730055600
     },
     {
       "source": {
@@ -462,7 +493,8 @@
         "2028_presidential",
         "new_york",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730055009
     },
     {
       "source": {
@@ -482,7 +514,8 @@
         "economy_finance",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1730054979
     }
   ]
 }

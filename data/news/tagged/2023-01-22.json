@@ -14,7 +14,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2183033/donald-trump-lindsey-graham-warning.jpg",
       "publishedAt": "2023-01-22T23:17:32Z",
       "content": "Former President Donald Trump has received a stern warning over a supposed addition to his leadership team from his one-time advisor, Steve Bannon.\nTrump recently announced that he will be launching his presidential campaign staff in South Carolina, ... [2924 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1674429452
     },
     {
       "source": {
@@ -32,7 +36,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1674424958
     },
     {
       "source": {
@@ -46,7 +51,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2183021/michelle-obama-newsom-wings-amid-biden-scandal.jpg",
       "publishedAt": "2023-01-22T20:16:31Z",
       "content": "Jenna Ellis, a former senior legal adviser to former President Donald Trump, said on Saturday that Democrats might be considering former first lady Michelle Obama and California Governor Gavin Newsom as potential 2024 presidential nominees as Preside... [4129 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1674418591
     },
     {
       "source": {
@@ -64,7 +74,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1674408211
     },
     {
       "source": {
@@ -82,7 +93,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1674407198
     },
     {
       "source": {
@@ -96,7 +108,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2183003/biden-trump-boebert.jpg",
       "publishedAt": "2023-01-22T16:38:33Z",
       "content": "Former President Donald Trump and Republican representative Lauren Boebert have expressed their outrage after the latest discovery of classified documents unearthed in a search of President Joe Biden's home.\nOn Saturday night President Biden's attorn... [3601 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1674405513
     },
     {
       "source": {
@@ -110,7 +127,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2182998/donald-trump-protest-mass-shooting-comments.jpg",
       "publishedAt": "2023-01-22T16:21:20Z",
       "content": "Former President Donald Trump attempted to use the recent Atlanta protest and the Monterey Park, California, mass shooting to defend January 6 rioters, despite the latter seemingly having no connection or resemblance to the Capitol attack.\nTrump made... [2423 chars]",
-      "tags": ["elections_politics", "legal_justice", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1674404480
     },
     {
       "source": {
@@ -129,7 +151,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1674403228
     },
     {
       "source": {
@@ -148,7 +171,8 @@
         "legal_justice",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1674402676
     },
     {
       "source": {
@@ -166,7 +190,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1674402148
     },
     {
       "source": {
@@ -184,7 +209,8 @@
         "policy_legislation",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1674400644
     },
     {
       "source": {
@@ -198,7 +224,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2182987/trump-keeps-providing-incriminating-evidence-against-himself-kirschner.jpg",
       "publishedAt": "2023-01-22T15:16:00Z",
       "content": "Former federal prosecutor Glenn Kirschner said Sunday that former President Donald Trump keeps providing \"incriminating evidence\" against himself as he continues to post on social media about how he handled classified documents.\nDuring an appearance ... [5356 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1674400560
     },
     {
       "source": {
@@ -212,7 +243,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/trump-diamond_silk-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-01-22T14:50:23Z",
       "content": "Former President Donald Trump, speaking at a memorial service for half of the conservative duo “Diamond and Silk,” said he never really knew Silk.\nTrump was among a number of Republicans who spoke at the memorial in North Carolina on Saturday for Lyn... [2831 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1674399023
     },
     {
       "source": {
@@ -226,7 +262,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=32885627&width=1200&height=600&coordinates=0%2C27%2C0%2C27",
       "publishedAt": "2023-01-22T13:05:24Z",
       "content": "Donald Trump's inability to stop talking about his legal problems, and his penchant for floating possible defenses on his social media accounts, will likely come back to haunt him, explained one legal expert.\nDuring an appearance on MSNBC early Sunda... [1915 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1674392724
     },
     {
       "source": {
@@ -240,7 +281,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2182975/diamond-silk-donald-trump.jpg",
       "publishedAt": "2023-01-22T13:00:53Z",
       "content": "A video where former President Donald Trump said he had \"just learned\" about Herneitha Hardaway, better known as media personality 'Silk,' has gone viral, after she spoke at a memorial event for her sister, Ineitha.\nIn the clip, Trump heaped praise o... [4383 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1674392453
     },
     {
       "source": {
@@ -254,7 +299,10 @@
       "urlToImage": "https://extra.ie/wp-content/uploads/2023/01/Ivana-Trump-feat.jpg",
       "publishedAt": "2023-01-22T11:30:58Z",
       "content": "Ivana Trump, the first wife of ex-President Donald Trump, left her beloved dog and a $1.1m flat to her Irish assistant in her will.\nThe 73-year-old socialite, who died last July after falling down the stairs at her Manhattan townhouse, left an estate... [3662 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1674387058
     },
     {
       "source": {
@@ -268,7 +316,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/f5f52d1ca8c6437266b1c89b00bf37f32f805569/0_134_2100_1260/master/2100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669de0e43b68acd62da8dee34384816a",
       "publishedAt": "2023-01-22T11:00:35Z",
       "content": "Under Donald Trump, Americans were confronted with a near-constant onslaught of racist, anti-immigrant rhetoric and policy, especially regarding the US-Mexico border, as the same man who led chants about building a wall there won the 2016 presidentia... [8022 chars]",
-      "tags": ["immigration", "border_security", "foreign_policy"]
+      "tags": [
+        "immigration",
+        "border_security",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1674385235
     },
     {
       "source": {
@@ -282,7 +335,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
       "publishedAt": "2023-01-22T10:13:19Z",
       "content": "The ruling BJP and the opposition Congress- CPI-M alliance are vying with each other to woo TIPRA Motha, led by a scion of the Tripura royal family into an electoral understanding as the tribal party's votes will be crucial in determining who will ru... [6138 chars]",
-      "tags": ["regional_state", "elections_politics", "policy_legislation"]
+      "tags": [
+        "regional_state",
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1674382399
     },
     {
       "source": {
@@ -296,7 +354,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/01/22/multimedia/22nat-womens-march-jpfq/22nat-womens-march-jpfq-facebookJumbo.jpg",
       "publishedAt": "2023-01-22T10:00:20Z",
       "content": "For those newer to the movement, like Sam Jandl of Boston, who stepped up to help organize Sunday’s event on Boston Common, the connection to others around the country has provided a morale boost as well as practical advice, like which trash bags to ... [1803 chars]",
-      "tags": ["womens_rights", "social_issues", "elections_politics"]
+      "tags": [
+        "womens_rights",
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1674381620
     },
     {
       "source": {
@@ -310,7 +373,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/N6PHPN84ROF8SK8UiwKNQJ7jLv0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JJG6FZABSRNM3J6S7THJWFAGUQ.jpg",
       "publishedAt": "2023-01-22T09:36:00Z",
       "content": "The access road to US President Joe Biden’s home in Wilmington, Delaware is blocked as officials from the Justice Department search his home. Photograph: Carolyn Kaster/AP/PA\nOn Thursday US president Joe Biden sought to play down the significance of ... [5158 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1674380160
     },
     {
       "source": {
@@ -329,7 +397,8 @@
         "elections_politics",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1674374432
     },
     {
       "source": {
@@ -343,7 +412,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_09_2022_03_47_44_1605973.jpg?width=920&format=jpeg",
       "publishedAt": "2023-01-22T06:29:09Z",
       "content": "Key dates related to the discovery of classified documents tied to President Joe Biden, based on statements from the White House, the president, his attorneys, and Attorney General Merrick Garland: - Jan 20, 2017: Biden's two terms as vice president ... [4433 chars]",
-      "tags": ["legal_justice", "doj_actions", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1674368949
     },
     {
       "source": {
@@ -357,7 +431,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xxymTW9BgbAF6BEdR8D2Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/the-fayetteville-observer/7253837f3f007e4a589e5a1507e00c44",
       "publishedAt": "2023-01-22T02:35:39Z",
       "content": "More:Trump to visit Fayetteville for celebration of life for Diamond of Diamond and Silk\nMore:Hoke County’s Lynnette ‘Diamond’ Hardaway, of famous Diamond and Silk, dies at 51\nThe celebration of life for “Diamond” of the popular right-wing political ... [8213 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1674354939
     },
     {
       "source": {
@@ -371,7 +450,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_55_697089.jpg?width=920&format=jpeg",
       "publishedAt": "2023-01-22T00:54:14Z",
       "content": "A new search of President Joe Biden's home in Wilmington, Delaware on Friday by the U.S. Justice Department led to the discovery of six more classified documents , a lawyer for the president said in a statement Saturday night.\nSome of the classified ... [2414 chars]",
-      "tags": ["legal_justice", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1674348854
     }
   ]
 }

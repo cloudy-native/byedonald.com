@@ -14,7 +14,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/008a31c44301de11239adf9a347a86bbbdbaa4fe/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dfc058b65c44918f79dcddb40cf5dab",
       "publishedAt": "2025-04-01T23:57:16Z",
       "content": "Republican Randy Fine won a special election Tuesday for a House seat in Florida vacated by Donald Trump’s national security adviser, Mike Waltz, although Democrats are likely to perform better in the Republican district than they did in November.\nDe... [3504 chars]",
-      "tags": ["elections_politics", "regional_state", "florida"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1743551836
     },
     {
       "source": {
@@ -32,7 +37,8 @@
         "elections_politics",
         "regional_state",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743551750
     },
     {
       "source": {
@@ -51,7 +57,8 @@
         "russia",
         "international_organizations",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1743551557
     },
     {
       "source": {
@@ -71,7 +78,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1743551521
     },
     {
       "source": {
@@ -91,7 +99,8 @@
         "political_endorsements",
         "press_relations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1743551327
     },
     {
       "source": {
@@ -111,7 +120,8 @@
         "legal_justice",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1743551206
     },
     {
       "source": {
@@ -129,7 +139,8 @@
         "regional_state",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743550836
     },
     {
       "source": {
@@ -143,7 +154,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/trillium/images/cp174332009.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-01T23:30:00Z",
       "content": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday\nEditor's note: This article originally appeared on ParliamentToday, a Village Media newsletter devoted exclusively to covering federal politics.\nU.S. President Donal... [3669 chars]",
-      "tags": ["trade", "canada", "foreign_policy"]
+      "tags": [
+        "trade",
+        "canada",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743550200
     }
   ]
 }

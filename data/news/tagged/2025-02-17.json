@@ -14,7 +14,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_02_2025_12_03_42_7925698.jpg?width=920&format=jpeg",
       "publishedAt": "2025-02-17T23:54:26Z",
       "content": "In a series of diplomatic talks, French President Emmanuel Macron engaged with U.S. President Donald Trump and Ukraine's President Volodymyr Zelenskiy, focusing on fortifying Ukraine with European support. Prior consultations with European leaders ha... [518 chars]",
-      "tags": ["foreign_policy", "europe", "nato"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "nato"
+      ],
+      "publishedAtTs": 1739836466
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "security_intelligence",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1739836300
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "security_intelligence",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1739835392
     },
     {
       "source": {
@@ -73,7 +80,8 @@
         "legal_justice",
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1739835114
     },
     {
       "source": {
@@ -87,7 +95,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2088%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_262%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/a3ad15a3dbf417153f5e2beb5955f5610883d265",
       "publishedAt": "2025-02-17T23:26:34Z",
       "content": "When J.D. Vance took the stage at the Munich Security Conference last week, he issued a stern warning. The US vice president told the assembled politicians and diplomats that free speech and democracy are under attack from European elites: “The threa... [334 chars]",
-      "tags": ["foreign_policy", "media_communications", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1739834794
     },
     {
       "source": {
@@ -101,7 +114,13 @@
       "urlToImage": "https://e3.365dm.com/25/02/1600x900/skynews-keir-starmer-emmanuel-macron_6831937.jpg?20250217200030",
       "publishedAt": "2025-02-17T23:19:00Z",
       "content": "Sir Keir Starmer was the first leader to arrive at this meeting in Paris, strolling down the road from the British Embassy.\nWhen he emerged, after three hours of discussion, he looked sombre.\nSir Keir, like the other political heavyweights who came t... [2194 chars]",
-      "tags": ["foreign_policy", "europe", "russia", "nato"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "russia",
+        "nato"
+      ],
+      "publishedAtTs": 1739834340
     },
     {
       "source": {
@@ -121,7 +140,8 @@
         "personal_family",
         "regional_state",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1739834214
     },
     {
       "source": {
@@ -141,7 +161,8 @@
         "social_issues",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1739833693
     },
     {
       "source": {
@@ -155,7 +176,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/02/17/multimedia/17DC-FED-TARIFFS-01-pzkf/17DC-FED-TARIFFS-01-pzkf-facebookJumbo.jpg",
       "publishedAt": "2025-02-17T23:01:05Z",
       "content": "As President Trump’s efforts to restructure the global trade system with expansive tariffs begin to take shape, one question continues to dog officials at the Federal Reserve: How will these policies affect the central bank’s plans to lower interest ... [743 chars]",
-      "tags": ["economy_finance", "policy_legislation", "trade"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "trade"
+      ],
+      "publishedAtTs": 1739833265
     },
     {
       "source": {
@@ -173,7 +199,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1739831042
     }
   ]
 }

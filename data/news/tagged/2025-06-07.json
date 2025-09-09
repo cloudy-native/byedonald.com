@@ -19,7 +19,8 @@
         "political_endorsements",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1749340623
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1749340385
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "immigration",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1749340213
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1749339336
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "national_security",
         "regional_state",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1749338820
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "ukraine",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1749337200
     },
     {
       "source": {
@@ -138,7 +144,8 @@
         "security_incidents",
         "government_operations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1749337200
     },
     {
       "source": {
@@ -158,7 +165,8 @@
         "california",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1749337200
     },
     {
       "source": {
@@ -178,7 +186,8 @@
         "national_security",
         "security_incidents",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1749337200
     }
   ]
 }

@@ -20,7 +20,8 @@
         "policy_legislation",
         "technology_regulation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1682120223
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "personal_family",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1682119573
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "security_intelligence",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -73,7 +76,12 @@
       "urlToImage": "https://www.independent.ie/world-news/north-america/president-trump/94eeb/42444008.ece/AUTOCROP/w1240h700/TRUMP-DESANTIS",
       "publishedAt": "2023-04-21T23:00:00Z",
       "content": "Former US president Donald Trump will be visiting his luxury hotel and golf resort at Doonbeg in Co Clare early next month, Independent.ie can confirm this evening.\nJoe Russell, Managing Director of the Trump International Golf Links and Hotel, said ... [1600 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -87,7 +95,12 @@
       "urlToImage": "https://img.rasset.ie/001c37a6-1600.jpg",
       "publishedAt": "2023-04-21T23:00:00Z",
       "content": "Former US president Donald Trump is to visit Ireland next month.\nIt will come just weeks after his successor Joe Biden took part in a four-day visit to the island of Ireland.\nThere is speculation the two men, who went head to head in the 2020 US pres... [954 chars]",
-      "tags": ["personal_family", "foreign_policy", "europe"]
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "europe"
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -101,7 +114,12 @@
       "urlToImage": "https://www.independent.ie/irish-news/politics/607d8/42444417.ece/AUTOCROP/w1240h700/4fe93fd4e46e4a5ba71ccd945ac60b81.jpg",
       "publishedAt": "2023-04-21T23:00:00Z",
       "content": "Gardaí are tight lipped about plans for former US President Donald Trump to visit Ireland next month – but locals near his Co Clare resort expect he will receive a warm welcome.\nPeople living in and around Doonbeg have credited the former president w... [2800 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -115,7 +133,11 @@
       "urlToImage": "https://img.rasset.ie/001df4fb-1600.jpg",
       "publishedAt": "2023-04-21T23:00:00Z",
       "content": "Former US Secretary of State, Hillary Clinton, has said she would \"absolutely\" support a bid by Joe Biden for a second term as US President and she believes he would \"defeat\" Donald Trump again.\nShe said \"if he wants to run and he is apparently going... [3625 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -129,7 +151,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDRcXFwvMjIxMTA2MzZcXFwvMi40MzMzODAyNy1lMTY4MjE1ODA2MTc5OC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjE5NzY0N2RhZThhY2VhNzkzMjliMzA2NGQ0ZmMyN2M4Y2Y3YzBjNGYifQ==/donald-trump-to-visit-ireland-next-month.jpg",
       "publishedAt": "2023-04-21T23:00:00Z",
       "content": "Former US president Donald Trump is to visit Ireland next month.\nIt will come just weeks after his successor Joe Biden took part in a four-day visit.\nThere is speculation the two men who went head-to-head in the 2020 US presidential election could ag... [1151 chars]",
-      "tags": ["personal_family", "foreign_policy", "europe"]
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "europe"
+      ],
+      "publishedAtTs": 1682118000
     },
     {
       "source": {
@@ -147,7 +174,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1682115934
     },
     {
       "source": {
@@ -161,7 +189,12 @@
       "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/04/newspress-collage-10588015-1682114525822.jpg?1682118150&strip=all&quality=100&w=1920&h=1080&crop=1",
       "publishedAt": "2023-04-21T22:05:44Z",
       "content": "FORMER US President Donald Trump is expected to visit Ireland in the coming weeks.\nIt's understood that the 76-year-old is hoping to travel to Ireland in May - just weeks after a visit from current president Joe Biden.\n2 Trump landing at Shannon Airp... [2039 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682114744
     },
     {
       "source": {
@@ -175,7 +208,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/cl6dUeWXWTbxUxXDSaYmKdco3M0=/1200x630/filters:format(jpg):quality(70):focal(1155x562:1165x572)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TKXQ3RBMMV6IJW3KVHIIGNJO4U.jpg",
       "publishedAt": "2023-04-21T21:50:00Z",
       "content": "Donald Trump at the opening of the Doonbeg golf links and hotel in Co Clare. Photograph: PA\nFormer US president Donald Trump is expected to visit his luxury golf resort in Doonbeg in Co Clare next month.\nAlthough the trip has is yet to be officially ... [1499 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682113800
     },
     {
       "source": {
@@ -189,7 +227,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/Trump-DeSantis.png?w=1280",
       "publishedAt": "2023-04-21T21:03:57Z",
       "content": "Former President Trump has marginally extended his lead over Florida Gov. Ron DeSantis (R), his presumed chief White House contender, in the 2024 Republican presidential primary, according to a new Harvard CAPS/Harris Poll shared exclusively with The... [1929 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682111037
     },
     {
       "source": {
@@ -203,7 +245,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/christiechris_042023_AP_CharlesKrupa.jpg?w=1280",
       "publishedAt": "2023-04-21T20:03:59Z",
       "content": "Florida Gov. Ron DeSantis (R) is suddenly facing a rash of attacks within the nascent GOP presidential field, with former New Jersey Gov. Chris Christie (R) seeking to quash his candidacy before it even starts.\nChristie, who is openly mulling a 2024 ... [6692 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682107439
     },
     {
       "source": {
@@ -217,7 +263,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/desantisron_042123gn03_w.jpg?w=1280",
       "publishedAt": "2023-04-21T19:51:08Z",
       "content": "Florida Gov. Ron DeSantis (R) got a warm reception at the Heritage Foundation’s 50th-anniversary summit just outside Washington, D.C., on Friday, softening a difficult weak that featured a wave of Florida lawmakers endorsing former President Trump fo... [3362 chars]",
-      "tags": ["regional_state", "elections_politics"]
+      "tags": [
+        "regional_state",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1682106668
     },
     {
       "source": {
@@ -231,7 +281,12 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article3530523.ece/ALTERNATES/s1200/0_trump.jpg",
       "publishedAt": "2023-04-21T19:35:30Z",
       "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nGet daily headlines and breaking news alerts for FREE by signing up to our newsletter\nFormer US President Donald Trump is coming to Ireland – ju... [3592 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682105730
     },
     {
       "source": {
@@ -251,7 +306,8 @@
         "policy_legislation",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1682105333
     },
     {
       "source": {
@@ -269,7 +325,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1682104913
     },
     {
       "source": {
@@ -283,7 +340,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230419-donald-trump-jm-1429-cdf3b4.jpg",
       "publishedAt": "2023-04-21T19:17:12Z",
       "content": "Members of the far-right House Freedom Caucus were Donald Trump’s most reliable supporters and loudest defenders in Congress during his presidency.\nBut many are holding off on an official endorsement of his third White House bid — at least for now.\nT... [8699 chars]",
-      "tags": ["elections_politics", "2028_presidential", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1682104632
     },
     {
       "source": {
@@ -301,7 +363,8 @@
         "legal_justice",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1682103556
     },
     {
       "source": {
@@ -315,7 +378,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/Donald-Trump-DeSantis.png?w=1280",
       "publishedAt": "2023-04-21T18:53:27Z",
       "content": "Former President Trump took aim at Florida Gov. Ron DeSantis (R) in an interview by calling him a new nickname similar to the one he gave to North Korean leader Kim Jong Un in 2017.\n“I should call him Rocket Man, but now he’s Rocket Man that’s crashi... [1309 chars]",
-      "tags": ["elections_politics", "personal_family", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1682103207
     },
     {
       "source": {
@@ -329,7 +397,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/NYPICHPDPICT000009965797.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-04-21T18:41:39Z",
       "content": "A federal judge who will oversee Donald Trump’s sexual assault civil trial in Manhattan says the former president is free to skip attending the trial — but that he cannot claim he did so to avoid “burdens” on the city that his presence in court might... [1833 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1682102499
     },
     {
       "source": {
@@ -347,7 +419,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1682099969
     },
     {
       "source": {
@@ -361,7 +434,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/boebertlauren_030423gn08_w.jpg?w=1280",
       "publishedAt": "2023-04-21T17:40:45Z",
       "content": "Rep. Lauren Boebert (R-Colo.) joined a chorus of conservatives criticizing New Mexico prosecutors after they announced Thursday that charges against actor Alec Baldwin would be dropped related to an on-set shooting for the movie “Rust.”\n“Liberal priv... [1754 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1682098845
     },
     {
       "source": {
@@ -375,7 +452,11 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1468512-12-20231026183000.jpeg",
       "publishedAt": "2023-04-21T17:39:00Z",
       "content": "UPDATE\nOct 26, 2023 6:30 PM CDT\nA Republican presidential candidate and talk radio host has ended his campaign. Larry Elder said Thursday that he's throwing his support to Donald Trump, the AP reports. It's not clear how much weight Elder's endorseme... [880 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682098740
     },
     {
       "source": {
@@ -394,7 +475,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1682098172
     }
   ]
 }

@@ -18,7 +18,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1744588115
     },
     {
       "source": {
@@ -36,7 +37,8 @@
         "government_administration",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1744587764
     },
     {
       "source": {
@@ -50,7 +52,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTQxOTAwMjVcXFwvMDM3MDI3ZjlmMWIxNDM3ODljNDhkOWU1MGMzNWQ2YzMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4YzI5MzE2NzE0OTcxYmVkYjQ5ZWY2Zjc4MDQyNWJiMzkzODQ2NDFkIn0=/donald-trump-considers-pausing-motor-tariffs-as-world-economy-suffers-whiplash.jpg",
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "Donald Trump has suggested that he might temporarily exempt the motor industry from tariffs he previously imposed on the sector, to give car makers time to adjust their supply chains.\n“I’m looking at something to help some of the car companies with i... [1966 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1744585200
     },
     {
       "source": {
@@ -64,7 +71,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTQyMTE5MzdcXFwvR2V0dHlJbWFnZXMtMjIwODc1NjA1My1lMTc0NDY2MjAxNDcyNi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjZhYmEwZTJmYzhiZTgwZDg1YWEyYjYzOTYwNWVhMGViNTY3ZTA1YWMifQ==/trump-mentions-ireland-again-while-discussing-pharmaceutical-tariffs.jpg",
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "US president Donald Trump has said he is considering imposing tariffs on pharmaceutical imports in the \"not too distant future\".\nSpeaking in the Oval Office, he suggested they would be similar to the 25 per cent rate imposed on the motor industry and... [1451 chars]",
-      "tags": ["economy_finance", "foreign_policy", "health_science"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "health_science"
+      ],
+      "publishedAtTs": 1744585200
     },
     {
       "source": {
@@ -78,7 +90,12 @@
       "urlToImage": "https://img.rasset.ie/002246ba-1600.jpg",
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "Ukrainian President Volodymyr Zelensky urged US counterpart Donald Trump to visit his country to better understand the devastation wrought by Russia's invasion.\n\"Please, before any kind of decisions, any kind of forms of negotiations, come to see peo... [3349 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1744585200
     },
     {
       "source": {
@@ -98,7 +115,8 @@
         "trade",
         "economy_finance",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1744585200
     },
     {
       "source": {
@@ -116,7 +134,8 @@
         "media_communications",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1744585200
     },
     {
       "source": {
@@ -130,7 +149,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/7ZQ3EMDMVBC63C6DNKZCCYMHVQ.jpg?smart=true&auth=bb0a3d498fddef12cfa55b519b82d7657c6e5735ce5d3dc4691985de645fc888&width=1200&height=630",
       "publishedAt": "2025-04-13T22:57:42Z",
       "content": "President Donald Trump speaks to the reporters on board Air Force One on the way to Miami, Saturday, April 12, 2025. (Pool via AP)\nU.S. President Donald Trump warned Sunday that no country would be getting “off the hook” on tariffs despite a 90-day r... [3737 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1744585062
     },
     {
       "source": {
@@ -144,7 +168,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25100535589269.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-04-13T22:38:32Z",
       "content": "CNN —\nStock futures rose Sunday after a temporary reprieve from tariffs on electronic imports from China by the Trump administration.\nDow futures were up 0.5%, or 212 points. The S&P 500 futures rose 0.75%, while the tech-heavy Nasdaq Composite futur... [2340 chars]",
-      "tags": ["economy_finance", "trade", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
+      "publishedAtTs": 1744583912
     },
     {
       "source": {
@@ -158,7 +187,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/d610602834b90e8725619dd28e32990d16f5883c/0_399_5431_3259/master/5431.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ead735d928a5fb90233e8bd85816da1f",
       "publishedAt": "2025-04-13T22:20:47Z",
       "content": "Billionaire investor Ray Dalio said that he is worried the US will experience “something worse than a recession” as a result of Donald Trump’s trade policies.\nSpeaking to NBC’s Meet the Press on Sunday, the 75-year-old hedge fund manager said: “I thi... [3106 chars]",
-      "tags": ["economy_finance", "foreign_policy", "crisis_emergency"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1744582847
     }
   ]
 }

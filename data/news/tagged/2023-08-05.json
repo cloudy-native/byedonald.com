@@ -19,7 +19,8 @@
         "doj_actions",
         "criminal_cases",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1691279940
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230805192229-trump-pence-split-080523.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-05T23:51:52Z",
       "content": "CNN —\nFormer President Donald Trump on Saturday lashed out at Mike Pence, his former vice president and GOP presidential primary opponent, calling him “delusional” and “not a very good person.”\n“WOW, it’s finally happened! Liddle’ Mike Pence, a man w... [1756 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691279512
     },
     {
       "source": {
@@ -51,7 +56,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1691276400
     },
     {
       "source": {
@@ -70,7 +76,8 @@
         "criminal_cases",
         "elections_politics",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1691276400
     },
     {
       "source": {
@@ -84,7 +91,11 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/1fc1daf/2147483647/strip/true/crop/5568x2923+0+394/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Ff8%2F89%2F412124f74cae86f2c9886e376dcf%2Fap23171659525802.jpg",
       "publishedAt": "2023-08-05T22:29:03Z",
       "content": "Florida Gov. Ron DeSantis issued his latest attack against former President Donald Trump regarding his campaign behavior, warning other Republican lawmakers and candidates that the GOP will lose in 2024 if it emulates his demeanor.\n“These insults are... [1686 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1691274543
     },
     {
       "source": {
@@ -98,7 +109,12 @@
       "urlToImage": "https://gray-wistv-prod.cdn.arcpublishing.com/resizer/J-XBHEjc77UFjLrSG3HWS5pOYHg=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/DOMLCWOF7NCA3KEXM642H54KJQ.png",
       "publishedAt": "2023-08-05T21:13:39Z",
       "content": "COLUMBIA, S.C. (WIS) - Former President Donald Trump arrived in Columbia on Saturday evening to headline the biggest South Carolina Republican fundraising event of the year.\nThe Silver Elephant Gala, held at the S.C. State Fairgrounds, is an annual f... [2727 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691270019
     },
     {
       "source": {
@@ -117,7 +133,8 @@
         "doj_actions",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1691268780
     },
     {
       "source": {
@@ -131,7 +148,11 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/05/600x338/Donald_Trump_1691256639880_1691256640096.jpg",
       "publishedAt": "2023-08-05T18:30:00Z",
       "content": "Former US President Donald Trump's social media post could be taken as a threat to those involved in several of the criminal and civil cases arrayed against him, alerted US attorneys to a judge, reported Bloomberg .\nOn Friday afternoon, the former pr... [1272 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691260200
     },
     {
       "source": {
@@ -151,7 +172,8 @@
         "doj_actions",
         "personal_legal",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1691259971
     },
     {
       "source": {
@@ -165,7 +187,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/05/us/politics/05pol-campaign1/05pol-campaign1-facebookJumbo.jpg",
       "publishedAt": "2023-08-05T18:04:24Z",
       "content": "“You’ve got to earn this nomination,” Mr. DeSantis said. “I think anybody that says somehow that they are above the process, that’s not going to land well in Iowa. That’s not going to land well in New Hampshire.”\nPart of the challenge for Mr. Trump’s... [987 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691258664
     },
     {
       "source": {
@@ -179,7 +206,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/ac64cac907846fd07acea3e11c996a6f49e45c39/1559_270_2978_1787/master/2978.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=c803b9526f7170e8c088025380085d07",
       "publishedAt": "2023-08-05T18:03:48Z",
       "content": "The prospect of Donald Trump finally facing justice for the most serious of his many alleged crimes – conspiring to subvert the 2020 US presidential election – is cheering. Unfortunately, it has taken more than two and a half years to call the disgra... [5777 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691258628
     },
     {
       "source": {
@@ -193,7 +225,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2266177/donald-trump.jpg",
       "publishedAt": "2023-08-05T17:40:29Z",
       "content": "U.S. District Court Judge Tanya Chutkan on Saturday issued a new deadline for former President Donald Trump to respond to special counsel Jack Smith's request for a protective order as the Department of Justice (DOJ) seeks to safeguard evidence and r... [6861 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691257229
     },
     {
       "source": {
@@ -207,7 +244,13 @@
       "urlToImage": "https://theintercept.com/wp-content/themes/intercept/assets/icons/apple-touch-icon-57x57.png",
       "publishedAt": "2023-08-05T16:39:16Z",
       "content": "Clint Lorance, a former Army lieutenant convicted of second-degree murder for war crimes in Afghanistan, was one beneficiary of the many pardons issued to convicted war criminals by former President Donald Trump.\nLorance, who won his pardon following... [8251 chars]",
-      "tags": ["legal_justice", "criminal_cases", "pardons", "foreign_policy"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "pardons",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1691253556
     },
     {
       "source": {
@@ -221,7 +264,12 @@
       "urlToImage": "https://e3.365dm.com/23/08/1600x900/skynews-trump-alabama_6240919.jpg?20230805023931",
       "publishedAt": "2023-08-05T16:33:00Z",
       "content": "A social media post by Donald Trump written in all-capital letters saying \"if you go after me, I'm coming after you!\" could be interpreted as intimidating, US prosecutors have said.\nMr Trump posted the message on his Truth Social platform on Friday a... [2045 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1691253180
     },
     {
       "source": {
@@ -235,7 +283,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1485492-12-20230805120056.jpeg",
       "publishedAt": "2023-08-05T16:30:00Z",
       "content": "This story has been updated with the judge's deadline. When Donald Trump was arraigned on Thursday on felony charges that he tried to overturn results of the 2020 election, he was told he wouldn't be detained. The presiding judge warned the former pr... [2454 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691253000
     },
     {
       "source": {
@@ -249,7 +302,13 @@
       "urlToImage": "https://www.nydailynews.com/resizer/P-vGvp7S_vvpZx6cyIGRaYUCQI4=/1200x630/filters:format(jpg):quality(70):focal(1047x499:1057x509)/cloudfront-us-east-1.images.arcpublishing.com/tronc/N6LZELDZYRH2PILMDTAW2RHAGY.jpg",
       "publishedAt": "2023-08-05T16:17:00Z",
       "content": "A Washington federal court judge blocked ex-President Donald Trump from going public with potential trial evidence shared with his lawyers in an upcoming election fraud case after prosecutors cited his history of social media tirades.\nThe ruling from... [3156 chars]",
-      "tags": ["legal_justice", "supreme_court", "doj_actions", "impeachment"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "doj_actions",
+        "impeachment"
+      ],
+      "publishedAtTs": 1691252220
     },
     {
       "source": {
@@ -263,7 +322,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/08/donald_trump_capitol_riot_1575084686_1230455457.jpg",
       "publishedAt": "2023-08-05T16:00:01Z",
       "content": "It's a good thing, rather than bad, when work you produce results from failure. That's how it happened when I wrote my first novel, \"Dress Gray,\" beginning on Memorial Day in the summer of 1977. I rented the first floor of a house on High Street in S... [9866 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1691251201
     },
     {
       "source": {
@@ -277,7 +341,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/04/multimedia/2023-08-04-tump-lawyers-index/2023-08-04-tump-lawyers-index-facebookJumbo-v2.jpg",
       "publishedAt": "2023-08-05T15:59:02Z",
       "content": "M. Evan Corcoran, a lawyer who accompanied former President Donald J. Trump to court this week for his arraignment on charges of trying to overturn the 2020 election, has given crucial evidence in Mr. Trump’s other federal case — the one accusing him... [623 chars]",
-      "tags": ["legal_justice", "personal_legal", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1691251142
     },
     {
       "source": {
@@ -291,7 +360,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230803093722-trump.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-05T15:02:16Z",
       "content": "CNN —\nThe 2024 presidential election is on the horizon, but we just can’t seem to leave 2020 behind. Former President Donald Trump was indicted and arraigned this week on charges related to efforts to overturn that electoral outcome. At the same time... [3951 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691247736
     },
     {
       "source": {
@@ -305,7 +379,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/05/multimedia/05dc-trump-fczt/05dc-trump-fczt-facebookJumbo.jpg",
       "publishedAt": "2023-08-05T14:52:59Z",
       "content": "“IF YOU GO AFTER ME, I’M COMING AFTER YOU!” he wrote.\nShortly after, in a standard move early in a criminal prosecution, the government filed its request for a protective order in the case to Judge Chutkan. Prosecutors noted that protections over dis... [1164 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691247179
     },
     {
       "source": {
@@ -319,7 +398,10 @@
       "urlToImage": "https://static01.nyt.com/images/2023/08/05/multimedia/05bouie_Newsletter2-chpf/05bouie_Newsletter2-chpf-facebookJumbo.jpg",
       "publishedAt": "2023-08-05T14:03:24Z",
       "content": "It’s not too much to say that the 2024 Republican presidential primary is effectively over. In fact, it’s been over. The earliest you could say it was over was Jan. 7, 2021, when most Republican politicians closed ranks around Donald Trump in the wak... [1119 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691244204
     },
     {
       "source": {
@@ -333,7 +415,12 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6508059.1691242887!/image/image.jpeg_gen/derivatives/landscape_620/image.jpeg",
       "publishedAt": "2023-08-05T13:46:38Z",
       "content": "Colleen Long and Lindsay Whitehurst, The Associated Press\nWASHINGTON (AP) — When the Justice Department was announcing the highest-profile prosecution in its history in Washington, Attorney General Merrick Garland was 100 miles away, meeting with loc... [6950 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691243198
     },
     {
       "source": {
@@ -347,7 +434,11 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/Screenshot-2023-08-05-at-13.11.56.png?w=1024",
       "publishedAt": "2023-08-05T12:43:10Z",
       "content": "Donald Trump’s former aid Sebastian Gorka gave short shrift to the BBC’s political editor this week, eventually asking him, “Do you not speak English?”\nIn an increasingly terse exchange during the BBC’s flagship early morning current affairs Today Pr... [1359 chars]",
-      "tags": ["media_communications", "foreign_policy"]
+      "tags": [
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1691239390
     }
   ]
 }

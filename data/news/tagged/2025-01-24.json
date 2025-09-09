@@ -20,7 +20,8 @@
         "government_administration",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1737763142
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "housing",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1737762736
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "legal_justice",
         "social_issues",
         "lgbtq_rights"
-      ]
+      ],
+      "publishedAtTs": 1737762636
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "government_administration",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1737762215
     },
     {
       "source": {
@@ -97,7 +101,8 @@
         "government_administration",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1737762061
     },
     {
       "source": {
@@ -111,7 +116,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2573366/kai-trump-subscribers-skyrocket.jpg",
       "publishedAt": "2025-01-24T23:39:54Z",
       "content": "Kai Trump's social media is skyrocketing after her grandfather's reelection.\nBefore President Donald Trump's 2024 victory, his eldest granddaughter had just 63,000 subscribers on YouTube. As of Friday, Kai Trump now has 861,000 subscribers—a figure m... [5645 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1737761994
     },
     {
       "source": {
@@ -131,7 +141,8 @@
         "policy_legislation",
         "foreign_policy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1737761819
     },
     {
       "source": {
@@ -150,7 +161,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1737761790
     },
     {
       "source": {
@@ -170,7 +182,8 @@
         "ukraine",
         "national_security",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1737761710
     },
     {
       "source": {
@@ -188,7 +201,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1737761400
     }
   ]
 }

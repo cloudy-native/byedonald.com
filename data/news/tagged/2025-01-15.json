@@ -20,7 +20,8 @@
         "technology_regulation",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1736985103
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_06_2024_04_42_50_8432673.png?width=920&format=jpeg",
       "publishedAt": "2025-01-15T23:47:07Z",
       "content": "Canada is preparing to impose substantial countermeasures on U.S. imports, valued at up to C$150 billion, should President-elect Donald Trump enforce tariffs on Canadian exports. According to a well-placed source, Canada has already developed a list ... [731 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1736984827
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "government_administration",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1736984594
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "voting_rights",
         "campaign_finance",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1736984495
     },
     {
       "source": {
@@ -90,7 +98,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736984087
     },
     {
       "source": {
@@ -104,7 +113,12 @@
       "urlToImage": "https://images.macrumors.com/t/xZ-N1TSc8vdxI0EmWGQKvG3T8eU=/2500x/article-new/2023/12/Apple-Logo-16x9-US-Flag-Feature.jpg",
       "publishedAt": "2025-01-15T23:29:00Z",
       "content": "Apple CEO Tim Cook will be one of several tech CEOs in attendance at the inauguration of President-elect Donald Trump, reports Bloomberg.\nEarlier this month, Cook personally donated $1 million to Trump's inaugural fund, and when Trump won in November... [927 chars]",
-      "tags": ["elections_politics", "personal_family", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1736983740
     },
     {
       "source": {
@@ -118,7 +132,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/KNEK2L5ZHBCYVFUCZAKUJZAAEU.jpg?smart=true&auth=a665ff32453770d329ed5961813c7d7843d722535d2c626ba007d320acc5fcef&width=1200&height=630",
       "publishedAt": "2025-01-15T23:24:27Z",
       "content": "WASHINGTON (CNN) — When Qatar’s prime minister emerged Wednesday to declare — at long last — that a ceasefire-for-hostage deal had been struck in Gaza, representatives for two American administrations were on hand in Doha to bask in the victory.\nThe ... [7447 chars]",
-      "tags": ["foreign_policy", "middle_east", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1736983467
     },
     {
       "source": {
@@ -132,7 +151,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d7/bd78949b-e3ca-5634-896b-2feab2dd2533/678842a0db06f.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-01-15T23:17:49Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "latin_america", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "latin_america",
+        "immigration"
+      ],
+      "publishedAtTs": 1736983069
     },
     {
       "source": {
@@ -151,7 +175,8 @@
         "transportation",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1736982900
     },
     {
       "source": {
@@ -170,7 +195,8 @@
         "middle_east",
         "israel",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1736982803
     }
   ]
 }

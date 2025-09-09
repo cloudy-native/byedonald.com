@@ -19,7 +19,8 @@
         "policy_legislation",
         "energy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1732319853
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1732319844
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1732319808
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "personal_family",
         "regional_state",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1732319703
     },
     {
       "source": {
@@ -95,7 +99,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1732319400
     },
     {
       "source": {
@@ -115,7 +120,8 @@
         "security_intelligence",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1732318001
     },
     {
       "source": {
@@ -133,7 +139,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1732317960
     },
     {
       "source": {
@@ -147,7 +154,11 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108060608-1731102475444-AP24227790611973.jpg?v=1731102539&w=1920&h=1080",
       "publishedAt": "2024-11-22T23:25:55Z",
       "content": "Scott Bessent, founder and chief executive officer of Key Square Group LP, during an interview in Washington, DC, US, on Friday, June 7, 2024.\nPresident-elect Donald Trump signaled Friday his intention to nominate hedge fund executive Scott Bessent a... [3491 chars]",
-      "tags": ["personnel", "banking"]
+      "tags": [
+        "personnel",
+        "banking"
+      ],
+      "publishedAtTs": 1732317955
     },
     {
       "source": {
@@ -165,7 +176,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1732317460
     },
     {
       "source": {
@@ -185,7 +197,8 @@
         "legal_justice",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1732317217
     }
   ]
 }

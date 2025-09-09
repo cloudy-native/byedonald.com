@@ -20,7 +20,8 @@
         "federal_agencies",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751106600
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "elections_politics",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751143857
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "security_intelligence",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751138418
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "security_intelligence",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751104920
     },
     {
       "source": {
@@ -100,7 +104,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751101200
     },
     {
       "source": {
@@ -120,7 +125,8 @@
         "supreme_court",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751070554
     },
     {
       "source": {
@@ -139,7 +145,8 @@
         "consumer_protection",
         "economy_finance",
         "environment"
-      ]
+      ],
+      "publishedAtTs": 1751129135
     },
     {
       "source": {
@@ -159,7 +166,8 @@
         "social_issues",
         "civil_rights",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751101260
     },
     {
       "source": {
@@ -178,7 +186,8 @@
         "legal_justice",
         "crisis_emergency",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751108465
     },
     {
       "source": {
@@ -198,7 +207,8 @@
         "security_intelligence",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751105805
     },
     {
       "source": {
@@ -218,7 +228,8 @@
         "legal_justice",
         "social_issues",
         "supreme_court"
-      ]
+      ],
+      "publishedAtTs": 1751101200
     },
     {
       "source": {
@@ -237,7 +248,8 @@
         "government_administration",
         "federal_agencies",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751108400
     },
     {
       "source": {
@@ -251,7 +263,12 @@
       "urlToImage": "https://i.insider.com/685f2ec2f748d8c055f49800?width=1200&format=jpeg",
       "publishedAt": "2025-06-28T03:02:35Z",
       "content": "Judge Loren AliKhan, in a Friday ruling, found the Trump administration's order against Susman Godfrey unconstitutional.Associated Press\r\n<ul><li>A federal judge found the Trump administration's orde… [+3925 chars]",
-      "tags": ["government_administration", "legal_justice", "executive_orders"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "executive_orders"
+      ],
+      "publishedAtTs": 1751079755
     },
     {
       "source": {
@@ -271,7 +288,8 @@
         "lgbtq_rights",
         "regional_state",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751102342
     },
     {
       "source": {
@@ -285,7 +303,12 @@
       "urlToImage": "https://i.insider.com/685f0e9185e81483682cfdd7?width=1200&format=jpeg",
       "publishedAt": "2025-06-28T10:30:01Z",
       "content": "Jeff Bezos and Lauren Sánchez exiting the Aman hotel in Venice in June 2025.Yara Nardi/REUTERS\r\n<ul><li>This post originally appeared in the BI Today newsletter.</li><li>You can sign up for Business … [+7281 chars]",
-      "tags": ["personal_family", "lifestyle", "travel"]
+      "tags": [
+        "personal_family",
+        "lifestyle",
+        "travel"
+      ],
+      "publishedAtTs": 1751106601
     },
     {
       "source": {
@@ -299,7 +322,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eGOdpeV2X6ddRQAH4kbQ0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/politico_453/db80b43903c7f4c0b5f51def68259a2a",
       "publishedAt": "2025-06-28T11:02:45Z",
       "content": "College presidents are rallying behind Senate Republicans in a bid to stave off megabill cuts to a program that helps more than 6 million low- and middle-income students pay for school.\r\nTo help aver… [+5750 chars]",
-      "tags": ["education", "policy_legislation", "economy_finance"]
+      "tags": [
+        "education",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751108565
     },
     {
       "source": {
@@ -313,7 +341,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fd9f2407-4f93-4f6d-9f77-146d130b505c/250627_abc_social_florida_tornado7_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-28T00:23:46Z",
       "content": "<ul><li>Defense in Sean Combs' trial delivers 4 hours of closing arguments\r\n</li><li>SCOTUS limits power of judges, clearing path for Trump to end birthright citizenship\r\n</li><li>University of Virgi… [+4586 chars]",
-      "tags": ["natural_disasters", "regional_state", "florida"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1751070226
     },
     {
       "source": {
@@ -327,7 +360,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/51585788-5d44-41cb-8249-042bee243ffc/250628_gma_pop1_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-28T15:11:27Z",
       "content": "<ul><li>Trump's so-called 'One Big Beautiful Bill' inches closer to vote\r\n</li><li>Alleged shooter in federal court as Minnesota lawmaker lies in state ahead of funeral\r\n</li><li>Mexico investigating… [+4574 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1751123487
     },
     {
       "source": {
@@ -341,7 +375,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0c4cb549-ab7e-4333-9135-6b743ca7d41a/250628_gma_abubey_shark2_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-28T14:01:21Z",
       "content": "<ul><li>Trump's so-called 'One Big Beautiful Bill' inches closer to vote\r\n</li><li>Alleged shooter in federal court as Minnesota lawmaker lies in state ahead of funeral\r\n</li><li>Mexico investigating… [+4574 chars]",
-      "tags": ["natural_disasters", "regional_state", "public_health_emergency"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "public_health_emergency"
+      ],
+      "publishedAtTs": 1751119281
     },
     {
       "source": {
@@ -355,7 +394,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/231d8cc9-5108-48ad-b2a8-45d0d9157557/trump-side-eye-gty-jt-250626_1750973925540_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-28T18:48:23Z",
       "content": "A week after President Donald Trump ordered a U.S. attack on three Iranian nuclear sites, the explanations and descriptions of what happened voiced by him, top aides and early intelligence reports pa… [+6563 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "national_security"
+      ],
+      "publishedAtTs": 1751136503
     },
     {
       "source": {
@@ -375,7 +419,8 @@
         "social_issues",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751102156
     },
     {
       "source": {
@@ -389,7 +434,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3af70835-56ff-4b8e-bae5-3e783aa91187/zohran-momdani-6-abc-gmh-250625_1750886663150_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-28T12:38:32Z",
       "content": "Speaking at the Faith and Freedom Coalition summit in Washington, D.C., an annual evangelical gathering in the nation's capital, Republican leaders showcased an emerging line of attack against Democr… [+6376 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1751114312
     },
     {
       "source": {
@@ -409,7 +459,8 @@
         "small_business",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1751149314
     },
     {
       "source": {
@@ -429,7 +480,8 @@
         "foreign_policy",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751119198
     },
     {
       "source": {
@@ -449,7 +501,8 @@
         "immigration",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751112190
     },
     {
       "source": {
@@ -463,7 +516,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/YGnEQNyg-QdqwueGcFP53LnO_vk=/0x0:2000x1042/1200x625/media/img/mt/2025/06/2025_06_27_Dem_mpg/original.jpg",
       "publishedAt": "2025-06-28T14:40:25Z",
       "content": "Yesterday marked one year since Joe Biden’s debate meltdown against Donald Trump. Happy anniversary to those who observe such things, or are triggered by such things. Please celebrate responsibly.For… [+6451 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751121625
     },
     {
       "source": {
@@ -477,7 +535,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Xy_IdkKyl_mXdMoX21ogPmnEcwQ=/0x516:960x1020/960x504/media/img/mt/2025/06/2025_06_25_reboot3_mpg/original.gif",
       "publishedAt": "2025-06-28T12:00:00Z",
       "content": "The world economy is like a supercomputer that churns through trillions of calculations of prices and quantities, and spits out information on incomes, wealth, profits, and jobs. This is effectively … [+12283 chars]",
-      "tags": ["economy_finance", "policy_legislation", "health_science"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "health_science"
+      ],
+      "publishedAtTs": 1751112000
     },
     {
       "source": {
@@ -497,7 +560,8 @@
         "security_intelligence",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1751092914
     },
     {
       "source": {
@@ -517,7 +581,8 @@
         "elections_politics",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1751117169
     },
     {
       "source": {
@@ -535,7 +600,8 @@
         "security_incidents",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751121359
     },
     {
       "source": {
@@ -549,7 +615,11 @@
       "urlToImage": "https://imagez.tmz.com/image/29/16by9/2025/06/27/29275d7e586d4eb189126ef9f4d871b0_xl.jpg",
       "publishedAt": "2025-06-28T07:45:59Z",
       "content": "Well, Venice can finally get back to normal now that Jeff and Lauren are hitched, and Gov. Newsom wants a ton of cash over what he says is a Trump plot. So we gotta ask ...",
-      "tags": ["regional_state", "personal_family"]
+      "tags": [
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751096759
     },
     {
       "source": {
@@ -568,7 +638,8 @@
         "legal_justice",
         "social_issues",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751134530
     },
     {
       "source": {
@@ -588,7 +659,8 @@
         "security_incidents",
         "law_enforcement",
         "civil_rights"
-      ]
+      ],
+      "publishedAtTs": 1751119200
     },
     {
       "source": {
@@ -608,7 +680,8 @@
         "taxes",
         "healthcare",
         "budget"
-      ]
+      ],
+      "publishedAtTs": 1751147484
     },
     {
       "source": {
@@ -628,7 +701,8 @@
         "foreign_policy",
         "canada",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1751110891
     },
     {
       "source": {
@@ -648,7 +722,8 @@
         "federal_courts",
         "policy_legislation",
         "religious_freedom"
-      ]
+      ],
+      "publishedAtTs": 1751069404
     },
     {
       "source": {
@@ -662,7 +737,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/image-1751107201.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-06-28T10:40:32Z",
       "content": "From negotiating with Iran to bombing its nuclear facilities and then brokering a ceasefire, Trumps erratic pivots appear to be driven more by optics than coherent diplomacy. Mainstream Western news … [+952 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751107232
     },
     {
       "source": {
@@ -682,7 +762,8 @@
         "security_intelligence",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751122592
     },
     {
       "source": {
@@ -701,7 +782,8 @@
         "middle_east",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751079760
     },
     {
       "source": {
@@ -721,7 +803,8 @@
         "security_intelligence",
         "military",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1751096768
     },
     {
       "source": {
@@ -741,7 +824,8 @@
         "iran",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1751125005
     },
     {
       "source": {
@@ -761,7 +845,8 @@
         "foreign_policy",
         "military",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751073007
     },
     {
       "source": {
@@ -781,7 +866,8 @@
         "europe",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751104970
     },
     {
       "source": {
@@ -795,7 +881,12 @@
       "urlToImage": "https://media.zenfs.com/en/france_24_english_articles_100/a6888ad6f15e91c6eee957d77889804f",
       "publishedAt": "2025-06-28T11:43:37Z",
       "content": "Record-breaking numbers of revellers are expected to turn out on the streets of Budapest on Saturday in defiance of a new law by Prime Minister Viktor Orban's ruling coalition that bans Hungary's ann… [+1233 chars]",
-      "tags": ["lgbtq_rights", "civil_rights", "europe"]
+      "tags": [
+        "lgbtq_rights",
+        "civil_rights",
+        "europe"
+      ],
+      "publishedAtTs": 1751111017
     },
     {
       "source": {
@@ -809,7 +900,12 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221649272-e1751091648412.jpg?fit=4000%2C2000&w=1200&h=800",
       "publishedAt": "2025-06-28T08:00:00Z",
       "content": "In a Friday evening vote, the U.S. Senate rejected a war powers resolution that would have blocked President Donald Trump from making further attacks on Iran, despite widespread disapproval of last w… [+4228 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1751097600
     },
     {
       "source": {
@@ -829,7 +925,8 @@
         "israel",
         "iran",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751104800
     },
     {
       "source": {
@@ -843,7 +940,12 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/06/ryan-routh-2171765918.jpg",
       "publishedAt": "2025-06-28T10:45:58Z",
       "content": "Whatever happened to the guy accused of trying to kill President Donald Trump?\r\nThere was the shooter who killed an audience member and grazed Trump at his rally in Butler, Pennsylvania last year; he… [+10137 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1751107558
     },
     {
       "source": {
@@ -863,7 +965,8 @@
         "congressional_investigations",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751122253
     },
     {
       "source": {
@@ -877,7 +980,12 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/06/zohran-mamdani-2213432355.jpg",
       "publishedAt": "2025-06-28T10:00:16Z",
       "content": "Top Republicans and Democrats alike are talking about the sudden rise of 33-year-old Zohran Mamdani, a state representative who won the Democratic mayoral primary in New York on June 24, 2025, in a s… [+6584 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1751104816
     },
     {
       "source": {
@@ -891,7 +999,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/03/jeff_bezos_2194398682.jpg",
       "publishedAt": "2025-06-28T17:04:39Z",
       "content": "Jeff Bezos and Lauren Sánchez were married this weekend in a breathtaking celebration set against the historic backdrop of Venice, Italy. The multi-day event, centered on the island of San Giorgio Ma… [+1492 chars]",
-      "tags": ["personal_family", "regional_state"]
+      "tags": [
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1751130279
     },
     {
       "source": {
@@ -905,7 +1017,12 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/06/best-of-2025-staff-picks.jpg",
       "publishedAt": "2025-06-28T21:21:20Z",
       "content": "Whether it was tooting on paper horns and slinging back champagne in a crowded bar, or watching the ball drop on TV in the comfort of home as your Postmates order from the only restaurant delivering … [+25814 chars]",
-      "tags": ["personal_family", "media_communications", "health_science"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "health_science"
+      ],
+      "publishedAtTs": 1751145680
     },
     {
       "source": {
@@ -923,7 +1040,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751097600
     },
     {
       "source": {
@@ -937,7 +1055,11 @@
       "urlToImage": "https://i.cbc.ca/1.7570429.1750867647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/composite-image-for-story-on-gun-smuggler-naomi-haynes.jpg?im=Resize%3D620",
       "publishedAt": "2025-06-28T08:00:00Z",
       "content": "Everyone knows guns used by Canadian criminals are often smuggled from the U.S. Not everyone knows how not like Naomi Haynes does. That's because she did the smuggling. \r\nA native Montrealer who's be… [+11755 chars]",
-      "tags": ["border_security", "law_enforcement"]
+      "tags": [
+        "border_security",
+        "law_enforcement"
+      ],
+      "publishedAtTs": 1751097600
     },
     {
       "source": {
@@ -957,7 +1079,8 @@
         "security_intelligence",
         "health_science",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751108135
     },
     {
       "source": {
@@ -977,7 +1100,8 @@
         "economy_finance",
         "policy_legislation",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1751104274
     },
     {
       "source": {
@@ -997,7 +1121,8 @@
         "security_intelligence",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751129850
     },
     {
       "source": {
@@ -1011,7 +1136,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685f079e26b78dd2b35d1006/0x0.png?format=png&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-28T09:00:00Z",
       "content": "For many years, the U.S. trade deficit increased but the percentage of U.S. trade that was an ... More export did also. What that meant: Relatively speaking, the United States was exporting more, as … [+6454 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1751101200
     },
     {
       "source": {
@@ -1025,7 +1155,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685fe962a7f4ddc53013c74c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-28T13:29:39Z",
       "content": "Amazon founder Jeff Bezos and former journalist Lauren Sánchez Bezos stepped out on the town Saturday after the newlyweds exchanged vows on a small Venetian island Friday, the centerpiece of what has… [+7935 chars]",
-      "tags": ["personal_family", "lifestyle", "regional_state"]
+      "tags": [
+        "personal_family",
+        "lifestyle",
+        "regional_state"
+      ],
+      "publishedAtTs": 1751117379
     },
     {
       "source": {
@@ -1045,7 +1180,8 @@
         "policy_legislation",
         "elections_politics",
         "natural_disasters"
-      ]
+      ],
+      "publishedAtTs": 1751146242
     },
     {
       "source": {
@@ -1059,7 +1195,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685fab94968f76d384aa7dca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-28T08:48:56Z",
       "content": "NEW YORK - FEBRUARY 19: The National Debt Clock is seen February 19, 2004 in New York City. ... More According to a Treasury Department report, the U.S. governments national debt, the accumulation of… [+5974 chars]",
-      "tags": ["economy_finance", "budget", "taxes"]
+      "tags": [
+        "economy_finance",
+        "budget",
+        "taxes"
+      ],
+      "publishedAtTs": 1751100536
     },
     {
       "source": {
@@ -1079,7 +1220,8 @@
         "economy_finance",
         "banking",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751111111
     },
     {
       "source": {
@@ -1099,7 +1241,8 @@
         "social_issues",
         "health_science",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1751116096
     },
     {
       "source": {
@@ -1113,7 +1256,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6860417b21d8640582196108/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-28T19:44:22Z",
       "content": "The Washington Post Building at One Franklin Square Building in Washington, DC. (Photo by Andrew ... More Harnik/Getty Images)\r\nGetty Images\r\nI didnt think Id be back writing about the troubles at Th… [+4405 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751139862
     },
     {
       "source": {
@@ -1133,7 +1281,8 @@
         "economy_finance",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1751130244
     },
     {
       "source": {
@@ -1153,7 +1302,8 @@
         "government_administration",
         "media_communications",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751119200
     },
     {
       "source": {
@@ -1171,7 +1321,8 @@
         "regional_state",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751104800
     },
     {
       "source": {
@@ -1185,7 +1336,12 @@
       "urlToImage": "https://biztoc.com/cdn/48a9863d4a007a72_s.webp",
       "publishedAt": "2025-06-28T11:05:02Z",
       "content": "Spokesperson for Iran's Islamic Revolutionary Guard Corps (IRGC), Ali Mohamad Naeini, warned United States President Donald Trump on Saturday against pursuing his \"reckless rhetoric\" against Tehran.\"… [+69 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751108702
     },
     {
       "source": {
@@ -1199,7 +1355,12 @@
       "urlToImage": "https://biztoc.com/cdn/9a6d11150ed55f96_s.webp",
       "publishedAt": "2025-06-28T16:14:36Z",
       "content": "In a newly revealed March memo, officials proposed ways to dramatically curtail the US governments disaster response role, such as by ending aid for smaller disasters and cutting housing funds for su… [+76 chars]",
-      "tags": ["government_operations", "natural_disasters", "crisis_emergency"]
+      "tags": [
+        "government_operations",
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751127276
     },
     {
       "source": {
@@ -1217,7 +1378,8 @@
         "government_operations",
         "political_endorsements",
         "media_criticism"
-      ]
+      ],
+      "publishedAtTs": 1751111352
     },
     {
       "source": {
@@ -1237,7 +1399,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751111361
     },
     {
       "source": {
@@ -1251,7 +1414,11 @@
       "urlToImage": "https://biztoc.com/cdn/12b5bb7cf12b054f_s.webp",
       "publishedAt": "2025-06-28T11:48:51Z",
       "content": "Voice is AI-generated. Inconsistencies may occur.On Friday, Robert E. McGuire, acting U.S. attorney for the Middle District of Tennessee, ruled that Kilmar Abrego Garcia should remain in jail at the … [+146 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1751111331
     },
     {
       "source": {
@@ -1270,7 +1437,8 @@
         "policy_legislation",
         "economy_finance",
         "budget"
-      ]
+      ],
+      "publishedAtTs": 1751145767
     },
     {
       "source": {
@@ -1284,7 +1452,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685fe962a7f4ddc53013c74c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-28T17:32:08Z",
       "content": "Amazon founder Jeff Bezos and former journalist Lauren Sánchez Bezos began their final day of wedding celebrations Saturday after the newlyweds exchanged vows on a small Venetian island Friday, the c… [+8092 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751131928
     },
     {
       "source": {
@@ -1303,7 +1476,8 @@
         "media_communications",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751137200
     },
     {
       "source": {
@@ -1323,7 +1497,8 @@
         "policy_legislation",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751127915
     },
     {
       "source": {
@@ -1337,7 +1512,12 @@
       "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=61115061&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
       "publishedAt": "2025-06-28T00:00:00Z",
       "content": "In the background of the Supreme Court ruling that has given states the power to block Medicaid funding for Planned Parenthood clinics is President Donald Trumps One Big Beautiful Bill Act, which cou… [+1846 chars]",
-      "tags": ["policy_legislation", "healthcare", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "healthcare",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751068800
     },
     {
       "source": {
@@ -1351,7 +1531,12 @@
       "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=61111167&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
       "publishedAt": "2025-06-28T20:00:00Z",
       "content": "On June 25, Mohamed Sabry Soliman, the man accused of throwing Molotov cocktails at a peaceful pro-Israel demonstration in Boulder, Colorado, on June 1, was indicted on 12 federal hate crime counts. … [+2562 chars]",
-      "tags": ["criminal_cases", "security_incidents", "legal_justice"]
+      "tags": [
+        "criminal_cases",
+        "security_incidents",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1751140800
     },
     {
       "source": {
@@ -1365,7 +1550,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uJwGRVSgcoqWLPxkA9mHig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/fe7097612946f5f128a6d9ab4fe1109d",
       "publishedAt": "2025-06-28T10:00:00Z",
       "content": "Spencer Platt / Getty Images\r\n Tesla shares have lost about a fifth of their value in 2025 so far\r\n<ul><li>Tesla is expected to report second-quarter deliveries data Wednesday, with analysts anticipa… [+2519 chars]",
-      "tags": ["economy_finance", "stock_market", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1751104800
     },
     {
       "source": {
@@ -1379,7 +1569,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NemrsFX0yUd8QzbNEBlkKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/832dcbf71489c1999587b44f83085969",
       "publishedAt": "2025-06-28T17:24:16Z",
       "content": "Cheniere Energy, Inc. (NYSE:LNG) is one of Goldman Sachs top energy stock picks. On June 26, Jefferies raised its price target on Cheniere Energy (NYSE:LNG) from $282 to $288, reaffirming a Buy ratin… [+1401 chars]",
-      "tags": ["economy_finance", "energy", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "energy",
+        "stock_market"
+      ],
+      "publishedAtTs": 1751131456
     },
     {
       "source": {
@@ -1393,7 +1588,13 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fR57QB2C4YwwLEhTdbeBxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/06d78a961d8784c98a1e3029e912debd",
       "publishedAt": "2025-06-28T17:24:11Z",
       "content": "Chevron Corporation (NYSE:CVX) is one of Goldman Sachs top energy stock picks. On June 27, Chevron-backed Tengizchevroil (TCO) completed its first-ever oil shipment to Germany via Russias Druzhba pip… [+1308 chars]",
-      "tags": ["economy_finance", "energy", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "energy",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1751131451
     },
     {
       "source": {
@@ -1407,7 +1608,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FY0VEvd9KcKQ5_6xgy5kZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/552243855cf1d568ddc68a573fe96e2c",
       "publishedAt": "2025-06-28T17:24:14Z",
       "content": "Antero Midstream Corporation (NYSE:AM) is one of Goldman Sachs top energy stock picks. On June 3, Morgan Stanley analyst Devin McDermott reiterated an Underweight rating on the stock. However, the an… [+1363 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1751131454
     },
     {
       "source": {
@@ -1427,7 +1632,8 @@
         "economy_finance",
         "banking",
         "small_business"
-      ]
+      ],
+      "publishedAtTs": 1751131766
     },
     {
       "source": {
@@ -1445,7 +1651,8 @@
         "technology_regulation",
         "security_intelligence",
         "cybersecurity"
-      ]
+      ],
+      "publishedAtTs": 1751131786
     },
     {
       "source": {
@@ -1459,7 +1666,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S1jdgCM2EzkZZjhHWLNDkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c93bd143e11f207b9134ce79d062cc61",
       "publishedAt": "2025-06-28T17:29:48Z",
       "content": "Affirm Holdings Inc. (NASDAQ:AFRM) is one of the best software infrastructure stocks to invest in. On June 25, Affirm Holdings announced a partnership with Shopmonkey that makes Affirm a default pay-… [+1836 chars]",
-      "tags": ["economy_finance", "small_business", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "small_business",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1751131788
     },
     {
       "source": {
@@ -1473,7 +1685,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/br2HN2pEc5JA1xqvUTXU7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/461e724d219011217a5662bfc5b8dd78",
       "publishedAt": "2025-06-28T17:24:04Z",
       "content": "Kinder Morgan, Inc. (NYSE:KMI) is one of Goldman Sachs top energy stock picks. On June 16, UBS reiterated a Buy rating and a $38 price target on the stock. The bullish stance is in response to the pr… [+1703 chars]",
-      "tags": ["economy_finance", "energy", "small_business"]
+      "tags": [
+        "economy_finance",
+        "energy",
+        "small_business"
+      ],
+      "publishedAtTs": 1751131444
     },
     {
       "source": {
@@ -1487,7 +1704,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VdkBPF4VUYlfPs1MxREorw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a00adc327f473ce91ecc6932f0daefd5",
       "publishedAt": "2025-06-28T17:23:55Z",
       "content": "Cameco Corporation (NYSE:CCJ) is one of Goldman Sachs top energy stock picks. On June 20, RBC Capital reiterated an Outperform rating on the stock. The research firm also increased its price target o… [+1588 chars]",
-      "tags": ["economy_finance", "stock_market", "energy"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "energy"
+      ],
+      "publishedAtTs": 1751131435
     },
     {
       "source": {
@@ -1507,7 +1729,8 @@
         "economy_finance",
         "stock_market",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751103679
     },
     {
       "source": {
@@ -1521,7 +1744,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bKsNHpWa1aAo81tX4xAPIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/cfc104b35c762a14f35f7a7196dc6cf5",
       "publishedAt": "2025-06-28T17:24:09Z",
       "content": "Energy Transfer LP (NYSE:ET) is one of Goldman Sachs top energy stock picks. On June 25, the company confirmed the signing of an incremental Sale and Purchase Agreement with Chevron USA through its s… [+1774 chars]",
-      "tags": ["energy", "economy_finance", "foreign_policy"]
+      "tags": [
+        "energy",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1751131449
     },
     {
       "source": {
@@ -1535,7 +1763,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6dFxJD70ttbg2OBCKjYCHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/7d42c94c2952e615089dd3d063c63b08",
       "publishedAt": "2025-06-28T09:49:12Z",
       "content": "Lam Research Corporation (NASDAQ:LRCX) is one of the 11 Unstoppable Tech Stocks to Invest in. On June 24, Cantor Fitzgerald raised the firms price target on Lam Research Corporation (NASDAQ:LRCX) fro… [+1900 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1751104152
     },
     {
       "source": {
@@ -1549,7 +1781,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/eDQSuy4Rl4B1cQeh90seXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/a9a2a5514d5ffa359e7f7212a05126bc",
       "publishedAt": "2025-06-28T05:22:53Z",
       "content": "Philip Morris International Inc. (NYSE:PM) is one of the Best Dividend Stocks of 2025.\r\nPhilip Morris International (PM) Outperformed in 2025 as Smoke-Free Growth Accelerates\r\nA man exhaling smoke fr… [+1898 chars]",
-      "tags": ["economy_finance", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751088173
     },
     {
       "source": {
@@ -1563,7 +1799,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/d6hiuhfSWIMOKtD72OdXqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4e33e0d1a07889115aefcb74e0ea299f",
       "publishedAt": "2025-06-28T05:22:05Z",
       "content": "CVS Health Corporation (NYSE:CVS) is one of the Best Dividend Stocks of 2025.\r\nCVS Health Corporation (CVS) Outpaces Broader Market with Strong 2025 Rally\r\nA row of shelves in a retail pharmacy, demo… [+1827 chars]",
-      "tags": ["economy_finance", "stock_market", "small_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "small_business"
+      ],
+      "publishedAtTs": 1751088125
     },
     {
       "source": {
@@ -1577,7 +1818,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bgMJOgF.g5CjoUjGeTYmxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/0d0cc36086bec97f9026aa6d2dbf24fb",
       "publishedAt": "2025-06-28T17:29:40Z",
       "content": "Global Payments Inc. (NYSE:GPN) is one of the best software infrastructure stocks to invest in. On June 10, Global Payments announced the launch of its new Genius for Retail solution. The powerful Po… [+1948 chars]",
-      "tags": ["small_business", "banking", "economy_finance"]
+      "tags": [
+        "small_business",
+        "banking",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751131780
     }
   ]
 }

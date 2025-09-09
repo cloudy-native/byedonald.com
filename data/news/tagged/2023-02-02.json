@@ -19,7 +19,8 @@
         "security_intelligence",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1675381617
     },
     {
       "source": {
@@ -36,7 +37,8 @@
       "tags": [
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1675381481
     },
     {
       "source": {
@@ -55,7 +57,8 @@
         "personal_family",
         "criminal_cases",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1675379892
     },
     {
       "source": {
@@ -73,7 +76,8 @@
         "elections_politics",
         "legal_justice",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1675377360
     },
     {
       "source": {
@@ -92,7 +96,8 @@
         "legal_justice",
         "social_issues",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1675375401
     },
     {
       "source": {
@@ -109,7 +114,8 @@
       "tags": [
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1675375089
     },
     {
       "source": {
@@ -127,7 +133,8 @@
         "media_communications",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1675373562
     },
     {
       "source": {
@@ -144,7 +151,8 @@
       "tags": [
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1675370498
     },
     {
       "source": {
@@ -163,7 +171,8 @@
         "legal_justice",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1675368838
     },
     {
       "source": {
@@ -181,7 +190,8 @@
         "elections_politics",
         "2028_presidential",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675367344
     },
     {
       "source": {
@@ -199,7 +209,8 @@
         "elections_politics",
         "2028_presidential",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675367275
     },
     {
       "source": {
@@ -217,7 +228,8 @@
         "elections_politics",
         "2028_presidential",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675366668
     },
     {
       "source": {
@@ -234,7 +246,8 @@
       "tags": [
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1675366420
     },
     {
       "source": {
@@ -252,7 +265,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1675365076
     },
     {
       "source": {
@@ -271,7 +285,8 @@
         "policy_legislation",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1675364323
     },
     {
       "source": {
@@ -289,7 +304,8 @@
         "economy_finance",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1675363440
     },
     {
       "source": {
@@ -307,7 +323,8 @@
         "foreign_policy",
         "china",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1675363119
     },
     {
       "source": {
@@ -324,7 +341,8 @@
       "tags": [
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675362871
     },
     {
       "source": {
@@ -343,7 +361,8 @@
         "policy_legislation",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1675362687
     },
     {
       "source": {
@@ -361,7 +380,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1675362338
     },
     {
       "source": {
@@ -379,7 +399,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1675361837
     }
   ]
 }

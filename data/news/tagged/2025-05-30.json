@@ -14,7 +14,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/0ccbf193f5872f1f30cc0b7b1735b2991620ea3dfd1a92656cf9353185e6d26a.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-30T23:59:09Z",
       "content": "WASHINGTON — U.S. President Donald Trump said he will double the tariffs on steel and aluminum imports to 50 per cent next Wednesday.\nTrump initially announced the boosted duties on steel during a rally at U.S. Steel’s Mon Valley Works–Irvin Plant ne... [4936 chars]",
-      "tags": ["economy_finance", "trade", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "government_administration"
+      ],
+      "publishedAtTs": 1748649549
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/03/5B6A4131.jpg?w=1024",
       "publishedAt": "2025-05-30T23:51:52Z",
       "content": "Long-tenured 60 Minutes correspondent Lesley Stahl is fully expecting a settlement of Donald Trump’s “frivolous” $20 billion lawsuit, but she dreads what will follow the resolution of the case.\n“I’m already beginning to think about mourning, grieving... [3452 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1748649112
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/05/stephen-miller-donald-trump.webp",
       "publishedAt": "2025-05-30T23:51:33Z",
       "content": "Top Trump administration officials are unhappy with arrest and deportation numbers and have lambasted the federal immigration officials responsible for the operation, the Washington Examiner learned.\nThree current and former federal immigration offic... [8206 chars]",
-      "tags": ["government_administration", "policy_legislation", "immigration"]
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "immigration"
+      ],
+      "publishedAtTs": 1748649093
     },
     {
       "source": {
@@ -61,7 +76,8 @@
         "immigration",
         "security_incidents",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1748649017
     }
   ]
 }

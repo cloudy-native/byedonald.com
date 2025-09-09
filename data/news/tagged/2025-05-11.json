@@ -19,7 +19,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1747007723
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/2SX5RVHD25FPNFUNQLEP5I2NNA.jpg?auth=aeb74248c729bcb98c89d0c70f2954e4b1204a6797809a6c7521957d69d5a6b6&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-05-11T23:42:59Z",
       "content": "Open this photo in gallery: A truck with vehicles crosses the Blue Water Bridge border crossing into the United States from Sarnia, Ont., on April 3.GEOFF ROBINS/AFP/Getty Images\nCanada could strengthen legal efforts in the United States to curb Dona... [5839 chars]",
-      "tags": ["trade", "legal_justice", "foreign_policy"]
+      "tags": [
+        "trade",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1747006979
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "ethics",
         "economy_finance",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1747006519
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "policy_legislation",
         "economy_finance",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1747006237
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "civil_rights",
         "racial_justice",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1747005585
     },
     {
       "source": {
@@ -106,7 +115,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213417012.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-05-11T23:18:59Z",
       "content": "CNN —\nPresident Donald Trump announced Sunday that he plans to resurrect a controversial policy from his first term that aims to reduce drug costs by basing payments for certain medicines on their prices in other countries.\nHis prior rule, called “Mo... [4203 chars]",
-      "tags": ["executive_orders", "healthcare", "economy_finance"]
+      "tags": [
+        "executive_orders",
+        "healthcare",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747005539
     },
     {
       "source": {
@@ -125,7 +139,8 @@
         "policy_legislation",
         "economy_finance",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1747005496
     },
     {
       "source": {
@@ -145,7 +160,8 @@
         "taxes",
         "small_business",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747004435
     },
     {
       "source": {
@@ -163,7 +179,8 @@
         "government_administration",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1747004400
     }
   ]
 }

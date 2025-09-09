@@ -18,7 +18,8 @@
         "government_administration",
         "personal_family",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1742255935
     },
     {
       "source": {
@@ -36,7 +37,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742255769
     },
     {
       "source": {
@@ -50,7 +52,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/2025-03-17T192440Z_10422406_RC27FDAF7O6M_RTRMADP_3_USA-TRUMP-e1742254644911.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-03-17T23:55:38Z",
       "content": "Here’s hoping it was just a passing vent, and President Trump isn’t going to waste his time and energy (and the nation’s) warring with the (thankfully defunct) House Select Committee on Jan. 6.\nIn the wee hours Monday, Trump posted on Truth Social th... [1507 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1742255738
     },
     {
       "source": {
@@ -68,7 +75,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1742255619
     },
     {
       "source": {
@@ -82,7 +90,13 @@
       "urlToImage": "https://images.7news.com.au/publication/C-18074374/e71f9f006833d00de21fb71afa56cccb7a9f29f4-16x9-x0y252w4850h2728.jpg?imwidth=1200",
       "publishedAt": "2025-03-17T23:51:25Z",
       "content": "The hit to the Australian economy from US President Donald Trump’s tariffs on steel and aluminium will be manageable, Treasurer Dr Jim Chalmers says.\nThe tariff is a tax on imports into the US, increasing the price to make it less competitive against... [2413 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1742255485
     }
   ]
 }

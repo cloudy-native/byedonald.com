@@ -14,7 +14,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/08/09/9a756873-e993-4a6e-9400-738ec4c034e0/thumbnail/1200x630g1/de870497443ae681ff3773e47ab052c6/gettyimages-1584982470.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
       "publishedAt": "2023-08-09T23:49:00Z",
       "content": "Washington — A newly revealed memo authored by a Trump-allied attorney laid out a sweeping strategy for organizing Trump supporters to serve as fake electors in the wake of the 2020 election, shining new light on the origins of an alleged scheme that... [7076 chars]",
-      "tags": ["elections_politics", "legal_justice", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1691624940
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-08/230801-fani-willis-mjf-1029-e07b16.jpg",
       "publishedAt": "2023-08-09T23:17:45Z",
       "content": "Donald Trump is airing a television ad in Atlanta, and other TV markets, that attacks the Fulton County district attorney who could soon charge the former president with his fourth criminal indictment.\nA Trump campaign aide told NBC News the one-minu... [2786 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691623065
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2267755/evangelicals-rejecting-jesus-teachings-liberal-talking-points.jpg",
       "publishedAt": "2023-08-09T23:17:37Z",
       "content": "An evangelical leader is warning that conservative Christians are now rejecting the teachings of Jesus as \"liberal talking points.\"\nRussell Moore, former top official for the Southern Baptist Convention (SBC) who is now the editor-in-chief of Christi... [2883 chars]",
-      "tags": ["social_issues", "religious_freedom", "elections_politics"]
+      "tags": [
+        "social_issues",
+        "religious_freedom",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691623057
     },
     {
       "source": {
@@ -56,7 +71,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDhcXFwvMTAwOTI0MTlcXFwvOTdkZGU3YmJkZGE1NDE2NTljZGYzZmEzOTkzMzg5NzkuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxYTMxYjUzNjg5M2I0M2FjODcyNjNlZjBiNmFlZDM5YjAzNThhNDc2In0=/trump-says-he-will-not-sign-loyalty-pledge-despite-republican-debate-requirement.jpg",
       "publishedAt": "2023-08-09T23:00:00Z",
       "content": "Former US president Donald Trump has said he will not sign a pledge to support the eventual nominee if he loses the Republican presidential primary.\nHis refusal to sign such a plede directly flouts a requirement for appearing in the first Republican ... [3248 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1691622000
     },
     {
       "source": {
@@ -70,7 +89,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDhcXFwvMDcyMDM2MTZcXFwvYTg3NzVjNmM0MTJkNDE2M2JiY2M0MjRjZWJjMDExY2EtZTE2OTE0NDAxNDEzNzMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNzIwNmQyNzNmMDI2YjFjNTNjMDBlZjJjNWRlNjYxNTI2ZmEzMGVjIn0=/donald-trump-s-aides-set-to-enter-pleas-in-us-classified-documents-case.jpg",
       "publishedAt": "2023-08-09T23:00:00Z",
       "content": "Two aides to Donald Trump are set to enter pleas in federal court in Florida on Thursday in a case accusing the former US president of unlawfully taking classified documents with him after leaving office and misleading investigators who sought to ret... [2585 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1691622000
     },
     {
       "source": {
@@ -89,7 +113,8 @@
         "florida",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1691621810
     },
     {
       "source": {
@@ -103,7 +128,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240131103405-aotm-001-iowa-republicans-donald-trump-2024.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-09T22:03:22Z",
       "content": "Watch John King’s full report from Iowa on CNN’s “Anderson Cooper 360” at 8 p.m. ET.\nWaterloo, Iowa CNN —\nThe homes are nearly identical, dotting both sides of the curvy road in a middle-class subdivision. But one stands out: 10 solar panels newly at... [10449 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1691618602
     },
     {
       "source": {
@@ -117,7 +147,10 @@
       "urlToImage": "https://images.wsj.net/im-832579/social",
       "publishedAt": "2023-08-09T21:56:00Z",
       "content": "Wonder Land: As if Trump-Biden weren’t enough, two of the U.S.’s most prominent CEOs may actually duke it out. Images: AFP/Getty Images Composite: Mark Kelly\nTo debate, or not to debate, that is the question. Donald Trump is asking, like the prince o... [263 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691618160
     },
     {
       "source": {
@@ -131,7 +164,12 @@
       "urlToImage": "https://images.wsj.net/im-832501/social",
       "publishedAt": "2023-08-09T21:55:00Z",
       "content": "Daniel Henninger's weekly column, “Wonder Land,” appears in The Wall Street Journal each Thursday.\nMr. Henninger was a finalist for a Pulitzer Prize in editorial writing in 1987 and 1996, and shared in the Journal's Pulitzer Prize in 2002 for the pap... [541 chars]",
-      "tags": ["media_communications", "social_issues", "personal_family"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691618100
     },
     {
       "source": {
@@ -145,7 +183,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_51_19_0419949.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-09T21:47:54Z",
       "content": "A conservative legal group on Wednesday urged a U.S. anti-discrimination agency to investigate Kellogg Co over workplace diversity policies that it says are unlawful, and accused the cereal maker of sexualizing its products.\nThis is the second compla... [2140 chars]",
-      "tags": ["social_issues", "legal_justice", "media_communications"]
+      "tags": [
+        "social_issues",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691617674
     },
     {
       "source": {
@@ -159,7 +202,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RJAf2Fb3bEIMTcjqyRxxeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/82d2a7e0-36dd-11ee-8f3e-8fa3373b0767",
       "publishedAt": "2023-08-09T21:14:40Z",
       "content": "Former President Donald Trump at a campaign rally in Windham, N.H., on Tuesday. (Robert F. Bukaty/AP)\nFormer President Donald Trump lashed out at Fulton County, Ga., District Attorney Fani Willis at a campaign rally on Tuesday, baselessly accusing he... [4087 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1691615680
     },
     {
       "source": {
@@ -178,7 +226,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1691615405
     },
     {
       "source": {
@@ -192,7 +241,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/29a843589bc767595554a6626c4d47de70ecfc9f/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c3ccc81399598d635b5c7cbbeadb407",
       "publishedAt": "2023-08-09T21:03:58Z",
       "content": "Lawyers for Donald Trump asked a federal judge on Wednesday to approve the re-establishment of an ultra-secure facility at his Mar-a-Lago club to review classified documents produced to him in discovery, an audacious request without precedent in nati... [3355 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1691615038
     },
     {
       "source": {
@@ -206,7 +260,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/4ztCRYtUIIbk5hgFD4FgyMcvNkk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/26B2MZQJRFJW3PAYQJ7TNDCIUE.JPG",
       "publishedAt": "2023-08-09T20:26:06Z",
       "content": "The thought of a rematch between Donald Trump and Joe Biden in 2024 mangles the mind. Will one of them be running from a jail cell, the other from a convalescent home?\nDotage-plagued Joe makes 80 look more like the new 90. Democrats fear he’ll do a f... [4283 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691612766
     },
     {
       "source": {
@@ -225,7 +284,8 @@
         "doj_actions",
         "criminal_cases",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1691611897
     },
     {
       "source": {
@@ -239,7 +299,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/oavMvBNGVE2Rl2Fp4y1PZYQ3OXg=/0x119:5408x2950/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24840518/1579471628.jpg",
       "publishedAt": "2023-08-09T19:35:00Z",
       "content": "Former President Donald Trump’s legal defense against federal criminal charges for trying to overturn the 2020 election is beginning to take shape.\nDuring a speech in New Hampshire Tuesday, Trump argued, as his lawyers have in recent days, that his s... [7817 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691609700
     },
     {
       "source": {
@@ -253,7 +318,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.3343%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_246%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e139b6830f092720cea3760ffad46f6c7f2d302a",
       "publishedAt": "2023-08-09T19:21:49Z",
       "content": "‘Evidence of criminal offences’\nMr Trump was indicted on August 1 on felony charges alleging he conspired to obstruct the election. He has pleaded not guilty.\nA spokesman for Mr Smith declined to comment on the opinion. Representatives of X and Mr Tr... [2366 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691608909
     },
     {
       "source": {
@@ -267,7 +337,12 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6512295.1691607629!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
       "publishedAt": "2023-08-09T19:01:19Z",
       "content": "Alanna Durkin Richer, The Associated Press\nSpecial counsel Jack Smith's team obtained a search warrant in January for records related to former President Donald Trump's Twitter account, and a judge levied a $350,000 fine on the company for missing th... [4587 chars]",
-      "tags": ["legal_justice", "doj_actions", "congressional_investigations"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "congressional_investigations"
+      ],
+      "publishedAtTs": 1691607679
     },
     {
       "source": {
@@ -281,7 +356,11 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-08-11/l_1099000_021314_updates.jpg",
       "publishedAt": "2023-08-09T19:00:00Z",
       "content": "Walt Nauta, Donald Trump’s personal aide, helps him with a shirt during LIV Golf’s pro-am tournament at Trump National Golf Club in Sterling, Va. on May 25, 2023. Nauta, the only other person indicted along with... seattletimes.com\nFormer President D... [2160 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1691607600
     },
     {
       "source": {
@@ -295,7 +374,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/05/07/c295149b-4a74-4c15-a0bf-2fcdaf17c078/thumbnail/1200x630/12897e77b2d0e5a5c1254d3966a89d0c/download.jpg?v=08aa43fa812a9e12e93282c47f58b17f",
       "publishedAt": "2023-08-09T18:56:00Z",
       "content": "Washington — Special counsel Jack Smith obtained a search warrant for information about former President Donald Trump's Twitter account earlier this year as part of his investigation into the aftermath of the 2020 election, court records unsealed Wed... [3258 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1691607360
     },
     {
       "source": {
@@ -309,7 +393,10 @@
       "urlToImage": "https://i.guim.co.uk/img/media/bfe2fba689d43dfc24b8754b614e113233c4e280/0_49_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=548fa13811b9f263b41b4127d0ae2ee6",
       "publishedAt": "2023-08-09T18:39:21Z",
       "content": "A respected conservative judge who advised the former Republican vice-president Mike Pence not to attempt to overturn the 2020 election believes Donald Trump has destroyed the Republican party.\n“American democracy simply cannot function without two e... [2883 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691606361
     },
     {
       "source": {
@@ -328,7 +415,8 @@
         "doj_actions",
         "media_communications",
         "social_media"
-      ]
+      ],
+      "publishedAtTs": 1691605800
     },
     {
       "source": {
@@ -342,7 +430,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_08_2023_18_26_11_5959517.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-09T18:26:13Z",
       "content": "Vivek Ramaswamy, the Indian-American lawmaker who is set to contest against former President Donald Trump in the 2024 elections, has called China the “biggest threat” that the US faces and said that he would go for “total de-coupling” with Beijing if... [3950 chars]",
-      "tags": ["foreign_policy", "china", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1691605573
     },
     {
       "source": {
@@ -360,7 +453,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1691604108
     }
   ]
 }

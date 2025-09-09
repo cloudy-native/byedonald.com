@@ -20,7 +20,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1747266922
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "legal_justice",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1747265943
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/20/b20188b5-3230-584f-807e-34ef76e01efa/682529d1c9c97.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-05-14T23:37:54Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["foreign_policy", "africa", "government_administration"]
+      "tags": [
+        "foreign_policy",
+        "africa",
+        "government_administration"
+      ],
+      "publishedAtTs": 1747265874
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "government_administration",
         "federal_agencies",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1747265752
     },
     {
       "source": {
@@ -90,7 +98,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1747265285
     },
     {
       "source": {
@@ -110,7 +119,8 @@
         "legal_justice",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1747264958
     },
     {
       "source": {
@@ -129,7 +139,8 @@
         "military",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747264900
     },
     {
       "source": {
@@ -149,7 +160,8 @@
         "legal_justice",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1747263600
     },
     {
       "source": {
@@ -169,7 +181,8 @@
         "racial_justice",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1747263600
     }
   ]
 }

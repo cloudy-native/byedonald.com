@@ -14,7 +14,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.1765%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_30/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/23cc2683c684ac4fd02de23b4f5be507dcd2defd",
       "publishedAt": "2023-06-25T23:54:14Z",
       "content": "US Secretary of State Antony Blinken met China’s President Xi Jinping last week as the two superpowers agreed to rebuild communications.\nPresident Xi has reportedly ordered China’s military to be ready to take Taiwan by force by the next National Con... [3715 chars]",
-      "tags": ["foreign_policy", "china", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1687737254
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMjYwNDI3MTlcXFwvOWE3MTg1YWFkNmJjNDkzYzg3OTdkODAyY2Q2OTg2MzIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmZTU2MzkwMjBlYTRmM2QzNGI0MjFmNTU0NzQ3ZWU3ZjMzNzQwMTM5In0=/trump-calls-biden-a-catastrophe-in-bid-to-reclaim-lost-support-in-michigan.jpg",
       "publishedAt": "2023-06-25T23:00:00Z",
       "content": "Donald Trump looked to reclaim territory that helped propel him to the White House but slipped from his grasp four years later when he appeared in Michigan on Sunday.\nCampaigning for a return to the presidency while facing a federal indictment for al... [2965 chars]",
-      "tags": ["elections_politics", "2028_presidential", "campaign_finance"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "campaign_finance"
+      ],
+      "publishedAtTs": 1687734000
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/poyer_trump_comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-25T22:28:26Z",
       "content": "A Buffalo Bills player has canceled his charity golf tournament at one of Donald Trump’s courses in Florida, saying “numerous teams up north” pulled out because of the presidential contender’s politics.\n“I was really excited for this tournament,” sai... [3422 chars]",
-      "tags": ["personal_family", "florida", "regional_state"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1687732106
     },
     {
       "source": {
@@ -56,7 +71,12 @@
       "urlToImage": "https://images.wsj.net/im-805226/social",
       "publishedAt": "2023-06-25T20:57:00Z",
       "content": "In an interview with 'Fox News Sunday' on June 11, 2023, former Attorney General William Barr rejected claims that Donald Trump's indictment is a continuation of the 'witch-hunt' that plagued his presidency. Images: AP/AFP/Getty Images Composite: Mar... [501 chars]",
-      "tags": ["legal_justice", "free_speech", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "free_speech",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1687726620
     },
     {
       "source": {
@@ -76,7 +96,8 @@
         "policy_legislation",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1687718066
     },
     {
       "source": {
@@ -95,7 +116,8 @@
         "legal_justice",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1687717175
     },
     {
       "source": {
@@ -109,7 +131,12 @@
       "urlToImage": "https://e3.365dm.com/23/06/1600x900/skynews-donald-trump-election_6198709.jpg?20230625171030",
       "publishedAt": "2023-06-25T17:44:00Z",
       "content": "Donald Trump has widened his lead over his nearest Republican rival in the race to be the party's US presidential candidate despite his mounting legal troubles, according to a new NBC News poll.\nMr Trump is seeking to run for the White House again at... [2278 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_legal"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1687715040
     },
     {
       "source": {
@@ -123,7 +150,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/trumpdonald_062423gn43_w.jpg?w=1280",
       "publishedAt": "2023-06-25T14:08:25Z",
       "content": "Former President Trump expanded his lead over the GOP presidential field following his federal indictment earlier this month, with over half of Republican primary voters now saying in a survey that the former president would be their first choice for... [2499 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1687702105
     },
     {
       "source": {
@@ -137,7 +168,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230624185536-biden-trump-split-0624.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-06-25T14:00:32Z",
       "content": "CNN —\nThe 2024 presidential primaries are in full swing. President Joe Biden is the overhelming favorite for the Democratic nomination. Former President Donald Trump remains the clear front-runner for the Republican nod.\nThis puts a lot of Americans ... [4383 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1687701632
     },
     {
       "source": {
@@ -155,7 +190,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687698361
     },
     {
       "source": {
@@ -175,7 +211,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1687698361
     },
     {
       "source": {
@@ -189,7 +226,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230623-NBC-Poll-Main-jg-76b5e0.jpg",
       "publishedAt": "2023-06-25T13:00:41Z",
       "content": "Former President Donald Trump has expanded his lead over Florida Gov. Ron DeSantis and the rest of the Republican presidential field since Trump’s latest indictment on federal criminal charges, according to a new national NBC News poll.\nStill, the su... [7399 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687698041
     },
     {
       "source": {
@@ -208,7 +250,8 @@
         "media_communications",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1687695032
     },
     {
       "source": {
@@ -222,7 +265,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/trumpdonald_122118_ap_trump-first-step.jpg?w=1280",
       "publishedAt": "2023-06-25T10:00:00Z",
       "content": "When then-President Trump signed the First Step Act into law in December 2018, he hailed it as “an incredible success for our country.”\nBut in an interview with Fox News this week, Trump struggled to reconcile his support for that criminal justice re... [6191 chars]",
-      "tags": ["legal_justice", "policy_legislation", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1687687200
     },
     {
       "source": {
@@ -236,7 +284,12 @@
       "urlToImage": "https://images.thestarimages.com/x1__noKyKFquDpTsCPLVrR891vg=/1280x1024/smart/filters:cb(1687694445576):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2023/06/25/trump-is-returning-to-michigan-with-hopes-of-repeating-the-battleground-success-he-found-in-2016/20230625070656-64982b62bfaf84268ddd5c5fjpeg.jpg",
       "publishedAt": "2023-06-25T07:00:00Z",
       "content": "LANSING, Mich. (AP) — Donald Trump is set to appear in Michigan on Sunday as he looks to reclaim territory that helped propel him to the White House but slipped from his grasp four years later.\nCampaigning for a return to the presidency while facing ... [4998 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1687676400
     },
     {
       "source": {
@@ -256,7 +309,8 @@
         "elections_politics",
         "personal_legal",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687674660
     },
     {
       "source": {
@@ -275,7 +329,8 @@
         "elections_politics",
         "policy_legislation",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1687666950
     },
     {
       "source": {
@@ -295,7 +350,8 @@
         "legal_justice",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1687666122
     },
     {
       "source": {
@@ -309,7 +365,12 @@
       "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/2caYsDs3REHlTp9sB9MHg-z4mC4=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/QQKM4KHLYLWDYVKUUGHORN4QOE.jpg",
       "publishedAt": "2023-06-25T04:00:00Z",
       "content": "In a statement, Brad Raffensperger, the Georgia secretary of state whom Trump tried to pressure into overturning Joe Biden’s victory in that state in 2020, said, “False claims and knowingly false allegations made against these election workers have d... [4857 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687665600
     },
     {
       "source": {
@@ -323,7 +384,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/MARMBfxz9iwwdu9_Vx93y9ZbVUg=/1200x630/filters:format(jpg):quality(70):focal(3956x949:3966x959)/cloudfront-us-east-1.images.arcpublishing.com/tronc/F4HBOLGKZDACHDWFMZYWDET5SU.jpg",
       "publishedAt": "2023-06-25T02:17:38Z",
       "content": "Donald Trump drew wild applause Saturday as the keynote speaker at a conference of politically conservative evangelical leaders.\n“As we gather today, our beloved nation is teetering on the edge of tyranny,” Trump said when he took the mic at the Fait... [2774 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687659458
     },
     {
       "source": {
@@ -343,7 +409,8 @@
         "policy_legislation",
         "legal_justice",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1687658342
     }
   ]
 }

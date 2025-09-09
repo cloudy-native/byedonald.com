@@ -17,7 +17,8 @@
       "tags": [
         "social_issues",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756463400
     },
     {
       "source": {
@@ -34,7 +35,8 @@
       "tags": [
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756472148
     },
     {
       "source": {
@@ -51,7 +53,8 @@
       "tags": [
         "legal_justice",
         "lawsuits"
-      ]
+      ],
+      "publishedAtTs": 1756482648
     },
     {
       "source": {
@@ -68,7 +71,8 @@
       "tags": [
         "health_science",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1756494959
     },
     {
       "source": {
@@ -85,7 +89,8 @@
       "tags": [
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756471815
     },
     {
       "source": {
@@ -103,7 +108,8 @@
         "security_intelligence",
         "presidential_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756491321
     },
     {
       "source": {
@@ -123,7 +129,8 @@
         "nato",
         "russia",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1756457493
     },
     {
       "source": {
@@ -141,7 +148,8 @@
         "government_administration",
         "public_health",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1756510652
     },
     {
       "source": {
@@ -159,7 +167,8 @@
         "security_intelligence",
         "technology_regulation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756462393
     },
     {
       "source": {
@@ -177,7 +186,8 @@
         "doj_actions",
         "legal_justice",
         "personnel"
-      ]
+      ],
+      "publishedAtTs": 1756482507
     },
     {
       "source": {
@@ -195,7 +205,8 @@
         "trade",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756505740
     },
     {
       "source": {
@@ -213,7 +224,8 @@
         "trade",
         "economy_finance",
         "small_business"
-      ]
+      ],
+      "publishedAtTs": 1756432408
     },
     {
       "source": {
@@ -231,7 +243,8 @@
         "environment",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1756461600
     },
     {
       "source": {
@@ -248,7 +261,8 @@
       "tags": [
         "elections_politics",
         "redistricting"
-      ]
+      ],
+      "publishedAtTs": 1756504383
     },
     {
       "source": {
@@ -266,7 +280,8 @@
         "criminal_cases",
         "law_enforcement",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756445300
     },
     {
       "source": {
@@ -280,7 +295,8 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5192x2921+0+188/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F00%2Febd6773e47a39aa15b7dcc61c8c7%2Fgettyimages-2228577368.jpg",
       "publishedAt": "2025-08-29T09:00:00Z",
       "content": "Former Mississippi Gov. Haley Barbour stands before a wall-sized satellite image of Hurricane Katrina as it headed for landfall on Aug. 29, 2005.\r\n\"The eye came in right there over the Pearl River, w… [+11411 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756458000
     },
     {
       "source": {
@@ -296,7 +312,8 @@
       "content": "\"Remember, extremism in the nondefense of moderation is not a virtue.\"\r\n-- Peter Neumann, about usenet",
       "tags": [
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756483260
     },
     {
       "source": {
@@ -315,7 +332,8 @@
         "ukraine",
         "military",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1756442453
     },
     {
       "source": {
@@ -332,7 +350,8 @@
       "tags": [
         "presidential_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756468843
     },
     {
       "source": {
@@ -349,7 +368,8 @@
       "tags": [
         "economy_finance",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1756465360
     },
     {
       "source": {
@@ -368,7 +388,8 @@
         "latin_america",
         "security_intelligence",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1756440273
     },
     {
       "source": {
@@ -388,7 +409,8 @@
         "ukraine",
         "nato",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1756453609
     },
     {
       "source": {
@@ -406,7 +428,8 @@
         "technology_regulation",
         "artificial_intelligence",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756458526
     },
     {
       "source": {
@@ -424,7 +447,8 @@
         "foreign_policy",
         "budget",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756489103
     },
     {
       "source": {
@@ -441,7 +465,8 @@
       "tags": [
         "government_administration",
         "security_clearances"
-      ]
+      ],
+      "publishedAtTs": 1756485120
     },
     {
       "source": {
@@ -459,7 +484,8 @@
         "legal_justice",
         "law_enforcement",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1756431327
     },
     {
       "source": {
@@ -476,7 +502,8 @@
       "tags": [
         "trade",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756504725
     },
     {
       "source": {
@@ -492,7 +519,8 @@
       "content": "An exhibit at the United States Holocaust Memorial Museum that takes a critical look at the United States' response to Nazi Germany is slated to temporarily close after Labor Day for upgrades, sparki… [+7451 chars]",
       "tags": [
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756492005
     },
     {
       "source": {
@@ -510,7 +538,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756487537
     },
     {
       "source": {
@@ -526,7 +555,8 @@
       "content": "<ul><li>Trump cuts billions of foreign aid money\r\n</li><li>Trump revokes Kamala Harris Secret Service detail extended by Biden\r\n</li><li>White House names acting director of CDC as Monarez still prot… [+4455 chars]",
       "tags": [
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756489085
     },
     {
       "source": {
@@ -543,7 +573,8 @@
       "tags": [
         "personal_family",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756498788
     },
     {
       "source": {
@@ -557,7 +588,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e3f819f6-6e50-40ee-b818-3c40005ad6e6/250829_abc_social_taylor_swift4_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-29T21:32:15Z",
       "content": "<ul><li>Trump cuts billions of foreign aid money\r\n</li><li>Powerball jackpot hits $1B for Labor Day weekend drawing\r\n</li><li>Judge requests more briefings in case challenging Trump's firing of Lisa … [+4537 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756503135
     },
     {
       "source": {
@@ -576,7 +608,8 @@
         "elections_politics",
         "regional_state",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1756487266
     },
     {
       "source": {
@@ -593,7 +626,8 @@
       "tags": [
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756460931
     },
     {
       "source": {
@@ -610,7 +644,8 @@
       "tags": [
         "security_incidents",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756456811
     },
     {
       "source": {
@@ -627,7 +662,8 @@
       "tags": [
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756455349
     },
     {
       "source": {
@@ -645,7 +681,8 @@
         "government_administration",
         "public_health",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756483181
     },
     {
       "source": {
@@ -662,7 +699,8 @@
       "tags": [
         "cryptocurrency",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1756496723
     },
     {
       "source": {
@@ -679,7 +717,8 @@
       "tags": [
         "economy_finance",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1756499400
     },
     {
       "source": {
@@ -697,7 +736,8 @@
         "media_communications",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1756477856
     },
     {
       "source": {
@@ -713,7 +753,8 @@
       "content": "The CDC and FDA issued a recall notice on Thursday, warning consumers about brown eggs that have been linked to a salmonella outbreak in 14 states. The eggs, sourced from Country Eggs of Lucerne Vall… [+3372 chars]",
       "tags": [
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1756473937
     },
     {
       "source": {
@@ -731,7 +772,8 @@
         "elections_politics",
         "legal_justice",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756487760
     },
     {
       "source": {
@@ -745,7 +787,8 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/3q4GcJ37ysJ_MC9JLw4PTgRX4Jc=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_28_dept_labor/original.jpg",
       "publishedAt": "2025-08-29T21:00:00Z",
       "content": "How many members of Congress, federal judges, governors, attorneys general, and other federal and state leaders have submitted home-loan applications with falsehoods in them?Too many, I think, to mak… [+6865 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756501200
     },
     {
       "source": {
@@ -763,7 +806,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1756489560
     },
     {
       "source": {
@@ -781,7 +825,8 @@
         "foreign_policy",
         "ukraine",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1756461600
     },
     {
       "source": {
@@ -798,7 +843,8 @@
       "tags": [
         "personal_family",
         "health"
-      ]
+      ],
+      "publishedAtTs": 1756484100
     },
     {
       "source": {
@@ -815,7 +861,8 @@
       "tags": [
         "economy_finance",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1756467000
     },
     {
       "source": {
@@ -833,7 +880,8 @@
         "foreign_policy",
         "ukraine",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1756489758
     },
     {
       "source": {
@@ -851,7 +899,8 @@
         "natural_disasters",
         "climate_policy",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1756463400
     },
     {
       "source": {
@@ -865,7 +914,8 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/7cd65996d90e573a/original/2508_SQ_FRI_KATRINA_ANNIVERSARY-Podcast-Span-Art.jpeg?m=1756411789.808&w=1200",
       "publishedAt": "2025-08-29T10:00:00Z",
       "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nTwenty years ago, Hurricane Katrina became one of the deadliest storms ever to hit the U.S. After sweeping along the Gu… [+22276 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756461600
     },
     {
       "source": {
@@ -883,7 +933,8 @@
         "foreign_policy",
         "budget",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756475565
     },
     {
       "source": {
@@ -901,7 +952,8 @@
         "elections_politics",
         "legal_justice",
         "campaign_finance"
-      ]
+      ],
+      "publishedAtTs": 1756489213
     },
     {
       "source": {
@@ -919,7 +971,8 @@
         "elections_politics",
         "political_endorsements",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1756447034
     },
     {
       "source": {
@@ -936,7 +989,8 @@
       "tags": [
         "government_administration",
         "budget"
-      ]
+      ],
+      "publishedAtTs": 1756477976
     },
     {
       "source": {
@@ -953,7 +1007,8 @@
       "tags": [
         "social_issues",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1756465772
     },
     {
       "source": {
@@ -971,7 +1026,8 @@
         "elections_politics",
         "republican_party",
         "2026_midterms"
-      ]
+      ],
+      "publishedAtTs": 1756483900
     },
     {
       "source": {
@@ -989,7 +1045,8 @@
         "natural_disasters",
         "regional_state",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1756476347
     },
     {
       "source": {
@@ -1007,7 +1064,8 @@
         "trade",
         "foreign_policy",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756504164
     },
     {
       "source": {
@@ -1024,7 +1082,8 @@
       "tags": [
         "technology_regulation",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756459994
     },
     {
       "source": {
@@ -1038,7 +1097,8 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2025/05/mib_2025.png",
       "publishedAt": "2025-08-29T13:00:41Z",
       "content": "This week, I speak with Mark Zandi, chief economist of Moodys Analytics, a subsidiary of Moodys Corp. Dr. Zandi is a cofounder of Economy.com, which Moodys purchased in 2005. He currently hosts the I… [+1195 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756472441
     },
     {
       "source": {
@@ -1055,7 +1115,8 @@
       "tags": [
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756468207
     },
     {
       "source": {
@@ -1073,7 +1134,8 @@
         "economy_finance",
         "trade",
         "automotive"
-      ]
+      ],
+      "publishedAtTs": 1756437900
     },
     {
       "source": {
@@ -1090,7 +1152,8 @@
       "tags": [
         "economy_finance",
         "prices"
-      ]
+      ],
+      "publishedAtTs": 1756463449
     },
     {
       "source": {
@@ -1107,7 +1170,8 @@
       "tags": [
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756479600
     },
     {
       "source": {
@@ -1123,7 +1187,8 @@
       "content": "According to comedy industry insiders, Saturday Night Live is weighing a second attempt at winning over the Manosphere audience. Apparently, the Shane Gillis incident didnt completely turn SNL off of… [+3263 chars]",
       "tags": [
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756495800
     },
     {
       "source": {
@@ -1141,7 +1206,8 @@
         "government_administration",
         "personnel",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1756498223
     },
     {
       "source": {
@@ -1159,7 +1225,8 @@
         "public_health",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1756436359
     },
     {
       "source": {
@@ -1178,7 +1245,8 @@
         "personnel",
         "ethics",
         "security_clearances"
-      ]
+      ],
+      "publishedAtTs": 1756484712
     },
     {
       "source": {
@@ -1198,7 +1266,8 @@
         "civil_rights",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756507013
     },
     {
       "source": {
@@ -1216,7 +1285,8 @@
         "immigration",
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756488526
     },
     {
       "source": {
@@ -1233,7 +1303,8 @@
       "tags": [
         "immigration",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756468714
     },
     {
       "source": {
@@ -1251,7 +1322,8 @@
         "criminal_cases",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756474333
     },
     {
       "source": {
@@ -1269,7 +1341,8 @@
         "criminal_cases",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756477373
     },
     {
       "source": {
@@ -1283,7 +1356,8 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/image-1756478270.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-08-29T14:45:00Z",
       "content": "Donald Trump pledges more deals like Intel stake, worrying business community.The US has taken a stake in Intel chipmaker as part of a push to secure domestic production and reduce reliance on China.… [+515 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756478700
     },
     {
       "source": {
@@ -1302,7 +1376,8 @@
         "foreign_policy",
         "china",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1756469881
     },
     {
       "source": {
@@ -1319,7 +1394,8 @@
       "tags": [
         "legal_justice",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1756492074
     },
     {
       "source": {
@@ -1338,7 +1414,8 @@
         "presidential_security",
         "elections_politics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1756479465
     },
     {
       "source": {
@@ -1356,7 +1433,8 @@
         "trade",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756506672
     },
     {
       "source": {
@@ -1374,7 +1452,8 @@
         "government_administration",
         "healthcare",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1756427029
     },
     {
       "source": {
@@ -1392,7 +1471,8 @@
         "crisis_emergency",
         "natural_disasters",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756473389
     },
     {
       "source": {
@@ -1410,7 +1490,8 @@
         "foreign_policy",
         "budget",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1756487820
     },
     {
       "source": {
@@ -1428,7 +1509,8 @@
         "redistricting",
         "elections_politics",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1756496606
     },
     {
       "source": {
@@ -1446,7 +1528,8 @@
         "energy",
         "environment",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1756508604
     },
     {
       "source": {
@@ -1463,7 +1546,8 @@
       "tags": [
         "foreign_policy",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1756433864
     },
     {
       "source": {
@@ -1481,7 +1565,8 @@
         "trade",
         "foreign_policy",
         "brazil"
-      ]
+      ],
+      "publishedAtTs": 1756483949
     },
     {
       "source": {
@@ -1499,7 +1584,8 @@
         "social_issues",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756475947
     },
     {
       "source": {
@@ -1517,7 +1603,8 @@
         "china",
         "brazil",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756444222
     },
     {
       "source": {
@@ -1535,7 +1622,8 @@
         "foreign_policy",
         "china",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756452982
     },
     {
       "source": {
@@ -1554,7 +1642,8 @@
         "russia",
         "sanctions",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1756495779
     },
     {
       "source": {
@@ -1570,7 +1659,8 @@
       "content": "The administration of US President Donald Trump has announced it is denying and revoking visas for members of the Palestine Liberation Organization (PLO) and the Palestinian Authority (PA) before the… [+3092 chars]",
       "tags": [
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756480306
     },
     {
       "source": {
@@ -1588,7 +1678,8 @@
         "trade",
         "economy_finance",
         "labor"
-      ]
+      ],
+      "publishedAtTs": 1756446116
     },
     {
       "source": {
@@ -1607,7 +1698,8 @@
         "iran",
         "sanctions",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1756425877
     },
     {
       "source": {
@@ -1627,7 +1719,8 @@
         "china",
         "iran",
         "sanctions"
-      ]
+      ],
+      "publishedAtTs": 1756476401
     },
     {
       "source": {
@@ -1644,7 +1737,8 @@
       "tags": [
         "trade",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756438005
     },
     {
       "source": {
@@ -1661,7 +1755,8 @@
       "tags": [
         "personnel",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756501020
     },
     {
       "source": {
@@ -1679,7 +1774,8 @@
         "foreign_policy",
         "russia",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756468358
     },
     {
       "source": {
@@ -1696,7 +1792,8 @@
       "tags": [
         "foreign_policy",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1756482216
     },
     {
       "source": {
@@ -1713,7 +1810,8 @@
       "tags": [
         "elections_politics",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1756468358
     },
     {
       "source": {
@@ -1730,7 +1828,8 @@
       "tags": [
         "elections_politics",
         "democratic_party"
-      ]
+      ],
+      "publishedAtTs": 1756482216
     },
     {
       "source": {
@@ -1749,7 +1848,8 @@
         "foreign_policy",
         "gaza",
         "campaign_finance"
-      ]
+      ],
+      "publishedAtTs": 1756463400
     }
   ]
 }

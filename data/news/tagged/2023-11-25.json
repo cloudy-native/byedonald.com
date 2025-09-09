@@ -14,7 +14,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/AP091020043559-1.jpeg?w=1280",
       "publishedAt": "2023-11-25T23:16:18Z",
       "content": "Veteran Univision anchor Jorge Ramos ripped his network over an interview with former President Trump this month he dubbed too “friendly.”\nRamos wrote in a column that the interview “put in doubt the independence of our news department,” and remarked... [2753 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1700954178
     },
     {
       "source": {
@@ -28,7 +32,10 @@
       "urlToImage": "https://d.newsweek.com/en/full/2314438/mitt-romney.jpg",
       "publishedAt": "2023-11-25T22:19:21Z",
       "content": "Senator Mitt Romney faced backlash online Saturday from supporters of Donald Trump's Make America Great Again (MAGA) movement after a resurfaced interview showed him saying he'd vote for Democrats in the 2024 presidential election.\nRomney, a Utah Rep... [4422 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1700950761
     },
     {
       "source": {
@@ -42,7 +49,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=50330851&width=1200&height=600&coordinates=0%2C35%2C0%2C36",
       "publishedAt": "2023-11-25T20:03:41Z",
       "content": "There are numerous ways in which Donald Trump could throw a wrench into the Republican primary leading up to the 2024 election, and one of them is to not survive.\nThe former president, who is currently 77 and turns 78 in June, recently mourned the lo... [1922 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1700942621
     },
     {
       "source": {
@@ -56,7 +68,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/devin-nunes-had-another-one-of-his-lawsuits-thrown-out-this-time-by-a-trump-judge.jpg?id=24836383&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2023-11-25T17:30:18Z",
       "content": "Former Rep. Devin Nunes (R-CA), who currently serves as CEO of the Trump Media & Technology Group behind Truth Social, got a rude reception from MAGA fans for using the struggling platform to sell $75 bottles of \"Patriot\" wine from his vineyard.\nDuri... [1789 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1700933418
     },
     {
       "source": {
@@ -70,7 +87,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2314418/michael-cohen-trump-prediction.jpg",
       "publishedAt": "2023-11-25T16:09:55Z",
       "content": "Michael Cohen, the one-time lawyer and \"fixer\" for Donald Trump, warned Friday on an episode of his podcast about the grim outlook should the former president be reelected to the White House.\nTrump is currently amid the packed field of candidates see... [2977 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1700928595
     },
     {
       "source": {
@@ -84,7 +106,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/ee1a9c5b9f59ad5b18c67235a3106345429f7a78/0_195_5244_3145/master/5244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=f89a177be8df7103fc2f5f55788aebb2",
       "publishedAt": "2023-11-25T15:12:17Z",
       "content": "In a shopping centre in Volendam, a fishing port north of Amsterdam, on Friday, there was satisfaction about far-right politician Geert Wilders having dominated last Wednesday’s Dutch elections. “It’s a really good thing,” said Pieter, who didn’t wan... [6943 chars]",
-      "tags": ["immigration", "elections_politics", "foreign_policy"]
+      "tags": [
+        "immigration",
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1700925137
     },
     {
       "source": {
@@ -98,7 +125,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231124103652-01-trump-football-0909.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-25T15:00:30Z",
       "content": "CNN —\nFormer President Donald Trump attended a highly anticipated rivalry football game in South Carolina on Saturday as he campaigns in the key early-nominating state ahead of next year’s Republican presidential primary.\nThe Palmetto Bowl is an annu... [3257 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1700924430
     },
     {
       "source": {
@@ -112,7 +144,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HN2jb_bS2D2OK1FqBMiFOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/politico_453/0d5cb766b7db73477268686cc2042f05",
       "publishedAt": "2023-11-25T12:00:00Z",
       "content": "President Joe Biden's poll numbers keep getting worse.\nNovember started with New York Times/Siena College polls showing Trump ahead in four of the six swing states, but more indicators of Biden's electoral peril soon followed. The president’s standin... [6528 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1700913600
     },
     {
       "source": {
@@ -131,7 +167,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1700912481
     },
     {
       "source": {
@@ -145,7 +182,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/11/fake-elector-probes_lee_112523_GregNash.jpg?w=1280",
       "publishedAt": "2023-11-25T11:00:00Z",
       "content": "Former President Trump’s four criminal cases have dominated headlines since April, when he became the first president — current or former — to be indicted. But behind the scenes, a handful of state attorneys general are still investigating whether ad... [7243 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1700910000
     },
     {
       "source": {
@@ -159,7 +200,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/29ebd08/2147483647/strip/true/crop/4117x2316+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Ff8%2F4491b7445952975f03243422bd10%2F0ce55c304e7b47d18028a165bdcfd09a",
       "publishedAt": "2023-11-25T10:03:32Z",
       "content": "COLUMBIA, S.C. (AP) — Donald Trump is using a college football rivalry weekend to bask among his supporters in a state and region that are key to his presidential fortunes, while potentially upstaging his Republican opponent Nikki Haley on her home t... [3853 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1700906612
     },
     {
       "source": {
@@ -173,7 +219,12 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/IrSvDO5_kDhLDLifX2CPc07mVmw=/1200x630/filters:format(jpg):quality(70):focal(2315x1215:2325x1225)/cloudfront-us-east-1.images.arcpublishing.com/tronc/INBTA5THHNCT7GVKDH2OM2A6JA.JPG",
       "publishedAt": "2023-11-25T10:00:00Z",
       "content": "President Joe Biden speaks to reporters before boarding Marine One at Westchester Airport in Westchester, New York, on May 10, 2023. (Sarah Silbiger/The New York Times)\nI write to supplement Victor Shi’s op-ed “A Gen Zer’s advice to Biden as he gears... [6855 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1700906400
     },
     {
       "source": {
@@ -187,7 +238,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/USXIRBZIHJLVJI42JEICCFHYWE.jpg?auth=39a338b0f175305bae12cf327c32655109e94e0a27acf6adef0d3eb6d23b9e2a&width=1200&height=692&quality=80",
       "publishedAt": "2023-11-25T09:00:00Z",
       "content": "Open this photo in gallery: The Canadian Rockies west of Cochrane, Alta. on June 17, 2021.Jeff McIntosh/The Canadian Press\nUnited nation\nRe “To restore unity in Canada, we need to build national understanding” (Opinion, Nov. 18): How refreshing to he... [7054 chars]",
-      "tags": ["policy_legislation", "elections_politics", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1700902800
     },
     {
       "source": {
@@ -205,7 +261,8 @@
         "policy_legislation",
         "health_science",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1700899239
     },
     {
       "source": {
@@ -224,7 +281,8 @@
         "immigration",
         "personal_business",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1700895662
     },
     {
       "source": {
@@ -238,7 +296,10 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/658490/uploads/ea00ec60-8859-11ee-819d-e9dbb6663123_800_420.jpeg",
       "publishedAt": "2023-11-25T05:00:00Z",
       "content": "Ivanka Trump and Jared Kushner's Amusing Facts\nImage Source: Getty Images | Photo by Aaron P. Bernstein\nAlso Read: Trump’s Legal Team Defends Traditional News Sites in a Court Filing: “The Media Reports Are Accurate”\nIt may be said that Ivanka and Ku... [8263 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1700888400
     },
     {
       "source": {
@@ -252,7 +313,12 @@
       "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/-L33M208jfosK7se49yt0UPHWdU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/MEURCPJUZQZVYUG2FRCYNSIVEY.jpg",
       "publishedAt": "2023-11-25T05:00:00Z",
       "content": "Trump’s campaign has not detailed his itinerary. But if his visit is similar to his trip to Ames, Iowa for the Iowa State-Iowa game, he will visit pregame parties, perhaps stop by a fraternity house and then join 80,000-plus fans for the nationally t... [4021 chars]",
-      "tags": ["personal_family", "elections_politics", "regional_state"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1700888400
     },
     {
       "source": {
@@ -266,7 +332,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/11/72798258.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-11-25T04:40:16Z",
       "content": "Canadian Prime Minister Justin Trudeau blamed “MAGA-influenced thinking” on Friday after members of his country’s Conservative Party rejected a new trade deal with war-torn Ukraine.\n“The real story is the rise of a right-wing, American MAGA-influence... [2544 chars]",
-      "tags": ["foreign_policy", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1700887216
     },
     {
       "source": {
@@ -280,7 +350,11 @@
       "urlToImage": "https://images.wsj.net/im-890596/social",
       "publishedAt": "2023-11-25T04:09:00Z",
       "content": "MARSHALLTOWN, Iowa—The fate of Nikki Haley’s presidential campaign rests on a central question: Can she be all things to all Republicans?\nAs the Republican presidential primary field begins to narrow, Haley’s rise in polls represents the re-emergence... [1770 chars]",
-      "tags": ["elections_politics", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1700885340
     },
     {
       "source": {
@@ -294,7 +368,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.png?id=24710941&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2023-11-25T03:07:35Z",
       "content": "A Donald Trump ally on Friday accused the ex-president's former staffer about lying in a lawsuit alleging she was raped by Trump aide Jason Miller.\nThe staffer, Arlene \"A.J.\" Delgado, is known to have had Miller's child years ago. She now claims that... [2247 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1700881655
     }
   ]
 }

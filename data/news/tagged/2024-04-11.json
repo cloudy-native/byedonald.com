@@ -18,7 +18,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1712879664
     },
     {
       "source": {
@@ -32,7 +33,13 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.4326%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_8%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/7599933f7167d5692c57ea757c16a5d047b579d1",
       "publishedAt": "2024-04-11T23:53:04Z",
       "content": "Mr Trump has not indicated yet whether he would support the submarine sale agreement under AUKUS aimed at countering China in the Indo-Pacific.\n“I think [Mr Trump] sees partnerships as being incredibly important to make sure that we have the wherewit... [2004 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "china", "arms_control"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "china",
+        "arms_control"
+      ],
+      "publishedAtTs": 1712879584
     },
     {
       "source": {
@@ -46,7 +53,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/04/donald_trump_2105322804.jpg",
       "publishedAt": "2024-04-11T23:45:47Z",
       "content": "Donald Trump's attorneys have vaulted three efforts this week aimed at pushing back the former president's trial on charges alleging he covered up a sex scandal ahead of the 2016 election. After two failures, the most recent bid — a last-minute civil... [6392 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712879147
     },
     {
       "source": {
@@ -64,7 +76,8 @@
         "elections_politics",
         "political_endorsements",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1712878240
     },
     {
       "source": {
@@ -78,7 +91,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/angry-trump.jpg?id=29971396&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2024-04-11T23:12:22Z",
       "content": "Former President Donald Trump gave a furious speech about his legal problems in New York, in which he seemed to be confused on many issues, like calling New York Attorney General Letitia James \"Letitia Jones,\" and mixing her up with Manhattan Distric... [1611 chars]",
-      "tags": ["legal_justice", "criminal_cases", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "regional_state"
+      ],
+      "publishedAtTs": 1712877142
     },
     {
       "source": {
@@ -97,7 +115,8 @@
         "national_security",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1712876663
     },
     {
       "source": {
@@ -111,7 +130,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDRcXFwvMTIyMjU3MTRcXFwvNmI4OWFkOWU4ODg1NDA1OWFhZWFhMDA1OGQ3Y2IwMTQuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0OWRiMTFkM2U0MDAxYmJjNDBkMTc1OWY4NTZiNjk2NTA0NTk3OGEwIn0=/trump-loses-latest-bid-to-delay-hush-money-criminal-trial.jpg",
       "publishedAt": "2024-04-11T23:00:00Z",
       "content": "The judge in Donald Trump’s hush money criminal case has turned down the former president’s request to postpone his trial because of adverse publicity.\nIt is the latest in a string of delay refusals that Mr Trump has got from various courts this week... [802 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1712876400
     },
     {
       "source": {
@@ -125,7 +149,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump.jpg?id=33337164&width=1200&height=600&coordinates=0%2C671%2C0%2C672",
       "publishedAt": "2024-04-11T22:04:09Z",
       "content": "Donald Trump will not really be able to dispute the basic facts in the New York hush money case being brought by Manhattan District Attorney Alvin Bragg, argued former federal prosecutor Elie Honig on CNN Thursday.\nRather, he argued, it's all going t... [2235 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712873049
     },
     {
       "source": {
@@ -143,7 +172,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1712872495
     },
     {
       "source": {
@@ -157,7 +187,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=49870620&width=1200&height=600&coordinates=0%2C684%2C0%2C684",
       "publishedAt": "2024-04-11T21:30:21Z",
       "content": "Former federal prosecutor Harry Litman, who now serves as a legal analyst for the Los Angeles Times, pinpointed one witness he believes will be the \"most devastating\" in Donald Trump's hush money criminal case.\nSpeaking to MSNBC's Nicolle Wallace on ... [2437 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712871021
     },
     {
       "source": {
@@ -171,7 +206,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24814665&width=1200&height=600&coordinates=0%2C8%2C0%2C9",
       "publishedAt": "2024-04-11T21:16:40Z",
       "content": "Monday is the beginning of Donald Trump's New York trial that will decide whether he is just as guilty as Michael Cohen was in the hush money scheme involving an adult film star.\nTrump, who faces 34 felony counts in the case, is accused of paying off... [2779 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712870200
     },
     {
       "source": {
@@ -185,7 +225,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24493431&width=1200&height=600&coordinates=0%2C17%2C0%2C18",
       "publishedAt": "2024-04-11T20:55:51Z",
       "content": "Former President Donald Trump and House Speaker Mike Johnson (R-LA) are advancing legislation at an upcoming news conference at Mar-a-Lago that would prohibit non-citizens from voting in federal elections — a development trumpeted by former Trump cam... [2071 chars]",
-      "tags": ["elections_politics", "voting_rights", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1712868951
     },
     {
       "source": {
@@ -199,7 +244,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33403133&width=1200&height=600&coordinates=0%2C133%2C0%2C133",
       "publishedAt": "2024-04-11T20:42:55Z",
       "content": "Trump, who faces 34 felony counts in the case, is accused of paying off Stormy Daniels before the 2016 election to keep her mouth shut about their purported affair. Despite three attempts this week to delay the trial, it is moving forward. All the wh... [2599 chars]",
-      "tags": ["legal_justice", "pardons", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "pardons",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1712868175
     },
     {
       "source": {
@@ -213,7 +263,12 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2024/04/GettyImages-1230458006-e1712850566689.jpg?fit=6048%2C3024&w=1200&h=800",
       "publishedAt": "2024-04-11T20:29:40Z",
       "content": "Negative experiences during military service are the main drivers of extremist beliefs amongst veterans, a new study from the RAND Corporation concludes. While the Pentagon-funded think tank report cites former President Donald Trump and January 6 as... [6056 chars]",
-      "tags": ["security_intelligence", "veterans_affairs", "terrorism"]
+      "tags": [
+        "security_intelligence",
+        "veterans_affairs",
+        "terrorism"
+      ],
+      "publishedAtTs": 1712867380
     },
     {
       "source": {
@@ -227,7 +282,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-and-rep-mike-johnson-r-la.jpg?id=51978389&width=1200&height=600&coordinates=0%2C0%2C0%2C50",
       "publishedAt": "2024-04-11T20:27:59Z",
       "content": "Donald Trump and House Speaker Mike Johnson are holding a big press conference at Mar-a-Lago on Friday where they will reportedly propose a bill that was already passed 28 years ago in 1996.\nAccording to USA Today, the men will demand passage of a bi... [3185 chars]",
-      "tags": ["elections_politics", "voting_rights", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1712867279
     },
     {
       "source": {
@@ -241,7 +301,11 @@
       "urlToImage": "https://pyxis.nymag.com/v1/imgs/ea4/851/3463737ea36d18a143d89bfa7bab50f5fb-apprentice-new-film.1x.rsocial.w1200.jpg",
       "publishedAt": "2024-04-11T20:23:21Z",
       "content": "Jeremy Strong and Sebastian Stan in The Apprentice. Photo: APPRENTICE PRODUCTIONS ONTARIO INC./PROFILE PRODUCTIONS 2 APS/TAILORED FILMS LTD. 2023\nNo one asked for a Donald Trump biopic in these Donald Trump oversaturated times, but director Ali Abbas... [1433 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1712867001
     },
     {
       "source": {
@@ -255,7 +319,11 @@
       "urlToImage": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2024/04/Melania-Trump-3-2363x1575.jpeg",
       "publishedAt": "2024-04-11T20:12:00Z",
       "content": "Melania Trump is the former First Lady of the United States and a seasoned entrepreneur. She has accumulated a net worth of $50 million by 2024, as reported by CelebrityNetWorth. Her diverse career path, encompassing high-profile modeling gigs, jewel... [3283 chars]",
-      "tags": ["personal_family", "personal_business"]
+      "tags": [
+        "personal_family",
+        "personal_business"
+      ],
+      "publishedAtTs": 1712866320
     },
     {
       "source": {
@@ -269,7 +337,11 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/04/Untitled-1_0be4aa.jpg?w=1024&h=576",
       "publishedAt": "2024-04-11T20:10:46Z",
       "content": "The formative years of Donald Trump will be the focus of a biographical film set to compete at the 77th Cannes Film Festival next month.\nIranian-Danish director Ali Abbasi’s “The Apprentice” — with Marvel Cinematic Universe heartthrob Sebastian Stan ... [1681 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1712866246
     },
     {
       "source": {
@@ -283,7 +355,12 @@
       "urlToImage": "https://static01.nyt.com/images/2024/04/11/multimedia/11pol-dems-abortion-topart-qclz/11pol-dems-abortion-topart-qclz-facebookJumbo.jpg",
       "publishedAt": "2024-04-11T20:08:52Z",
       "content": "In a meeting with her staff last week, Vice President Kamala Harris offered a prediction: Former President Donald J. Trump would not support a national abortion ban. Instead, she said, he would take a position that would muddy the waters on an issue ... [989 chars]",
-      "tags": ["elections_politics", "2028_presidential", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "social_issues"
+      ],
+      "publishedAtTs": 1712866132
     },
     {
       "source": {
@@ -297,7 +374,12 @@
       "urlToImage": "https://compote.slate.com/images/28abb445-e792-4814-a3e0-1ca4167220a6.jpeg?crop=5913%2C3942%2Cx0%2Cy1224&width=1560",
       "publishedAt": "2024-04-11T20:00:22Z",
       "content": "When I called up Lee Kovarsky, who teaches law at the University of Texas, I was looking for a translator. I’d been seeing one headline after another about the classified documents case against Donald Trump in Florida, where special prosecutor Jack S... [12234 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712865622
     },
     {
       "source": {
@@ -315,7 +397,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1712865173
     },
     {
       "source": {
@@ -329,7 +412,12 @@
       "urlToImage": "https://static01.nyt.com/images/2024/04/11/multimedia/11dc-trump-documents-nauta-pqcw/11dc-trump-documents-nauta-pqcw-facebookJumbo.jpg",
       "publishedAt": "2024-04-11T19:46:10Z",
       "content": "Almost from the moment former President Donald J. Trump was charged last June with mishandling a trove of highly secret classified documents, the spotlight in the case has been fixed — as it usually is — on him.\nBut on Friday afternoon, the focus wil... [869 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1712864770
     },
     {
       "source": {
@@ -343,7 +431,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2377119/donald-trump.jpg",
       "publishedAt": "2024-04-11T19:29:05Z",
       "content": "Former President Donald Trump expressed anger on Thursday about some individuals \"disrespecting\" Judge Aileen Cannon.\n\"Crooked Joe Biden and his crew of Hacks and Thugs, led by Merrick Garland and Deranged Jack Smith, are working overtime to try to i... [2924 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1712863745
     },
     {
       "source": {
@@ -357,7 +450,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_55_697089.jpg?width=920&format=jpeg",
       "publishedAt": "2024-04-11T19:23:20Z",
       "content": "Donald Trump is blaming migrants in the U.S. illegally for fueling violent crime as part of his campaign to win back the White House, repeating rhetoric used during his previous run for the presidency. But studies show immigrants are not more likely ... [7718 chars]",
-      "tags": ["policy_legislation", "immigration", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1712863400
     },
     {
       "source": {
@@ -371,7 +469,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2377122/stephanie-grisham-melania-trump-donald-trump-worried.jpg",
       "publishedAt": "2024-04-11T19:20:58Z",
       "content": "Former First Lady Melania Trump is making former President Donald Trump \"quite worried\" ahead of his hush money payment, scheduled to begin next week, said former White House Press Secretary Stephanie Grisham.\nManhattan District Attorney Alvin Bragg ... [3270 chars]",
-      "tags": ["personal_family", "legal_justice", "criminal_cases"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1712863258
     }
   ]
 }

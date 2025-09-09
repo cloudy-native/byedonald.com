@@ -18,7 +18,8 @@
         "personal_family",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731542326
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "budget",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731542210
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1731542200
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "legal_justice",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731541975
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731541899
     },
     {
       "source": {
@@ -110,7 +115,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/5a/15aa4fce-c064-57b2-8d0b-f6f5604d330d/673532f51d509.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-11-13T23:48:15Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["legal_justice", "doj_actions", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1731541695
     },
     {
       "source": {
@@ -130,7 +140,8 @@
         "security_intelligence",
         "technology_regulation",
         "cryptocurrency"
-      ]
+      ],
+      "publishedAtTs": 1731541054
     },
     {
       "source": {
@@ -148,7 +159,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731540688
     },
     {
       "source": {
@@ -166,7 +178,8 @@
         "elections_politics",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1731540377
     },
     {
       "source": {
@@ -184,7 +197,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731540247
     },
     {
       "source": {
@@ -202,7 +216,8 @@
         "media_communications",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731540152
     },
     {
       "source": {
@@ -221,7 +236,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731539764
     },
     {
       "source": {
@@ -241,7 +257,8 @@
         "2028_presidential",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731539676
     },
     {
       "source": {
@@ -261,7 +278,8 @@
         "legal_justice",
         "economy_finance",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731539663
     },
     {
       "source": {
@@ -281,7 +299,8 @@
         "federal_agencies",
         "2026_midterms",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1731539615
     },
     {
       "source": {
@@ -301,7 +320,8 @@
         "elections_politics",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731539615
     },
     {
       "source": {
@@ -321,7 +341,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1731539464
     },
     {
       "source": {
@@ -335,7 +356,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-cy5lx6glq-1731547532924.jpg?quality=75&strip=all&1731529879&w=1024",
       "publishedAt": "2024-11-13T23:08:39Z",
       "content": "This slice of Gotham is seeing red.\nJust one district in Manhattan chose Donald Trump over Kamala Harris in last week’s election — becoming the first in the borough to vote for a Republican presidential candidate in at least a decade.\nThe sole pro-Tr... [7590 chars]",
-      "tags": ["elections_politics", "regional_state", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1731539319
     },
     {
       "source": {
@@ -349,7 +375,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/newspress-collage-oijhxp3ve-1731538399885.jpg?quality=75&strip=all&1731520490&w=1024",
       "publishedAt": "2024-11-13T23:08:16Z",
       "content": "Ignorance thrives when people live in isolation, breeding irrational concepts about the “other” they clearly do not understand.\nThe overwhelming victory for President-elect Donald Trump has brought to the forefront Democrats’ wholesale ignorance surr... [4840 chars]",
-      "tags": ["social_issues", "elections_politics", "personal_family"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1731539296
     },
     {
       "source": {
@@ -369,7 +400,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1731539136
     },
     {
       "source": {
@@ -387,7 +419,8 @@
         "security_intelligence",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1731538400
     },
     {
       "source": {
@@ -405,7 +438,8 @@
         "government_administration",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731538106
     },
     {
       "source": {
@@ -423,7 +457,8 @@
         "government_administration",
         "elections_politics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1731537926
     },
     {
       "source": {
@@ -441,7 +476,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731537910
     }
   ]
 }

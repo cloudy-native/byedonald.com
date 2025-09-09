@@ -14,7 +14,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/727954/uploads/038d8100-b632-11ef-8b7b-711dacd02702_1200_630.jpeg",
       "publishedAt": "2024-12-09T23:45:00Z",
       "content": "Donald Trump and Jill Biden’s interaction during the reopening of Notre Dame Cathedral in Paris has taken the internet by storm, sparking a whirlwind of speculation and commentary. During the historic event, celebrating the cathedral’s restoration af... [3150 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1733787900
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "immigration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1733787377
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1733787299
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/biv/images/christmas-shoppers-rk.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2024-12-09T23:30:00Z",
       "content": "Polling firm Nanos found Canadians are almost four times more likely to think economy will weaken rather than strengthen in next six months\nCanadians' confidence in a strengthening economy has taken a hit since president-elect Donald Trump won the U.... [2872 chars]",
-      "tags": ["economy_finance", "foreign_policy", "canada"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1733787000
     },
     {
       "source": {
@@ -85,7 +97,8 @@
         "security_intelligence",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1733786702
     },
     {
       "source": {
@@ -105,7 +118,8 @@
         "security_intelligence",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1733786340
     },
     {
       "source": {
@@ -123,7 +137,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1733786244
     },
     {
       "source": {
@@ -143,7 +158,8 @@
         "foreign_policy",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733786022
     },
     {
       "source": {
@@ -163,7 +179,8 @@
         "elections_politics",
         "state_elections",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1733785970
     }
   ]
 }

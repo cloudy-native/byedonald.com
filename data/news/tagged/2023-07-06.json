@@ -18,7 +18,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1688687622
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "federal_courts",
         "supreme_court",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1688683181
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "legal_justice",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1688681340
     },
     {
       "source": {
@@ -71,7 +74,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-at-cpac.jpg?id=29728116&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2023-07-06T21:42:54Z",
       "content": "The justices unanimously decided that a second case challenging the debt relief plan did not have legal standing.\nAbout 26 million borrowers had already applied for the program, and more than 16 million had been approved for relief, according to the ... [4761 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1688679774
     },
     {
       "source": {
@@ -90,7 +97,8 @@
         "personal_family",
         "criminal_cases",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1688679681
     },
     {
       "source": {
@@ -104,7 +112,12 @@
       "urlToImage": "https://www.reuters.com/resizer/KztGBhleH5vs4Etle2xoEaIfcec=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5V5DHAK6JBM3TE3ZUJFLGB2E5A.jpg",
       "publishedAt": "2023-07-06T21:18:20Z",
       "content": "WASHINGTON, July 6 (Reuters) - Republican presidential candidate Ron DeSantis raised $20 million in the second quarter of the year, his campaign said on Thursday, a sign that the Florida governor's challenge to former President Donald Trump remains v... [1770 chars]",
-      "tags": ["elections_politics", "regional_state", "florida"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1688678300
     },
     {
       "source": {
@@ -123,7 +136,8 @@
         "2026_midterms",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1688675288
     },
     {
       "source": {
@@ -137,7 +151,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/qyhYRmnHEFz_WODlA2T_vcJPoCw=/0x288:4000x2382/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24773572/1258663193.jpg",
       "publishedAt": "2023-07-06T20:10:30Z",
       "content": "We now have more information about how prosecutors conducted their search for classified documents that former President Donald Trump kept after leaving office, despite court orders requiring that he turn them over.\nOn Wednesday, a magistrate judge u... [4752 chars]",
-      "tags": ["legal_justice", "doj_actions", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1688674230
     },
     {
       "source": {
@@ -151,7 +170,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/C24tL6aGb8l0vcCCk_Ry0Jqj5wY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/PBASXBG6EXJ2NNIFVJVQQYTPJE.jpg",
       "publishedAt": "2023-07-06T19:46:00Z",
       "content": "Law Society president Maura Derivan and her husband Patrick are being sued for €50,000 damages by accountant Bobby Fitzgerald in the Circuit Court. Photograph: Bryan O’Brien\nDonald Trump has had fewer court applications relating to his cases before t... [2602 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1688672760
     },
     {
       "source": {
@@ -165,7 +189,11 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/3s9RhP284HFMVEuWyAZt-Tx7er4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/C5TPYSXLZVC3HCVBAB57NOP3EM.JPG",
       "publishedAt": "2023-07-06T19:22:14Z",
       "content": "Open this photo in gallery: Mexico's President Andres Manuel Lopez Obrador, top left, looks on as Canadian Deputy Prime Minister Chrystia Freeland, bottom left, Mexican Deputy Foreign Minister for North America Jesus Seade, and U.S. Trade Representat... [5433 chars]",
-      "tags": ["foreign_policy", "trade"]
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1688671334
     },
     {
       "source": {
@@ -179,7 +207,11 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2074%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_88%2C$y_125/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/63d2435a87df806f3e35b7623bf54f5e9b44e8eb",
       "publishedAt": "2023-07-06T19:00:00Z",
       "content": "Trickle-down, in his telling, is the philosophy that “it didn’t matter where you made things”. It “meant slashing public investment” and looking the other way as “three-quarters of US industries grew more concentrated”. Forty years, as alert readers ... [6211 chars]",
-      "tags": ["economy_finance", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1688670000
     },
     {
       "source": {
@@ -198,7 +230,8 @@
         "2028_presidential",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1688668503
     },
     {
       "source": {
@@ -216,7 +249,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1688668200
     },
     {
       "source": {
@@ -230,7 +264,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/12/cc05345e-af4d-411c-b68e-919c4b2265c7/thumbnail/1200x630/986fa3a0b3965f8916d720cb8ccc0608/ap23160675839430.jpg?v=532947bbe7449b367b963713a282edbc",
       "publishedAt": "2023-07-06T16:14:44Z",
       "content": "Washington — The Justice Department on Wednesday released a more complete version of the affidavit used to justify the August 2022 search of Mar-a-Lago, revealing more of the evidence investigators compiled before the FBI executed its search warrant ... [5274 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1688660084
     },
     {
       "source": {
@@ -244,7 +283,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/07/20230706110752-64a6e4044b554e4d47e4f257jpeg.jpg;w=650;h=433;mode=crop",
       "publishedAt": "2023-07-06T15:55:55Z",
       "content": "MIAMI (AP) — Donald Trump's valet, Walt Nauta, pleaded not guilty Thursday to charges that he helped the former president hide classified documents from federal authorities, appearing with a new Florida-based lawyer to represent him as the case moves... [3020 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1688658955
     },
     {
       "source": {
@@ -258,7 +302,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/fb62a8e3998c559036f7c4ae53014aa82025060a/0_102_3071_1843/master/3071.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=edfe0a6de9eba46847d7dc0dc5e3d132",
       "publishedAt": "2023-07-06T15:23:09Z",
       "content": "7m ago 11.23 EDT Reuters reports that Walt Nauta’s arraignment lasted just a few minutes, with the aide to Donald Trump heading into a conference room afterwards and not answering questions from reporters. Attorney Stanley Woodward entered Nauta’s pl... [5512 chars]",
-      "tags": ["personal_family", "florida", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1688656989
     },
     {
       "source": {
@@ -272,7 +321,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/7cace10179aafaaf5740f0c0eb63f923f42870d4/0_169_5063_3038/master/5063.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5feb44d0a94c574d2161b47f023c5e0b",
       "publishedAt": "2023-07-06T15:15:15Z",
       "content": "Donald Trump’s valet and co-defendant in the Mar-a-Lago classified documents case pleaded not guilty at his rescheduled arraignment on Thursday after retaining a defense lawyer admitted in the southern district of Florida the night before his appeara... [2062 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1688656515
     }
   ]
 }

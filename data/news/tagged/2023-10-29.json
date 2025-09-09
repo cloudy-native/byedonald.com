@@ -14,7 +14,11 @@
       "urlToImage": "https://www.reuters.com/resizer/FBNOYo4iYae5m5cUsAc-AeGENr4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CDKUDKH2IZOB5KKQD4CKF3R6EA.jpg",
       "publishedAt": "2023-10-29T23:59:26Z",
       "content": "Former U.S. President and Republican presidential candidate Donald Trump delivers remarks to supporters at the Club 47 USA event in West Palm Beach, Florida, U.S. October 11, 2023. REUTERS/Shannon Stapleton/File Photo Acquire Licensing Rights\nWASHING... [1351 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698623966
     },
     {
       "source": {
@@ -34,7 +38,8 @@
         "supreme_court",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1698622729
     },
     {
       "source": {
@@ -48,7 +53,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/bee7990/2147483647/strip/true/crop/3066x1725+0+160/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2F92%2Ff4644e429803781e174c6d7a71b6%2F89ae24da68b74cfb8cefd03ef5773a5c",
       "publishedAt": "2023-10-29T23:08:09Z",
       "content": "LAS VEGAS (AP) — Mike Pence has a resume most White House hopefuls would dream of. A congressman. A governor of a big Midwestern state. A one-time vice president.\nIn normal times, someone with such credentials would be well-positioned to win their pa... [8225 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1698620889
     },
     {
       "source": {
@@ -62,7 +71,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2015/11/carson_ben_2.jpg?w=1280",
       "publishedAt": "2023-10-29T22:16:03Z",
       "content": "Former U.S. Secretary of Housing and Urban Development Ben Carson endorsed former President Trump in a speech in Iowa on Sunday.\nAhead of Trump’s scheduled address, Carson introduced the leading 2024 GOP presidential candidate as “my friend and your ... [1731 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698617763
     },
     {
       "source": {
@@ -81,7 +94,8 @@
         "foreign_policy",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1698611100
     },
     {
       "source": {
@@ -95,7 +109,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-h58f06zwz-1698609617477.jpg?quality=75&strip=all&1698595270&w=1024",
       "publishedAt": "2023-10-29T19:50:38Z",
       "content": "Donald Trump’s son-in-law and former senior adviser Jared Kushner says Saudi Arabia is a safer place for Jews than college campuses in the US.\n“One of the ironies is that, as an American Jew, you’re safer in Saudi Arabia right now than you are on a c... [4560 chars]",
-      "tags": ["foreign_policy", "media_communications", "social_issues"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1698609038
     },
     {
       "source": {
@@ -109,7 +128,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/09/Christie.png?w=1280",
       "publishedAt": "2023-10-29T19:22:53Z",
       "content": "Former New Jersey Gov. Chris Christie, a 2024 GOP presidential candidate, criticized former President Trump for wanting to split up aid to Israel and Ukraine, saying Trump wants to “coddle” Russian President Vladimir Putin.\n“This is Donald Trump’s ba... [1508 chars]",
-      "tags": ["foreign_policy", "russia", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698607373
     },
     {
       "source": {
@@ -123,7 +147,12 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6622078.1698594845!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
       "publishedAt": "2023-10-29T17:44:16Z",
       "content": "The Associated Press\nDES MOINES, Iowa (AP) — Donald Trump will headline his eighth campaign event in Iowa in a little more than a month on Sunday as part of the former president's accelerated fall schedule leading up to the first-in-the-nation caucus... [2607 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1698601456
     },
     {
       "source": {
@@ -137,7 +166,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/274b7abd73b258d687bb51d808edddb0ac79c644/0_2_5897_3540/master/5897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff5fd6d9b11385f0ede0b79464041594",
       "publishedAt": "2023-10-29T16:56:46Z",
       "content": "Mike Pence’s surprise withdrawal from the Republican presidential nomination race on Saturday is part of natural winnowing of the crowded field, rivals of the former vice-president said Sunday – and one that could help their quest of candidates to wr... [4481 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698598606
     },
     {
       "source": {
@@ -151,7 +184,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/bidenjoe_102323getty_biden-primary.jpg?w=1280",
       "publishedAt": "2023-10-29T16:00:00Z",
       "content": "Republicans are watching eagerly as primary challenges pile up against President Biden, hoping the Democratic infighting and agitation about his candidacy will weaken his stature in November.\nEarlier in the 2024 cycle, Republicans were preoccupied wi... [7110 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698595200
     },
     {
       "source": {
@@ -165,7 +202,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-w1m9bnjce-1698583602285.jpg?quality=75&strip=all&1698569262&w=1024",
       "publishedAt": "2023-10-29T13:34:52Z",
       "content": "Donald Trump called on his former vice president Mike Pence to endorse him Saturday hours after his once-loyal lieutenant bowed out of the 2024 Republican presidential valley.\n“Everybody that leaves seems to be endorsing me,” Trump mused at the Repub... [3239 chars]",
-      "tags": ["elections_politics", "personal_family", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1698586492
     },
     {
       "source": {
@@ -179,7 +221,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2301071/ivanka-trump-georgia.jpg",
       "publishedAt": "2023-10-29T12:51:31Z",
       "content": "Ivanka Trump and her two brothers could incriminate themselves under cross-examination during Donald Trump's civil fraud trial, according to a former federal prosecutor.\nSpeaking on his Justice Mattersshow on YouTube, Glenn Kirschner, a legal analyst... [2941 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698583891
     },
     {
       "source": {
@@ -193,7 +239,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/YOE6EMIGXVAH3DXK6YMGFUI6OM.jpg?auth=8e70482f259e7657c4efbdf6d5be59626207bb0228f523656732635800211c06&width=1200&height=900&quality=80",
       "publishedAt": "2023-10-29T12:18:39Z",
       "content": "Open this photo in gallery: Stacy Skinner, a city councilwoman in John's Creek, Georgia, leaves her early voting location after casting her ballot for her reelection on Oct. 19, 2023.Bill Barrow/The Associated Press\nAs she accepted an endorsement fro... [9151 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1698581919
     },
     {
       "source": {
@@ -207,7 +258,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231025161318-trump-court-room.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-29T11:00:15Z",
       "content": "A trial to determine whether the 14th Amendment’s “insurrectionist ban” applies to former President Donald Trump is set to begin Monday in Denver, a historic but likely long-shot case that could block him from Colorado’s presidential ballot in 2024.\n... [6580 chars]",
-      "tags": ["legal_justice", "elections_politics", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1698577215
     },
     {
       "source": {
@@ -221,7 +277,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/5c38208845688a9f4fdd3183c2fa8aa147cf7089/0_191_5715_3429/master/5715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=c1e63ad0dfbbbd31002c8a56eb85e01f",
       "publishedAt": "2023-10-29T08:00:39Z",
       "content": "Why do seemingly serious people repeat crazy political lies? This was the question the American anthropologist and political scientist Lisa Wedeen explored when she studied the Syrian dictatorship in the 1990s.\nShe was struck by how people who were u... [6206 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698566439
     },
     {
       "source": {
@@ -235,7 +295,11 @@
       "urlToImage": "https://img2.thejournal.ie/article/6210053/river/?height=400&version=6210056",
       "publishedAt": "2023-10-29T07:47:24Z",
       "content": "FORMER US VICE president Mike Pence is dropping his bid for the Republican presidential nomination, ending his campaign for the White House after struggling to raise money and gain traction in the polls.\nPence said at the Republican Jewish Coalition ... [3151 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698565644
     },
     {
       "source": {
@@ -249,7 +313,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/c8f2259/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F0f%2F65%2F5edb1cb94476acd662c77d3a795f%2Fap23302092534420.jpg",
       "publishedAt": "2023-10-29T07:11:49Z",
       "content": "Former President Donald Trump quipped that Mike Pence should endorse him on Saturday night after his former vice president dropped out of the 2024 Republican nomination contest.\nSpeaking in Las Vegas, Nevada, at a Commit to Caucus event, his second m... [2733 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698563509
     },
     {
       "source": {
@@ -269,7 +338,8 @@
         "legal_justice",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1698562838
     },
     {
       "source": {
@@ -288,7 +358,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1698559236
     },
     {
       "source": {
@@ -302,7 +373,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/bc58107/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F59%2F49%2F7baef1f54157b38ccb58968c55cc%2Fap23301688392978.jpg",
       "publishedAt": "2023-10-29T05:45:29Z",
       "content": "Nikki Haley launched her strongest criticism of former President Donald Trump on Saturday, telling an influential group of Jewish Republicans his style of “chaos, vendettas and drama” are dangerous.\n“Eight years ago, it was good to have a leader who ... [2026 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698558329
     },
     {
       "source": {
@@ -321,7 +397,8 @@
         "foreign_policy",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1698555251
     },
     {
       "source": {
@@ -335,7 +412,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_08_2023_03_58_20_9867548.jpg?width=920&format=jpeg",
       "publishedAt": "2023-10-29T04:31:04Z",
       "content": "Former US President Donald Trump has vowed to revive a controversial travel ban on people from some Muslim-majority countries if he is elected to a second White House term.\nWhile speaking at the annual summit of the Republican Jewish Coalition on Sat... [3671 chars]",
-      "tags": ["immigration", "foreign_policy", "elections_politics"]
+      "tags": [
+        "immigration",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698553864
     },
     {
       "source": {
@@ -355,7 +437,8 @@
         "security_intelligence",
         "middle_east",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1698552315
     }
   ]
 }

@@ -20,7 +20,8 @@
         "ukraine",
         "nato",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1741910277
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1741910155
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "security_intelligence",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1741910091
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "lgbtq_rights",
         "health_science",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1741909699
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1741909099
     },
     {
       "source": {
@@ -110,7 +115,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/03/14/multimedia/14tariffs1-wjmb/14tariffs1-wjmb-facebookJumbo.jpg",
       "publishedAt": "2025-03-13T23:36:47Z",
       "content": "It’s not clear who will benefit if President Trump follows through on his threat to impose 200 percent tariffs on all wines and alcoholic beverages from the European Union, but it certainly would not be American consumers.\nThe tariff warning was post... [680 chars]",
-      "tags": ["trade", "economy_finance", "small_business"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "small_business"
+      ],
+      "publishedAtTs": 1741909007
     },
     {
       "source": {
@@ -130,7 +140,8 @@
         "budget",
         "foreign_policy",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1741908821
     },
     {
       "source": {
@@ -149,7 +160,8 @@
         "policy_legislation",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1741908210
     },
     {
       "source": {
@@ -169,7 +181,8 @@
         "ukraine",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1741908180
     },
     {
       "source": {
@@ -189,7 +202,8 @@
         "government_administration",
         "policy_legislation",
         "stock_market"
-      ]
+      ],
+      "publishedAtTs": 1741908139
     }
   ]
 }

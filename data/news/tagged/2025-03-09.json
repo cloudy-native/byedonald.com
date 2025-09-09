@@ -20,7 +20,8 @@
         "foreign_policy",
         "china",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1741564638
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "free_speech",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1741564595
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "canada",
         "trade",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1741564533
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "foreign_policy",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1741564518
     }
   ]
 }

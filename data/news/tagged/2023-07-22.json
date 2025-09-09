@@ -19,7 +19,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690066800
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/hoganlarry_manchinejoe_youngkinglenn_072123getty-gn_split_late-entries.jpg?w=1280",
       "publishedAt": "2023-07-22T21:00:00Z",
       "content": "A number of politicians are stoking speculation that they could make late entries into the 2024 presidential race ahead of what’s shaping up to be a potential rematch between President Biden and former President Trump.\nFormer Maryland Gov. Larry Hoga... [7478 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1690059600
     },
     {
       "source": {
@@ -47,7 +52,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/23/600x338/Donald_Trump_1690092415203_1690092415444.JPG",
       "publishedAt": "2023-07-22T18:30:00Z",
       "content": "Former President of the United States Donald Trump recently said that things \"would be very dangerous\" if he were to go to prison.\n“I think it is extremely dangerous to even talk about this. We do have a passionate group of voters. They are much more... [1706 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1690050600
     },
     {
       "source": {
@@ -61,7 +71,11 @@
       "urlToImage": "https://static.politico.com/ff/df/b143b736488cad42218e757dcdeb/https-delivery-gettyimages.com/downloads/1390124615",
       "publishedAt": "2023-07-22T16:29:50Z",
       "content": "“That’s 60% of the voters right now that are not with Trump in New Hampshire,” Sununu said. “I think that number will grow even more and more.”\nBut despite his repeated insistence that Republicans should not pick Trump for 2024, Sununu has yet to end... [1043 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1690043390
     },
     {
       "source": {
@@ -75,7 +89,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/07/donald-trump-0713221.jpg",
       "publishedAt": "2023-07-22T15:00:01Z",
       "content": "Here's a guy, he's in his late 20s, maybe early 30s, he owns a big hotel in midtown Manhattan, he's a millionaire many times over, he's in the papers so much that he's famous just for being who he is, he can have anything he wants in life, he can hav... [11381 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1690038001
     },
     {
       "source": {
@@ -89,7 +108,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2260840/donald-trump-faith-questions-reaction.jpg",
       "publishedAt": "2023-07-22T14:28:35Z",
       "content": "Former President Donald Trump's response to a woman's question about his personal religious faith has raised eyebrows and questions for many observers.\nTrump, who is currently running for the 2024 Republican presidential nomination in a bid to retake... [4190 chars]",
-      "tags": ["personal_family", "social_issues", "media_communications"]
+      "tags": [
+        "personal_family",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1690036115
     },
     {
       "source": {
@@ -103,7 +127,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/0d4f376071f2c0026902f97673f9cb47fc042c9f/479_0_3451_2072/master/3451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=306fcb474f14d8edbf5c493571b50820",
       "publishedAt": "2023-07-22T14:00:14Z",
       "content": "Cineworld on Glasgow’s Renfrew Street might be the tallest cinema building in the world, with 10 floors hosting almost 20 screens, but on Friday evening it felt like only two were really necessary.\nDubbed “Barbenheimer”, the simultaneous opening of t... [5005 chars]",
-      "tags": ["media_communications", "social_issues", "health_science"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "health_science"
+      ],
+      "publishedAtTs": 1690034414
     },
     {
       "source": {
@@ -117,7 +146,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000014440540.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-07-22T13:27:11Z",
       "content": "“QAnon Shaman” Jacob Chansley is totally over his bromance with Twitter CEO Elon Musk, and is no “fanboy” of former President Donald Trump either, he told The Post in an exclusive interview.\n“I support Trump because he addressed a lot of things that ... [4359 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1690032431
     },
     {
       "source": {
@@ -131,7 +165,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721120508-republicans-fundraising-trump.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-07-22T12:26:33Z",
       "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nFor any Republican presidential candidate not named Donald Trump, making the first primary debate on August 23 in Milwaukee is an... [9393 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1690028793
     },
     {
       "source": {
@@ -149,7 +187,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1690028431
     },
     {
       "source": {
@@ -169,7 +208,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690023611
     },
     {
       "source": {
@@ -183,7 +223,12 @@
       "urlToImage": "https://static.politico.com/e6/a2/c89414a444b28ca70a26b159aa52/https-delivery-gettyimages.com/downloads/1258812244",
       "publishedAt": "2023-07-22T11:00:00Z",
       "content": "And everyone did their best not to talk about the ever-approaching elephant in the room: Donald Trump.\nHere are a few of our takeaways from four days of group discussions, one-on-one interviews and the occasional ambushing of officials in Aspen’s fan... [5584 chars]",
-      "tags": ["foreign_policy", "russia", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1690023600
     },
     {
       "source": {
@@ -197,7 +242,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/trumpdonald_062423gn54_w.jpg?w=1280",
       "publishedAt": "2023-07-22T10:00:00Z",
       "content": "Former President Trump isn’t just campaigning for the White House. Increasingly, he could be campaigning for his freedom.\nTrump this week announced he has been informed he is a target in the Justice Department investigation into his efforts to remain... [5775 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1690020000
     },
     {
       "source": {
@@ -215,7 +265,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1690016408
     },
     {
       "source": {
@@ -229,7 +280,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/f2b87d7/2147483647/strip/true/crop/4209x2368+0+219/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F45%2F96%2Fbfaa989a154fe72ef3a6d3f907ed%2Fa721c43925fe4fe2ab31a55ebc99acb3",
       "publishedAt": "2023-07-22T08:10:46Z",
       "content": "HUDSON, N.H. (AP) — They acknowledge Donald Trump’s dominance, but weary Republicans across New Hampshire — even inside the governor’s office — are fighting to stop the former president from winning the first-in-the-nation primary.\nFor now, however, ... [7102 chars]",
-      "tags": ["elections_politics", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1690013446
     },
     {
       "source": {
@@ -247,7 +302,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1689994800
     },
     {
       "source": {
@@ -261,7 +317,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/9f6aeea/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F26%2F8d%2Fee687c3f4036970c5cc0d5a0095c%2Fcollage-maker-14-jul-2023-10-09-pm-5486.jpg",
       "publishedAt": "2023-07-22T02:27:00Z",
       "content": "Former New Jersey Gov. Chris Christie called out former President Donald Trump over reports that he’s diverting money raised in his 2024 presidential campaign to cover fees for legal defenses as he prepares for multiple criminal trials.\n“Grifting is ... [1984 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1689992820
     },
     {
       "source": {
@@ -275,7 +336,12 @@
       "urlToImage": "https://images.firstpost.com/wp-content/uploads/2023/06/DonaldTrump640AFP.jpg",
       "publishedAt": "2023-07-22T02:04:57Z",
       "content": "A US court on Friday announced the trial date of former President Donald Trump’s case of mishandling classified documents. The case will be heard from May 20 next year.\nTrump’s lawyers had resisted setting a date but said any trial should take place ... [1448 chars]",
-      "tags": ["legal_justice", "personal_family", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689991497
     }
   ]
 }

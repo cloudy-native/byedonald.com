@@ -20,7 +20,8 @@
         "personal_family",
         "regional_state",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1723075058
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1723074949
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "regional_state",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1723074753
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w750",
       "publishedAt": "2024-08-07T23:45:26Z",
       "content": "Crude oil futures jumped more than 2% Wednesday, continuing to bounce off YTD lows reached in the rout of global equities, boosted by a bigger than expected drawdown in U.S. crude oil stocks while traders remained on edge over the possibility of a re... [2242 chars]",
-      "tags": ["energy", "economy_finance", "government_administration"]
+      "tags": [
+        "energy",
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1723074326
     },
     {
       "source": {
@@ -88,7 +96,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/uaw-strike-day-16-fain-warns-members-not-to-let-automaker-messaging-divide-them.jpg?id=47411791&width=1200&height=600&coordinates=0%2C133%2C0%2C134",
       "publishedAt": "2024-08-07T23:40:24Z",
       "content": "United Auto Workers President Shawn Fain delivered a fiery speech at a rally for Democratic presidential nominee Kamala Harris and slammed Republican presidential nominee Donald Trump as the crowd erupted into chants of \"He's a scab!\"\nFain, whose uni... [1820 chars]",
-      "tags": ["labor", "elections_politics", "media_communications"]
+      "tags": [
+        "labor",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1723074024
     },
     {
       "source": {
@@ -106,7 +119,8 @@
         "elections_politics",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723073814
     },
     {
       "source": {
@@ -120,7 +134,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/07/joe-biden-and-donald-trump-2024-07-9ed4e7152f3de3a333ce70b436957504-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-08-07T23:27:28Z",
       "content": "President Joe Biden said Wednesday that he doesn’t have confidence there’ll be a peaceful transition of power if former President Donald Trump loses in November, pointing to comments from the Republican nominee suggesting the only way he’d lose is if... [2381 chars]",
-      "tags": ["elections_politics", "security_intelligence", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1723073248
     },
     {
       "source": {
@@ -140,7 +159,8 @@
         "media_communications",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723073184
     },
     {
       "source": {
@@ -158,7 +178,8 @@
         "elections_politics",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723072684
     },
     {
       "source": {
@@ -178,7 +199,8 @@
         "media_communications",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723072594
     },
     {
       "source": {
@@ -192,7 +214,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2445537/kamalaharris-takes-new-lead-likely-2024.jpg",
       "publishedAt": "2024-08-07T23:06:53Z",
       "content": "For the first time in nearly a year, Americans expect the Democratic presidential nominee to beat former President Donald Trump in November.\nAccording to the latest poll from The Economist/YouGov, 40 percent of U.S. adults who were surveyed between A... [3237 chars]",
-      "tags": ["elections_politics", "2028_presidential", "polling"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "polling"
+      ],
+      "publishedAtTs": 1723072013
     },
     {
       "source": {
@@ -212,7 +239,8 @@
         "media_communications",
         "press_relations",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1723071600
     },
     {
       "source": {
@@ -232,7 +260,8 @@
         "media_communications",
         "press_relations",
         "interviews"
-      ]
+      ],
+      "publishedAtTs": 1723071600
     },
     {
       "source": {
@@ -250,7 +279,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723071600
     },
     {
       "source": {
@@ -268,7 +298,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723071517
     }
   ]
 }

@@ -20,7 +20,8 @@
         "legal_justice",
         "crisis_emergency",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730418765
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/9681f67/2147483647/strip/true/crop/3046x1713+0+158/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F02%2Fda86ea707bdaf25d54f999888cbe%2Fe5cb6e9fde05468b80d7862e64e1cfff",
       "publishedAt": "2024-10-31T23:49:43Z",
       "content": "WASHINGTON (AP) — Never before in a presidential election cycle has there been so much discussion of the child tax credit — a tool many Democrats and Republicans have endorsed as a way to lift children and young families out of poverty.\nJust three ye... [6177 chars]",
-      "tags": ["policy_legislation", "economy_finance", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "social_issues"
+      ],
+      "publishedAtTs": 1730418583
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/KAM345.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-10-31T23:46:01Z",
       "content": "The biggest lie roiling the presidential election is Kamala Harris’ claim that Donald Trump will ban abortion nationwide.\nAbortion rights do not hinge on who is elected president, Trump or Harris.\nOr on which party controls Congress.\nThe issue is out... [5079 chars]",
-      "tags": ["legal_justice", "social_issues", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1730418361
     },
     {
       "source": {
@@ -62,7 +73,12 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8c8029609bb8298c9a51725c073a4b07?impolicy=wcms_watermark_news&cropH=2264&cropW=4025&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "publishedAt": "2024-10-31T23:42:27Z",
       "content": "Welcome back to your weekly update on US politics, where North America bureau chief Jade Macmillan catches you up on the biggest developments in America as we hurtle towards election day on Tuesday.\nThree months after his dramatic exit from the US el... [8280 chars]",
-      "tags": ["elections_politics", "media_communications", "crisis_emergency"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1730418147
     },
     {
       "source": {
@@ -76,7 +92,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-hdgd16egh-1730416319212.jpg?quality=75&strip=all&1730401991&w=1024",
       "publishedAt": "2024-10-31T23:37:50Z",
       "content": "If you’d like more cash in your pocket and an economy fired up by tax cuts, then Donald Trump is your man hands down.\nNo one is more eager to cut taxes than Trump.\nCertainly not Kamala Harris; she’ll have you paying your “fair share” — over and over ... [3505 chars]",
-      "tags": ["economy_finance", "policy_legislation", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1730417870
     },
     {
       "source": {
@@ -96,7 +117,8 @@
         "regional_state",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1730417665
     },
     {
       "source": {
@@ -116,7 +138,8 @@
         "media_communications",
         "political_endorsements",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1730417244
     },
     {
       "source": {
@@ -136,7 +159,8 @@
         "media_communications",
         "social_media",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1730417144
     },
     {
       "source": {
@@ -150,7 +174,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
       "publishedAt": "2024-10-31T23:24:10Z",
       "content": "LeBron James, the NBA's top scorer, publicly endorsed Vice President Kamala Harris in her presidential campaign against Donald Trump, joining a slew of celebrities backing Harris, including Meryl Streep and Oprah Winfrey.\nJames, who shared a critical... [328 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1730417050
     },
     {
       "source": {
@@ -170,7 +199,8 @@
         "media_communications",
         "foreign_policy",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1730416775
     },
     {
       "source": {
@@ -184,7 +214,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/donald-trump-gives-campaign-speech-92779413.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-10-31T23:12:23Z",
       "content": "Could the presidential election’s battleground states ultimately be as uncompetitive as the just-wrapped World Series?\nThat’s the question prompted by a fresh slate of Atlas Intel swing-state surveys that shows Donald Trump on track for 287 electoral... [3097 chars]",
-      "tags": ["elections_politics", "polling", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "polling",
+        "swing_states"
+      ],
+      "publishedAtTs": 1730416343
     },
     {
       "source": {
@@ -198,7 +233,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/RTME5PYP2FFUXFWIMU6X6XLSWQ.jpg?auth=d7f8776f09fe4d4ccceb8cac564c0c1c255b1c038012d1d6193a333b1b909820&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2024-10-31T22:52:17Z",
       "content": "Republican presidential candidate Donald Trump sued CBS on Thursday over an interview of his Democratic rival Kamala Harris aired on its “60 Minutes” news program in early October that the lawsuit alleged was misleading, according to a court filing.\n... [1162 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1730415137
     },
     {
       "source": {
@@ -218,7 +258,8 @@
         "womens_rights",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730414722
     },
     {
       "source": {
@@ -232,7 +273,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/6XY47BODKBAJDCZODO6AOE5EAY.JPG?auth=d3434ad734c11de95f7fc1b2362e1e33e8d37dc3d29484d722f852e3f46a7f6e&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2024-10-31T22:42:05Z",
       "content": "Open this photo in gallery: Cargo is unloaded in Savannah, Ga., on Oct. 4, after longshoremen on the East and Gulf Coasts suspended their strike.ADAM KUEHL/The New York Times News Service\nDonald Trump loves to talk about how much he loves tariffs. Do... [4975 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1730414525
     },
     {
       "source": {
@@ -246,7 +292,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/us-vice-president-democratic-presidential-92780353.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-10-31T22:41:39Z",
       "content": "Vice President Kamala Harris urged Arizonans to turn out to vote for a measure reaffirming abortion access — and to support her while they’re at it — during a Thursday rally at which she again misstated former President Donald Trump’s policies on rep... [2111 chars]",
-      "tags": ["policy_legislation", "elections_politics", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1730414499
     },
     {
       "source": {
@@ -265,7 +316,8 @@
         "elections_politics",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1730413590
     },
     {
       "source": {
@@ -279,7 +331,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_10_2024_19_35_35_7762214.jpg?width=920&format=jpeg",
       "publishedAt": "2024-10-31T22:21:43Z",
       "content": "Donald Trump, the Republican presidential candidate, has initiated legal proceedings against CBS, contending that the network misrepresented an interview with his Democratic competitor, Kamala Harris, during a '60 Minutes' broadcast in early October.... [615 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1730413303
     },
     {
       "source": {
@@ -299,7 +356,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730413235
     },
     {
       "source": {
@@ -317,7 +375,8 @@
         "security_intelligence",
         "government_administration",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1730413037
     },
     {
       "source": {
@@ -337,7 +396,8 @@
         "womens_rights",
         "voting_rights",
         "campaign_finance"
-      ]
+      ],
+      "publishedAtTs": 1730412754
     },
     {
       "source": {
@@ -356,7 +416,8 @@
         "media_communications",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730412739
     },
     {
       "source": {
@@ -376,7 +437,8 @@
         "health_science",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730412308
     },
     {
       "source": {
@@ -390,7 +452,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6723e42c1d000035004d0e3e.jpeg?cache=hDx8tU1ACQ&ops=1200_630",
       "publishedAt": "2024-10-31T21:57:49Z",
       "content": "LOADING ERROR LOADING\nIn the first days of April 2020, Internal Revenue Service workers were on the verge of a victory lap. Despite tight deadlines imposed by Congress and pandemic-caused supply chain disruptions making it hard to secure paper, they ... [7844 chars]",
-      "tags": ["government_operations", "federal_agencies", "taxes"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "taxes"
+      ],
+      "publishedAtTs": 1730411869
     },
     {
       "source": {
@@ -408,7 +475,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730411786
     },
     {
       "source": {
@@ -427,7 +495,8 @@
         "legal_justice",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1730411520
     }
   ]
 }

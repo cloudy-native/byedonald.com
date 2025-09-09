@@ -14,7 +14,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_10_2024_12_41_33_4224104.jpg?width=920&format=jpeg",
       "publishedAt": "2024-10-30T23:55:22Z",
       "content": "With the U.S. election looming, Vice President Kamala Harris holds a slight lead over former President Donald Trump in key battlegrounds Michigan and Wisconsin, according to a CNN poll. However, the race remains neck-and-neck in Pennsylvania, a pivot... [640 chars]",
-      "tags": ["elections_politics", "polling", "legal_justice", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "polling",
+        "legal_justice",
+        "swing_states"
+      ],
+      "publishedAtTs": 1730332522
     },
     {
       "source": {
@@ -28,7 +34,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/0684710/2147483647/strip/true/crop/5279x2969+0+275/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2F76%2Ff0b9eef8a6bbf58401a753fe2476%2F8581b62857554ab7aa3a75906942c60e",
       "publishedAt": "2024-10-30T23:45:26Z",
       "content": "Follow live: Updates from AP’s coverage of the presidential election.\nNEW YORK (AP) — Puerto Rican reggaeton singer Nicky Jam has withdrawn his endorsement of Donald Trump in the 2024 presidential election a month after appearing at a rally for the c... [3178 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1730331926
     },
     {
       "source": {
@@ -42,7 +53,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-6u1mlgoyo-1730335143501.jpg?quality=75&strip=all&1730320784&w=1024",
       "publishedAt": "2024-10-30T23:31:31Z",
       "content": "MESQUITE, Nev. — Voters in this largely GOP enclave in the northeast part of largely Democratic Clark County don’t like President Biden dumping on them and their Trump-voting swing-state neighbors as “garbage.”\nIn a get-out-the-vote video call Tuesda... [2348 chars]",
-      "tags": ["elections_politics", "regional_state", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1730331091
     },
     {
       "source": {
@@ -60,7 +76,8 @@
         "media_communications",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1730331010
     },
     {
       "source": {
@@ -80,7 +97,8 @@
         "regional_state",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1730330891
     },
     {
       "source": {
@@ -94,7 +112,12 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/10/trash_cans_2.jpg",
       "publishedAt": "2024-10-30T23:26:34Z",
       "content": "Claim: Photographs show NYC’s sanitation department installed \"Keep NYC Trash Free\" signs above images of Trump supporters in \"Make America Great Again\" hats in October 2024. Rating: About this rating Miscaptioned Context The posters were not created... [5152 chars]",
-      "tags": ["media_communications", "social_issues", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1730330794
     },
     {
       "source": {
@@ -108,7 +131,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_08_2024_13_30_58_6256993.png?width=920&format=jpeg",
       "publishedAt": "2024-10-30T23:24:38Z",
       "content": "As the U.S. presidential campaign enters its final week, Republican candidate Donald Trump and Democratic rival Kamala Harris engage in heated rhetoric, each accusing the other of causing national discord.\nTrump wore an orange safety vest in Green Ba... [305 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1730330678
     },
     {
       "source": {
@@ -128,7 +155,8 @@
         "economy_finance",
         "stock_market",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730329929
     },
     {
       "source": {
@@ -142,7 +170,12 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-election-harris-buzz_6733869.jpg?20241030224055",
       "publishedAt": "2024-10-30T23:10:00Z",
       "content": "Harris forced to fight Biden-made fires late in the election - but will it cost her?\nLess than a week out from the election and Kamala Harris is spending her day cleaning up President Biden's mess.\nBiden waded into the controversy over Donald Trump's... [2001 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1730329800
     },
     {
       "source": {
@@ -160,7 +193,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1730329619
     },
     {
       "source": {
@@ -174,7 +208,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/722045/uploads/a1dd5920-96c0-11ef-be9d-413084c62afc_1200_630.jpeg",
       "publishedAt": "2024-10-30T23:00:19Z",
       "content": "In the final days leading up to the 2024 election, the contest between Democratic candidate Kamala Harris and Republican candidate Donald Trump has grown more intense. Even in the battleground states, the polling numbers are very close. However, rece... [3007 chars]",
-      "tags": ["elections_politics", "2028_presidential", "polling"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "polling"
+      ],
+      "publishedAtTs": 1730329219
     },
     {
       "source": {
@@ -188,7 +227,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/102924_HARRIS_DC_RALLY-48.webp",
       "publishedAt": "2024-10-30T22:56:13Z",
       "content": "ALLENTOWN, Pennsylvania — The late afternoon here in the Lehigh Valley was abuzz with an anticipation by some in the media and some residents that massive protests might converge outside the PPL Center where former President Donald Trump would be hol... [4904 chars]",
-      "tags": ["elections_politics", "regional_state", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1730328973
     },
     {
       "source": {
@@ -202,7 +246,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/trump-garbage-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-10-30T22:55:37Z",
       "content": "Former President Donald Trump was greeted at a Wisconsin airport Wednesday by a “big, beautiful MAKE AMERICA GREAT AGAIN Garbage Truck.”\n“How do you like my garbage truck?” Trump, who was wearing an orange safety vest, asked reporters while sitting i... [2893 chars]",
-      "tags": ["regional_state", "media_communications", "personal_family"]
+      "tags": [
+        "regional_state",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1730328937
     },
     {
       "source": {
@@ -216,7 +265,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/fab76cb2b54ea7daf7e6c18d585a27f416906de9/0_241_3542_2125/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c136bbeb96cd2dc52292c253d494af",
       "publishedAt": "2024-10-30T22:55:34Z",
       "content": "In the days leading up to the election, mysterious monuments continue to pop up in cities across the US, poking fun at candidate Donald Trump and his supporters.\nOn Wednesday in Maja Park in Philadelphia, a large statue of Donald Trump was propped up... [3740 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1730328934
     },
     {
       "source": {
@@ -230,7 +284,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2508488/trump-garbage-truck-wisconsin-rally.jpg",
       "publishedAt": "2024-10-30T22:55:09Z",
       "content": "Former President Donald Trump rode in a garbage truck ahead of his rally in Green Bay, Wisconsin, on Wednesday in a dig at President Joe Biden.\nBiden sent MAGA world into a frenzy earlier this week when he appeared to refer to Trump's supporters as \"... [3006 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1730328909
     },
     {
       "source": {
@@ -244,7 +303,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_11_58_16_5328163.png?width=920&format=jpeg",
       "publishedAt": "2024-10-30T22:48:13Z",
       "content": "Two election officials from Rock River Township, Michigan, have been dismissed from overseeing the upcoming U.S. presidential election after insisting on handcounting ballots, in reportedly a breach of state law. This decision by Michigan Bureau of E... [985 chars]",
-      "tags": ["elections_politics", "voting_rights", "federal_courts"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1730328493
     },
     {
       "source": {
@@ -264,7 +328,8 @@
         "media_criticism",
         "political_endorsements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730328437
     },
     {
       "source": {
@@ -283,7 +348,8 @@
         "political_endorsements",
         "regional_state",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1730327801
     },
     {
       "source": {
@@ -302,7 +368,8 @@
         "political_endorsements",
         "2028_presidential",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730327703
     },
     {
       "source": {
@@ -316,7 +383,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/10/Trump-smarmy-.jpg?quality=90&strip=all&crop=0,10.636882933167,100,78.726234133665",
       "publishedAt": "2024-10-30T22:30:00Z",
       "content": "is a senior correspondent on the Culture team for Vox, where since 2016 she has covered books, publishing, gender, celebrity analysis, and theater.\nIn 2016, when Donald Trump was first elected president, today’s 18-year-olds were only 10. So when foo... [4172 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1730327400
     },
     {
       "source": {
@@ -330,7 +402,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/17/a170500f-b914-54f8-8c98-a0bb3d534561/67229ceb24c9b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-10-30T22:30:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "swing_states", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "swing_states",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1730327400
     },
     {
       "source": {
@@ -350,7 +427,8 @@
         "campaign_events",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730327157
     },
     {
       "source": {
@@ -369,7 +447,8 @@
         "2028_presidential",
         "media_communications",
         "interviews"
-      ]
+      ],
+      "publishedAtTs": 1730326953
     },
     {
       "source": {
@@ -383,7 +462,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/newspress-collage-pyt4jbapw-1730334881805.jpg?quality=75&strip=all&1730320541&w=1024",
       "publishedAt": "2024-10-30T22:17:58Z",
       "content": "New Keystone State polling shows a closely divided presidential race that’ll likely be decided on gender grounds — with when exactly people choose to vote also a big tell on whether they prefer Donald Trump or Kamala Harris.\nThe Quinnipiac survey of ... [2998 chars]",
-      "tags": ["elections_politics", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "swing_states"
+      ],
+      "publishedAtTs": 1730326678
     }
   ]
 }

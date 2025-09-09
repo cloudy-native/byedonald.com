@@ -19,7 +19,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1716767545
     },
     {
       "source": {
@@ -33,7 +34,10 @@
       "urlToImage": "https://media.nbcboston.com/2024/05/AP24148109535379.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2024-05-26T23:38:11Z",
       "content": "The Libertarian Party on Sunday nominated party activist Chase Oliver for president, rejecting former President Donald Trump and Robert F. Kennedy Jr. after they each spoke at the party's convention.\nThird parties have rarely been competitive in U.S.... [2291 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1716766691
     },
     {
       "source": {
@@ -47,7 +51,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33321704&width=1200&height=600&coordinates=0%2C26%2C0%2C27",
       "publishedAt": "2024-05-26T23:35:18Z",
       "content": "Some people are wondering if the Secret Service team charged with protecting Donald Trump is just playing politics.\nTrump recently gave a speech before the Libertarian National Convention, where he begged for the group's nomination despite being booe... [1869 chars]",
-      "tags": ["government_administration", "security_intelligence"]
+      "tags": [
+        "government_administration",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1716766518
     },
     {
       "source": {
@@ -61,7 +69,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDVcXFwvMjcxNTA1MjNcXFwvMi43NDYyODQ4OC1lMTcxNjgxODg0MDE5Ni5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImMwYmY4ZjgxZTc2YWMyYWYxNDU5YzJmZDM1MTVjZTJjN2FkZGIzMzkifQ==/theresa-may-i-should-have-met-grenfell-tower-survivors-sooner.jpg",
       "publishedAt": "2024-05-26T23:00:00Z",
       "content": "Former prime minister Theresa May has admitted in a documentary that she should have met Grenfell Tower survivors sooner after the 2017 fire.\nMrs May, who is standing down from Parliament at the election, also said she took responsibility for the UK ... [4178 chars]",
-      "tags": ["government_administration", "social_issues"]
+      "tags": [
+        "government_administration",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716764400
     },
     {
       "source": {
@@ -75,7 +87,11 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/05/AP24142343989414.jpg.optimal.jpg",
       "publishedAt": "2024-05-26T22:50:36Z",
       "content": "The Apprentice did not win a single award at the Cannes Film Festival on Saturday after losing out on its single nomination.\nThis biopic of former President Donald Trump has received pushback from his campaign, as it sent a cease and desist letter to... [1453 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1716763836
     },
     {
       "source": {
@@ -89,7 +105,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/eric-trump.jpg?id=32177862&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2024-05-26T22:24:23Z",
       "content": "Donald Trump's son, Eric, is catching some heat this Memorial Day weekend after a \"particularly disgusting\" statement he posted on social media.\nEric Trump, who made headlines due to his defendant status in a civil fraud lawsuit in New York as well a... [1640 chars]",
-      "tags": ["personal_family", "legal_justice", "media_communications"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1716762263
     },
     {
       "source": {
@@ -103,7 +124,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/world_section_default_image_crop-2023-10-646b43185e7dac20bd43538112f430e4-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-05-26T22:00:16Z",
       "content": "WASHINGTON:Presidential candidate Donald Trump was booed and heckled by many in a raucous audience at the Libertarian National Convention on Saturday night, a marked change from the adulation he receives at rallies from his fervently loyal supporters... [4617 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716760816
     },
     {
       "source": {
@@ -117,7 +142,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/25_08_2023_09_49_28_287002.jpg?width=920&format=jpeg",
       "publishedAt": "2024-05-26T21:58:45Z",
       "content": "Presidential candidate Donald Trump was booed and heckled by many in a raucous audience at the Libertarian National Convention on Saturday night, a marked change from the adulation he receives at rallies from his fervently loyal supporters. Libertari... [4501 chars]",
-      "tags": ["elections_politics", "social_issues", "public_health"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "public_health"
+      ],
+      "publishedAtTs": 1716760725
     },
     {
       "source": {
@@ -131,7 +161,11 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1537079-12-20240526120647.jpeg",
       "publishedAt": "2024-05-26T21:45:00Z",
       "content": "Donald Trump sought an invitation to address the Libertarian National Convention, the first such appearance by a current or former president, but he may have gotten more than he bargained for. The delegates loudly and persistently booed, jeered, and ... [1584 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716759900
     },
     {
       "source": {
@@ -145,7 +179,11 @@
       "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/2e15f15711f7d5bfdc79181caa1ae552",
       "publishedAt": "2024-05-26T21:41:08Z",
       "content": "(Reuters) - Returning Donald Trump to the presidency would be the more \"bearish\" choice for bond markets, famed bond investor Bill Gross said in an interview with The Financial Times.\nGross, once the most influential voice in the market, predicted to... [524 chars]",
-      "tags": ["economy_finance", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1716759668
     },
     {
       "source": {
@@ -159,7 +197,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51234620&width=1200&height=600&coordinates=0%2C443%2C0%2C444",
       "publishedAt": "2024-05-26T21:40:42Z",
       "content": "Donald Trump's most loyal supporters aren't happy with the ex-president's latest endorsements for 2024.\nTrump is known for the near-unbreakable hold he has on some of his fans, but his latest endorsements are ringing alarms for them, and they are mak... [3097 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716759642
     },
     {
       "source": {
@@ -173,7 +215,11 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/05/AP24145774757209.jpg.optimal.jpg",
       "publishedAt": "2024-05-26T21:23:03Z",
       "content": "Neither former President Donald Trump nor independent presidential candidate Robert F. Kennedy Jr. will be the Libertarian Party’s presidential nominee after both failed to make it through the party’s nomination process Sunday.\nTrump, who was nominat... [3006 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1716758583
     },
     {
       "source": {
@@ -187,7 +233,11 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/05/Alina-Habba.jpg.optimal.jpg",
       "publishedAt": "2024-05-26T21:11:23Z",
       "content": "Alina Habba, a longtime lawyer for former President Donald Trump, argued that jurors in Trump’s criminal hush money trial should have been sequestered to prevent influence from family and friends over the holiday weekend.\nClosing arguments are schedu... [1749 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1716757883
     },
     {
       "source": {
@@ -201,7 +251,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/republican-presidential-candidate-former-u-82730808-e1716756500413.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-05-26T21:11:13Z",
       "content": "Donald Trump’s first election redrew the map of American politics — suddenly Pennsylvania and Michigan were in the Republican column for the first time since the 1980s.\nBut they didn’t stay there: The Rust Belt states that made Trump president in 201... [4510 chars]",
-      "tags": ["elections_politics", "regional_state", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "swing_states"
+      ],
+      "publishedAtTs": 1716757873
     },
     {
       "source": {
@@ -215,7 +270,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24499673&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2024-05-26T21:10:44Z",
       "content": "Donald Trump on Sunday said that he would have won the Libertarian nomination \"if he wanted it,\" after being booed off stage and getting only six votes in the contest.\nTrump begged for the Libertarian nomination at the Libertarian National Convention... [1256 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1716757844
     },
     {
       "source": {
@@ -229,7 +288,11 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/4431716756356/2024/1/bb6ad90053bee4703ca71bc6634a7376/v1.5/Trump-booed-throughout-speech-to-Libertarians.jpg",
       "publishedAt": "2024-05-26T20:52:14Z",
       "content": "Former President Donald Trump speaks to reporters at Manhattan Criminal Court in New York on Tuesday, May 21, 2024. He was booed while speaking at the Libertarian party's national convention. Pool Photo by Mark Peterson/UPI | License Photo\nMay 26 (UP... [2059 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1716756734
     },
     {
       "source": {
@@ -243,7 +306,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-5gg15bhng-1716749716850.jpg?quality=75&strip=all&1716735391&w=1024",
       "publishedAt": "2024-05-26T20:21:18Z",
       "content": "One of former President Donald Trump’s top lawyers is nervous that jurors in his New York hush money trial are likely to be exposed to “Trump derangement syndrome” during their Memorial Day outings.\nWhile Alina Habba is confident about the merits of ... [4152 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1716754878
     },
     {
       "source": {
@@ -257,7 +324,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2399272/byron-donalds.jpg",
       "publishedAt": "2024-05-26T20:02:52Z",
       "content": "Representative Byron Donalds, a Florida Republican, responded on Sunday to MSNBC host Joy Reid's allegation that he is \"fake proof that Black people, the Blacks, are just MAGA.\" The congressman described Reid's remarks as \"nothing more than crabs in ... [3815 chars]",
-      "tags": ["social_issues", "media_communications"]
+      "tags": [
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1716753772
     },
     {
       "source": {
@@ -271,7 +342,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2399285/donald-trump.jpg",
       "publishedAt": "2024-05-26T19:33:47Z",
       "content": "Michael Steele, MSNBC host and former chair of the Republican National Committee, urged the justice system to put Donald Trump's \"behind in jail,\" on Sunday after the ex-president attacked the U.S. Department of Justice (DOJ) on social media last wee... [4237 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1716752027
     },
     {
       "source": {
@@ -285,7 +361,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2399281/alina-habba.jpg",
       "publishedAt": "2024-05-26T19:28:31Z",
       "content": "Former President Donald Trump's lawyer Alina Habba's remarks about his criminal hush money trial sparked mockery across social media on Sunday.\nTrump, the presumptive 2024 Republican presidential nominee, became the first former president in U.S. his... [5318 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1716751711
     },
     {
       "source": {
@@ -299,7 +379,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-np2hyt9lt-1716748610435.jpg?quality=75&strip=all&1716734274&w=1024",
       "publishedAt": "2024-05-26T19:15:26Z",
       "content": "Donald Trump’s well-attended rally in The Bronx last week is a “wake-up call” for President Biden and the Democrats, said ex-New York Democratic Gov. David Paterson on Sunday.\nPaterson, who also previously served as chairman of the state Democratic P... [3217 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716750926
     },
     {
       "source": {
@@ -313,7 +397,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33321704&width=1200&height=600&coordinates=0%2C26%2C0%2C27",
       "publishedAt": "2024-05-26T18:53:39Z",
       "content": "Trump is known for the near-unbreakable hold he has on some of his fans, but his latest endorsements are ringing alarms for them, and they are making their voices heard.\nTrump on Sunday, for instance, endorsed Congressman Anthony D’Esposito, who the ... [2993 chars]",
-      "tags": ["campaign_finance", "government_administration"]
+      "tags": [
+        "campaign_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1716749619
     },
     {
       "source": {
@@ -327,7 +415,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/aad69ebb484cfaca513020b39634707266e00262/0_98_2297_1378/master/2297.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db1b9521f8e1f5555e4ca53d318c3e89",
       "publishedAt": "2024-05-26T17:34:02Z",
       "content": "Donald Trump’s inner circle is stepping up efforts to woo Black and other minority voters, with a leading candidate to be his vice-presidential running mate claiming falsely on Sunday TV that Joe Biden was resegregating US public schools.\nTim Scott, ... [3663 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1716744842
     },
     {
       "source": {
@@ -341,7 +433,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-cab20xe0e-1716744657420.jpg?quality=75&strip=all&1716730521&w=1024",
       "publishedAt": "2024-05-26T17:28:10Z",
       "content": "Dennis Quaid, star of the upcoming biopic “Reagan,” expressed his respect for Donald Trump following the former president’s tours of minority communities in New York City.\nQuaid made an appearance on “Jesse Watters Primetime” following Trump’s landma... [2394 chars]",
-      "tags": ["personal_family", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1716744490
     },
     {
       "source": {
@@ -355,7 +451,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2399270/marjorie-taylor-greene.jpg",
       "publishedAt": "2024-05-26T17:09:12Z",
       "content": "Following former President Donald Trump's recent rally in New York City, Representative Marjorie Taylor Greene, a Georgia Republican, said she wants to invest in the Democratic stronghold city on Saturday.\nNew York City has a long-standing history as... [5056 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1716743352
     }
   ]
 }

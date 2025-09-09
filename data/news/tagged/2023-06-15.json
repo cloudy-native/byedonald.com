@@ -20,7 +20,8 @@
         "personal_family",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1686871690
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230615161331-21-week-in-photos-061523.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-06-15T23:00:13Z",
       "content": "Former US President Donald Trump, who was indicted by the Department of Justice over potential mishandling of classified documents, pleaded not guilty Tuesday to the charges against him.\nTrump has been charged with 37 counts, including 31 counts of w... [713 chars]",
-      "tags": ["legal_justice", "doj_actions", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1686870013
     },
     {
       "source": {
@@ -48,7 +54,10 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/06/NYPICHPDPICT000012751146.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2023-06-15T22:51:02Z",
       "content": "Ivanka Trump has disappeared from her father’s side at public events, but it seems the former First Daughter is still spending quality time with Dad behind closed doors.\nA spy tells Page Six they spotted Ivanka, her sons Joseph, 9, and Theodore, 6, M... [2841 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1686869462
     },
     {
       "source": {
@@ -62,7 +71,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/06/15/multimedia/15dc-boxes-01-gvkh/15dc-boxes-01-gvkh-facebookJumbo.jpg",
       "publishedAt": "2023-06-15T22:44:24Z",
       "content": "Shortly after John F. Kelly took over as Mr. Trump’s chief of staff in July 2017, Mr. Kelly and other aides grew concerned that some documents were likely presidential records and might go missing if they were kept in the residence. They impressed up... [1153 chars]",
-      "tags": ["personal_family", "government_administration", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686869064
     },
     {
       "source": {
@@ -81,7 +95,8 @@
         "policy_legislation",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1686868080
     },
     {
       "source": {
@@ -100,7 +115,8 @@
         "2026_midterms",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1686867676
     },
     {
       "source": {
@@ -114,7 +130,11 @@
       "urlToImage": "https://static.politico.com/2b/bd/9d3fcdc8459bb84406fe764307de/trump-classified-documents-26435.jpg",
       "publishedAt": "2023-06-15T22:14:31Z",
       "content": "Members of RNC leadership arranged a call with Hutchinson on Thursday, but the former governor himself did not take part in the conversation, only a staff member. During the brief call, RNC leaders declined to make any changes to debate requirements ... [5980 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686867271
     },
     {
       "source": {
@@ -128,7 +148,13 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/2J33F3DMPVHURGLWWELIY4O4MM.jpg?_a=ATCqVhC0",
       "publishedAt": "2023-06-15T22:11:04Z",
       "content": "Former President Donald Trump speaks at Trump National Golf Club in Bedminster, N.J., Tuesday, June 13, 2023, after pleading not guilty in a Miami courtroom earlier in the day to dozens of felony counts that he hoarded classified documents and refuse... [3713 chars]",
-      "tags": ["taxes", "legal_justice", "personal_family", "regional_state"]
+      "tags": [
+        "taxes",
+        "legal_justice",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1686867064
     },
     {
       "source": {
@@ -142,7 +168,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/BZbnv-P7VTsUk1d0EnyutIXoMbk=/1200x630/filters:format(jpg):quality(70):focal(1293x687:1303x697)/cloudfront-us-east-1.images.arcpublishing.com/tronc/HACDZPWAM2PDYDQNY5OMA6QNDM.jpg",
       "publishedAt": "2023-06-15T22:00:07Z",
       "content": "Former President Donald Trump’s campaign boasted Thursday that it has raised $6.6 million since he was indicted on federal charges tied to the Mar-a-Lago classified documents case.\nThe 2024 Trump campaign claims it scooped $4.5 million from digital d... [2103 chars]",
-      "tags": ["personal_family", "elections_politics", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686866407
     },
     {
       "source": {
@@ -156,7 +187,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/lrx_lUIZIwpO-ZaGWOlvsjhU5GM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/56OQTEK4S5C7PKOGQUJ6I5U75I.jpg",
       "publishedAt": "2023-06-15T21:54:30Z",
       "content": "Chris Christie has enjoyed a modest bounce in support since announcing his Republican presidential campaign with a series of blistering attacks on former President Donald Trump.\nThe former New Jersey governor, who has trashed Trump as a “three-time l... [1598 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686866070
     },
     {
       "source": {
@@ -170,7 +206,12 @@
       "urlToImage": "https://images.wsj.net/im-799326/social",
       "publishedAt": "2023-06-15T21:42:00Z",
       "content": "Peggy Noonan is an opinion columnist at the Wall Street Journal where her column, \"Declarations,\" has run since 2000.\nShe was awarded the Pulitzer Prize for Commentary in 2017. A political analyst for NBC News, she is the author of nine books on Amer... [1121 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686865320
     },
     {
       "source": {
@@ -184,7 +225,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/06/15/multimedia/15dc-security-gtvm/15dc-security-gtvm-facebookJumbo.jpg",
       "publishedAt": "2023-06-15T21:40:45Z",
       "content": "The judge overseeing former President Donald J. Trump’s indictment on charges of illegally retaining national defense information issued an order on Thursday instructing any lawyer who wants to take part in the case to start the process of obtaining ... [1049 chars]",
-      "tags": ["legal_justice", "security_clearances", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "security_clearances",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1686865245
     },
     {
       "source": {
@@ -198,7 +244,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=32376957&width=1200&height=600&coordinates=0%2C25%2C0%2C26",
       "publishedAt": "2023-06-15T21:26:32Z",
       "content": "Davis is the founder and president of the Restoration Project, a predominantly Black anti-abortion organization run on Christian values. Davis said she was raised in a conservative Black household and is tired of the lack of attention paid to issues ... [6561 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686864392
     },
     {
       "source": {
@@ -212,7 +263,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/30b79816951ee51f7e245a598a132f6b92ce6bab/0_27_3461_2078/master/3461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=735207144e4c6c0a0e4f0344d9e51bdf",
       "publishedAt": "2023-06-15T21:20:28Z",
       "content": "Donald Trump headed to Miami’s famous Cuban restaurant Versailles after his arraignment at the city’s federal courthouse on Tuesday and is said to have declared to a crowd of admirers “Food for everyone!” after walking inside.\nIt was a promise, thoug... [1268 chars]",
-      "tags": ["personal_family", "media_communications", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686864028
     },
     {
       "source": {
@@ -226,7 +282,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/merrick-garland-may-have-two-paths-to-filing-charges-against-trump-report.jpg?id=31289723&width=1200&height=600&coordinates=0%2C28%2C0%2C29",
       "publishedAt": "2023-06-15T21:03:03Z",
       "content": "“He quit about a month ago,” Corbin City Manager Marlon Sams told Raw Story on Thursday.\nThe new information reveals how dangerous the June 3 rally had become and supports assertions by attendees that the dramatic scene in a small town with a history... [5783 chars]",
-      "tags": ["legal_justice", "doj_actions", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "government_administration"
+      ],
+      "publishedAtTs": 1686862983
     },
     {
       "source": {
@@ -240,7 +301,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230613164139-05-donald-trump-court-sketch.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-06-15T20:36:13Z",
       "content": "Washington CNN —\nFormer President Donald Trump argued in a Tuesday speech that it is “outrageous” for him to be charged under the Espionage Act for having classified documents at his Mar-a-Lago club and residence.\n“The Espionage Act has been used to ... [6750 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1686861373
     },
     {
       "source": {
@@ -254,7 +320,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/bk3S9W79nIvLhDq79vQxW8p9rps=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/JZW6ZWIETCBTS4XYDKSQIS6FIA.jpg",
       "publishedAt": "2023-06-15T20:21:58Z",
       "content": "Patrons at Miami eatery Versailles cheered when Donald Trump twice declared “Food for everyone!” during a surprise stop at the Little Havana hotspot. Then he left without buying food for anyone, according to a local report.\nFresh off pleading not gui... [1892 chars]",
-      "tags": ["personal_family", "florida", "regional_state"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1686860518
     },
     {
       "source": {
@@ -274,7 +345,8 @@
         "elections_politics",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1686860428
     },
     {
       "source": {
@@ -288,7 +360,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RBRCdi5XV7Wc2ZSTPBd.qg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/eccca470-0bb3-11ee-b6fe-79471621aba9",
       "publishedAt": "2023-06-15T19:51:45Z",
       "content": "Donald Trump at an event at his golf club in Bedminster, N.J., on Tuesday. (Jabin Botsford/Washington Post via Getty Images)\nSome of Donald Trump's 2024 Republican rivals for president have begun to acknowledge that the Justice Department charges aga... [4152 chars]",
-      "tags": ["elections_politics", "legal_justice", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1686858705
     },
     {
       "source": {
@@ -302,7 +379,12 @@
       "urlToImage": "https://images.wsj.net/im-800798/social",
       "publishedAt": "2023-06-15T19:43:00Z",
       "content": "Former President Donald Trump in Bedminster, N.J.,, June 13. Photo: ed jones/Agence France-Presse/Getty Images\nIt is difficult to imagine that this indictment would be happening to anyone whose name isn’t Donald Trump (“A Destructive Trump Indictment... [475 chars]",
-      "tags": ["legal_justice", "personal_legal", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686858180
     },
     {
       "source": {
@@ -316,7 +398,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230609100341-aileen-cannon.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-06-15T19:35:23Z",
       "content": "CNN —\nUS District Judge Aileen Cannon issued her first order since former President Donald Trump pleaded not guilty to charges brought by special counsel Jack Smith for allegedly mishandling classified information, instructing the parties to get the ... [2257 chars]",
-      "tags": ["legal_justice", "security_clearances"]
+      "tags": [
+        "legal_justice",
+        "security_clearances"
+      ],
+      "publishedAtTs": 1686857723
     },
     {
       "source": {
@@ -336,7 +422,8 @@
         "supreme_court",
         "doj_actions",
         "federal_courts"
-      ]
+      ],
+      "publishedAtTs": 1686857526
     },
     {
       "source": {
@@ -355,7 +442,8 @@
         "legal_justice",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1686857400
     },
     {
       "source": {
@@ -375,7 +463,8 @@
         "supreme_court",
         "doj_actions",
         "federal_courts"
-      ]
+      ],
+      "publishedAtTs": 1686857340
     },
     {
       "source": {
@@ -389,7 +478,12 @@
       "urlToImage": "https://static.politico.com/28/6e/a927006741739f57e36ccaa21d3c/trump-classified-documents-25524.jpg",
       "publishedAt": "2023-06-15T19:03:19Z",
       "content": "The case against Trump revolves around his alleged hoarding of highly classified national security documents at his private residence, and then obstructing efforts by federal officials to reclaim them. To make its case, the government is likely going... [891 chars]",
-      "tags": ["legal_justice", "security_clearances", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "security_clearances",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686855799
     }
   ]
 }

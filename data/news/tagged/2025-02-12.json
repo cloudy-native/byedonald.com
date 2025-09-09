@@ -20,7 +20,8 @@
         "education",
         "legal_justice",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1739404757
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "federal_agencies",
         "legal_justice",
         "civil_litigation"
-      ]
+      ],
+      "publishedAtTs": 1739404170
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/Y2RB2IHLFVBVZFX3MSFR7C2T4E.jpg?auth=0aaae8ab98c334e8c9f820aa6963e5af8b2f714f20760dd00ba98ca0ff08a326&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-02-12T23:48:36Z",
       "content": "A federal judge on Wednesday cleared the way for President Donald Trump ‘s plan to downsize the federal workforce with a deferred resignation program.\nIt was a significant legal victory for the Republican president after a string of courtroom setback... [1219 chars]",
-      "tags": ["government_operations", "federal_agencies", "personnel"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "personnel"
+      ],
+      "publishedAtTs": 1739404116
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yaaW1wjPVeIQxLGkSf.l4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-02/ebf83db0-e998-11ef-b79e-2b0176377919",
       "publishedAt": "2025-02-12T23:47:57Z",
       "content": "X has reached a settlement with President Donald Trump in a lawsuit over the president’s 2021 suspension from Twitter. The Wall Street Journal reports that the Elon Musk-owned company has agreed to pay “about $10 million” to settle the long-running c... [1107 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1739404077
     },
     {
       "source": {
@@ -85,7 +97,8 @@
         "government_administration",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1739404068
     },
     {
       "source": {
@@ -103,7 +116,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1739403894
     },
     {
       "source": {
@@ -123,7 +137,8 @@
         "government_administration",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1739403798
     },
     {
       "source": {
@@ -137,7 +152,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2025/02/modi-france1-2025-02-84fb0780cc8da3d8c7f33fedac16f681.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2025-02-12T23:43:06Z",
       "content": "Prime Minister Narendra Modi landed in Washington DC in the early hours of Thursday for a 2-day visit to the United States. read more\nPrime Minister Narendra Modi arrived in Washington DC in the early hours of Thursday for a 2-day visit to the United... [1955 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "international_organizations"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "international_organizations"
+      ],
+      "publishedAtTs": 1739403786
     },
     {
       "source": {
@@ -151,7 +171,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/02/sjm-32_219604874.jpg?w=1024&h=682",
       "publishedAt": "2025-02-12T23:37:12Z",
       "content": "By Lindsay Whitehurst, Chris Megerian and Michael Casey | Associated Press\nWASHINGTON — A federal judge on Wednesday removed a key legal hurdle stalling President Donald Trump ‘s plan to downsize the federal workforce with a deferred resignation prog... [3325 chars]",
-      "tags": ["government_operations", "ethics", "federal_agencies"]
+      "tags": [
+        "government_operations",
+        "ethics",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1739403432
     },
     {
       "source": {
@@ -165,7 +190,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i6YXSR8z4oU8m3gOaubNOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mjg-/https://media.zenfs.com/en/cp_finance_889/1715b571d787c69ab067103fa1ceb038",
       "publishedAt": "2025-02-12T23:36:02Z",
       "content": "British Columbia Premier David Eby says advisors to U.S. President Donald Trump told premiers during a meeting at the White House that they should take Trump at his word about his concerns of fentanyl crossing the border.\nEby says the premiers met wi... [937 chars]",
-      "tags": ["border_security", "foreign_policy", "regional_state"]
+      "tags": [
+        "border_security",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1739403362
     }
   ]
 }

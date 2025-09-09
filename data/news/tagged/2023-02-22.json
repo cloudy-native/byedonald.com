@@ -19,7 +19,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1677110207
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://images.wsj.net/im-730166/social",
       "publishedAt": "2023-02-22T23:39:00Z",
       "content": "It’s still unclear what caused the Feb. 3 train derailment in East Palestine, Ohio, but Donald Trump and his opponents aren’t letting the tragedy go to political waste. The former President on Wednesday lambasted the Biden Administration’s response d... [526 chars]",
-      "tags": ["regional_state", "crisis_emergency", "media_communications"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "media_communications"
+      ],
+      "publishedAtTs": 1677109140
     },
     {
       "source": {
@@ -47,7 +53,12 @@
       "urlToImage": "https://images.wsj.net/im-730215/social",
       "publishedAt": "2023-02-22T23:36:00Z",
       "content": "Grand juries aren’t intended to be media spectacles, but add Emily Kohrs to the list of people who have lost their bearings in the vicinity of Donald Trump. Ms. Kohrs, age 30, was the foreperson of a Georgia special grand jury examining the possibili... [537 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1677108960
     },
     {
       "source": {
@@ -61,7 +72,12 @@
       "urlToImage": "https://www.boston.com/wp-content/uploads/2023/02/Trump_Train_Derailment_Ohio_39140-63f6a5317911c-scaled.jpg",
       "publishedAt": "2023-02-22T23:33:14Z",
       "content": "Politics Trump, in Ohio, criticizes federal response to train derailment Former President Donald Trump speaks at the East Palestine Fire Department as he visits the area in the aftermath of the Norfolk Southern train derailment Feb. 3 in East Palesti... [7055 chars]",
-      "tags": ["regional_state", "crisis_emergency", "media_communications"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "media_communications"
+      ],
+      "publishedAtTs": 1677108794
     },
     {
       "source": {
@@ -80,7 +96,8 @@
         "criminal_cases",
         "doj_actions",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1677108284
     },
     {
       "source": {
@@ -99,7 +116,8 @@
         "regional_state",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1677107761
     },
     {
       "source": {
@@ -118,7 +136,8 @@
         "policy_legislation",
         "government_administration",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1677106748
     },
     {
       "source": {
@@ -132,7 +151,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/75PGG3Um4eywwbmOyE9s40Acsh4=/0x0:6400x3351/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24452881/1468312132.jpg",
       "publishedAt": "2023-02-22T22:55:57Z",
       "content": "I regret to inform you that TikTok has been overtaken with artificial-intelligence-generated voiceovers of political figures being toxic to each other while gaming. Hearing a Joe Biden-like voice enthusiastically talk about playing Minecraft is extre... [2646 chars]",
-      "tags": ["media_communications", "social_issues", "technology_regulation"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1677106557
     },
     {
       "source": {
@@ -150,7 +174,8 @@
         "legal_justice",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1677106542
     },
     {
       "source": {
@@ -168,7 +193,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1677105289
     },
     {
       "source": {
@@ -186,7 +212,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1677104853
     },
     {
       "source": {
@@ -205,7 +232,8 @@
         "policy_legislation",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1677104762
     },
     {
       "source": {
@@ -224,7 +252,8 @@
         "congressional_investigations",
         "impeachment",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1677104696
     },
     {
       "source": {
@@ -238,7 +267,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2199494/trump-buttigieg-ohio-derailment.jpg",
       "publishedAt": "2023-02-22T22:08:18Z",
       "content": "Supporters of former President Donald Trump were heard chanting \"no more Joe\" in reference to President Joe Biden ahead of Trump's visit to the site of the toxic train derailment in East Palestine, Ohio.\nTrump fans in the Ohio town were seen holding ... [3138 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677103698
     },
     {
       "source": {
@@ -258,7 +291,8 @@
         "federal_courts",
         "doj_actions",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1677102684
     },
     {
       "source": {
@@ -272,7 +306,11 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6284835.1677102265!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
       "publishedAt": "2023-02-22T21:47:12Z",
       "content": "Jill Colvin and John Seewer, The Associated Press\nEAST PALESTINE, Ohio (AP) — Former President Donald Trump on Wednesday criticized the federal response to the toxic train derailment in East Palestine, Ohio, as a “betrayal” during a visit to the vill... [5889 chars]",
-      "tags": ["crisis_emergency", "regional_state"]
+      "tags": [
+        "crisis_emergency",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677102432
     },
     {
       "source": {
@@ -286,7 +324,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/trump-forewoman-comp.jpg?quality=75&strip=all&1677085125&w=1024",
       "publishedAt": "2023-02-22T21:29:25Z",
       "content": "Former President Donald Trump accused Atlanta’s district attorney of running a “Kangaroo Court” Wednesday after a series of bizarre media appearances by the forewoman of the special grand jury that probed his actions around the 2020 election.\nTrump, ... [4280 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677101365
     },
     {
       "source": {
@@ -304,7 +346,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1677101340
     },
     {
       "source": {
@@ -318,7 +361,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/63f687ca2200003b00ecbaf0.jpeg?ops=1200_630",
       "publishedAt": "2023-02-22T21:26:49Z",
       "content": "The special counsel overseeing the Justice Department’s investigation into former President Donald Trump’s efforts to stay in power has subpoenaed Ivanka Trump and Jared Kushner, according to multiple reports.\nSpecial counsel Jack Smith subpoenaed Do... [1827 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677101209
     },
     {
       "source": {
@@ -332,7 +380,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230112105306-02-steve-bannon-hearing-nyc-011223.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-22T20:57:33Z",
       "content": "CNN —\nA law firm that represented former Donald Trump strategist Steve Bannon during his fight against a subpoena from the House January 6 committee and other cases is suing Bannon for nearly $500,000 in unpaid legal bills.\nThe lawsuit states that Da... [1819 chars]",
-      "tags": ["legal_justice", "personal_legal", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1677099453
     },
     {
       "source": {
@@ -346,7 +399,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/shutterstock_editorial_Nikki_Haley_Town_Hall_-e1677095749760.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-02-22T20:53:41Z",
       "content": "Neocon: Lessons of the Mask Mandates\n“The most rigorous and comprehensive analysis of scientific studies” on mask mandates found they made zero difference, thunders The New York Times’ Bret Stephens; “skeptics who were furiously mocked as cranks and ... [3920 chars]",
-      "tags": ["public_health", "social_issues", "media_communications"]
+      "tags": [
+        "public_health",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1677099221
     },
     {
       "source": {
@@ -360,7 +418,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/TrumpDonald_EastPalestine.jpg?w=1280",
       "publishedAt": "2023-02-22T20:45:05Z",
       "content": "Former President Donald Trump accused the Biden administration on Wednesday of “indifference and betrayal” in its response to a train derailment that spilled toxic chemicals in an Ohio town.\nSpeaking in East Palestine, Ohio, where the disaster occurr... [2160 chars]",
-      "tags": ["foreign_policy", "media_communications", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677098705
     },
     {
       "source": {
@@ -374,7 +437,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000007075068.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-02-22T20:41:05Z",
       "content": "WASHINGTON — A New York law firm says former Trump sidekick Steve Bannon stiffed it on legal fees of more than $480,000 — after its lawyers helped secure a presidential pardon for the 69-year-old in 2020.\nDavidoff Hutcher & Citron, LLC filed its clai... [2183 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1677098465
     },
     {
       "source": {
@@ -388,7 +455,12 @@
       "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/23/02d8c64390c8ad823650cf74af377e45.png?quality=80&resize=1280,720",
       "publishedAt": "2023-02-22T20:28:00Z",
       "content": "Donald Trump Is Using Facebook’s Geo-Targeting to Trick Nikki Haley Voters\nAn organisation supporting Donald Trump’s 2024 campaign used location data to send misleading ads to people who attended campaign events for Nikki Haley’s nascent presidential... [2111 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1677097680
     },
     {
       "source": {
@@ -402,7 +474,12 @@
       "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/02d8c64390c8ad823650cf74af377e45.png",
       "publishedAt": "2023-02-22T20:28:00Z",
       "content": "An organization supporting Donald Trump’s 2024 campaign used location data to send misleading ads to people who attended campaign events for Nikki Haley’s nascent presidential run.\nThe ads, spotted by FWIW News, falsely stated that Haley is supportin... [2197 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1677097680
     }
   ]
 }

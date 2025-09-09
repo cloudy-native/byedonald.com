@@ -20,7 +20,8 @@
         "canada",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1737071818
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/01/16/multimedia/16adams-maralago-01/16adams-maralago-01-facebookJumbo.jpg",
       "publishedAt": "2025-01-16T23:52:44Z",
       "content": "Mayor Eric Adams of New York City was on his way to Florida on Thursday evening to meet with President-elect Donald J. Trump at Mar-a-Lago, his spokesman confirmed.\nThe meeting did not appear on Mr. Adams’s public schedule.\n“Mayor Adams has made quit... [957 chars]",
-      "tags": ["government_administration", "personal_family", "regional_state"]
+      "tags": [
+        "government_administration",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1737071564
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2025/01/donald_trump_2192534502.jpg",
       "publishedAt": "2025-01-16T23:49:45Z",
       "content": "Americans, who said everyday expenses were at the top of their minds on Election Day, aren't expecting much progress as Donald Trump prepares for a second term.\nOnly about 2 in 10 Americans are \"extremely\" or \"very\" confident that Trump will be able ... [1108 chars]",
-      "tags": ["economy_finance", "policy_legislation", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1737071385
     },
     {
       "source": {
@@ -62,7 +73,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/01/GettyImages-2172740128b.jpg?w=1024&h=683",
       "publishedAt": "2025-01-16T23:47:03Z",
       "content": "President-elect Donald Trump has named Rocky Balboa, Mad Max and urban cowboy Joe Buck as his “Ambassadors to Hollywood.”\nHe announced his “Special Ambassadors to a great but very troubled place” on Truth Social Thursday. His proclamation was among a... [1709 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1737071223
     },
     {
       "source": {
@@ -76,7 +92,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/MNJ4KDZULZFVDJWPQINZ5LI2ME.jpg?smart=true&auth=3967611251de4413e63f1eaeefe88fb6aa0540123f6668a3752d01348188af4c&width=1200&height=630",
       "publishedAt": "2025-01-16T23:41:12Z",
       "content": "Ontario Premier Doug Ford says Canada's premiers are on the same page about stimulus in the event U.S. President-elect Trump enacts tariffs.\nOntario Premier Doug Ford is unveiling more details about his “Fortress Am-Can” plan to bolster the relations... [3262 chars]",
-      "tags": ["foreign_policy", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1737070872
     },
     {
       "source": {
@@ -95,7 +116,8 @@
         "environment",
         "natural_disasters",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1737070771
     }
   ]
 }

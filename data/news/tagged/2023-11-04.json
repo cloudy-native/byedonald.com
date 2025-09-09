@@ -14,7 +14,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_58_29_8149663.jpg?width=920&format=jpeg",
       "publishedAt": "2023-11-04T23:51:51Z",
       "content": "Following is a summary of current US domestic news briefs.\nN.Y. judge widens Trump case gag order; limits in criminal case lifted\nA judge on Friday issued an expanded gag order in the New York state civil fraud case against Donald Trump, while a fede... [4869 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1699141911
     },
     {
       "source": {
@@ -28,7 +32,11 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/a7d8e82/2147483647/strip/true/crop/6000x3150+0+426/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F5f%2F8f%2F5bb09ace48aeb28fa96b707da9a6%2Fap23297643915540.jpg",
       "publishedAt": "2023-11-04T23:01:59Z",
       "content": "Special counsel Jack Smith urged a federal judge on Friday to bar media outlets from televising the election subversion case against former President Donald Trump in Washington, DC.\nLast month, attorneys for a coalition of news organizations, includi... [1734 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1699138919
     },
     {
       "source": {
@@ -47,7 +55,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1699135851
     },
     {
       "source": {
@@ -61,7 +70,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6546a8ec2300003500ea54f8.jpeg?cache=7TOy1O0bwD&ops=1200_630",
       "publishedAt": "2023-11-04T21:10:07Z",
       "content": "LOADING ERROR LOADING\nRepublican presidential candidate Asa Hutchinson was booed at Saturday’s Florida Freedom Summit after saying there’s a “significant likelihood” that former President Donald Trump (R) will be convicted next year.\nTrump faces four... [1627 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699132207
     },
     {
       "source": {
@@ -75,7 +89,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231104162148-01-christie-hutchinson-gop-summit-110423.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-04T20:55:34Z",
       "content": "Kissimmee, Florida CNN —\nRepublican presidential candidates Chris Christie and Asa Hutchinson – both vocal critics of Donald Trump – fielded a chorus of boos at a Florida GOP summit on Saturday, a display of GOP voters’ strong loyalty to the former p... [1513 chars]",
-      "tags": ["elections_politics", "florida"]
+      "tags": [
+        "elections_politics",
+        "florida"
+      ],
+      "publishedAtTs": 1699131334
     },
     {
       "source": {
@@ -89,7 +107,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=34787345&width=1200&height=600&coordinates=0%2C34%2C0%2C34",
       "publishedAt": "2023-11-04T20:34:53Z",
       "content": "The final day of a weeklong trial in a challenge to former President Donald Trump’s constitutional eligibility to seek office again began with a protracted dispute over how much expertise an expert witness called by Trump’s legal team really had.\nRob... [8134 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699130093
     },
     {
       "source": {
@@ -108,7 +130,8 @@
         "legal_justice",
         "education",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1699129281
     },
     {
       "source": {
@@ -122,7 +145,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2304553/asa-hutchinson.jpg",
       "publishedAt": "2023-11-04T20:20:34Z",
       "content": "Former Arkansas Governor Asa Hutchinson was loudly booed on Saturday after he told a Republican summit that there is \"significant likelihood\" that former President Donald Trump will be found guilty of a felony next year.\nThe former president has been... [3395 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699129234
     },
     {
       "source": {
@@ -136,7 +164,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/09/AP22247059220452.jpg?w=1280",
       "publishedAt": "2023-11-04T19:28:18Z",
       "content": "Mary Trump, former President Trump’s niece, took a swing at the judge overseeing her uncle’s trial in relation to the handling of classified documents in a video posted Friday.\n“In Florida, in the trial of the classified documents, the situation is m... [1289 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699126098
     },
     {
       "source": {
@@ -150,7 +182,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/1691699113639/2023/1/065b4b30003e022de671f100c2fde12b/v1.5/Appeals-court-pauses-gag-order-on-Trump-in-federal-election-interference-case.jpg",
       "publishedAt": "2023-11-04T18:18:00Z",
       "content": "Former President Donald Trump is shown attending his civil fraud trial in New York, in which he was found guilty of inflating the value of his properties by billions of dollars to obtain favorable loan terms from banks. File Photo by Dave Sanders/UPI... [3368 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699121880
     },
     {
       "source": {
@@ -164,7 +201,11 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2023/11/230510_EJ_337_riverside_kips_0415_HIGH_RES.jpg?w=1024&h=683",
       "publishedAt": "2023-11-04T18:00:42Z",
       "content": "Former New York City mayor Rudy Giuliani recently slashed the asking price of his ritzy Upper East Side apartment amid mounting legal and financial woes in connection with his work as Donald Trump’s fixer.\nNot everyone has Trump-related bills to pay,... [4834 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699120842
     },
     {
       "source": {
@@ -178,7 +219,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2304543/mike-johnson.jpg",
       "publishedAt": "2023-11-04T17:42:28Z",
       "content": "In response to Mike Johnson recently becoming the new House speaker, over 12,000 people have signed a Christian petition condemning the congressman as a \"false prophet\" among other Republican Party members.\nFaithful America, an online Christian group... [3670 chars]",
-      "tags": ["social_issues", "media_communications", "elections_politics"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699119748
     },
     {
       "source": {
@@ -192,7 +238,12 @@
       "urlToImage": "https://static.politico.com/fe/aa/e11c5f754849b1344fbc7df52dbb/election-2024-republicans-florida-christie-26775.jpg",
       "publishedAt": "2023-11-04T17:34:31Z",
       "content": "Christie fed off the animated crowd, fueling more boos as he challenged audience members’ reactions to his remarks.\n“The problem is, you want to shout down any voice that says anything different than what you want to hear. You can continue to do it, ... [1991 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1699119271
     },
     {
       "source": {
@@ -211,7 +262,8 @@
         "foreign_policy",
         "middle_east",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1699113600
     },
     {
       "source": {
@@ -230,7 +282,8 @@
         "florida",
         "regional_state",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1699111146
     },
     {
       "source": {
@@ -244,7 +297,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/72273fabd2ea6e1c5b239b49dde77e110be76906/0_56_3807_2285/master/3807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=5fce736e89b1662e822afac03454ee8e",
       "publishedAt": "2023-11-04T14:00:42Z",
       "content": "Is Joe jinxed? In less than three years as US president, Joe Biden has faced more than his fair share of international crises. America’s withdrawal from Afghanistan blew up in his hands like a cluster bomb. Then came Russia’s full-scale invasion of U... [5879 chars]",
-      "tags": ["foreign_policy", "middle_east", "russia"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "russia"
+      ],
+      "publishedAtTs": 1699106442
     },
     {
       "source": {
@@ -263,7 +321,8 @@
         "personal_family",
         "elections_politics",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1699106400
     },
     {
       "source": {
@@ -277,7 +336,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2304520/ivanka-trump-testimony-danger.jpg",
       "publishedAt": "2023-11-04T13:58:44Z",
       "content": "The forthcoming testimony of Donald Trump's oldest daughter, Ivanka Trump, could pose a \"real potential danger\" to the former president in his New York civil fraud trial, according to former federal prosecutor Glenn Kirschner on Friday.\nNew York Atto... [2637 chars]",
-      "tags": ["personal_family", "legal_justice", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1699106324
     },
     {
       "source": {
@@ -296,7 +360,8 @@
         "middle_east",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1699105011
     },
     {
       "source": {
@@ -315,7 +380,8 @@
         "personal_family",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1699102200
     },
     {
       "source": {
@@ -329,7 +395,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/69e666b4124bcdc35bcd9dec4d6ebd68572df209/0_190_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b4cdc1280e7cf2736fcce36f220ead85",
       "publishedAt": "2023-11-04T12:00:39Z",
       "content": "On Monday, Nikki Haley returned to the building where her political career began to formally submit the paperwork to appear on the Republican presidential primary ballot in her home state of South Carolina. Haley held up her filing for the cameras. I... [11229 chars]",
-      "tags": ["elections_politics", "2028_presidential", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1699099239
     },
     {
       "source": {
@@ -343,7 +414,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231102222255-trump-houston-texas-11022023.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-04T12:00:15Z",
       "content": "Washington CNN —\nFormer President Donald Trump, now a candidate for the Republican presidential nomination, falsely claimed in a Thursday speech in Texas that California had widespread blackouts this summer because the state didn’t have sufficient el... [3302 chars]",
-      "tags": ["policy_legislation", "energy", "california"]
+      "tags": [
+        "policy_legislation",
+        "energy",
+        "california"
+      ],
+      "publishedAtTs": 1699099215
     },
     {
       "source": {
@@ -361,7 +437,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1699097292
     },
     {
       "source": {
@@ -375,7 +452,11 @@
       "urlToImage": "https://img2.thejournal.ie/article/6214740/river/?height=400&version=6214741",
       "publishedAt": "2023-11-04T11:22:44Z",
       "content": "A US FEDERAL judge has cited Donald Trump’s “repeated public statements” among reasons why a jury will be anonymous when it considers damages stemming from a defamation lawsuit by a writer who says the former president sexually abused her in the 1990... [3094 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1699096964
     },
     {
       "source": {
@@ -389,7 +470,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/6f4fdccb374b70f20933ba09517833e303a4a9b6/0_158_4760_2857/master/4760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01c31d77c16519725348de4e0b1c84ad",
       "publishedAt": "2023-11-04T11:00:39Z",
       "content": "The fifth week of the New York fraud trial of Donald Trump ended smack in the middle of a family affair and with another gag order for the combative Trump team.\nTrump’s elder sons, Donald Trump Jr and Eric Trump, took the witness stand in New York th... [8882 chars]",
-      "tags": ["legal_justice", "personal_family", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "new_york"
+      ],
+      "publishedAtTs": 1699095639
     }
   ]
 }

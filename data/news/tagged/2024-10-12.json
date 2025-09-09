@@ -20,7 +20,8 @@
         "elections_politics",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728777242
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "crisis_emergency",
         "foreign_policy",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728775901
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=53773701&width=1200&height=600&coordinates=0%2C38%2C0%2C39",
       "publishedAt": "2024-10-12T23:14:19Z",
       "content": "Donald Trump was criticized online on Saturday after he made what some deemed as a \"delusional\" comment at an event in Nevada.\nTrump over the weekend appeared at a roundtable discussion with Latin American supporters in Las Vegas. At that event, the ... [1548 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1728774859
     },
     {
       "source": {
@@ -68,7 +75,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTBcXFwvMTMwODI0MDVcXFwvMi4yNjcyNDczNy1lMTcyODgwNDQwNDg1OS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjdhMTIwMDUyN2UwYzQ4ODRjMTBkOWRlNWNmNTY5M2E0MTM3ZWIyZjYifQ==/trump-s-scottish-golf-course-environmental-claims-laughable-campaigners-say.jpg",
       "publishedAt": "2024-10-12T23:00:00Z",
       "content": "Campaigners have described as “laughable” the environmental credentials of Donald Trump’s new links golf course, which is set to open in Aberdeenshire in 2025.\nTrump International has billed the new 18-hole championship links near Balmedie as “one of... [3150 chars]",
-      "tags": ["environment", "regional_state"]
+      "tags": [
+        "environment",
+        "regional_state"
+      ],
+      "publishedAtTs": 1728774000
     },
     {
       "source": {
@@ -82,7 +93,12 @@
       "urlToImage": "https://img.rasset.ie/0021235f-1600.jpg",
       "publishedAt": "2024-10-12T23:00:00Z",
       "content": "A man arrested at a security checkpoint near Republican presidential candidate Donald Trump's California rally yesterday faces gun charges after he was found in possession of two guns and a high-capacity magazine, authorities have said.\nThe 49-year-o... [1313 chars]",
-      "tags": ["security_incidents", "campaign_events", "criminal_cases"]
+      "tags": [
+        "security_incidents",
+        "campaign_events",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1728774000
     },
     {
       "source": {
@@ -102,7 +118,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728773106
     },
     {
       "source": {
@@ -122,7 +139,8 @@
         "technology_regulation",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728773105
     },
     {
       "source": {
@@ -136,7 +154,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=52085513&width=1200&height=600&coordinates=0%2C32%2C0%2C32",
       "publishedAt": "2024-10-12T22:28:45Z",
       "content": "Rep. Marjorie Taylor Greene (R-GA) on Saturday caught heat from critics who mocked her for what they perceived as a lack of self-awareness.\nGreene, a top congressional ally to Donald Trump, is known for promoting conspiracy theories. Most recently, f... [1220 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1728772125
     },
     {
       "source": {
@@ -156,7 +179,8 @@
         "personal_family",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1728769919
     },
     {
       "source": {
@@ -170,7 +194,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2y5y774.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-10-12T21:24:03Z",
       "content": "CNN —\nSebastian Stan has played a wide array of characters thus far in his career, but perhaps the showiest of them all comes this weekend, when his portrayal of a young and upwardly mobile Donald Trump is showcased in the new film “The Apprentice.”\n... [3189 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1728768243
     },
     {
       "source": {
@@ -190,7 +219,8 @@
         "media_communications",
         "personal_family",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728767455
     },
     {
       "source": {
@@ -209,7 +239,8 @@
         "media_communications",
         "health_science",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1728766519
     },
     {
       "source": {
@@ -223,7 +254,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/20241012-a-million-women-christian-march-dc-wm-1142a-91aeca.jpg",
       "publishedAt": "2024-10-12T20:32:02Z",
       "content": "Tens of thousands of evangelical Christians gathered on the National Mall in Washington, D.C., on Saturday to pray for America’s atonement and for Donald Trump’s return to the White House.\nOrganizers of the event, billed “A Million Women,” described ... [562 chars]",
-      "tags": ["elections_politics", "social_issues", "religious_freedom"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "religious_freedom"
+      ],
+      "publishedAtTs": 1728765122
     },
     {
       "source": {
@@ -241,7 +277,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728764424
     },
     {
       "source": {
@@ -260,7 +297,8 @@
         "regional_state",
         "elections_politics",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1728763709
     },
     {
       "source": {
@@ -280,7 +318,8 @@
         "elections_politics",
         "foreign_policy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1728763243
     },
     {
       "source": {
@@ -300,7 +339,8 @@
         "government_administration",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1728761345
     },
     {
       "source": {
@@ -320,7 +360,8 @@
         "womens_rights",
         "regional_state",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728759972
     },
     {
       "source": {
@@ -334,7 +375,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/economist-busts-jd-vance-for-selective-screenshotting-to-back-up-immigration-claims.jpg?id=53717963&width=1200&height=600&coordinates=0%2C397%2C0%2C398",
       "publishedAt": "2024-10-12T18:11:07Z",
       "content": "The New York Times' newly released full interview with Sen. J.D. Vance (R-OH) reveals the 2024 Republican vice presidential nominee is doubling down on one of his most notorious campaign attacks.\nAfter former President Donald Trump officially selecte... [3061 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728756667
     },
     {
       "source": {
@@ -353,7 +399,8 @@
         "legal_justice",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728756031
     },
     {
       "source": {
@@ -373,7 +420,8 @@
         "elections_politics",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728755715
     },
     {
       "source": {
@@ -393,7 +441,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728754592
     },
     {
       "source": {
@@ -412,7 +461,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728754549
     },
     {
       "source": {
@@ -431,7 +481,8 @@
         "security_intelligence",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728754200
     },
     {
       "source": {
@@ -451,7 +502,8 @@
         "social_issues",
         "political_endorsements",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1728752430
     }
   ]
 }

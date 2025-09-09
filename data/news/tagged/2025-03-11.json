@@ -14,7 +14,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/J4VIXARO6NGIXBYANVF55R2TEI.JPG?auth=a19555a40e32fc59724b74d3e7f2809a323c2d5ede9035aad12254cfbc5b1c32&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-03-11T23:38:15Z",
       "content": "Open this photo in gallery: Canada Minister of Energy and Natural Resources Jonathan Wilkinson participates in a media interview during CERAWeek in Houston, Tex., on March 11.KAYLEE GREENLEE/Reuters\nCanada’s Minister of Energy and Natural Resources s... [5163 chars]",
-      "tags": ["foreign_policy", "trade", "energy"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1741736295
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/03/513734d3df4ea3dde7ca64f7e257d0b7247a1d0f56a653bfdcb96307eb2cd74d.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-03-11T23:29:34Z",
       "content": "NUUK, Greenland (AP) — The polling station in Greenland’s capital closed Tuesday in a parliamentary election that will determine the leaders who will confront U.S. President Donald Trump’s effort to take control of the strategically placed Arctic cou... [5218 chars]",
-      "tags": ["foreign_policy", "elections_politics", "regional_state"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1741735774
     },
     {
       "source": {
@@ -42,7 +52,14 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/HSMGGNXH3RFLXKWZR4N7CQQ7IE.jpg?auth=5cbc6aa5715d9f7186c5d2ebbb9840388df0d997571999ba195c94d4399091cd&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-03-11T23:11:36Z",
       "content": "Open this photo in gallery: Employees work along the vehicle assembly line at a Honda plant in Alliston, Ont., on April 25, 2024.Nathan Denette/The Canadian Press\nU.S. President Donald Trump fired new shots in the tariff war on Tuesday, vowing on soc... [6579 chars]",
-      "tags": ["trade", "energy", "foreign_policy", "canada", "economy_finance"]
+      "tags": [
+        "trade",
+        "energy",
+        "foreign_policy",
+        "canada",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1741734696
     },
     {
       "source": {
@@ -61,7 +78,8 @@
         "trade",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1741734639
     },
     {
       "source": {
@@ -75,7 +93,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2203847877.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-03-11T22:54:47Z",
       "content": "CNN —\nThe arguments are well rehearsed, and now must meet reality.\nA 30-day ceasefire is, unhesitatingly, good news, at first. But a truce is the most complex, and damaged idea of this decade-long conflict. And how it endures will define Ukraine’s su... [6033 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1741733687
     }
   ]
 }

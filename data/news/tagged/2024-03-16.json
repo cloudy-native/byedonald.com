@@ -19,7 +19,8 @@
         "campaign_events",
         "political_endorsements",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1710630732
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "campaign_events",
         "statements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1710629933
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "campaign_events",
         "statements",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1710629522
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "campaign_events",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1710627131
     },
     {
       "source": {
@@ -95,7 +99,8 @@
         "political_endorsements",
         "campaign_events",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1710626217
     },
     {
       "source": {
@@ -114,7 +119,8 @@
         "interviews",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1710625636
     },
     {
       "source": {
@@ -128,7 +134,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2452%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/0bfb966a1e2735e83d0273aea0bc77badf3d3b9d",
       "publishedAt": "2024-03-16T21:40:10Z",
       "content": "All this happened since last Friday. Now multiply that by 47, which is the number of five-day slots between now and the general election. Even the most diligent Trump observer would feel catatonic after a few such increments.\nIt is thus little surpri... [3442 chars]",
-      "tags": ["elections_politics", "media_communications", "statements"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "statements"
+      ],
+      "publishedAtTs": 1710625210
     },
     {
       "source": {
@@ -147,7 +158,8 @@
         "criminal_cases",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1710623924
     },
     {
       "source": {
@@ -161,7 +173,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.1513%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/8b09db6a06fd2d0ad6d93f8a580d08bda4c8ae98",
       "publishedAt": "2024-03-16T20:25:55Z",
       "content": "25 mins ago – 7.25AM\nFormer Vice President Mike Pence said he would not endorse presumptive Republican nominee Donald Trump, a rebuke of his former running mate.\n“During my presidential campaign I made clear there were profound differences between me... [1355 chars]",
-      "tags": ["elections_politics", "political_endorsements", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "political_endorsements",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1710620755
     },
     {
       "source": {
@@ -180,7 +197,8 @@
         "criminal_cases",
         "supreme_court",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1710619200
     },
     {
       "source": {
@@ -199,7 +217,8 @@
         "personal_business",
         "foreign_policy",
         "ethics"
-      ]
+      ],
+      "publishedAtTs": 1710618854
     },
     {
       "source": {
@@ -218,7 +237,8 @@
         "criminal_cases",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1710617680
     },
     {
       "source": {
@@ -237,7 +257,8 @@
         "campaign_events",
         "political_endorsements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1710617400
     },
     {
       "source": {
@@ -256,7 +277,8 @@
         "political_endorsements",
         "regional_state",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1710616586
     },
     {
       "source": {
@@ -274,7 +296,8 @@
         "elections_politics",
         "political_endorsements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1710615818
     },
     {
       "source": {
@@ -293,7 +316,8 @@
         "campaign_events",
         "political_endorsements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1710615600
     },
     {
       "source": {
@@ -312,7 +336,8 @@
         "campaign_events",
         "statements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1710615600
     },
     {
       "source": {
@@ -331,7 +356,8 @@
         "campaign_events",
         "statements",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1710613800
     },
     {
       "source": {
@@ -350,7 +376,8 @@
         "media_communications",
         "social_media",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1710608085
     },
     {
       "source": {
@@ -369,7 +396,8 @@
         "personal_business",
         "legal_justice",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1710607978
     },
     {
       "source": {
@@ -383,7 +411,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1277464431.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-03-16T16:00:29Z",
       "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nTo debate or not to debate is a complicated question for President Joe Biden and former President Donald Trump as they barrel int... [12153 chars]",
-      "tags": ["elections_politics", "media_communications", "statements"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "statements"
+      ],
+      "publishedAtTs": 1710604829
     },
     {
       "source": {
@@ -402,7 +435,8 @@
         "health_science",
         "technology_regulation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1710604809
     },
     {
       "source": {
@@ -420,7 +454,8 @@
         "elections_politics",
         "political_endorsements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1710602715
     },
     {
       "source": {
@@ -439,7 +474,8 @@
         "campaign_events",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1710600329
     },
     {
       "source": {
@@ -458,7 +494,8 @@
         "criminal_cases",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1710600192
     }
   ]
 }

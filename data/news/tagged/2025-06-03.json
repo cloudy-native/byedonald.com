@@ -20,7 +20,8 @@
         "legal_justice",
         "personal_family",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1748995019
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/gettyimages-2217858559.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-06-03T23:09:50Z",
       "content": "is a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget.\nLast week, Elon Musk’s media tour included telling CBS Sunday Morning he was “disappointed” ... [1662 chars]",
-      "tags": ["economy_finance", "media_communications", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1748992190
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "policy_legislation",
         "immigration",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748991709
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "economy_finance",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1748991600
     },
     {
       "source": {
@@ -88,7 +96,12 @@
       "urlToImage": "https://www.rte.ie/images/00221c97-1600.jpg",
       "publishedAt": "2025-06-03T23:00:00Z",
       "content": "The United States has doubled steel and aluminum tariffs as US President Donald Trump's intensifying trade war weighs on the world economy.\nThe move, which Mr Trump earlier said was aimed at protecting domestic steel and aluminum industries, takes hi... [3556 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748991600
     },
     {
       "source": {
@@ -108,7 +121,8 @@
         "regional_state",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1748990220
     },
     {
       "source": {
@@ -122,7 +136,12 @@
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2025/06/TRUMP-Trump-Media-and-Technology-Group.jpeg",
       "publishedAt": "2025-06-03T22:35:43Z",
       "content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\nThe Trump family's crypto-related moves have continued to dominate the airwaves today. First, news emerged that... [2327 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1748990143
     },
     {
       "source": {
@@ -142,7 +161,8 @@
         "legal_justice",
         "social_issues",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1748989410
     },
     {
       "source": {
@@ -162,7 +182,8 @@
         "policy_legislation",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1748989011
     },
     {
       "source": {
@@ -181,7 +202,8 @@
         "budget",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1748988979
     }
   ]
 }

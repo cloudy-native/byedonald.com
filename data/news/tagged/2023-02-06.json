@@ -19,7 +19,8 @@
         "china",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1675726971
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VQVZdQPQtgYwbHoUyIbbXMgrmEw=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KT3V32PKKSGVP6QWDYTSNL4HYA.jpg",
       "publishedAt": "2023-02-06T23:31:58Z",
       "content": "WASHINGTON — As political squabbles over the sighting of a Chinese balloon over several states last week continue, a senior U.S. defense official has said there were similar balloons seen near Texas and Florida during the Trump administration.\nOn Sat... [5139 chars]",
-      "tags": ["china", "foreign_policy", "security_intelligence"]
+      "tags": [
+        "china",
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1675726318
     },
     {
       "source": {
@@ -47,7 +53,12 @@
       "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/1280/720/balloon-route.jpg?ve=1&tl=1",
       "publishedAt": "2023-02-06T22:46:22Z",
       "content": "U.S. officials said Monday that improvements ordered by President Joe Biden to strengthen defenses against Chinese espionage helped identify last week’s spy balloon — and determine that similar flights were conducted at multiple points during the Tru... [6227 chars]",
-      "tags": ["security_intelligence", "china", "foreign_policy"]
+      "tags": [
+        "security_intelligence",
+        "china",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1675723582
     },
     {
       "source": {
@@ -67,7 +78,8 @@
         "federal_courts",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1675722288
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "congressional_investigations",
         "foreign_policy",
         "china"
-      ]
+      ],
+      "publishedAtTs": 1675722105
     },
     {
       "source": {
@@ -101,7 +114,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2191074/donald-trump.png",
       "publishedAt": "2023-02-06T20:56:37Z",
       "content": "Former President Donald Trump announced he is launching a lawsuit against the panel that awarded Pulitzer Prizes to The New York Times and The Washington Post after it refused to rescind awards it gave the two outlets for their reporting on Trump's a... [2599 chars]",
-      "tags": ["legal_justice", "personal_legal", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1675716997
     },
     {
       "source": {
@@ -115,7 +133,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/trumpdonald_010320getty_trump-evangelicals.jpg?w=1280",
       "publishedAt": "2023-02-06T20:42:14Z",
       "content": "Former Manhattan prosecutor Mark Pomerantz says “many bits and pieces of evidence” could be used to bring criminal charges against former President Trump for his business and tax dealings.\nThe former special assistant district attorney (DA) for New Y... [1227 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675716134
     },
     {
       "source": {
@@ -134,7 +156,8 @@
         "elections_politics",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1675714522
     },
     {
       "source": {
@@ -148,7 +171,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2190994/trump-could-face-multiple-state-charges.jpg",
       "publishedAt": "2023-02-06T20:12:19Z",
       "content": "Former President Donald could face a logistical nightmare if charges are brought against him in multiple states.\nTrump is currently facing multiple investigations and probes on both the state and federal level. All of these come as Trump announced hi... [5778 chars]",
-      "tags": ["legal_justice", "personal_legal", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675714339
     },
     {
       "source": {
@@ -167,7 +195,8 @@
         "foreign_policy",
         "intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1675712655
     },
     {
       "source": {
@@ -181,7 +210,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230206135514-01-suspected-spy-balloon.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-06T19:32:22Z",
       "content": "CNN —\nThe American military had a “domain awareness gap” that allowed three other suspected Chinese spy balloons to transit the continental United States undetected under the Trump administration, the Pentagon general responsible for providing air an... [6094 chars]",
-      "tags": ["security_intelligence", "china", "foreign_policy"]
+      "tags": [
+        "security_intelligence",
+        "china",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1675711942
     },
     {
       "source": {
@@ -199,7 +233,8 @@
         "security_intelligence",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1675711001
     },
     {
       "source": {
@@ -213,7 +248,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2191011/schmidt-criticizes-rubio-over-chinese-spy-balloon.png",
       "publishedAt": "2023-02-06T19:10:50Z",
       "content": "Former GOP strategist Steve Schmidt accused Senator Marco Rubio of \"fear-mongering\" about the suspected Chinese spy balloon.\nRubio, like many of his Republican colleagues, offered criticism of the Biden administration's handling of the balloon, which... [3178 chars]",
-      "tags": ["foreign_policy", "china", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1675710650
     },
     {
       "source": {
@@ -232,7 +272,8 @@
         "china",
         "foreign_policy",
         "intelligence"
-      ]
+      ],
+      "publishedAtTs": 1675710613
     },
     {
       "source": {
@@ -246,7 +287,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/9bbaf0f9fe7906bc8a28a4dded433a50577614f8/0_17_4101_2462/master/4101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a4f173889f4f57440e1797da5d173a2",
       "publishedAt": "2023-02-06T19:05:27Z",
       "content": "Donald Trump’s hush money payment to the adult film star Stormy Daniels is a “zombie case” that keeps coming back from the dead, a former New York prosecutor writes in a new book published as his former office once again considers filing criminal cha... [6021 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675710327
     },
     {
       "source": {
@@ -260,7 +305,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2191002/biden-2024-ominous-sign.jpg",
       "publishedAt": "2023-02-06T19:01:28Z",
       "content": "President Joe Biden is reportedly gearing up to run for reelection in the next presidential race, but a new poll offers a potentially ominous sign for his 2024 campaign.\nA Washington Post/ABC News poll released last week found that Biden has more in ... [2926 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675710088
     },
     {
       "source": {
@@ -278,7 +327,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1675707065
     },
     {
       "source": {
@@ -292,7 +342,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2019/09/castrojulian_091919gn7_lead.jpg?w=1280",
       "publishedAt": "2023-02-06T18:02:15Z",
       "content": "Former Obama Cabinet member Julián Castro said recent polling that shows President Biden lagging behind former President Trump in a potential 2024 rematch should raise some eyebrows in the Democratic Party.\nAn ABC-Washington Post poll this week showe... [1481 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675706535
     },
     {
       "source": {
@@ -306,7 +360,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/So0r8uGv9vMtWrR_970p9rTCBkA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/FE7CJRZQUBBFNNVQUEHIXPJCLY.jpg",
       "publishedAt": "2023-02-06T17:39:43Z",
       "content": "Former President Trump erupted after “60 Minutes” interviewed former Manhattan prosecutor Mark Pomerantz on his upcoming book chronicling the investigation into alleged sweeping fraud at Trump’s real estate empire.\nAdvertisement\n“Radically deranged M... [1787 chars]",
-      "tags": ["personal_family", "legal_justice", "media_communications"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1675705183
     },
     {
       "source": {
@@ -320,7 +379,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2023/02/Ronald-Krump-17-03-2021-Mael-G.-Lagadec-092-39-OK.jpg?w=1024",
       "publishedAt": "2023-02-06T17:17:55Z",
       "content": "EXCLUSIVE: Paris-based genre specialist has boarded sales on Belgian black comedy Krump about a down-on-his-luck ex-porn actor who embarks on a seemingly hopeless mission to raise 50,000 euros when his daughter is kidnapped.\nThe film is the debut fea... [1174 chars]",
-      "tags": ["personal_family", "social_issues", "media_communications"]
+      "tags": [
+        "personal_family",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1675703875
     },
     {
       "source": {
@@ -339,7 +403,8 @@
         "2028_presidential",
         "government_administration",
         "personnel"
-      ]
+      ],
+      "publishedAtTs": 1675703750
     },
     {
       "source": {
@@ -353,7 +418,11 @@
       "urlToImage": "https://images.wsj.net/im-717664/social",
       "publishedAt": "2023-02-06T16:50:00Z",
       "content": "In endorsing Donald Trump for president in 2024, Sen. J.D. Vance mischaracterizes the nature of President Trump’s foreign-policy success (“Trump’s Best Foreign Policy? Not Starting Any Wars,” op-ed, Feb. 1). Mr. Vance conspicuously omits Mr. Trump’s ... [448 chars]",
-      "tags": ["foreign_policy", "policy_legislation"]
+      "tags": [
+        "foreign_policy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1675702200
     }
   ]
 }

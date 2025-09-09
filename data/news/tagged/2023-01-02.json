@@ -14,7 +14,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172679/proud-boys-members-trial-conspiracy.jpg",
       "publishedAt": "2023-01-02T23:51:53Z",
       "content": "Ethan Nordean—a Proud Boys leader on trial for charges relating to January 6—asked a judge to remove two statements made by former President Donald Trump in his upcoming hearing this week.\nNordean, who is accused of aiding in the organization of the ... [3104 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1672703513
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172678/donald-trump-gop-republicans-abortion-pro-life.jpg",
       "publishedAt": "2023-01-02T23:12:29Z",
       "content": "The blaming of the \"abortion issue\" by former President Donald Trump as the reason Republicans underperformed in the 2022 midterm elections is receiving pushback from at least one conservative anti-abortion group.\nTrump deflected blame for the perfor... [3296 chars]",
-      "tags": ["social_issues", "elections_politics", "policy_legislation"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1672701149
     },
     {
       "source": {
@@ -46,7 +56,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1672700326
     },
     {
       "source": {
@@ -60,7 +71,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230102141825-donald-trump-1231.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-01-02T22:19:40Z",
       "content": "CNN —\nFacebook’s parent company Meta is considering whether to allow former President Donald Trump back on to its platforms and is due to announce its decision in the coming weeks, a company spokesperson told CNN on Monday.\nThe decision, likely to be... [3767 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1672697980
     },
     {
       "source": {
@@ -79,7 +95,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1672692676
     },
     {
       "source": {
@@ -93,7 +110,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172665/donald-riot.png",
       "publishedAt": "2023-01-02T20:37:30Z",
       "content": "On the morning of January 6, 2021, aides for former President Donald Trump had done all they could to prepare him for what would become the most consequential day of his presidency.\nScheduled to speak before thousands of his most loyal supporters, Tr... [5294 chars]",
-      "tags": ["legal_justice", "elections_politics", "crisis_emergency"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1672691850
     },
     {
       "source": {
@@ -113,7 +135,8 @@
         "impeachment",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1672690080
     },
     {
       "source": {
@@ -133,7 +156,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1672687868
     },
     {
       "source": {
@@ -153,7 +177,8 @@
         "elections_politics",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1672687855
     },
     {
       "source": {
@@ -173,7 +198,8 @@
         "elections_politics",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1672685698
     },
     {
       "source": {
@@ -187,7 +213,10 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172641/trump-nft.jpg",
       "publishedAt": "2023-01-02T18:01:10Z",
       "content": "The online profile that sold Donald Trump's non-fungible token (NFT) collection has also been trading in sexually explicit art.\nThe TrumpDeployer account, which housed the former president's \"digital trading cards\" on the NFT trading platform OpenSea... [2184 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1672682470
     },
     {
       "source": {
@@ -205,7 +234,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1672681735
     },
     {
       "source": {
@@ -219,7 +249,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/trump-midterms-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-01-02T17:00:11Z",
       "content": "Former President Donald Trump has again insisted that it “wasn’t my fault” Republicans failed to live up to “expectations in the MidTerms,” instead blaming the GOP’s purported mishandling of the “abortion issue.”\n​”​It wasn’t my fault that the Republ... [3907 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1672678811
     },
     {
       "source": {
@@ -233,7 +267,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/12/illustration_bidenjoe_122322mm-gn_biden-running.png?w=1280",
       "publishedAt": "2023-01-02T17:00:00Z",
       "content": "President Biden is entering the new year riding high off a better-than-expected midterm election performance for his party that has improved his political standing while damaging his chief GOP rival — former President Trump.\nYet Biden also enters the... [5373 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1672678800
     },
     {
       "source": {
@@ -253,7 +291,8 @@
         "2028_presidential",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1672672155
     },
     {
       "source": {
@@ -271,7 +310,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1672671600
     },
     {
       "source": {
@@ -290,7 +330,8 @@
         "elections_politics",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1672665075
     },
     {
       "source": {
@@ -304,7 +345,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172596/trump-list-republicans.jpg",
       "publishedAt": "2023-01-02T12:35:46Z",
       "content": "Donald Trump has posted a list of Republican lawmakers who he \"strongly opposed and fought against\" and who have since retired or are due to leave office.\nIncluded in the former president's hit list of critics are House Republicans and Senators who v... [3201 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1672662946
     },
     {
       "source": {
@@ -323,7 +369,8 @@
         "legal_justice",
         "crisis_emergency",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1672661216
     },
     {
       "source": {
@@ -337,7 +384,12 @@
       "urlToImage": "https://static.politico.com/42/a7/37d46208414dbb79fe7c4427c2d7/election-2022-disaster-that-wasnt-45767.jpg",
       "publishedAt": "2023-01-02T12:00:00Z",
       "content": "The states had divergent results but shared a few key things in common. Making it easier to vote early or by mail did not lead to voter fraud, nor did it seem to advantage Republicans or Democrats. In Kentucky, Republicans held on to five of the stat... [6922 chars]",
-      "tags": ["elections_politics", "voting_rights", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1672660800
     },
     {
       "source": {
@@ -351,7 +403,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2172575/trump-abortion-gop.jpg",
       "publishedAt": "2023-01-02T11:18:00Z",
       "content": "Donald Trump has blamed the Republican Party's disappointing midterm performances on the \"abortion issue\" rather than the failure of his endorsed candidates.\nIn a post on Truth Social, the former president said that it \"wasn't my fault\" that the GOP ... [2897 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1672658280
     },
     {
       "source": {
@@ -365,7 +422,11 @@
       "urlToImage": "https://media.zenfs.com/en/business_insider_articles_888/84191b2b92557da61a2ec3b5b8405abc",
       "publishedAt": "2023-01-02T11:00:00Z",
       "content": "iStock; Rebecca Zisser/Insider\nAdvocates on both sides of a long-running effort to rewrite the Constitution will face off again in 2023.\nConservatives have been pushing an unprecedented convention to re-write the US bedrock text since 1788.\nIn 2022, ... [4869 chars]",
-      "tags": ["policy_legislation", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1672657200
     }
   ]
 }

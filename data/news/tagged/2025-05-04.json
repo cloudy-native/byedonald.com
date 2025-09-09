@@ -19,7 +19,8 @@
         "foreign_policy",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1746402845
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "federal_agencies",
         "regional_state",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1746401736
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1746401311
     }
   ]
 }

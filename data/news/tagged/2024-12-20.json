@@ -20,7 +20,8 @@
         "policy_legislation",
         "social_issues",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1734738937
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "economy_finance",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1734738812
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "policy_legislation",
         "economy_finance",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734738788
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "budget",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734738682
     },
     {
       "source": {
@@ -99,7 +103,8 @@
         "economy_finance",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1734738258
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "security_intelligence",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1734737962
     },
     {
       "source": {
@@ -138,7 +144,8 @@
         "foreign_policy",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1734737166
     }
   ]
 }

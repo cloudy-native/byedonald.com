@@ -20,7 +20,8 @@
         "foreign_policy",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1738281556
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "economy_finance",
         "energy",
         "environment"
-      ]
+      ],
+      "publishedAtTs": 1738281315
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1738281164
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/01/97615252.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-01-30T23:48:04Z",
       "content": "Friends of Melania Trump have their claws out for Anna Wintour’s “Condé Nasty,” they say, after Vogue dissed the first lady with a scathing fashion op-ed.\nBill White — a friend of Melania, as well as President Trump’s nominee for US ambassador to Bel... [2903 chars]",
-      "tags": ["media_communications", "personal_family", "regional_state"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1738280884
     },
     {
       "source": {
@@ -88,7 +96,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/01/selena-gomez-tears_720.jpg?quality=75&strip=all&w=720",
       "publishedAt": "2025-01-30T23:37:37Z",
       "content": "It was the performance of a lifetime. Selena Gomez in a stripped-down production: The Tears of a Clown.\nIn a video posted to Instagram earlier this week, the actress pointed the camera at her face and let the waterworks flow as she struggled to eke o... [5344 chars]",
-      "tags": ["immigration", "media_communications", "social_issues"]
+      "tags": [
+        "immigration",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1738280257
     }
   ]
 }

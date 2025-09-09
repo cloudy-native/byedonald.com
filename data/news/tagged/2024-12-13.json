@@ -14,7 +14,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/95304183.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-13T23:57:59Z",
       "content": "Donald Trump Jr. says he and Kimberly Guilfoyle will “never stop caring for each other.”\nThe President-elect’s son exclusively told Page Six in a statement on Friday — after we exclusively reported that the couple has parted ways — “Kimberly and I wi... [4045 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1734134279
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/GettyImages-2185178383.jpg?w=1024",
       "publishedAt": "2024-12-13T23:57:06Z",
       "content": "Donald Trump has been ordered by a federal judge to sit for a deposition next week as part of his defamation litigation against ABC.\nU.S. Magistrate Judge Lisette M. Reid wrote that the deposition should take place some time the week of Dec. 14 and s... [1473 chars]",
-      "tags": ["civil_litigation", "legal_justice", "personal_legal"]
+      "tags": [
+        "civil_litigation",
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1734134226
     },
     {
       "source": {
@@ -48,7 +58,8 @@
         "legal_justice",
         "elections_politics",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1734133953
     },
     {
       "source": {
@@ -62,7 +73,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/727230/uploads/96756220-b967-11ef-9e4d-45e99159c22e_1200_630.jpeg",
       "publishedAt": "2024-12-13T23:45:00Z",
       "content": "The View moderator Whoopi Goldberg went through a historic meltdown after former President Donald Trump was reelected on November 5. “So what happened last night?” Goldberg began on the popular daytime talk show. “He is the president. I am still not ... [3074 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1734133500
     },
     {
       "source": {
@@ -82,7 +98,8 @@
         "health_science",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1734133416
     },
     {
       "source": {
@@ -96,7 +113,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-6fdc8sx4e-1734132766063.jpg?quality=75&strip=all&1734114824&w=1024",
       "publishedAt": "2024-12-13T23:34:24Z",
       "content": "President-elect Donald Trump is weighing a bid to save the failing Waldorf-Astoria hotel in Washington, DC – and rebrand it once more as a Trump International Hotel, The Post has learned.\nThree sources familiar with the situation said that the incomi... [3263 chars]",
-      "tags": ["personal_business", "economy_finance"]
+      "tags": [
+        "personal_business",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1734132864
     },
     {
       "source": {
@@ -110,7 +131,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_02_16_00_7659139.png?width=920&format=jpeg",
       "publishedAt": "2024-12-13T23:26:01Z",
       "content": "Donald Trump's Middle East envoy, Steve Witkoff, made headlines by visiting Saudi Arabia for a key meeting with Crown Prince Mohammed Bin Salman. According to sources cited by Axios, the discussions took place on Wednesday, underlining significant di... [565 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1734132361
     },
     {
       "source": {
@@ -129,7 +154,8 @@
         "foreign_policy",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1734132244
     },
     {
       "source": {
@@ -148,7 +174,8 @@
         "economy_finance",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1734132227
     },
     {
       "source": {
@@ -168,7 +195,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1734132211
     }
   ]
 }

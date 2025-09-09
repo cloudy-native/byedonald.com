@@ -14,7 +14,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/v93QFhGdEQqaPMXop7PeFlTT6HU=/1200x630/filters:format(jpg):quality(70):focal(2129x947:2139x957)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LKDEMBYC5BFMVIOPJRFJU2UCL4.JPG",
       "publishedAt": "2023-07-17T23:47:00Z",
       "content": "Jury selection got underway in Manhattan Monday in Michael Cohen’s lawsuit against the Trump Organization, in which the former president’s one-time fixer is demanding over $1 million in lawyers’ fees incurred in the years since their fallout.\nRoughly... [3395 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1689637620
     },
     {
       "source": {
@@ -35,7 +39,8 @@
         "federal_courts",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1689636916
     },
     {
       "source": {
@@ -49,7 +54,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/sYk7XQfUT8yTOdJPaTTWLkN16lA=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4GWGHHRXHJLTBF6NASTQ7K7Q74.JPG",
       "publishedAt": "2023-07-17T23:31:22Z",
       "content": "Georgia’s highest court Monday rejected a request by former President Donald Trump to block a district attorney from prosecuting him for his actions in wake of the 2020 election.\nThe Georgia Supreme Court unanimously shot down a petition that Trump’s... [2612 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1689636682
     },
     {
       "source": {
@@ -63,7 +73,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/manchinjoe_050223gn06_w.jpg?w=1280",
       "publishedAt": "2023-07-17T23:15:07Z",
       "content": "Sen. Joe Manchin (D-W.Va.) is keeping his Democratic colleagues guessing about whether he will run for another Senate term or challenge President Biden as a third-party candidate, which Democrats fear would tip the 2024 presidential race to Donald Tr... [9017 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1689635707
     },
     {
       "source": {
@@ -77,7 +91,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/7Oh6s3ewzUZs671HjoLs2b6_twA=/1200x630/filters:format(jpg):quality(70):focal(1994x1383:2004x1393)/cloudfront-us-east-1.images.arcpublishing.com/tronc/O5ZHHFA7AZBA7MPG2LYZ5DT7N4.jpg",
       "publishedAt": "2023-07-17T23:12:00Z",
       "content": "U.S. District Court Judge Aileen Cannon is set to make her debut Tuesday presiding over the trial of former President Donald Trump in the Mar-a-Lago classified documents trial.\nThe controversial and inexperienced jurist will preside over a high-stake... [3199 chars]",
-      "tags": ["personal_family", "regional_state", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1689635520
     },
     {
       "source": {
@@ -91,7 +110,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDdcXFwvMTgyMjM5MTNcXFwvYjk0ZjE3NWI4ZTNkNGFhZGI4YjU1ZWNjMDI3MjI5Y2QuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhOTcyMDcwNzMwMmI0YTk4YmY1NDE2NjlkNTFjNmJhYTA2ZThjY2EyIn0=/michigan-charges-16-republicans-accused-of-being-fake-electors-for-donald-trump.jpg",
       "publishedAt": "2023-07-17T23:00:00Z",
       "content": "Michigan’s attorney general has filed charges against 16 Republicans accused of being fake electors for Donald Trump after the 2020 election.\nUS presidents are technically elected by slates of electors in each state.\nAdvertisement\nThe 16 people are a... [1541 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1689634800
     },
     {
       "source": {
@@ -109,7 +133,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1689634800
     },
     {
       "source": {
@@ -123,7 +148,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/07/fani_willis_1251972765.jpg",
       "publishedAt": "2023-07-17T22:54:05Z",
       "content": "Fulton County, Ga., District Attorney Fani Willis in a Wall Street Journal interview expressed confidence that looming charges from a grand jury hearing evidence about former President Donald Trump's efforts to overturn his 2020 election loss in the ... [1215 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689634445
     },
     {
       "source": {
@@ -137,7 +167,10 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-1xud44sc1-1689632981895.jpg?quality=75&strip=all&1689618642&w=1024",
       "publishedAt": "2023-07-17T22:45:50Z",
       "content": "Are Democrats forfeiting the 2024 election?\nIn the Republican Party, Donald Trump has plenty of critics who say he can’t win next year.\nTo test that hypothesis, a strong slate of candidates is running as an alternative to him.\nFlorida Gov. Ron DeSant... [5007 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689633950
     },
     {
       "source": {
@@ -157,7 +190,8 @@
         "criminal_cases",
         "federal_courts",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1689633583
     },
     {
       "source": {
@@ -171,7 +205,11 @@
       "urlToImage": "https://www.reuters.com/resizer/tg60MkgaHMJXAx-UNPdUWKrjrgM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZPXEA64ERRMD5NM755C36HFOJY.jpg",
       "publishedAt": "2023-07-17T22:33:49Z",
       "content": "[1/2] Former U.S. President and Republican presidential candidate Donald Trump speaks at a campaign event in Council Bluffs, Iowa, U.S., July 7, 2023. REUTERS/Scott Morgan/File Photo\nJuly 17 (Reuters) - Georgia's top court on Monday rejected former P... [2118 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689633229
     },
     {
       "source": {
@@ -185,7 +223,12 @@
       "urlToImage": "https://static.politico.com/60/e6/572c322d4ca4af8186f30421122b/election-2024-desantis-64044.jpg",
       "publishedAt": "2023-07-17T22:21:44Z",
       "content": "A pro-Ron DeSantis super PAC uses an Artificial Intelligence version of Donald Trump’s voice in a new television ad attacking the former president.\nThe ad, from Never Back Down, charges Trump with attacking Iowa governor Kim Reynolds as part of a lar... [473 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1689632504
     },
     {
       "source": {
@@ -199,7 +242,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715200013-01-trump-turning-point-florida-071523.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-07-17T22:20:54Z",
       "content": "CNN —\nThe Georgia Supreme Court on Monday dismissed a long shot legal bid from former President Donald Trump to essentially shut down the Fulton County criminal probe into his attempts to overturn his 2020 election defeat in Georgia.\nThe court said i... [2569 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689632454
     },
     {
       "source": {
@@ -213,7 +260,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/07/AP23189859971798-e1688868518957.jpg?w=1280",
       "publishedAt": "2023-07-17T22:15:29Z",
       "content": "The Georgia Supreme Court Monday declined to take up an effort from former President Donald Trump to quash an investigation into his efforts to overturn the 2020 election results in the state.\nThe unanimous decision from the court’s nine justices was... [2476 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1689632129
     },
     {
       "source": {
@@ -227,7 +278,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230413145300-02-jack-teixeira.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-07-17T22:14:38Z",
       "content": "CNN —\nThe Massachusetts Air National Guardsman who is accused of posting a trove of classified documents to social media asked a judge to reconsider his detention on Monday, pointing out that he is charged with the same federal counts as former Presi... [3452 chars]",
-      "tags": ["legal_justice", "criminal_cases", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1689632078
     },
     {
       "source": {
@@ -241,7 +297,11 @@
       "urlToImage": "https://images.wsj.net/im-818611/social",
       "publishedAt": "2023-07-17T22:12:00Z",
       "content": "William McGurn is a member of The Wall Street Journal editorial board and writes the weekly \"Main Street\" column for the Journal each Tuesday. Previously he served as Chief Speechwriter for President George W. Bush.\nMr. McGurn has served as chief edi... [577 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1689631920
     },
     {
       "source": {
@@ -255,7 +315,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/611c4de/2147483647/strip/true/crop/5112x2876+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2Fe2%2F5ecddab1664c91370089a80871cc%2F96120f256e3e4180ab0de4213b42a9ca",
       "publishedAt": "2023-07-17T22:04:08Z",
       "content": "WEST PALM BEACH, Fla. (AP) — When student activists assembled in Florida last year for Turning Point Action’s annual summit, many were torn, wrestling with whether former President Donald Trump or Florida Gov. Ron DeSantis was the Republican Party’s ... [8054 chars]",
-      "tags": ["elections_politics", "florida"]
+      "tags": [
+        "elections_politics",
+        "florida"
+      ],
+      "publishedAtTs": 1689631448
     },
     {
       "source": {
@@ -269,7 +333,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K8vblCTJqWhDaCXT.Z.nEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/89fd3e90-24e5-11ee-bbeb-d1d1d3aae206",
       "publishedAt": "2023-07-17T21:56:13Z",
       "content": "Donald Trump at the Turning Point Action conference in West Palm Beach, Fla., on Saturday. (Joe Raedle/Getty Images)\nThere was a dream scenario, and it went like this: both big-ticket donors and grassroots activists would unite behind Florida Gov. Ro... [5905 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1689630973
     }
   ]
 }

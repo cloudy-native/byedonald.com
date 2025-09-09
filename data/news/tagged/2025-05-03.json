@@ -18,7 +18,8 @@
         "government_administration",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1746316761
     },
     {
       "source": {
@@ -32,7 +33,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/03/667721df-4a0f-4cc5-8188-691ff1616bcd/thumbnail/1200x630/25557b9fdc94036db776a48c8b86e922/gettyimages-2201185146.jpg?v=7c5acc180b39394767372ab4e02619ce",
       "publishedAt": "2025-05-03T23:50:00Z",
       "content": "Normandy, France — The heroic D-Day landings in Normandy marked the beginning of the end of World War II, where thousands of the Americans who fell in the assault still rest in graves in northwestern France.\nIt was the sacrifice of the American and E... [2844 chars]",
-      "tags": ["foreign_policy", "nato", "europe"]
+      "tags": [
+        "foreign_policy",
+        "nato",
+        "europe"
+      ],
+      "publishedAtTs": 1746316200
     },
     {
       "source": {
@@ -50,7 +56,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1746313200
     },
     {
       "source": {
@@ -70,7 +77,8 @@
         "economy_finance",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1746311946
     },
     {
       "source": {
@@ -84,7 +92,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/f6/0f6bb5ef-b668-54b7-b598-3dda5217c606/6816969096a2e.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-05-03T22:17:42Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "latin_america", "border_security"]
+      "tags": [
+        "foreign_policy",
+        "latin_america",
+        "border_security"
+      ],
+      "publishedAtTs": 1746310662
     },
     {
       "source": {
@@ -103,7 +116,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1746309420
     },
     {
       "source": {
@@ -123,7 +137,8 @@
         "security_intelligence",
         "social_issues",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1746308807
     },
     {
       "source": {
@@ -137,7 +152,8 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_04_2025_13_32_04_6724567.jpg?width=920&format=jpeg",
       "publishedAt": "2025-05-03T21:11:43Z",
       "content": "Mark Williams, a legendary figure in snooker, has once again defied the odds by advancing to the World Championship final at the Crucible.\nThe 50-year-old Welshman accomplished this remarkable feat by overcoming the current world number one, Judd Tru... [332 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1746306703
     },
     {
       "source": {
@@ -157,7 +173,8 @@
         "science_policy",
         "budget",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1746305882
     }
   ]
 }

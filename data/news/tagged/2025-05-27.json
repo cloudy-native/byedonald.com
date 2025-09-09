@@ -19,7 +19,8 @@
         "security_intelligence",
         "national_security",
         "arms_control"
-      ]
+      ],
+      "publishedAtTs": 1748390337
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "immigration",
         "security_clearances",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1748390292
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "economy_finance",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1748389975
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "media_communications",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1748389928
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "pardons",
         "criminal_cases",
         "family_activities"
-      ]
+      ],
+      "publishedAtTs": 1748389662
     },
     {
       "source": {
@@ -112,7 +117,12 @@
       "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/05/Trump_Pardons_67176-68364d12c08db-768x432.jpg",
       "publishedAt": "2025-05-27T23:43:35Z",
       "content": "Politics Trump set to pardon reality TV stars Todd and Julie Chrisley of fraud and tax evasion convictions The Chrisleys were convicted in 2022 of conspiring to defraud banks in the Atlanta area out of more than $30 million in loans by submitting fal... [4753 chars]",
-      "tags": ["criminal_cases", "pardons", "legal_justice"]
+      "tags": [
+        "criminal_cases",
+        "pardons",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748389415
     },
     {
       "source": {
@@ -132,7 +142,8 @@
         "security_intelligence",
         "national_security",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1748389170
     },
     {
       "source": {
@@ -152,7 +163,8 @@
         "security_clearances",
         "technology_regulation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1748388745
     },
     {
       "source": {
@@ -172,7 +184,8 @@
         "federal_courts",
         "legal_justice",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748388736
     },
     {
       "source": {
@@ -192,7 +205,8 @@
         "technology_regulation",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1748388566
     }
   ]
 }

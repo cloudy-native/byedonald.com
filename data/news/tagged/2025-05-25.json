@@ -14,7 +14,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/15_05_2025_17_33_20_1392382.png?width=920&format=jpeg",
       "publishedAt": "2025-05-25T23:59:27Z",
       "content": "The euro and U.S. dollar surged against the yen and Swiss franc as President Trump set a deadline for finalizing a trade deal with the EU, retracting a 50% tariff threat slated for June.\nThe decision, disclosed to reporters after discussions with EU ... [268 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy", "europe"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy",
+        "europe"
+      ],
+      "publishedAtTs": 1748217567
     },
     {
       "source": {
@@ -34,7 +40,8 @@
         "crisis_emergency",
         "security_intelligence",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1748217237
     },
     {
       "source": {
@@ -48,7 +55,12 @@
       "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-donald-trump-us-president_6927491.jpg?20250525234812",
       "publishedAt": "2025-05-25T23:52:00Z",
       "content": "Donald Trump says he will delay the imposition of 50% tariffs on goods entering the United States from the European Union until July, as the two sides attempt to negotiate a trade deal.\nIt comes after the president of the European Commission, Ursula ... [2481 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1748217120
     },
     {
       "source": {
@@ -62,7 +74,12 @@
       "urlToImage": "https://images.perthnow.com.au/publication/C-18815291/f18ae2e442dd242df94a220c893eca97f903f273-16x9-x0y0w1280h720.jpg?imwidth=1200",
       "publishedAt": "2025-05-25T23:34:48Z",
       "content": "US President Donald Trump says he's agreed to extend a deadline for trade talks with the European Union after the head of the EU said the bloc needs more time to \"reach a good deal\".\nSpeaking to reporters before boarding Air Force One in New Jersey, ... [1780 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748216088
     },
     {
       "source": {
@@ -76,7 +93,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/4RAMNBHKQBCF5APBV27MFFV4KQ.jpg?auth=988a76d56db4ecdf2d7f7a9fb273a7de245a56b8772ad452a21ac1170797e9ff&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-05-25T23:14:55Z",
       "content": "Open this photo in gallery: President Donald Trump speaks to reporters before boarding Air Force One at Morristown Municipal Airport in Morristown, N.J. on May 25.Manuel Balce Ceneta/The Associated Press\nU.S. President Donald Trump said Sunday that t... [1396 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748214895
     },
     {
       "source": {
@@ -96,7 +118,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1748214720
     },
     {
       "source": {
@@ -116,7 +139,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1748214559
     },
     {
       "source": {
@@ -130,7 +154,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/05/25/multimedia/25trump-news-tariffs1-kcwh/25trump-news-tariffs1-kcwh-facebookJumbo.jpg",
       "publishedAt": "2025-05-25T23:05:39Z",
       "content": "President Trump said on Sunday that he would delay imposing 50 percent tariffs on all imports from the European Union until July 9 to allow more time for trade negotiations.\nIn a post on Truth Social, Mr. Trump said that he had spoken to Ursula von d... [759 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1748214339
     },
     {
       "source": {
@@ -144,7 +173,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/5MAL2K4GQCBZ6ZMDRFRDW3F5FY.jpg?smart=true&auth=3a92365adb3fca0403ac77a3434fdd78fbb733becfeac6d4b787ffbee24ef97e&width=1200&height=630",
       "publishedAt": "2025-05-25T23:03:10Z",
       "content": "President Donald Trump speaks to reporters before boarding Air Force One at Morristown Municipal Airport in Morristown, N.J., Sunday, May 25, 2025. (AP Photo/Manuel Balce Ceneta)\nWASHINGTON — WASHINGTON (AP) — President Donald Trump said Sunday that ... [1436 chars]",
-      "tags": ["trade", "economy_finance", "government_administration"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1748214190
     }
   ]
 }

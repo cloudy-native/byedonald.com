@@ -14,7 +14,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/21_08_2024_05_40_33_8268149.png?width=920&format=jpeg",
       "publishedAt": "2025-01-13T23:56:02Z",
       "content": "Firefighters in Los Angeles are preparing for strong Santa Ana winds that could intensify wildfires, which have already devastated neighborhoods and claimed lives. The National Weather Service issued a critical red flag warning for Monday to Wednesda... [356 chars]",
-      "tags": ["natural_disasters", "regional_state", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1736812562
     },
     {
       "source": {
@@ -32,7 +37,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1736812491
     },
     {
       "source": {
@@ -50,7 +56,8 @@
         "policy_legislation",
         "regional_state",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736812420
     },
     {
       "source": {
@@ -69,7 +76,8 @@
         "media_communications",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1736812391
     },
     {
       "source": {
@@ -88,7 +96,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1736812206
     },
     {
       "source": {
@@ -107,7 +116,8 @@
         "texas",
         "government_administration",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1736812195
     },
     {
       "source": {
@@ -121,7 +131,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/migration/2023/07/31/AYVRKUADVRHOLO5NN67R3NHMFA.jpg?w=1024&h=670",
       "publishedAt": "2025-01-13T23:41:16Z",
       "content": "Four Brooklyn yeshivas filed a federal civil rights complaint on Monday against New York saying tougher review practices that found major deficiencies in the education provided at some ultra-religious schools discriminate against Jews.\nIn a 20-page f... [3351 chars]",
-      "tags": ["education", "civil_rights", "legal_justice"]
+      "tags": [
+        "education",
+        "civil_rights",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1736811676
     },
     {
       "source": {
@@ -135,7 +150,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/AP24299127105796-e1729874163174.jpg?w=1280",
       "publishedAt": "2025-01-13T23:34:39Z",
       "content": "The health law requires insurers to cover, without cost-sharing, more than 100 preventive health services recommended by the U.S Preventive Services Task Force (USPSTF), a volunteer panel of national experts in disease prevention and evidence-based m... [1578 chars]",
-      "tags": ["healthcare", "legal_justice", "supreme_court"]
+      "tags": [
+        "healthcare",
+        "legal_justice",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1736811279
     },
     {
       "source": {
@@ -153,7 +173,8 @@
         "government_administration",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1736810948
     },
     {
       "source": {
@@ -167,7 +188,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/10/AP24304807901555-e1730327567245.jpg?w=1280",
       "publishedAt": "2025-01-13T23:29:03Z",
       "content": "President-elect Trump’s inaugural parade is set to feature a garbage truck from an earlier stunt in Green Bay, Wis., a spokesperson with the president-elect’s inaugural committee confirmed to The Hill on Monday.\nWhile in Wisconsin in late October, th... [1340 chars]",
-      "tags": ["elections_politics", "personal_family", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1736810943
     }
   ]
 }

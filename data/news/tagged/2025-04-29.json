@@ -20,7 +20,8 @@
         "legal_justice",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1745971183
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/24_04_2025_11_53_49_1138908.png?width=920&format=jpeg",
       "publishedAt": "2025-04-29T23:58:45Z",
       "content": "In a spirited rally in Michigan, former President Donald Trump touted what he described as significant economic wins while launching verbal attacks against Democrats, including former President Joe Biden.\nThe event, aimed at highlighting his first 10... [382 chars]",
-      "tags": ["economy_finance", "elections_politics", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1745971125
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1745969955
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1745969423
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "national_security",
         "military",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1745969265
     },
     {
       "source": {
@@ -114,7 +123,8 @@
         "legal_justice",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1745968919
     },
     {
       "source": {
@@ -128,7 +138,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_07_2024_06_23_50_6018043.png?width=920&format=jpeg",
       "publishedAt": "2025-04-29T23:21:45Z",
       "content": "The board of Paramount is evaluating a settlement with U.S. President Donald Trump over his lawsuit concerning CBS News' '60 Minutes,' according to sources cited by The New York Times. The terms under consideration mark a key development in the legal... [414 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1745968905
     },
     {
       "source": {
@@ -146,7 +161,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1745968835
     },
     {
       "source": {
@@ -160,7 +176,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/PIZ44VCWN5G5DLJQSRPJL7IC3Q.JPG?auth=62081517bebe5aed827d39f1f3cb955cfe64584c01f411385290c2a2997d044f&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-04-29T23:17:53Z",
       "content": "Open this photo in gallery: Supporters watch as results appear on the screen at the New Democratic Party of Canada election night reception in Burnaby, B.C, on Monday, April 28, 2025.Tijana Martin/The Globe and Mail\nOver the past eight elections goin... [5872 chars]",
-      "tags": ["elections_politics", "foreign_policy", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1745968673
     },
     {
       "source": {
@@ -179,7 +200,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1745968260
     }
   ]
 }

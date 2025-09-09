@@ -20,7 +20,8 @@
         "national_security",
         "congressional_investigations",
         "press_relations"
-      ]
+      ],
+      "publishedAtTs": 1733529298
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1733528700
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "government_administration",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733528653
     },
     {
       "source": {
@@ -74,7 +77,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1733528137
     },
     {
       "source": {
@@ -92,7 +96,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733527485
     },
     {
       "source": {
@@ -110,7 +115,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1733527461
     },
     {
       "source": {
@@ -124,7 +130,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/675341b81500005700baa798.jpeg?cache=4O7rjLLBeX&ops=1200_630",
       "publishedAt": "2024-12-06T23:16:17Z",
       "content": "LOADING ERROR LOADING\nThis article is part of HuffPost’s biweekly politics newsletter. Click here to subscribe.\nDonald Trump and his fellow Republicans made the high cost of living a major focus of their campaigns in 2024. And for all of their vitrio... [7810 chars]",
-      "tags": ["policy_legislation", "healthcare", "economy_finance"]
+      "tags": [
+        "policy_legislation",
+        "healthcare",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1733526977
     },
     {
       "source": {
@@ -142,7 +153,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733526414
     },
     {
       "source": {
@@ -162,7 +174,8 @@
         "security_intelligence",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1733526339
     },
     {
       "source": {
@@ -176,7 +189,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2492759/sean-diddy-combs-donald-trump.png",
       "publishedAt": "2024-12-06T22:57:07Z",
       "content": "Lawyers for Sean \"Diddy\" Combs are citing fellow celebrity inmates in court documents in efforts to ensure that the disgraced music mogul is treated fairly in jail.\nLawyers for Sean \"Diddy\" Combs, center, have used Ghislaine Maxwell, left, and Presid... [4055 chars]",
-      "tags": ["legal_justice", "personal_family", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1733525827
     }
   ]
 }

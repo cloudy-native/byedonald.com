@@ -20,7 +20,8 @@
         "security_intelligence",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1731196657
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "regional_state",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731196630
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731194160
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://static.standard.co.uk/2024/11/09/23/c4fc32590b8b51b1e7eb06fae3d0f3b9Y29udGVudHNlYXJjaGFwaSwxNzMxMjc5NzA5-2.37582101.jpg?width=1200&auto=webp&quality=75",
       "publishedAt": "2024-11-09T23:12:11Z",
       "content": "* FIRST NAME\n* LAST NAME\n* EMAIL Your email address\n* PASSWORD Must be at least 6 characters, include an upper and lower case character and a number Show\n* YEAR OF BIRTH You must be at least 18 years old to create an account 2006 2005 2004 2003 2002 ... [927 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1731193931
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1731193901
     },
     {
       "source": {
@@ -108,7 +117,12 @@
       "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2024/11/ss_Superstitions_2c-1.jpg",
       "publishedAt": "2024-11-09T22:57:04Z",
       "content": "Twinkle Khanna aka Mrs Funnybones crafts satirical stories and funny fables when she is not running a design business, selling candles or running in circles around her small but rather odd family. She narrowly escaped a gruesome tragedy when Bollywoo... [6081 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1731193024
     },
     {
       "source": {
@@ -126,7 +140,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731192546
     },
     {
       "source": {
@@ -146,7 +161,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731192060
     },
     {
       "source": {
@@ -160,7 +176,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/8ee96532d9b7c97fa6e1ac8f60507ecaadbe811d/0_415_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e1edf8ba25baab7ebc84932d25cb2a7",
       "publishedAt": "2024-11-09T22:38:15Z",
       "content": "San Francisco 49ers star defensive end Nick Bosa has been fined by the NFL for wearing a hat with a pro-Donald Trump message during a postgame television interview, a person familiar with the matter told the Associated Press on Saturday.\nBosa was fin... [1284 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1731191895
     },
     {
       "source": {
@@ -174,7 +195,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_13_23_06_1322891.png?width=920&format=jpeg",
       "publishedAt": "2024-11-09T21:56:31Z",
       "content": "Rachel Reeves, Britain's finance minister, is gearing up to make a pivotal speech promoting free trade in the face of soaring trade tariffs proposed by U.S. President Donald Trump. The Obersver reported on Saturday that Trump's administration could e... [748 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1731189391
     },
     {
       "source": {
@@ -193,7 +219,8 @@
         "crisis_emergency",
         "regional_state",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1731189068
     },
     {
       "source": {
@@ -211,7 +238,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731188834
     },
     {
       "source": {
@@ -231,7 +259,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731188556
     },
     {
       "source": {
@@ -245,7 +274,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/ab/cab7e347-6f6d-5f1f-95b0-840a7a9101a9/672e507576474.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-11-09T21:42:34Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "personal_family", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1731188554
     },
     {
       "source": {
@@ -263,7 +297,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731188388
     },
     {
       "source": {
@@ -281,7 +316,8 @@
         "elections_politics",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1731187803
     },
     {
       "source": {
@@ -301,7 +337,8 @@
         "economy_finance",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731187664
     },
     {
       "source": {
@@ -322,7 +359,8 @@
         "personnel",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1731187636
     },
     {
       "source": {
@@ -342,7 +380,8 @@
         "foreign_policy",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731186060
     },
     {
       "source": {
@@ -362,7 +401,8 @@
         "technology_regulation",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731186059
     },
     {
       "source": {
@@ -376,7 +416,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/20_08_2024_09_01_01_0266336.png?width=920&format=jpeg",
       "publishedAt": "2024-11-09T21:00:39Z",
       "content": "In the world of entertainment, superstar Beyonce shines brightly as she tops the Grammy nominations with 11 nods, including an album of the year nomination for her country music venture \"Cowboy Carter.\" Following closely, artists Billie Eilish, Charl... [968 chars]",
-      "tags": ["media_communications", "social_issues"]
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1731186039
     },
     {
       "source": {
@@ -390,7 +434,12 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article34075455.ece/ALTERNATES/s1200/1_Turn-The-Tables-2024-Lunch-Hosted-By-Tania-Bryer-And-James-Landale-In-Aid-Of-Cancer-Research-UK.jpg",
       "publishedAt": "2024-11-09T20:41:51Z",
       "content": "Eamonn Holmes looked unrecognisable as he transformed into Donald Trump despite making a savage comment.\nThe former This Morning host, 64, shocked fans by posting a photo of him as the incoming US President. Trump declared victory following the US pr... [3273 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1731184911
     },
     {
       "source": {
@@ -410,7 +459,8 @@
         "security_clearances",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1731184701
     },
     {
       "source": {
@@ -424,7 +474,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump.png?id=52327535&width=1200&height=600&coordinates=0%2C103%2C0%2C103",
       "publishedAt": "2024-11-09T20:35:53Z",
       "content": "Donald Trump is expected to enter the White House with a Republican House and Senate, as well as a Supreme Court including several jurists he himself appointed, but there is still an unexpected source of pushback that could hamper some of his efforts... [2070 chars]",
-      "tags": ["legal_justice", "supreme_court", "congressional_investigations"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "congressional_investigations"
+      ],
+      "publishedAtTs": 1731184553
     },
     {
       "source": {
@@ -444,7 +499,8 @@
         "policy_legislation",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731184108
     }
   ]
 }

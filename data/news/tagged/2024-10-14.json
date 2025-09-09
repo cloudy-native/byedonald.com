@@ -20,7 +20,8 @@
         "media_communications",
         "regional_state",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728950315
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "crisis_emergency",
         "regional_state",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728950064
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "campaign_finance",
         "2026_midterms",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728949703
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728948225
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "voting_rights",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728947228
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "elections_politics",
         "personal_business",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728947043
     },
     {
       "source": {
@@ -138,7 +144,8 @@
         "social_issues",
         "personal_family",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728946841
     },
     {
       "source": {
@@ -157,7 +164,8 @@
         "2026_midterms",
         "swing_states",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1728946800
     },
     {
       "source": {
@@ -175,7 +183,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728946560
     },
     {
       "source": {
@@ -195,7 +204,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1728944640
     },
     {
       "source": {
@@ -215,7 +225,8 @@
         "media_communications",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728944385
     },
     {
       "source": {
@@ -234,7 +245,8 @@
         "energy",
         "foreign_policy",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728943658
     },
     {
       "source": {
@@ -254,7 +266,8 @@
         "legal_justice",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728942560
     },
     {
       "source": {
@@ -272,7 +285,8 @@
         "personal_business",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728942513
     },
     {
       "source": {
@@ -292,7 +306,8 @@
         "foreign_policy",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1728941856
     },
     {
       "source": {
@@ -312,7 +327,8 @@
         "legal_justice",
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1728941400
     },
     {
       "source": {
@@ -332,7 +348,8 @@
         "political_endorsements",
         "racial_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1728941043
     },
     {
       "source": {
@@ -352,7 +369,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728940766
     },
     {
       "source": {
@@ -366,7 +384,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8jo4Uk7_KrqkWKMG3.JzpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6784c44778a757d93b1bb6d3e0c03339",
       "publishedAt": "2024-10-14T21:03:16Z",
       "content": "Donald Trump likes to blame Vice President Kamala Harris and his former election opponent, President Joe Biden, for inflation surging in the aftermath of the COVID-19 pandemic. The attack makes political sense. Even as the Fed declares victory in the... [3328 chars]",
-      "tags": ["economy_finance", "policy_legislation", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1728939796
     },
     {
       "source": {
@@ -384,7 +407,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728939406
     },
     {
       "source": {
@@ -398,7 +422,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c0/fc04695b-d563-5d63-bcf3-fe67a6f6d2e0/670d852895a4a.image.jpg?crop=1280%2C672%2C0%2C15&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-10-14T20:53:37Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1728939217
     },
     {
       "source": {
@@ -418,7 +447,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728938902
     },
     {
       "source": {
@@ -438,7 +468,8 @@
         "economy_finance",
         "regional_state",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1728937581
     },
     {
       "source": {
@@ -458,7 +489,8 @@
         "military",
         "personal_family",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728937291
     },
     {
       "source": {
@@ -472,7 +504,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2494952/kamala-harris.jpg",
       "publishedAt": "2024-10-14T19:24:36Z",
       "content": "A new poll reveals Kamala Harris has similar support from Black voters as Joe Biden did in 2020, contradicting previous claims that she was losing their support to Donald Trump.\nThe poll was conducted by YouGov for CBS News between October 8 and Octo... [2445 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1728933876
     }
   ]
 }

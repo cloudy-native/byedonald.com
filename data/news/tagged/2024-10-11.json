@@ -18,7 +18,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728690900
     },
     {
       "source": {
@@ -32,7 +33,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2493939/election-2024-trump.jpg",
       "publishedAt": "2024-10-11T23:34:32Z",
       "content": "Former first lady Melania Trump reflected on her upbringing in Slovenia and said in a recent interview that her son, Barron, would be different if he had experienced a childhood like the one she had.\nThe former first lady's memoir, which was released... [3333 chars]",
-      "tags": ["personal_family", "regional_state", "social_issues"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "social_issues"
+      ],
+      "publishedAtTs": 1728689672
     },
     {
       "source": {
@@ -46,7 +52,12 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-donald-trump-playing-golf_6713868.jpg?20241012003125",
       "publishedAt": "2024-10-11T23:31:00Z",
       "content": "Donald Trump has not played golf since an apparent attempt on his life and reportedly will not do so again until after November's presidential election.\nThe former president, 78, is an avid golfer but has been told that federal agents were not satisf... [3560 chars]",
-      "tags": ["security_incidents", "elections_politics", "2028_presidential"]
+      "tags": [
+        "security_incidents",
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1728689460
     },
     {
       "source": {
@@ -66,7 +77,8 @@
         "political_endorsements",
         "campaign_events",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1728689400
     },
     {
       "source": {
@@ -86,7 +98,8 @@
         "racial_justice",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728688920
     },
     {
       "source": {
@@ -100,7 +113,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2493884/donald-trump-polling-states-he-won-twice.jpg",
       "publishedAt": "2024-10-11T23:00:10Z",
       "content": "Donald Trump's lead in two states he easily carried in 2016 and 2020 has been cut in half in recent polls, though only one state he won in both elections—North Carolina—is viewed as a toss-up.\nThe presidential race between Trump and Kamala Harris is ... [8486 chars]",
-      "tags": ["elections_politics", "regional_state", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1728687610
     },
     {
       "source": {
@@ -119,7 +137,8 @@
         "government_administration",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728687600
     },
     {
       "source": {
@@ -133,7 +152,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMTBcXFwvMTIxMDQ1MTdcXFwvNGJjYmQwMmY5YzFiNDdkODhlODdiYjdlZDA3YWU0ZjUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwYTMwNjRlYTBlYjc1NTU2YzUwMjJkNTcwM2JmOGQzOGU1YTY4OGFiIn0=/harris-to-release-report-on-her-health-with-trump-failing-to-do-so.jpg",
       "publishedAt": "2024-10-11T23:00:00Z",
       "content": "US Vice President Kamala Harris plans to release a report on her medical history and health that a senior campaign aide said would show “she possesses the physical and mental resiliency” needed to serve as the next American leader.\nMs Harris’ adviser... [1445 chars]",
-      "tags": ["health", "elections_politics", "personal_family"]
+      "tags": [
+        "health",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728687600
     },
     {
       "source": {
@@ -152,7 +176,8 @@
         "policy_legislation",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728687554
     },
     {
       "source": {
@@ -172,7 +197,8 @@
         "foreign_policy",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1728687520
     },
     {
       "source": {
@@ -192,7 +218,8 @@
         "foreign_policy",
         "middle_east",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1728687281
     },
     {
       "source": {
@@ -212,7 +239,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728686254
     },
     {
       "source": {
@@ -232,7 +260,8 @@
         "political_endorsements",
         "polling",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728686137
     },
     {
       "source": {
@@ -250,7 +279,8 @@
         "regional_state",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728685940
     },
     {
       "source": {
@@ -270,7 +300,8 @@
         "policy_legislation",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728685851
     },
     {
       "source": {
@@ -290,7 +321,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728685532
     },
     {
       "source": {
@@ -310,7 +342,8 @@
         "political_endorsements",
         "campaign_finance",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1728684647
     },
     {
       "source": {
@@ -330,7 +363,8 @@
         "security_intelligence",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728684507
     },
     {
       "source": {
@@ -350,7 +384,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728684356
     },
     {
       "source": {
@@ -368,7 +403,8 @@
         "media_communications",
         "elections_politics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728684157
     },
     {
       "source": {
@@ -388,7 +424,8 @@
         "economy_finance",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728684115
     },
     {
       "source": {
@@ -407,7 +444,8 @@
         "elections_politics",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728683530
     },
     {
       "source": {
@@ -427,7 +465,8 @@
         "security_intelligence",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1728683003
     },
     {
       "source": {
@@ -441,7 +480,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241011-donald-trump-montana-aa-512p-2c0a49.jpg",
       "publishedAt": "2024-10-11T21:35:28Z",
       "content": "Welcome to the online version of From the Politics Desk, an evening newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the campaign trail, the White House and Capitol Hill.\nIn today’s edition, Capitol Hill cove... [5484 chars]",
-      "tags": ["elections_politics", "swing_states", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "swing_states",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1728682528
     },
     {
       "source": {
@@ -455,7 +499,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2493722/donald-trump-men-voters-polls.jpg",
       "publishedAt": "2024-10-11T21:25:56Z",
       "content": "Former President Donald Trump is polling stronger with men than he did in his 2016 and 2020 presidential campaigns, according to several recent surveys.\nTrump won male voters in both the 2020 and 2016 presidential races, according to New York Times e... [8548 chars]",
-      "tags": ["elections_politics", "polling"]
+      "tags": [
+        "elections_politics",
+        "polling"
+      ],
+      "publishedAtTs": 1728681956
     }
   ]
 }

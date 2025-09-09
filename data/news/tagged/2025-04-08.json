@@ -19,7 +19,8 @@
         "economy_finance",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1744156216
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1744156209
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "border_security",
         "mexico",
         "terrorism"
-      ]
+      ],
+      "publishedAtTs": 1744155602
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "agriculture",
         "foreign_policy",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1744155480
     },
     {
       "source": {
@@ -91,7 +95,12 @@
       "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/04/nvidia1.jpg",
       "publishedAt": "2025-04-08T23:26:00Z",
       "content": "Nvidia has been one of the hottest stocks in the market since 2023 but has cooled alongside all of the other growth stocks during the latest sell-off.\nYou’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investin... [3698 chars]",
-      "tags": ["economy_finance", "stock_market", "trade"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "trade"
+      ],
+      "publishedAtTs": 1744154760
     },
     {
       "source": {
@@ -110,7 +119,8 @@
         "economy_finance",
         "foreign_policy",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1744153505
     },
     {
       "source": {
@@ -124,7 +134,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/14_06_2024_11_45_29_0013726.png?width=920&format=jpeg",
       "publishedAt": "2025-04-08T23:04:53Z",
       "content": "U.S. Agriculture Secretary Brooke Rollins revealed on Tuesday that potential trade agreements with several countries might be finalized by the end of the week. Speaking in an interview on Fox News' 'Special Report', Rollins highlighted the swift prog... [729 chars]",
-      "tags": ["trade", "agriculture", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "agriculture",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1744153493
     },
     {
       "source": {
@@ -144,7 +160,8 @@
         "social_issues",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1744153320
     },
     {
       "source": {
@@ -162,7 +179,8 @@
         "economy_finance",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1744153264
     }
   ]
 }

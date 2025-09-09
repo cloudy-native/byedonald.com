@@ -20,7 +20,8 @@
         "economy_finance",
         "legal_justice",
         "education"
-      ]
+      ],
+      "publishedAtTs": 1747180774
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "border_security",
         "federal_agencies",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1747179663
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "policy_legislation",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1747178795
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6823a762150000240072fd49.jpeg?cache=IBP1wDkpCC&ops=1200_630",
       "publishedAt": "2025-05-13T23:03:50Z",
       "content": "For two decades, HuffPost has been fearless, unflinching, and relentless in pursuit of the truth. Support our mission to keep us around for the next 20 — we can't do this without you.\nWe remain committed to providing you with the unflinching, fact-ba... [328 chars]",
-      "tags": ["media_communications", "personal_family", "health_science"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "health_science"
+      ],
+      "publishedAtTs": 1747177430
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "iran",
         "national_security",
         "nuclear_policy"
-      ]
+      ],
+      "publishedAtTs": 1747177200
     },
     {
       "source": {
@@ -114,7 +123,8 @@
         "nuclear_policy",
         "international_organizations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1747177200
     },
     {
       "source": {
@@ -134,7 +144,8 @@
         "security_intelligence",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747177200
     },
     {
       "source": {
@@ -154,7 +165,8 @@
         "europe",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1747177200
     },
     {
       "source": {
@@ -174,7 +186,8 @@
         "banking",
         "small_business",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1747176835
     },
     {
       "source": {
@@ -194,7 +207,8 @@
         "media_communications",
         "regional_state",
         "travel"
-      ]
+      ],
+      "publishedAtTs": 1747176475
     }
   ]
 }

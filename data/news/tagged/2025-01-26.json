@@ -19,7 +19,8 @@
         "environment",
         "policy_legislation",
         "federal_agencies"
-      ]
+      ],
+      "publishedAtTs": 1737935570
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1737935514
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "security_intelligence",
         "crisis_emergency",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1737935493
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "trade",
         "policy_legislation",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1737935320
     },
     {
       "source": {
@@ -94,7 +98,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/24MY25ZM6ZBDNCNQYPO2PSB7ZE.jpg?auth=6f31f59b9e845c1d60b95274c8509228a357dbb2a4d131584170f7e16bb3cc95&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-01-26T23:43:39Z",
       "content": "Open this photo in gallery: Displaced Palestinians gather with their belongings near a roadblock on Al-Rashid Street, as they wait to return to their homes in the northern part of the Gaza Strip, on Jan. 26.Jehad Alshrafi/The Associated Press\nThe ent... [6265 chars]",
-      "tags": ["middle_east", "foreign_policy", "israel"]
+      "tags": [
+        "middle_east",
+        "foreign_policy",
+        "israel"
+      ],
+      "publishedAtTs": 1737935019
     }
   ]
 }

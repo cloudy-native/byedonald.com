@@ -14,7 +14,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/untitled-design-3-4-169292103116x9.png",
       "publishedAt": "2023-08-24T23:58:17Z",
       "content": "Former US President Donald Trump arrived at an Atlanta jailhouse on Thursday evening to turn himself in and have his mug shot taken as part of a wide-ranging criminal case stemming from his attempts to overturn his 2020 election defeat in Georgia.\nTr... [4624 chars]",
-      "tags": ["legal_justice", "elections_politics", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1692921497
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://e3.365dm.com/23/08/1600x900/skynews-donald-trump-atlanta_6261780.jpg?20230825002332",
       "publishedAt": "2023-08-24T23:57:00Z",
       "content": "Trump officially released\nDonald Trump has been released from Fulton County jail after surrendering less than half an hour ago.\nIt means the US president has been booked and has paid his $200,000 bond.\nHe will have been fingerprinted, weighed and had... [375 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1692921420
     },
     {
       "source": {
@@ -48,7 +58,8 @@
         "government_administration",
         "criminal_cases",
         "impeachment"
-      ]
+      ],
+      "publishedAtTs": 1692921321
     },
     {
       "source": {
@@ -67,7 +78,8 @@
         "legal_justice",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1692921274
     },
     {
       "source": {
@@ -85,7 +97,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692921210
     },
     {
       "source": {
@@ -103,7 +116,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692921134
     },
     {
       "source": {
@@ -117,7 +131,11 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/9cfOEJlX_RiePe4wjFl43cLij14=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BCDKUFWGYVJ4ZH6WVRQCHSRCM4.jpg",
       "publishedAt": "2023-08-24T23:49:36Z",
       "content": "Open this photo in gallery: Former U.S. President Donald Trump arrives at Atlanta Hartsfield-Jackson International Airport on August 24, 2023 in Atlanta, Georgia.Joe Raedle/Getty Images\nDonald Trump has surrendered in Georgia to face his fourth indic... [5160 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1692920976
     },
     {
       "source": {
@@ -131,7 +149,12 @@
       "urlToImage": "https://static.politico.com/47/da/9ba29add43e9b999e1cfd0fc0e41/georgia-election-indictment-76752.jpg",
       "publishedAt": "2023-08-24T23:45:02Z",
       "content": "Trump’s surrender is distinct from the other three times the former president has been booked as a criminal defendant this year. In those cases, Trump turned himself in at a courthouse rather than a jail, and he did not have a mug shot taken. But in ... [2306 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1692920702
     },
     {
       "source": {
@@ -149,7 +172,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692920517
     },
     {
       "source": {
@@ -167,7 +191,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692920417
     },
     {
       "source": {
@@ -185,7 +210,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1692920041
     },
     {
       "source": {
@@ -199,7 +225,11 @@
       "urlToImage": "https://www.nydailynews.com/resizer/iSu_O7gKJVQ-EpuYIYjal-Idp58=/1200x630/filters:format(jpg):quality(70):focal(2943x2498:2953x2508)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PJF727FYYJFXM32JHJOD7WYVKA.jpg",
       "publishedAt": "2023-08-24T23:29:00Z",
       "content": "Republican presidential candidates, from left, former Arkansas Gov. Asa Hutchinson, former New Jersey Gov. Chris Christie, former Vice President Mike Pence, Florida Gov. Ron DeSantis, businessman Vivek Ramaswamy, former U.N. Ambassador Nikki Haley, S... [2343 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1692919740
     }
   ]
 }

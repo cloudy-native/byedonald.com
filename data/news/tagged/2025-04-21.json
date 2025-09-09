@@ -14,7 +14,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi_com/7921745275863/2025/1/b957e28a57ff426dac6789b7c16761a0/v1.5/Harvard-sues-Trump-administration-over-funding-withdrawal-oversight-demands.jpg",
       "publishedAt": "2025-04-21T23:57:16Z",
       "content": "The crest adorns a gate on the campus of Harvard University in Allston, Mass. Harvard on Monday sued the Trmp administration after federal funding was withdrawn and institutional oversight was demanded.Photo by CJ Gunterh/EPA-EFE\nApril 21 (UPI) -- Ha... [6616 chars]",
-      "tags": ["legal_justice", "government_administration", "education"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "education"
+      ],
+      "publishedAtTs": 1745279836
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "economy_finance",
         "education",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1745279573
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1745279552
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/15_04_2025_10_22_20_1340043.png?width=920&format=jpeg",
       "publishedAt": "2025-04-21T23:52:11Z",
       "content": "Authorities took a 30-year-old individual into custody at Trump Tower for causing a disturbance on an elevated surface. The New York City Police Department responded at approximately 4:30 PM to the landmark, which is home to a penthouse owned by Pres... [750 chars]",
-      "tags": ["personal_family", "regional_state", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1745279531
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
       "publishedAt": "2025-04-21T23:47:36Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["regional_state", "legal_justice", "security_intelligence"]
+      "tags": [
+        "regional_state",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1745279256
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "banking",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1745277759
     },
     {
       "source": {
@@ -122,7 +140,8 @@
         "policy_legislation",
         "regional_state",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1745277489
     },
     {
       "source": {
@@ -141,7 +160,8 @@
         "education",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1745277294
     },
     {
       "source": {
@@ -155,7 +175,13 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/8faa256/2147483647/strip/true/crop/5333x3000+0+278/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F03%2F0729633163e608a4b870c3f9cf0f%2Fd3a80a86b44648a181c55cd54c44a0b3",
       "publishedAt": "2025-04-21T23:00:56Z",
       "content": "NEW YORK (AP) — Global financial markets have been turned upside down this year by President Donald Trump’s burgeoning trade war. Markets are not in full panic, but the double-digit declines in major U.S. stock indexes are testing nerves.\nU.S. market... [5519 chars]",
-      "tags": ["economy_finance", "foreign_policy", "stock_market", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "stock_market",
+        "trade"
+      ],
+      "publishedAtTs": 1745276456
     },
     {
       "source": {
@@ -174,7 +200,8 @@
         "education",
         "government_administration",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1745276448
     }
   ]
 }

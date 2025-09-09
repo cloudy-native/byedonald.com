@@ -14,7 +14,13 @@
       "urlToImage": "https://media.wired.com/photos/6890b155f5feccf463b30cd3/191:100/w_1280,c_limit/China%20Travel%20final.jpg",
       "publishedAt": "2025-08-06T13:00:00Z",
       "content": "Amid growing tensions and an escalating trade war between the United States and China, international business travelers may be understandably wary about traveling to the Chinese mainland. The US Depa… [+3188 chars]",
-      "tags": ["foreign_policy", "china", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754485200
     },
     {
       "source": {
@@ -32,7 +38,8 @@
         "government_administration",
         "technology_regulation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1754503200
     },
     {
       "source": {
@@ -46,7 +53,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK468_APPLE_ANTITRUST_CVIRGINIA_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-08-06T21:07:49Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is trying to stave off Trumps threat by bringing iPhone and Watch cover glass production to the US.\r\nApple is trying to stave off Trumps threat by bringing… [+4015 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754514469
     },
     {
       "source": {
@@ -60,7 +72,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/tim-cook-2025-1200x675.jpg",
       "publishedAt": "2025-08-06T17:15:00Z",
       "content": "Apple CEO Tim Cook will join President Donald Trump at the White House Wednesday afternoon to announce a new $100 billion pledge to invest in the United States, according to a report from CNBC. Dubbe… [+2833 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1754500500
     },
     {
       "source": {
@@ -74,7 +90,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/elon_look-1200x675.png",
       "publishedAt": "2025-08-06T17:40:22Z",
       "content": "This week, Elon Musk officially launched Grok Imagine, xAIs image and video generator for iOS, for people who subscribe to SuperGrok and Premium+ X. The app allows users to create NSFW content with i… [+7001 chars]",
-      "tags": ["technology_regulation", "social_issues"]
+      "tags": [
+        "technology_regulation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1754502022
     },
     {
       "source": {
@@ -88,7 +108,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/donald-trump-july-16-2025-1200x675.jpg",
       "publishedAt": "2025-08-06T18:35:50Z",
       "content": "Donald Trump’s tariff regime has been scoffed at by business leaders and world economists (Larry Summers, for instance, called it both “crazy” and “dumb”), but the White House hasn’t backed down from… [+4162 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1754505350
     },
     {
       "source": {
@@ -102,7 +126,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/08/Dragon-Bravo-fire-1200x675.jpg",
       "publishedAt": "2025-08-06T20:15:02Z",
       "content": "Despite over a month of firefighting efforts, the Dragon Bravo fire experienced a surge of growth this week, doubling in size within just a few days. The northern Arizona megafire is now the largest … [+3363 chars]",
-      "tags": ["natural_disasters", "public_health_emergency"]
+      "tags": [
+        "natural_disasters",
+        "public_health_emergency"
+      ],
+      "publishedAtTs": 1754511302
     },
     {
       "source": {
@@ -116,7 +144,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/discovery-rollout-7-trucked-overland-to-edwards-oct-1983-1200x675.jpg",
       "publishedAt": "2025-08-06T16:40:56Z",
       "content": "NASA has selected a yet-to-be-named Space Shuttle to move to Houston, conceding to a long-running bid by Texas senators to house one of the iconic vehicles. If the chosen vehicle is Discoverywhich it… [+3895 chars]",
-      "tags": ["space_policy", "regional_state", "texas"]
+      "tags": [
+        "space_policy",
+        "regional_state",
+        "texas"
+      ],
+      "publishedAtTs": 1754498456
     },
     {
       "source": {
@@ -130,7 +163,11 @@
       "urlToImage": "https://images.macrumors.com/t/iE2Xc8OJAaB9Hxr5w0wWAk6a9ro=/2500x/article-new/2025/01/m2-macbook-air-blue.jpeg",
       "publishedAt": "2025-08-06T21:43:33Z",
       "content": "U.S. President Donald Trump today said that there will be a 100 percent tariff on chips and semiconductors imported into the United States, but with a major exception.\r\nCompanies that are building in… [+1544 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1754516613
     },
     {
       "source": {
@@ -144,7 +181,12 @@
       "urlToImage": "https://i.insider.com/6892cff685e81483682f5c36?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T07:39:29Z",
       "content": "Russia's revenue from oil and gas has plunged recently, putting further pressure on Moscow to end its war in Ukraine.\r\nIn July, Russian President Vladimir Putin's administration collected 787.3 billi… [+3464 chars]",
-      "tags": ["foreign_policy", "russia", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754465969
     },
     {
       "source": {
@@ -158,7 +200,12 @@
       "urlToImage": "https://i.insider.com/6893abf03d5881a51c1ebc3c?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T19:27:50Z",
       "content": "Nuclear energy stocks got a big boost this week after US Transportation Secretary and interim NASA administrator Sean Duffy announced plans to expedite a nuclear reactor on the moon.\r\nThe comments se… [+3303 chars]",
-      "tags": ["energy", "economy_finance", "space_policy"]
+      "tags": [
+        "energy",
+        "economy_finance",
+        "space_policy"
+      ],
+      "publishedAtTs": 1754508470
     },
     {
       "source": {
@@ -172,7 +219,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fe8%2Fc56cb17d4c93969045d84923e696%2Fgettyimages-2151784824.jpg",
       "publishedAt": "2025-08-06T19:18:08Z",
       "content": "The Trump administration is cancelling almost $500 million in contracts to develop mRNA vaccines to protect the nation against future viral threats. The move thrilled critics of the technology but ho… [+4981 chars]",
-      "tags": ["health_science", "public_health", "medical_research"]
+      "tags": [
+        "health_science",
+        "public_health",
+        "medical_research"
+      ],
+      "publishedAtTs": 1754507888
     },
     {
       "source": {
@@ -186,7 +238,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4911x2762+0+148/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F42%2Fd22618884c6c9b6b379145f8d1fc%2Fap25218335971140.jpg",
       "publishedAt": "2025-08-06T15:27:56Z",
       "content": "MOSCOW White House envoy Steve Witkoff met Russian President Vladimir Putin in Moscow on Wednesday, part of a last-ditch effort by the Trump administration to convince the Kremlin leader to make peac… [+5755 chars]",
-      "tags": ["foreign_policy", "russia", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1754494076
     },
     {
       "source": {
@@ -200,7 +257,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4874x2742+0+254/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F3f%2F18ec19304a479ff140a705bf8a57%2Fap25211762797023.jpg",
       "publishedAt": "2025-08-06T03:55:48Z",
       "content": "WASHINGTON The Department of Health and Human Services will cancel contracts and pull funding for some vaccines that are being developed to fight respiratory viruses like COVID-19 and the flu.\r\nRober… [+3766 chars]",
-      "tags": ["health_science", "public_health", "policy_legislation"]
+      "tags": [
+        "health_science",
+        "public_health",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1754452548
     },
     {
       "source": {
@@ -214,7 +276,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+198/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F07%2F371a1547453d9bbba4de1860b373%2Fa1030-17a.jpg",
       "publishedAt": "2025-08-06T09:00:00Z",
       "content": "Otis Wilson had enough with talking and decided to go to court.\r\nHis Louisiana town of St. Francisville, north of Baton Rouge, had long elected alderpersons as at-large representatives for a single, … [+11040 chars]",
-      "tags": ["civil_rights", "voting_rights", "legal_justice"]
+      "tags": [
+        "civil_rights",
+        "voting_rights",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1754470800
     },
     {
       "source": {
@@ -228,7 +295,12 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
       "publishedAt": "2025-08-06T14:48:00Z",
       "content": "The new investment would increase Apple's commitment to U.S. manufacturing to $600 billion over the next four years, according to a White House official. And it's expected to include a new \"American … [+389 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754491680
     },
     {
       "source": {
@@ -242,7 +314,11 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
       "publishedAt": "2025-08-06T23:00:00Z",
       "content": "It will be paid by those who buy the chips within the USA. It will not be paid by those who do not live in the USA. Trump either does not understand that or thinks that USA citizens are too stupid to… [+123 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754521200
     },
     {
       "source": {
@@ -256,7 +332,11 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/communications_64.png",
       "publishedAt": "2025-08-06T07:00:00Z",
       "content": "It is unclear why the Trump administration seeks to end the missions. The equipment in space is state of the art and is expected to function for many more years, according to scientists who worked on… [+1134 chars]",
-      "tags": ["environment", "health_science"]
+      "tags": [
+        "environment",
+        "health_science"
+      ],
+      "publishedAtTs": 1754463600
     },
     {
       "source": {
@@ -270,7 +350,11 @@
       "urlToImage": "https://i.insider.com/6893c9c5f748d8c055f706d9?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T22:33:38Z",
       "content": "CEO Tim Cook holds part of the gift Apple gave to President Donald Trump.Brendan Smialowski/AFP/Getty Images\r\n<ul><li>Tim Cook joined Donald Trump for a celebratory announcement in the Oval Office.</… [+2753 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754519618
     },
     {
       "source": {
@@ -284,7 +368,11 @@
       "urlToImage": "https://i.insider.com/689382513d5881a51c1eb654?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T19:39:17Z",
       "content": "Trump Media is testing an AI search engine on Truth Social that is powered by Perplexity, an AI company.Truth Social\r\n<ul><li>An AI search engine powered by Perplexity is now available on Truth Socia… [+2046 chars]",
-      "tags": ["technology_regulation", "media_communications"]
+      "tags": [
+        "technology_regulation",
+        "media_communications"
+      ],
+      "publishedAtTs": 1754509157
     },
     {
       "source": {
@@ -298,7 +386,10 @@
       "urlToImage": "https://i.insider.com/6893684c194a2d49b8ae13cf?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T15:01:09Z",
       "content": "Sean \"Diddy\" Combs' sex-trafficking trial is coming to a close.Paras Griffin/Getty Images\r\n<ul><li>Sean \"Diddy\" Combs' camp has reached out to the Trump administration about a pardon, his lawyer said… [+2904 chars]",
-      "tags": ["legal_justice"]
+      "tags": [
+        "legal_justice"
+      ],
+      "publishedAtTs": 1754492469
     },
     {
       "source": {
@@ -312,7 +403,12 @@
       "urlToImage": "https://i.insider.com/6893c68b194a2d49b8ae205f?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T22:16:28Z",
       "content": "David Ellison is taking over Paramount Skydance.CHARLY TRIBALLEAU/AFP via Getty Images\r\n<ul><li>The $8 billion Skydance and Paramount Global deal, led by David Ellison, is finally a reality.</li><li>… [+10209 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754518588
     },
     {
       "source": {
@@ -326,7 +422,10 @@
       "urlToImage": "https://i.insider.com/6892ae2485e81483682f5b4a?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T01:45:46Z",
       "content": "Brendan McDermid/REUTERS\r\n<ul><li>Household debt rose to $18.39 trillion, and delinquency remained \"elevated,\" the New York Fed said.</li><li>Credit card balances hit $1.21 trillion, with rising stud… [+2421 chars]",
-      "tags": ["economy_finance"]
+      "tags": [
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754444746
     },
     {
       "source": {
@@ -340,7 +439,12 @@
       "urlToImage": "https://i.insider.com/689296833d5881a51c1eac5a?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T01:38:15Z",
       "content": "RivianPhillip Faraone/Getty Images for Rivian\r\n<ul><li>Rivian reported mixed Q2 earnings results; the stock fell about 5% after trading hours.</li><li>The company says it expects headwinds due to cha… [+3484 chars]",
-      "tags": ["economy_finance", "trade", "energy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1754444295
     },
     {
       "source": {
@@ -354,7 +458,12 @@
       "urlToImage": "https://i.insider.com/689388d0f748d8c055f6fe9e?width=1200&format=jpeg",
       "publishedAt": "2025-08-06T19:57:10Z",
       "content": "TKCourtesy of the US Navy\r\n<ul><li>South Korean shipbuilder HD Hyundai Heavy won a maintenance contract for US Navy cargo ship USNS Alan Shepard.</li><li>The US and South Korea are exploring closer c… [+6349 chars]",
-      "tags": ["foreign_policy", "military", "regional_state"]
+      "tags": [
+        "foreign_policy",
+        "military",
+        "regional_state"
+      ],
+      "publishedAtTs": 1754510230
     },
     {
       "source": {
@@ -368,7 +477,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/032371a80d7c77511b1a92d564125927",
       "publishedAt": "2025-08-06T23:57:09Z",
       "content": "Secretary of State Marco Rubio suggested Wednesday that Russia and Ukraine are not ready for a meeting with President Trump as the war between the two countries rages on.\r\nI think what we have is a b… [+1745 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1754524629
     },
     {
       "source": {
@@ -382,7 +496,12 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/72450b0195566624aeb8ba0db3283133",
       "publishedAt": "2025-08-06T09:30:41Z",
       "content": "A cargo ship is unloaded at Port Liberty in New Jersey. President Donald Trump's tariffs have brought in record levels of revenue. - Gary Hershorn/Corbis News/Getty Images\r\nHardly a day goes by witho… [+4921 chars]",
-      "tags": ["economy_finance", "trade", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "government_administration"
+      ],
+      "publishedAtTs": 1754472641
     },
     {
       "source": {
@@ -396,7 +515,11 @@
       "urlToImage": null,
       "publishedAt": "2025-08-06T10:06:18Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": ["government_administration", "personnel"]
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1754474778
     },
     {
       "source": {
@@ -414,7 +537,8 @@
         "immigration",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1754496052
     },
     {
       "source": {
@@ -428,7 +552,11 @@
       "urlToImage": "https://media.zenfs.com/en/nextshark_articles_509/f06c8433e793116ad458366dfb022c33",
       "publishedAt": "2025-08-06T15:30:53Z",
       "content": "[Source]\r\nA 40-year-old scientist and legal permanent resident has been detained by the U.S. Customs and Border Protection at San Francisco International Airport since July 21. Tae Heung Will Kim, wh… [+3306 chars]",
-      "tags": ["civil_rights", "immigration"]
+      "tags": [
+        "civil_rights",
+        "immigration"
+      ],
+      "publishedAtTs": 1754494253
     },
     {
       "source": {
@@ -442,7 +570,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ee84d114-d3ed-42af-a7b0-7e3058af1a61/donald-trump-3-gty-gmh-250806_1754487787457_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-06T14:59:37Z",
       "content": "Trump claimed Tuesday that crime in Washington, D.C., is \"totally out of control,\" particularly regarding young offenders. In a post on his social media platform, he shared a picture of a young man w… [+1950 chars]",
-      "tags": ["trade", "foreign_policy", "economy_finance"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754492377
     },
     {
       "source": {
@@ -456,7 +589,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7c7a4bbb-5d0b-4867-b975-c7da84caef02/250805_abc_social_roof_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T00:31:54Z",
       "content": "<ul><li>Trump says GOP is \"entitled\" to 5 more Texas seats as redistricting battle rages on\r\n</li><li>Maxwell said nothing to harm Trump during DOJ meeting over Epstein, sources say\r\n</li><li>OceanGa… [+4410 chars]",
-      "tags": ["government_administration", "personal_family"]
+      "tags": [
+        "government_administration",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754440314
     },
     {
       "source": {
@@ -470,7 +607,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5cc1b8a6-10d5-4052-90a9-467d9de5f286/trump-putin-1-gty-gmh-250728_1753712745856_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-06T20:00:13Z",
       "content": "A bilateral meeting between President Donald Trump and Russian President Vladimir Putin could happen as soon as next week, according to a White House official.\r\nWhite House special envoy Steve Witkof… [+941 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1754510413
     },
     {
       "source": {
@@ -488,7 +629,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1754440353
     },
     {
       "source": {
@@ -502,7 +644,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3aaaf044-0aa8-4f7f-8372-65e319a1c577/Witkoff-Moscow-DB-250806_1754462962360_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-06T07:13:51Z",
       "content": "LONDON -- President Donald Trump's special envoy Steve Witkoff arrived in Moscow on Wednesday ahead of expected talks with the Russian leadership, Russian state media reported.\r\nWitkoff was met by Ki… [+994 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1754464431
     },
     {
       "source": {
@@ -516,7 +662,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2fd98a4d-7ed5-4fd7-9962-552fca733999/250806_gma_digital_2_Bighorn_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T16:17:38Z",
       "content": "<ul><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Texas Democrats staying in Illinois evacuated over bomb threat\r\n</li><li>Millions in path of toxic smoke,… [+4471 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754497058
     },
     {
       "source": {
@@ -530,7 +677,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c2ac3131-59db-42b7-93ad-42206bae5c07/250806_abc_social_legionnaires_v2_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T20:30:49Z",
       "content": "<ul><li>All victims of Fort Stewart shooting expected to recover: Officials\r\n</li><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Millions in path of toxic s… [+4486 chars]",
-      "tags": ["public_health"]
+      "tags": [
+        "public_health"
+      ],
+      "publishedAtTs": 1754512249
     },
     {
       "source": {
@@ -544,7 +694,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a7a18496-6e04-4ee8-9f22-eca2327cbf6f/250806_abc_social_84_ender_v1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T21:01:58Z",
       "content": "<ul><li>All victims of Fort Stewart shooting expected to recover: Officials\r\n</li><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Millions in path of toxic s… [+4486 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754514118
     },
     {
       "source": {
@@ -558,7 +709,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fcd4212e-3acd-4617-8933-8ada782e0834/250806_abc_social_witkoff_putin_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-08-06T17:52:45Z",
       "content": "<ul><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Texas Democrats staying in Illinois evacuated over bomb threat\r\n</li><li>Millions in path of toxic smoke,… [+4471 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1754502765
     },
     {
       "source": {
@@ -572,7 +727,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9f03a9d2-1a4b-4afc-85ac-4327881c93ad/250806_abc_social_fort_stewart_shooting_abcnl_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T20:19:10Z",
       "content": "<ul><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Savannah, GA mayor reacts to shooting at Ft. Stewart\r\n</li><li>Millions in path of toxic smoke, wildfires… [+4449 chars]",
-      "tags": ["security_intelligence", "military"]
+      "tags": [
+        "security_intelligence",
+        "military"
+      ],
+      "publishedAtTs": 1754511550
     },
     {
       "source": {
@@ -586,7 +745,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4bce5f04-50bf-4d2e-8258-952920a269fd/250806_abc_social_85_indian_flash_flood_v1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T21:02:16Z",
       "content": "<ul><li>All victims of Fort Stewart shooting expected to recover: Officials\r\n</li><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Millions in path of toxic s… [+4486 chars]",
-      "tags": ["natural_disasters"]
+      "tags": [
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1754514136
     },
     {
       "source": {
@@ -600,7 +762,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/35ecd5bf-5ff1-4873-89e8-2a76721b0b05/250806_abc_social_84_lenghi_v1_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-08-06T20:34:38Z",
       "content": "<ul><li>All victims of Fort Stewart shooting expected to recover: Officials\r\n</li><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Millions in path of toxic s… [+4486 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754512478
     },
     {
       "source": {
@@ -614,7 +777,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/883f7d6a-918a-497d-8228-816f9aa76311/250806_abc_social_85_ender_v2_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T20:18:25Z",
       "content": "<ul><li>Suspect in custody after active shooter reported at Fort Stewart in Georgia\r\n</li><li>Savannah, GA mayor reacts to shooting at Ft. Stewart\r\n</li><li>Millions in path of toxic smoke, wildfires… [+4449 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754511505
     },
     {
       "source": {
@@ -628,7 +792,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3f8bb826-f74b-43b7-a0eb-bba3940df3b3/250806_abc_social_balsa_wood_nyc_diorama_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-06T23:42:01Z",
       "content": "<ul><li>The Big Story: $100B Apple investment and Trumps new tariffs on India\r\n</li><li>'The Walking Dead' actress Kelley Mack dies at 33\r\n</li><li>19-year-old former DOGE worker assaulted in DC carj… [+4488 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754523721
     },
     {
       "source": {
@@ -642,7 +807,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5dd094a1-a89e-4ef9-82ff-a9723cce5ee5/beto_1754442397145_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-06T12:16:46Z",
       "content": "Former United States Rep. Beto O'Rourke's political action committee, Powered by People, has been a key funder of Texas Democrats in their mission to leave their home state in hopes of preventing Rep… [+3480 chars]",
-      "tags": ["elections_politics", "texas"]
+      "tags": [
+        "elections_politics",
+        "texas"
+      ],
+      "publishedAtTs": 1754482606
     },
     {
       "source": {
@@ -656,7 +825,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/138be3b1-a07b-46fc-8f0d-1c6bd2946950/trump-9-ap-er-250703_1751578254245_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-08-06T09:18:37Z",
       "content": "Known for the eponymous reptiles that inhabit the nearby swamps, the migrant detention center dubbed \"Alligator Alcatraz\" faces the possibility of being shut down over concerns about some of the area… [+5171 chars]",
-      "tags": ["environment", "immigration", "legal_justice"]
+      "tags": [
+        "environment",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1754471917
     },
     {
       "source": {
@@ -670,7 +844,12 @@
       "urlToImage": "https://media.newyorker.com/photos/689265474d6aa01cd68ad4b8/16:9/w_1280,c_limit/NewYorker_YoutubePrivacy_final.jpg",
       "publishedAt": "2025-08-06T15:26:11Z",
       "content": "The app Tea is a kind of digital whisper network for women. No men are allowed to join. Those who wish to be members must submit evidence, including selfies, in order to prove that they are women. On… [+7862 chars]",
-      "tags": ["technology_regulation", "personal_family", "social_issues"]
+      "tags": [
+        "technology_regulation",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1754493971
     },
     {
       "source": {
@@ -688,7 +867,8 @@
         "government_administration",
         "technology_regulation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1754514635
     },
     {
       "source": {
@@ -706,7 +886,8 @@
         "economy_finance",
         "technology_regulation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1754484300
     },
     {
       "source": {
@@ -720,7 +901,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/r5TkVee5wDBv4sltx1c7JWSCv-Y=/0x125:6000x3250/1200x625/media/newsletters/2025/08/2025_08_06_The_Daily_Trump_And_Epstein_News_Cycle/original.jpg",
       "publishedAt": "2025-08-06T21:14:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Do… [+9406 chars]",
-      "tags": ["legal_justice", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1754514840
     },
     {
       "source": {
@@ -734,7 +919,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/-VuHjmtbDxwQaeIBFqXNdLlIG-c=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_06_Scherer_Republican_feud_final/original.jpg",
       "publishedAt": "2025-08-06T20:56:00Z",
       "content": "President Donald Trump’s attempted takeover of America’s 250th-anniversary celebration began this past spring when his team drew up a $33 million fundraising plan for a series of events starring the … [+12092 chars]",
-      "tags": ["elections_politics", "government_administration"]
+      "tags": [
+        "elections_politics",
+        "government_administration"
+      ],
+      "publishedAtTs": 1754513760
     },
     {
       "source": {
@@ -748,7 +937,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/g3BwtJ18zdImGe8td8WIgzNaTNg=/0x61:2876x1559/1200x625/media/img/mt/2025/08/2025_08_05_redistricting_3/original.jpg",
       "publishedAt": "2025-08-06T21:00:00Z",
       "content": "As New York Governor Kathy Hochul denounced the GOP’s aggressive attempt to gerrymander Democrats into political oblivion this week, she lamented her party’s built-in disadvantage. “I’m tired of figh… [+5915 chars]",
-      "tags": ["redistricting", "elections_politics"]
+      "tags": [
+        "redistricting",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1754514000
     },
     {
       "source": {
@@ -762,7 +955,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f649/live/1fb84a90-72d4-11f0-a96b-23029eb18083.jpg",
       "publishedAt": "2025-08-06T14:49:27Z",
       "content": "US President Donald Trump has issued an executive order on Wednesday hitting India with additional 25% tariff over its purchases of Russian oil. \r\nThat will raise the total tariff on Indian imports t… [+1247 chars]",
-      "tags": ["trade", "foreign_policy", "economy_finance"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754491767
     },
     {
       "source": {
@@ -781,7 +979,8 @@
         "russia",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1754515044
     },
     {
       "source": {
@@ -795,7 +994,11 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!L5RZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e29e18a-d5fb-4644-8574-fb2fcd04fb68_4896x3264.jpeg",
       "publishedAt": "2025-08-06T22:47:18Z",
       "content": "So much of my anger towards generative AI centers upon the inherent indignity of the technology, and the undisguised contempt that its most virulent supporters have towards human beings.\r\nBy now, you… [+29520 chars]",
-      "tags": ["social_issues", "technology_regulation"]
+      "tags": [
+        "social_issues",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754520438
     },
     {
       "source": {
@@ -809,7 +1012,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/08/WeChat-threat-could-be-Cooks-greatest-Trump-challenge.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-06T15:50:37Z",
       "content": "Two quick updates to a couple of stories from this morning involving Apple, the Trump administration, and increased India tariffs. First, CNBC reports that the $100 billion U.S. investment increase (… [+1040 chars]",
-      "tags": ["economy_finance", "foreign_policy", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754495437
     },
     {
       "source": {
@@ -823,7 +1031,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-06T21:59:15Z",
       "content": "During todays Oval Office announcement of the American Manufacturing Program (AMP), a visibly nervous Tim Cook presented President Trump with a unique unit of one piece of Kentucky-made glass, mounte… [+1227 chars]",
-      "tags": ["economy_finance", "policy_legislation", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754517555
     },
     {
       "source": {
@@ -837,7 +1050,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-06T13:49:18Z",
       "content": "A report says that Trump will shortly make an announcement from the White House claiming that Apple will spend a further $100 billion on US manufacturing over the next four years.\r\nApple has so far n… [+1491 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754488158
     },
     {
       "source": {
@@ -851,7 +1069,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/Apple-Saket-Delhi-India-opening-day-CEO-Tim-Cook-SVP-Deirdre-OBrien.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-06T13:12:32Z",
       "content": "Shifting final assembly of Apple products like iPhone from China to India has helped Apple avoid costly tariffs in the United States. But what happens when the US imposes similar tariffs in India to … [+2584 chars]",
-      "tags": ["trade", "economy_finance", "technology_regulation"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754485952
     },
     {
       "source": {
@@ -865,7 +1088,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-corning-amp.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-06T21:12:21Z",
       "content": "Apple just announced a new $100 billion commitment to America, which includes plans to move the manufacturing of all of the cover glass for iPhone and Apple Watch to the U.S. Here are the details.\r\nA… [+2770 chars]",
-      "tags": ["economy_finance", "technology_regulation", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1754514741
     },
     {
       "source": {
@@ -879,7 +1107,12 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/62d3f97baab989da/original/lipid_nanoparticles_mrna_delivery.jpg?m=1754504246.493&w=1200",
       "publishedAt": "2025-08-06T18:30:00Z",
       "content": "The U.S. Department of Health and Human Services announced on Tuesday that it will cancel $500 million worth of projects dedicated to designing messenger RNA (mRNA) vaccines for pandemic preparedness… [+4881 chars]",
-      "tags": ["health_science", "public_health", "medical_research"]
+      "tags": [
+        "health_science",
+        "public_health",
+        "medical_research"
+      ],
+      "publishedAtTs": 1754505000
     },
     {
       "source": {
@@ -893,7 +1126,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/5f3e8223e9e68e3/original/oil_refinery_flare_stack.jpg?m=1754491746.363&w=1200",
       "publishedAt": "2025-08-06T15:00:00Z",
       "content": "Last week, the Environmental Protection Agency (EPA) announced a sweeping effort to do away with the endangerment finding, a proposal that not only disregards science but also has huge consequences f… [+7396 chars]",
-      "tags": ["environment", "policy_legislation"]
+      "tags": [
+        "environment",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1754492400
     },
     {
       "source": {
@@ -907,7 +1144,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/5d841e9c82ecfb82/original/dead-whale-on-truckbed.jpg?m=1754500082.936&w=1200",
       "publishedAt": "2025-08-06T17:30:00Z",
       "content": "A landmark law passed more than 50 years ago to protect whales, dolphins and other marine mammals in U.S. waters could be upended by amendments proposed on July 22 during a legislative hearing of the… [+6581 chars]",
-      "tags": ["environment", "policy_legislation"]
+      "tags": [
+        "environment",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1754501400
     },
     {
       "source": {
@@ -921,7 +1162,12 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/19107f26d137becd/original/2508_SQ_WED_NASA_FUNDING_UPDATE-Podcast-Span-Art.png?m=1754421195.872&w=1200",
       "publishedAt": "2025-08-06T10:00:00Z",
       "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nThe White House recently proposed slashing NASA’s science budget nearly in half and reducing the space agency’s overall… [+15027 chars]",
-      "tags": ["space_policy", "budget", "health_science"]
+      "tags": [
+        "space_policy",
+        "budget",
+        "health_science"
+      ],
+      "publishedAtTs": 1754474400
     },
     {
       "source": {
@@ -935,7 +1181,11 @@
       "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/d5784b59ba554dc96a66bdcfcdc8fe26",
       "publishedAt": "2025-08-06T10:00:00Z",
       "content": "A view of the Milky Way arching over Joshua trees. (Allen J. Schaben / Los Angeles Times)\r\nAny trip to the dark night skies of our Southern California deserts reveals a vista full of wonder and myste… [+5523 chars]",
-      "tags": ["health_science", "policy_legislation"]
+      "tags": [
+        "health_science",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1754474400
     },
     {
       "source": {
@@ -949,7 +1199,11 @@
       "urlToImage": "https://media.zenfs.com/en/video.reutersnews.com/4a8cf2b337129f75ba4db803c53f6961",
       "publishedAt": "2025-08-06T02:26:12Z",
       "content": "STORY: :: August 5, 2025\r\n:: Washington, D.C.\r\n:: Trump suggests J.D. Vance is his heir to lead the MAGA movement\r\nJournalist: \"Do you agree that the heir apparent to MAGA is J.D. Vance?\"\r\nTrump: \"We… [+1168 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754447172
     },
     {
       "source": {
@@ -963,7 +1217,8 @@
       "urlToImage": null,
       "publishedAt": "2025-08-06T18:18:28Z",
       "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754504308
     },
     {
       "source": {
@@ -977,7 +1232,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64642-134691-Cook-Trump-shake-xl.jpg",
       "publishedAt": "2025-08-06T22:34:00Z",
       "content": "In addition to the announcements to expand US investments to $600 billion, Apple CEO Tim Cook provided a piece of Gorilla Glass and a golden stand to President Donald Trump to commemorate the news.\r\n… [+3636 chars]",
-      "tags": ["economy_finance", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754519640
     },
     {
       "source": {
@@ -991,7 +1250,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64637-134680-63259-131435-62457-129482-62049-128509-untitled-xl-xl-1-xl-xl.jpg",
       "publishedAt": "2025-08-06T16:27:02Z",
       "content": "Apple CEO Tim Cook will be joining President Donald Trump at the White House on Wednesday afternoon to jointly announce Apple's $100 billion U.S. investment. \r\nApple is expected to be making an addit… [+1375 chars]",
-      "tags": ["economy_finance", "technology_regulation", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1754497622
     },
     {
       "source": {
@@ -1005,7 +1269,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/62049-128509-untitled-xl.jpg",
       "publishedAt": "2025-08-06T21:22:29Z",
       "content": "Apple's latest announcement of a further $100 billion investment in US manufacturing is a positive, but it still has incredibly little to do with reshoring iPhone assembly. \r\nThe expected announcemen… [+8931 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754515349
     },
     {
       "source": {
@@ -1019,7 +1287,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64643-134698-Display-16-Pro-Max-xl.jpg",
       "publishedAt": "2025-08-06T23:52:03Z",
       "content": "A made-in-America iPhone seems to no longer be a priority for President Trump after Apple's additional $100 billion investment in the United States and local component use.\r\nNothing really changed wi… [+2145 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754524323
     },
     {
       "source": {
@@ -1033,7 +1305,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/63675-132439-IMG_1913-xl.jpg",
       "publishedAt": "2025-08-06T11:22:18Z",
       "content": "President Trump has announced that iPhone processor supplier TSMC is to invest $300 billion in US manufacturing, and says a semiconductor tariff is imminent.\r\nAfter Trump threatened higher tariffs on… [+2781 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754479338
     },
     {
       "source": {
@@ -1047,7 +1324,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64636-134679-62360-129248-000-lede-Cook-and-Trump-xl-xl.jpg",
       "publishedAt": "2025-08-06T20:51:18Z",
       "content": "Apple will be making another $100 billion investment to enhance the company's manufacturing facilities in the United States, but there are no new companies named, nor any efforts to move full device … [+2046 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754513478
     },
     {
       "source": {
@@ -1061,7 +1342,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64633-134676-61571-127204-000-lede-iPhone-17-xl-xl.jpg",
       "publishedAt": "2025-08-06T15:27:14Z",
       "content": "Apple's iPhone production shift to India has been hit by a doubling of tariffs, as President Donald Trump hammers the country for buying Russian oil.\r\nApple has worked hard to mitigate the effects of… [+1891 chars]",
-      "tags": ["trade", "economy_finance"]
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1754494034
     },
     {
       "source": {
@@ -1075,7 +1360,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64641-134694-64629-134669-64278-133907-63354-131657-63272-131458-63198-131315-000-lede-Cook-and-Trump-xl-xl-xl-xl-xl-xl.jpg",
       "publishedAt": "2025-08-06T22:46:27Z",
       "content": "Apple has secured an exemption from the Trump administration's 100% semiconductor import tariff, but it's not clear how much this will impact Apple's bottom line.\r\nFollowing an initial report and sec… [+2016 chars]",
-      "tags": ["economy_finance", "trade"]
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1754520387
     },
     {
       "source": {
@@ -1089,7 +1378,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64627-134651-62745-130206-Apple-US-investment-Austin-research-facility-01-xl-xl.jpg",
       "publishedAt": "2025-08-06T13:16:26Z",
       "content": "White House economic adviser Kevin Hassett has hinted that Apple could be making a major investment announcement sometime on Wednesday, albeit without explaining what that announcement will be. \r\nApp… [+1838 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754486186
     },
     {
       "source": {
@@ -1103,7 +1396,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64629-134669-64278-133907-63354-131657-63272-131458-63198-131315-000-lede-Cook-and-Trump-xl-xl-xl-xl-xl.jpg",
       "publishedAt": "2025-08-06T14:34:39Z",
       "content": "After an early-morning tease, further reports claim that Apple will invest another $100 billion into manufacturing in the United States, and President Donald Trump is expected to announce it on Wedne… [+2113 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754490879
     },
     {
       "source": {
@@ -1117,7 +1414,11 @@
       "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/06113455/SEI_261320816.jpg",
       "publishedAt": "2025-08-06T12:08:53Z",
       "content": "A concept image of NASA’s Fission Surface Power Project\r\nNASA\r\nNASA is going to build a nuclear reactor on the moon by the mid-2030s. Thats the plan outlined in a new directive from the US space agen… [+3617 chars]",
-      "tags": ["space_policy", "science_policy"]
+      "tags": [
+        "space_policy",
+        "science_policy"
+      ],
+      "publishedAtTs": 1754482133
     },
     {
       "source": {
@@ -1131,7 +1432,12 @@
       "urlToImage": "https://regmedia.co.uk/2025/06/27/shutterstock_2463386913.jpg",
       "publishedAt": "2025-08-06T16:53:06Z",
       "content": "Arista Networks is expecting the AI datacenter industry to be dominated by open standards such as Ethernet or UALink in the near future, and has upped financial forecasts on the back of those hopes.\r… [+3021 chars]",
-      "tags": ["economy_finance", "technology_regulation", "energy"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "energy"
+      ],
+      "publishedAtTs": 1754499186
     },
     {
       "source": {
@@ -1145,7 +1451,12 @@
       "urlToImage": "https://regmedia.co.uk/2023/10/26/shutterstock_money_gun_pc_user.jpg",
       "publishedAt": "2025-08-06T19:07:20Z",
       "content": "US states that want to make use of rural broadband deployment funds had better not require ISPs to offer what they consider affordable service. According to the Trump Administration, \"affordable\" is … [+2845 chars]",
-      "tags": ["economy_finance", "technology_regulation", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1754507240
     },
     {
       "source": {
@@ -1159,7 +1470,12 @@
       "urlToImage": "https://regmedia.co.uk/2025/08/06/trump-cook-press-conference.jpg",
       "publishedAt": "2025-08-06T22:51:40Z",
       "content": "US President Donald Trump and Apple CEO Tim Cook made a joint announcement from the White House on Wednesday of another Apple pledge to move manufacturing back to the United States, with an additiona… [+3723 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754520700
     },
     {
       "source": {
@@ -1177,7 +1493,8 @@
         "economy_finance",
         "technology_regulation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1754498049
     },
     {
       "source": {
@@ -1191,7 +1508,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/08/Untitled-design-11.jpg",
       "publishedAt": "2025-08-06T14:38:25Z",
       "content": "On Friday, the Trump administration proposed getting rid of a Biden-era policy that ensured veterans could access certain abortion services at VA hospitals. So if you believed Trump actually wanted t… [+3720 chars]",
-      "tags": ["social_issues", "healthcare", "government_administration"]
+      "tags": [
+        "social_issues",
+        "healthcare",
+        "government_administration"
+      ],
+      "publishedAtTs": 1754491105
     },
     {
       "source": {
@@ -1205,7 +1527,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/08/iStock-2216837590-e1754503455216.jpg",
       "publishedAt": "2025-08-06T17:29:59Z",
       "content": "In 2022, Senator Jon Ossoff (D-Ga.) hosted a hearing about his investigation into the medical treatment of women in ICE custody. The findings, he said then, were extraordinarily disturbing, nightmari… [+3801 chars]",
-      "tags": ["immigration", "healthcare", "social_issues"]
+      "tags": [
+        "immigration",
+        "healthcare",
+        "social_issues"
+      ],
+      "publishedAtTs": 1754501399
     },
     {
       "source": {
@@ -1219,7 +1546,12 @@
       "urlToImage": "",
       "publishedAt": "2025-08-06T23:30:33Z",
       "content": "This is a great piece from Jamelle Bouie on the likely death of the Voting Rights Act and, zooming out, the end of an era in American society that began with the Act’s signing.\n\nAmericans pride ourse… [+1643 chars]",
-      "tags": ["social_issues", "elections_politics", "voting_rights"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "voting_rights"
+      ],
+      "publishedAtTs": 1754523033
     },
     {
       "source": {
@@ -1233,7 +1565,8 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/3/1/1/1345311.jpg",
       "publishedAt": "2025-08-06T21:45:00Z",
       "content": "Its very hard to continue to mine the Trump-Epstein ordeal for any more comedy. Were at the bottom of the barrel when it comes to new material. Every bad thing were thinking Trump might do or probabl… [+3721 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754516700
     },
     {
       "source": {
@@ -1247,7 +1580,8 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/3/1/0/1345310.jpg",
       "publishedAt": "2025-08-06T20:50:00Z",
       "content": "Donald Trump has greatly benefited from the assumption that a man so stupid, so obvious, so foolish, couldnt amass great amounts of power. It comes from the idea that the men who do wield great power… [+4418 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754513400
     },
     {
       "source": {
@@ -1265,7 +1599,8 @@
         "economy_finance",
         "technology_regulation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1754518500
     },
     {
       "source": {
@@ -1279,7 +1614,11 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/6/8/7/1344687.jpg",
       "publishedAt": "2025-08-06T13:00:00Z",
       "content": "Nothing is sacred on South Park. Thats why the shows recent parody of Donald Trump worked so well. It didnt matter that Mr. Garrison had previously stood in for Trump, because their latest idea to mo… [+5395 chars]",
-      "tags": ["media_communications", "social_issues"]
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1754485200
     },
     {
       "source": {
@@ -1293,7 +1632,10 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/7/6/8/1344768.jpg",
       "publishedAt": "2025-08-06T15:30:00Z",
       "content": "No emperor gets to reign forever, not even the King of All Media.\r\nWhile theres no official word from Howard Sterns camp, SiriusXM or Mariann from Brooklyn, U.S. Sun is reporting that the satellite r… [+2827 chars]",
-      "tags": ["media_communications"]
+      "tags": [
+        "media_communications"
+      ],
+      "publishedAtTs": 1754494200
     },
     {
       "source": {
@@ -1307,7 +1649,12 @@
       "urlToImage": "https://www.bgr.com/img/gallery/trump-and-apple-to-announce-additional-100-billion-investment-in-u-s-production/l-intro-1754503097.jpg",
       "publishedAt": "2025-08-06T18:00:18Z",
       "content": "Trump in recent months has been adamant that Apple manufacture the iPhone in the U.S. Trump at one point even threatened Apple with increased tariffs should it fail to comply. \"I have long ago inform… [+1848 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754503218
     },
     {
       "source": {
@@ -1321,7 +1668,12 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/08/apple-newyork-featured.jpg",
       "publishedAt": "2025-08-06T18:01:35Z",
       "content": "During its last quarter financial briefing, Apple admitted it had already paid about $800 million to handle ever-changing tariffs and estimated it would pay another $1.1 billion in the current quarte… [+3698 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1754503295
     },
     {
       "source": {
@@ -1335,7 +1687,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-08-06T12:25:59Z",
       "content": "from the befuddled-and-distracted dept\r\nThe U.S. right wing has won a generational war against education and informed consensus with the closure of the Corporation For Public Broadcasting (CPB), whic… [+3608 chars]",
-      "tags": ["policy_legislation", "education", "media_communications"]
+      "tags": [
+        "policy_legislation",
+        "education",
+        "media_communications"
+      ],
+      "publishedAtTs": 1754483159
     },
     {
       "source": {
@@ -1354,7 +1711,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1754503003
     },
     {
       "source": {
@@ -1368,7 +1726,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2228684422.jpg?quality=90&strip=all&crop=0%2C10.671725298331%2C100%2C78.656549403337&w=1200",
       "publishedAt": "2025-08-06T17:27:51Z",
       "content": "If enough Democrats refused to participate in the special session, per parliamentary rules, the Texas House can’t meet. | Brandon Bell/Getty Images\r\n\n\nA political showdown is unfolding in Texas, wher… [+3534 chars]",
-      "tags": ["elections_politics", "redistricting"]
+      "tags": [
+        "elections_politics",
+        "redistricting"
+      ],
+      "publishedAtTs": 1754501271
     },
     {
       "source": {
@@ -1382,7 +1744,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2167290858.jpg?quality=90&strip=all&crop=0%2C10.735821710327%2C100%2C78.528356579346&w=1200",
       "publishedAt": "2025-08-06T21:05:02Z",
       "content": "Robert F. Kennedy Jr. and Donald Trump shake hands during a campaign rally in Glendale, Arizona, on August 23, 2024. | Rebecca Noble/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newslet… [+2757 chars]",
-      "tags": ["health_science", "public_health", "policy_legislation"]
+      "tags": [
+        "health_science",
+        "public_health",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1754514302
     },
     {
       "source": {
@@ -1396,7 +1763,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/03/gettyimages-696327606.jpg?quality=90&strip=all&crop=0%2C14.432050990212%2C100%2C71.135898019577&w=1200",
       "publishedAt": "2025-08-06T21:41:11Z",
       "content": "Supreme Court Justice Neil Gorsuch (left) talks with Chief Justice John Roberts on the steps of the Supreme Court following his official investiture at the Supreme Court June 15, 2017, in Washington,… [+5798 chars]",
-      "tags": ["legal_justice", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1754516471
     },
     {
       "source": {
@@ -1410,7 +1781,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2227326701.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-08-06T20:59:18Z",
       "content": "President Donald Trump told officials to fire Erika McEntarfer, the commissioner of the Bureau of Labor Statistics, hours after a report showed US job growth cooled sharply over the last three months… [+7859 chars]",
-      "tags": ["economy_finance", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1754513958
     },
     {
       "source": {
@@ -1424,7 +1799,8 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-2182350217.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-08-06T14:04:42Z",
       "content": "Attendees during a campaign event for US Vice President Kamala Harris in Philadelphia on Nov. 4, 2024. | Hannah Beier/Bloomberg via Getty Images\r\n\n\nThe future of American politics might be decided by… [+7992 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1754489082
     },
     {
       "source": {
@@ -1438,7 +1814,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/08/gettyimages-1237592271.jpg?quality=90&strip=all&crop=0%2C10.168970694631%2C100%2C79.662058610737&w=1200",
       "publishedAt": "2025-08-06T16:32:55Z",
       "content": "﻿Students, who may soon lose their right to access information online, walk from school. | Getty Images\r\n\n\nLet’s give credit where it is due. The current Supreme Court has a decent record on free spe… [+11331 chars]",
-      "tags": ["legal_justice", "supreme_court", "free_speech"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "free_speech"
+      ],
+      "publishedAtTs": 1754497975
     }
   ]
 }

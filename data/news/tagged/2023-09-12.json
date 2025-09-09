@@ -18,7 +18,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1694559600
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1694559600
     },
     {
       "source": {
@@ -51,7 +53,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg?width=920&format=jpeg",
       "publishedAt": "2023-09-12T22:32:57Z",
       "content": "(Repeats and fixes hyperlinks) Sept 12 (Reuters) -\nTen Republican hopefuls are seeking their party's nomination for the November 2024 election to take on U.S. President Joe Biden, who faces two long-shot challenges to be the Democratic Party's nomine... [6918 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1694557977
     },
     {
       "source": {
@@ -65,7 +71,11 @@
       "urlToImage": "https://compote.slate.com/images/614ecaa2-bf56-4b91-b140-4042f6e4544b.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-09-12T22:16:00Z",
       "content": "Last week, a judge rejected Mark Meadows’ bid to move his prosecution in the Georgia 2020 election interference case from state to federal court.\nThat means big trouble for Donald Trump and the other co-defendants in the case—and “good news for the l... [2256 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1694556960
     },
     {
       "source": {
@@ -79,7 +89,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/09/12/multimedia/12ukraine-ledeall-wbmf/12ukraine-ledeall-wbmf-facebookJumbo.jpg",
       "publishedAt": "2023-09-12T21:33:15Z",
       "content": "The setting was an economic conference in far eastern Russia, with discussion of the ruble and domestic investment, but that didn’t stop President Vladimir V. Putin from wading into American politics on Tuesday, branding the criminal cases against Do... [977 chars]",
-      "tags": ["foreign_policy", "russia", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694554395
     },
     {
       "source": {
@@ -98,7 +113,8 @@
         "doj_actions",
         "impeachment",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1694554103
     },
     {
       "source": {
@@ -117,7 +133,8 @@
         "criminal_cases",
         "federal_courts",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1694553414
     },
     {
       "source": {
@@ -131,7 +148,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230912152022-trump-new-york-golf-course-sale.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-12T20:35:45Z",
       "content": "CNN —\nThe Trump Organization said it sold its lease for a New York golf course with sweeping views of Manhattan to Bally’s Corporation, ending several years of controversy.\n“While we had no prior intention of selling this trophy asset, Bally’s Corpor... [1057 chars]",
-      "tags": ["personal_family", "regional_state", "personal_business"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "personal_business"
+      ],
+      "publishedAtTs": 1694550945
     },
     {
       "source": {
@@ -145,7 +167,12 @@
       "urlToImage": "https://images.wsj.net/im-850569/social",
       "publishedAt": "2023-09-12T20:30:00Z",
       "content": "Former President Donald Trump campaigns in Rapid City, S.D., Sept. 8. Photo: JONATHAN ERNST/REUTERS\nFormer U.S. Attorney General Michael Mukasey’s op-ed “Was Trump ‘an Officer of the United States’?” (Sept. 8) has caused me to change my mind about an... [352 chars]",
-      "tags": ["legal_justice", "supreme_court", "impeachment"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "impeachment"
+      ],
+      "publishedAtTs": 1694550600
     },
     {
       "source": {
@@ -164,7 +191,8 @@
         "2028_presidential",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1694547780
     },
     {
       "source": {
@@ -178,7 +206,10 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/08/kari-lake-0815221.jpg",
       "publishedAt": "2023-09-12T19:36:22Z",
       "content": "According to a report in the Daily Beast (from former Salon reporter Zachary Petrizzo), there is mounting evidence that the two defeated Republicans in high-profile 2022 Arizona races are less than BFFs. Kari Lake, the voluble former gubernatorial ca... [1743 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694547382
     },
     {
       "source": {
@@ -196,7 +227,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1694547284
     },
     {
       "source": {
@@ -210,7 +242,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hlIsfFld_KgqPe06w7HgEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/d3ca09a0-519e-11ee-9c6e-e7b94648a717",
       "publishedAt": "2023-09-12T19:32:51Z",
       "content": "If at first you fail, try to fail some more.\nThis could be Donald Trump’s mantra as he begins to brainstorm some economic policies to run on while managing 4 criminal indictments involving 91 charges and trying to capture the 2024 Republican presiden... [5326 chars]",
-      "tags": ["economy_finance", "taxes", "trade"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "trade"
+      ],
+      "publishedAtTs": 1694547171
     },
     {
       "source": {
@@ -224,7 +261,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6500a1312600002000761046.jpg?cache=cWHkKykJR2&ops=1200_630",
       "publishedAt": "2023-09-12T19:17:54Z",
       "content": "Former New Jersey Gov. Chris Christie continued his New Hampshire-centric presidential campaign with a \"town hall\" style visit to New England College on Tuesday. S.V. Date/HuffPost\nHENNIKER, N.H. — Donald Trump can skip debates all he wants, but he w... [2831 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694546274
     },
     {
       "source": {
@@ -242,7 +284,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1694543596
     },
     {
       "source": {
@@ -261,7 +304,8 @@
         "supreme_court",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1694543400
     },
     {
       "source": {
@@ -275,7 +319,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814234745-mark-meadows-082220.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-12T18:09:23Z",
       "content": "CNN —\nFormer Trump White House chief of staff Mark Meadows’ effort to avoid a state court prosecution in the Fulton County 2020 election subversion case hits a key inflection point this week, with two federal courts poised to act quickly on his lates... [1788 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694542163
     },
     {
       "source": {
@@ -289,7 +337,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220505125234-01-hillary-clinton-womens-embassy-0505.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-09-12T18:09:00Z",
       "content": "CNN —\nFormer Secretary of State Hillary Clinton on Tuesday will make her first public appearance at the White House in more than six years, participating in her first open press event at the executive mansion since former President Donald Trump defea... [2687 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694542140
     },
     {
       "source": {
@@ -303,7 +356,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/5GfBHAqtse2maK2nrjUJn7-1200-80.jpg",
       "publishedAt": "2023-09-12T18:01:43Z",
       "content": "The Exorcist: Believer has some action scenes that may just blow the original film out of the water.\n\"[There are] some impactful and astounding scenes that could potentially trump what people remember from 50 years ago,\" stunt coordinator Ashley Rae ... [2706 chars]",
-      "tags": ["media_communications", "health_science"]
+      "tags": [
+        "media_communications",
+        "health_science"
+      ],
+      "publishedAtTs": 1694541703
     },
     {
       "source": {
@@ -322,7 +379,8 @@
         "supreme_court",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1694541600
     },
     {
       "source": {
@@ -336,7 +394,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230912-minnesota-ballot-se-111p-673a2b.jpg",
       "publishedAt": "2023-09-12T17:56:49Z",
       "content": "A group of voters on Tuesday filed suit seeking to kick former President Donald Trump off the ballot in Minnesota, the latest in a string of efforts to cite a little-known provision in the 14th Amendment of the Constitution to argue that Trump is ine... [4953 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1694541409
     },
     {
       "source": {
@@ -350,7 +413,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/09/newspress-collage-ypr2p2kx3-1694537755401.jpg?quality=75&strip=all&1694528561&w=1024",
       "publishedAt": "2023-09-12T17:41:05Z",
       "content": "He’s your angel of music.\nAnderson Cooper went viral on TikTok Friday after he appeared to be caught off guard when a song from “The Phantom of the Opera” began playing at a Donald Trump rally in South Dakota.\nThe reaction came while Cooper, 56, was ... [3387 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1694540465
     },
     {
       "source": {
@@ -364,7 +432,11 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107291714-16929050272023-08-24t191601z_1319468265_rc2du2at9j9r_rtrmadp_0_usa-trump-georgia.jpeg?v=1694539684&w=1920&h=1080",
       "publishedAt": "2023-09-12T17:25:38Z",
       "content": "Mark Meadows has failed to show he can \"carry the heavy burden\" required to pause a judge's order rejecting his bid to move his Georgia criminal election interference case to federal court, Atlanta's district attorney argued Tuesday.\n\"Far from making... [1220 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1694539538
     }
   ]
 }

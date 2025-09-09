@@ -18,7 +18,8 @@
         "government_administration",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1732492320
     },
     {
       "source": {
@@ -36,7 +37,8 @@
         "government_administration",
         "legal_justice",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1732491995
     },
     {
       "source": {
@@ -50,7 +52,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2024_10_25_52_7972736.png?width=920&format=jpeg",
       "publishedAt": "2024-11-24T23:29:09Z",
       "content": "In a bold departure from tradition, Republican President-elect Donald Trump has unveiled a series of cabinet appointments characterized by historic representation firsts, despite ongoing debates about diversity. These selections mark significant mile... [891 chars]",
-      "tags": ["government_administration", "appointments"]
+      "tags": [
+        "government_administration",
+        "appointments"
+      ],
+      "publishedAtTs": 1732490949
     },
     {
       "source": {
@@ -64,7 +70,12 @@
       "urlToImage": "https://www.wcia.com/wp-content/uploads/sites/44/2024/11/AP24318569633728-e1731532012925_3d1ae4-e1732493115731.jpg?w=1280",
       "publishedAt": "2024-11-24T23:09:31Z",
       "content": "(The Hill) — Donald Trump Jr. and tech billionaire Elon Musk joked on Friday about purchasing MSNBC.\nIt started with Trump Jr., President-elect Trump’s oldest son, sharing a meme about MSNBC being up for sale. Trump Jr. quote-tweeted the meme Friday ... [1808 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1732489771
     },
     {
       "source": {
@@ -84,7 +95,8 @@
         "energy",
         "environment",
         "taxes"
-      ]
+      ],
+      "publishedAtTs": 1732489533
     },
     {
       "source": {
@@ -98,7 +110,13 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/100665319-106658212.jpg?v=1366735174&w=1920&h=1080",
       "publishedAt": "2024-11-24T23:04:56Z",
       "content": "As investors position their portfolios for 2025, wealth managers are advocating for a diversified approach with selective bets on undervalued sectors. CNBC Pro spoke to Ollie Clark, deputy head of research at WH Ireland, and Mark Preskett, senior por... [3667 chars]",
-      "tags": ["economy_finance", "stock_market", "taxes", "banking"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "taxes",
+        "banking"
+      ],
+      "publishedAtTs": 1732489496
     },
     {
       "source": {
@@ -117,7 +135,8 @@
         "ethics",
         "media_criticism",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1732489194
     },
     {
       "source": {
@@ -137,7 +156,8 @@
         "media_communications",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1732487615
     },
     {
       "source": {
@@ -155,7 +175,8 @@
         "security_intelligence",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1732486871
     }
   ]
 }

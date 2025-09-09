@@ -19,7 +19,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1738194905
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "health_science",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1738194797
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1738194793
     },
     {
       "source": {
@@ -79,7 +82,8 @@
         "policy_legislation",
         "government_administration",
         "transportation"
-      ]
+      ],
+      "publishedAtTs": 1738194725
     },
     {
       "source": {
@@ -99,7 +103,8 @@
         "law_enforcement",
         "racial_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1738194644
     },
     {
       "source": {
@@ -113,7 +118,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_08_29_5606353.jpg?width=920&format=jpeg",
       "publishedAt": "2025-01-29T23:50:28Z",
       "content": "In a bold move to reshape the U.S. education landscape, President Donald Trump has signed a pair of executive orders. These orders aim to bolster parental choice in school selection and strip federal funding from curricula deemed to espouse anti-Amer... [929 chars]",
-      "tags": ["education", "policy_legislation", "government_administration"]
+      "tags": [
+        "education",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1738194628
     },
     {
       "source": {
@@ -127,7 +137,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25822586/STK169_ZUCKERBERG_MAGA_STKS491_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-01-29T23:47:39Z",
       "content": "is a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy at CNBC, writing about antitrust, privacy, and content moderation reform.\nMeta agreed to a $25 million sett... [2034 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1738194459
     },
     {
       "source": {
@@ -147,7 +162,8 @@
         "social_media",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1738194420
     },
     {
       "source": {
@@ -161,7 +177,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2576814/president-trump-signs-executive-order.jpg",
       "publishedAt": "2025-01-29T23:46:21Z",
       "content": "President Donald Trump is expected to sign an executive order to expand school choice across the country. While this policy could allow more students access to alternatives outside of public schooling, critics warn it might divert essential funding f... [6521 chars]",
-      "tags": ["government_administration", "policy_legislation", "education"]
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "education"
+      ],
+      "publishedAtTs": 1738194381
     },
     {
       "source": {
@@ -181,7 +202,8 @@
         "education",
         "social_issues",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1738194327
     }
   ]
 }

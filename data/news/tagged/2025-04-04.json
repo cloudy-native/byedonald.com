@@ -14,7 +14,12 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bac8a76b8053da923f7dedc7b9c4a9a4?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=67&width=862&height=485&imformat=generic",
       "publishedAt": "2025-04-04T23:53:02Z",
       "content": "A US court has ordered the Trump administration to bring back a young father who was mistakenly deported to a notorious mega-prison in El Salvador.\nKilmar Abrego Garcia was flown to his native El Salvador on March 15 after what immigration officials ... [5694 chars]",
-      "tags": ["immigration", "legal_justice", "latin_america"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "latin_america"
+      ],
+      "publishedAtTs": 1743810782
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2621540/eric-trump-his-fathers-inauguration-ceremony.jpg",
       "publishedAt": "2025-04-04T23:48:29Z",
       "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nDonald Trump's son Eric revealed how tariff-hit countries can \"win\" in the trade negotiations with his father.\nThe 41-year-ol... [3091 chars]",
-      "tags": ["trade", "economy_finance", "personal_family"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1743810509
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/04/Obesity_Drugs_70037.jpg?w=1024&h=682",
       "publishedAt": "2025-04-04T23:40:06Z",
       "content": "President Donald Trump’s administration has decided not to cover expensive, high-demand obesity treatments under the federal government’s Medicare program.\nThe Centers for Medicare and Medicaid Services said late Friday that it would not cover the me... [1659 chars]",
-      "tags": ["healthcare", "government_administration", "policy_legislation"]
+      "tags": [
+        "healthcare",
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1743810006
     },
     {
       "source": {
@@ -62,7 +77,8 @@
         "media_communications",
         "social_issues",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1743809583
     },
     {
       "source": {
@@ -82,7 +98,8 @@
         "middle_east",
         "trade",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743809546
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "national_security",
         "intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743809536
     },
     {
       "source": {
@@ -122,7 +140,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743808950
     },
     {
       "source": {
@@ -142,7 +161,8 @@
         "crisis_emergency",
         "environment",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743808897
     },
     {
       "source": {
@@ -162,7 +182,8 @@
         "legal_justice",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1743808892
     },
     {
       "source": {
@@ -176,7 +197,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/KB3ESQ5Q2FBTDIGN2KEIP6GF5Q.jpg?auth=b74eecf25e89251ee1093b52268993f53458b1e6f7d49543b41223794a7a8162&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-04-04T23:20:02Z",
       "content": "Open this photo in gallery: Fifty-five per cent of Quebeckers would prefer Mark Carney as prime minister, compared with 20 per cent who would prefer Conservative Leader Pierre Poilievre, according to a recent survey. Supporters of Mr. Carney wait out... [6291 chars]",
-      "tags": ["foreign_policy", "elections_politics", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743808802
     }
   ]
 }

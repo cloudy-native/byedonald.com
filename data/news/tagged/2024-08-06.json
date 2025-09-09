@@ -20,7 +20,8 @@
         "political_endorsements",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1722986211
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1722985573
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/06/AOCEarthDaySupremeCourt.webp",
       "publishedAt": "2024-08-06T22:14:46Z",
       "content": "Rep. Alexandria Ocasio-Cortez (D-NY) marketed progressive Democrats and Gov. Tim Walz (D-MN) as “normal” in contrast to the “creepy” ticket of former President Donald Trump and Sen. J.D. Vance (R-OH).\nIn an Instagram livestream, Ocasio-Cortez reaffir... [3181 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1722982486
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "national_security",
         "canada",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1722982430
     },
     {
       "source": {
@@ -86,7 +94,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x7HgmMpWI1xSQf.J7Y7IYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/5c703ab0-543a-11ef-91b7-e515fab578e2",
       "publishedAt": "2024-08-06T21:49:45Z",
       "content": "The whipsaw 2024 presidential election continues to surprise. It’s been less than a month since Vice President Kamala Harris jumped from the understudy of the 2024 Democratic presidential ticket to the starring role. Now, polls show her tied with Rep... [5477 chars]",
-      "tags": ["elections_politics", "economy_finance", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722980985
     },
     {
       "source": {
@@ -104,7 +117,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722979977
     },
     {
       "source": {
@@ -118,7 +132,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/0abe884977b80b228941e7799b8450c370ed71b9/0_0_4377_2626/master/4377.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=619b5becb913adb5d250b6a74cf8a3a4",
       "publishedAt": "2024-08-06T21:30:56Z",
       "content": "As Democrats weathered the upheaval caused by Joe Biden’s decision to end his re-election campaign and hand the reins to his vice-president, Kamala Harris, a party stalwart piped up with a suggestion: start calling Donald Trump “weird”.\nThe pioneer o... [7252 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1722979856
     },
     {
       "source": {
@@ -136,7 +155,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1722979806
     },
     {
       "source": {
@@ -156,7 +176,8 @@
         "policy_legislation",
         "regional_state",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1722979307
     },
     {
       "source": {
@@ -175,7 +196,8 @@
         "2028_presidential",
         "political_endorsements",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1722979175
     },
     {
       "source": {
@@ -189,7 +211,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108014841-17225128482024-08-01t013057z_1833886118_rc2n69a46pwi_rtrmadp_0_usa-election-trump.jpeg?v=1722512925&w=1920&h=1080",
       "publishedAt": "2024-08-06T21:14:09Z",
       "content": "Republican presidential nominee and former U.S. President Donald Trump holds a campaign rally in Harrisburg, Pennsylvania, U.S., July 31, 2024.\nAfter using the market's global sell-off as an opportunity to attack Vice President Kamala Harris, former ... [3448 chars]",
-      "tags": ["economy_finance", "elections_politics", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722978849
     },
     {
       "source": {
@@ -209,7 +236,8 @@
         "international_crisis",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1722978815
     },
     {
       "source": {
@@ -223,7 +251,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24216631748129.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-08-06T21:08:46Z",
       "content": "CNN —\nJustice Neil Gorsuch is defending the Supreme Court’s controversial decision to grant sweeping immunity to former President Donald Trump in a series of interviews, at one point framing the ruling as an extension of precedent.\nGorsuch, who was T... [2771 chars]",
-      "tags": ["legal_justice", "supreme_court", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1722978526
     },
     {
       "source": {
@@ -243,7 +276,8 @@
         "foreign_policy",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1722978300
     },
     {
       "source": {
@@ -263,7 +297,8 @@
         "economy_finance",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1722978200
     },
     {
       "source": {
@@ -277,7 +312,12 @@
       "urlToImage": "https://images.indianexpress.com/2024/08/walz-harris-AP.jpg",
       "publishedAt": "2024-08-06T20:04:15Z",
       "content": "In a much awaited announcement by the Democratic candidate Kamala Harris, the Vice Presidential pick for her is former teacher and Minnesota Governor Tim Walz. The growing speculation over Harris' running mate has finally met its logical end.\nA publi... [2744 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1722974655
     },
     {
       "source": {
@@ -291,7 +331,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/08/87148056.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-08-06T20:03:51Z",
       "content": "Prince Harry and Meghan Markle wouldn’t have a home in the United States if it were up to Eric Trump.\nTrump, 40, labeled the Duke and Duchess of Sussex, who have lived in California since 2020, as “spoiled apples” and hinted that dad Donald Trump may... [4728 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1722974631
     },
     {
       "source": {
@@ -311,7 +356,8 @@
         "legal_justice",
         "national_security",
         "terrorism"
-      ]
+      ],
+      "publishedAtTs": 1722972733
     },
     {
       "source": {
@@ -325,7 +371,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/d1/6d1bd3c6-7b3f-53fa-8466-4622d60ff019/66b27e5e251e3.image.jpg?crop=1472%2C773%2C0%2C147&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-08-06T19:30:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "elections_politics", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1722972600
     },
     {
       "source": {
@@ -345,7 +396,8 @@
         "terrorism",
         "foreign_policy",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1722972550
     },
     {
       "source": {
@@ -359,7 +411,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108017094-1722972046734-GUUfXWwWkAANuH4.jpg?v=1722972143&w=1920&h=1080",
       "publishedAt": "2024-08-06T19:22:31Z",
       "content": "Federal prosecutors have charged Asif Merchant, a Pakistani national with alleged ties to Iran, in a murder for hire plot of a U.S. politician or government officials.\nA Pakistani national with ties to Iran was charged in a foiled plot to assassinate... [1119 chars]",
-      "tags": ["security_intelligence", "legal_justice", "foreign_policy"]
+      "tags": [
+        "security_intelligence",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1722972151
     },
     {
       "source": {
@@ -378,7 +435,8 @@
         "security_intelligence",
         "legal_justice",
         "terrorism"
-      ]
+      ],
+      "publishedAtTs": 1722970838
     },
     {
       "source": {
@@ -397,7 +455,8 @@
         "social_issues",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1722970800
     },
     {
       "source": {
@@ -415,7 +474,8 @@
         "elections_politics",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1722970800
     }
   ]
 }

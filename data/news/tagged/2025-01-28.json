@@ -20,7 +20,8 @@
         "social_issues",
         "lgbtq_rights",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1738108696
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "government_administration",
         "social_issues",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1738108420
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "civil_rights",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738108377
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GYQYomvakAETlcS-1152x648.jpeg",
       "publishedAt": "2025-01-28T23:52:23Z",
       "content": "For reasons that were not immediately clear, SpaceX founder Elon Musk took to his social media site X on Tuesday evening to make a perplexing space-based pronouncement.\n\"The @POTUS has asked @SpaceX to bring home the 2 astronauts stranded on the @Spa... [1408 chars]",
-      "tags": ["space_policy", "national_security", "security_intelligence"]
+      "tags": [
+        "space_policy",
+        "national_security",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1738108343
     },
     {
       "source": {
@@ -88,7 +96,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/V755XGW2KZEKDMKHULLKE53KQA.JPG?auth=d366fa8c3da78d5f0edf5eef27b13fb8286a06f35b30019c98963c5597b4014d&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-01-28T23:50:23Z",
       "content": "The Trump administration said Tuesday it is offering incentives for nearly all civilian federal workers to resign and warned of plans to shrink the size of the government.\nThe “deferred resignation program” would allow federal employees to remain on ... [929 chars]",
-      "tags": ["government_operations", "personnel", "federal_agencies"]
+      "tags": [
+        "government_operations",
+        "personnel",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1738108223
     },
     {
       "source": {
@@ -102,7 +115,12 @@
       "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/01/Trump_95433-67996ba435785-768x432.jpg",
       "publishedAt": "2025-01-28T23:46:04Z",
       "content": "Politics Trump offering federal workers buyouts with about 8 months’ pay in effort to shrink government President Donald Trump greets a Marine Corps honor guard as he disembarks Marine One upon arrival on the South Lawn of the White House in Washingt... [7325 chars]",
-      "tags": ["government_operations", "personnel", "federal_agencies"]
+      "tags": [
+        "government_operations",
+        "personnel",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1738107964
     },
     {
       "source": {
@@ -122,7 +140,8 @@
         "media_communications",
         "statements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1738106799
     },
     {
       "source": {
@@ -136,7 +155,12 @@
       "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/abf3127ec9b66aff65004229e17ee952035be9132e038f0a810237d681e51081",
       "publishedAt": "2025-01-28T23:25:00Z",
       "content": "President Donald Trump’s sweeping directive was the latest step in his dramatic effort to overhaul the federal government. PHOTO: REUTERS\nTrump aid freeze stirs chaos before it is blocked in court\n- US President Donald Trump’s attempt to freeze hundr... [6579 chars]",
-      "tags": ["government_operations", "legal_justice", "policy_legislation"]
+      "tags": [
+        "government_operations",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1738106700
     },
     {
       "source": {
@@ -154,7 +178,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1738106472
     }
   ]
 }

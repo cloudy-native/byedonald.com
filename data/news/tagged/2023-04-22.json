@@ -19,7 +19,8 @@
         "florida",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1682207489
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/066b31b/2147483647/strip/true/crop/3563x1871+0+252/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fde%2F0e%2F27ee0f184d40ab2d384c34274c41%2Fap23111763179074.jpg",
       "publishedAt": "2023-04-22T23:13:14Z",
       "content": "A political action committee supporting a presidential run by Florida Gov. Ron DeSantis has offered to relocate former President Donald Trump to California, where he can be \"close to his good buddy Gavin Newsom.\"\nNever Back Down offered to fund the m... [2870 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1682205194
     },
     {
       "source": {
@@ -47,7 +53,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/6eddf5e/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F1f%2Fff%2F55103b8f4f5ca06949cfef07b31b%2Fap23112118127040.jpg",
       "publishedAt": "2023-04-22T22:03:50Z",
       "content": "Former President Donald Trump and Florida congressman Byron Donalds receiving their order from Downtown House of Pizza in Downtown Fort Myers, after speaking at the Lee County Republican dinner in Fort Myers, Fla., Friday, April 21, 2023. (AP Photo/C... [4382 chars]",
-      "tags": ["personal_family", "florida", "regional_state"]
+      "tags": [
+        "personal_family",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1682201030
     },
     {
       "source": {
@@ -61,7 +72,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2225985/stephen-king-offers-elon-musk-advice-about-blue-check.jpg",
       "publishedAt": "2023-04-22T21:44:21Z",
       "content": "Renowned author Stephen King offered advice on Saturday to Twitter CEO Elon Musk in regard to the blue check verification marks, which were removed recently from most accounts on the social media platform.\nOn Thursday, Twitter removed check marks fro... [4457 chars]",
-      "tags": ["media_communications", "social_media", "personal_family"]
+      "tags": [
+        "media_communications",
+        "social_media",
+        "personal_family"
+      ],
+      "publishedAtTs": 1682199861
     },
     {
       "source": {
@@ -80,7 +96,8 @@
         "elections_politics",
         "legal_justice",
         "religious_freedom"
-      ]
+      ],
+      "publishedAtTs": 1682199754
     },
     {
       "source": {
@@ -94,7 +111,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/newspress-collage-26715172-1682194685706.jpg?quality=75&strip=all&1682180335&w=1024",
       "publishedAt": "2023-04-22T20:49:18Z",
       "content": "A super PAC formed to boost Florida Gov. Ron DeSantis’s presidential bid said it will chip in to help Donald Trump move to California — after the ex-president ripped his home state in a series of attacks.\n“Donald Trump has so deeply disparaged the st... [1775 chars]",
-      "tags": ["personal_family", "regional_state", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1682196558
     },
     {
       "source": {
@@ -108,7 +130,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/abortion-SCOTUS-2.png?w=1280",
       "publishedAt": "2023-04-22T20:29:56Z",
       "content": "The ever-looming 2024 election and the ongoing legal battle over access to a widely used abortion pill are likely to dominate the Sunday talk show circuit this weekend.\nAs several Republicans inch closer to making decisions on potential presidential ... [3729 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1682195396
     },
     {
       "source": {
@@ -122,7 +148,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/aa38e6071fdcc29ffcb1bd1e34a914047ba60eb2/0_323_4800_2880/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=45855d153c9253c30b6b905a27b86364",
       "publishedAt": "2023-04-22T17:00:15Z",
       "content": "Celeste Ng, 42, is the award-winning author of three novels, including Little Fires Everywhere, which was made into a miniseries starring and executive-produced by Reese Witherspoon. Her latest, Our Missing Hearts, dramatises the power of art and lit... [6323 chars]",
-      "tags": ["social_issues", "media_communications", "personal_family"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1682182815
     },
     {
       "source": {
@@ -136,7 +167,12 @@
       "urlToImage": "https://mmo.aiircdn.com/301/600838db6a0d3.jpg",
       "publishedAt": "2023-04-22T16:40:00Z",
       "content": "Image via Getty\nThe former US President will touch down just weeks after Joe Biden's visit.\nFormer US President Donald Trump is set to make a trip to Ireland in May.\nHe's expected to spend time at his Trump International Hotel in Doonbeg, Co.Clare.\nH... [716 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682181600
     },
     {
       "source": {
@@ -150,7 +186,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2225971/gop-efforts-beating-trump-may-futile.png",
       "publishedAt": "2023-04-22T16:08:30Z",
       "content": "Republican efforts at beating former President Donald Trump in the 2024 GOP presidential primary may be futile, according to two historical trends.\nLast November, Trump announced that he is running for president, setting up a possible rematch of the ... [5329 chars]",
-      "tags": ["elections_politics", "2028_presidential", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1682179710
     },
     {
       "source": {
@@ -164,7 +205,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/04/donald_trump_1482075411.jpg",
       "publishedAt": "2023-04-22T16:00:02Z",
       "content": "We are sick of Donald Trump. Totally and completely sick of hearing his voice, seeing his image, and watching his latest idiotic, sinister move. We are sick of his hold on the GOP, his incessant need for attention, and his bullying, bigoted swagger.\n... [10000 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1682179202
     },
     {
       "source": {
@@ -178,7 +224,11 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QUNJSXN2EVCVLGD5HPG6KNJ4V4.jpg?_a=ATCqVhC0",
       "publishedAt": "2023-04-22T15:35:43Z",
       "content": "FILE - Nevada Republican Senate candidate Adam Laxalt speaksto supporters during an election night campaign event on Nov. 8, 2022, in Las Vegas. Former Nevada Attorney General Adam Laxalt will help lead a political action committee that is encouragin... [2018 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682177743
     },
     {
       "source": {
@@ -192,7 +242,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/6443f03bc37809.04573215-e1682177422634.jpeg?w=1280",
       "publishedAt": "2023-04-22T15:31:12Z",
       "content": "A new poll found that 70 percent of Americans, including 44 percent of Republicans, do not want former President Trump to make a White House run in 2024.\nThe poll, released Thursday from The Associated Press and the University of Chicago’s research c... [2087 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682177472
     },
     {
       "source": {
@@ -212,7 +266,8 @@
         "elections_politics",
         "social_issues",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1682175901
     },
     {
       "source": {
@@ -226,7 +281,12 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/AHC6P6OFC5DXNCBT43XCTF6SWI.jpg?_a=ATCqVhC0",
       "publishedAt": "2023-04-22T14:32:24Z",
       "content": "FILE - Former President Donald Trump appears in court for his arraignment, April 4, 2023, in New York. Jury selection is set to start Tuesday, April 25, 2023, in the case involving allegations by advice columnist E. Jean Carroll, who says Trump raped... [6473 chars]",
-      "tags": ["legal_justice", "personal_family", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1682173944
     },
     {
       "source": {
@@ -240,7 +300,11 @@
       "urlToImage": "https://static01.nyt.com/images/2023/04/22/multimedia/22pol-trump-memo-lpvb/22pol-trump-memo-lpvb-facebookJumbo.jpg",
       "publishedAt": "2023-04-22T13:31:31Z",
       "content": "When former President Donald J. Trump called Russia’s president, Vladimir V. Putin, “smart” in the days after Mr. Putin’s invasion of Ukraine, the remark caused a brief media stir and nothing more — another off-the-cuff, provocative statement from so... [980 chars]",
-      "tags": ["elections_politics", "florida"]
+      "tags": [
+        "elections_politics",
+        "florida"
+      ],
+      "publishedAtTs": 1682170291
     },
     {
       "source": {
@@ -254,7 +318,12 @@
       "urlToImage": "https://i2-prod.buzz.ie/incoming/article29781259.ece/ALTERNATES/s1200/0_GettyImages-1130403064.jpg",
       "publishedAt": "2023-04-22T12:15:33Z",
       "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nStay on top of the latest issues at home and abroad by signing up to our FREE daily newsletter\nFormer US president Donald Trump is expected to v... [2843 chars]",
-      "tags": ["personal_family", "regional_state", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1682165733
     },
     {
       "source": {
@@ -268,7 +337,12 @@
       "urlToImage": "https://extra.ie/wp-content/uploads/2022/08/Donald-Trump-Doonbeg-Feature.jpg",
       "publishedAt": "2023-04-22T10:33:37Z",
       "content": "Former US president Donald Trump is to visit Ireland next month.\nMr Trump’s visit will come just weeks after the current US President Joe Biden took part in a four-day visit to the island of Ireland.\nToday's top videos STORY CONTINUES BELOW\nMr Trump’... [1807 chars]",
-      "tags": ["personal_family", "foreign_policy", "regional_state"]
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1682159617
     },
     {
       "source": {
@@ -282,7 +356,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/trumpdonald_041423ap_trump-endorsements.jpeg?w=1280",
       "publishedAt": "2023-04-22T10:00:00Z",
       "content": "Former President Donald Trump is leaning on a network of personal and political relationships to rack up broad congressional support for his 2024 White House bid and undercut his chief Republican rival, Florida Gov. Ron DeSantis, before the governor’... [9269 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1682157600
     },
     {
       "source": {
@@ -296,7 +375,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2225938/donald-trump-speaks-nra-event.jpg",
       "publishedAt": "2023-04-22T08:35:53Z",
       "content": "Former President Donald Trump spoke at a Republican fundraising event in Fort Myers, Florida on Friday as part of his campaign for re-election to the White House in 2024.\nTrump touted his own election bid and gave some indication of what his intentio... [3229 chars]",
-      "tags": ["elections_politics", "legal_justice", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1682152553
     },
     {
       "source": {
@@ -315,7 +399,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1682150400
     },
     {
       "source": {
@@ -329,7 +414,11 @@
       "urlToImage": "https://gray-wistv-prod.cdn.arcpublishing.com/resizer/_F2wVl9t-I4Wi7XUb4vua4dQHLQ=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/TBRCQYBIGJH6JG4ZUHA3CU3AEM.jpg",
       "publishedAt": "2023-04-22T07:12:41Z",
       "content": "NEW YORK (AP) — The opening phase of the Republican presidential primary has largely centered on former President Donald Trump and Florida Gov. Ron DeSantis ' escalating collision.\nBut a new wave of GOP White House hopefuls will begin entering the ra... [6985 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1682147561
     }
   ]
 }

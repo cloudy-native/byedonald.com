@@ -20,7 +20,8 @@
         "antitrust",
         "federal_agencies",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1744674870
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "media_communications",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1744674302
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "military",
         "government_operations",
         "federal_agencies"
-      ]
+      ],
+      "publishedAtTs": 1744674113
     },
     {
       "source": {
@@ -74,7 +77,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/b5c3cf7/2147483647/strip/true/crop/2540x1429+0+126/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2F5f%2F1d1fe8f795e8a21c613d398676b4%2Fb57cca02200840dbb798e899ecb2eb63",
       "publishedAt": "2025-04-14T23:35:20Z",
       "content": "▶ Follow live updates on President Donald Trump and his administration\nBOSTON (AP) — The federal government says it’s freezing more than $2.2 billion in grants and $60 million in contracts to Harvard University, after the institution said it would de... [6673 chars]",
-      "tags": ["government_administration", "civil_rights"]
+      "tags": [
+        "government_administration",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1744673720
     },
     {
       "source": {
@@ -92,7 +99,8 @@
         "government_administration",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1744673669
     },
     {
       "source": {
@@ -112,7 +120,8 @@
         "security_intelligence",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1744672494
     },
     {
       "source": {
@@ -131,7 +140,8 @@
         "policy_legislation",
         "foreign_policy",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1744672048
     },
     {
       "source": {
@@ -150,7 +160,8 @@
         "economy_finance",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1744671912
     },
     {
       "source": {
@@ -164,7 +175,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTUyMzA5MjJcXFwvYWVkMzI3NDlkNzBjNDVkYjkzYjI5MmZkMGIxNDNmYzEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1MmYwZGEzZWRhYjFiNzRlYmFlZGNkYmEzMjY2ZmVkYzU0OGJmNGJiIn0=/trump-wants-to-give-money-and-plane-tickets-to-immigrants-who-self-deport.jpg",
       "publishedAt": "2025-04-14T23:00:00Z",
       "content": "Donald Trump has said he wants to give money and a plane ticket to any immigrant who is in the country illegally who chooses to “self-deport”, and to get those who are “good” back in the US, in a break from his usual hardline immigration rhetoric.\nTh... [2212 chars]",
-      "tags": ["immigration", "policy_legislation", "government_administration"]
+      "tags": [
+        "immigration",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1744671600
     },
     {
       "source": {
@@ -178,7 +194,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/TMHD3HGTHVAARELXJV35BE6XYM.jpg?auth=556a68aad661c18a61f2051a267e3019c438546723f4918a848748dbe258713b&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-04-14T22:53:12Z",
       "content": "Open this photo in gallery: Montreal musician Bells Larsen raised alarm around the world in cancelling American shows because his passport does not reflect his biological sex at birth. On April 2, U.S. Citizenship and Immigration Services updated its... [5473 chars]",
-      "tags": ["border_security", "lgbtq_rights", "security_incidents"]
+      "tags": [
+        "border_security",
+        "lgbtq_rights",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1744671192
     }
   ]
 }

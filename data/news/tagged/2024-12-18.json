@@ -14,7 +14,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/12/Capitol_Hanukkah_34710.jpg?w=1024&h=683",
       "publishedAt": "2024-12-18T23:55:04Z",
       "content": "WASHINGTON — President-elect Donald Trump abruptly rejected a bipartisan plan Wednesday to prevent a Christmastime government shutdown, instead telling House Speaker Mike Johnson and Republicans to essentially renegotiate — days before a deadline whe... [6682 chars]",
-      "tags": ["government_operations", "budget", "policy_legislation"]
+      "tags": [
+        "government_operations",
+        "budget",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1734566104
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "budget",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1734565798
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "government_operations",
         "transportation",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1734565436
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/95572385.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-18T23:41:23Z",
       "content": "Two decades ago, while the insurgency was raging in Iraq, an Army commander of Charlie Company, 3rd Battalion of the 187th Infantry Regiment, which was gearing up for a deployment, got an unusual request.\nPete Hegseth, a National Guard officer at the... [6519 chars]",
-      "tags": ["military", "veterans_affairs", "security_intelligence"]
+      "tags": [
+        "military",
+        "veterans_affairs",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1734565283
     },
     {
       "source": {
@@ -80,7 +92,12 @@
       "urlToImage": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/YKW7QK5WGVG73CQWNMNJEYJYNU.jpg?auth=7a34c95f21503ca618d9c452891980e2d8e2f9fff5c7fb2a6e69a5f03ba112a0&width=1200&height=600&smart=true",
       "publishedAt": "2024-12-18T23:35:04Z",
       "content": "COLUMBIA, S.C. — Many South Carolinians receiving government health benefits could soon be required to work to retain this coverage.\nGov. Henry McMaster has already directed South Carolina Department of Health and Human Services, which oversees the s... [3563 chars]",
-      "tags": ["healthcare", "policy_legislation", "government_administration"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1734564904
     },
     {
       "source": {
@@ -98,7 +115,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1734564489
     },
     {
       "source": {
@@ -117,7 +135,8 @@
         "policy_legislation",
         "economy_finance",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1734563546
     },
     {
       "source": {
@@ -137,7 +156,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1734563516
     },
     {
       "source": {
@@ -157,7 +177,8 @@
         "policy_legislation",
         "economy_finance",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734563206
     },
     {
       "source": {
@@ -171,7 +192,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/Donald_Trump_1734543144503_1734543154294.jpg",
       "publishedAt": "2024-12-18T23:06:26Z",
       "content": "United States President-elect Donald Trump is setting up his team for the 20th January handover from current President Joe Biden. Though he has a very busy schedule, he was seen sporting a noticeably different hairstyle on 18 December, which went vir... [1495 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1734563186
     }
   ]
 }

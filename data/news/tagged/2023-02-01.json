@@ -19,7 +19,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1675294922
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "doj_actions",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1675294625
     },
     {
       "source": {
@@ -52,7 +54,10 @@
       "urlToImage": "https://images.wsj.net/im-714722/social",
       "publishedAt": "2023-02-01T23:21:00Z",
       "content": "There’s a lot of skepticism about former President Donald Trump’s campaign launch for the 2024 Republican nomination. His rambling, hour-long mid-November announcement was widely panned. There have been few endorsements and no trademark rallies. He’s... [428 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675293660
     },
     {
       "source": {
@@ -66,7 +71,11 @@
       "urlToImage": "https://static01.nyt.com/images/2023/02/01/multimedia/01pol-gop-field-lfvm/01pol-gop-field-lfvm-facebookJumbo.jpg",
       "publishedAt": "2023-02-01T23:20:20Z",
       "content": "Increased uncertainty is rippling through the Republican Party over how to beat Donald J. Trump for the 2024 presidential nomination, as an array of the party’s top figures move slowly toward challenging the politically wounded yet resilient former p... [1513 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675293620
     },
     {
       "source": {
@@ -86,7 +95,8 @@
         "doj_actions",
         "congressional_investigations",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675292417
     },
     {
       "source": {
@@ -100,7 +110,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107187153-1675257151158-gettyimages-1244917678-AFP_32NZ9J2.jpeg?v=1675292037&w=1920&h=1080",
       "publishedAt": "2023-02-01T22:53:57Z",
       "content": "Former President Donald Trump may soon get some company on the campaign trail.\nA flurry of recent moves from Trump's potential Republican primary competitors signals that at least one candidate, and possibly more, are ready to join him in the 2024 pr... [3680 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675292037
     },
     {
       "source": {
@@ -118,7 +133,8 @@
         "legal_justice",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1675290975
     },
     {
       "source": {
@@ -137,7 +153,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675290939
     },
     {
       "source": {
@@ -151,7 +168,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_31_1940386.jpg?width=920&format=jpeg",
       "publishedAt": "2023-02-01T21:28:26Z",
       "content": "Former South Carolina Governor Nikki Haley will kick off her campaign for the 2024 Republican presidential nomination this month, squaring off against her one-time boss, Donald Trump, two sources familiar with her plans said on Wednesday. The move wo... [4355 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675286906
     },
     {
       "source": {
@@ -169,7 +190,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1675286488
     },
     {
       "source": {
@@ -188,7 +210,8 @@
         "lgbtq_rights",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1675285856
     },
     {
       "source": {
@@ -202,7 +225,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/NikkiHaley_ap.jpg?w=1280",
       "publishedAt": "2023-02-01T20:54:38Z",
       "content": "Nikki Haley – a former two-term South Carolina governor and U.S. ambassador to the United Nations – is anticipated to announce a 2024 White House bid, becoming the second Republican to officially wade into the GOP primary and the first to challenge f... [6699 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1675284878
     },
     {
       "source": {
@@ -216,7 +243,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/McConneyJeffrey.jpg?w=1280",
       "publishedAt": "2023-02-01T20:34:34Z",
       "content": "A Trump Organization executive is expected to testify before a grand jury in Manhattan that is investigating former President Trump’s role in hush-money payments paid to adult film star Stormy Daniels right before the 2016 election, CNN reported.\nJef... [1943 chars]",
-      "tags": ["personal_family", "legal_justice", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1675283674
     },
     {
       "source": {
@@ -230,7 +262,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/donald-trump-desantis-truth-social-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-02-01T20:29:57Z",
       "content": "The inter-GOP skirmish between Florida Gov. Ron DeSantis and former President Donald Trump has flared into open — if so far one-sided — warfare.\nTrump, 76, launched his most inflammatory attack yet on the rising GOP star late Tuesday, tarring him as ... [2511 chars]",
-      "tags": ["elections_politics", "florida", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675283397
     },
     {
       "source": {
@@ -244,7 +281,13 @@
       "urlToImage": "https://d.newsweek.com/en/full/2188735/comp-imagetrump-wind-turbines-eagle.jpg",
       "publishedAt": "2023-02-01T20:11:44Z",
       "content": "Donald Trump's recent rally in South Carolina, reintroducing his 2024 presidential bid, included attacks on many familiar adversaries from the Bidens, to immigration, to China.\nThe former president set out a number of ideological positions, among the... [10991 chars]",
-      "tags": ["energy", "environment", "social_issues", "media_communications"]
+      "tags": [
+        "energy",
+        "environment",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1675282304
     },
     {
       "source": {
@@ -262,7 +305,8 @@
         "legal_justice",
         "congressional_investigations",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1675281792
     },
     {
       "source": {
@@ -276,7 +320,12 @@
       "urlToImage": "https://s.hdnux.com/photos/01/31/27/27/23426554/3/rawImage.jpg",
       "publishedAt": "2023-02-01T19:57:00Z",
       "content": "NEW YORK (AP) — Former President Donald Trump’s political operation started the year with about $25 million socked away for his recently launched 2024 presidential campaign, a sum that is substantially less than what he had on hand just one year ago,... [3693 chars]",
-      "tags": ["elections_politics", "personal_family", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1675281420
     },
     {
       "source": {
@@ -294,7 +343,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1675280345
     },
     {
       "source": {
@@ -308,7 +358,12 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1455983-12-20230209104328.jpeg",
       "publishedAt": "2023-02-01T19:34:24Z",
       "content": "UPDATE\nFeb 9, 2023 10:30 AM CST\nFormer President Trump says he recently told Nikki Haley to \"go by your heart\" in her decision to run for his old job in 2024, even though he's also a contender. Now, it looks like Haley's expected candidacy might actu... [2418 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1675280064
     },
     {
       "source": {
@@ -322,7 +377,12 @@
       "urlToImage": "https://static.politico.com/01/75/1bc2b1254b12915707c0a2e50b0b/florida-governor-62846.jpg",
       "publishedAt": "2023-02-01T19:06:05Z",
       "content": "The “free state of Florida”? No, despite what you might recall, or have experienced at the time, or find when looking up the record for yourself, it was really the “shut down Sunshine state.”\n“Florida was actually closed, for a great, long period of ... [6710 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1675278365
     },
     {
       "source": {
@@ -336,7 +396,11 @@
       "urlToImage": "https://s.abcnews.com/images/US/jeff-mcconney-ap-mo-20230201_1675274922458_hpMain_16x9_608.jpg?w=1600",
       "publishedAt": "2023-02-01T19:00:27Z",
       "content": "Top Trump Organization executive to appear before grand jury\nTrump Organization senior vice president and controller Jeffrey McConney returns to the courthouse after a break in the company's trial on Nov. 1, 2022, in New York.\nTrump Organization seni... [2802 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1675278027
     }
   ]
 }

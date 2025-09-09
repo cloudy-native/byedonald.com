@@ -14,7 +14,13 @@
       "urlToImage": "https://i.cbc.ca/1.7400220.1733961992!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trumptrudeau-sitecard-dec24.jpg?im=Resize%3D620",
       "publishedAt": "2025-01-08T23:59:22Z",
       "content": "Among the most senior officials in Ottawa, there is a document circulating that outlines specific details about how Canada could retaliate against Donald Trump's tariff threat.\nThe list includes hundreds of American-made goods that Canada is consider... [2993 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy", "regional_state"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1736380762
     },
     {
       "source": {
@@ -28,7 +34,12 @@
       "urlToImage": "https://sm.mashable.com/t/mashable_in/article/w/will-trump/will-trumps-tariffs-make-costs-explode-for-this-years-most-a_6ph9.1200.jpg",
       "publishedAt": "2025-01-08T23:58:49Z",
       "content": "> Tech\nTech lovers: Bigger price tags may be on the horizon.\nThe incoming Trump administration has proposed a sweeping economic agenda that includes controversially high tariffs on imported goods, and while the plan has reportedly fluctuated over the... [6444 chars]",
-      "tags": ["economy_finance", "policy_legislation", "crisis_emergency"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1736380729
     },
     {
       "source": {
@@ -42,7 +53,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/3e/93e22309-5753-53dc-9879-fc1c98980728/67603f44d40bf.image.jpg?crop=1280%2C672%2C0%2C89&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-01-08T23:54:00Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["legal_justice", "government_administration", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "personal_family"
+      ],
+      "publishedAtTs": 1736380440
     },
     {
       "source": {
@@ -56,7 +72,12 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3D4KWODE5ZGBPBHTW6BG5TIXWM.jpg?_a=DATAdtfiZAA0",
       "publishedAt": "2025-01-08T23:53:41Z",
       "content": "WASHINGTON – Supreme Court Justice Samuel Alito spoke with President-elect Donald Trump about a former law clerk the day before Trump went to the high court in a push to delay the sentencing in his New York hush-money case, the justice said Wednesday... [1170 chars]",
-      "tags": ["legal_justice", "government_administration", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1736380421
     },
     {
       "source": {
@@ -70,7 +91,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/2344d12/2147483647/strip/true/crop/3000x1688+0+460/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F89%2F34%2F5f61c53f8a284fbae019032fb468%2F31d3ef383a6040c7aaf0aadabc857cef",
       "publishedAt": "2025-01-08T23:53:36Z",
       "content": "TORONTO (AP) — U.S. President-elect Donald Trump’s comments that Canada should become the 51st state are no longer a joke and are meant to undermine America’s closest ally, Canada’s finance minister said Wednesday.\nDominic LeBlanc, the country’s poin... [3495 chars]",
-      "tags": ["foreign_policy", "canada", "government_administration"]
+      "tags": [
+        "foreign_policy",
+        "canada",
+        "government_administration"
+      ],
+      "publishedAtTs": 1736380416
     },
     {
       "source": {
@@ -90,7 +116,8 @@
         "regional_state",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1736380381
     },
     {
       "source": {
@@ -110,7 +137,8 @@
         "economy_finance",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1736380347
     },
     {
       "source": {
@@ -129,7 +157,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736380149
     }
   ]
 }

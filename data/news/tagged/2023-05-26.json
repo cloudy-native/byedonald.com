@@ -14,7 +14,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230404-donald-trump-court-room-ew-348p-138a82.jpg",
       "publishedAt": "2023-05-26T23:32:33Z",
       "content": "Create your free profile or log in to save this article\nCreate your free profile or log in to save this article\nProsecutors in New York have informed attorneys for Donald Trump that the evidence in their hush money case against the former president i... [2400 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1685143953
     },
     {
       "source": {
@@ -33,7 +38,8 @@
         "elections_politics",
         "health_science",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1685139354
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "2028_presidential",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1685138460
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://compote.slate.com/images/42a8021c-99ed-4f16-b237-a987eb2e5b0e.jpeg?crop=5356%2C3571%2Cx2900%2Cy0&width=1560",
       "publishedAt": "2023-05-26T22:00:44Z",
       "content": "I am not one of Donald Trump’s lawyers, and like a close colleague who turned down an invitation to be his attorney, would never take on a client so impossible to control. Yet, blown away by the latest absurd blunder committed by Team Trump, I feel c... [5424 chars]",
-      "tags": ["personal_legal", "legal_justice", "media_communications"]
+      "tags": [
+        "personal_legal",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1685138444
     },
     {
       "source": {
@@ -80,7 +92,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/26/83304ee9-5de2-48b2-ad82-fa2fb12907e3/thumbnail/1200x630/95627e39888a0d94ae29c28f22053583/gettyimages-1252522283.jpg",
       "publishedAt": "2023-05-26T21:15:00Z",
       "content": "Prosecutors in former President Donald Trump's Manhattan criminal case have released to his attorneys a recording of Trump and a witness, whose identity was not disclosed, according to a document the office made public Friday.\nThe document, called an... [2018 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1685135700
     },
     {
       "source": {
@@ -99,7 +116,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1685133252
     },
     {
       "source": {
@@ -113,7 +131,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/WalR_5qnMEPKCU4cuMU5iltfOig=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/Y6VJ5U6SRJE6PEVOO26UHFJW5Q.jpg",
       "publishedAt": "2023-05-26T20:34:10Z",
       "content": "Ron DeSantis is openly attacking former President Donald Trump for the first time as a spent force who has veered away from staunch right-wing policy stands.\nThe GOP presidential rival, who is seeking to bounce back from a glitch-plagued campaign lau... [3470 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1685133250
     },
     {
       "source": {
@@ -127,7 +150,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1474228-12-20230526102511.jpeg",
       "publishedAt": "2023-05-26T20:08:30Z",
       "content": "Former President Trump is following up his CNN town hall event with one on another network he often maligns—Fox News. The network says the frontrunner for the 2024 GOP nomination will join host Sean Hannity for a town hall in Iowa on Thursday, the Hi... [1048 chars]",
-      "tags": ["elections_politics", "2026_midterms", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "media_communications"
+      ],
+      "publishedAtTs": 1685131710
     },
     {
       "source": {
@@ -141,7 +169,11 @@
       "urlToImage": "https://www.reuters.com/resizer/wodUpyaDa8e3V6PklYNBMUstvDc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DEDDZ364DJJVROCG5RVXF5RCOI.jpg",
       "publishedAt": "2023-05-26T19:31:08Z",
       "content": "LONDON, May 26 (Reuters) - Britain's former prime minister, Boris Johnson, and U.S. former President Donald Trump discussed Ukraine and \"the vital importance of Ukrainian victory\" on Thursday, Johnson's spokesperson said on Friday.\nSince being ousted... [722 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1685129468
     },
     {
       "source": {
@@ -155,7 +187,12 @@
       "urlToImage": "https://www.reuters.com/resizer/Fs-4HwJn-vUMPLbX2CwCA1vfgsk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5PWXNBZO4FK6NEBKDYUP2VW54A.jpg",
       "publishedAt": "2023-05-26T19:31:08Z",
       "content": "May 26 (Reuters) - North Dakota Governor Doug Burgum is planning to enter the 2024 presidential race, joining a growing field of candidates hoping to topple Donald Trump and secure the Republican nomination, according to a person familiar with his pl... [1888 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1685129468
     },
     {
       "source": {
@@ -174,7 +211,8 @@
         "legal_justice",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1685129031
     },
     {
       "source": {
@@ -188,7 +226,11 @@
       "urlToImage": "https://www.theweek.in/content/dam/week/news/world/images/2023/5/27/Ken-Paxton-ap.jpg",
       "publishedAt": "2023-05-26T18:30:00Z",
       "content": "Following years of scandal, criminal charges and corruption accusations, Texas's Republican Attorney General, Ken Paxton, finds himself on the brink of impeachment, and a GOP-led panel is heading the charge.\nIn an unanimous decision, a Republican-led... [6833 chars]",
-      "tags": ["legal_justice", "texas"]
+      "tags": [
+        "legal_justice",
+        "texas"
+      ],
+      "publishedAtTs": 1685125800
     },
     {
       "source": {
@@ -202,7 +244,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/09/donald-trump-1411452051.jpeg",
       "publishedAt": "2023-05-26T17:50:52Z",
       "content": "There's a lot of Trump legal news these days, what with the E. Jean Carroll verdict, the Manhattan hush money indictment, the news that Fulton County, Georgia, D.A. Fani Willis has put local authorities on notice to anticipate \"something\" coming in A... [7576 chars]",
-      "tags": ["foreign_policy", "legal_justice", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685123452
     },
     {
       "source": {
@@ -216,7 +263,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/31f61d1/2147483647/strip/true/crop/180x95+0+3/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F3d%2Fc6%2F3ffeed6a48c0ba2da31c39e72213%2Fhttps-cdn.brid.tv%2Flive%2Fpartners%2F19383%2Fsnapshot%2F1312584_th_6470d2134d832_1685115411.jpg",
       "publishedAt": "2023-05-26T17:45:48Z",
       "content": "John Durham is slated to testify before the GOP-led House in both a public hearing and behind closed doors in June, addressing his special counsel investigation into the Trump-Russia investigators and the findings of his bombshell report.\nDurham will... [4419 chars]",
-      "tags": ["legal_justice", "doj_actions", "congressional_investigations"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "congressional_investigations"
+      ],
+      "publishedAtTs": 1685123148
     },
     {
       "source": {
@@ -230,7 +282,12 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1474217-12-20230526105338.jpeg",
       "publishedAt": "2023-05-26T17:38:00Z",
       "content": "Donald Trump Jr. may have been trying to help his father by mocking Ron DeSantis' Wednesday campaign launch \"De-Saster\", but the eldest Trump son instead insulted his dad and earned his own internet ridicule. Per the Wrap, Trump Jr. appeared Thursday... [1506 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685122680
     },
     {
       "source": {
@@ -244,7 +301,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/54914d0f9025998e4788fe6a68b51fedb42c04c8/0_275_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1deb4c74f0c884df26c08eb8e3ae3709",
       "publishedAt": "2023-05-26T16:38:51Z",
       "content": "Boris Johnson has held discussions with Donald Trump about Ukraine during his tour of the US, in an apparent attempt to make the Ukrainian case to the sceptical former US president.\nJohnson met Trump “to discuss the situation in Ukraine and the vital... [3957 chars]",
-      "tags": ["foreign_policy", "russia"]
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1685119131
     },
     {
       "source": {
@@ -258,7 +319,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/3327304/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F2f%2F3b%2F28914b0a4df0878527e5c87931b9%2Fcollage-maker-29-mar-2023-03-31-pm-3136.jpg",
       "publishedAt": "2023-05-26T16:31:00Z",
       "content": "New Hampshire state legislators switched their 2024 presidential endorsements from Gov. Ron DeSantis (R-FL) to former President Donald Trump, citing the governor's technological problems launching his campaign as the reason for the decision.\nDeSantis... [2426 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1685118660
     },
     {
       "source": {
@@ -272,7 +338,13 @@
       "urlToImage": "https://images.wsj.net/im-788112/social",
       "publishedAt": "2023-05-26T16:12:00Z",
       "content": "President Donald Trump and Russian President Vladimir Putin meet in Osaka, Japan, June 28, 2019. Photo: kevin lamarque/Reuters\nPeggy Noonan is one of your finest writers, but she has to let Donald Trump go (“Unanswered Questions About Trump and Russi... [286 chars]",
-      "tags": ["foreign_policy", "russia", "legal_justice", "doj_actions"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1685117520
     },
     {
       "source": {
@@ -286,7 +358,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-05/230509-donald-trump-jm-1534-7a3442.jpg",
       "publishedAt": "2023-05-26T16:10:29Z",
       "content": "Former President Donald Trump has racked up more endorsements from prominent GOP officials than the rest of the current presidential candidates combined, even as the Republican field continues to grow.\nIn the first 24 hours hours since Florida GOP Go... [2204 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1685117429
     },
     {
       "source": {
@@ -300,7 +377,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/trumpdonald_desantisron_051223gn_rivalry.png?w=1280",
       "publishedAt": "2023-05-26T15:37:11Z",
       "content": "Florida Gov. Ron DeSantis (R) is ramping up his attacks on Donald Trump now that he is officially challenging the former president for the 2024 nomination, accusing him in a new interview of abandoning right-wing principles.\n“It seems like he’s runni... [1502 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1685115431
     },
     {
       "source": {
@@ -319,7 +401,8 @@
         "elections_politics",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1685114929
     },
     {
       "source": {
@@ -337,7 +420,8 @@
         "foreign_policy",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1685112420
     },
     {
       "source": {
@@ -351,7 +435,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/donald_trump_1476359069.jpg",
       "publishedAt": "2023-05-26T14:00:01Z",
       "content": "On Tuesday, Donald Trump's legal team sent a letter to the Department of Justice, asking for a meeting with Attorney General Merrick Garland to discuss an investigation being run by special prosecutor Jack Smith. Initially, the widespread assumption ... [6619 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1685109601
     },
     {
       "source": {
@@ -365,7 +454,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/9ca65ce72077c84ef1ca36004234e27049982a76/0_62_5618_3371/master/5618.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07977a0a68e6370d8c678a9e9a79c014",
       "publishedAt": "2023-05-26T13:54:17Z",
       "content": "Trump employees at Mar-a-Lago in Florida moved boxes of papers the day before a visit by FBI agents looking into the former president’s retention of classified documents, the Washington Post reported, citing sources familiar with the federal investig... [2490 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1685109257
     }
   ]
 }

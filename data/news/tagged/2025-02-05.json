@@ -19,7 +19,8 @@
         "policy_legislation",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1738799795
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/02/pilot.jpg?w=1024&h=628",
       "publishedAt": "2025-02-05T23:54:10Z",
       "content": "The former fiancée of American Eagle Capt. Jonathan Campos became enraged at the idea of people seeing his “very Puerto Rican” face plastered on screens and immediately assuming he was at fault for last week’s deadly crash between a passenger jet and... [2278 chars]",
-      "tags": ["personal_family", "social_issues", "media_communications"]
+      "tags": [
+        "personal_family",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1738799650
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "regional_state",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738799580
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/via/howe/cityhall.jpg;w=804;h=534;mode=crop",
       "publishedAt": "2025-02-05T23:46:46Z",
       "content": "Mayor Ken Sim calls special council meeting Feb. 11 to discuss concerns over U.S. President Donald Trump's move to potentially impose tariffs.\nMore than 90 per cent of the City of Vancouver’s business with suppliers since 2009 has been with Canadian ... [3575 chars]",
-      "tags": ["regional_state", "economy_finance", "trade"]
+      "tags": [
+        "regional_state",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1738799206
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "health_science",
         "public_health",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738798860
     },
     {
       "source": {
@@ -107,7 +120,8 @@
         "foreign_policy",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1738798851
     },
     {
       "source": {
@@ -125,7 +139,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738798471
     },
     {
       "source": {
@@ -139,7 +154,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250205-Linda-Fagan-ch-1208-cc9874.jpg",
       "publishedAt": "2025-02-05T23:32:16Z",
       "content": "WASHINGTON — President Donald Trump's administration evicted former Coast Guard Commandant Linda Fagan from her home with three hours of notice on Tuesday — not even enough time to gather her personal effects — according to two people familiar with t... [3145 chars]",
-      "tags": ["government_operations", "federal_agencies", "personal_legal"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1738798336
     },
     {
       "source": {
@@ -159,7 +179,8 @@
         "healthcare",
         "policy_legislation",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1738798256
     },
     {
       "source": {
@@ -179,7 +200,8 @@
         "economy_finance",
         "trade",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738798200
     }
   ]
 }

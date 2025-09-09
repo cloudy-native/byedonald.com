@@ -20,7 +20,8 @@
         "elections_politics",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1728518256
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2024/09/Screen-Shot-2024-09-03-at-9.20.13-AM-e1725369647478.png?w=1000&h=563&crop=1",
       "publishedAt": "2024-10-09T23:55:14Z",
       "content": "If you’ve seen any publicity for “The Apprentice” — the controversial new biopic about a young Donald Trump’s tutelage under the ruthless Roy Cohn — then you know the party line, hocked in one interview after another by the film’s cast: The movie too... [5102 chars]",
-      "tags": ["media_communications", "personal_family", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1728518114
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728517535
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/trump-harris-2024-election-polls-oct-8.webp",
       "publishedAt": "2024-10-09T23:15:00Z",
       "content": "Former President Donald Trump saw a sizable surge in the election betting markets Monday, and his momentum has carried into the week. Despite this, Vice President Kamala Harris remains in a position to win the popular vote, according to recent polls.... [9337 chars]",
-      "tags": ["elections_politics", "2028_presidential", "stock_market"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "stock_market"
+      ],
+      "publishedAtTs": 1728515700
     },
     {
       "source": {
@@ -84,7 +96,8 @@
         "crisis_emergency",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1728515209
     },
     {
       "source": {
@@ -104,7 +117,8 @@
         "elections_politics",
         "2024_presidential",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728515009
     },
     {
       "source": {
@@ -123,7 +137,8 @@
         "elections_politics",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1728514800
     },
     {
       "source": {
@@ -143,7 +158,8 @@
         "regional_state",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728514800
     },
     {
       "source": {
@@ -163,7 +179,8 @@
         "security_intelligence",
         "natural_disasters",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1728514800
     },
     {
       "source": {
@@ -183,7 +200,8 @@
         "media_communications",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1728513649
     },
     {
       "source": {
@@ -203,7 +221,8 @@
         "free_speech",
         "security_incidents",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1728513648
     },
     {
       "source": {
@@ -221,7 +240,8 @@
         "elections_politics",
         "regional_state",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728513478
     },
     {
       "source": {
@@ -241,7 +261,8 @@
         "security_intelligence",
         "national_security",
         "intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728513464
     },
     {
       "source": {
@@ -259,7 +280,8 @@
         "regional_state",
         "crisis_emergency",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1728513328
     },
     {
       "source": {
@@ -273,7 +295,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2176952525.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-10-09T22:34:26Z",
       "content": "CNN —\nVice President Kamala Harris’ political team has raised $1 billion since entering the presidential race in late July, two sources familiar with the figure told CNN – marking a massive fundraising milestone in her campaign against former Preside... [1593 chars]",
-      "tags": ["elections_politics", "campaign_finance", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "campaign_finance",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1728513266
     },
     {
       "source": {
@@ -287,7 +314,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/republican-presidential-nominee-former-u-91315621.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-10-09T22:31:58Z",
       "content": "Former President Donald Trump predicted to supporters in President Biden’s birth city of Scranton, Pa., Wednesday that the commander in chief will break with Vice President Kamala Harris before next month’s election.\n“He looks better now than I’ve ev... [3770 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1728513118
     },
     {
       "source": {
@@ -307,7 +339,8 @@
         "media_communications",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1728512802
     },
     {
       "source": {
@@ -327,7 +360,8 @@
         "policy_legislation",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1728512100
     },
     {
       "source": {
@@ -347,7 +381,8 @@
         "policy_legislation",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1728510890
     },
     {
       "source": {
@@ -361,7 +396,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2491606/donald-trump-poll.jpg",
       "publishedAt": "2024-10-09T21:52:51Z",
       "content": "Former President Donald Trump is gaining support among Hispanic voters, narrowing the gap with Vice President Kamala Harris and marking his best performance with this key group in two months, according to the latest Economist/YouGov poll.\nConducted o... [3346 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1728510771
     },
     {
       "source": {
@@ -375,7 +414,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241009-donald-trump-ew-413p-5d30ab.jpg",
       "publishedAt": "2024-10-09T21:49:05Z",
       "content": "SCRANTON, Pa. — Donald Trump rallied a raucous crowd here Wednesday as he seeks to halt Kamala Harris’ gains in the polls on handling the economy, launching a wave of insults at her and painting a dark vision of the future if he loses the election.\nT... [4257 chars]",
-      "tags": ["elections_politics", "personal_family", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1728510545
     },
     {
       "source": {
@@ -389,7 +433,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2024/10/09/1600x900/donald_1728490510459_1728490510767.jpg",
       "publishedAt": "2024-10-09T21:47:40Z",
       "content": "Former US President Donald Trump heaped praise on Prime Minister Narendra Modi in a podcast, calling him his \"friend\", \"the nicest human being\", and a \"total killer\". In a clip that went viral on Wednesday, Trump could be seen telling PM Modi's react... [2009 chars]",
-      "tags": ["foreign_policy", "media_communications", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1728510460
     },
     {
       "source": {
@@ -407,7 +456,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1728508667
     },
     {
       "source": {
@@ -421,7 +471,13 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/b2/1b2491d8-0c3f-5cc2-9ecd-1755489b8dab/6706f381a6f63.image.jpg?crop=1280%2C672%2C0%2C56&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-10-09T21:16:11Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["foreign_policy", "russia", "national_security", "intelligence"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "national_security",
+        "intelligence"
+      ],
+      "publishedAtTs": 1728508571
     }
   ]
 }

@@ -14,7 +14,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/27_03_2025_15_06_14_6137208.png?width=920&format=jpeg",
       "publishedAt": "2025-03-30T23:55:42Z",
       "content": "President Donald Trump announced a critical deadline for TikTok's parent company, ByteDance, to negotiate a deal with a non-Chinese buyer. The popular app, used by 170 million Americans, faces a potential U.S. ban over national security issues if the... [559 chars]",
-      "tags": ["foreign_policy", "national_security", "technology_regulation"]
+      "tags": [
+        "foreign_policy",
+        "national_security",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1743378942
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "ukraine",
         "government_administration",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1743378614
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://images.indianexpress.com/2025/03/donald-trump1.jpg",
       "publishedAt": "2025-03-30T23:42:02Z",
       "content": "US President Donald Trump, on Sunday, issued a stark warning to Iran to sign a nuclear deal with Washington in the coming days or else face bombing and tariffs, Reuters reported.\nTrump told NBC News in a telephonic interview that US and Iran’s offici... [1623 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "policy_legislation"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1743378122
     },
     {
       "source": {
@@ -62,7 +73,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/03/101421161.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-03-30T23:04:43Z",
       "content": "Bettina Anderson clapped back at her boyfriend, Donald Trump Jr., being labeled a “spoiled heir” and an “a–hole” in a New York Magazine profile.\nThe Palm Beach socialite took to her Instagram Story over the weekend to call out the anonymous “insider”... [3021 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1743375883
     },
     {
       "source": {
@@ -76,7 +92,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_03_2025_10_00_32_4032749.jpg?width=920&format=jpeg",
       "publishedAt": "2025-03-30T23:00:18Z",
       "content": "U.S. President Donald Trump is making plans for a significant diplomatic visit to Saudi Arabia in mid-May, marking his first foreign trip in his second term. This visit underscores Saudi Arabia's enhanced role in U.S. foreign policy, notably its invo... [641 chars]",
-      "tags": ["foreign_policy", "middle_east", "economy_finance", "trade"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1743375618
     },
     {
       "source": {
@@ -90,7 +112,12 @@
       "urlToImage": "https://img.rasset.ie/002025b7-1600.jpg",
       "publishedAt": "2025-03-30T23:00:00Z",
       "content": "The Tánaiste Simon Harris will hold a series of meetings with European counterparts ahead of US President Donald Trump's expected tariffs announcement on Wednesday.\nThe Minister for Foreign Affairs and Trade is due to hold calls with the Dutch Trade ... [1949 chars]",
-      "tags": ["foreign_policy", "europe", "trade"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "trade"
+      ],
+      "publishedAtTs": 1743375600
     },
     {
       "source": {
@@ -110,7 +137,8 @@
         "iran",
         "nuclear_policy",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1743375600
     },
     {
       "source": {
@@ -130,7 +158,8 @@
         "legal_justice",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1743375600
     },
     {
       "source": {
@@ -144,7 +173,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDNcXFwvMzEwMjEyMjNcXFwvMGMwY2VmZjllM2FkNDk3YmE1N2RmMWIzZjUwYmQyNDEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1ZWJlM2ZlZjVjYjkyMTNjZjAxNTNlNmY3YmQ5NmVmZGEwM2MxMzg2In0=/trump-promises-big-problems-for-zelensky-if-he-pulls-out-of-mineral-deal.jpg",
       "publishedAt": "2025-03-30T23:00:00Z",
       "content": "Donald Trump has said Ukraine’s President Volodomyr Zelensky faces “big, big problems” if he backs out of a mineral deal with the US.\nThe US president’s remarks come hours after he criticised Russian President Vladimir Putin for comments he made abou... [2402 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1743375600
     },
     {
       "source": {
@@ -164,7 +198,8 @@
         "media_communications",
         "elections_politics",
         "education"
-      ]
+      ],
+      "publishedAtTs": 1743374925
     }
   ]
 }

@@ -20,7 +20,8 @@
         "policy_legislation",
         "economy_finance",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1729295687
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "foreign_policy",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1729295659
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://e3.365dm.com/24/10/1600x900/skynews-yehya-sinwar-hama_6718762.jpg?20241017135717",
       "publishedAt": "2024-10-18T23:45:00Z",
       "content": "At least 33, including children, killed in Israeli strikes on Gaza refugee camp - medics\nAt least 33 people were killed and 85 wounded in Israeli strikes overnight on Jabalia refugee camp in northern Gaza, medics have said.\nChildren were among those ... [792 chars]",
-      "tags": ["middle_east", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "middle_east",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1729295100
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "2028_presidential",
         "middle_east",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1729294187
     },
     {
       "source": {
@@ -88,7 +96,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_10_2024_23_25_09_509837.jpg?width=920&format=jpeg",
       "publishedAt": "2024-10-18T23:24:32Z",
       "content": "Republican presidential hopeful Donald Trump has announced plans to impose significant tariffs on Chinese imports should China attempt to assert control over Taiwan. During an interview with the Wall Street Journal, Trump expressed his intent by sayi... [778 chars]",
-      "tags": ["foreign_policy", "china", "trade", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "trade",
+        "national_security"
+      ],
+      "publishedAtTs": 1729293872
     },
     {
       "source": {
@@ -108,7 +122,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1729293533
     },
     {
       "source": {
@@ -122,7 +137,12 @@
       "urlToImage": "https://img.rasset.ie/00212c3f-1600.jpg",
       "publishedAt": "2024-10-18T23:00:00Z",
       "content": "Democrat Kamala Harris has raised questions about Republican Donald Trump's physical stamina to serve effectively as president as the two rivals tore through the deadlocked battleground state of Michigan, with Mr Trump lashing back about the energy h... [4706 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1729292400
     },
     {
       "source": {
@@ -142,7 +162,8 @@
         "middle_east",
         "swing_states",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1729292400
     },
     {
       "source": {
@@ -156,7 +177,12 @@
       "urlToImage": "https://img.rasset.ie/00212cb9-1600.jpg",
       "publishedAt": "2024-10-18T23:00:00Z",
       "content": "Irish American actor Aidan Quinn has said that the prospect of a second presidential term for Donald Trump is \"absolutely frightening\" and called the Republican candidate \"a despicable man\".\nAppearing on Friday's Late Late Show, the Michael Collins a... [2612 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1729292400
     },
     {
       "source": {
@@ -170,7 +196,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/e3f48ebe4966d363b7ef95f0253047a571b3b0f7/0_0_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e62c2871e37d44cdfd1915a5f0919a25",
       "publishedAt": "2024-10-18T22:49:51Z",
       "content": "Kamala Harris used a rally in Grand Rapids, Michigan, on Friday to seize on reports that Donald Trump had been canceling media interviews to question whether he has the stamina for a second presidency if voters choose him over her in November’s elect... [4004 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1729291791
     },
     {
       "source": {
@@ -184,7 +214,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_10_2024_23_25_09_509837.jpg?width=920&format=jpeg",
       "publishedAt": "2024-10-18T22:38:41Z",
       "content": "In a recent interview with the Wall Street Journal, Donald Trump, the Republican contender for the presidency, declared his intention to levy heavy tariffs on China if the nation were to invade Taiwan. Trump specified that these tariffs could range f... [573 chars]",
-      "tags": ["foreign_policy", "china", "trade", "international_crisis"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "trade",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1729291121
     },
     {
       "source": {
@@ -202,7 +238,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1729288898
     },
     {
       "source": {
@@ -222,7 +259,8 @@
         "campaign_finance",
         "political_endorsements",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1729288839
     },
     {
       "source": {
@@ -242,7 +280,8 @@
         "personal_family",
         "political_endorsements",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1729288670
     },
     {
       "source": {
@@ -260,7 +299,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1729286763
     },
     {
       "source": {
@@ -280,7 +320,8 @@
         "political_endorsements",
         "government_administration",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1729286232
     },
     {
       "source": {
@@ -300,7 +341,8 @@
         "security_intelligence",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1729285974
     },
     {
       "source": {
@@ -320,7 +362,8 @@
         "political_endorsements",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1729285384
     },
     {
       "source": {
@@ -340,7 +383,8 @@
         "security_intelligence",
         "crisis_emergency",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1729285080
     },
     {
       "source": {
@@ -360,7 +404,8 @@
         "policy_legislation",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1729284870
     },
     {
       "source": {
@@ -380,7 +425,8 @@
         "elections_politics",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1729284266
     },
     {
       "source": {
@@ -400,7 +446,8 @@
         "security_intelligence",
         "crisis_emergency",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1729283901
     },
     {
       "source": {
@@ -414,7 +461,12 @@
       "urlToImage": "https://media.wltx.com/assets/VERIFY/images/ae82e6e4-10d4-4cca-816e-9901fb812c3d/20241018T195743/ae82e6e4-10d4-4cca-816e-9901fb812c3d_1140x641.jpg",
       "publishedAt": "2024-10-18T20:35:25Z",
       "content": "The Trump campaign chose not to submit a statement for the Oregon voters’ guide earlier this year, but Trump and Vance will still be on the general election ballot.\nIn October, the Oregon voters’ pamphlet started arriving in mailboxes ahead of the No... [3847 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1729283725
     },
     {
       "source": {
@@ -432,7 +484,8 @@
         "personal_family",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1729282577
     },
     {
       "source": {
@@ -452,7 +505,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1729282482
     }
   ]
 }

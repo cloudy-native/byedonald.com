@@ -19,7 +19,8 @@
         "legal_justice",
         "media_communications",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751028787
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "health_science",
         "economy_finance",
         "climate_policy"
-      ]
+      ],
+      "publishedAtTs": 1751051284
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "technology_regulation",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751032701
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "social_issues",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751045639
     },
     {
       "source": {
@@ -97,7 +101,8 @@
         "technology_regulation",
         "canada",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751049929
     },
     {
       "source": {
@@ -117,7 +122,8 @@
         "personal_business",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1751053541
     },
     {
       "source": {
@@ -137,7 +143,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751041755
     },
     {
       "source": {
@@ -151,7 +158,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2023/10/df66cfdccbbdde23357f27eb16349197.jpg",
       "publishedAt": "2025-06-27T17:30:33Z",
       "content": "Elon Musk may be out of the picture, but the Department of Government Efficiency is still around and being deployed to terrorize the public servants at agencies across the federal government. The lat… [+2652 chars]",
-      "tags": ["government_operations", "federal_agencies", "gun_policy"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "gun_policy"
+      ],
+      "publishedAtTs": 1751045433
     },
     {
       "source": {
@@ -165,7 +177,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/05/elon-musk-may-21-2025-1200x675.jpg",
       "publishedAt": "2025-06-27T12:30:22Z",
       "content": "Elon Musk has fired Omead Afshar, the head of Tesla’s sales and manufacturing operations in North America and Europe, multiple outlets reported Thursday. The apparent expulsion of the top exec comes … [+2650 chars]",
-      "tags": ["economy_finance", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1751027422
     },
     {
       "source": {
@@ -179,7 +195,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/01/Jeff-Bezos-and-Lauren-Sanchez-at-a-tech-conference-1-1200x675.jpg",
       "publishedAt": "2025-06-27T14:20:09Z",
       "content": "Its being billed as the wedding of the decade, a spectacle of wealth and power set against the romantic backdrop of Venice. The union of Amazon founder Jeff Bezos, 61, and former journalist Lauren Sá… [+3880 chars]",
-      "tags": ["personal_family", "media_communications", "health_science"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "health_science"
+      ],
+      "publishedAtTs": 1751034009
     },
     {
       "source": {
@@ -198,7 +219,8 @@
         "media_communications",
         "social_issues",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751058047
     },
     {
       "source": {
@@ -212,7 +234,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1746/live/b4ecc7c0-52ff-11f0-b4be-8f7caf53b80c.jpg",
       "publishedAt": "2025-06-27T02:45:13Z",
       "content": "Celebrities including Kim Kardashian, Bill Gates and Oprah Winfrey are arriving in Venice to attend the extravagant wedding of Amazon founder Jeff Bezos and Lauren Sanchez. \r\nUsher, Kylie Jenner and … [+164 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750992313
     },
     {
       "source": {
@@ -226,7 +253,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/03b6/live/cad4e2f0-536f-11f0-8485-7bd50fa63665.jpg",
       "publishedAt": "2025-06-27T20:44:28Z",
       "content": "Reality stars, actors, royals and a whole host of A-listers have travelled to Venice for the lavish wedding between Amazon founder Jeff Bezos and Lauren Sanchez.\r\nOprah Winfrey, Orlando Bloom, Kylie … [+410 chars]",
-      "tags": ["personal_family", "lifestyle", "regional_state"]
+      "tags": [
+        "personal_family",
+        "lifestyle",
+        "regional_state"
+      ],
+      "publishedAtTs": 1751057068
     },
     {
       "source": {
@@ -246,7 +278,8 @@
         "iran",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1751054374
     },
     {
       "source": {
@@ -260,7 +293,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a1a/live/85abad80-52e3-11f0-a2ff-17a82c2e8bc4.jpg",
       "publishedAt": "2025-06-27T10:15:17Z",
       "content": "Lyse DoucetChief international correspondent\r\nReporting from\r\nTehran, Iran\r\nWatch: BBC inside Iran state building in Tehran hit by Israeli missile strike\r\nIn the heart of the Iranian capital, the Boo… [+5909 chars]",
-      "tags": ["middle_east", "international_crisis", "security_incidents"]
+      "tags": [
+        "middle_east",
+        "international_crisis",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1751019317
     },
     {
       "source": {
@@ -280,7 +318,8 @@
         "elections_politics",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751043115
     },
     {
       "source": {
@@ -300,7 +339,8 @@
         "government_administration",
         "supreme_court",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1751033970
     },
     {
       "source": {
@@ -314,7 +354,12 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/canada_64.png",
       "publishedAt": "2025-06-27T19:40:00Z",
       "content": "Canada is proceeding with its digital services tax on technology companies such as Meta despite a Group of Seven agreement that resulted in removing the Section 899 \"revenge tax\" proposal from U.S. P… [+1870 chars]",
-      "tags": ["taxes", "trade", "economy_finance"]
+      "tags": [
+        "taxes",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751053200
     },
     {
       "source": {
@@ -333,7 +378,8 @@
         "immigration",
         "economy_finance",
         "small_business"
-      ]
+      ],
+      "publishedAtTs": 1751040060
     },
     {
       "source": {
@@ -353,7 +399,8 @@
         "taxes",
         "small_business",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751007602
     },
     {
       "source": {
@@ -367,7 +414,12 @@
       "urlToImage": "https://i.insider.com/685e4113f748d8c055f47b1e?width=1200&format=jpeg",
       "publishedAt": "2025-06-27T16:21:07Z",
       "content": "Christine Matthey, the owner of an art gallery in Venice.Pierfrancesco Celada for BI\r\n<ul><li>Christine Matthey lives in Venice for six months of the year.</li><li>She said the mood around George Clo… [+3153 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751041267
     },
     {
       "source": {
@@ -387,7 +439,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751039984
     },
     {
       "source": {
@@ -401,7 +454,12 @@
       "urlToImage": "https://i.insider.com/685eca453d5881a51c1c4005?width=1200&format=jpeg",
       "publishedAt": "2025-06-27T17:17:28Z",
       "content": "Women chat outside a branch of Rosa Salva in Venice on the morning of Jeff Bezos and Lauren Sanchez's wedding. Pierfrancesco Celada for BI\r\n<ul><li>Jeff Bezos and Lauren Sanchez are getting married i… [+3226 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751044648
     },
     {
       "source": {
@@ -421,7 +479,8 @@
         "health_science",
         "media_communications",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751013181
     },
     {
       "source": {
@@ -435,7 +494,10 @@
       "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/639be56b4739ef4ba38017afbf7391e9.jpg",
       "publishedAt": "2025-06-27T15:19:00Z",
       "content": "Less than 24 hours ago, we ran a story on the bonkers cast for the upcoming live-action Street Fighter movie. Its full of the weirdest motley crew of actors Ive seen in a big-budget film as of late, … [+2705 chars]",
-      "tags": ["media_communications"]
+      "tags": [
+        "media_communications"
+      ],
+      "publishedAtTs": 1751037540
     },
     {
       "source": {
@@ -455,7 +517,8 @@
         "immigration",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751064584
     },
     {
       "source": {
@@ -475,7 +538,8 @@
         "international_organizations",
         "crisis_emergency",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751040597
     },
     {
       "source": {
@@ -493,7 +557,8 @@
         "natural_disasters",
         "public_health_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1751049252
     },
     {
       "source": {
@@ -512,7 +577,8 @@
         "legal_justice",
         "supreme_court",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751052515
     },
     {
       "source": {
@@ -532,7 +598,8 @@
         "middle_east",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1751013300
     },
     {
       "source": {
@@ -552,7 +619,8 @@
         "religious_freedom",
         "education",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1751040949
     },
     {
       "source": {
@@ -572,7 +640,8 @@
         "science_policy",
         "health_science",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751017500
     },
     {
       "source": {
@@ -591,7 +660,8 @@
         "legal_justice",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751065945
     },
     {
       "source": {
@@ -611,7 +681,8 @@
         "executive_orders",
         "supreme_court",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751033965
     },
     {
       "source": {
@@ -625,7 +696,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c3676a07-585f-44b7-acce-7f221083be0f/donald-trump-7-gty-gmh-250627_1751039482727_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-27T16:02:07Z",
       "content": "President Donald Trump took a victory a lap on Friday after the Supreme Court limited nationwide injunctions issued by lower court judges against his executive order to effectively end birthright cit… [+293 chars]",
-      "tags": ["government_administration", "legal_justice", "immigration"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1751040127
     },
     {
       "source": {
@@ -639,7 +715,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/24025553-6493-46f6-ae4a-fb59399ad371/noem-05-gty-jt-250626_1750974735741_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-27T09:13:54Z",
       "content": "The Trump administration is looking to speed up its ability to fine those in the United States illegally -- up to $1,000 per day -- according to a rule set to be published Friday in the Federal Regis… [+1733 chars]",
-      "tags": ["immigration", "government_administration", "policy_legislation"]
+      "tags": [
+        "immigration",
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1751015634
     },
     {
       "source": {
@@ -653,7 +734,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4b60722b-2291-435a-a840-bd119f0cafa5/250627_GMAFL_TornadoOz_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T11:16:00Z",
       "content": "<ul><li>Supreme Court expected to rule on Trumps order on birthright citizenship\r\n</li><li>Nike warns Trump tariffs could cost nearly $1 billion\r\n</li><li>How a weaker US dollar could impact your int… [+4562 chars]",
-      "tags": ["natural_disasters", "regional_state", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751022960
     },
     {
       "source": {
@@ -667,7 +753,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/1712fe99-df57-4309-88d5-e48340b827ab/250627_abc_soc_bear_coyote_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-27T11:30:04Z",
       "content": "<ul><li>Supreme Court expected to rule on Trumps order on birthright citizenship\r\n</li><li>Nike warns Trump tariffs could cost nearly $1 billion\r\n</li><li>How a weaker US dollar could impact your int… [+4562 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1751023804
     },
     {
       "source": {
@@ -681,7 +768,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b391c454-97a8-43e6-9426-09d0672ca638/250626_wn_oquendo_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T00:51:03Z",
       "content": "<ul><li>Supreme Court expected to rule on Trumps order on birthright citizenship\r\n</li><li>Nike warns Trump tariffs could cost nearly $1 billion\r\n</li><li>How a weaker US dollar could impact your int… [+4562 chars]",
-      "tags": ["security_intelligence", "health_science", "crisis_emergency"]
+      "tags": [
+        "security_intelligence",
+        "health_science",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750985463
     },
     {
       "source": {
@@ -695,7 +787,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2ac6e8fe-d393-48a2-8ffc-65181d4c4b34/250627_VOD_LawnChairTx_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T11:27:16Z",
       "content": "<ul><li>Supreme Court expected to rule on Trumps order on birthright citizenship\r\n</li><li>Nike warns Trump tariffs could cost nearly $1 billion\r\n</li><li>How a weaker US dollar could impact your int… [+4584 chars]",
-      "tags": ["security_incidents", "texas", "crisis_emergency"]
+      "tags": [
+        "security_incidents",
+        "texas",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751023636
     },
     {
       "source": {
@@ -709,7 +806,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/135f9c15-ed6b-422c-adf2-226659bc6d21/250626_abc_social_truck1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-27T01:38:57Z",
       "content": "<ul><li>Supreme Court expected to rule on Trumps order on birthright citizenship\r\n</li><li>Nike warns Trump tariffs could cost nearly $1 billion\r\n</li><li>How a weaker US dollar could impact your int… [+4515 chars]",
-      "tags": ["regional_state", "crisis_emergency", "security_incidents"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1750988337
     },
     {
       "source": {
@@ -723,7 +825,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/eb4b879f-d81c-435e-88c6-87ff6cd0f8b6/250626_abc_social_bison_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-27T02:09:29Z",
       "content": "<ul><li>Strikes on Irans nuclear sites had 'devastating effect,' Hegseth said\r\n</li><li>Prosecutors give closing arguments in Sean Combs trial\r\n</li><li>Brad Pitt's Los Angeles home ransacked\r\n</li><… [+4383 chars]",
-      "tags": ["regional_state", "natural_disasters"]
+      "tags": [
+        "regional_state",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1750990169
     },
     {
       "source": {
@@ -737,7 +843,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/8ac7b60d-9710-4c5b-b988-d2bc64d508c0/250626_abc_social_storm_chaser_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-27T02:07:27Z",
       "content": "<ul><li>Strikes on Irans nuclear sites had 'devastating effect,' Hegseth said\r\n</li><li>Prosecutors give closing arguments in Sean Combs trial\r\n</li><li>Brad Pitt's Los Angeles home ransacked\r\n</li><… [+4383 chars]",
-      "tags": ["natural_disasters"]
+      "tags": [
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1750990047
     },
     {
       "source": {
@@ -751,7 +860,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e1a2c548-bf60-46cd-93a8-81287f5a9015/250626_abcnl_prime_Bezos_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T19:59:19Z",
       "content": "<ul><li>Trump says he's 'terminating' all trade discussions with Canada\r\n</li><li>Sen. Rand Paul on passing spending bill: 'Both parties are to blame for this'\r\n</li><li>California Gov. Newsom suing … [+4237 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1751054359
     },
     {
       "source": {
@@ -765,7 +879,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/eab7802d-337c-4ac9-aed3-0160c2935abc/250627_gma_champion_fireball2_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T17:28:48Z",
       "content": "<ul><li>Trump says he's 'terminating' all trade discussions with Canada\r\n</li><li>Sen. Rand Paul on passing spending bill: 'Both parties are to blame for this'\r\n</li><li>California Gov. Newsom suing … [+4237 chars]",
-      "tags": ["crisis_emergency", "regional_state", "security_intelligence"]
+      "tags": [
+        "crisis_emergency",
+        "regional_state",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1751045328
     },
     {
       "source": {
@@ -779,7 +898,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/eb709216-5fea-447e-82bc-7d3a9691d12f/250625_gma_digital_fernandaperez_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-27T21:47:00Z",
       "content": "<ul><li>Trump says he's 'terminating' all trade discussions with Canada\r\n</li><li>Sen. Rand Paul on passing spending bill: 'Both parties are to blame for this'\r\n</li><li>California Gov. Newsom suing … [+4237 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1751060820
     },
     {
       "source": {
@@ -793,7 +913,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/771f2128-62e7-44cf-8c19-23239ed66974/250627_gma_spencer_halloween4_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-27T15:52:28Z",
       "content": "<ul><li>Trump says he's 'terminating' all trade discussions with Canada\r\n</li><li>Sen. Rand Paul on passing spending bill: 'Both parties are to blame for this'\r\n</li><li>California Gov. Newsom suing … [+4237 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1751039548
     },
     {
       "source": {
@@ -807,7 +928,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e979866e-4474-438a-a5b7-3297520726b7/nyse-2-rt-gmh-250626_1750943014949_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-27T13:49:43Z",
       "content": "The S&amp;P 500 hit an all-time record high on Friday, extending breakneck gains achieved in recent weeks as investors shrugged off concerns about newly imposed tariffs and war in the Middle East.\r\nT… [+1749 chars]",
-      "tags": ["stock_market", "economy_finance", "trade"]
+      "tags": [
+        "stock_market",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1751032183
     },
     {
       "source": {
@@ -827,7 +953,8 @@
         "policy_legislation",
         "economy_finance",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751032807
     },
     {
       "source": {
@@ -841,7 +968,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-1200x675.jpg",
       "publishedAt": "2025-06-27T19:35:21Z",
       "content": "The cost of living is increasing, wages for workers are stagnant, and people are looking for a break. Silicon Valley is getting one instead. According to Bloomberg, a little-known tax benefit known a… [+2362 chars]",
-      "tags": ["economy_finance", "taxes", "small_business"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "small_business"
+      ],
+      "publishedAtTs": 1751052921
     },
     {
       "source": {
@@ -861,7 +993,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1751018400
     },
     {
       "source": {
@@ -881,7 +1014,8 @@
         "security_intelligence",
         "middle_east",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1751031600
     },
     {
       "source": {
@@ -895,7 +1029,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/PCL05BVYEjxFfUmbDkXa3_1BRjs=/0x43:2000x1085/1200x625/media/img/mt/2025/06/2025_06_27_teaparty_mpg/original.jpg",
       "publishedAt": "2025-06-27T22:11:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Si… [+10714 chars]",
-      "tags": ["policy_legislation", "economy_finance", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1751062260
     },
     {
       "source": {
@@ -915,7 +1054,8 @@
         "security_intelligence",
         "civil_rights",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751023800
     },
     {
       "source": {
@@ -929,7 +1069,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1506/live/94492360-5322-11f0-b3bd-9dae3167cb8e.jpg",
       "publishedAt": "2025-06-27T06:50:07Z",
       "content": "Japan condemned US President Donald Trump for comparing recent US strikes on Iran to the bombing of Hiroshima and Nagasaki that ended World War II.\r\n\"That hit ended the war,\" Trump told reporters on … [+2119 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751007007
     },
     {
       "source": {
@@ -949,7 +1094,8 @@
         "economy_finance",
         "environment",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750991827
     },
     {
       "source": {
@@ -963,7 +1109,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f9d1/live/f0d46a50-52e0-11f0-8485-7bd50fa63665.jpg",
       "publishedAt": "2025-06-27T10:48:12Z",
       "content": "Brandon Drenon\r\nWatch: Should judges be able to block Trump on birthright citizenship?\r\nThe Supreme Court is expected to decide one of the most consequential cases in modern US history on Friday - wh… [+6408 chars]",
-      "tags": ["legal_justice", "supreme_court", "immigration"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "immigration"
+      ],
+      "publishedAtTs": 1751021292
     },
     {
       "source": {
@@ -982,7 +1133,8 @@
         "terrorism",
         "security_intelligence",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1751002770
     },
     {
       "source": {
@@ -996,7 +1148,12 @@
       "urlToImage": "https://harpers.org/wp-content/uploads/2025/05/CUT_11x.jpg",
       "publishedAt": "2025-06-27T22:00:49Z",
       "content": "Listen to an audio version of this article.\r\nI want yall to walk to the sign that represents the kind of OCD you most identify with, announces the moderator, a young woman named Angie Bello who sits … [+46426 chars]",
-      "tags": ["health_science", "social_issues", "personal_family"]
+      "tags": [
+        "health_science",
+        "social_issues",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751061649
     },
     {
       "source": {
@@ -1016,7 +1173,8 @@
         "medical_research",
         "science_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751018400
     },
     {
       "source": {
@@ -1030,7 +1188,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dRCyVyOZBeomdJHfhDNGoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/3632c64dbe1fd7a46992c75a2a8a7755",
       "publishedAt": "2025-06-27T09:44:35Z",
       "content": "The White House failed to see the artistic value of a mysterious installation of a gold television erected in front of the Capitol that plays a video of Donald Trump dancing shoulder-to-shoulder with… [+3708 chars]",
-      "tags": ["media_communications", "personal_family", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1751017475
     },
     {
       "source": {
@@ -1049,7 +1212,8 @@
         "legal_justice",
         "executive_orders",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1751033244
     },
     {
       "source": {
@@ -1063,7 +1227,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/03938c429b20091f0af326dad123d5f2",
       "publishedAt": "2025-06-27T10:14:25Z",
       "content": "By Andrew Chung\r\nWASHINGTON (Reuters) -The U.S. Supreme Court dealt a blow on Friday to the power of federal judges by restricting their ability to grant broad legal relief in cases as the justices a… [+6095 chars]",
-      "tags": ["legal_justice", "supreme_court", "immigration"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "immigration"
+      ],
+      "publishedAtTs": 1751019265
     },
     {
       "source": {
@@ -1083,7 +1252,8 @@
         "security_intelligence",
         "crisis_emergency",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1751014970
     },
     {
       "source": {
@@ -1097,7 +1267,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/61670-127541-60069-123276-cook-trump-xl-xl.jpg",
       "publishedAt": "2025-06-27T13:27:39Z",
       "content": "Trump has signed a trade deal with China that will see it withdraw the rare minerals ban that affects iPhones, though it still leaves US consumers paying far more for imported goods.\r\nAmong the respo… [+3712 chars]",
-      "tags": ["trade", "economy_finance", "policy_legislation"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1751030859
     },
     {
       "source": {
@@ -1117,7 +1292,8 @@
         "small_business",
         "media_communications",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751019300
     },
     {
       "source": {
@@ -1131,7 +1307,12 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/c395cd8c9b9c3fe3b43e415ff1240299ab8f2af0/hub/2025/06/24/2248042f-449e-41f1-a7c3-bf438c18acb7/alltrails-promo-image-2.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-06-27T12:20:00Z",
       "content": "The outdoor industry has exploded in popularity within the past decade, contributing over $1.2 trillion to the US economy in 2023. More people than ever are engaging in outdoor recreational activitie… [+19111 chars]",
-      "tags": ["personal_family", "health_science", "economy_finance"]
+      "tags": [
+        "personal_family",
+        "health_science",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751026800
     },
     {
       "source": {
@@ -1151,7 +1332,8 @@
         "media_communications",
         "personal_business",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751020449
     },
     {
       "source": {
@@ -1171,7 +1353,8 @@
         "elections_politics",
         "health_science",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751036568
     },
     {
       "source": {
@@ -1185,7 +1368,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/06/Untitled-design-5-1.jpg",
       "publishedAt": "2025-06-27T09:59:28Z",
       "content": "After weeks of speculation, it’s now a basic fact that Katy Perry and Orlando Bloom have broken up. After the 11-minute astronaut‘s flop album, flop tour, and flop space mission, the actor reportedly… [+2833 chars]",
-      "tags": ["personal_family", "media_communications"]
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751018368
     },
     {
       "source": {
@@ -1199,7 +1386,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2024/11/Untitled-design-2024-11-15T002729.823.jpg",
       "publishedAt": "2025-06-27T12:51:37Z",
       "content": "On Friday, the Supreme Court upheld the Affordable Care Acts preventive care task force, a body that recommends which preventive services insurance has to cover with no out-of-pocket costs. But it al… [+5928 chars]",
-      "tags": ["legal_justice", "health_science", "policy_legislation"]
+      "tags": [
+        "legal_justice",
+        "health_science",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1751028697
     },
     {
       "source": {
@@ -1213,7 +1405,12 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/reasons.jpg",
       "publishedAt": "2025-06-27T10:30:08Z",
       "content": "The Business of Betting on Catastrophe: World Bank pandemic bonds paid out only after death tolls passed a threshold. Theyre part of a booming market where investors turn calamity into capital. (MIT … [+2993 chars]",
-      "tags": ["economy_finance", "health_science", "crisis_emergency"]
+      "tags": [
+        "economy_finance",
+        "health_science",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751020208
     },
     {
       "source": {
@@ -1227,7 +1424,12 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/8/3/5/1323835.jpg",
       "publishedAt": "2025-06-27T12:00:00Z",
       "content": "Mary Richards apartment, as depicted on The Mary Tyler Moore Show, was every bit an icon of the 70s as she was. With its sunken living room, massive shag rug and pops of mustard that are, lets face i… [+2614 chars]",
-      "tags": ["personal_family", "media_communications", "social_issues"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751025600
     },
     {
       "source": {
@@ -1247,7 +1449,8 @@
         "security_intelligence",
         "media_communications",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751027828
     },
     {
       "source": {
@@ -1261,7 +1464,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-06-27T12:22:00Z",
       "content": "from the fake-plastic-trees dept\r\nLast week we noted how the Trump administration had cooked up a half-assed wireless phone company. Even calling it a phone company is generous: It’s basically a lice… [+3320 chars]",
-      "tags": ["personal_business", "media_communications", "economy_finance"]
+      "tags": [
+        "personal_business",
+        "media_communications",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751026920
     },
     {
       "source": {
@@ -1281,7 +1489,8 @@
         "legal_justice",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751053043
     },
     {
       "source": {
@@ -1301,7 +1510,8 @@
         "policy_legislation",
         "elections_politics",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751042461
     },
     {
       "source": {
@@ -1321,7 +1531,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750992645
     },
     {
       "source": {
@@ -1335,7 +1546,11 @@
       "urlToImage": "https://www.slashfilm.com/img/gallery/james-camerons-biggest-issue-with-christopher-nolans-oppenheimer/l-intro-1751065229.jpg",
       "publishedAt": "2025-06-27T23:05:13Z",
       "content": "We may receive a commission on purchases made from links.\r\nIt has been almost 30 years since James Cameron made a feature film that wasn't set in the world of Pandora, which may lead you to believe t… [+2542 chars]",
-      "tags": ["media_communications", "health_science"]
+      "tags": [
+        "media_communications",
+        "health_science"
+      ],
+      "publishedAtTs": 1751065513
     },
     {
       "source": {
@@ -1355,7 +1570,8 @@
         "crisis_emergency",
         "middle_east",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1751055900
     },
     {
       "source": {
@@ -1369,7 +1585,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2203486171.jpg?quality=90&strip=all&crop=0%2C10.744824189382%2C100%2C78.510351621237&w=1200",
       "publishedAt": "2025-06-27T15:05:24Z",
       "content": "Justices Brett Kavanaugh and Amy Coney Barrett and former Associate Justice Anthony Kennedy talk with President Donald Trump as he arrives to address to a joint session of Congress on March 4, 2025. … [+4551 chars]",
-      "tags": ["legal_justice", "supreme_court", "immigration"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "immigration"
+      ],
+      "publishedAtTs": 1751036724
     },
     {
       "source": {
@@ -1383,7 +1604,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2209976804.jpg?quality=90&strip=all&crop=0%2C11.314295701335%2C100%2C77.37140859733&w=1200",
       "publishedAt": "2025-06-27T22:42:54Z",
       "content": "Sen. Bernie Sanders (I-VT) and Rep. Alexandria Ocasio-Cortez (D-NY) at a stop on their Fighting Oligarchy tour on April 12 in Los Angeles, California. | Mario Tama/Getty Images\r\n\n\nThe signs have been… [+7721 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751064174
     },
     {
       "source": {
@@ -1401,7 +1627,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751035281
     },
     {
       "source": {
@@ -1421,7 +1648,8 @@
         "personal_family",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751064965
     },
     {
       "source": {
@@ -1441,7 +1669,8 @@
         "personal_legal",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1751052640
     },
     {
       "source": {
@@ -1461,7 +1690,8 @@
         "government_administration",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1751055300
     },
     {
       "source": {
@@ -1481,7 +1711,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1751053677
     },
     {
       "source": {
@@ -1495,7 +1726,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25178691560690-1751060306.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-27T22:55:40Z",
       "content": "The president of the University of Virginia has resigned his position under pressure from the United States Department of Justice, which pushed for his departure amid scrutiny of the schools diversit… [+5671 chars]",
-      "tags": ["government_administration", "civil_rights"]
+      "tags": [
+        "government_administration",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1751064940
     },
     {
       "source": {
@@ -1515,7 +1750,8 @@
         "legal_justice",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751042433
     },
     {
       "source": {
@@ -1529,7 +1765,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
       "publishedAt": "2025-06-27T14:14:29Z",
       "content": "The United States Supreme Court has ruled that lower courts likely overstepped their authority in issuing nationwide injunctions against presidential actions, limiting the ability of the judicial bra… [+2335 chars]",
-      "tags": ["legal_justice", "government_administration", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1751033669
     },
     {
       "source": {
@@ -1543,7 +1784,14 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-12T162741Z_1317934173_RC2Z0FA18FPR_RTRMADP_3_UKRAINE-CRISIS-SUMY-1751037529.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-27T15:49:50Z",
       "content": "Ukraines European allies pledged increased levels of military aid to Ukraine this year, making up for a United States aid freeze, as Russian President Vladimir Putin reaffirmed his ambition to absorb… [+10308 chars]",
-      "tags": ["foreign_policy", "europe", "russia", "ukraine", "military"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "russia",
+        "ukraine",
+        "military"
+      ],
+      "publishedAtTs": 1751039390
     },
     {
       "source": {
@@ -1563,7 +1811,8 @@
         "california",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1751061492
     },
     {
       "source": {
@@ -1583,7 +1832,8 @@
         "policy_legislation",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751043640
     },
     {
       "source": {
@@ -1597,7 +1847,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP25177741557235-1751014593.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-27T10:12:04Z",
       "content": "President Donald Trump says the United States and China have signed a trade agreement amid efforts to end a trade war between the worlds biggest economies.\r\nWe just signed with China the other day, T… [+2824 chars]",
-      "tags": ["economy_finance", "trade", "china"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "china"
+      ],
+      "publishedAtTs": 1751019124
     }
   ]
 }

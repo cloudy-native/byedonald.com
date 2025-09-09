@@ -14,7 +14,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2345043/judge-tanya-chutkan-travel-plans.jpg",
       "publishedAt": "2024-02-05T23:55:51Z",
       "content": "Days after U.S. District Judge Tanya Chutkan halted former President Donald Trump's federal election subversion case, she suggested that the trial could drag into the heart of summer, reported Politico.\nThe delay is viewed as a victory for Trump, who... [3333 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1707177351
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/florida-gov-ron-desantis-debate-strategy-memo-from-the-summer-was-leaked-by-a-super-pac-supporting-former-rival-sen-tim-scott.jpg?id=31176599&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
       "publishedAt": "2024-02-05T23:54:49Z",
       "content": "When a document surfaced over late summer foreshadowing Florida Gov. Ron DeSantis' GOP primary debate strategy in Milwaukee, Wisconsin, its origin had been anonymous.\nThe document told DeSantis “to take a sledgehammer” to rival Vivek Ramaswamy and ma... [1493 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1707177289
     },
     {
       "source": {
@@ -42,7 +52,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107279426-1690829439968-gettyimages-1566959782-AFP_33QF7CP.jpeg?v=1690829465&w=1920&h=1080",
       "publishedAt": "2024-02-05T23:54:27Z",
       "content": "Trucks and trailers sit in a Yellow Corp. facility lot, closed after the freight trucking company ceased all operations, in Las Vegas, Nevada, on July 31, 2023.\nThe bankrupt trucking company Yellow has fully repaid a controversial $700 million Covid ... [1643 chars]",
-      "tags": ["economy_finance", "small_business", "health_science"]
+      "tags": [
+        "economy_finance",
+        "small_business",
+        "health_science"
+      ],
+      "publishedAtTs": 1707177267
     },
     {
       "source": {
@@ -56,7 +71,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2345062/donald-trump-presumptive-nominee.jpg",
       "publishedAt": "2024-02-05T23:43:42Z",
       "content": "Former President Donald Trump's latest filing to the Supreme Court contains a bold statement about his status in the 2024 presidential nomination.\nTrump is currently seeking the Republican Party's nomination for president in his effort to secure a se... [2918 chars]",
-      "tags": ["legal_justice", "supreme_court", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1707176622
     },
     {
       "source": {
@@ -70,7 +90,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240128-trump-caucus-las-vegas-wm-600p-b6265a.jpg",
       "publishedAt": "2024-02-05T23:35:20Z",
       "content": "Nevada is typically a major, hard-fought stop on the path to the Republican presidential nomination — except this year, the fight is off.\nNevada Republicans are holding caucuses on Thursday, which will be used to allocate delegates to the national co... [6172 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1707176120
     },
     {
       "source": {
@@ -88,7 +113,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707175895
     },
     {
       "source": {
@@ -102,7 +128,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240205-james-OKeefe-lawsuit-beg-1648p-96a5f5.jpg",
       "publishedAt": "2024-02-05T23:23:14Z",
       "content": "Conservative provocateur James O'Keefe and his former organization Project Veritas have settled a lawsuit filed by a Pennsylvania postmaster after the group spread a Postal Service worker's false claims of voter fraud during the 2020 presidential ele... [3736 chars]",
-      "tags": ["legal_justice", "civil_litigation", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1707175394
     },
     {
       "source": {
@@ -116,7 +147,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/michael-cohen.jpg?id=51375602&width=1200&height=600&coordinates=0%2C0%2C0%2C50",
       "publishedAt": "2024-02-05T23:15:02Z",
       "content": "Former Donald Trump lawyer Michael Cohen was spotted walking into the offices of Manhattan District Attorney Alvin Bragg late last week, a source present there — who requested their name be withheld to speak freely about the scene — told Raw Story.\nC... [2535 chars]",
-      "tags": ["legal_justice", "criminal_cases", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "regional_state"
+      ],
+      "publishedAtTs": 1707174902
     },
     {
       "source": {
@@ -130,7 +166,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/haley-odds_manchester_012324_AP.jpg?w=1280",
       "publishedAt": "2024-02-05T23:13:07Z",
       "content": "Republican presidential candidate Nikki Haley’s top competition in Nevada’s state-run primary is a “none of these candidates” ballot option.\nAfter tension over the presidential nominating system in the state, Nevada will hold both a primary and Repub... [2414 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1707174787
     },
     {
       "source": {
@@ -144,7 +185,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/the-j6-committee-s-trump-criminal-referrals-will-be-impossible-to-ignore-by-jack-smith-legal-expert.jpg?id=32376957&width=1200&height=600&coordinates=0%2C25%2C0%2C26",
       "publishedAt": "2024-02-05T22:48:56Z",
       "content": "Special counsel Jack Smith is going further than he has before in accusing former President Donald Trump and his attorneys of being \"conspiracy theorists\" in their arguments against the Mar-a-Lago classified documents case, Politico reporter Betsy Wo... [2130 chars]",
-      "tags": ["legal_justice", "criminal_cases", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1707173336
     },
     {
       "source": {
@@ -158,7 +204,12 @@
       "urlToImage": "https://static.politico.com/be/7c/eea449e645d68d1ce2adba045aaf/senate-judiciary-committee-77322.jpg",
       "publishedAt": "2024-02-05T22:45:13Z",
       "content": "And election years only get harder. Typically reliable judicial votes like Sens. Jon Tester (D-Mont.) and Sherrod Brown (D-Ohio) will be unwilling to make any risky moves, as the two defend their Trump-friendly turf. Plus, any cooperation from Republ... [6497 chars]",
-      "tags": ["legal_justice", "federal_courts", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "federal_courts",
+        "government_administration"
+      ],
+      "publishedAtTs": 1707173113
     },
     {
       "source": {
@@ -176,7 +227,8 @@
         "elections_politics",
         "2028_presidential",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1707172561
     },
     {
       "source": {
@@ -190,7 +242,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2452%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/b1c6ce1c605c1eebf033bc6b01aa6fc8322c44fd",
       "publishedAt": "2024-02-05T22:35:14Z",
       "content": "While Ms Haley answered the question directly, Mr Trump has not spoken about the sale agreed by President Joe Biden, Anthony Albanese and UK Prime Minister Rishi Sunak, despite repeated requests to his media team for a view on the most important stra... [3216 chars]",
-      "tags": ["foreign_policy", "china", "asia_pacific"]
+      "tags": [
+        "foreign_policy",
+        "china",
+        "asia_pacific"
+      ],
+      "publishedAtTs": 1707172514
     },
     {
       "source": {
@@ -208,7 +265,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707172224
     },
     {
       "source": {
@@ -222,7 +280,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/02/Trump-World-Trump_012224_Reuters_Shannon-Stapleton.jpg?w=1280",
       "publishedAt": "2024-02-05T22:28:39Z",
       "content": "Former President Trump on Monday railed against the bipartisan border agreement and took aim at Sen. James Lankford (R-Okla.), a key negotiator, for his role in brokering the deal.\nIn an interview on “The Dan Bongino Show,” Trump denied endorsing Lan... [3305 chars]",
-      "tags": ["policy_legislation", "immigration", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1707172119
     },
     {
       "source": {
@@ -236,7 +299,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/02/AP23258402748161.jpg?w=1024&h=606",
       "publishedAt": "2024-02-05T22:18:39Z",
       "content": "The federal judge presiding over former President Trump’s stalled election interference case suggested a summer trial is still possible in the blockbuster case.\nJudge Tanya Chutkan told lawyers on a separate case that she plans to be out of the count... [1153 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1707171519
     },
     {
       "source": {
@@ -254,7 +322,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707171452
     },
     {
       "source": {
@@ -272,7 +341,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707170595
     },
     {
       "source": {
@@ -286,7 +356,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/76013982.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-02-05T21:59:02Z",
       "content": "DC federal Judge Tanya Chutkan dropped a subtle clue Monday that former President Donald Trump’s soon-to-be-rescheduled trial in the 2020 election subversion case could take place after he becomes the Republican Party’s 2024 nominee.\nDuring a confere... [2524 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1707170342
     },
     {
       "source": {
@@ -304,7 +379,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707169599
     },
     {
       "source": {
@@ -318,7 +394,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2345008/donald-trump-jack-smith-doj.jpg",
       "publishedAt": "2024-02-05T21:19:08Z",
       "content": "Judge Aileen Cannon is scheduled for a hearing with Donald Trump's lawyers on February 12, according to new court documents.\nCannon, a federal judge in Florida, is presiding over the former president's trial concerning his alleged mishandling of clas... [3332 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1707167948
     },
     {
       "source": {
@@ -332,7 +413,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51385998&width=1200&height=600&coordinates=0%2C898%2C0%2C18",
       "publishedAt": "2024-02-05T20:47:14Z",
       "content": "Cohen's presence at Bragg's office comes amid a swirl of legal action among Donald Trump's four separate criminal trials. And it further fuels speculation that the 34-count Stormy Daniels hush money case, in which Bragg alleges Trump falsified busine... [2286 chars]",
-      "tags": ["health_science", "space_policy", "government_administration"]
+      "tags": [
+        "health_science",
+        "space_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1707166034
     },
     {
       "source": {
@@ -346,7 +432,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/haley_mueller_012724_AP_CharlesKrupa.jpg?w=1280",
       "publishedAt": "2024-02-05T20:46:45Z",
       "content": "Nikki Haley on Monday criticized former President Trump’s praise of Chinese President Xi Jinping, calling it abnormal.\n“Praising dictators is not normal. Make America normal again,” Haley, Trump’s last remaining rival for the GOP presidential nominat... [2625 chars]",
-      "tags": ["elections_politics", "2028_presidential", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1707166005
     },
     {
       "source": {
@@ -364,7 +455,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1707165469
     }
   ]
 }

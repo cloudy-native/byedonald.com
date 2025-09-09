@@ -19,7 +19,8 @@
         "security_intelligence",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1678138558
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://media.nbcboston.com/2023/03/HICKS-TRUMP.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2023-03-06T21:20:52Z",
       "content": "Donald Trump’s former spokesperson Hope Hicks met Monday with Manhattan prosecutors who are investigating hush-money payments made to women on the ex-president’s behalf — the latest member of the Republican's inner circle to be questioned in the rene... [4547 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678137652
     },
     {
       "source": {
@@ -47,7 +53,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/7dbef38c4ee34fc18dfe5f2afc24c3a1.jpg?w=1280",
       "publishedAt": "2023-03-06T21:06:06Z",
       "content": "Former Trump campaign chairman and advisor Paul Manafort has agreed to pay $3.15 million to settle a civil case with the Justice Department over foreign bank accounts he hadn’t disclosed on his tax forms, court records show.\nThe settlement was approv... [937 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678136766
     },
     {
       "source": {
@@ -61,7 +72,12 @@
       "urlToImage": "https://images.wsj.net/im-736835/social",
       "publishedAt": "2023-03-06T17:55:00Z",
       "content": "The dry language of Florida’s Constitution offers only a hint of the consequential political moment the next two months represent for the Sunshine State, the Republican Party and the nation.\nArticle III, Section 3 provides that the state Legislature ... [319 chars]",
-      "tags": ["elections_politics", "florida", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1678125300
     },
     {
       "source": {
@@ -80,7 +96,8 @@
         "media_communications",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1678122377
     },
     {
       "source": {
@@ -94,7 +111,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000007777166.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-03-06T16:45:31Z",
       "content": "A network of bots have been busily singing the praises of former President Donald Trump while targeting his political rivals Nikki Haley and Florida Gov. Ron DeSantis — as well as trolling critics like Senate Minority Leader Mitch McConnell, accordin... [3504 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1678121131
     },
     {
       "source": {
@@ -108,7 +130,12 @@
       "urlToImage": "https://s.hdnux.com/photos/01/31/62/40/23537697/3/rawImage.jpg",
       "publishedAt": "2023-03-06T16:08:00Z",
       "content": "This is a carousel. Use Next and Previous buttons to navigate\nDonald Trump hates losing so much that he has suggested he will mount a third-party campaign if he doesn't win the Republican presidential nomination.\nBut he can't win that way either, tha... [4596 chars]",
-      "tags": ["elections_politics", "legal_justice", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1678118880
     },
     {
       "source": {
@@ -127,7 +154,8 @@
         "elections_politics",
         "social_issues",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1678114920
     },
     {
       "source": {
@@ -141,7 +169,12 @@
       "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cce40dd7ea4037e3b744c04c0e3ced00.jpg",
       "publishedAt": "2023-03-06T14:50:48Z",
       "content": "Microsoft secretly rolled out a new feature into its Bing AI preview that lets users emulate certain famous people. It does a, let’s just say, “interesting” job at emulating some celebrities’ speech patterns. We also took a look at what it’s allowed ... [3608 chars]",
-      "tags": ["media_communications", "social_issues", "technology_regulation"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1678114248
     },
     {
       "source": {
@@ -160,7 +193,8 @@
         "elections_politics",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1678113022
     },
     {
       "source": {
@@ -174,7 +208,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230306-paul-manafort-mb-1243-33a638.jpg",
       "publishedAt": "2023-03-06T14:29:41Z",
       "content": "Paul Manafort, former chairman of Donald Trump’s 2016 presidential campaign, agreed to pay $3.15 million to settle a civil case filed by the Justice Department last year for his allegedly \"willful failure to timely report his financial interest in fo... [2078 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1678112981
     },
     {
       "source": {
@@ -188,7 +227,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2204627/trump-ralph-norman.jpg",
       "publishedAt": "2023-03-06T13:43:10Z",
       "content": "South Carolina Republican Rep. Ralph Norman said that Donald Trump was \"benevolent\" when he called the former president to say he would be endorsing Nikki Haley for the GOP 2024 primary.\nSpeaking to the One America News Network, Norman described why ... [2487 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_family"
+      ],
+      "publishedAtTs": 1678110190
     },
     {
       "source": {
@@ -202,7 +246,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/Buttigieg_022323_Getty_Michael-Swensen.jpg?w=1280",
       "publishedAt": "2023-03-06T13:27:18Z",
       "content": "Transportation Secretary Pete Buttigieg on Sunday hit back against critics who argue that he only visited the site of a toxic train derailment in East Palestine, Ohio, because former President Trump had visited days beforehand.\n“That’s bull–,” Buttig... [1411 chars]",
-      "tags": ["government_administration", "media_communications"]
+      "tags": [
+        "government_administration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678109238
     },
     {
       "source": {
@@ -216,7 +264,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/trumpdonald_030423gn21_w.jpg?w=1280",
       "publishedAt": "2023-03-06T13:08:20Z",
       "content": "Former President Trump on Monday blasted Fox Corp. chairman Rupert Murdoch in an early morning post on his Truth Social account, asking how the conservative media mogul can deny Trump’s continued false claims of election fraud.\n“How does Rupert Murdo... [1730 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1678108100
     },
     {
       "source": {
@@ -230,7 +283,12 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/2ARjq9McXN80OF9LynFMtGSywr4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/4MT5NU4CZDALTP35CQZESPZ3CM.jpg",
       "publishedAt": "2023-03-06T12:41:07Z",
       "content": "WASHINGTON — Over the past 11 months, someone created thousands of fake, automated Twitter accounts — perhaps hundreds of thousands of them — to offer a stream of praise for Donald Trump.\nBesides posting adoring words about the former president, the ... [6435 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1678106467
     },
     {
       "source": {
@@ -244,7 +302,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_independent_577/ba287abf2e7ba4061ed489fc4ddd5224",
       "publishedAt": "2023-03-06T11:49:38Z",
       "content": "Donald Trump is facing mockery over the “half full” crowd which showed up to hear him speak at the annual Conservative Political Action Conference (CPAC) at the weekend.\nChris Christie, the former New Jersey governor and onetime close ally of Mr Trum... [4829 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1678103378
     },
     {
       "source": {
@@ -258,7 +321,10 @@
       "urlToImage": "https://d.newsweek.com/en/full/2204555/kellyanne-conway-george-conways-daughter-speaks-out.jpg",
       "publishedAt": "2023-03-06T11:47:06Z",
       "content": "Kellyanne Conway's daughter, Claudia Conway, has lashed out at other social media users amid the news that her parents are set to divorce.\nKellyanne Conway, 56, and her husband George Conway, 59, married in 2001 and have four children. They are repor... [6304 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1678103226
     },
     {
       "source": {
@@ -272,7 +338,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2204479/trump-booed-cpac.jpg",
       "publishedAt": "2023-03-06T11:01:19Z",
       "content": "Donald Trump headlined the Conservative Political Action Conference in Maryland as the former president continues his latest bid for the White House.\nThe former president closed the three-day CPAC event with a speech at the Gaylord National Resort & ... [3854 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1678100479
     },
     {
       "source": {
@@ -286,7 +356,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/e9239535e0fa7b31763e2859fa6d7d67f2ff6923/0_174_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ad1147c3b8bec6ad49087d75ca6c1c8",
       "publishedAt": "2023-03-06T11:00:25Z",
       "content": "In the exhibit hall, vendors displayed various styles of hats declaring “Trump won” and attendees referred to former president Donald Trump as the rightful winner of the 2020 election.\nBut on the event stage, most prominent Republican lawmakers at th... [4567 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1678100425
     },
     {
       "source": {
@@ -300,7 +375,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/03/06/multimedia/06winter4a-pcgm/06winter4a-pcgm-facebookJumbo.jpg",
       "publishedAt": "2023-03-06T10:00:26Z",
       "content": "The Conservative Political Action Conference is a festival disguised as a political meeting, a sales convention doubling as a revival, an annual celebration of a particular kind of conservatism and its red hat-wearing, pin-collecting enthusiasts. It’... [590 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1678096826
     },
     {
       "source": {
@@ -319,7 +399,8 @@
         "legal_justice",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1678095000
     },
     {
       "source": {
@@ -333,7 +414,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/03/23/4c879d3a-59eb-4394-9870-0d934814f317/thumbnail/1200x630/af64096241243f38a6440564f5c96625/Paul-Manafort.jpg",
       "publishedAt": "2023-03-06T09:26:00Z",
       "content": "Paul Manafort, the former chairman of Donald Trump's 2016 presidential campaign, has agreed to pay $3.15 million to settle a civil case filed by the Justice Department over undeclared foreign bank accounts.\nWhen the civil case was filed in April 2022... [1950 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1678094760
     },
     {
       "source": {
@@ -347,7 +433,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2204412/trump-invite-club-growth.jpg",
       "publishedAt": "2023-03-06T08:57:48Z",
       "content": "Former President Donald Trump has hit out at the Club for Growth after the influential conservative club failed to invite him to their recent donor retreat in Florida.\nThe anti-tax organization held a three-day event from March 2 to March 4 featuring... [3037 chars]",
-      "tags": ["personal_family", "media_communications"]
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678093068
     }
   ]
 }

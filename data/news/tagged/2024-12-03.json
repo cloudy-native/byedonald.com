@@ -20,7 +20,8 @@
         "health_science",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733270312
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1733270287
     },
     {
       "source": {
@@ -52,7 +54,11 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2024/03/Real-Time-with-Bill-Maher.png?w=1024",
       "publishedAt": "2024-12-03T23:57:50Z",
       "content": "Bill Maher is considering throwing in the towel.\nThe comedian revealed that he is considering quitting Real Time with Bill Maher, his HBO show that has been on the air since 2003.\nSpeaking on his Club Random podcast alongside guest Jane Fonda, Maher ... [1289 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1733270270
     },
     {
       "source": {
@@ -72,7 +78,8 @@
         "government_administration",
         "elections_politics",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1733270131
     },
     {
       "source": {
@@ -86,7 +93,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/94695608.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-03T23:50:21Z",
       "content": "Two-time Academy Award winner Sean Penn slammed the Oscars while speaking — and chain-smoking — at a press conference during the Marrakech Film Festival.\n“The Academy have exercised really extraordinary cowardice when it comes to being part of the bi... [4340 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1733269821
     },
     {
       "source": {
@@ -104,7 +116,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1733269754
     },
     {
       "source": {
@@ -122,7 +135,8 @@
         "government_administration",
         "security_intelligence",
         "law_enforcement"
-      ]
+      ],
+      "publishedAtTs": 1733269731
     },
     {
       "source": {
@@ -142,7 +156,8 @@
         "canada",
         "government_administration",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1733269634
     },
     {
       "source": {
@@ -161,7 +176,8 @@
         "policy_legislation",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733269601
     },
     {
       "source": {
@@ -175,7 +191,12 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/15620851_trump-transition-img.jpg?w=1600",
       "publishedAt": "2024-12-03T23:41:00Z",
       "content": "Chad Chronister, Donald Trump's pick to run the DEA, withdraws name from consideration\nChad Chronister, Donald Trump's pick to run the Drug Enforcement Administration, said Tuesday he was withdrawing his name from consideration, becoming the second p... [3900 chars]",
-      "tags": ["government_administration", "personnel", "doj_actions"]
+      "tags": [
+        "government_administration",
+        "personnel",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1733269260
     }
   ]
 }

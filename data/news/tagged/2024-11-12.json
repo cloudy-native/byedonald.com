@@ -18,7 +18,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731454979
     },
     {
       "source": {
@@ -36,7 +37,8 @@
         "government_administration",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731454646
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "elections_politics",
         "personal_family",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1731454205
     },
     {
       "source": {
@@ -74,7 +77,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731453967
     },
     {
       "source": {
@@ -88,7 +92,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1259029207-restricted.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-11-12T23:20:40Z",
       "content": "CNN —\nFormer Arkansas Gov. Mike Huckabee, who President-elect Donald Trump announced Tuesday was his pick to serve as US ambassador to Israel, previously argued that there was “no such thing as a Palestinian.”\nHuckabee, who has been a strong defender... [1848 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel"
+      ],
+      "publishedAtTs": 1731453640
     },
     {
       "source": {
@@ -107,7 +116,8 @@
         "personal_family",
         "social_issues",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1731453433
     },
     {
       "source": {
@@ -121,7 +131,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/republican-presidential-nominee-former-president-92467387.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-11-12T23:15:37Z",
       "content": "President-elect Donald Trump named William “Bill” McGinley to serve as his White House counsel Tuesday, filling a critical role inside the West Wing.\nMcGinley spent two-and-a-half years as White House cabinet secretary during Trump’s first term and h... [2099 chars]",
-      "tags": ["personnel", "cabinet", "government_operations"]
+      "tags": [
+        "personnel",
+        "cabinet",
+        "government_operations"
+      ],
+      "publishedAtTs": 1731453337
     },
     {
       "source": {
@@ -140,7 +155,8 @@
         "security_intelligence",
         "military",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1731453300
     },
     {
       "source": {
@@ -158,7 +174,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1731453300
     },
     {
       "source": {
@@ -176,7 +193,8 @@
         "legal_justice",
         "congressional_investigations",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731453180
     },
     {
       "source": {
@@ -190,7 +208,12 @@
       "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2024/11/GettyImages-2176994757-e1731450996594.jpeg?fit=3386%2C1913",
       "publishedAt": "2024-11-12T23:12:14Z",
       "content": "The 2024 U.S. election featured a handful of notable celebrity endorsements. From Vice President Kamala Harris‘ campaign to Donald Trump‘s, several public figures proudly voiced their support for the respective candidates. A majority of Hollywood end... [3035 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1731453134
     },
     {
       "source": {
@@ -208,7 +231,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731453050
     },
     {
       "source": {
@@ -228,7 +252,8 @@
         "2028_presidential",
         "elections_politics",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1731452952
     },
     {
       "source": {
@@ -242,7 +267,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/AP24301759663543-e1731452867431.jpg?w=1280",
       "publishedAt": "2024-11-12T23:08:03Z",
       "content": "President-elect Trump said Tuesday that he picked real estate executive Steven Witkoff to be special envoy to the Middle East in his next administration.\n“Steve is a Highly Respected Leader in Business and Philanthropy, who has made every project and... [1104 chars]",
-      "tags": ["foreign_policy", "middle_east", "personal_business"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "personal_business"
+      ],
+      "publishedAtTs": 1731452883
     },
     {
       "source": {
@@ -256,7 +286,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/AMANAA.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-11-12T23:08:00Z",
       "content": "Judge Juan Merchan and Manhattan DA Alvin Bragg on Tuesday kicked the can one week on the so-called “Trump hush money” case; their next step should be to void the whole thing.\nIn a better world, they’d would apologize for ever entertaining it, admit ... [1491 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1731452880
     },
     {
       "source": {
@@ -276,7 +311,8 @@
         "security_intelligence",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1731452742
     },
     {
       "source": {
@@ -294,7 +330,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1731452640
     },
     {
       "source": {
@@ -312,7 +349,8 @@
         "government_administration",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1731452426
     },
     {
       "source": {
@@ -326,7 +364,12 @@
       "urlToImage": "https://www.freightwaves.com/uploads/2024/11/12/EIA-Fuel-Template-30.jpg",
       "publishedAt": "2024-11-12T23:00:08Z",
       "content": "Following a week of up-and-down futures prices – but with the “up” not lasting particularly long – the benchmark diesel price used for most fuel surcharges fell this week for the third time in four weeks to levels not seen in more than three years.\nT... [5862 chars]",
-      "tags": ["energy", "economy_finance", "stock_market"]
+      "tags": [
+        "energy",
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1731452408
     },
     {
       "source": {
@@ -345,7 +388,8 @@
         "cybersecurity",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1731452400
     }
   ]
 }

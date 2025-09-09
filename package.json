@@ -22,6 +22,7 @@
     "fetch-gnews.io": "ts-node scripts/fetch-gnews.io.ts",
     "backfill-newsapi.org": "ts-node scripts/backfill-newsapi.org.ts",
     "backfill-gnews.io": "ts-node scripts/backfill-gnews.io.ts",
+    "backfill-missing-timestamps": "ts-node scripts/backfill-missing-timestamps.ts",
     "upload-to-opensearch": "ts-node scripts/upload-to-opensearch.ts",
     "tag-news": "ts-node scripts/tag-news.ts",
     "normalize-tags": "ts-node scripts/normalize-tags.ts",

@@ -14,7 +14,11 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/5ca4cfa/2147483647/strip/true/crop/3968x2083+0+281/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fc4%2F68%2F42b9b754460cb35544943fa904da%2Fap23012605667074.jpeg",
       "publishedAt": "2023-10-16T23:51:17Z",
       "content": "This week’s Liberal Media Scream features the hypocrisy and bewildering ignorance of the media’s coverage of the classified documents cases both President Joe Biden and former President Donald Trump face.\nOn the hypocrisy front, consider all the hour... [3837 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697500277
     },
     {
       "source": {
@@ -33,7 +37,8 @@
         "2026_midterms",
         "2028_presidential",
         "campaign_finance"
-      ]
+      ],
+      "publishedAtTs": 1697499540
     },
     {
       "source": {
@@ -47,7 +52,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/10/16/world/16xp-oprahromney/16xp-oprahromney-facebookJumbo.jpg",
       "publishedAt": "2023-10-16T23:38:03Z",
       "content": "Concerned that the Democratic field wasn’t up to the task of stopping President Donald J. Trump in 2020, Oprah Winfrey pitched Mitt Romney on the idea of running for president as an independent, with her as his running mate, according to a forthcomin... [771 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697499483
     },
     {
       "source": {
@@ -67,7 +77,8 @@
         "civil_litigation",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1697497896
     },
     {
       "source": {
@@ -81,7 +92,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMTBcXFwvMTcxNTQ1MzdcXFwvZGQ4NmM1NDhjODgzNDc5NDg3OTY0MTVkMjM4MGY4NDMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxZGQ0N2ZmY2NiYmUxYWU5ODU1OGE3MTQ5Mjg3ZmQ5MTc1Y2UxNTJkIn0=/donald-trump-returns-to-civil-fraud-trial-in-new-york.jpg",
       "publishedAt": "2023-10-16T23:00:00Z",
       "content": "Former US president Donald Trump has returned to a New York City court to be a spectator at the civil fraud trial that threatens to disrupt his real estate empire, renewing his claims that the case is a baseless and politically targeted distraction f... [4865 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york"
+      ],
+      "publishedAtTs": 1697497200
     },
     {
       "source": {
@@ -95,7 +111,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/b6blUr2wV062MUCUZomdsA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/rolling_stone_news_992/9d14ac4a355aae75532f3dcebc9c8e3c",
       "publishedAt": "2023-10-16T22:59:30Z",
       "content": "Former president Donald Trump lashed out against U.S. District Judge Tanya Chutkan hours after being issued a gag order in the federal 2020 election interference trial.\nDuring a campaign event in Adel, Iowa, on Monday, the former president aired his ... [1936 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697497170
     },
     {
       "source": {
@@ -109,7 +130,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
       "publishedAt": "2023-10-16T22:48:51Z",
       "content": "Donald Trump promised on Monday that if elected president again he will bar immigrants who support Hamas from entering the U.S. and send officers to pro-Hamas protests to arrest and deport immigrants who publicly support the Palestinian militant grou... [3016 chars]",
-      "tags": ["immigration", "foreign_policy", "legal_justice"]
+      "tags": [
+        "immigration",
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1697496531
     },
     {
       "source": {
@@ -123,7 +149,11 @@
       "urlToImage": "https://e3.365dm.com/20/02/1600x900/skynews-christopher-steele_4913930.jpg?20200207154742",
       "publishedAt": "2023-10-16T22:26:00Z",
       "content": "Donald Trump is suing a private investigations firm over \"shocking and scandalous\" claims that he engaged in \"perverted sexual acts\" in Russia.\nThe former US president is suing Orbis Business Intelligence, a London-based company co-founded by ex-Brit... [2653 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697495160
     },
     {
       "source": {
@@ -137,7 +167,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231016164703-01-donald-trump-101623.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-16T21:37:09Z",
       "content": "CNN —\nFormer President Donald Trump said Monday that if elected again to the White House, he would reinstate and expand a travel ban on people from predominantly Muslim countries, suspend refugee resettlements and aggressively deport those whom he ch... [3069 chars]",
-      "tags": ["immigration", "foreign_policy"]
+      "tags": [
+        "immigration",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1697492229
     },
     {
       "source": {
@@ -151,7 +185,11 @@
       "urlToImage": "https://compote.slate.com/images/92ca211b-86ca-4bdb-a870-a382507c36f2.jpeg?crop=6451%2C4301%2Cx1571%2Cy124&width=1560",
       "publishedAt": "2023-10-16T21:18:10Z",
       "content": "Whatever one might think about Judge Tanya Chutkan’s decision on Monday to impose a limited gag order on former President Donald Trump in the D.C. prosecution of his attempts to overturn the 2020 election, one thing is beyond dispute—she is someone w... [3164 chars]",
-      "tags": ["legal_justice", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1697491090
     },
     {
       "source": {
@@ -165,7 +203,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/0c3cf72/2147483647/strip/true/crop/7015x3683+0+497/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F68%2F77%2F0044c0b442818ddbd89dac83ed9e%2Fap23287837721148.jpeg",
       "publishedAt": "2023-10-16T21:16:00Z",
       "content": "Team Biden’s success in raising as much campaign money as former President Donald Trump, Gov. Ron DeSantis (R-FL), and popular challenger Nikki Haley combined in the third quarter has bolstered hopes that the Democrats will avoid a red wave for the s... [2860 chars]",
-      "tags": ["elections_politics", "policy_legislation", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1697490960
     },
     {
       "source": {
@@ -179,7 +222,11 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/CDX6O5ILKZAHJDQ4IMQ5GA63KM.jpg?_a=ATAPphC0",
       "publishedAt": "2023-10-16T21:09:57Z",
       "content": "FILE - Former President Donald Trump, center, sits in the courtroom with his legal team before the continuation of his civil business fraud trial at New York Supreme Court, Tuesday, Oct. 3, 2023, in New York. Donald Trumps lawyers asked a New York ap... [8059 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1697490597
     },
     {
       "source": {
@@ -199,7 +246,8 @@
         "elections_politics",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1697490559
     },
     {
       "source": {
@@ -213,7 +261,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/AP23282728525110.jpg?w=1280",
       "publishedAt": "2023-10-16T21:07:06Z",
       "content": "A federal judge on Monday largely sided with the Justice Department in restricting former President Trump from attacking witnesses in his election interference case, as well as prosecutors and court staff.\nWhile the coming order allows Trump to criti... [7759 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1697490426
     },
     {
       "source": {
@@ -227,7 +280,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/8fc9333/2147483647/strip/true/crop/2290x1202+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F68%2F86%2Fdcd5578f4d69b1715b3188f06909%2Fcollage-maker-04-aug-2023-07-34-am-1190.jpg",
       "publishedAt": "2023-10-16T20:32:25Z",
       "content": "Former President Donald Trump received a limited gag order in the criminal election interference case in Washington, D.C., blocking him from making statements publicly targeting prosecutors, court staff, or their families, or about witnesses and thei... [6027 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697488345
     },
     {
       "source": {
@@ -241,7 +299,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003184251-06-trump-org-fraud-lawsuit-1003.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-16T20:12:14Z",
       "content": "CNN —\nThe federal judge overseeing the election subversion case against Donald Trump in Washington, DC, placed a limited gag order on the former president after his continued attacks against potential witnesses, prosecutors and the court itself, foll... [5879 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1697487134
     },
     {
       "source": {
@@ -255,7 +318,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/ou-yK-w8H5Wv9PyTTGVcrn5L0Ug=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25007503/1514996400.jpg",
       "publishedAt": "2023-10-16T20:00:43Z",
       "content": "President Joe Biden’s reelection campaign launched its own account on former President Donald Trump’s social media platform, Truth Social, on Monday, as first reported by Fox News.\n“Well. Let’s see how this goes. Converts welcome!” the campaign wrote... [2385 chars]",
-      "tags": ["media_communications", "elections_politics", "social_media"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_media"
+      ],
+      "publishedAtTs": 1697486443
     },
     {
       "source": {
@@ -269,7 +337,13 @@
       "urlToImage": "https://www.reuters.com/resizer/abmWKutZ-kCuBdB-FCWjH36I9JQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q2L6YCFJUVMFTNLLZWSUFGRAKA.jpg",
       "publishedAt": "2023-10-16T19:48:48Z",
       "content": "Donald Trump, former U.S. president and Republican presidential candidate, waves at the Club 47 USA event in West Palm Beach, Florida, U.S., October 11, 2023. REUTERS/Marco Bello/File Photo Acquire Licensing Rights\nOct 17 (Reuters) - Donald Trump is ... [2362 chars]",
-      "tags": ["legal_justice", "personal_legal", "new_york", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "new_york",
+        "regional_state"
+      ],
+      "publishedAtTs": 1697485728
     },
     {
       "source": {
@@ -283,7 +357,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/4b1216460faea1c1ffea9d9e2bc8e6e2ce2ab82b/0_189_5669_3402/master/5669.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c667329b447daf9d1ec21f230ed43302",
       "publishedAt": "2023-10-16T19:39:40Z",
       "content": "Joe Biden’s 2024 re-election campaign has joined Truth Social, a rightwing social media platform created by the Republican former president Donald Trump.\nUsing the handle @BidenHQ, the account says it is a “project of Biden-Harris 2024” and includes ... [1490 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697485180
     },
     {
       "source": {
@@ -297,7 +375,12 @@
       "urlToImage": "https://content.api.news/v3/images/bin/2408733611ccbe0c07223b39d6a76f8b",
       "publishedAt": "2023-10-16T19:21:41Z",
       "content": "The federal judge set to preside over Donald Trump's trial for conspiring to overturn the 2020 US election imposed a partial gag order on the former president on Monday.\nUS District Judge Tanya Chutkan ordered Trump not to publicly attack prosecutors... [3928 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697484101
     },
     {
       "source": {
@@ -311,7 +394,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/10/16/multimedia/16trump-gag-order-header-vtwh/16trump-gag-order-header-vtwh-articleLarge.jpg",
       "publishedAt": "2023-10-16T19:05:52Z",
       "content": "Pinned\nA judge imposed a limited gag order on former President Donald J. Trump on Monday, restricting Mr. Trump from making public statements attacking the witnesses and specific prosecutors or court staff members involved in the federal case over hi... [7474 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697483152
     },
     {
       "source": {
@@ -325,7 +413,12 @@
       "urlToImage": "https://s.abcnews.com/images/US/joe-biden-afp-gmh-231016_1697474367688_hpMain_16x9_608.jpg?w=1600",
       "publishedAt": "2023-10-16T19:00:26Z",
       "content": "The Biden administration and the American Civil Liberties Union have reached a proposed settlement agreement that, if approved, would provide benefits for thousands of migrant families separated under the Trump administration's controversial \"zero to... [5608 chars]",
-      "tags": ["immigration", "legal_justice", "social_issues"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1697482826
     },
     {
       "source": {
@@ -339,7 +432,12 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1497355-12-20231016090921.jpeg",
       "publishedAt": "2023-10-16T18:59:00Z",
       "content": "Back in 2018, Oprah Winfrey pooh-poohed speculation that she might make a run for the White House, saying a presidential campaign \"would kill me.\" A new biography about Sen. Mitt Romney due out Tuesday, however, adds some interesting context to that,... [789 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697482740
     },
     {
       "source": {
@@ -358,7 +456,8 @@
         "supreme_court",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1697481646
     }
   ]
 }

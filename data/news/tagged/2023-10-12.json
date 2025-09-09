@@ -20,7 +20,8 @@
         "doj_actions",
         "elections_politics",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1697152309
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "media_communications",
         "ethics"
-      ]
+      ],
+      "publishedAtTs": 1697151600
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1697151600
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "federal_courts",
         "doj_actions",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1697151600
     },
     {
       "source": {
@@ -91,7 +95,13 @@
       "urlToImage": "https://static.politico.com/e9/79/d46e22344bef97f7dcfac45cfc9b/https-delivery-gettyimages.com/downloads/1508729666",
       "publishedAt": "2023-10-12T22:59:06Z",
       "content": "Cannon, who was clearly angry, agreed and called prosecutors’ arguments a “last-minute introduction.” Cannon was appointed to the bench by Trump.\nSticking to the correct procedure would have helped all sides come prepared to discuss the objections, s... [3168 chars]",
-      "tags": ["legal_justice", "personal_family", "regional_state", "florida"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1697151546
     },
     {
       "source": {
@@ -105,7 +115,11 @@
       "urlToImage": "https://images.wsj.net/im-867774/social",
       "publishedAt": "2023-10-12T22:41:00Z",
       "content": "In an interview with 'Global View' columnist Walter Russell Mead, the Prime Minister of Israel pointed to developments in Iran, then queried what might happen should it become the first nuclear power run by radical Islam. The answer, he says, is to \"... [433 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1697150460
     },
     {
       "source": {
@@ -119,7 +133,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/10/donald_trump_1719488102.jpg",
       "publishedAt": "2023-10-12T22:40:56Z",
       "content": "U.S. District Court Judge Aileen Cannon has floundered in her handling of former President Donald Trump's federal criminal case in Florida compared to the judge presiding over Trump's Georgia criminal case, who \"has been impressive, in a quiet, compe... [1326 chars]",
-      "tags": ["legal_justice", "criminal_cases", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1697150456
     },
     {
       "source": {
@@ -133,7 +152,13 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2023/10/AP23277626943308.jpg?w=1024&h=683",
       "publishedAt": "2023-10-12T22:13:04Z",
       "content": "Donald Trump is expected back in New York City next week at his fraud trial to potentially face his fixer-turned-foe Michael Cohen for the first time since their fallout, a source confirmed to the Daily News on Thursday.\nThe former president, who las... [5274 chars]",
-      "tags": ["personal_family", "legal_justice", "new_york", "regional_state"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "new_york",
+        "regional_state"
+      ],
+      "publishedAtTs": 1697148784
     },
     {
       "source": {
@@ -147,7 +172,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/Politics-Trump_101223_AP_Rebecca-Blackwell.jpg?w=1280",
       "publishedAt": "2023-10-12T21:43:40Z",
       "content": "Former President Trump risks potential backlash in the Republican presidential primary over his criticism of Israeli Prime Minister Benjamin Netanyahu in the wake of the Hamas terror attacks in Israel.\nIn a speech Wednesday, Trump accused Netanyahu o... [6142 chars]",
-      "tags": ["foreign_policy", "middle_east", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697147020
     },
     {
       "source": {
@@ -161,7 +191,12 @@
       "urlToImage": "https://i.cbc.ca/1.6994325.1697141973!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-trump.JPG",
       "publishedAt": "2023-10-12T21:05:43Z",
       "content": "Israel and the White House on Thursday condemned remarks by former U.S. president Donald Trump in which he praised the Iran-backed militant group Hezbollah and criticized Israeli Prime Minister Benjamin Netanyahu over a deadly attack by Palestinian H... [4194 chars]",
-      "tags": ["middle_east", "foreign_policy", "security_intelligence"]
+      "tags": [
+        "middle_east",
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1697144743
     },
     {
       "source": {
@@ -175,7 +210,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/paysonroundup.com/content/tncms/assets/v3/editorial/a/d2/ad2bd1dc-efa8-5200-b966-218be52f118d/64ff6baab7754.image.jpg?crop=1336%2C701%2C0%2C425&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2023-10-12T20:45:00Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [716 chars]",
-      "tags": ["elections_politics", "2028_presidential", "state_elections"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "state_elections"
+      ],
+      "publishedAtTs": 1697143500
     },
     {
       "source": {
@@ -194,7 +234,8 @@
         "foreign_policy",
         "middle_east",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1697141675
     },
     {
       "source": {
@@ -208,7 +249,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231012161302-01-charles-littlejohn-101223.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-12T20:06:30Z",
       "content": "CNN —\nThe former IRS contractor accused of leaking former President Donald Trump’s tax returns and stealing tax information on thousands of the wealthiest people in the US pleaded guilty in federal court on Thursday.\nProsecutors say Charles Littlejoh... [1242 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697141190
     },
     {
       "source": {
@@ -222,7 +267,12 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-10-13/l_1118624_034559_updates.jpg",
       "publishedAt": "2023-10-12T19:00:00Z",
       "content": "Former US President and 2024 Republican presidential hopeful Donald Trump gestures at the end of a campaign event at Club 47 USA in West Palm Beach, Florida, on October 11, 2023. — AFP\nAfter being dropped from the famous list of Forbes, former US Pre... [2409 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697137200
     },
     {
       "source": {
@@ -236,7 +286,12 @@
       "urlToImage": "https://www.reuters.com/resizer/WAzZitXlA6mN2t0g1kwL2RicfRo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NHZSCSY2ZNDLLZM7CZSGAJULQ.jpg",
       "publishedAt": "2023-10-12T18:55:54Z",
       "content": "[1/2] Donald Trump, former U.S. president and Republican presidential candidate, looks on at the Club 47 USA event in West Palm Beach, Florida, U.S., October 11, 2023. REUTERS/Marco Bello/File Photo Acquire Licensing Rights\nOct 12 (Reuters) - Israel ... [4065 chars]",
-      "tags": ["middle_east", "foreign_policy", "security_intelligence"]
+      "tags": [
+        "middle_east",
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1697136954
     },
     {
       "source": {
@@ -254,7 +309,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1697129852
     },
     {
       "source": {
@@ -268,7 +324,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231012135627-trump-west-palm-beach-101123.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-12T16:55:44Z",
       "content": "Washington CNN —\nFormer President Donald Trump lashed out Wednesday at Benjamin Netanyahu, saying the Israeli prime minister was caught unprepared by Hamas’ attack and praising the Lebanese militant group Hezbollah as “very smart.”\nThe remarks reflec... [7595 chars]",
-      "tags": ["foreign_policy", "middle_east", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "media_communications"
+      ],
+      "publishedAtTs": 1697129744
     },
     {
       "source": {
@@ -282,7 +343,12 @@
       "urlToImage": "https://images.wsj.net/im-867298/social",
       "publishedAt": "2023-10-12T16:38:00Z",
       "content": "Former President Donald Trump boasted of his work to back Israel, but he also criticized Israeli Prime Minister Benjamin Netanyahu. Photo: Rebecca Blackwell/Associated Press\nFormer President Donald Trump is facing criticism from Democrats and Republi... [538 chars]",
-      "tags": ["foreign_policy", "middle_east", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697128680
     },
     {
       "source": {
@@ -296,7 +362,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/4765d0f600d04cec6e7c09829c14e1104b3dc1cc/0_140_4200_2520/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fef2cccd1d89242c1cf33ab1904c130c",
       "publishedAt": "2023-10-12T16:25:19Z",
       "content": "Joe Biden and Donald Trump continued to clash over the Israel-Hamas war on Thursday as a White House spokesman rebuked the former US president for what he called “dangerous and unhinged” comments about the conflict.\nHamas, an Iran-backed militant gro... [3420 chars]",
-      "tags": ["foreign_policy", "middle_east", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "media_communications"
+      ],
+      "publishedAtTs": 1697127919
     },
     {
       "source": {
@@ -310,7 +381,12 @@
       "urlToImage": "https://www.reuters.com/resizer/sT2-yn9J7FmJ-e-G2rBJ0GL0ZN4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M3CFNTCT4BMQBO7WOD7HFV6AVE.jpg",
       "publishedAt": "2023-10-12T16:21:05Z",
       "content": "The Truth social network logo is seen on a smartphone in front of a display of former U.S. President Donald Trump in this picture illustration taken February 21, 2022. REUTERS/Dado Ruvic/Illustration/File Photo Acquire Licensing Rights\nNEW YORK, Oct ... [2227 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697127665
     },
     {
       "source": {
@@ -324,7 +400,12 @@
       "urlToImage": "https://www.reuters.com/resizer/AqXsBLhZaVyQpictpGivmr7tyvk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FRB5GLVLVNJ3FPD24OLZJTCJHE.jpg",
       "publishedAt": "2023-10-12T16:02:08Z",
       "content": "Donald Trump, former U.S. president and Republican presidential candidate, looks on at the Club 47 USA event in West Palm Beach, Florida, U.S., October 11, 2023. REUTERS/Marco Bello/File Photo Acquire Licensing Rights\nWASHINGTON, Oct 12 (Reuters) - F... [714 chars]",
-      "tags": ["foreign_policy", "middle_east", "media_communications"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "media_communications"
+      ],
+      "publishedAtTs": 1697126528
     },
     {
       "source": {
@@ -338,7 +419,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/nikki-haleyt-c-afp-via-getty-images.jpg?id=49460624&width=1200&height=600&coordinates=0%2C0%2C0%2C82",
       "publishedAt": "2023-10-12T15:33:32Z",
       "content": "Former Trump UN Ambassador Nikki Haley, now polling in third place for the Republican presidential nomination, is claiming that \"the left\" is supporting \"the beheadings\" of Israeli children and the \"1200\" Israelis slaughtered by Hamas terrorists.\nNo ... [2990 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1697124812
     },
     {
       "source": {
@@ -352,7 +438,13 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6141697121939/2023/1/6f645d66449aad84d9b6ad7af9ca6180/v1.5/Donald-Trump-makes-another-push-to-delay-classified-documents-trial.jpg",
       "publishedAt": "2023-10-12T15:32:15Z",
       "content": "1 of 3 | Former President Donald Trump speaks during a break in his civil fraud trial in New York on October 4. Photo by John Angelillo/UPI | License Photo\nOct. 12 (UPI) -- Former President Donald Trump's attorneys have again requested to delay his t... [1632 chars]",
-      "tags": ["personal_family", "legal_justice", "florida", "regional_state"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1697124735
     },
     {
       "source": {
@@ -366,7 +458,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/10/12/multimedia/12nat-georgia-money-lqkg/12nat-georgia-money-lqkg-facebookJumbo.jpg",
       "publishedAt": "2023-10-12T15:06:14Z",
       "content": "Steven C. Lee, an Illinois pastor charged in the Georgia election interference case against Donald J. Trump and his allies, is hoping to fund his legal defense, at least in part, with sales of “MAGA honey” bottles shaped like the former president. A ... [1141 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1697123174
     },
     {
       "source": {
@@ -380,7 +477,12 @@
       "urlToImage": "https://static.politico.com/90/9e/43342fee438bbd855575ba3cdeaa/election-2024-iowa-28613.jpg",
       "publishedAt": "2023-10-12T14:39:36Z",
       "content": "“Hezbollah aren’t smart, they’re evil,” Pence said. “But the former president also said when Russia invaded Ukraine in a similar, unprovoked, unconscionable invasion a year-and-a-half ago, he said Vladimir Putin was a genius.”\nPence added that while ... [1432 chars]",
-      "tags": ["foreign_policy", "media_communications", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1697121576
     }
   ]
 }

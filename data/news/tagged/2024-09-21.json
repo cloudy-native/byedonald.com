@@ -20,7 +20,8 @@
         "government_administration",
         "legal_justice",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1726962907
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "crisis_emergency",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726962671
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_13_01_27_7099534.png?width=920&format=jpeg",
       "publishedAt": "2024-09-21T23:50:54Z",
       "content": "Following is a summary of current US domestic news briefs.\nGeorgia's Republican-controlled election board has mandated a hand count of millions of ballots for the upcoming presidential contest, drawing criticism from voting rights groups concerned ab... [2031 chars]",
-      "tags": ["elections_politics", "foreign_policy", "crisis_emergency"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1726962654
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=34891625&width=1200&height=600&coordinates=0%2C32%2C0%2C32",
       "publishedAt": "2024-09-21T23:22:01Z",
       "content": "Recent activity in the state of Georgia could wrongfully hand the 2024 election to Donald Trump, according to a voting rights expert.\nAri Berman, Mother Jones' national voting rights correspondent, appeared on MSNBC on Saturday to discuss the situati... [1318 chars]",
-      "tags": ["elections_politics", "voting_rights", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "swing_states"
+      ],
+      "publishedAtTs": 1726960921
     },
     {
       "source": {
@@ -86,7 +98,8 @@
         "elections_politics",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1726959720
     },
     {
       "source": {
@@ -100,7 +113,12 @@
       "urlToImage": "https://img.rasset.ie/0020fffa-1600.jpg",
       "publishedAt": "2024-09-21T23:00:00Z",
       "content": "US President Joe Biden has insisted the so-called \"Quad\" group would survive global strains and a US election that could bring Donald Trump back to power, as he hosted the leaders of Japan, India and Australia for a farewell summit in his hometown.\n\"... [3508 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "international_organizations"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "international_organizations"
+      ],
+      "publishedAtTs": 1726959600
     },
     {
       "source": {
@@ -114,7 +132,11 @@
       "urlToImage": "https://img.rasset.ie/00210066-1600.jpg",
       "publishedAt": "2024-09-21T23:00:00Z",
       "content": "Republican Donald Trump has ruled out running again in the United States' 2028 presidential election if he loses in the upcoming November poll, according to an interview.\nResponding to a question on whether he would run again if he lost, the 78-year-... [1117 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1726959600
     },
     {
       "source": {
@@ -133,7 +155,8 @@
         "2028_presidential",
         "personal_family",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1726959600
     },
     {
       "source": {
@@ -153,7 +176,8 @@
         "foreign_policy",
         "personal_family",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1726958700
     },
     {
       "source": {
@@ -173,7 +197,8 @@
         "security_intelligence",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726953312
     },
     {
       "source": {
@@ -193,7 +218,8 @@
         "foreign_policy",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726952400
     },
     {
       "source": {
@@ -212,7 +238,8 @@
         "political_endorsements",
         "regional_state",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726950456
     },
     {
       "source": {
@@ -226,7 +253,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/kamala-harris.jpg?id=53495878&width=1200&height=600&coordinates=0%2C430%2C0%2C430",
       "publishedAt": "2024-09-21T20:21:20Z",
       "content": "One of Vice President Kamala Harris' \"most trusted\" senior advisors has a shocking prediction for a campaign shake up against Donald Trump.\nHarris campaign senior adviser for communications Brian Fallon revealed some of his predictions in an intervie... [2204 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1726950080
     },
     {
       "source": {
@@ -240,7 +272,12 @@
       "urlToImage": "https://i.cbc.ca/1.7319703.1726021595!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-debate.JPG",
       "publishedAt": "2024-09-21T20:08:54Z",
       "content": "Donald Trump on Saturday rejected another debate with Vice-President Kamala Harris before the U.S. presidential election, hours after the Democratic candidate's campaign said she had agreed to an Oct. 23 matchup with her Republican rival on CNN.\n\"Vic... [994 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1726949334
     },
     {
       "source": {
@@ -260,7 +297,8 @@
         "national_security",
         "doj_actions",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1726948293
     },
     {
       "source": {
@@ -279,7 +317,8 @@
         "republican_party",
         "2026_midterms",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1726948029
     },
     {
       "source": {
@@ -293,7 +332,12 @@
       "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/09/harris-trump-1726947975.jpg",
       "publishedAt": "2024-09-21T19:46:41Z",
       "content": "Follow us on Image Source : REUTERS US Democratic Vice President Kamala Harris and Republican former President Donald Trump.\nWashington: US Vice President Kamala Harris has accepted an invitation from CNN to participate in another debate with her Rep... [3139 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1726948001
     },
     {
       "source": {
@@ -313,7 +357,8 @@
         "government_administration",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1726947600
     },
     {
       "source": {
@@ -327,7 +372,12 @@
       "urlToImage": "https://e3.365dm.com/24/09/1600x900/skynews-democrat-kamala-harris_6681593.jpg?20240911021114",
       "publishedAt": "2024-09-21T19:23:00Z",
       "content": "The style choices of politicians have long been scrutinised by voters and the media.\nWomen have historically been subject to more inspection for their looks than men.\nBut all politicians are communicating through their style, according to two experts... [3952 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1726946580
     },
     {
       "source": {
@@ -347,7 +397,8 @@
         "personal_family",
         "foreign_policy",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1726946523
     },
     {
       "source": {
@@ -361,7 +412,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2162827615-1-copy.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-09-21T19:11:14Z",
       "content": "New York CNN —\nDoes Donald Trump really want his running mate, JD Vance, to have the final debating word this fall? Or does Trump want that opportunity for himself?\nThat’s one of the questions now on the table after Vice President Kamala Harris chall... [3175 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1726945874
     },
     {
       "source": {
@@ -375,7 +431,12 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2024-09-23/l_1232949_021505_updates.jpg",
       "publishedAt": "2024-09-21T19:00:00Z",
       "content": "Republican presidential nominee and former US President Donald Trump gestures at a campaign rally in Wilmington, North Carolina, US, September 21, 2024. — Reuters\nRepublican Donald Trump said that he will not make a fourth consecutive run for the US ... [1994 chars]",
-      "tags": ["elections_politics", "2028_presidential", "personal_legal"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1726945200
     },
     {
       "source": {
@@ -389,7 +450,11 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/VO2J3UUJ5553AHPX746APOAJCI.jpg?smart=true&auth=11fa395f6a848c07127681eec7410dd1b82ab1a47871e2c974038f9138383c60&width=1200&height=630",
       "publishedAt": "2024-09-21T18:38:00Z",
       "content": "Vice-president Kamala Harris has accepted an invitation from CNN to participate in another debate against Donald Trump, but he has declined. Photograph: Scott Olson/Getty Images\nUS vice-president Kamala Harris has accepted an invitation from CNN to p... [1586 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1726943880
     },
     {
       "source": {
@@ -403,7 +468,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108037480-1726940352589-gettyimages-2173419379-jr010676_v7tkmr7y.jpeg?v=1726940432&w=1920&h=1080",
       "publishedAt": "2024-09-21T18:37:53Z",
       "content": "U.S. Vice President Kamala Harris, the Democratic presidential nominee, speaks at the Cobb Energy Performing Arts Centre in Atlanta on Sept. 20, 2024. Harris spoke about abortion and reproductive rights in Georgia as she continues to campaign against... [2208 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1726943873
     }
   ]
 }

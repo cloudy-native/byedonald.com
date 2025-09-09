@@ -19,7 +19,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1679699792
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1679699680
     },
     {
       "source": {
@@ -51,7 +53,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/newspress-collage-26285839-1679699956750.jpg?quality=75&strip=all&1679685612&w=1024",
       "publishedAt": "2023-03-24T23:08:58Z",
       "content": "This guy.\nAs some of his allies are trying to rewrite January 6 as an afternoon stroll, Donald Trump is having none of it.\nIn the face of a possible criminal case in New York, he screamed that “death and destruction” would follow any indictment.\nHe p... [3034 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1679699338
     },
     {
       "source": {
@@ -65,7 +72,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OBvnJTnMqzlMsPSEkmXsUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/81bf08f50bfbe4b31a4d80259a037453",
       "publishedAt": "2023-03-24T23:02:11Z",
       "content": "President Donald Trump speaks during a Latinos for Trump event at Trump National Doral Miami resort, Friday, Sept. 25, 2020, in Doral, Fla. Evan Vucci/Associated Press\nHouse Democrats this month said Trump failed to report over 100 gifts from foreign... [3353 chars]",
-      "tags": ["personal_family", "regional_state", "government_administration"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "government_administration"
+      ],
+      "publishedAtTs": 1679698931
     },
     {
       "source": {
@@ -79,7 +91,11 @@
       "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2023/03/24/trump-ap-1203263-1679677261.png",
       "publishedAt": "2023-03-24T22:31:01Z",
       "content": "Former US President Donald Trump warned of potential \"death & destruction\" if he faces criminal charges, hours after New York prosecutors probing his hush-money payment to porn star Stormy Daniels said they would not be intimidated.\nThe early Friday ... [2771 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679697061
     },
     {
       "source": {
@@ -93,7 +109,12 @@
       "urlToImage": "https://images.wsj.net/im-751060/social",
       "publishedAt": "2023-03-24T22:26:00Z",
       "content": "Holman W. Jenkins Jr. is a member of the editorial board of The Wall Street Journal. He writes the twice-weekly “Business World” column that appears on the paper's op-ed page on Wednesdays and Saturdays.\nMr. Jenkins joined the Journal in May 1992 as ... [596 chars]",
-      "tags": ["elections_politics", "foreign_policy", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1679696760
     },
     {
       "source": {
@@ -107,7 +128,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/DeSantis-Trump.png?w=1280",
       "publishedAt": "2023-03-24T21:53:58Z",
       "content": "Florida Gov. Ron DeSantis (R) said he is “more of an executive guy” in response to a question about whether he would join a ticket as former President Trump’s running mate if Trump wins the 2024 GOP presidential nomination.\nDeSantis told Newsmax in a... [1799 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1679694838
     },
     {
       "source": {
@@ -121,7 +147,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230322-nyc-court-police-trump-jm-1348-31cb7d.jpg",
       "publishedAt": "2023-03-24T21:50:12Z",
       "content": "NEW YORK — A grand jury indictment of former President Donald Trump over the hush money payment made to Stormy Daniels could set off an unprecedented security challenge for law enforcement, according to law enforcement and security analysts.\nThere ar... [7206 chars]",
-      "tags": ["legal_justice", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1679694612
     },
     {
       "source": {
@@ -135,7 +166,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_07_32_0301512.jpg?width=920&format=jpeg",
       "publishedAt": "2023-03-24T21:49:51Z",
       "content": "Former President Donald Trump picking Waco, Texas, for the first rally of his 2024 campaign Saturday will put him in the middle of a big Republican state that has reliably delivered him big crowds. It will also put him not far from the grassy prairie... [4265 chars]",
-      "tags": ["regional_state", "crisis_emergency"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1679694591
     },
     {
       "source": {
@@ -156,7 +191,8 @@
         "personal_legal",
         "security_incidents",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1679694507
     },
     {
       "source": {
@@ -170,7 +206,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/03/24/multimedia/24dc-oversight-02-wkcl/24dc-oversight-02-wkcl-facebookJumbo.jpg",
       "publishedAt": "2023-03-24T21:45:22Z",
       "content": "WASHINGTON — The demand by House Republicans for information from a local prosecutor in New York about his criminal investigation into former President Donald J. Trump is pushing an already escalating fight over the scope and limits of congressional ... [1109 chars]",
-      "tags": ["legal_justice", "doj_actions", "congressional_investigations"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "congressional_investigations"
+      ],
+      "publishedAtTs": 1679694322
     },
     {
       "source": {
@@ -190,7 +231,8 @@
         "doj_actions",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1679694151
     },
     {
       "source": {
@@ -204,7 +246,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/4abf696/2147483647/strip/true/crop/2277x1196+6+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fea%2F0c%2Fec49a7ba4409a267f99393c7ec57%2Fap-463125127284.jpg",
       "publishedAt": "2023-03-24T21:38:59Z",
       "content": "A Republican congressman who represents the Central Texas city where former President Donald Trump will rally supporters in his first major 2024 campaign rally on Saturday will skip out on the big hometown event, the Washington Examiner has learned.\n... [2296 chars]",
-      "tags": ["elections_politics", "texas", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "texas",
+        "regional_state"
+      ],
+      "publishedAtTs": 1679693939
     },
     {
       "source": {
@@ -223,7 +270,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1679693492
     },
     {
       "source": {
@@ -237,7 +285,11 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/03/donald_trump_melania_trump_1229769884.jpg",
       "publishedAt": "2023-03-24T21:20:50Z",
       "content": "Former President Donald Trump is awaiting a possible indictment over an alleged hush money payment to porn star Stormy Daniels in 2016, but his wife is uninterested in discussing it.\nDespite the legal troubles her husband might face, Melania Trump is... [2842 chars]",
-      "tags": ["personal_family", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1679692850
     },
     {
       "source": {
@@ -251,7 +303,12 @@
       "urlToImage": "https://media.wltx.com/assets/VERIFY/images/f22557f7-2e53-4bd7-a61b-1ff988bf0d5e/f22557f7-2e53-4bd7-a61b-1ff988bf0d5e_1140x641.jpg",
       "publishedAt": "2023-03-24T21:13:00Z",
       "content": "The fake video was created using an appearance Manhattan District Attorney Alvin Bragg made in January 2022. The criminal investigation into Trump isn’t closed.\nExample video title will go here for this video\nUPDATE (3/30/2023): A grand jury indicted... [3299 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1679692380
     },
     {
       "source": {
@@ -265,7 +322,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/trumpdonald_012823getty_trump-probes.jpg?w=1280",
       "publishedAt": "2023-03-24T21:10:09Z",
       "content": "Democrats on Friday condemned an online post from former President Trump that warned of “potential death and destruction” if he is indicted.\nHouse Minority Leader Hakeem Jeffries (D-N.Y.) said Trump’s rhetoric is “dangerous, and if he keeps it up, he... [1663 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1679692209
     },
     {
       "source": {
@@ -285,7 +347,8 @@
         "government_administration",
         "congressional_investigations",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1679691995
     },
     {
       "source": {
@@ -299,7 +362,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/c763b3c/2147483647/strip/true/crop/1060x557+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd7%2Fc9%2F8c14dacf4e46a71d8fbf1728034a%2Funtitled-1.jpg",
       "publishedAt": "2023-03-24T21:04:37Z",
       "content": "If we were to climb into President Joe Biden ’s shoes for an uncomfortable moment, to put down the Jell-O and consider his ideal election campaign as we approach 2024, what would it look like?\nWell, one Republican front-runner would perpetuate Democr... [3099 chars]",
-      "tags": ["elections_politics", "2028_presidential", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1679691877
     },
     {
       "source": {
@@ -318,7 +386,8 @@
         "doj_actions",
         "criminal_cases",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1679691717
     },
     {
       "source": {
@@ -337,7 +406,8 @@
         "legal_justice",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1679691561
     },
     {
       "source": {
@@ -351,7 +421,12 @@
       "urlToImage": "https://e3.365dm.com/23/03/1600x900/skynews-donald-trump-alvin_6099365.jpg?20230324205634",
       "publishedAt": "2023-03-24T20:57:00Z",
       "content": "The FBI and NYPD are investigating a death threat and white powder sent to Manhattan's district attorney, whose office is investigating former US president Donald Trump.\nThe letter mailed to Alvin Bragg said \"ALVIN: I AM GOING TO KILL YOU!!!!!!!!!!!!... [2971 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1679691420
     },
     {
       "source": {
@@ -365,7 +440,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/AP23083477940706-e1679690467571.jpg?w=1280",
       "publishedAt": "2023-03-24T20:42:44Z",
       "content": "An envelope containing a suspicious letter and white powder was sent to Manhattan District Attorney Alvin Bragg (D), whose office is investigating former President Trump, according to law enforcement.\nA New York Police Department spokesperson said th... [1589 chars]",
-      "tags": ["legal_justice", "criminal_cases", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "personal_family"
+      ],
+      "publishedAtTs": 1679690564
     }
   ]
 }

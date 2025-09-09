@@ -18,7 +18,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1676416285
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1676416198
     },
     {
       "source": {
@@ -51,7 +53,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_14_7140931.jpg?width=920&format=jpeg",
       "publishedAt": "2023-02-14T22:50:54Z",
       "content": "Former U.S. ambassador to the United Nations Nikki Haley on Tuesday kicked off her campaign for the 2024 Republican presidential nomination, challenging her former boss Donald Trump, who holds a strong lead in a new Reuters/Ipsos poll. \"It's time for... [4275 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676415054
     },
     {
       "source": {
@@ -65,7 +71,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_55_697089.jpg?width=920&format=jpeg",
       "publishedAt": "2023-02-14T22:28:47Z",
       "content": "Democratic U.S. voters express less support for President Joe Biden running for a second term 2024 than Republicans do for former President Donald Trump's latest White House bid, a Reuters/Ipsos poll shows, a potentially worrisome sign for Biden as h... [5181 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676413727
     },
     {
       "source": {
@@ -79,7 +89,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230214163225-file-alina-habba-grand-jury.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-14T22:18:41Z",
       "content": "CNN —\nAlina Habba, an attorney for former President Donald Trump, appeared last month before a federal grand jury investigating the mishandling of classified documents from his time in the White House, two sources familiar with the investigation told... [1882 chars]",
-      "tags": ["personal_family", "legal_justice", "regional_state"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1676413121
     },
     {
       "source": {
@@ -98,7 +113,8 @@
         "immigration",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1676412764
     },
     {
       "source": {
@@ -112,7 +128,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZhT1zQCXoUj4Qt4_N0YTMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/20147080-acb2-11ed-adde-92e4c449f73a",
       "publishedAt": "2023-02-14T22:00:22Z",
       "content": "Reuters\nLONDON (Reuters) -His private army is pushing hard to give Russia a battlefield win in Ukraine, but mounting evidence suggests the Kremlin has moved to curb what it sees as the excessive political clout of Yevgeny Prigozhin, founder of Russia... [545 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1676412022
     },
     {
       "source": {
@@ -126,7 +145,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2195633/mace-haley-trump-desantis-gop-republicans-president.png",
       "publishedAt": "2023-02-14T21:56:18Z",
       "content": "Nikki Haley's 2024 presidential campaign is being praised by another female Republican in her state: Representative Nancy Mace.\nThe former South Carolina governor, 51, jumped into the GOP fray on Tuesday by releasing a video detailing her aspirations... [3968 chars]",
-      "tags": ["elections_politics", "2026_midterms", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "personal_family"
+      ],
+      "publishedAtTs": 1676411778
     },
     {
       "source": {
@@ -140,7 +164,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OXjI_96YpuevLexHlc3pBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/29a308a0-acb2-11ed-bdff-495987137a45",
       "publishedAt": "2023-02-14T21:54:36Z",
       "content": "The Canadian Press\nTORONTO — Now that Toronto Mayor John Tory has announced plans to step down from the role after admitting to having an affair with a former member of his staff, all eyes have turned to the now looming race to replace him. A byelect... [269 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676411676
     },
     {
       "source": {
@@ -158,7 +186,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1676411423
     },
     {
       "source": {
@@ -172,7 +201,12 @@
       "urlToImage": "https://media.nbcboston.com/2023/02/DONALD-TUMP.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2023-02-14T21:14:00Z",
       "content": "The special counsel investigating Donald Trump’s handling of classified documents is seeking to compel a lawyer for the former president to testify before a grand jury, a source familiar with the matter told NBC News.\nA sealed filing from prosecutors... [716 chars]",
-      "tags": ["legal_justice", "doj_actions", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1676409240
     },
     {
       "source": {
@@ -190,7 +224,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1676408857
     },
     {
       "source": {
@@ -209,7 +244,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1676408820
     },
     {
       "source": {
@@ -223,7 +259,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2195601/nikki-haley.jpg",
       "publishedAt": "2023-02-14T21:04:05Z",
       "content": "Former South Carolina Republican Gov. Nikki Haley launched her campaign for the White House on Tuesday. In formally announcing the bid she had teased for weeks, Haley, who served as United Nations Ambassador under former President Donald Trump, has e... [3929 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676408645
     },
     {
       "source": {
@@ -237,7 +277,12 @@
       "urlToImage": "https://www.reuters.com/resizer/VwalrySGIGxDzSUzKaYZT2xKLew=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T6SV4ZERTRMIFG2WNM2CUJAXQE.jpg",
       "publishedAt": "2023-02-14T20:51:53Z",
       "content": "[1/2] Former U.S. President Donald Trump speaks during a rally at Florence Regional Airport in Florence, South Carolina, U.S., March 12, 2022. REUTERS/Randall Hill\nNEW YORK, Feb 15 (Reuters) - A federal judge on Wednesday rejected Donald Trump's offe... [2574 chars]",
-      "tags": ["personal_legal", "legal_justice", "civil_litigation"]
+      "tags": [
+        "personal_legal",
+        "legal_justice",
+        "civil_litigation"
+      ],
+      "publishedAtTs": 1676407913
     },
     {
       "source": {
@@ -251,7 +296,11 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/4581676406202/2023/1/c058de1cc204f6e2215db3ebeefb0b3c/v1.5/Appeals-court-upholds-110000-fine-for-Donald-Trump.jpg",
       "publishedAt": "2023-02-14T20:44:41Z",
       "content": "1/3\nFormer President Donald Trump must pay a $110,000 fine after being held in contempt by a New York court, the state’s appeals court ruled Tuesday. File Photo by Bonnie Cash/UPI | License Photo\nFeb. 14 (UPI) -- Former President Donald Trump must pa... [2028 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1676407481
     },
     {
       "source": {
@@ -270,7 +319,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1676407389
     },
     {
       "source": {
@@ -284,7 +334,11 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7dab4701e46d00677501b787852c6f9d?impolicy=wcms_crop_resize&cropH=2722&cropW=4839&xPos=45&yPos=0&width=862&height=485",
       "publishedAt": "2023-02-14T20:39:48Z",
       "content": "Former South Carolina governor Nikki Haley has made it Twitter official: she's running for president.\nHaley, who served as United Nations ambassador during the Trump administration, is the first Republican challenger to jump into the 2024 primary con... [13646 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676407188
     },
     {
       "source": {
@@ -304,7 +358,8 @@
         "elections_politics",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1676406605
     },
     {
       "source": {
@@ -318,7 +373,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000006665928.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-02-14T20:03:50Z",
       "content": "Former President Donald Trump must pay a $110,000 fine to New York Attorney General Letitia James’ office after failing to comply with subpoenas issued as part of her probe into his financial dealings, an appeals court ruled Tuesday.\nThe 76-year-old ... [1874 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1676405030
     },
     {
       "source": {
@@ -332,7 +391,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2195560/split-pic-donald-trump-nikki-haley.png",
       "publishedAt": "2023-02-14T19:48:28Z",
       "content": "Former President Donald Trump has made it clear numerous times over the years that he places a special value on loyalty, and he indicated on Tuesday that he feels Nikki Haley has not measured up to his standards.\nDuring an appearance on the syndicate... [3205 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1676404108
     },
     {
       "source": {
@@ -346,7 +410,11 @@
       "urlToImage": "https://www.reuters.com/resizer/Z808Zl1dPJhUShMmhRMHaEkj0zk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YG6A6GX7RNK3ZFFW52GP4JMODE.jpg",
       "publishedAt": "2023-02-14T19:24:55Z",
       "content": "NEW YORK, Feb 14 (Reuters) - A New York state appeals court on Tuesday upheld an order finding Donald Trump in civil contempt for having failed to comply with a subpoena from New York Attorney General Letitia James in her probe of his business practi... [1922 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1676402695
     },
     {
       "source": {
@@ -360,7 +428,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/0a3aba432d6c73f1b6942cc0de1d176b16ba0699/0_56_2578_1548/master/2578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=303af8c159c160843cac986c79860c6b",
       "publishedAt": "2023-02-14T19:24:38Z",
       "content": "Donald Trump is “not above the law”, the attorney general of New York state said on Tuesday, celebrating an appeals court ruling which said the former president must pay a $110,000 fine for refusing to comply with subpoenas in a fraud investigation o... [2708 chars]",
-      "tags": ["legal_justice", "new_york", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "new_york",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1676402678
     },
     {
       "source": {
@@ -374,7 +447,11 @@
       "urlToImage": "https://compote.slate.com/images/88a7cbc0-eebf-4e69-9704-d840f2b54b4f.jpeg?crop=3529%2C2353%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-02-14T19:24:00Z",
       "content": "When Nikki Haley announced on Tuesday that she is running for president, it set the stage not just for a 2024 showdown with her former boss, Donald Trump, but for a test of her political identity.\nIn 2011, Haley became South Carolina’s first female g... [4326 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1676402640
     },
     {
       "source": {
@@ -388,7 +465,11 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/01/983969d8-9964-4c13-806a-68994c20c1f9/thumbnail/1200x630/170a88927ca094ea87c137a144baff64/cbsn-fusion-cbs-news-obtains-video-of-former-president-trumps-summer-deposition-for-a-civil-fraud-investigation-thumbnail-1673851-640x360.jpg",
       "publishedAt": "2023-02-14T19:23:06Z",
       "content": "Video of Trump deposition shows former president pleading the Fifth\nA New York appeals court ruled Tuesday that former President Donald Trump was \"correctly\" held in contempt last year for failing to turn over documents demanded in a subpoena by the ... [2970 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1676402586
     }
   ]
 }

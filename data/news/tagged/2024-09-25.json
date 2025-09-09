@@ -20,7 +20,8 @@
         "policy_legislation",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727308509
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_incidents",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727308232
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90401271.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-25T23:47:57Z",
       "content": "In the battleground state of North Carolina, Donald Trump narrowly leads Kamala Harris in a new poll.\nBut his lead is driven by demographic strength among one group of high-propensity voters that could prove potent in the race for 16 electoral votes.... [2404 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1727308077
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "foreign_policy",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1727307970
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "social_issues",
         "health_science",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727307907
     },
     {
       "source": {
@@ -114,7 +123,8 @@
         "elections_politics",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727307553
     },
     {
       "source": {
@@ -128,7 +138,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-pcov4829q-1727306355516.jpg?quality=75&strip=all&1727292064&w=1024",
       "publishedAt": "2024-09-25T23:32:16Z",
       "content": "Tommy John isn’t sure why he’s been kept out of the National Baseball Hall of Fame, but he has a clue: his support for former president Donald Trump.\nJohn, who is best known for the ubiquitous elbow surgery named after him, blamed his choice at the b... [1706 chars]",
-      "tags": ["personal_family", "elections_politics", "media_communications"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727307136
     },
     {
       "source": {
@@ -148,7 +163,8 @@
         "policy_legislation",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727305992
     },
     {
       "source": {
@@ -162,7 +178,12 @@
       "urlToImage": "https://img.rasset.ie/0021053d-1600.jpg",
       "publishedAt": "2024-09-25T23:00:00Z",
       "content": "Kamala Harris blasted Donald Trump as the \"biggest loser\" on the economy and a friend of billionaires as the election rivals laid out competing plans on the top issue for many US voters.\nIn a speech on the economy and then again in her first major so... [3716 chars]",
-      "tags": ["elections_politics", "economy_finance", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727305200
     },
     {
       "source": {
@@ -181,7 +202,8 @@
         "legal_justice",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727305200
     },
     {
       "source": {
@@ -199,7 +221,8 @@
         "security_intelligence",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727305200
     },
     {
       "source": {
@@ -218,7 +241,8 @@
         "trade",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727304908
     },
     {
       "source": {
@@ -232,7 +256,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-j-trump-shutterstock.jpg?id=52118553&width=1200&height=600&coordinates=0%2C28%2C0%2C28",
       "publishedAt": "2024-09-25T22:53:28Z",
       "content": "Former President Donald Trump may have just handed special counsel Jack Smith a crucial piece of evidence in an ongoing criminal case, according to a new legal analysis.\nTrump, the Republican presidential nominee, in a North Carolina campaign speech ... [1781 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727304808
     },
     {
       "source": {
@@ -252,7 +281,8 @@
         "policy_legislation",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727304286
     },
     {
       "source": {
@@ -270,7 +300,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727303531
     },
     {
       "source": {
@@ -289,7 +320,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727303460
     },
     {
       "source": {
@@ -303,7 +335,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240925-kamala-harris-snip-ac-547p-9b6330.jpg",
       "publishedAt": "2024-09-25T22:30:12Z",
       "content": "WASHINGTON — Vice President Kamala Harris on Wednesday criticized former President Donald Trump's recent comments about reproductive rights, saying he needs to trust women to make their own decisions.\n\"I don't think the women of America need him to s... [1728 chars]",
-      "tags": ["social_issues", "womens_rights", "civil_rights"]
+      "tags": [
+        "social_issues",
+        "womens_rights",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1727303412
     },
     {
       "source": {
@@ -323,7 +360,8 @@
         "elections_politics",
         "housing",
         "taxes"
-      ]
+      ],
+      "publishedAtTs": 1727303405
     },
     {
       "source": {
@@ -342,7 +380,8 @@
         "economy_finance",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727303241
     },
     {
       "source": {
@@ -356,7 +395,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2480652/e-jean-carroll-donald-trump.jpg",
       "publishedAt": "2024-09-25T22:25:57Z",
       "content": "Writer E. Jean Caroll previewed a new movie Wednesday, centered around her testimony in the sexual abuse case against former President Donald Trump.\nIn a trailer for E. Jean Carroll V. Donald J. Trump, Carroll's testimony will be voiced by different ... [2952 chars]",
-      "tags": ["legal_justice", "personal_family", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727303157
     },
     {
       "source": {
@@ -376,7 +420,8 @@
         "political_endorsements",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727302499
     },
     {
       "source": {
@@ -390,7 +435,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/iranian-video-trump-assassination-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-25T22:13:46Z",
       "content": "A chilling Iranian-made video from 2022 that depicts an assassination attempt against former President Donald Trump while he plays a round of golf resurfaced Wednesday after the Republican nominee revealed that Tehran is behind ongoing plots to take ... [5386 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1727302426
     },
     {
       "source": {
@@ -410,7 +460,8 @@
         "civil_rights",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1727301996
     },
     {
       "source": {
@@ -429,7 +480,8 @@
         "media_communications",
         "foreign_policy",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1727301724
     },
     {
       "source": {
@@ -447,7 +499,8 @@
         "government_administration",
         "security_intelligence",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1727300898
     }
   ]
 }

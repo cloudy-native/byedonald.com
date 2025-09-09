@@ -20,7 +20,8 @@
         "crisis_emergency",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1727740411
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "government_administration",
         "policy_legislation",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727740067
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "crisis_emergency",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727739928
     },
     {
       "source": {
@@ -71,7 +74,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2484143/nate-silver-key-swing-state-shifts.jpg",
       "publishedAt": "2024-09-30T23:36:42Z",
       "content": "Nate Silver's latest election forecast shows two key swing states have shifted in former President Donald Trump's favor over the past week, although Vice President Kamala Harris remains the favorite to win in November.\nTrump received a string of posi... [3450 chars]",
-      "tags": ["elections_politics", "swing_states", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "swing_states",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1727739402
     },
     {
       "source": {
@@ -89,7 +97,8 @@
         "elections_politics",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1727739031
     },
     {
       "source": {
@@ -109,7 +118,8 @@
         "doj_actions",
         "legal_justice",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1727738820
     },
     {
       "source": {
@@ -127,7 +137,8 @@
         "government_administration",
         "policy_legislation",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727737416
     },
     {
       "source": {
@@ -145,7 +156,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1727735738
     },
     {
       "source": {
@@ -159,7 +171,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/2024-president-joe-biden-pledged-90753915-e1727733142206.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-09-30T22:27:09Z",
       "content": "Talk about damning with faint praise. The New York Times editorial board endorsed Kamala Harris for president on Monday — but the real headline should have been “anybody but Donald Trump.”\nThe Times editors spent 16 paragraphs talking about Trump, tw... [4010 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727735229
     },
     {
       "source": {
@@ -179,7 +195,8 @@
         "government_administration",
         "elections_politics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1727733633
     },
     {
       "source": {
@@ -193,7 +210,12 @@
       "urlToImage": "https://cdn.vox-cdn.com/thumbor/JydS8gyTZg8MLfw8Jnze5s-I11s=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25334828/STK466_ELECTION_2024_CVirginia_F.jpg",
       "publishedAt": "2024-09-30T21:59:54Z",
       "content": "The people behind World Liberty Financial — former President Donald Trump, his sons, and his business associates — have made a lot of promises about the cryptocurrency platform’s revolutionary potential. It will liberate “the average American” from “... [2421 chars]",
-      "tags": ["cryptocurrency", "small_business", "personal_business"]
+      "tags": [
+        "cryptocurrency",
+        "small_business",
+        "personal_business"
+      ],
+      "publishedAtTs": 1727733594
     },
     {
       "source": {
@@ -211,7 +233,8 @@
         "natural_disasters",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727733312
     },
     {
       "source": {
@@ -225,7 +248,12 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/30/21/enhanced/f23dd94618cb/original-1230-1727732930-2.jpg?crop=2999:1575;0,0%26downsize=1250:*",
       "publishedAt": "2024-09-30T21:53:12Z",
       "content": "“Totally normal way to count,” quipped The Late Show host.\n“It reminds me of that classic joke: Why was 10 afraid of seven? Because four, seven, six, five.”\nColbert then turned his attention to Trump’s remarks at a Georgia rally on Tuesday and noted ... [768 chars]",
-      "tags": ["media_communications", "economy_finance", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1727733192
     },
     {
       "source": {
@@ -239,7 +267,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/AP24095755613462-e1720526285513.jpg?w=1280",
       "publishedAt": "2024-09-30T21:52:11Z",
       "content": "Former New York City Mayor Rudy Giuliani’s (R) daughter said she’s backing Vice President Harris in a Monday article for Vanity Fair and “grieving the loss” of her dad to former President Trump.\n“I spent a lot of my life wishing my father had less po... [1508 chars]",
-      "tags": ["elections_politics", "personal_family", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727733131
     },
     {
       "source": {
@@ -259,7 +292,8 @@
         "personal_family",
         "social_issues",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727732478
     },
     {
       "source": {
@@ -273,7 +307,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/09/trumpdonald_092924ap01_w.jpg?w=1280",
       "publishedAt": "2024-09-30T21:36:49Z",
       "content": "Former President Trump sparked a new furor with comments over the weekend in which he disparaged Vice President Harris as “mentally impaired” and “mentally disabled.”\nThe remarks — coming initially at a Saturday rally in Wisconsin and repeated in bro... [5220 chars]",
-      "tags": ["personal_family", "social_issues", "media_communications"]
+      "tags": [
+        "personal_family",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727732209
     },
     {
       "source": {
@@ -293,7 +332,8 @@
         "government_administration",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1727731800
     },
     {
       "source": {
@@ -313,7 +353,8 @@
         "security_intelligence",
         "cybersecurity",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1727731723
     },
     {
       "source": {
@@ -331,7 +372,8 @@
         "natural_disasters",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727731674
     },
     {
       "source": {
@@ -351,7 +393,8 @@
         "crisis_emergency",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727730333
     },
     {
       "source": {
@@ -365,7 +408,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/09/zachary_levi_2164516151.jpg",
       "publishedAt": "2024-09-30T21:00:34Z",
       "content": "Actor Zachary Levi, known for his role as DC Comics Superhero, Shazam, endorsed Donald Trump in the 2024 presidential election over the weekend, acknowledging the move as a form of \"career suicide.\"\nLevi appeared at MAGA's “Team Trump’s Reclaim Ameri... [1381 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1727730034
     },
     {
       "source": {
@@ -385,7 +433,8 @@
         "personal_family",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727729819
     },
     {
       "source": {
@@ -399,7 +448,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-09/240916-ryan-routh-trump-suspect-mn-0936-bee424.jpg",
       "publishedAt": "2024-09-30T20:53:09Z",
       "content": "WEST PALM BEACH, Fla. — The man accused of plotting to kill Donald Trump at the former president's Florida golf course eariler this month pleaded not guilty to all charges on Monday.\nRyan Wesley Routh, 58, wore a beige inmate’s outfit with a dark bro... [1910 chars]",
-      "tags": ["criminal_cases", "security_incidents", "personal_legal"]
+      "tags": [
+        "criminal_cases",
+        "security_incidents",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1727729589
     },
     {
       "source": {
@@ -413,7 +467,12 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/30/20/enhanced/479813c30c36/original-637-1727727944-3.jpg?crop=1200:628;0,0%26downsize=1250:*",
       "publishedAt": "2024-09-30T20:50:44Z",
       "content": "\"We’re here to make sure that we are going to take back this country, we are going to make it great again, we are going to make it healthy again,\" Zachary continued. \"I do believe, that of the two choices that we have — and we only have two — Donald ... [260 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1727729444
     },
     {
       "source": {
@@ -427,7 +486,12 @@
       "urlToImage": "https://compote.slate.com/images/ae5ac2f9-0065-411e-b1c0-f037cb387d22.jpeg?crop=2000%2C1333%2Cx0%2Cy0&width=1560",
       "publishedAt": "2024-09-30T20:26:35Z",
       "content": "Donald Trump has been convicted of 34 felony counts in the New York hush money case—but there’s a lengthy appeals process ahead. And what ever happened to the other three cases against him—Jack Smith’s federal election interference and classified doc... [4546 chars]",
-      "tags": ["legal_justice", "elections_politics", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1727727995
     }
   ]
 }

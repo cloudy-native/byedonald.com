@@ -20,7 +20,8 @@
         "regional_state",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730851080
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "elections_politics",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1730850945
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "political_endorsements",
         "stock_market",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1730850554
     },
     {
       "source": {
@@ -72,7 +75,12 @@
       "urlToImage": "https://e3.365dm.com/24/11/1600x900/skynews-kamala-harris-donald-trump_6740034.jpg?20241105215855",
       "publishedAt": "2024-11-05T23:49:00Z",
       "content": "How the election works in 100 words\nEach state is worth a number of points known as \"electoral college votes\" related to the population of the state.\nCalifornia, the most populous US state, has 54 electoral college votes representing its 39 million p... [394 chars]",
-      "tags": ["elections_politics", "voting_rights", "security_incidents"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1730850540
     },
     {
       "source": {
@@ -93,7 +101,8 @@
         "campaign_events",
         "regional_state",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1730850540
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "2028_presidential",
         "regional_state",
         "swing_states"
-      ]
+      ],
+      "publishedAtTs": 1730850467
     },
     {
       "source": {
@@ -126,7 +136,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2024/11/Trump-Oct-29-2024-2-Reuters-2024-11-ba5fb17cfbc0dc531a6911ffb5f05794.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2024-11-05T23:46:51Z",
       "content": "Former US President Donald Trump took an early lead in Indiana and Kentucky shortly after the polls closed in both states. The red states which Trump is expected to win also featured RFK Jr on the ballot read more\nRepublican presidential nominee and ... [1017 chars]",
-      "tags": ["elections_politics", "regional_state", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1730850411
     },
     {
       "source": {
@@ -146,7 +161,8 @@
         "supreme_court",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1730849881
     },
     {
       "source": {
@@ -167,7 +183,8 @@
         "government_operations",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1730849846
     },
     {
       "source": {
@@ -181,7 +198,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fbellmediainc%2F1724351256551.jpg?auth=ea378f0c87d0c2db4f9692b88fabb58df531aabc315e9ad01c224ae7459ab3a6&width=1200",
       "publishedAt": "2024-11-05T23:25:41Z",
       "content": "The final answer may or may not come on Tuesday, but news organizations that have spent months reporting on the presidential campaign between Kamala Harris and Donald Trump finally have the opportunity to report on actual results.\nBroadcast, cable ne... [3928 chars]",
-      "tags": ["elections_politics", "media_communications", "voting_rights"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "voting_rights"
+      ],
+      "publishedAtTs": 1730849141
     },
     {
       "source": {
@@ -195,7 +217,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/__srWH_aDafvpncxxUvKdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/ff6b0430-9bc9-11ef-aefe-64c53d6359bb",
       "publishedAt": "2024-11-05T23:23:04Z",
       "content": "Here’s an update on the “Trump trade” I placed on Oct. 30. I placed it to get in on the action and see what it’s like to bet on an election. For reasons I explained in an article above, my main conviction was that traders are interpreting betting mar... [2117 chars]",
-      "tags": ["economy_finance", "stock_market", "personal_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "personal_business"
+      ],
+      "publishedAtTs": 1730848984
     },
     {
       "source": {
@@ -209,7 +236,12 @@
       "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/11/exit-poll-1730849237.jpg",
       "publishedAt": "2024-11-05T23:20:31Z",
       "content": "Follow us on Image Source : AP/INDIA TV US Exit Polls\nWashinton: Democrat Kamala Harris faced Republican Donald Trump on Tuesday in the US presidential election, with the two candidates vying to attract support after staking positions on issues inclu... [3457 chars]",
-      "tags": ["elections_politics", "2028_presidential", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "swing_states"
+      ],
+      "publishedAtTs": 1730848831
     },
     {
       "source": {
@@ -223,7 +255,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2024/11/Voting_US1200AP-2024-11-29af6aac80df05cf3e23d9b236330ba3.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2024-11-05T23:19:53Z",
       "content": "As figures from exit polls, analysing the Harris vs Trump race, pour in here’s a look at how they work and what is the significance of this tool read more\n(File) People walk past a sign that points the direction toward a voting location during early ... [2940 chars]",
-      "tags": ["elections_politics", "voting_rights", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "media_communications"
+      ],
+      "publishedAtTs": 1730848793
     },
     {
       "source": {
@@ -242,7 +279,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1730848544
     },
     {
       "source": {
@@ -256,7 +294,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349569-1579719779301img_3342r.jpg?v=1697236638&w=1920&h=1080",
       "publishedAt": "2024-11-05T23:11:08Z",
       "content": "CNBC's Jim Cramer on Election Day identified stocks that could perform well with either Vice President Kamala Harris or former President Donald Trump in the White House.\n\"I want to highlight ten stocks that I believe will do well under either candida... [480 chars]",
-      "tags": ["economy_finance", "stock_market", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1730848268
     },
     {
       "source": {
@@ -276,7 +319,8 @@
         "foreign_policy",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1730848053
     },
     {
       "source": {
@@ -296,7 +340,8 @@
         "elections_politics",
         "economy_finance",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1730847815
     },
     {
       "source": {
@@ -310,7 +355,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.lIFwj4HRx1xJ5B_e.xKsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-10/6a8e8750-9bbb-11ef-bf5d-d364b54d2d60",
       "publishedAt": "2024-11-05T23:03:05Z",
       "content": "US stock futures held steady as investors brace for the results of US presidential election, which are expected to roll in over the next several hours.\nNear 6 p.m. ET, contracts on the tech-heavy Nasdaq 100 (NQ=F) climbed about 0.1% while S&P 500 fut... [1481 chars]",
-      "tags": ["economy_finance", "elections_politics", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "stock_market"
+      ],
+      "publishedAtTs": 1730847785
     },
     {
       "source": {
@@ -324,7 +374,11 @@
       "urlToImage": "https://img2.thejournal.ie/article/6522464/river/?height=400&version=6524470",
       "publishedAt": "2024-11-05T23:00:43Z",
       "content": "FIFTY STATES WILL, obviously, decide the outcome of the US presidential election – but it’ll come down to seven in particular.\nThey are known by different names: battleground states, purple states or swing states.\nUltimately, they are states that cou... [5853 chars]",
-      "tags": ["elections_politics", "swing_states"]
+      "tags": [
+        "elections_politics",
+        "swing_states"
+      ],
+      "publishedAtTs": 1730847643
     },
     {
       "source": {
@@ -338,7 +392,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/people/donald-trump.jpg;w=750;h=500;mode=crop",
       "publishedAt": "2024-11-05T23:00:00Z",
       "content": "Democrat Kamala Harris expected to win the popular vote nationally.\nBritish Columbia gamblers tend to believe Republican candidate Donald Trump will win today's U.S. presidential election while Democrat Kamala Harris will carry the popular vote natio... [3149 chars]",
-      "tags": ["elections_politics", "foreign_policy", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1730847600
     },
     {
       "source": {
@@ -352,7 +411,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4c/54c71f78-d468-553a-b478-92f2ac664a0c/672ad91db45b6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-11-05T22:56:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1730847360
     },
     {
       "source": {
@@ -370,7 +434,8 @@
         "media_communications",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1730847360
     }
   ]
 }

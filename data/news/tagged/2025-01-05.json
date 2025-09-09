@@ -20,7 +20,8 @@
         "security_intelligence",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1736121057
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=53842832&width=1200&height=600&coordinates=0%2C250%2C0%2C251",
       "publishedAt": "2025-01-05T23:22:52Z",
       "content": "Donald Trump's recent Mar-a-Lago gathering to promote a Jan. 6 lawyer's new documentary is a \"clear slap in the face to democracy,\" an ex-prosecutor said on Sunday.\nFormer federal prosecutor Joyce Vance earlier in the day wrote about an \"interesting ... [1591 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1736119372
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "elections_politics",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736118926
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "nato",
         "russia",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1736118802
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "economy_finance",
         "media_communications",
         "ethics"
-      ]
+      ],
+      "publishedAtTs": 1736118488
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "crisis_emergency",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736117834
     },
     {
       "source": {
@@ -126,7 +136,12 @@
       "urlToImage": "https://bgr.com/wp-content/uploads/2025/01/rsz_gettyimages-1199338683.jpg?quality=82&strip=all",
       "publishedAt": "2025-01-05T22:44:29Z",
       "content": "The reaction of the business community to four more years of a Trump administration is much different this time than it was after the 2016 election. Take Amazon, to use just one example.\nThe company’s Prime Video streaming service has acquired a docu... [2336 chars]",
-      "tags": ["personal_family", "media_communications", "regional_state"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1736117069
     },
     {
       "source": {
@@ -140,7 +155,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/4ae6f89/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2F7d%2Fd88fb678de52a93a2a78bc0b49b0%2F71f4558c28694646a590045bdbbd0fa1",
       "publishedAt": "2025-01-05T22:35:36Z",
       "content": "LOS ANGELES (AP) — Incoming first lady Melania Trump will be the subject of a new documentary directed by Brett Ratner and distributed by Amazon Prime Video. The streaming arm of the tech giant got exclusive licensing rights for a streaming and theat... [2782 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1736116536
     },
     {
       "source": {
@@ -154,7 +174,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=24720752&width=1200&height=600&coordinates=0%2C12%2C0%2C12",
       "publishedAt": "2025-01-05T22:33:51Z",
       "content": "It was recently reported that Amazon is putting out a Melania Trump documentary, but many onlookers are looking forward to skipping it.\nThe Wall Street Journal is among the news outlets that on Sunday reported that Amazon's Prime Video streaming serv... [1577 chars]",
-      "tags": ["personal_family", "media_communications", "social_issues"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1736116431
     }
   ]
 }

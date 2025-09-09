@@ -19,7 +19,8 @@
         "federal_agencies",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733875000
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-12/9/21/enhanced/f698ffc1927a/original-1828-1733778813-2.jpg?crop=800:419;0,0%26downsize=1250:*",
       "publishedAt": "2024-12-10T23:55:40Z",
       "content": "Last week, President-elect Donald Trump announced that he’ll impose a 25% tariff on all goods from Mexico and Canada and an additional 10% tariff on Chinese goods — starting on the first day of his presidency.\nSteep across-the-board tariffs on import... [1649 chars]",
-      "tags": ["economy_finance", "policy_legislation", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1733874940
     },
     {
       "source": {
@@ -51,7 +57,8 @@
         "legal_justice",
         "natural_disasters",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1733874826
     },
     {
       "source": {
@@ -69,7 +76,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1733874447
     },
     {
       "source": {
@@ -87,7 +95,8 @@
         "security_intelligence",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1733874263
     },
     {
       "source": {
@@ -101,7 +110,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6758b2ff19000055001dd10a.jpeg?cache=p5nSUSkPMV&ops=1200_630",
       "publishedAt": "2024-12-10T23:42:44Z",
       "content": "LOADING ERROR LOADING\nZachary Levi says his support for President-elect Donald Trump hasn’t resulted in “career suicide” after all.\nAppearing on Bill Maher’s “Club Random” podcast this week, the “Shazam!” actor shrugged off the implication that he’d ... [3268 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1733874164
     },
     {
       "source": {
@@ -115,7 +129,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-pnuo65n9j-1733873765290.jpg?quality=75&strip=all&1733855777&w=1024",
       "publishedAt": "2024-12-10T23:41:43Z",
       "content": "President-elect Donald Trump announced Tuesday that his eldest son’s longtime fiancée, Kimberly Guilfoyle, will serve as US ambassador to Greece in his incoming administration — after sources spilled to The Post that he and Guilfoyle recently split u... [3513 chars]",
-      "tags": ["personal_family", "government_administration", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "government_administration",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1733874103
     },
     {
       "source": {
@@ -135,7 +154,8 @@
         "economy_finance",
         "legal_justice",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1733873967
     },
     {
       "source": {
@@ -154,7 +174,8 @@
         "energy",
         "environment",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733873843
     },
     {
       "source": {
@@ -168,7 +189,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/guilfoylekim_071724gn01_w.jpg?w=1280",
       "publishedAt": "2024-12-10T23:36:05Z",
       "content": "President-elect Trump named Kimberly Guilfoyle as ambassador to Greece in his upcoming administration.\nGuilfoyle is a former Fox News personality and has been a staple of the Trump family for years since she previously was in a relationship with Dona... [1090 chars]",
-      "tags": ["government_administration", "foreign_policy", "europe"]
+      "tags": [
+        "government_administration",
+        "foreign_policy",
+        "europe"
+      ],
+      "publishedAtTs": 1733873765
     }
   ]
 }

@@ -14,7 +14,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/casino-comp-1-1.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-03-10T23:43:24Z",
       "content": "Mayor Eric Adams and the City Council are mulling changes to the zoning law to make opening as many as three casinos in New York City a sure bet, sources told The Post.\nBet on proposed casinos in locations, including Times Square, Hudson Yards, the T... [3689 chars]",
-      "tags": ["policy_legislation", "economy_finance", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1678491804
     },
     {
       "source": {
@@ -33,7 +38,8 @@
         "elections_politics",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1678490386
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "civil_litigation",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1678489018
     },
     {
       "source": {
@@ -66,7 +73,11 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1461944-12-20230310165740.jpeg",
       "publishedAt": "2023-03-10T22:40:00Z",
       "content": "E. Jean Carroll, who is suing former President Donald Trump, won on a couple of issues in federal court on Friday. District Judge Lewis Kaplan decided that Carroll, who accuses Trump of raping her in the 1990s, can use the 2005 Access Hollywood recor... [1042 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678488000
     },
     {
       "source": {
@@ -80,7 +91,11 @@
       "urlToImage": "https://images.wsj.net/im-740186/social",
       "publishedAt": "2023-03-10T22:19:00Z",
       "content": "Peggy Noonan offers valid reasons, such as “partisan thinking,” that many dismissed the idea of Covid-19 emanating from a lab leak in Wuhan, China (“Common Sense Points to a Lab Leak,” Declarations, March 4). This, however, was no ordinary partisansh... [304 chars]",
-      "tags": ["media_communications", "social_issues"]
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1678486740
     },
     {
       "source": {
@@ -94,7 +109,11 @@
       "urlToImage": "https://storage.googleapis.com/afs-prod/media/ca19a628b9c243d58a6ab296b33692fa/3000.webp",
       "publishedAt": "2023-03-10T21:49:10Z",
       "content": "FILE - Former President Donald Trump pumps his fist after speaking at the Conservative Political Action Conference, March 4, 2023, Oxon Hill, Md. The Manhattan district attorney's office appears to be getting close to a decision on whether to charge ... [8482 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1678484950
     },
     {
       "source": {
@@ -108,7 +127,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/Collage-Maker-10-Mar-2023-02-04-PM-7813.jpg?w=1280",
       "publishedAt": "2023-03-10T21:23:30Z",
       "content": "Former President Trump is engulfed in a number of legal battles, but signs are growing that Manhattan prosecutors’ Stormy Daniels investigation could soon produce criminal charges, which would be a first for a former U.S. president.\nThe New York Time... [6124 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678483410
     },
     {
       "source": {
@@ -122,7 +145,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230310110354-02-biden-af1-design-rendering.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-03-10T21:14:25Z",
       "content": "CNN —\nThe US Air Force unveiled a new color scheme for the new Air Force One jets under construction on Friday, doing away with the darker red, white, and blue chosen by former President Donald Trump and opting for a modernized version of the classic... [3378 chars]",
-      "tags": ["government_administration", "media_communications"]
+      "tags": [
+        "government_administration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678482865
     },
     {
       "source": {
@@ -142,7 +169,8 @@
         "criminal_cases",
         "civil_litigation",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1678480665
     },
     {
       "source": {
@@ -161,7 +189,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1678477033
     },
     {
       "source": {
@@ -175,7 +204,11 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/03/alvin-bragg-donald-trump-0324221.jpg",
       "publishedAt": "2023-03-10T19:22:11Z",
       "content": "The Manhattan district attorney's office informed former President Donald Trump's team that he could face criminal charges stemming from his role in the hush money payment to Stormy Daniels, according to multiple reports.\nProsecutors offered Trump a ... [4904 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678476131
     },
     {
       "source": {
@@ -189,7 +222,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/03/trumpdonald_030423gn36_w.jpg?w=1280",
       "publishedAt": "2023-03-10T19:20:32Z",
       "content": "Former President Trump is seeing his support drop among Iowa Republicans since last year, according to new polling.\nA Des Moines Register/Mediacom Iowa Poll released on Friday found 47 percent of Republican respondents in the state said they would de... [1695 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1678476032
     },
     {
       "source": {
@@ -209,7 +246,8 @@
         "doj_actions",
         "congressional_investigations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1678474500
     },
     {
       "source": {
@@ -229,7 +267,8 @@
         "federal_courts",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1678473064
     },
     {
       "source": {
@@ -243,7 +282,12 @@
       "urlToImage": "https://static.politico.com/78/9f/797e7e234df68ea8498f91eb8e81/us-trump-legal-troubles-91843.jpg",
       "publishedAt": "2023-03-10T18:30:46Z",
       "content": "In the tape, a recording from 2005 that was widely scrutinized during the 2016 presidential campaign, Trump boasts, “When you’re a star, they let you do it. You can do anything,” adding: “Grab them by the pussy. You can do anything.”\nThough Carroll’s... [1192 chars]",
-      "tags": ["legal_justice", "personal_legal", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678473046
     },
     {
       "source": {
@@ -257,7 +301,11 @@
       "urlToImage": "https://images.livemint.com/img/2023/03/11/600x338/Fq47ONiWYAQP98B_1678497009371_1678497016855_1678497016855.jfif",
       "publishedAt": "2023-03-10T18:30:00Z",
       "content": "President of the United States Joe Biden has selected the livery design for the Next Air Force One, VC-25B, a design that will closely resemble the livery of the current Air Force One, VC-25A, while also modernizing for the 21st century.\nSpeaking of ... [2281 chars]",
-      "tags": ["government_administration", "media_communications"]
+      "tags": [
+        "government_administration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678473000
     },
     {
       "source": {
@@ -271,7 +319,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/newspress-collage-26080349-1678472231144.jpg?quality=75&strip=all&1678454305&w=1024",
       "publishedAt": "2023-03-10T18:26:02Z",
       "content": "An excerpt from a notorious “Access Hollywood” tape in which former President Donald Trump seems to brag about sexually assaulting women will be allowed into evidence at his upcoming trial in the alleged rape of writer E. Jean Carroll.\nUS District Ju... [2162 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678472762
     },
     {
       "source": {
@@ -285,7 +338,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/01_04_2019_19_28_56_3344151.jpg?width=920&format=jpeg",
       "publishedAt": "2023-03-10T18:18:15Z",
       "content": "A U.S. judge on Friday rejected Donald Trump's effort to exclude an \"Access Hollywood\" tape of him making vulgar comments about women from a defamation lawsuit by the writer E. Jean Carroll, who says the former president raped her in the mid-1990s. C... [2526 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678472295
     },
     {
       "source": {
@@ -299,7 +357,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/4d0b48463d68849b245f3f2e6b7b1950d83a9843/0_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74cab6015520ca5a2ae27458cec724be",
       "publishedAt": "2023-03-10T18:10:17Z",
       "content": "The tape of Donald Trump boasting about sexual aggression towards women that detonated late in the 2016 election campaign but did not prevent him from winning the presidency will be permitted at a forthcoming civil trial in New York.\nA federal judge ... [2658 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678471817
     },
     {
       "source": {
@@ -313,7 +376,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2022/07/LIV-Golf-Ivanka-.jpg?w=1024&h=683",
       "publishedAt": "2023-03-10T17:50:13Z",
       "content": "With news that Manhattan prosecutors may be ready to indict Donald Trump for his role in a hush money payment to porn star Stormy Daniels, it’s easy to wonder whether the former president would even be in this mess if he had stayed away from a celebr... [8509 chars]",
-      "tags": ["personal_family", "legal_justice", "media_communications"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1678470613
     },
     {
       "source": {
@@ -332,7 +400,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1678469064
     },
     {
       "source": {
@@ -346,7 +415,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220921102847-e-jean-carroll.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-03-10T17:19:38Z",
       "content": "CNN —\nA federal judge on Friday said that E. Jean Carroll, in her defamation case against former President Donald Trump, can use as evidence the testimony of two other sexual assault accusers as well as the “Access Hollywood” tape, in which he bragge... [2560 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678468778
     },
     {
       "source": {
@@ -360,7 +434,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/fgLGmu7dxQMEmKL6mBx0Ux2lofM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/CGE3SX4WC6H2P7V244FR7IUEI4.jpg",
       "publishedAt": "2023-03-10T17:04:55Z",
       "content": "A New York City judge on Friday said lawyers for E. Jean Carroll may call two women who have accused Trump of sexual misconduct as witnesses at his upcoming civil rape trial, and play the infamous “Access Hollywood” tape for the jury.\nManhattan Feder... [2027 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1678467895
     }
   ]
 }

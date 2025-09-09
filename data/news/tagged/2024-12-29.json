@@ -14,7 +14,11 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/95926165.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-12-29T23:59:15Z",
       "content": "7 The Town of Palm Beach sent out a police reminder to residents about “opportunistic criminals.” AFP via Getty Images\nAlong with a “Trump bump” in Palm Beach, Fla., for multimillion-dollar real estate deals, there’s also a rise in potential crime, s... [2810 chars]",
-      "tags": ["regional_state", "personal_family"]
+      "tags": [
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1735516755
     },
     {
       "source": {
@@ -28,7 +32,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-12/241229-jimmy-carter-vl-428p-1e99df.jpg",
       "publishedAt": "2024-12-29T23:55:43Z",
       "content": "Create your free profile or log in to save this article\nCreate your free profile or log in to save this article\nJimmy Carter dies at 100\nJimmy Carter, the 39th president of the United States, has died at age 100. Carter was a human rights champion an... [6773 chars]",
-      "tags": ["transportation", "international_crisis"]
+      "tags": [
+        "transportation",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1735516543
     },
     {
       "source": {
@@ -47,7 +55,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735516532
     },
     {
       "source": {
@@ -66,7 +75,8 @@
         "economy_finance",
         "elections_politics",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1735515904
     },
     {
       "source": {
@@ -84,7 +94,8 @@
         "economy_finance",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1735514266
     },
     {
       "source": {
@@ -102,7 +113,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1735514253
     },
     {
       "source": {
@@ -122,7 +134,8 @@
         "economy_finance",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1735514003
     },
     {
       "source": {
@@ -142,7 +155,8 @@
         "elections_politics",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1735513560
     },
     {
       "source": {
@@ -156,7 +170,11 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/08/Trump-Jan.-6.webp",
       "publishedAt": "2024-12-29T22:38:49Z",
       "content": "Several defendants involved in the Jan. 6, 2021, Capitol riot have requested judges’ permission to attend President-elect Donald Trump’s inauguration on Jan. 20, 2025.\nThese requests, tied to Trump’s promises to pardon Capitol riot participants, have... [4593 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1735511929
     },
     {
       "source": {
@@ -174,7 +192,8 @@
         "personal_family",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1735510955
     }
   ]
 }

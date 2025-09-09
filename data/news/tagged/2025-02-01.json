@@ -20,7 +20,8 @@
         "terrorism",
         "military",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738454304
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "policy_legislation",
         "foreign_policy",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738454150
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738454134
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "foreign_policy",
         "policy_legislation",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738453713
     },
     {
       "source": {
@@ -94,7 +98,13 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_06_2024_04_42_50_8432673.png?width=920&format=jpeg",
       "publishedAt": "2025-02-01T23:45:29Z",
       "content": "U.S. consumers are bracing for higher gas prices following President Donald Trump's decision to impose tariffs on Canadian and Mexican oil. Analysts and traders expect fuel costs to rise as Trump's trade protection strategies, intended to bolster dom... [760 chars]",
-      "tags": ["economy_finance", "energy", "taxes", "trade"]
+      "tags": [
+        "economy_finance",
+        "energy",
+        "taxes",
+        "trade"
+      ],
+      "publishedAtTs": 1738453529
     },
     {
       "source": {
@@ -108,7 +118,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/IL2WX74GSZ7XRH3S65CZHHQ6WI.jpg?smart=true&auth=a3dce04e29ef9f28ae82f1cc441c803f438acefda9812e60d4ed908abf434a8d&width=1200&height=630",
       "publishedAt": "2025-02-01T23:43:21Z",
       "content": "GM workers use human assistance automation to weld vehicle doors at the General Motors assembly plant during the COVID-19 pandemic in Oshawa, Ont., on Friday, March 19, 2021. THE CANADIAN PRESS/Nathan Denette\nOTTAWA — U.S. President Donald Trump sign... [2945 chars]",
-      "tags": ["economy_finance", "trade", "energy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1738453401
     },
     {
       "source": {
@@ -122,7 +137,12 @@
       "urlToImage": "https://images.indianexpress.com/2025/02/Ukraine-.jpg",
       "publishedAt": "2025-02-01T23:43:21Z",
       "content": "Ukrainian President Volodymyr Zelenskyy said Saturday that excluding his country from talks between the US and Russia about the war in Ukraine would be “very dangerous” and asked for more discussions between Kyiv and Washington to develop a plan for ... [4574 chars]",
-      "tags": ["foreign_policy", "russia", "ukraine"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1738453401
     },
     {
       "source": {
@@ -136,7 +156,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-trump-reuters.jpg?id=55545335&width=1200&height=600&coordinates=0%2C8%2C0%2C9",
       "publishedAt": "2025-02-01T23:42:15Z",
       "content": "Donald Trump on Saturday announced the implementation of tariffs that are so controversial even Republican Senator Rand Paul opposes them.\nJust after signing the order, Trump hopped on his own social media platform, Truth Social, to explain his decis... [809 chars]",
-      "tags": ["economy_finance", "policy_legislation", "trade"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "trade"
+      ],
+      "publishedAtTs": 1738453335
     },
     {
       "source": {
@@ -154,7 +179,8 @@
         "media_communications",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1738453020
     },
     {
       "source": {
@@ -168,7 +194,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/02/de8fd4b5fad7fa9f4ab6d0f9d84378ead2c1f8c122e0136ebe583934b2250085.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-02-01T23:35:58Z",
       "content": "WASHINGTON — U.S. President Donald Trump will hit Canada with 25 per cent tariffs on Tuesday, with a lower 10 per cent duty for energy — laying the foundation for a trade war with America's closest neighbours.\nWASHINGTON — U.S. President Donald Trump... [5658 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1738452958
     }
   ]
 }

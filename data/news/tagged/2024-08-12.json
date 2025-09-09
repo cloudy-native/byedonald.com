@@ -19,7 +19,8 @@
         "media_communications",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1723506942
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "crisis_emergency",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1723506911
     },
     {
       "source": {
@@ -53,7 +55,12 @@
       "urlToImage": "https://images.indianexpress.com/2024/05/Trump-Musk-Reuters.jpg",
       "publishedAt": "2024-08-12T23:53:17Z",
       "content": "Elon Musk-Donald Trump Interview: Republican candidate Donald Trump has returned to social media platform X and will be doing an interview with its owner Elon Musk. Trump was earlier banned from the platform for two years following the US Capitol rio... [951 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723506797
     },
     {
       "source": {
@@ -73,7 +80,8 @@
         "elections_politics",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723506051
     },
     {
       "source": {
@@ -87,7 +95,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/08/mixcollage-12-aug-2024-11-13-pm-8341-2024-08-b177435747424fa71365a797742c6d31-16x9.jpg",
       "publishedAt": "2024-08-12T23:30:30Z",
       "content": "Elon Musk-Donald Trump Interview Live Updates: Former US President is scheduled to sit for an unscripted interview on X with the platform owner Elon Musk, on Wednesday.\nThe Republican contender for the White House and X’s owner are slated to have wha... [940 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723505430
     },
     {
       "source": {
@@ -101,7 +114,12 @@
       "urlToImage": "https://cdn.abcotvs.net/abcotv/assets/news/kabc/images/logos/default_300x169.jpg?w=1600",
       "publishedAt": "2024-08-12T23:30:27Z",
       "content": "Trump campaign office burglarized in Virginia; officials release photo of suspect\nAuthorities are looking for a man in connection to a burglary at the Trump for President 2024 campaign office in Ashburn, Virginia, the Loudoun County Sheriff's Office ... [886 chars]",
-      "tags": ["elections_politics", "security_intelligence", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence",
+        "regional_state"
+      ],
+      "publishedAtTs": 1723505427
     },
     {
       "source": {
@@ -115,7 +133,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/710277/uploads/fa0d4c30-5878-11ef-b478-4d0c8f1ef6de_1200_630.jpeg",
       "publishedAt": "2024-08-12T23:30:01Z",
       "content": "Ann Coulter, once one of Donald Trump’s most vocal supporters, made headlines with a shocking statement that left both her followers and critics in disbelief. Earlier this year, in February, when asked by @WeStand4USA, \"Ann Coulter has been right abo... [3691 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1723505401
     },
     {
       "source": {
@@ -129,7 +152,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/trump-eu-comp.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-08-12T23:29:43Z",
       "content": "The Trump campaign accused the European Union on Monday of attempting to “meddle in the US Presidential election” after a top EU official warned billionaire Elon Musk not to amplify “potentially harmful content” ahead of his interview with Trump.\n“Th... [3056 chars]",
-      "tags": ["elections_politics", "foreign_policy", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "media_communications"
+      ],
+      "publishedAtTs": 1723505383
     },
     {
       "source": {
@@ -143,7 +171,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/66ba860a2200003400ba6977.jpeg?cache=RMcuy8uxwH&ops=1200_630",
       "publishedAt": "2024-08-12T23:26:17Z",
       "content": "LOADING ERROR LOADING\nOn Monday, two of Trump’s former advisers attempted to offer him ways to boost his campaign, but anyone who has followed the ex-president since at least 2016 probably knows he won’t follow their advice.\nAdvertisement\nLarry Kudlo... [2269 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723505177
     },
     {
       "source": {
@@ -163,7 +196,8 @@
         "elections_politics",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723504836
     },
     {
       "source": {
@@ -182,7 +216,8 @@
         "elections_politics",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1723504643
     },
     {
       "source": {
@@ -202,7 +237,8 @@
         "intelligence",
         "security_incidents",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723504414
     },
     {
       "source": {
@@ -222,7 +258,8 @@
         "elections_politics",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723504378
     },
     {
       "source": {
@@ -242,7 +279,8 @@
         "elections_politics",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1723504238
     },
     {
       "source": {
@@ -256,7 +294,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDhcXFwvMTMwNzE0MjFcXFwvNzUzZjJmZWRlMmZmNGZhNzgxYjg5NTc1ZjU4Yjc1NDQtZTE3MjM1Mjk3ODMyODEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyMTk3MTg5M2JiZWU1MWRjMTYyYjBjOTM3Y2VlMjc2OWQ2NjNjNGUxIn0=/trump-criticises-eu-and-kamala-harris-in-delayed-x-interview.jpg",
       "publishedAt": "2024-08-12T23:00:00Z",
       "content": "Donald Trump criticised the European Union and his Democratic opponents during a delayed, two-hour conversation with Elon Musk on X.\nThe interview, due to start at 1am on Tuesday, was put back by more than 40 minutes by technical problems with X owne... [3856 chars]",
-      "tags": ["media_communications", "foreign_policy", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1723503600
     },
     {
       "source": {
@@ -270,7 +313,12 @@
       "urlToImage": "https://img.rasset.ie/001c6ff3-1600.jpg",
       "publishedAt": "2024-08-12T23:00:00Z",
       "content": "Republican presidential candidate Donald Trump's scheduled interview with Elon Musk on the billionaire entrepreneur's social media platform X ran into technical difficulties at the outset, with some users having difficulty accessing the live stream.\n... [4513 chars]",
-      "tags": ["media_communications", "elections_politics", "social_media"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_media"
+      ],
+      "publishedAtTs": 1723503600
     },
     {
       "source": {
@@ -290,7 +338,8 @@
         "government_administration",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1723503600
     },
     {
       "source": {
@@ -304,7 +353,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240812-Virginia-Loudoun-County-trump-campaign-office-burglary-suspect-ac-609p-207488.jpg",
       "publishedAt": "2024-08-12T22:57:58Z",
       "content": "Authorities in a Virginia suburb of Washington, D.C., said Monday that they are investigating a break-in at a campaign office for former President Donald Trump.\nThe Loudoun County Sheriff’s Office said in a news release that deputies were contacted a... [1742 chars]",
-      "tags": ["elections_politics", "security_intelligence", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence",
+        "regional_state"
+      ],
+      "publishedAtTs": 1723503478
     },
     {
       "source": {
@@ -324,7 +378,8 @@
         "labor",
         "economy_finance",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1723503080
     },
     {
       "source": {
@@ -344,7 +399,8 @@
         "elections_politics",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1723502814
     },
     {
       "source": {
@@ -358,7 +414,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/08/Donald_Trump_98_4.webp",
       "publishedAt": "2024-08-12T22:45:56Z",
       "content": "The Trump campaign’s Loudoun County, Virginia, office was burglarized by an unknown suspect.\nThe Loudoun County Sheriff’s Office announced the burglary in a statement, showing security footage of a man robbing the office without any face covering. Th... [1105 chars]",
-      "tags": ["elections_politics", "regional_state", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1723502756
     },
     {
       "source": {
@@ -378,7 +439,8 @@
         "social_media",
         "free_speech",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1723502291
     },
     {
       "source": {
@@ -398,7 +460,8 @@
         "intelligence",
         "security_incidents",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1723501789
     },
     {
       "source": {
@@ -412,7 +475,8 @@
       "urlToImage": "https://images.indianexpress.com/2024/08/Untitled-design-38-2.jpg",
       "publishedAt": "2024-08-12T22:27:37Z",
       "content": "When Mahesh Bhatt opened up about his role in Vinod Khanna’s decision to join Osho commune\nEntertainment Updated: August 12, 2024 21:43 IST\nActor Vinod Khanna and director Mahesh Bhatt collaborated on three successful films, Lahu Ke Do Rang, Jurm and... [277 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1723501657
     }
   ]
 }

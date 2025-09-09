@@ -18,7 +18,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1735603145
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "regional_state",
         "economy_finance",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1735602320
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1735601975
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "security_intelligence",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1735601458
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "policy_legislation",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1735601183
     },
     {
       "source": {
@@ -114,7 +119,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735600262
     },
     {
       "source": {
@@ -134,7 +140,8 @@
         "ukraine",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735598364
     },
     {
       "source": {
@@ -154,7 +161,8 @@
         "legal_justice",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1735597800
     },
     {
       "source": {
@@ -172,7 +180,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1735597681
     },
     {
       "source": {
@@ -190,7 +199,8 @@
         "government_administration",
         "policy_legislation",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1735597583
     }
   ]
 }

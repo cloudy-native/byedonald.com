@@ -29,6 +29,7 @@ import {
   usePagination,
   useRefinementList,
   useSearchBox,
+  useSortBy,
 } from "react-instantsearch";
 
 const appId = process.env.GATSBY_ALGOLIA_APP_ID;
@@ -45,6 +46,9 @@ type Article = {
   sourceName?: string;
   author?: string;
   description?: string;
+  // Dates (may be absent on some records)
+  publishedAt?: string;
+  publishedAtTs?: number;
   objectID: string;
 };
 type ArticleHit = AlgoliaHit<Article>;
@@ -86,29 +90,130 @@ function CustomSearchBox({
   }, [input, query, refine]);
 
   return (
-    <Input
-      placeholder="Search Trump news..."
-      value={input}
-      onChange={(e) => setInput(e.target.value)}
-      onKeyDown={(e) => {
-        if (e.key === "ArrowDown") {
-          e.preventDefault();
-          onArrow(1);
-        } else if (e.key === "ArrowUp") {
-          e.preventDefault();
-          onArrow(-1);
-        } else if (e.key === "Enter") {
-          onEnter();
-        }
-      }}
-      size="lg"
-      borderRadius="md"
-      bg={useColorModeValue("white", "gray.700")}
-      borderColor={useColorModeValue("gray.200", "gray.600")}
-      _focus={{ borderColor: "blue.500", boxShadow: "0 0 0 1px blue.500" }}
-      maxW="600px"
-      mx="auto"
-    />
+    <HStack maxW="600px" mx="auto" spacing={3}>
+      <Input
+        placeholder="Search Trump news..."
+        value={input}
+        onChange={(e) => setInput(e.target.value)}
+        onKeyDown={(e) => {
+          if (e.key === "ArrowDown") {
+            e.preventDefault();
+            onArrow(1);
+          } else if (e.key === "ArrowUp") {
+            e.preventDefault();
+            onArrow(-1);
+          } else if (e.key === "Enter") {
+            onEnter();
+          }
+        }}
+        size="lg"
+        borderRadius="md"
+        bg={useColorModeValue("white", "gray.700")}
+        borderColor={useColorModeValue("gray.200", "gray.600")}
+        _focus={{ borderColor: "blue.500", boxShadow: "0 0 0 1px blue.500" }}
+        flex={1}
+      />
+      <Box
+        as="a"
+        href="https://www.algolia.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Search by Algolia"
+      >
+        <Image
+          src="/algolia.png"
+          alt="Algolia"
+          h="48px" // roughly matches Chakra Input size="lg" height
+          objectFit="contain"
+        />
+      </Box>
+    </HStack>
+  );
+}
+
+// Shows author facet chips only when the author label differs from all source names.
+function DistinctAuthorChips() {
+  const authorHook = useRefinementList({
+    attribute: "author",
+    limit: 10,
+    showMore: true,
+    showMoreLimit: 30,
+  });
+  const sourceHook = useRefinementList({
+    attribute: "sourceName",
+    limit: 1000, // large enough for comparison; not rendered
+    showMore: true,
+    showMoreLimit: 2000,
+  });
+
+  const { items: authorItems, refine, canToggleShowMore, isShowingMore, toggleShowMore } = authorHook;
+  const { items: sourceItems } = sourceHook;
+
+  const sourceSet = new Set(
+    (sourceItems || []).map((s: FacetItem) => s.label.trim().toLowerCase()),
+  );
+  const filteredAuthors = (authorItems || []).filter((a: FacetItem) => {
+    const name = a.label.trim().toLowerCase();
+    return !sourceSet.has(name);
+  });
+
+  if (!filteredAuthors || filteredAuthors.length === 0) return null;
+
+  return (
+    <VStack align="stretch" spacing={2} w="full">
+      <HStack justify="space-between">
+        <Text fontWeight="semibold">Authors</Text>
+        {canToggleShowMore && (
+          <Button size="xs" variant="ghost" onClick={toggleShowMore}>
+            {isShowingMore ? "Show less" : "Show more"}
+          </Button>
+        )}
+      </HStack>
+      <HStack wrap="wrap" spacing={2}>
+        {filteredAuthors.map((item: FacetItem) => (
+          <Tag
+            key={item.value}
+            size="sm"
+            variant={item.isRefined ? "solid" : "outline"}
+            colorScheme="blue"
+            cursor="pointer"
+            onClick={() => refine(item.value)}
+          >
+            {item.label} {item.count != null ? `(${item.count})` : ""}
+          </Tag>
+        ))}
+      </HStack>
+    </VStack>
+  );
+}
+
+function SortBySelect() {
+  // These replica names must exist in Algolia for sorting to work
+  const items = indexName
+    ? [
+        { label: "Relevance", value: indexName },
+        { label: "Newest first", value: `${indexName}_date_desc` },
+        { label: "Oldest first", value: `${indexName}_date_asc` },
+      ]
+    : [];
+
+  const { options, refine, currentRefinement } = useSortBy({ items });
+
+  if (!indexName) return null;
+
+  return (
+    <Select
+      size="sm"
+      maxW="52"
+      onChange={(e) => refine(e.target.value)}
+      value={currentRefinement}
+    >
+      {options.map((opt) => (
+        <option key={opt.value} value={opt.value}>
+          {opt.label}
+        </option>
+      ))}
+    </Select>
   );
 }
 
@@ -144,9 +249,44 @@ function Hit({ hit, selected }: { hit: ArticleHit; selected: boolean }) {
         <Text fontWeight="bold" fontSize="md" noOfLines={2}>
           <Highlight attribute="title" hit={hit} />
         </Text>
+        {
+          // First line: Author / Source (dedup if equal)
+        }
         {hit.sourceName || hit.author ? (
           <Text fontSize="sm" color={mutedTextColor} noOfLines={1} mt={1}>
-            {[hit.author, hit.sourceName].filter(Boolean).join(", ")}
+            {(() => {
+              const author = hit.author?.trim();
+              const source = hit.sourceName?.trim();
+              if (author && source) {
+                if (author.toLowerCase() === source.toLowerCase()) {
+                  return author; // same, display once
+                }
+                return `${author} • ${source}`;
+              }
+              return author || source || "";
+            })()}
+          </Text>
+        ) : null}
+        {
+          // Second line: Published date only
+        }
+        {hit.publishedAt || typeof hit.publishedAtTs === "number" ? (
+          <Text fontSize="sm" color={mutedTextColor} noOfLines={1} mt={1}>
+            {(() => {
+              const ms =
+                typeof hit.publishedAtTs === "number"
+                  ? hit.publishedAtTs * 1000
+                  : Date.parse(hit.publishedAt ?? "");
+              if (!Number.isNaN(ms)) {
+                const d = new Date(ms);
+                return d.toLocaleDateString(undefined, {
+                  year: "numeric",
+                  month: "short",
+                  day: "2-digit",
+                });
+              }
+              return "";
+            })()}
           </Text>
         ) : null}
         {hit.description && (
@@ -237,11 +377,35 @@ function HitsPerPageSelect() {
 }
 
 function PaginationControls() {
-  const { pages, currentRefinement, nbPages, refine, isFirstPage, isLastPage } =
-    usePagination({ padding: 1 });
-  if (nbPages <= 1) return null;
+  const { currentRefinement, nbPages, refine, isFirstPage, isLastPage } =
+    usePagination({ padding: 0 });
+
+  // Build a windowed pagination model: first, last, and a few around current
+  const window = 2; // how many pages on each side of current
+  const first = 0;
+  const last = nbPages - 1;
+  const start = Math.max(first + 1, currentRefinement - window);
+  const end = Math.min(last - 1, currentRefinement + window);
+
+  const pageItems: Array<number | "ellipsis-left" | "ellipsis-right"> = [];
+  pageItems.push(first);
+  if (start > first + 1) pageItems.push("ellipsis-left");
+  for (let p = start; p <= end; p++) {
+    if (p >= first && p <= last) pageItems.push(p);
+  }
+  if (end < last - 1) pageItems.push("ellipsis-right");
+  if (last > first) pageItems.push(last);
+
   return (
     <HStack spacing={2}>
+      <Button
+        size="sm"
+        onClick={() => refine(first)}
+        isDisabled={isFirstPage}
+        variant="ghost"
+      >
+        First
+      </Button>
       <Button
         size="sm"
         onClick={() => refine(currentRefinement - 1)}
@@ -249,16 +413,22 @@ function PaginationControls() {
       >
         Prev
       </Button>
-      {pages.map((p) => (
-        <Button
-          key={p}
-          size="sm"
-          variant={p === currentRefinement ? "solid" : "outline"}
-          onClick={() => refine(p)}
-        >
-          {p + 1}
-        </Button>
-      ))}
+      {pageItems.map((item) =>
+        typeof item === "string" && item.startsWith("ellipsis") ? (
+          <Text key={item} px={2} userSelect="none">
+            …
+          </Text>
+        ) : (
+          <Button
+            key={item}
+            size="sm"
+            variant={item === currentRefinement ? "solid" : "outline"}
+            onClick={() => refine(item as number)}
+          >
+            {(item as number) + 1}
+          </Button>
+        ),
+      )}
       <Button
         size="sm"
         onClick={() => refine(currentRefinement + 1)}
@@ -266,12 +436,20 @@ function PaginationControls() {
       >
         Next
       </Button>
+      <Button
+        size="sm"
+        onClick={() => refine(last)}
+        isDisabled={isLastPage}
+        variant="ghost"
+      >
+        Last
+      </Button>
     </HStack>
   );
 }
 
 function AlgoliaSearch() {
-  const { status } = useInstantSearch();
+  const { status, results } = useInstantSearch();
   const { items } = useHits<ArticleHit>();
   useConfigure({ clickAnalytics: true });
 
@@ -293,6 +471,14 @@ function AlgoliaSearch() {
     }
   };
 
+  // Derive total hits and paging info from InstantSearch results
+  const totalHits = results?.nbHits ?? 0;
+  const hitsPerPage = results?.hitsPerPage ?? items.length;
+  const page = results?.page ?? 0; // zero-based
+  const nbPages = results?.nbPages ?? 1;
+  const start = totalHits > 0 ? page * hitsPerPage + 1 : 0;
+  const end = totalHits > 0 ? Math.min((page + 1) * hitsPerPage, totalHits) : 0;
+
   return (
     <Box p={6}>
       <VStack spacing={6} align="stretch">
@@ -302,14 +488,18 @@ function AlgoliaSearch() {
           <HStack justify="space-between">
             <HStack spacing={3}>
               <ClearRefinementsButton />
+              <PaginationControls />
               <HitsPerPageSelect />
+              <SortBySelect />
             </HStack>
             {/* simple results info */}
             <Text
               fontSize="sm"
               color={useColorModeValue("gray.600", "gray.300")}
             >
-              {items.length} results
+              {totalHits === 0
+                ? "0 results"
+                : `Showing ${start}–${end} of ${totalHits} results • Page ${page + 1} of ${nbPages}`}
             </Text>
           </HStack>
         </VStack>
@@ -317,7 +507,7 @@ function AlgoliaSearch() {
         {/* Facets */}
         <VStack spacing={4} align="stretch">
           <FacetChips attribute="sourceName" label="Sources" />
-          <FacetChips attribute="author" label="Authors" />
+          <DistinctAuthorChips />
         </VStack>
 
         {/* Loading Indicator */}

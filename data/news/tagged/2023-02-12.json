@@ -20,7 +20,8 @@
         "middle_east",
         "government_administration",
         "personnel"
-      ]
+      ],
+      "publishedAtTs": 1676242068
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1676226293
     },
     {
       "source": {
@@ -52,7 +54,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/02/haleynikki_111922ap-john-locher_haley.jpeg?w=1280",
       "publishedAt": "2023-02-12T17:13:42Z",
       "content": "Nikki Haley is poised to take a leap into the unknown next week when she becomes the first Republican to challenge former President Trump for the GOP’s 2024 nod.\nIt’s a role that few other Republicans are eager to fill, given Trump’s penchant for try... [6367 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1676222022
     },
     {
       "source": {
@@ -66,7 +72,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2194444/joe-biden-super-bowl-decision-hannity.png",
       "publishedAt": "2023-02-12T16:04:58Z",
       "content": "Fox News host Sean Hannity lambasted a recent decision from President Joe Biden as \"gutless,\" despite Donald Trump having once made the same decision.\nStarting in 2004, the network broadcasting the Super Bowl airs an interview with the current presid... [2478 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1676217898
     },
     {
       "source": {
@@ -85,7 +95,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1676217602
     },
     {
       "source": {
@@ -99,7 +110,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33015257&width=1200&height=600&coordinates=0%2C34%2C0%2C16",
       "publishedAt": "2023-02-12T12:40:25Z",
       "content": "Last week, a bipartisan group of lawmakers -- including House Minority Leader Hakeem Jeffries, of New York, and Republican House Speaker Kevin McCarthy, of California -- voted unanimously to prevent the Justice Department from accessing Perry's cell ... [7917 chars]",
-      "tags": ["personal_family", "regional_state", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1676205625
     },
     {
       "source": {
@@ -118,7 +134,8 @@
         "elections_politics",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1676199660
     },
     {
       "source": {
@@ -138,7 +155,8 @@
         "criminal_cases",
         "impeachment",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1676185217
     },
     {
       "source": {
@@ -152,7 +170,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131115912-trump-file-012823.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-12T00:44:09Z",
       "content": "CNN —\nA research firm commissioned by former President Donald Trump’s 2020 campaign team to prove his electoral fraud claims instead failed to substantiate his theories, the Washington Post reported Saturday.\nThe Berkeley Research Group was commissio... [1892 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1676162649
     }
   ]
 }

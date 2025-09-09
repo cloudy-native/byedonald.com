@@ -20,7 +20,8 @@
         "economy_finance",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1749167674
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "foreign_policy",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1749167522
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "economy_finance",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1749167520
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "middle_east",
         "social_issues",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1749166860
     },
     {
       "source": {
@@ -100,7 +104,8 @@
         "legal_justice",
         "immigration",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1749166836
     },
     {
       "source": {
@@ -120,7 +125,8 @@
         "economy_finance",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1749166798
     },
     {
       "source": {
@@ -134,7 +140,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.1284%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_25%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f0d9c214be256186abd1a22192614da3a803c4c8",
       "publishedAt": "2025-06-05T23:33:03Z",
       "content": "Washington | For months, Trump administration officials have faced mounting pressure by the far-right and online influencers to release the so-called Epstein files, the remaining investigative documents of the sex-trafficking investigation into Jeffr... [304 chars]",
-      "tags": ["legal_justice", "personal_family", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1749166383
     },
     {
       "source": {
@@ -154,7 +165,8 @@
         "elections_politics",
         "economy_finance",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1749166328
     },
     {
       "source": {
@@ -172,7 +184,8 @@
         "economy_finance",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1749165784
     },
     {
       "source": {
@@ -192,7 +205,8 @@
         "legal_justice",
         "immigration",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1749165749
     }
   ]
 }

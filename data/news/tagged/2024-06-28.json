@@ -19,7 +19,8 @@
         "asia_pacific",
         "international_organizations",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1719618926
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "2028_presidential",
         "legal_justice",
         "supreme_court"
-      ]
+      ],
+      "publishedAtTs": 1719618914
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2024_10_22_38_9909974.jpg?width=920&format=jpeg",
       "publishedAt": "2024-06-28T23:47:16Z",
       "content": "Donald Trump's allies are assuring officials in Japan and South Korea that the Republican presidential candidate will support a Biden-era effort to deepen three-way ties aimed at countering China and North Korea, five people familiar with the convers... [6898 chars]",
-      "tags": ["foreign_policy", "asia_pacific", "china"]
+      "tags": [
+        "foreign_policy",
+        "asia_pacific",
+        "china"
+      ],
+      "publishedAtTs": 1719618436
     },
     {
       "source": {
@@ -71,7 +78,8 @@
         "press_relations",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719617286
     },
     {
       "source": {
@@ -90,7 +98,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1719616612
     },
     {
       "source": {
@@ -109,7 +118,8 @@
         "stock_market",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719615877
     },
     {
       "source": {
@@ -128,7 +138,8 @@
         "2028_presidential",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1719615669
     },
     {
       "source": {
@@ -142,7 +153,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDZcXFwvMjkxNjIxMjJcXFwvZDUwODBmMmJlOWZmNDhhN2E0YzFiNjA1MTUzZTBlNDEtZTE3MTk2NzU3MzU3MTAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzNWRlNWQ1OTgxNGYwY2Y3MTdlYmRkZmNlMmIyZmNmNDNjZmNkNmY0In0=/biden-appeals-to-donors-as-concerns-persist-over-debate-performance.jpg",
       "publishedAt": "2024-06-28T23:00:00Z",
       "content": "US President Joe Biden is looking to recapture his mojo and reassure donors that he is fully up to the challenge of beating Donald Trump.\nThe 81-year-old’s troubling performance at the first presidential debate rattled many Democrats, who see Mr Trum... [2675 chars]",
-      "tags": ["elections_politics", "2028_presidential", "campaign_finance"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "campaign_finance"
+      ],
+      "publishedAtTs": 1719615600
     },
     {
       "source": {
@@ -161,7 +177,8 @@
         "immigration",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719615207
     },
     {
       "source": {
@@ -180,7 +197,8 @@
         "criminal_cases",
         "personal_family",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1719614757
     },
     {
       "source": {
@@ -199,7 +217,8 @@
         "2028_presidential",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1719614507
     },
     {
       "source": {
@@ -218,7 +237,8 @@
         "stock_market",
         "policy_legislation",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1719614130
     },
     {
       "source": {
@@ -232,7 +252,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_06_2024_10_22_38_9909974.jpg?width=920&format=jpeg",
       "publishedAt": "2024-06-28T22:35:13Z",
       "content": "The U.S. Supreme Court raised the legal bar on Friday for prosecutors pursuing obstruction charges in the federal election subversion case against Donald Trump and defendants involved in the Jan. 6, 2021, attack on the Capitol. The justices ruled 6-3... [6556 chars]",
-      "tags": ["legal_justice", "supreme_court", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1719614113
     },
     {
       "source": {
@@ -251,7 +276,8 @@
         "media_criticism",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719614078
     },
     {
       "source": {
@@ -270,7 +296,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1719613889
     },
     {
       "source": {
@@ -289,7 +316,8 @@
         "2028_presidential",
         "media_communications",
         "press_relations"
-      ]
+      ],
+      "publishedAtTs": 1719613858
     },
     {
       "source": {
@@ -308,7 +336,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1719613742
     },
     {
       "source": {
@@ -327,7 +356,8 @@
         "criminal_cases",
         "personal_family",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1719613017
     },
     {
       "source": {
@@ -346,7 +376,8 @@
         "2028_presidential",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1719611680
     },
     {
       "source": {
@@ -365,7 +396,8 @@
         "international_organizations",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719611088
     },
     {
       "source": {
@@ -384,7 +416,8 @@
         "2028_presidential",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1719611072
     },
     {
       "source": {
@@ -403,7 +436,8 @@
         "press_relations",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1719611047
     },
     {
       "source": {
@@ -417,7 +451,12 @@
       "urlToImage": "https://compote.slate.com/images/c72e1b09-8122-48c2-a2c3-bc2d4a8544ed.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2024-06-28T21:42:30Z",
       "content": "A few minutes after the conclusion of Thursday night’s presidential debate, media reporter Brian Stelter, formerly of CNN, posted the following reaction from an unnamed executive at the network:\nA CNN exec in the control room texts me: \"We are very p... [7891 chars]",
-      "tags": ["media_communications", "media_criticism", "press_relations"]
+      "tags": [
+        "media_communications",
+        "media_criticism",
+        "press_relations"
+      ],
+      "publishedAtTs": 1719610950
     },
     {
       "source": {
@@ -436,7 +475,8 @@
         "environment",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1719610917
     }
   ]
 }

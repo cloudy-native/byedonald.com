@@ -20,7 +20,8 @@
         "policy_legislation",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1743206155
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "security_intelligence",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1743206061
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/I3MWPRKFQHQCYHLLQKNO33CHKA.jpg?smart=true&auth=a52f0dca2ee3538bad58280699cae53ed5f258de861524acbe66a87a310cd679&width=1200&height=630",
       "publishedAt": "2025-03-28T23:53:45Z",
       "content": "U.S. President Donald Trump speaks at an education event and executive order signing in the East Room of the White House in Washington, Thursday, March 20, 2025. (AP Photo/Jose Luis Magana)\nWASHINGTON — WASHINGTON — A prominent international law firm... [5538 chars]",
-      "tags": ["legal_justice", "personal_family", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "government_administration"
+      ],
+      "publishedAtTs": 1743206025
     },
     {
       "source": {
@@ -70,7 +77,8 @@
         "legal_justice",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1743205915
     },
     {
       "source": {
@@ -88,7 +96,8 @@
         "government_administration",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1743205277
     },
     {
       "source": {
@@ -108,7 +117,8 @@
         "security_intelligence",
         "middle_east",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1743205066
     },
     {
       "source": {
@@ -122,7 +132,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_03_2025_20_47_21_9667754.png?width=920&format=jpeg",
       "publishedAt": "2025-03-28T23:25:59Z",
       "content": "A U.S. judge halted the Trump administration's efforts to dismantle the Consumer Financial Protection Bureau (CFPB) on Friday, marking a significant legal rebuff. The decision, made by District Judge Amy Berman Jackson, came after lawsuits from a wor... [803 chars]",
-      "tags": ["legal_justice", "government_administration", "economy_finance"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743204359
     },
     {
       "source": {
@@ -140,7 +155,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743204204
     },
     {
       "source": {
@@ -154,7 +170,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/03/ad0d61c1de1633cac6ac32d6614da7aac4cf63cbde4c9154b14307df52527b36.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-03-28T23:19:55Z",
       "content": "NDP Leader Jagmeet Singh walks leaves after making an announcement on affordable housing during a federal election campaign stop in Toronto on Friday, March 28, 2025. THE CANADIAN PRESS/Nathan Denette\nOTTAWA — Liberal Leader Mark Carney on Friday pro... [3478 chars]",
-      "tags": ["policy_legislation", "economy_finance", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1743203995
     }
   ]
 }

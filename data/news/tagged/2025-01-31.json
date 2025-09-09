@@ -20,7 +20,8 @@
         "legal_justice",
         "congressional_investigations",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1738367818
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/01/Melania-Official-Photo-e1738367946785.webp",
       "publishedAt": "2025-01-31T23:56:49Z",
       "content": "Vogue magazine’s harsh takedown of the newly released White House portrait of first lady Melania Trump is drawing demands that the fashion bible apologize for its “hatchet job.”\nOn Friday, Staten Island Borough President Vito Fossella added his voice... [3279 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1738367809
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "executive_orders",
         "civil_rights",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1738367514
     },
     {
       "source": {
@@ -67,7 +74,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/02/ab080ee031ea03aca138113e1b32ca66fb552ed35419eef46eb0e8920c389c30.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-01-31T23:49:42Z",
       "content": "REGINA — Saskatchewan Premier Scott Moe says he's staying hopeful that he won't wake up on Saturday morning to tariffs imposed by U.S. President Donald Trump.\nREGINA — Saskatchewan Premier Scott Moe says he's staying hopeful that he won't wake up on ... [2151 chars]",
-      "tags": ["foreign_policy", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1738367382
     }
   ]
 }

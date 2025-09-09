@@ -20,7 +20,8 @@
         "legal_justice",
         "security_intelligence",
         "mexico"
-      ]
+      ],
+      "publishedAtTs": 1740700479
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1740700476
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "federal_agencies",
         "legal_justice",
         "civil_litigation"
-      ]
+      ],
+      "publishedAtTs": 1740699526
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1740698664
     },
     {
       "source": {
@@ -97,7 +101,8 @@
         "personal_family",
         "polling",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1740698466
     },
     {
       "source": {
@@ -117,7 +122,8 @@
         "government_administration",
         "economy_finance",
         "nato"
-      ]
+      ],
+      "publishedAtTs": 1740698286
     },
     {
       "source": {
@@ -135,7 +141,8 @@
         "media_communications",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1740698220
     },
     {
       "source": {
@@ -149,7 +156,12 @@
       "urlToImage": "https://e3.365dm.com/25/02/1600x900/skynews-keir-starmer-beth-rigby_6840848.png?20250226214749",
       "publishedAt": "2025-02-27T23:16:00Z",
       "content": "With Donald Trump, it's all about relationships.\nGoing into this bilateral summit, those around Sir Keir Starmer were stressing that these guys genuinely got on well, they liked each other, and that the prime minister could say things to Mr Trump in ... [1644 chars]",
-      "tags": ["personal_business", "foreign_policy", "media_communications"]
+      "tags": [
+        "personal_business",
+        "foreign_policy",
+        "media_communications"
+      ],
+      "publishedAtTs": 1740698160
     },
     {
       "source": {
@@ -168,7 +180,8 @@
         "security_intelligence",
         "military",
         "lgbtq_rights"
-      ]
+      ],
+      "publishedAtTs": 1740697803
     },
     {
       "source": {
@@ -188,7 +201,8 @@
         "environment",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1740697303
     }
   ]
 }

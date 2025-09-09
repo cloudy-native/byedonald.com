@@ -20,7 +20,8 @@
         "foreign_policy",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743465379
     },
     {
       "source": {
@@ -34,7 +35,13 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/e0/0e0525b4-838e-5d9d-ba01-063b2812215d/67eb2a658ff1f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-03-31T23:56:00Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["foreign_policy", "canada", "leadership", "policy_legislation"]
+      "tags": [
+        "foreign_policy",
+        "canada",
+        "leadership",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1743465360
     },
     {
       "source": {
@@ -53,7 +60,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743465236
     },
     {
       "source": {
@@ -73,7 +81,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1743465195
     },
     {
       "source": {
@@ -93,7 +102,8 @@
         "legal_justice",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1743465101
     },
     {
       "source": {
@@ -111,7 +121,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1743464846
     },
     {
       "source": {
@@ -129,7 +140,8 @@
         "government_administration",
         "executive_orders",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1743464756
     },
     {
       "source": {
@@ -149,7 +161,8 @@
         "media_communications",
         "statements",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1743464494
     },
     {
       "source": {
@@ -169,7 +182,8 @@
         "international_organizations",
         "middle_east",
         "asia_pacific"
-      ]
+      ],
+      "publishedAtTs": 1743463598
     },
     {
       "source": {
@@ -189,7 +203,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1743463373
     }
   ]
 }

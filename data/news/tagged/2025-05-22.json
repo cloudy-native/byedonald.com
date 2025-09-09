@@ -20,7 +20,8 @@
         "foreign_policy",
         "education",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1747957644
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "policy_legislation",
         "legal_justice",
         "education"
-      ]
+      ],
+      "publishedAtTs": 1747957454
     },
     {
       "source": {
@@ -54,7 +56,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rKkGgyn5NOBcA.fLOP1R0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-05/92a131e0-3759-11f0-bda7-a1c529620174",
       "publishedAt": "2025-05-22T23:31:05Z",
       "content": "The White House has decided to wait before making an official foray into college sports.\nPlans for a presidential commission on college sports co-led by former Alabama head coach Nick Saban have been paused, Yahoo Sports' Ross Dellenger reported Thur... [2795 chars]",
-      "tags": ["government_administration", "policy_legislation"]
+      "tags": [
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1747956665
     },
     {
       "source": {
@@ -73,7 +79,8 @@
         "economy_finance",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1747954800
     },
     {
       "source": {
@@ -93,7 +100,8 @@
         "economy_finance",
         "trade",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747954800
     },
     {
       "source": {
@@ -107,7 +115,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjMwODAzMzJcXFwvMTNjODA5MDFjYjdhNDAxZDhlNmFkODg2MWE0NzlkZTIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjMTczYjhlZGIzZDU4MDYzYjQ4OTg1NWU2M2NiOGFjMjU1OTgyYzk5In0=/japanese-pm-urges-investment-not-tariffs-after-call-with-trump.jpg",
       "publishedAt": "2025-05-22T23:00:00Z",
       "content": "Japan’s Prime Minister Shigeru Ishiba has said he held telephone talks with US President Donald Trump and agreed to hold “productive” discussions at an upcoming tariff talks between the two sides.\n“Investment, not tariffs,” Mr Ishiba told reporters a... [1426 chars]",
-      "tags": ["foreign_policy", "trade", "government_administration"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "government_administration"
+      ],
+      "publishedAtTs": 1747954800
     }
   ]
 }

@@ -14,7 +14,8 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/9DFC/production/_132544404_trump.jpg",
       "publishedAt": "2024-02-03T23:36:07Z",
       "content": "Judd Trump reached his fourth German Masters final with a 6-2 semi-final victory against Sam Craigie in Berlin.\nFourth seed Trump lifted the trophy in 2020 and 2021 and did enough to progress against fellow Englishman Craigie despite a number of erro... [677 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1707003367
     },
     {
       "source": {
@@ -28,7 +29,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.png?id=24483519&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
       "publishedAt": "2024-02-03T21:08:58Z",
       "content": "Donald Trump may appear to be sitting pretty financially for now, but the world is about to crash in on him, according to a former official in the ex-president's administration.\nFormer White House communications chief Anthony Scaramucci appeared on M... [1713 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1706994538
     },
     {
       "source": {
@@ -42,7 +47,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/ddd37818aa75cd1a717aa9ffd4b3a4ef3761d4c8/0_158_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5899075afa8e8941c4ac6b5f4ca94f9",
       "publishedAt": "2024-02-03T19:46:12Z",
       "content": "As predicted, South Carolina’s Democratic primary Saturday is proving to be a low-key affair – but that hasn’t stopped Joe Biden from trying to boost turnout.\nThe president posted a video on the social media platform X in which he said simply: “South... [2881 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1706989572
     },
     {
       "source": {
@@ -56,7 +65,11 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2024-02-04/l_1154503_113326_updates.jpg",
       "publishedAt": "2024-02-03T19:00:00Z",
       "content": "US President Joe Biden and First Lady Jill Biden disembark from Air Force One upon arrival at Los Angeles International Airport in Los Angeles, California, February 3, 2024. — AFP\nFollowing the win in Saturday's Democratic primary in South Carolina, ... [1679 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706986800
     },
     {
       "source": {
@@ -70,7 +83,12 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article32040422.ece/ALTERNATES/s1200/1_Donald-Trump-And-Mike-Pence-Hold-Town-Hall-In-Scranton-PA.jpg",
       "publishedAt": "2024-02-03T18:59:03Z",
       "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nGet daily headlines and breaking news alerts for FREE by signing up to our newsletter\nSomething went wrong, please try again later.\nGet daily he... [2898 chars]",
-      "tags": ["legal_justice", "security_intelligence", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706986743
     },
     {
       "source": {
@@ -84,7 +102,11 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/US-VOTE-POLITICS-BIDEN-10_1707007780469_1707007828703.jpg",
       "publishedAt": "2024-02-03T18:30:00Z",
       "content": "President Joe Biden cruised to victory in South Carolina's primary Saturday, boosting his hopes of beating Donald Trump in November 2024 US Presidential polls, according to Edison Research projections.\nBiden defeated Minnesota Rep. Dean Phillips and ... [2230 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706985000
     },
     {
       "source": {
@@ -98,7 +120,11 @@
       "urlToImage": "https://www.theweek.in/content/dam/week/news/world/images/2024/1/30/Biden-middle-east-crisis-ap.jpg",
       "publishedAt": "2024-02-03T18:30:00Z",
       "content": "President Joe Biden won South Carolina's Democratic primary on Saturday, kicking off the party's nominating process, the first step towards a rematch against Republican front-runner and former president Donald Trump.\nBiden won 85,635 votes or 96 per ... [2130 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706985000
     },
     {
       "source": {
@@ -116,7 +142,8 @@
         "elections_politics",
         "media_communications",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1706982246
     },
     {
       "source": {
@@ -130,7 +157,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/17_02_2023_21_22_12_1447235.jpg?width=920&format=jpeg",
       "publishedAt": "2024-02-03T17:34:12Z",
       "content": "U.S. President Joe Biden and Vice President Kamala Harris made a joint stop at their 2024 campaign headquarters on Saturday to rally staff and supporters ahead of a challenging re-election bid that is likely to pit them against former President Donal... [1464 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706981652
     },
     {
       "source": {
@@ -144,7 +175,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24012795226175.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-02-03T15:00:29Z",
       "content": "CNN —\nJust how does Joe Biden win reelection? National polls show him trailing Donald Trump more often than leading him – a rare position for an incumbent to be in at this point in the campaign.\nThese national polls, though, mean little. You win elec... [4542 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706972429
     },
     {
       "source": {
@@ -158,7 +194,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/us-elections-donald-trump-rape-defamation-case-reuters-2024-01-dc0fdf1c5a5469160facbade2a48d5c6-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-02-03T14:06:42Z",
       "content": "A case with the potential to disrupt Donald Trump’s drive to return to the White House is putting the Supreme Court uncomfortably at the center of the 2024 presidential campaign.\nIn arguments Thursday, the justices will, for the first time, wrestle w... [6403 chars]",
-      "tags": ["legal_justice", "elections_politics", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1706969202
     },
     {
       "source": {
@@ -172,7 +213,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/trump-stored-sensitive-government-docs-in-pool-storage-room-close-to-mar-a-lago-members-report.jpg?id=32356148&width=1200&height=600&coordinates=0%2C31%2C0%2C32",
       "publishedAt": "2024-02-03T13:12:33Z",
       "content": "The United States was not formed as a Christian nation, a fact countless articles and scholarly papers have proven. Nor were members of Congress elected to \"preserve\" America as such. Christian nationalists, however, allege the U.S. was created as a ... [4418 chars]",
-      "tags": ["legal_justice", "security_intelligence", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706965953
     },
     {
       "source": {
@@ -186,7 +232,12 @@
       "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2024/02/Georgia_Election_Indictment_53244-65bd38ff2ce35-768x432.jpg",
       "publishedAt": "2024-02-03T13:10:00Z",
       "content": "National News Fani Willis acknowledges a ‘personal relationship’ with prosecutor she hired in Trump’s Georgia case The Friday filing by Willis’ team came in response to a motion filed last month by defense attorney Ashleigh Merchant, who represents T... [7791 chars]",
-      "tags": ["legal_justice", "criminal_cases", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706965800
     },
     {
       "source": {
@@ -200,7 +251,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/democratic-presidential-candidate-marianne-williamson-dropped-out-of-the-2020-primary-before-the-first-contest-joseph-prezioso.jpg?id=51300817&width=1200&height=600&coordinates=0%2C31%2C0%2C124",
       "publishedAt": "2024-02-03T13:05:13Z",
       "content": "One is a best-selling self-help writer, the other a US congressman -- and both are applying their rhetorical talents to pitch themselves to Democrats as better bets than President Joe Biden to beat Donald Trump in November.\nShort of a major upset, Am... [3322 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706965513
     },
     {
       "source": {
@@ -214,7 +269,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2018/08/Senate-Russian-Translator.jpg?w=1024&h=606",
       "publishedAt": "2024-02-03T12:00:40Z",
       "content": "Even as GOP hawks promote a dangerous new Mideast war with Iran, MAGA Republicans are pursuing a U.S. defeat in a much more critical conflict: Ukraine’s war with Russia.\nYes, you read that correctly. On the one hand, Donald Trump decries President Jo... [6152 chars]",
-      "tags": ["foreign_policy", "elections_politics", "russia"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "russia"
+      ],
+      "publishedAtTs": 1706961640
     },
     {
       "source": {
@@ -228,7 +288,11 @@
       "urlToImage": "https://static01.nyt.com/images/2024/02/03/multimedia/03dowd-wcfv/03dowd-wcfv-facebookJumbo.jpg",
       "publishedAt": "2024-02-03T12:00:02Z",
       "content": "It’s easy to imagine what’s going through Donald Trump’s head right now. I can hear his interior monologue all the way from Mar-a-Lago. He’s fulminating, working himself up to another epic meltdown, like he had over Nikki Haley the night he won the N... [1067 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1706961602
     },
     {
       "source": {
@@ -242,7 +306,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240130-Trump-and-John-Roberts-aa-1120a-ce033c.jpg",
       "publishedAt": "2024-02-03T12:00:00Z",
       "content": "WASHINGTON — It was in a packed courtroom in Richmond, Virginia — the former capital of the Confederacy — in December 1868 where Chief Justice Salmon Chase concluded that Jefferson Davis, the defeated rebel president, should not face prosecution for ... [7185 chars]",
-      "tags": ["legal_justice", "elections_politics", "supreme_court"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "supreme_court"
+      ],
+      "publishedAtTs": 1706961600
     },
     {
       "source": {
@@ -256,7 +325,12 @@
       "urlToImage": "https://static.politico.com/d7/f9/59c3d29041c798646633f2f82868/election-2024-nevada-voting-process-10526.jpg",
       "publishedAt": "2024-02-03T12:00:00Z",
       "content": "Then there are the two elections in Nevada. The Republican caucuses on Thursday are so “sealed up, bought and paid for” by Trump and his allies, Nikki Haley says, that she’s not even on the ballot, running instead in the state-run “beauty contest” pr... [7431 chars]",
-      "tags": ["elections_politics", "voting_rights", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706961600
     },
     {
       "source": {
@@ -270,7 +344,11 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/02/CTC-L-Grover-Cleveland-WRE0133682104.jpg?w=1024&h=653",
       "publishedAt": "2024-02-03T11:00:06Z",
       "content": "Like many others, I’m anticipating the probable Joe Biden-Donald Trump election rematch with limited enthusiasm. But has anyone else noted the extraordinary assessment opportunity developing here? Only twice in history have two candidates with presid... [7166 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1706958006
     },
     {
       "source": {
@@ -284,7 +362,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/94/89413604-c054-5ee0-97f1-6ee6e35c13d8/65bd74006603f.image.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-02-03T11:00:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1706958000
     },
     {
       "source": {
@@ -298,7 +380,11 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/672188/uploads/88b2ad00-bf3f-11ee-946d-5bfd6f979f63_800_420.jpeg",
       "publishedAt": "2024-02-03T09:55:03Z",
       "content": "In the world of Donald Trump, even his hair color has become a subject of intrigue and speculation. Recently, observers noted a subtle shift in the shade of his iconic locks when he appeared in a Manhattan federal court. The hue seemed to lean more t... [3194 chars]",
-      "tags": ["personal_family", "media_communications"]
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1706954103
     },
     {
       "source": {
@@ -312,7 +398,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/672247/uploads/d0bfef00-bf5c-11ee-a377-418fc14a5778_800_420.jpeg",
       "publishedAt": "2024-02-03T09:40:38Z",
       "content": "In a post on Truth Social, Donald Trump said that because polls have him ahead of President Joe Biden in a potential 2024 rematch, he should be held accountable for the stock market's recent record highs. In response to his post, Biden's re-election ... [3705 chars]",
-      "tags": ["economy_finance", "elections_politics", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "stock_market"
+      ],
+      "publishedAtTs": 1706953238
     },
     {
       "source": {
@@ -326,7 +417,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2344313/fani-willis.jpg",
       "publishedAt": "2024-02-03T09:27:02Z",
       "content": "Donald Trump has criticized Georgia prosecutor Fani Willis after she admitted to having a relationship with another lawyer involved in the election-interference case.\nFulton County District Attorney Willis and special prosecutor Nathan Wade both said... [3921 chars]",
-      "tags": ["legal_justice", "criminal_cases", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706952422
     },
     {
       "source": {
@@ -340,7 +436,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51298966&width=980",
       "publishedAt": "2024-02-03T07:42:30Z",
       "content": "With questions already being raised about Thomas and the other Supreme Court justices when it comes to determining whether they are following ethics rules, John Anthony Castro weighs in to explain his legal action, Newsweek reports.\n\"Castro, a long-s... [1014 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1706946150
     },
     {
       "source": {
@@ -354,7 +455,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51298836&width=980",
       "publishedAt": "2024-02-03T06:04:47Z",
       "content": "The former president was holding court at his Mar-a-Lago club where E. Jean Carroll's attorneys had come to conduct a deposition.\nWhen he found out they were promised a comped lunch, her attorney Roberta Kaplan remembered him going for stacks of docu... [2257 chars]",
-      "tags": ["elections_politics", "social_issues", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706940287
     }
   ]
 }

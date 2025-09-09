@@ -20,7 +20,8 @@
         "social_issues",
         "personal_family",
         "racial_justice"
-      ]
+      ],
+      "publishedAtTs": 1724283916
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1724283800
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "russia",
         "ukraine",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1724283684
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1724283415
     },
     {
       "source": {
@@ -94,7 +98,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724283114
     },
     {
       "source": {
@@ -108,7 +113,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/08/Lindell-DNC.webp",
       "publishedAt": "2024-08-21T23:23:50Z",
       "content": "MyPillow CEO Mike Lindell, an ardent supporter of former President Donald Trump, shaved his 30-year-old mustache to go undercover at the Democratic National Convention.\nLindell is one of several Republican social media influencers, also including Tur... [2544 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724282630
     },
     {
       "source": {
@@ -128,7 +138,8 @@
         "russia",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724282034
     },
     {
       "source": {
@@ -142,7 +153,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/08/kamala_harris_donald_trump_doritos_diet_coke_2166335695_634597038_550447783_2166789913.jpg",
       "publishedAt": "2024-08-21T23:07:03Z",
       "content": "In a world where political leaders are scrutinized for every decision they make, it’s not surprising that even their choice of snack can become fodder for partisan attacks. During a recent appearance on Fox News, Elisabeth Hasselbeck, former co-host ... [5572 chars]",
-      "tags": ["media_communications", "personal_family", "social_issues"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "social_issues"
+      ],
+      "publishedAtTs": 1724281623
     },
     {
       "source": {
@@ -162,7 +178,8 @@
         "government_administration",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1724281200
     },
     {
       "source": {
@@ -182,7 +199,8 @@
         "personal_business",
         "government_administration",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1724281200
     },
     {
       "source": {
@@ -196,7 +214,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDhcXFwvMjIwMzE4MjJcXFwvYmM3MzVhYzlkZjIxNGZlYmJmNTFmZjcyOTM1OWFhY2MuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3ZGY0NDllZWI1MzIzYjI3YTBjM2QzYWUwZmIyODE4NDg1YTlkODI0In0=/clinton-denounces-trump-as-selfish-in-democratic-convention-speech.jpg",
       "publishedAt": "2024-08-21T23:00:00Z",
       "content": "Former president Bill Clinton returned to the Democratic National Convention stage to denounce Donald Trump as selfish and praise Kamala Harris.\nGiving another of his emblematic, off-the-cuff addresses ahead of a speech by vice presidential nominee T... [3359 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724281200
     },
     {
       "source": {
@@ -210,7 +233,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDhcXFwvMjIwODU3MTVcXFwvNDY2YTk3OTQ2ZmEwNDc1ZDk5YzA4N2VjYjgzODBlZGYuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2OTQwODhmNzg2ZDM5N2IzMzhlODUxN2M3ZDM1NzU1M2JkMTg5YjE5In0=/oprah-winfrey-backs-kamala-harris-during-surprise-democratic-convention-speech.jpg",
       "publishedAt": "2024-08-21T23:00:00Z",
       "content": "Oprah Winfrey has given an energetic speech in support of Kamala Harris during the Democratic National Convention.\nThe media mogul made a surprise appearance on the third night of the convention in Chicago – where her famous TV talk show was filmed f... [1781 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724281200
     },
     {
       "source": {
@@ -228,7 +256,8 @@
         "elections_politics",
         "government_administration",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1724280158
     },
     {
       "source": {
@@ -242,7 +271,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/null?smart=true&auth=undefined&width=1200&height=630",
       "publishedAt": "2024-08-21T22:38:00Z",
       "content": "Appearing in a bulletproof glass pen, former US president Donald Trump took to the stage in Asheboro, North Carolina, for his first outdoor event since he was injured in an assassination attempt at a rally in Butler, Pennsylvania, last month.\nIn the ... [3621 chars]",
-      "tags": ["security_incidents", "campaign_events", "foreign_policy"]
+      "tags": [
+        "security_incidents",
+        "campaign_events",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1724279880
     },
     {
       "source": {
@@ -262,7 +296,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1724278080
     },
     {
       "source": {
@@ -276,7 +311,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/XRLPNP7HZZEYFFOHZFQMRP3W4E.jpg?auth=21539ec36b7d15886d5a884261aa22af638dfd95dd423d877ea3a95e3c7d4519&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2024-08-21T21:27:42Z",
       "content": "Open this photo in gallery: Democratic presidential candidate and U.S. Vice President Kamala Harris speaks at a campaign rally at the Fiserv Forum on Aug. 20, in Milwaukee, Wis.Anna Moneymaker/Getty Images\nKamala Harris’ main campaign fundraising gro... [2048 chars]",
-      "tags": ["elections_politics", "campaign_finance", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "campaign_finance",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1724275662
     },
     {
       "source": {
@@ -296,7 +336,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1724275294
     },
     {
       "source": {
@@ -310,7 +351,12 @@
       "urlToImage": "https://e3.365dm.com/24/08/1600x900/skynews-trump-north-carolina_6662710.jpg?20240821213027",
       "publishedAt": "2024-08-21T20:51:00Z",
       "content": "'Harris is more than ready for this moment' - Michelle Obama sets DNC alight with speech\nFormer first lady Michelle Obama is now speaking at the Democratic National Convention.\nAs she takes to the stage, she is greeted with a long and loud round of a... [3382 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1724273460
     },
     {
       "source": {
@@ -324,7 +370,12 @@
       "urlToImage": "https://media.pitchfork.com/photos/66c64cc8169673a0ea147885/16:9/w_1280,c_limit/Beyonce.jpg",
       "publishedAt": "2024-08-21T20:50:13Z",
       "content": "Beyoncé’s team has threatened to hit former President Donald J. Trump’s campaign with an official cease-and-desist order over the use of her 2016 Lemonade hit “Freedom,” Rolling Stone reports. On Tuesday (August 20), a Trump campaign spokesperson, St... [471 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1724273413
     },
     {
       "source": {
@@ -344,7 +395,8 @@
         "elections_politics",
         "security_intelligence",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1724272294
     },
     {
       "source": {
@@ -358,7 +410,12 @@
       "urlToImage": "https://media.nbcboston.com/2024/08/web-240821-kamala-harris-donald-trump-getty.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2024-08-21T20:30:40Z",
       "content": "Pause that playlist, Kamala Harris and Donald Trump.\nNot even the future President of the United States has the authority to play any song they want.\nSTAY IN THE KNOW Watch NBC10 Boston news for free, 24/7, wherever you are. Get Boston local news, we... [5622 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1724272240
     },
     {
       "source": {
@@ -378,7 +435,8 @@
         "personal_family",
         "political_endorsements",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1724271000
     },
     {
       "source": {
@@ -398,7 +456,8 @@
         "personal_family",
         "government_administration",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1724270414
     },
     {
       "source": {
@@ -412,7 +471,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240821-kamala-harris-rfk-jr-donald-trump-vl-1142a-60e91a.jpg",
       "publishedAt": "2024-08-21T20:00:08Z",
       "content": "The assassination attempt on Donald Trump, President Joe Biden’s departure from the race, Vice President Kamala Harris’ jump to the top of her ticket, two vice-presidential picks and two conventions have all shaken up the election in the last six wee... [3280 chars]",
-      "tags": ["elections_politics", "polling", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "polling",
+        "personal_family"
+      ],
+      "publishedAtTs": 1724270408
     }
   ]
 }

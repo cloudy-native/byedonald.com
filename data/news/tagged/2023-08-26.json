@@ -19,7 +19,8 @@
         "elections_politics",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1693090800
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230826185512-donald-trump-atlanta-airport-082423.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-26T22:56:58Z",
       "content": "CNN —\nDonald Trump’s campaign says it has raised $7.1 million since the former president was processed at an Atlanta jail Thursday in the Georgia election subversion case.\nTrump’s fundraising total for the past three weeks, following his indictment a... [2450 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693090618
     },
     {
       "source": {
@@ -47,7 +53,10 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article30788606.ece/ALTERNATES/s1200/1_Trump-Georgia-Election-Indictment-23236841141360.jpg",
       "publishedAt": "2023-08-26T22:45:35Z",
       "content": "Something went wrong, please try again later.\nInvalid email Something went wrong, please try again later.\nGet daily headlines and breaking news alerts for FREE by signing up to our newsletter\nSomething went wrong, please try again later.\nGet daily he... [2085 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1693089935
     },
     {
       "source": {
@@ -61,7 +70,12 @@
       "urlToImage": "https://static.politico.com/47/da/9ba29add43e9b999e1cfd0fc0e41/georgia-election-indictment-76752.jpg",
       "publishedAt": "2023-08-26T22:18:25Z",
       "content": "The campaign has also been prodding online donors with emails and text messages. And on Thursday night, while flying back from Atlanta to Bedminster, N.J. Trump sent out his first tweet in more than two years directing supporters to his website. The ... [894 chars]",
-      "tags": ["personal_family", "elections_politics", "media_communications"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693088305
     },
     {
       "source": {
@@ -75,7 +89,10 @@
       "urlToImage": "https://img2.thejournal.ie/article/6150634/river/?height=400&version=6150747",
       "publishedAt": "2023-08-26T22:00:09Z",
       "content": "THE FIRST REPUBLICAN presidential debate took place this week, and as is so often the case with US politics, there was no shortage of eyebrow-raising quotes.\nFrontrunner and former president Donald Trump was notably absent from the event, whom Nikki ... [2730 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693087209
     },
     {
       "source": {
@@ -89,7 +106,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/066aed97cbfc1e65f73319b4501d7bfe",
       "publishedAt": "2023-08-26T21:13:34Z",
       "content": "Former White House Press Secretary and MSNBC host Jen Psaki on Saturday said former President Donald Trump’s recently released mug shot will not play well for him in a general election.\nIn commentary she wrote for her weekly MSNBC Daily newsletter ti... [1198 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_legal"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693084414
     },
     {
       "source": {
@@ -103,7 +125,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/27/600x338/USA-TRUMP-GEORGIA-MUGSHOT-MERCHANDISE-12_1693098268828_1693098375717.JPG",
       "publishedAt": "2023-08-26T18:30:00Z",
       "content": "Soon after former US President Donald Trump surrendered in Fulton County, in a Georgia election subversion case, his 2024 presidential campaign started selling merchandise featuring the first mug shot of a former US president, The Washington Post rep... [4965 chars]",
-      "tags": ["elections_politics", "legal_justice", "criminal_cases"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1693074600
     },
     {
       "source": {
@@ -117,7 +144,11 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/08/27/600x338/FILES-US-JUSTICE-POLITICS-TRUMP-INDICTED-1_1693045215369_1693102065025.jpg",
       "publishedAt": "2023-08-26T18:30:00Z",
       "content": "Former US President Donald Trump raised $7.1 million since his arrest in Georgia on Thursday as his election campaign sought to capitalize on the mug shot taken at a Fulton County jail, according to a report published by Bloomberg News.\nA person fami... [2145 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693074600
     },
     {
       "source": {
@@ -131,7 +162,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_08_2023_17_25_35_7512149.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-26T17:25:37Z",
       "content": "Soon after former US President Donald Trump surrendered in Fulton County, in a Georgia election subversion case, his 2024 presidential campaign started selling merchandise featuring the first mug shot of a former US president, The Washington Post rep... [4471 chars]",
-      "tags": ["elections_politics", "personal_family", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693070737
     },
     {
       "source": {
@@ -145,7 +181,12 @@
       "urlToImage": "https://i2-prod.football.london/incoming/article27592883.ece/ALTERNATES/s1200/0_GettyImages-1596671990.jpg",
       "publishedAt": "2023-08-26T17:00:00Z",
       "content": "It’s one thing winning a Treble, it's an entirely unprecedented feat to defend it. Pep Guardiola was visibly downcast when Manchester City lost the Community Shield, something he classes as a major trophy.\nThe defeat ruled out the almost impossible a... [2400 chars]",
-      "tags": ["policy_legislation", "economy_finance", "media_communications"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693069200
     },
     {
       "source": {
@@ -159,7 +200,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2274870/former-president-donald-trump.jpg",
       "publishedAt": "2023-08-26T15:17:56Z",
       "content": "A majority of Democrat voters who backed President Joe Biden in 2020 think the investigations and criminal indictments against Donald Trump constitute \"an interference in the 2024 presidential election,\" according to a new poll conducted exclusively ... [4164 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693063076
     },
     {
       "source": {
@@ -173,7 +219,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/08/NYPICHPDPICT000026771930.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-08-26T15:16:58Z",
       "content": "Click to email a link to a friend (Opens in new window)\nClick to share on Twitter (Opens in new window)\nClick to share on Facebook (Opens in new window)\nTrump is a such dirty word in high-society circles these days a relative of the indicted former p... [2505 chars]",
-      "tags": ["personal_family", "elections_politics", "media_communications"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693063018
     },
     {
       "source": {
@@ -187,7 +238,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/08/untitled-design-184-169252206516x9.png",
       "publishedAt": "2023-08-26T14:27:13Z",
       "content": "Vivek Ramaswamy, an Indian-American 2024 US presidential aspirant, has hinted that he may run on a joint ticket with former president Donald Trump as his running mate if he does not win the Republican nomination, according to a media report.\nThe rema... [4385 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1693060033
     },
     {
       "source": {
@@ -201,7 +256,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_06_2021_18_48_37_5575366.jpg?width=920&format=jpeg",
       "publishedAt": "2023-08-26T14:01:45Z",
       "content": "U.S. trade has shifted away from China due to policies enacted by the Biden and Trump administrations, but U.S. reliance on China-linked supply chains has not necessarily been reduced and consumers have faced higher costs, according to new research p... [2490 chars]",
-      "tags": ["economy_finance", "trade", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1693058505
     },
     {
       "source": {
@@ -220,7 +280,8 @@
         "media_communications",
         "social_issues",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1693058401
     },
     {
       "source": {
@@ -234,7 +295,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2274865/fox-hosts-trump-remarks-spark-jokes.jpg",
       "publishedAt": "2023-08-26T13:48:24Z",
       "content": "Fox News host Jesse Watters gushing over former President Donald Trump's mugshot drew an avalanche of jokes and ridicule on social media on Friday.\nTrump surrendered to a Fulton County, Georgia, jail on Thursday evening after being indicted in Distri... [3375 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1693057704
     },
     {
       "source": {
@@ -253,7 +319,8 @@
         "criminal_cases",
         "elections_politics",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1693055875
     },
     {
       "source": {
@@ -267,7 +334,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/43a1bb106a635c487962251c886d2c86c75a0db5/0_101_3250_1951/master/3250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c4e167b70855fab2be021a0223b5442e",
       "publishedAt": "2023-08-26T13:00:39Z",
       "content": "Inmate #P01135809 is already monetizing his mugshot\nShamelessness can be a superpower: Donald Trump (or inmate #P01135809, as he is described in his booking record) has proved that time and time and again. He’s shattered norms, flouted rules, shrugge... [7122 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1693054839
     },
     {
       "source": {
@@ -286,7 +358,8 @@
         "social_issues",
         "health_science",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1693054803
     },
     {
       "source": {
@@ -300,7 +373,12 @@
       "urlToImage": "https://static.politico.com/4c/77/fb7805e74a94a0f5462299d50e4a/pictures-of-the-week-north-america-photo-gallery-79558.jpg",
       "publishedAt": "2023-08-26T11:00:00Z",
       "content": "On Monday, the schedule may crystallize further. That’s when the judge overseeing Trump’s federal case on election fraud has signaled she will choose a trial date. If she opts for a trial in early 2024, as prosecutors have requested, Trump’s already ... [8106 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1693047600
     },
     {
       "source": {
@@ -314,7 +392,12 @@
       "urlToImage": "https://static.politico.com/69/a5/f5e7ee494bd481da2dbdc30ac799/https-delivery-gettyimages.com/downloads/1636895606",
       "publishedAt": "2023-08-26T11:00:00Z",
       "content": "Trump became a Twitter star by two means. The first was the novelty of a presidential candidate popping off like a sloppy drunk at closing time. Personal attacks on his enemies, policy shifts, firings, lies about a “fixed election,” warnings about th... [2902 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693047600
     },
     {
       "source": {
@@ -328,7 +411,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aQlFDoLvcBYJuHTMdsTA8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/insider_articles_922/5ca382e73f569be65f5b2d0591648fb5",
       "publishedAt": "2023-08-26T10:22:37Z",
       "content": "A split image of adult actress Stormy Daniels (left) and former President Donald Trump (right). Ethan Miller/Chip Somodevilla/Getty Images\nStormy Daniels says she does not believe Trump weighs 215 pounds.\nHis weight and height were released after he ... [2843 chars]",
-      "tags": ["personal_family"]
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1693045357
     },
     {
       "source": {
@@ -342,7 +428,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230825132833-georgia-indictment-booking-photo-split.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-08-26T10:01:38Z",
       "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nThe exhausting view of this bizarre week – with the first GOP presidential primary debate one day, followed by the fourth arrest ... [5543 chars]",
-      "tags": ["personal_family", "legal_justice", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1693044098
     },
     {
       "source": {
@@ -356,7 +447,11 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/641310/uploads/9ab367f0-4344-11ee-9476-35919892bbda_800_420.png",
       "publishedAt": "2023-08-26T09:41:34Z",
       "content": "Former United States President Donald Trump has found himself making history once again, this time as the first former President to have his mugshot taken. The image, which was made public by the Fulton County Sheriff's Office, shows a serious-lookin... [3290 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1693042894
     }
   ]
 }

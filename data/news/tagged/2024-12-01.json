@@ -19,7 +19,8 @@
         "2026_midterms",
         "voting_rights",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1733097367
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "international_crisis",
         "security_incidents",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1733097312
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "foreign_policy",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733097183
     },
     {
       "source": {
@@ -73,7 +76,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/d824597/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2Fb9%2Fc624a0ed70ba1fc95992c7fe9189%2Fdf4d09654735415dbc84ad35cba1acec",
       "publishedAt": "2024-12-01T23:48:04Z",
       "content": "WEST PALM BEACH, Fla. (AP) — President-elect Donald Trump on Sunday named Massad Boulos, a Lebanese American businessman who is the father-in-law of Trump’s daughter Tiffany, as a senior adviser on Arab and Middle Eastern affairs.\nBoulos arranged Tru... [2560 chars]",
-      "tags": ["foreign_policy", "middle_east", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "personal_family"
+      ],
+      "publishedAtTs": 1733096884
     },
     {
       "source": {
@@ -87,7 +95,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/725862/uploads/da2acbd0-ab17-11ef-b122-d5c4dac6a797_1200_630.jpeg",
       "publishedAt": "2024-12-01T23:45:00Z",
       "content": "President-elect Donald Trump has been obsessed with styling his hair perfectly, in 2020 The New York Times exposed that the Republican leader spent more than $70,000 on hairstyling while hosting The Apprentice. Additionally, the publication reported ... [3594 chars]",
-      "tags": ["personal_business", "taxes", "media_communications"]
+      "tags": [
+        "personal_business",
+        "taxes",
+        "media_communications"
+      ],
+      "publishedAtTs": 1733096700
     },
     {
       "source": {
@@ -106,7 +119,8 @@
         "economy_finance",
         "regional_state",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733096240
     },
     {
       "source": {
@@ -120,7 +134,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-attends-a-rally-in-coachella-california-u-s-october-1.jpg?id=53842603&width=1200&height=600&coordinates=0%2C458%2C0%2C459",
       "publishedAt": "2024-12-01T23:30:33Z",
       "content": "Donald Trump and the U.S. Supreme Court damaged the justice system, but the harm can be undone, a former prosecutor said Sunday.\nFormer federal prosecutor Glenn Kirschner, who over the weekend posted a video focusing on \"points of light,\" as he sees ... [581 chars]",
-      "tags": ["legal_justice", "supreme_court", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1733095833
     },
     {
       "source": {
@@ -138,7 +157,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1733094972
     },
     {
       "source": {
@@ -158,7 +178,8 @@
         "security_intelligence",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733094482
     },
     {
       "source": {
@@ -178,7 +199,8 @@
         "government_administration",
         "regional_state",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733094309
     }
   ]
 }

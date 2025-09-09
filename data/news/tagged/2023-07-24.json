@@ -19,7 +19,8 @@
         "pardons",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690239682
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://images.perthnow.com.au/publication/C-11376215/b288a3bcbcb53476c93d8035d1dd67af9011893f-16x9-x0y197w650h366.jpg?imwidth=1200",
       "publishedAt": "2023-07-24T22:52:12Z",
       "content": "Donald Trump claims to be the victim of a “coordinated hoax”.\nThe 77-year-old billionaire was recently given a trial date for his alleged mishandling of classified documents and is also facing an investigation over his response to the result of the U... [1697 chars]",
-      "tags": ["legal_justice", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1690239132
     },
     {
       "source": {
@@ -53,7 +58,8 @@
         "personal_legal",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1690238222
     },
     {
       "source": {
@@ -67,7 +73,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/1bd9e4cb223128003aa2e5ea441bbda269226216/0_0_5030_3020/master/5030.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f4cca1399f7a00b2e05bf96daa788553",
       "publishedAt": "2023-07-24T21:22:18Z",
       "content": "The former New York police commissioner Bernie Kerik, a leading Trump ally who worked with Rudy Giuliani on attempts to overturn the 2020 election, has given the special counsel Jack Smith thousands of documents, Kerik’s lawyer said on Monday.\n“I hav... [2395 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1690233738
     },
     {
       "source": {
@@ -81,7 +92,12 @@
       "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/07/dk-off-plat-page10-right-wing.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
       "publishedAt": "2023-07-24T21:22:04Z",
       "content": "ON THE MARCH How European far-right leaders are marching to power as Spanish ‘Trump’ waits in wings\nSMITH & Wesson revolver-owning Spanish far-right leader Santiago Abascal likes to trot around on horseback spouting his firebrand rhetoric.\nSeen as hi... [5700 chars]",
-      "tags": ["foreign_policy", "europe", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1690233724
     },
     {
       "source": {
@@ -95,7 +111,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000014568998.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-07-24T21:02:37Z",
       "content": "Republican presidential contender Nikki Haley said Monday that frontrunner candidate and former boss Donald Trump will never win the 2024 general election.\n“We can’t have, as Republicans, him as the nominee. He can’t win a general election. That’s th... [3445 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1690232557
     },
     {
       "source": {
@@ -114,7 +135,8 @@
         "elections_politics",
         "government_administration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1690228808
     },
     {
       "source": {
@@ -128,7 +150,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2261263/supreme-court-crackdown-becomes-warning.jpg",
       "publishedAt": "2023-07-24T18:10:35Z",
       "content": "Americans watching events unfold in Israel are using Prime Minister Benjamin Netanyahu's judicial overhaul to make their case about the next U.S. presidential election.\nThe Israeli parliament passed a law on Monday that limits the Supreme Court's abi... [3709 chars]",
-      "tags": ["foreign_policy", "middle_east", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1690222235
     },
     {
       "source": {
@@ -142,7 +169,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230721080838-ron-desantis-0715.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-07-24T18:03:35Z",
       "content": "CNN —\nResponding to intensifying concerns among his supporters, top advisers to Florida Gov. Ron DeSantis met with key donors and fundraisers over the weekend in Utah, where they promised a new direction to jumpstart his fledgling White House bid.\nDu... [11150 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1690221815
     },
     {
       "source": {
@@ -156,7 +187,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2261255/republicans-get-early-warning-about-2024.jpg",
       "publishedAt": "2023-07-24T17:49:39Z",
       "content": "Ohio voters, including independents, broadly support enshrining abortion rights into the state constitution, according to a new poll, a troubling sign for Republicans ahead of the 2024 elections.\nAbortion rights became a critical issue for millions o... [6033 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1690220979
     },
     {
       "source": {
@@ -176,7 +212,8 @@
         "social_issues",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1690220771
     },
     {
       "source": {
@@ -190,7 +227,11 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1483584-12-20230724081256.jpeg",
       "publishedAt": "2023-07-24T17:40:00Z",
       "content": "Robert F. Kennedy Jr. says media bias, and not his own controversial theories , is what's dogging his presidential campaign. \"I've been really, you know, slammed in a way that I think is unprecedented, even more than President Trump was slammed by th... [1610 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1690220400
     },
     {
       "source": {
@@ -208,7 +249,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690220340
     },
     {
       "source": {
@@ -222,7 +264,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/NYPICHPDPICT000014566909.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-07-24T17:18:15Z",
       "content": "Joe Rogan has turned down numerous requests from Donald Trump’s camp to interview the former president on his popular Spotify podcast, according to a report.\nRogan has stated he is not a Trump supporter and that he has no desire to give the 45th pres... [2517 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1690219095
     },
     {
       "source": {
@@ -240,7 +287,8 @@
         "elections_politics",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690212212
     },
     {
       "source": {
@@ -259,7 +307,8 @@
         "2026_midterms",
         "2028_presidential",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1690211953
     },
     {
       "source": {
@@ -273,7 +322,11 @@
       "urlToImage": "https://static01.nyt.com/images/2023/07/21/multimedia/20paul1-tkpl/20paul1-tkpl-facebookJumbo.jpg",
       "publishedAt": "2023-07-24T14:59:13Z",
       "content": "To the Editor:\nRe “The Presidential Rematch Nobody Wants,” by Pamela Paul (column, July 21):\nMs. Paul asks, “Have you met anyone truly excited about Joe Biden running for re-election?”\nI am wildly enthusiastic about President Biden, who is the best p... [902 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1690210753
     },
     {
       "source": {
@@ -287,7 +340,12 @@
       "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2023/07/partisan_vaccines_1600.jpg",
       "publishedAt": "2023-07-24T14:31:11Z",
       "content": "We were hoping to use insights from our earlier work on masking—in which we used ads with General (ret) Hugh Shelton to encourage mask use among NC residents—to see if we could encourage vaccine uptake among groups that were lagging behind. By the ti... [900 chars]",
-      "tags": ["public_health", "social_issues", "media_communications"]
+      "tags": [
+        "public_health",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1690209071
     },
     {
       "source": {
@@ -307,7 +365,8 @@
         "doj_actions",
         "elections_politics",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1690208460
     },
     {
       "source": {
@@ -321,7 +380,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2022/02/donald-trump-0201221.jpg",
       "publishedAt": "2023-07-24T14:00:01Z",
       "content": "Last week, Donald Trump let loose with one of his tantrums disguised as a fundraising appeal on Truth Social, this time claiming that special prosecutor Jack Smith had sent him a letter indicating he's the target of a Justice Department investigation... [7042 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1690207201
     },
     {
       "source": {
@@ -340,7 +404,8 @@
         "federal_courts",
         "criminal_cases",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1690207200
     },
     {
       "source": {
@@ -354,7 +419,11 @@
       "urlToImage": "https://images.theconversation.com/files/539074/original/file-20230724-2397-atdae0.jpg?ixlib=rb-1.1.0&rect=58%2C89%2C2937%2C1468&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2023-07-24T14:00:00Z",
       "content": "The federal trial for former President Donald Trump’s alleged mishandling of classified documents is scheduled to start on May 20, 2024, U.S. District Judge Aileen Cannon announced on July 21, 2023.\nThis trial date should be entered into calendars wi... [3694 chars]",
-      "tags": ["legal_justice", "federal_courts"]
+      "tags": [
+        "legal_justice",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1690207200
     },
     {
       "source": {
@@ -368,7 +437,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/79be27aae9c4d4e38cc96e2b98fd357c01d2edc8/61_79_3172_1903/master/3172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=18977098150c66595ac296d76b04cdf2",
       "publishedAt": "2023-07-24T13:48:21Z",
       "content": "But what about Doug Burgum, Asa Hutchinson and, perhaps most surprisingly, Mike Pence?\nThe three are considered among the major GOP presidential contenders, but Politico reports that none of them has qualified for the debate stage. It’s a bit of a sh... [983 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1690206501
     },
     {
       "source": {
@@ -387,7 +460,8 @@
         "personal_legal",
         "criminal_cases",
         "civil_litigation"
-      ]
+      ],
+      "publishedAtTs": 1690205145
     },
     {
       "source": {
@@ -401,7 +475,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/635116/uploads/54f2d750-2a08-11ee-8456-cfe7b31cbc60_800_420.jpeg",
       "publishedAt": "2023-07-24T12:52:17Z",
       "content": "Donald Trump, who delivered hundreds of speeches during his stint as former president of the United States of America, rambled and dodged a question with a nonsensical answer. The otherwise outspoken politician recently sparked speculations around hi... [4544 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1690203137
     }
   ]
 }

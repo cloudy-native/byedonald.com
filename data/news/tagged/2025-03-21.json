@@ -19,7 +19,8 @@
         "legal_justice",
         "security_intelligence",
         "free_speech"
-      ]
+      ],
+      "publishedAtTs": 1742601391
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/b3ac8747-c85b-4a55-80ea-9139ab911821/b3ac8747-c85b-4a55-80ea-9139ab911821_1140x641.jpg",
       "publishedAt": "2025-03-21T23:55:50Z",
       "content": "The action comes after Donald Trump signed an executive order that could lead to possible federal action against organizations using DEI programs.\nNEW YORK — Major League Baseball removed references to \"diversity” from its MLB Careers home page follo... [1254 chars]",
-      "tags": ["government_administration", "executive_orders", "civil_rights"]
+      "tags": [
+        "government_administration",
+        "executive_orders",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1742601350
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "free_speech",
         "regional_state",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742600740
     },
     {
       "source": {
@@ -73,7 +80,8 @@
         "social_issues",
         "education",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1742600020
     },
     {
       "source": {
@@ -91,7 +99,8 @@
         "security_incidents",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1742598999
     },
     {
       "source": {
@@ -105,7 +114,13 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/c4/1c4f3f13-eaf8-53e4-94c7-ff94a41e3670/67dd1edbbefbc.image.jpg?crop=1600%2C840%2C0%2C120&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-03-21T23:15:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["foreign_policy", "economy_finance", "trade", "energy"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1742598900
     },
     {
       "source": {
@@ -119,7 +134,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/03/Immigration-Children-Legal_Aid_81389.jpg?w=1024&h=682",
       "publishedAt": "2025-03-21T23:14:40Z",
       "content": "WASHINGTON (AP) — The Trump administration on Friday ended a contract that provides legal help to migrant children entering the country without a parent or guardian, raising concerns that children will be forced to navigate the complex legal system a... [2790 chars]",
-      "tags": ["immigration", "legal_justice", "policy_legislation"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1742598880
     },
     {
       "source": {
@@ -133,7 +153,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/03/trump-travel-ban.webp",
       "publishedAt": "2025-03-21T23:13:40Z",
       "content": "The Trump administration will not be announcing new restrictions on certain foreign citizens traveling to the United States on Friday, the deadline President Donald Trump set for a report.\nTrump signed an executive order on Jan. 20, giving the State ... [1963 chars]",
-      "tags": ["foreign_policy", "government_administration", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "government_administration",
+        "immigration"
+      ],
+      "publishedAtTs": 1742598820
     },
     {
       "source": {
@@ -147,7 +172,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/AS22MHDAIRBQRGCRAWRBISOFYA.jpg?smart=true&auth=0186f337b761b61501d99030761f3319bdd77bb16e1b9bcd33c249ef213f7fc3&width=1200&height=630",
       "publishedAt": "2025-03-21T23:08:00Z",
       "content": "Rosie O'Donnell said Conor McGregor's presence at the White House on St Patrick's Day was 'depressing'. Photograph: Paul Archuleta/Getty Images\nActor and comedian Rosie O’Donnell has written to the Taoiseach Micheál Martin apologising for him becomin... [3039 chars]",
-      "tags": ["personal_family", "media_communications", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1742598480
     }
   ]
 }

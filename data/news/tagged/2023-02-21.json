@@ -14,7 +14,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230215153601-01-trump-investigations-fulton-county-file-donald-trump.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-02-21T23:52:06Z",
       "content": "CNN —\nThe foreperson of the Atlanta-based grand jury that investigated former President Donald Trump’s attempts to overturn the 2020 election told CNN on Tuesday that the panel is recommending multiple indictments and suggested “the big name” may be ... [6188 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677023526
     },
     {
       "source": {
@@ -28,7 +32,12 @@
       "urlToImage": "https://static.politico.com/cb/5f/48f41a494ca5833bb839b3ab6a23/https-delivery-gettyimages.com/downloads/1398431195",
       "publishedAt": "2023-02-21T23:39:31Z",
       "content": "The new proposal — which immigrant advocates refer to as the “transit ban” or the “asylum ban” — is the White House’s most restrictive border control measure to date and essentially will serve as its policy solution to the long-awaited end of Title 4... [4428 chars]",
-      "tags": ["immigration", "policy_legislation", "government_administration"]
+      "tags": [
+        "immigration",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1677022771
     },
     {
       "source": {
@@ -42,7 +51,11 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/iogOfSYzUXxKyc9fpqgpRs8v-K4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NPSJWFMGMNDVDM5IJBLWP7MBOQ.jpg",
       "publishedAt": "2023-02-21T23:30:23Z",
       "content": "A protester joins others gathered for \"Truth Tuesday\" as they participate in a \"Fox can't handle the truth\" protest outside Fox News headquarters on June 14, 2022, in New York City. (Michael M. Santiago / Getty Images)\nAn old cynical newsperson jokes... [4343 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677022223
     },
     {
       "source": {
@@ -56,7 +69,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/donald-j-trump-speaks-during-cpac-texas-2022-shutterstock-com.jpg?id=32416363&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2023-02-21T23:25:43Z",
       "content": "In earlier days of testimony, federal prosecutors put on witnesses and played recordings indicating that Householder and his allies worked with current and former regulators to draft HB 6. Jurors also heard that Householder personally received more t... [8202 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1677021943
     },
     {
       "source": {
@@ -70,7 +88,12 @@
       "urlToImage": "https://images.wsj.net/im-729253/social",
       "publishedAt": "2023-02-21T23:12:00Z",
       "content": "There’s no dancing around it: Donald Trump remains the standard-bearer of the Republican Party. But Nikki Haley is showing us her best moves.\nMs. Haley was a popular governor of South Carolina from 2011 to 2017 and comported herself well as U.S. amba... [299 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1677021120
     },
     {
       "source": {
@@ -89,7 +112,8 @@
         "policy_legislation",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1677019533
     },
     {
       "source": {
@@ -103,7 +127,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198934/donald-trump-charlie-crist-inset.png",
       "publishedAt": "2023-02-21T22:45:29Z",
       "content": "Former President Donald Trump on Tuesday criticized Republican Governor Ron DeSantis of Florida, but a compliment he paid to a Democrat in a message about DeSantis upset some of his supporters.\nIn two posts on his Truth Social platform, Trump railed ... [3522 chars]",
-      "tags": ["elections_politics", "florida", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "florida",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677019529
     },
     {
       "source": {
@@ -122,7 +151,8 @@
         "elections_politics",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1677018799
     },
     {
       "source": {
@@ -141,7 +171,8 @@
         "personal_legal",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1677018428
     },
     {
       "source": {
@@ -160,7 +191,8 @@
         "policy_legislation",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1677018240
     },
     {
       "source": {
@@ -179,7 +211,8 @@
         "policy_legislation",
         "legal_justice",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1677016078
     },
     {
       "source": {
@@ -193,7 +226,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198908/trump-indictment-georgia-jury.jpg",
       "publishedAt": "2023-02-21T21:27:46Z",
       "content": "The list of people recommended to be indicted by the special grand jury is not \"short,\" according to the forewoman of the Georgia panel that spent seven months investigating former President Donald Trump and his associates' alleged efforts to overtur... [3144 chars]",
-      "tags": ["legal_justice", "criminal_cases", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677014866
     },
     {
       "source": {
@@ -207,7 +245,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198901/brunson.png",
       "publishedAt": "2023-02-21T20:46:36Z",
       "content": "Three Trump-supporting brothers are preparing to roll out their \"plan C\" to reinstate him as president after the United States Supreme Court once again declined to hear their case.\nIn a Facebook post Tuesday, Raland Brunson—one of the plaintiffs in t... [2227 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1677012396
     },
     {
       "source": {
@@ -221,7 +264,12 @@
       "urlToImage": "https://static01.nyt.com/images/2023/02/21/multimedia/21DC-TRUMP-LAWYERS-wzlq/21DC-TRUMP-LAWYERS-wzlq-facebookJumbo.jpg",
       "publishedAt": "2023-02-21T19:53:17Z",
       "content": "Former President Donald J. Trump, who throughout his business career had a reputation for not paying lawyers, spent roughly $10 million from his political action committee on his own legal fees last year, federal election filings show.\nThe money that... [788 chars]",
-      "tags": ["personal_family", "legal_justice", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677009197
     },
     {
       "source": {
@@ -235,7 +283,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/01/1bd4b7849f694abf9c44165792fd751e-1-e1677006093979.jpg?w=1280",
       "publishedAt": "2023-02-21T19:02:10Z",
       "content": "Former president Trump ripped into Fox News on Tuesday over its coverage of the political ascendance of Florida Gov. Ron DeSantis (R).\n“So interesting to watch FoxNews cover the small and unenthusiastic 139 person crowd in Staten Island for DeSantis,... [1119 chars]",
-      "tags": ["media_communications", "elections_politics", "regional_state"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1677006130
     },
     {
       "source": {
@@ -249,7 +302,12 @@
       "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/Derek-Jeter-Tampa-House.png",
       "publishedAt": "2023-02-21T19:00:43Z",
       "content": "Published 02/21/2023, 1:00 PM CST\nBaseball legend Derek Jeter played the game for over two decades. Because of his iconic play, he led his team to five world series wins. Individually, Jeter earned countless accolades, and his fame also led him to pa... [2161 chars]",
-      "tags": ["personal_family", "regional_state", "florida"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1677006043
     },
     {
       "source": {
@@ -263,7 +321,12 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-02-22/1043062_070052_updates.jpg",
       "publishedAt": "2023-02-21T19:00:00Z",
       "content": "Following in the footsteps of former US president Donald Trump, Prince Harry and Meghan Markle could chose to invoke the fifth amendment if they have to give testimony in Samantha Markle lawsuit against the Duchess of Sussex, according to express.co.... [1217 chars]",
-      "tags": ["personal_family", "legal_justice", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1677006000
     },
     {
       "source": {
@@ -277,7 +340,12 @@
       "urlToImage": "https://www.thenews.com.pk/assets/uploads/updates/2023-02-22/1043110_022328_updates.jpg",
       "publishedAt": "2023-02-21T19:00:00Z",
       "content": "Prosecutors have spent two years looking into whether the former president and his allies committed crimes in their bid to overturn his defeat in the southern state to Joe Biden by fewer than 12,000 votes.— AFP/file\nA US grand jury probing attempts b... [3294 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1677006000
     },
     {
       "source": {
@@ -295,7 +363,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1677004274
     },
     {
       "source": {
@@ -314,7 +383,8 @@
         "policy_legislation",
         "legal_justice",
         "border_security"
-      ]
+      ],
+      "publishedAtTs": 1677003834
     },
     {
       "source": {
@@ -328,7 +398,12 @@
       "urlToImage": "https://www.nydailynews.com/resizer/W3yk9Zqcf9eWpTKk92xG72wZfYQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/2IVGNANYLJG7RMV7PZU6PW65FA.jpg",
       "publishedAt": "2023-02-21T18:21:14Z",
       "content": "Former President Donald Trump Tuesday said Gov. Ron DeSantis deserves no credit for Florida’s booming economy, and said his predecessors did better jobs of running the Sunshine state.\nAdvertisement\nRamping up attacks on his putative 2024 Republican p... [2232 chars]",
-      "tags": ["elections_politics", "regional_state", "florida"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "florida"
+      ],
+      "publishedAtTs": 1677003674
     },
     {
       "source": {
@@ -342,7 +417,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198551/desantis-trump-biden-independents.jpg",
       "publishedAt": "2023-02-21T16:55:24Z",
       "content": "Florida Governor Ron DeSantis might have a leg up on former President Donald Trump when it comes to the voters Trump struggled to reach in 2020, new polling suggests.\nFive recent surveys show DeSantis ahead of President Joe Biden among independents—a... [2513 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1676998524
     },
     {
       "source": {
@@ -356,7 +436,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198527/donald-trump-addressing-club-45-florida.jpg",
       "publishedAt": "2023-02-21T16:50:09Z",
       "content": "Donald Trump said that \"nuclear\" is one of two n-words in the English language which shouldn't \"ever be mentioned,\" adding \"you know what the one is\" in reference to the second, in a speech in West Palm Beach, Florida on Monday.\nThe former president ... [2280 chars]",
-      "tags": ["social_issues", "media_communications", "personal_family"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1676998209
     },
     {
       "source": {
@@ -370,7 +455,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2198519/trump-haley-biden-desantis-mental-competency-2024.png",
       "publishedAt": "2023-02-21T16:16:02Z",
       "content": "Nikki Haley's call for mental competency tests for candidates of a certain age is now being supported by former President Donald Trump.\nHaley, who last Wednesday in South Carolina was the second Republican to officially kick off a 2024 presidential c... [3410 chars]",
-      "tags": ["personal_family", "elections_politics", "regional_state"]
+      "tags": [
+        "personal_family",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1676996162
     },
     {
       "source": {
@@ -384,7 +474,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2020/10/donald-trump-diner-restaurant-1008201.jpg",
       "publishedAt": "2023-02-21T16:00:02Z",
       "content": "Institutions are like people. They have personalities, histories, memories, cultures, ethics, desires, relationships, emotions, dreams, and habits. And like people, institutions also have addictions and compulsions.\nThe American mainstream news media... [12730 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1676995202
     }
   ]
 }

@@ -18,7 +18,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1706483909
     },
     {
       "source": {
@@ -32,7 +33,12 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/xpI27l18yGs5Tg-TnSGyj88tYZQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/6T4WRNPJKT35BI7MSCPIW3GTA4.jpg",
       "publishedAt": "2024-01-28T23:04:00Z",
       "content": "Rioters loyal to President Donald Trump rally at the U.S. Capitol in Washington on Jan. 6, 2021. On Sunday, Jan. 28, 2024, a retired judge recommended to Illinois election officials that former President Trump's name should be removed from the Illino... [2503 chars]",
-      "tags": ["elections_politics", "voting_rights", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706483040
     },
     {
       "source": {
@@ -50,7 +56,8 @@
         "government_administration",
         "government_operations",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1706482974
     },
     {
       "source": {
@@ -64,7 +71,12 @@
       "urlToImage": "https://static01.nyt.com/images/2024/01/28/multimedia/28trump-finances-01-jzth/28trump-finances-01-jzth-facebookJumbo.jpg",
       "publishedAt": "2024-01-28T21:49:43Z",
       "content": "He did not go to jail, and has not lost his grip on the race for the Republican presidential nomination, but a jury’s verdict in a civil defamation trial last week nonetheless hit Donald J. Trump where it hurts: his wallet.\nThe jury’s decision to awa... [933 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1706478583
     },
     {
       "source": {
@@ -82,7 +94,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1706470188
     },
     {
       "source": {
@@ -96,7 +109,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2341577/donald-trump.jpg",
       "publishedAt": "2024-01-28T19:19:48Z",
       "content": "Former President Donald Trump expressed his \"profound sympathies\" to the families of the three U.S. service members killed in an attack by Iran-backed militants on Sunday, blaming President Joe Biden for \"this terrible day.\"\nThe Pentagon confirmed to... [4639 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1706469588
     },
     {
       "source": {
@@ -110,7 +128,12 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2d55f20b5b9126ba0e338cd454d95e6e?impolicy=wcms_crop_resize&cropH=2391&cropW=4251&xPos=0&yPos=477&width=862&height=485",
       "publishedAt": "2024-01-28T19:16:51Z",
       "content": "Bernie Sanders doesn't blame ordinary Americans for succumbing to the appeal of Donald Trump.\n\"I want the people of Australia to understand it's not because everybody who votes for Trump is a racist, or a sexist or a homophobe,\" US Senator Sanders to... [6312 chars]",
-      "tags": ["elections_politics", "economy_finance", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "economy_finance",
+        "social_issues"
+      ],
+      "publishedAtTs": 1706469411
     },
     {
       "source": {
@@ -124,7 +147,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/12/braziledonna_06072018_ap_file.jpg?w=1280",
       "publishedAt": "2024-01-28T19:12:13Z",
       "content": "Former Democratic National Committee Chair Donna Brazile said Sunday she thinks Speaker Mike Johnson (R-La.) is afraid of embracing a deal on a border security package because Trump might then publicly oppose the legislation.\nIn a panel discussion on... [1874 chars]",
-      "tags": ["policy_legislation", "immigration", "border_security"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "border_security"
+      ],
+      "publishedAtTs": 1706469133
     },
     {
       "source": {
@@ -138,7 +166,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/D-SlzrM_bdsIUZc72ULuVC2c5Vw=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/IEZPH46PBP6XJZUJC2VFYRS6CQ.jpg",
       "publishedAt": "2024-01-28T19:00:00Z",
       "content": "Republican presidential candidate Nikki Haley with supporters during a campaign event at Mauldin High School in Mauldin, South Carolina, on January 27th, 2024. She is running against Donald Trump in the South Carolina Republican presidential primary ... [4979 chars]",
-      "tags": ["elections_politics", "2028_presidential", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1706468400
     },
     {
       "source": {
@@ -152,7 +185,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/ri77HtQBv62vvppmeFiNeoJxTzI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/3QOTC7S4KVW4OXLHVDDMGW73TY.jpg",
       "publishedAt": "2024-01-28T19:00:00Z",
       "content": "Presidential hopeful Donald Trump speaks in Las Vegas: 'I think anybody running for president should take an aptitude or cognitive test. And I took one in office. Remember?' Photograph: Patrick T Fallon/AFP\nAll of the talk of getting older showed sig... [4127 chars]",
-      "tags": ["elections_politics", "2028_presidential", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1706468400
     },
     {
       "source": {
@@ -166,7 +204,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2024/01/29/1600x900/BIDEN-SOUTH-CAROLINA-5_1706506790818_1706506800706.jpg",
       "publishedAt": "2024-01-28T18:30:00Z",
       "content": "President Biden’s 2021 declaration that “America is back\" was welcomed by European officials eager to move past their trade troubles with the Trump administration.\nYet instead of reversing policies driven by Donald Trump’s protectionist view, Biden h... [10443 chars]",
-      "tags": ["economy_finance", "trade", "foreign_policy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1706466600
     },
     {
       "source": {
@@ -180,7 +223,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240128094332-nikki-haley-south-carolina-01-27-2024.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-01-28T18:17:02Z",
       "content": "CNN —\nFormer South Carolina Gov. Nikki Haley on Sunday said that while she doesn’t need to beat former President Donald Trump in her home state’s Republican presidential primary next month, the results need to be better for her than they were in New ... [2371 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706465822
     },
     {
       "source": {
@@ -198,7 +246,8 @@
         "elections_politics",
         "political_endorsements",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1706464576
     },
     {
       "source": {
@@ -212,7 +261,12 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/01/us-elections-donald-trump-rape-defamation-case-reuters-2024-01-dc0fdf1c5a5469160facbade2a48d5c6-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-01-28T17:36:37Z",
       "content": "Joe Biden and Donald Trump traded verbal jabs Saturday over a bipartisan plan for border reform aimed at stemming a surge in migrants crossing into the United States from Mexico.\nWith immigration one of the hottest electoral issues in what increasing... [2778 chars]",
-      "tags": ["policy_legislation", "immigration", "elections_politics"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1706463397
     },
     {
       "source": {
@@ -230,7 +284,8 @@
         "elections_politics",
         "2028_presidential",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1706462315
     },
     {
       "source": {
@@ -244,7 +299,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2341563/joe-biden-trump-gaffe.jpg",
       "publishedAt": "2024-01-28T17:12:41Z",
       "content": "A clip of a new verbal slip-up from President Joe Biden, in which he referred to Donald Trump as a \"sitting president,\" sparked renewed mockery from conservatives online.\nBiden has long been noted for a trend of awkward verbal gaffes or slip-ups duri... [3870 chars]",
-      "tags": ["elections_politics", "media_communications", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1706461961
     },
     {
       "source": {
@@ -258,7 +318,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/H8xrciur6janpJWVZ4TLZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/4f9b91e0-bde5-11ee-be3c-9b74b27a8c0b",
       "publishedAt": "2024-01-28T15:30:01Z",
       "content": "A likely Biden-Trump rematch is top of mind for investors, as former president Donald Trump moves closer to clinching the GOP nomination.\nFor investors, history suggests a strong pre-election year will carry over into the following year. Analysis fro... [5221 chars]",
-      "tags": ["economy_finance", "stock_market", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1706455801
     },
     {
       "source": {
@@ -272,7 +337,12 @@
       "urlToImage": "https://static.politico.com/68/7f/d89943ec42feab645738ab19823b/senate-democrats-89911.jpg",
       "publishedAt": "2024-01-28T15:03:10Z",
       "content": "Senate Democrats are expected to more widely support the deal — aside from some progressives who may be turned away by the amped-up border provisions. But whether Republicans in both chambers will support the long-awaited legislation amid pressure fr... [3981 chars]",
-      "tags": ["policy_legislation", "immigration", "border_security"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "border_security"
+      ],
+      "publishedAtTs": 1706454190
     },
     {
       "source": {
@@ -286,7 +356,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Xvq_hrGX0ah32NIqlQlSKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MzA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/33c99f90-bbf4-11ee-97f5-9163375ba297",
       "publishedAt": "2024-01-28T14:00:02Z",
       "content": "It was Aug. 15, 1971, and then-President Richard Nixon delivered an address to the nation to lay out a new economic approach for a country beset by economic worries and challenges to the US dollar.\nA key prong of his plan was an \"import surcharge\" — ... [6318 chars]",
-      "tags": ["economy_finance", "trade", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1706450402
     },
     {
       "source": {
@@ -300,7 +375,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/091fc2f69b9c51aaa2229968e43463818cd73f5f/4_0_3279_1968/master/3279.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b629aeba43bf01599f173d9dcb5aa23d",
       "publishedAt": "2024-01-28T13:00:06Z",
       "content": "During the eight years he served in the Iowa state Senate, Tod Bowman was a self-described “door knocker”, trekking to the front porches and patios of constituents in the rural counties he represented to appeal for votes.\nThey would, in turn, tell Bo... [10480 chars]",
-      "tags": ["elections_politics", "regional_state", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "social_issues"
+      ],
+      "publishedAtTs": 1706446806
     },
     {
       "source": {
@@ -314,7 +394,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/01/75552101.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-01-28T12:33:27Z",
       "content": "When Donald Trump appeared in Manhattan federal court earlier this week, Trump-watchers noticed his hair seemed to be a different shade — skewing more to light orange.\nWe hear that his look is based on his own impatience.\nSays an insider: “The hairdr... [2950 chars]",
-      "tags": ["personal_family", "lifestyle", "media_communications"]
+      "tags": [
+        "personal_family",
+        "lifestyle",
+        "media_communications"
+      ],
+      "publishedAtTs": 1706445207
     },
     {
       "source": {
@@ -328,7 +413,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=51204597&width=1200&height=600&coordinates=0%2C315%2C0%2C629",
       "publishedAt": "2024-01-28T12:00:29Z",
       "content": "Michael Roman, an indicted criminal co-defendant in Trump’s Georgia election interference case, has a new mission.\nHe’s filed a 127-page motion to dismiss and disqualify Fulton County DA Fani Willis, her outside counsel Nathan Wade — and the entire F... [12180 chars]",
-      "tags": ["legal_justice", "criminal_cases", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "regional_state"
+      ],
+      "publishedAtTs": 1706443229
     },
     {
       "source": {
@@ -342,7 +432,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/2cf523fee046e6728ca16c00c588387a9f52b0e0/0_352_5405_3245/master/5405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=18a4bb773e1e6b87194b89a79fd67702",
       "publishedAt": "2024-01-28T12:00:04Z",
       "content": "Twenty-five historians of the civil war and Reconstruction filed a US supreme court brief in support of the attempt by Colorado to remove Donald Trump from the ballot under the 14th amendment, which bars insurrectionists from running for office.\n“For... [6892 chars]",
-      "tags": ["legal_justice", "supreme_court", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1706443204
     }
   ]
 }

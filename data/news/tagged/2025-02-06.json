@@ -14,7 +14,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/02/06/multimedia/06-nat-birthright-injunction-top-jbmf/06-nat-birthright-injunction-top-jbmf-facebookJumbo.jpg",
       "publishedAt": "2025-02-06T23:59:49Z",
       "content": "For the second time this week, a federal judge has issued a nationwide preliminary injunction to block President Trump’s effort to end automatic citizenship for babies born on U.S. soil to undocumented immigrants.\nThe decision, handed down on Thursda... [638 chars]",
-      "tags": ["policy_legislation", "legal_justice", "immigration"]
+      "tags": [
+        "policy_legislation",
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1738886389
     },
     {
       "source": {
@@ -33,7 +38,8 @@
         "social_issues",
         "lgbtq_rights",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1738886389
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "technology_regulation",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1738886374
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "federal_agencies",
         "foreign_policy",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1738886369
     },
     {
       "source": {
@@ -86,7 +94,8 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/250128-donald-trump-vl-1027a-39337f.jpg",
       "publishedAt": "2025-02-06T23:57:38Z",
       "content": "Democrats believe they’ve found a political message that is resonating with the public: Elon Musk is illegally accessing the federal data of American taxpayers.\nAt outdoor rallies and in news conferences inside the Capitol this week, congressional De... [3144 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1738886258
     },
     {
       "source": {
@@ -106,7 +115,8 @@
         "social_issues",
         "personal_family",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1738886199
     },
     {
       "source": {
@@ -120,7 +130,12 @@
       "urlToImage": "https://markets.businessinsider.com/apple-touch-icon.png",
       "publishedAt": "2025-02-06T23:55:09Z",
       "content": "The White House outlined its tax priorities in a meeting with House GOP leaders on Thursday, a White House official tells Axios. Trump is advocating to eliminate the “carried interest loophole,” which allows partners of investment funds to pay a lowe... [612 chars]",
-      "tags": ["taxes", "economy_finance", "policy_legislation"]
+      "tags": [
+        "taxes",
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1738886109
     },
     {
       "source": {
@@ -134,7 +149,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/favicon.ico",
       "publishedAt": "2025-02-06T23:54:42Z",
       "content": "Israel has initiated plans to potentially relocate Palestinians from Gaza, aligning with a proposal by President Trump, despite facing international resistance. The strategy involves facilitating the departure of Gaza's 2.3 million residents, a move ... [1470 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel"
+      ],
+      "publishedAtTs": 1738886082
     },
     {
       "source": {
@@ -154,7 +174,8 @@
         "labor",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1738886047
     },
     {
       "source": {
@@ -174,7 +195,8 @@
         "social_issues",
         "lgbtq_rights",
         "texas"
-      ]
+      ],
+      "publishedAtTs": 1738885811
     }
   ]
 }

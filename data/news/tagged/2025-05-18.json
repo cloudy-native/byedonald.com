@@ -18,7 +18,8 @@
         "personal_business",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1747612705
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "media_communications",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1747610802
     },
     {
       "source": {
@@ -55,7 +57,8 @@
         "policy_legislation",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1747610457
     },
     {
       "source": {
@@ -73,7 +76,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1747609966
     },
     {
       "source": {
@@ -87,7 +91,12 @@
       "urlToImage": "https://www.rte.ie/images/00228d2a-1600.jpg",
       "publishedAt": "2025-05-18T23:00:00Z",
       "content": "Brussels and London will be largely satisfied with the Brexit reset deal, announced with some fanfare at Lancaster House, and the direction of travel towards a closer relationship is now clear.\nThe election of a Labour government was always going to ... [12527 chars]",
-      "tags": ["foreign_policy", "europe", "nato"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "nato"
+      ],
+      "publishedAtTs": 1747609200
     },
     {
       "source": {
@@ -101,7 +110,14 @@
       "urlToImage": "https://www.rte.ie/images/00228c84-1600.jpg",
       "publishedAt": "2025-05-18T23:00:00Z",
       "content": "Britain has agreed the most significant reset of defence and trade ties with the European Union since Brexit after US President Donald Trump's upending of the global order pushed the two sides to move on from their acrimonious divorce.\nNearly nine ye... [4744 chars]",
-      "tags": ["foreign_policy", "europe", "nato", "trade", "economy_finance"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "nato",
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747609200
     },
     {
       "source": {
@@ -120,7 +136,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1747607579
     },
     {
       "source": {
@@ -140,7 +157,8 @@
         "media_communications",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1747607510
     },
     {
       "source": {
@@ -154,7 +172,11 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/02/AP25020606301245.webp",
       "publishedAt": "2025-05-18T22:26:23Z",
       "content": "President Donald Trump expressed his sympathies to former President Joe Biden regarding the news of his prostate cancer diagnosis. He wished for Biden to have a speedy recovery.\nTrump made the comments in a social media post on his Truth Social accou... [1413 chars]",
-      "tags": ["statements", "social_media"]
+      "tags": [
+        "statements",
+        "social_media"
+      ],
+      "publishedAtTs": 1747607183
     },
     {
       "source": {
@@ -168,7 +190,12 @@
       "urlToImage": "https://static01.nyt.com/images/2025/05/18/multimedia/18int-romania-election-photo-pvzk/18int-romania-election-photo-pvzk-facebookJumbo.jpg",
       "publishedAt": "2025-05-18T22:23:24Z",
       "content": "In a setback for Europe’s surging nationalist forces, Nicusor Dan, a centrist mayor and former mathematics professor, on Sunday won the presidential election in Romania, defeating a hard-right candidate who is aligned with President Trump and has opp... [931 chars]",
-      "tags": ["elections_politics", "foreign_policy", "europe"]
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "europe"
+      ],
+      "publishedAtTs": 1747607004
     }
   ]
 }

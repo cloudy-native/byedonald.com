@@ -20,7 +20,8 @@
         "middle_east",
         "security_intelligence",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1741650923
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1741650878
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408859-1714578761524-gettyimages-2150252824-AFP_34QJ4L2.jpeg?v=1741651821&w=1920&h=1080",
       "publishedAt": "2025-03-10T23:52:58Z",
       "content": "A man looks at an electronic board displaying stock prices of the Nikkei 225 listed on the Tokyo Stock Exchange in Tokyo on April 30, 2024.\nAsia-Pacific markets slid on Tuesday, tracking losses in the U.S. following anxiety over tariff policy and a p... [569 chars]",
-      "tags": ["economy_finance", "stock_market", "trade"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "trade"
+      ],
+      "publishedAtTs": 1741650778
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "policy_legislation",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1741650545
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "security_intelligence",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1741650204
     },
     {
       "source": {
@@ -108,7 +117,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/exclusive-pic-afghanistan-terrorist-terrorist-100226211.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-03-10T23:39:53Z",
       "content": "The terrorist accused by President Trump of plotting the Abbey Gate bombing that killed 13 US service members and 168 Afghans in August 2021 was not one of the top planners of the attack but will remain in US custody.\nMagistrate Judge William Fitzpat... [2366 chars]",
-      "tags": ["security_intelligence", "legal_justice", "crisis_emergency"]
+      "tags": [
+        "security_intelligence",
+        "legal_justice",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1741649993
     },
     {
       "source": {
@@ -127,7 +141,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1741649919
     },
     {
       "source": {
@@ -141,7 +156,12 @@
       "urlToImage": "https://images.macrumors.com/t/kKde5DupoYItKCh_vHDh8x0ZMBU=/2500x/article-new/2022/06/Chrome-Feature-22.jpg",
       "publishedAt": "2025-03-10T23:32:00Z",
       "content": "There is a good chance that Google will be forced to sell off its Chrome browser, as the U.S. Department of Justice under Donald Trump is continuing to call for Google to divest the browser.\nOn Friday, the DoJ sent a new proposal [PDF] to the court i... [1883 chars]",
-      "tags": ["federal_agencies", "doj_actions", "technology_regulation"]
+      "tags": [
+        "federal_agencies",
+        "doj_actions",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1741649520
     },
     {
       "source": {
@@ -155,7 +175,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108112948-17413793592025-03-07t201923z_912716484_rc2k8da3ly7s_rtrmadp_0_usa-trump.jpeg?v=1741379450&w=1920&h=1080",
       "publishedAt": "2025-03-10T23:31:33Z",
       "content": "The White House on Monday downplayed the weeks long stock market sell-off, insisting that recent moves by business leaders suggest a brighter outlook for the U.S. economy.\n\"We're seeing a strong divergence between animal spirits of the stock market a... [1847 chars]",
-      "tags": ["economy_finance", "stock_market", "government_administration"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "government_administration"
+      ],
+      "publishedAtTs": 1741649493
     },
     {
       "source": {
@@ -175,7 +200,8 @@
         "government_administration",
         "regional_state",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1741649465
     }
   ]
 }

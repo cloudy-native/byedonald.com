@@ -14,7 +14,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/d33c072e060e10657e0f2d61ded8db14",
       "publishedAt": "2024-07-16T23:55:47Z",
       "content": "By David Shepardson\nWASHINGTON (Reuters) - Republican presidential candidate Donald Trump said he supports TikTok even as a potential ban looms if Chinese-parent company ByteDance fails to divest the short video app's U.S. assets.\n\"I’m for TikTok bec... [1891 chars]",
-      "tags": ["policy_legislation", "foreign_policy", "health_science"]
+      "tags": [
+        "policy_legislation",
+        "foreign_policy",
+        "health_science"
+      ],
+      "publishedAtTs": 1721174147
     },
     {
       "source": {
@@ -32,7 +37,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1721173909
     },
     {
       "source": {
@@ -46,7 +52,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24195854249313.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-16T23:49:49Z",
       "content": "CNN —\nThe shooter who attempted to assassinate former President Donald Trump on Saturday normally would have been at work that day, but he told his boss he needed that the day off because he had “something to do,” according to multiple law enforcemen... [2823 chars]",
-      "tags": ["security_intelligence", "legal_justice"]
+      "tags": [
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1721173789
     },
     {
       "source": {
@@ -64,7 +74,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721173560
     },
     {
       "source": {
@@ -78,7 +89,11 @@
       "urlToImage": "https://images.7news.com.au/publication/C-15380971/0fb313a9d1ed0ababbff55353d71b708ea41646a-16x9-x0y0w2000h1125.jpg?imwidth=1200",
       "publishedAt": "2024-07-16T23:44:57Z",
       "content": "Fans have turned on Hollywood star and Tenacious D singer Jack Black following bandmate Kyle Gass’s sick joke about the assassination attempt on former President Donald Trump.\nThe comment was delivered during the rock duo’s show at the International ... [2504 chars]",
-      "tags": ["media_communications", "security_intelligence"]
+      "tags": [
+        "media_communications",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721173497
     },
     {
       "source": {
@@ -92,7 +107,11 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2352%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_276%2C$y_262/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/d7e4e05d5a40262738cfc950c080de622277dce2",
       "publishedAt": "2024-07-16T23:42:54Z",
       "content": "Katie Rogers, Lisa Lerer, Reid J. Epstein and Maggie Haberman Jul 17, 2024 – 9.42am Save Share Copy link Copied Email LinkedIn Twitter Facebook Copy link Copied Share via... Gift this article New Subscribe to gift this article Gift 5 articles to anyo... [657 chars]",
-      "tags": ["elections_politics", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721173374
     },
     {
       "source": {
@@ -106,7 +125,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24198715351043.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-16T23:09:41Z",
       "content": "Milwaukee CNN —\nFormer South Carolina Gov. Nikki Haley endorsed Donald Trump’s campaign Tuesday night in her Republican National Convention speech, her latest step toward embracing her former rival and unifying the party after their bitter presidenti... [5983 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721171381
     },
     {
       "source": {
@@ -120,7 +143,12 @@
       "urlToImage": "https://img2.thejournal.ie/article/6438784/river/?height=400&version=6438802",
       "publishedAt": "2024-07-16T23:09:24Z",
       "content": "US PRESIDENT JOE Biden has called for a ban on the type of semi-automatic rifle that was used in the attempted assassination of his election rival Donald Trump.\nMaking his first campaign trail appearance since last weekend’s attack, Biden called on a... [3723 chars]",
-      "tags": ["social_issues", "elections_politics", "security_intelligence"]
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721171364
     },
     {
       "source": {
@@ -134,7 +162,11 @@
       "urlToImage": "https://static01.nyt.com/images/2024/07/16/opinion/16Christie-image/16Christie-image-facebookJumbo.jpg",
       "publishedAt": "2024-07-16T23:04:39Z",
       "content": "There is no place for political violence in this country. That is the recurring sentiment expressed by elected officials and political leaders since the attempted assassination of Donald Trump.\nThat is an honorable sentiment, but it is much too easy.... [800 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721171079
     },
     {
       "source": {
@@ -148,7 +180,11 @@
       "urlToImage": "https://static01.nyt.com/images/2024/07/17/opinion/16stephenss/16stephenss-facebookJumbo.jpg",
       "publishedAt": "2024-07-16T23:00:07Z",
       "content": "In November 2022, after the Republicans’ lackluster showing in the midterms, I wrote a column titled “Donald Trump Is Finally Finished.” I keep a printed copy on my desk as a humbling reminder of how wrong I can be.\nHow did Trump go from a disgraced ... [987 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721170807
     },
     {
       "source": {
@@ -162,7 +198,11 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/15063524_071624-wls-wall-rnc-day-2-6p-vid.jpg?w=1600",
       "publishedAt": "2024-07-16T23:00:00Z",
       "content": "After bashing Trump in primary, Haley and DeSantis to preach unity at Republican National Convention\nAfter bashing Trump in the primary, Ron DeSantis and Nikki Haley are expected to preach unity tonight at the 2024 RNC in Milwaukee.\nAfter bashing Tru... [3972 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721170800
     },
     {
       "source": {
@@ -176,7 +216,11 @@
       "urlToImage": "https://img.rasset.ie/00209b48-1600.jpg",
       "publishedAt": "2024-07-16T23:00:00Z",
       "content": "Donald Trump's former leading rivals for the republican presidential nomination, Nikki Haley and Ron DeSantis, offered full-throated endorsements of his candidacy at the party's convention, a display of unity three days after the former US president ... [4129 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721170800
     },
     {
       "source": {
@@ -190,7 +234,11 @@
       "urlToImage": "https://img.rasset.ie/002099ec-1600.jpg",
       "publishedAt": "2024-07-16T23:00:00Z",
       "content": "US prosecutors have formally appealed a federal judge's decision to throw out the criminal case accusing Donald Trump of illegally holding on to classified documents following the end of his presidency.\nSpecial Counsel Jack Smith's office filed a not... [3542 chars]",
-      "tags": ["legal_justice", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721170800
     },
     {
       "source": {
@@ -204,7 +252,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/38a20dbcf14b7d4b1b6d145e9bcdfde15863ae0a/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=9244e77ca32cf78bf518b6958a2e6f5b",
       "publishedAt": "2024-07-16T22:46:49Z",
       "content": "From 24m ago 18.27 EDT Nikki Haley, Ron DeSantis and Marco Rubio among speakers on day two of the Republican national convention Welcome to our rolling coverage of US politics. The Republican national convention is now under way with Donald Trump as ... [6602 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721170009
     },
     {
       "source": {
@@ -218,7 +270,11 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.6874%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_230%2C$y_26/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1e9075d6b4106a67c74e0d4580b7c3eaf5adae13",
       "publishedAt": "2024-07-16T22:46:18Z",
       "content": "Milwaukee, Wisconsin | Australian ambassador to the US Kevin Rudd has moved to shore up his standing among MAGA Republicans, texting vice president candidate J.D. Vance and meeting key Donald Trump allies as he scuttles the idea that he might be repl... [317 chars]",
-      "tags": ["foreign_policy", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721169978
     },
     {
       "source": {
@@ -232,7 +288,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/705289/uploads/777acdd0-4331-11ef-b6f3-3baa66ee5da9_1200_630.jpeg",
       "publishedAt": "2024-07-16T22:46:01Z",
       "content": "Former President Donald Trump found himself stuck in several felony charges for allegedly mishandling classified documents. The accusations were that Trump hid sensitive files at his Florida mansion, lied to investigators, and tried to obstruct the l... [3713 chars]",
-      "tags": ["legal_justice", "security_intelligence", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721169961
     },
     {
       "source": {
@@ -246,7 +307,12 @@
       "urlToImage": "https://i.cbc.ca/1.7251754.1719878289!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden-trump-composite.jpg",
       "publishedAt": "2024-07-16T22:41:01Z",
       "content": "Canada's premiers won't say publicly if they'd prefer U.S. President Joe Biden or former president Donald Trump to return to the White House, but they are cheering for one outcome this November — the survival of the Canada-U.S. trading relationship.\n... [3937 chars]",
-      "tags": ["foreign_policy", "economy_finance", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721169661
     },
     {
       "source": {
@@ -260,7 +326,12 @@
       "urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-us-biden_6628565.jpg?20240716221718",
       "publishedAt": "2024-07-16T22:36:00Z",
       "content": "Analysis: Energised Biden gives fiery speech in signal to doubters\nBy David Blevins, correspondent in Washington\nWhere has this Joe Biden been?\nThe president returned to the campaign trail with a fist pump as he stepped onto the stage in Nevada.\nThre... [1096 chars]",
-      "tags": ["security_intelligence", "elections_politics", "social_issues"]
+      "tags": [
+        "security_intelligence",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1721169360
     },
     {
       "source": {
@@ -274,7 +345,11 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-07/240716-Robert-F-Kennedy-Jr-ch-1015-62a346.jpg",
       "publishedAt": "2024-07-16T22:20:48Z",
       "content": "Robert F. Kennedy Jr.’s relationship with Donald Trump is back in the spotlight — at a moment of upheaval in the presidential race and after a video of a phone call between the two was posted online and then deleted by Kennedy’s son.\nIn the video, Tr... [5824 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721168448
     },
     {
       "source": {
@@ -288,7 +363,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/giuliani-bt-32358.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-16T22:17:43Z",
       "content": "CNN —\nFormer Trump lawyer Rudy Giuliani says he has “no regrets” about falsely accusing two Georgia election workers of rigging the 2020 election.\n“I have no regrets at all. I’m on the side of justice, right and truth,” Giuliani said in an interview ... [1756 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721168263
     },
     {
       "source": {
@@ -302,7 +381,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=52681448&width=1200&height=600&coordinates=0%2C409%2C0%2C410",
       "publishedAt": "2024-07-16T22:16:02Z",
       "content": "Speaking in Milwaukee on Tuesday night, an impassioned Ramaswamy told MAGA supporters he had a message for Black Americans from the Republican Party \"that the media doesn't want you to hear.\"\n\"Our message to Black Americans is this: The media has tri... [2894 chars]",
-      "tags": ["media_communications", "security_intelligence"]
+      "tags": [
+        "media_communications",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721168162
     },
     {
       "source": {
@@ -316,7 +399,11 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_business_articles_218/6e6f4764b5b439f60f7d645aa0442f23",
       "publishedAt": "2024-07-16T21:46:57Z",
       "content": "In 2018, Jonathan and Trista Schmier felt the economy was so strong that they could take a big risk. They quit their property management jobs and opened a restaurant, Rustic Burger, in Fayetteville, North Carolina.\nTrista Schmier, who had long dreame... [7965 chars]",
-      "tags": ["economy_finance", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721166417
     },
     {
       "source": {
@@ -330,7 +417,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/07/6696e77b8e4725.55266042.jpeg?w=1280",
       "publishedAt": "2024-07-16T21:44:13Z",
       "content": "WASHINGTON (AP) — Usha Chilukuri Vance, Yale law graduate and trial lawyer, was thrust into the spotlight this week after her husband, JD Vance, was chosen as Donald Trump’s running mate in the 2024 presidential election.\nChilukuri Vance, 38, was rai... [2445 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1721166253
     },
     {
       "source": {
@@ -344,7 +435,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230809160406-de-oliveira-trump-nauta.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-16T21:43:55Z",
       "content": "CNN —\nA federal judge’s decision to toss out Donald Trump’s classified documents criminal case means the former president can now talk to his co-defendants and potential witnesses about what happened at Mar-a-Lago without facing consequences.\nThe con... [2470 chars]",
-      "tags": ["legal_justice", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721166235
     }
   ]
 }

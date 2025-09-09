@@ -19,7 +19,8 @@
         "elections_politics",
         "supreme_court",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702684430
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "supreme_court",
         "criminal_cases",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1702683600
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "2028_presidential",
         "political_endorsements",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702683089
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "civil_litigation",
         "personal_family",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1702681800
     },
     {
       "source": {
@@ -90,7 +94,12 @@
       "urlToImage": "https://static.politico.com/56/7a/ecb8136943aabdd7da59006ccd53/https-delivery-gettyimages.com/downloads/1396881652",
       "publishedAt": "2023-12-15T23:05:51Z",
       "content": "Democratic donors, staffers and lawmakers have thrown fundraisers and holiday parties at The Bazaar. They’ve popped in for morning coffees and after-work drinks at the hotel bar — where TVs are no longer all tuned into Fox News. They’re finally able ... [3337 chars]",
-      "tags": ["personal_family", "personal_business", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "personal_business",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1702681551
     },
     {
       "source": {
@@ -109,7 +118,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702680781
     },
     {
       "source": {
@@ -128,7 +138,8 @@
         "immigration",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1702680600
     },
     {
       "source": {
@@ -147,7 +158,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702680522
     },
     {
       "source": {
@@ -166,7 +178,8 @@
         "2028_presidential",
         "political_endorsements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1702679280
     },
     {
       "source": {
@@ -185,7 +198,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702678995
     },
     {
       "source": {
@@ -205,7 +219,8 @@
         "foreign_policy",
         "russia",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1702677903
     },
     {
       "source": {
@@ -224,7 +239,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702677300
     },
     {
       "source": {
@@ -243,7 +259,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702677146
     },
     {
       "source": {
@@ -262,7 +279,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702676700
     },
     {
       "source": {
@@ -281,7 +299,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702676100
     },
     {
       "source": {
@@ -300,7 +319,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702675689
     },
     {
       "source": {
@@ -319,7 +339,8 @@
         "civil_litigation",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702675511
     },
     {
       "source": {
@@ -333,7 +354,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/6ff5552/2147483647/strip/true/crop/7300x3833+0+517/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F76%2F2f%2F3cf8ec184014982b771d22a51a4c%2Fap23348068714836.jpg",
       "publishedAt": "2023-12-15T21:10:09Z",
       "content": "TRUMP UP BY 50 IN MICHIGAN GOP RACE? The political class has spent a lot of time obsessing about former President Donald Trump's lead in the Republican early-voting states of Iowa, New Hampshire, and South Carolina. There's been less time devoted to ... [3305 chars]",
-      "tags": ["elections_politics", "2028_presidential", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "regional_state"
+      ],
+      "publishedAtTs": 1702674609
     },
     {
       "source": {
@@ -353,7 +379,8 @@
         "foreign_policy",
         "russia",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1702671784
     },
     {
       "source": {
@@ -372,7 +399,8 @@
         "criminal_cases",
         "supreme_court",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1702671365
     },
     {
       "source": {
@@ -391,7 +419,8 @@
         "criminal_cases",
         "elections_politics",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1702669539
     },
     {
       "source": {
@@ -410,7 +439,8 @@
         "civil_litigation",
         "personal_family",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1702669455
     },
     {
       "source": {
@@ -429,7 +459,8 @@
         "criminal_cases",
         "federal_courts",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1702668537
     },
     {
       "source": {
@@ -448,7 +479,8 @@
         "personal_business",
         "lifestyle",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1702666486
     }
   ]
 }

@@ -20,7 +20,8 @@
         "policy_legislation",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727567586
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "immigration",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727566914
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "social_issues",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727565364
     },
     {
       "source": {
@@ -80,7 +83,8 @@
         "elections_politics",
         "foreign_policy",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1727565357
     },
     {
       "source": {
@@ -100,7 +104,8 @@
         "media_communications",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1727564400
     },
     {
       "source": {
@@ -120,7 +125,8 @@
         "political_endorsements",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1727563885
     },
     {
       "source": {
@@ -140,7 +146,8 @@
         "personal_family",
         "social_issues",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1727562761
     },
     {
       "source": {
@@ -154,7 +161,12 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1562593-12-20240928125847.jpeg",
       "publishedAt": "2024-09-28T22:30:00Z",
       "content": "Ukrainian President Volodymyr Zelensky met with Donald Trump on Friday with public tensions rising between the two over Ukraine's defense against Russia's invasion. \"We both want to see this end, and we both want to see a fair deal made,\" Trump told ... [2518 chars]",
-      "tags": ["foreign_policy", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1727562600
     },
     {
       "source": {
@@ -174,7 +186,8 @@
         "political_endorsements",
         "2024_presidential",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1727559417
     },
     {
       "source": {
@@ -194,7 +207,8 @@
         "security_intelligence",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1727557222
     },
     {
       "source": {
@@ -214,7 +228,8 @@
         "ukraine",
         "government_administration",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1727555621
     },
     {
       "source": {
@@ -228,7 +243,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/jd-vance.jpg?id=53687750&width=1200&height=600&coordinates=0%2C336%2C0%2C336",
       "publishedAt": "2024-09-28T20:29:02Z",
       "content": "A sandwich shop outside of Pittsburgh refused to let Senator J.D. Vance host a planned campaign event, instead reportedly forcing the Republican vice presidential nominee to shake hands in a parking lot.\nNBC senior political desk editor Doug Adams re... [1264 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1727555342
     },
     {
       "source": {
@@ -242,7 +262,12 @@
       "urlToImage": "https://live-production.wcms.abc-cdn.net.au/cda31fd3b7cc229472471c2d888d4a36?impolicy=wcms_watermark_news&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485&imformat=generic",
       "publishedAt": "2024-09-28T20:02:41Z",
       "content": "Former US president Donald Trump is having another tilt at re-election.\nBut in the background of his political campaigning, four criminal cases still loom over him.\nHere's what could happen if he wins or loses in November.\nWhere are the criminal case... [10303 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1727553761
     },
     {
       "source": {
@@ -256,7 +281,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/CG3PEVV7DQISNPTXKYMQ63HYFU.jpg?smart=true&auth=4e845cb728890f6ce0bd451fdb914b6391e1c5eeac04a91b514d7c1211a02a34&width=1200&height=630",
       "publishedAt": "2024-09-28T19:38:00Z",
       "content": "Ukrainian president Volodymyr Zelensky says Trump assured him of support for Ukraine in war with Russia. Photograph: Sarah Yenesel/EPA\nUkrainian president Volodymyr Zelenskiy, in an interview with Fox News aired on Saturday, said he received “very di... [2173 chars]",
-      "tags": ["foreign_policy", "russia", "ukraine"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1727552280
     },
     {
       "source": {
@@ -275,7 +305,8 @@
         "political_endorsements",
         "media_communications",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1727550000
     },
     {
       "source": {
@@ -289,7 +320,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg?width=920&format=jpeg",
       "publishedAt": "2024-09-28T18:49:10Z",
       "content": "Ukrainian President Volodymyr Zelenskiy, in an interview with Fox News aired on Saturday, revealed he received \"very direct information\" from Donald Trump indicating that the former U.S. president would support Ukraine in its war against Russia if he... [762 chars]",
-      "tags": ["foreign_policy", "elections_politics", "ukraine"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "ukraine"
+      ],
+      "publishedAtTs": 1727549350
     },
     {
       "source": {
@@ -303,7 +339,12 @@
       "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2020/06/AH-Donald-Trump-Twitter-image-1.jpg",
       "publishedAt": "2024-09-28T18:49:02Z",
       "content": "Former U.S. President Donald Trump has threatened to prosecute Google if reelected. The presidential nominee has alleged Google only shows “bad stories” about him.\nDonald Trump threatens he will prosecute Google on Truth Social\nAs the US Presidential... [2004 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1727549342
     },
     {
       "source": {
@@ -323,7 +364,8 @@
         "foreign_policy",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1727549237
     },
     {
       "source": {
@@ -342,7 +384,8 @@
         "security_intelligence",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1727549193
     },
     {
       "source": {
@@ -361,7 +404,8 @@
         "social_issues",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1727548200
     },
     {
       "source": {
@@ -380,7 +424,8 @@
         "security_intelligence",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1727547612
     },
     {
       "source": {
@@ -394,7 +439,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/e13e0ba59e89444df5a237cede3ebf6a0ecc4a4e/0_381_11863_7116/master/11863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=04c52e46b7770b842b822194fff237ac",
       "publishedAt": "2024-09-28T16:00:07Z",
       "content": "Why Do You Hate Me?: USA (BBC Radio 4) | BBC Sounds\nThe Louis Theroux Podcast: Mia Khalifa (Spotify) | ApplePodcasts\nSplit Screen: Thrill Seekers (CBC/Love+Radio/Vespucci) | Apple Podcasts Where Should We Begin? With Esther Perel (estherperel.com)\n“I... [6375 chars]",
-      "tags": ["media_communications", "personal_family", "health_science"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "health_science"
+      ],
+      "publishedAtTs": 1727539207
     },
     {
       "source": {
@@ -408,7 +458,12 @@
       "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/MX2W7RFGYZARJKTFGDXW5JAFMU.jpg?auth=530102c32025223cdc6a2e114a7bf48a5020cf7ed1ffcdaa183b5dcd71b2f910&width=1200&height=600&smart=true",
       "publishedAt": "2024-09-28T15:45:51Z",
       "content": "MADISON, Wis. (WMTV) - Former President Donald Trump announced two more stops in Wisconsin just ahead of a rally in Prairie du Chien Saturday.\nTrump will be speaking in Waunakee on Tuesday, Oct.1 at Dane Manufacturing. He is set to speak at 12:30 p.m... [573 chars]",
-      "tags": ["elections_politics", "regional_state", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "personal_family"
+      ],
+      "publishedAtTs": 1727538351
     },
     {
       "source": {
@@ -422,7 +477,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/66f814b52400003100a039ec.jpeg?cache=as5DD8cRYZ&ops=1200_630",
       "publishedAt": "2024-09-28T14:44:39Z",
       "content": "LOADING ERROR LOADING\nANN ARBOR, Mich. (AP) — Tim Walz’s dual role as Minnesota’s governor and Vice President Kamala Harris’ running mate was on full display Saturday as he attended a tailgate with Michigan football fans before going on the field to ... [3622 chars]",
-      "tags": ["regional_state", "elections_politics", "policy_legislation"]
+      "tags": [
+        "regional_state",
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1727534679
     },
     {
       "source": {
@@ -436,7 +496,12 @@
       "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/VEC7Z3W5ABGETOVM7K7QWUEDZA.png?auth=6040e2ad76b81b52d5fbbb3a3aa7893c44435671d6e235d64c00f278e9ebcb4f&width=1200&height=600&smart=true",
       "publishedAt": "2024-09-28T14:17:15Z",
       "content": "MADISON, Wis. (WMTV) - Former President Donald Trump speaks at a rally in Prairie du Chien Saturday.\nTrump’s campaign announced Friday the former president’s remarks will start at 2:30 p.m., instead of the original time of 11:30 a.m. Doors opened at ... [277 chars]",
-      "tags": ["regional_state", "elections_politics", "media_communications"]
+      "tags": [
+        "regional_state",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1727533035
     }
   ]
 }

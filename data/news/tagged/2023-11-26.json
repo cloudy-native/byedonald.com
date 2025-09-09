@@ -14,7 +14,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/11/donald-trump-chris-christie-866761794.jpg",
       "publishedAt": "2023-11-26T22:08:45Z",
       "content": "During an interview on CNN’s “State of the Union” on Sunday, former New Jersey Gov. and 2024 Republican presidential candidate, Chris Christie, placed further blame on Donald Trump for a rise in intolerance, making a case that people acting hateful a... [908 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1701036525
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/ivanka-trump-and-jared-kushner-buying-30-million-plot-at-billionaires-bunker-on-miami-island-report.jpg?id=28141877&width=1200&height=600&coordinates=0%2C18%2C0%2C19",
       "publishedAt": "2023-11-26T20:27:03Z",
       "content": "The heirs to Donald Trump's fortune have been forced to take out hefty loans to buy their Florida properties, the DailyMail reported Sunday.\nAfter leaving the White House, Trump and his three eldest adult children all moved to Florida, a state where ... [3075 chars]",
-      "tags": ["personal_family", "regional_state", "personal_legal"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1701030423
     },
     {
       "source": {
@@ -42,7 +52,10 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231126100251-screengrab-chris-christie-sotu-11-26-2023.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-26T18:03:08Z",
       "content": "CNN —\nFormer New Jersey Gov. Chris Christie said he plans to stay in the Republican primary race through next summer’s nominating convention, dismissing a recent CNN poll that shows him trailing former President Donald Trump and former South Carolina... [3121 chars]",
-      "tags": ["elections_politics"]
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1701021788
     },
     {
       "source": {
@@ -56,7 +69,12 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2022/04/Jorge-Ramos.jpg?w=1000&h=563&crop=1",
       "publishedAt": "2023-11-26T17:55:27Z",
       "content": "Jorge Ramos, the Univision star anchor who has become as defined by his clashes with the Trump administration as he has by his coverage of major world events, has become the latest of the Spanish-language network’s top anchors to take issue with an i... [5114 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1701021327
     },
     {
       "source": {
@@ -70,7 +88,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/28ad4f0/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F04%2Fec%2Fe90b06c273e31ad38ba9b72ec4d7%2F11b6cf96cd114a68bb7743ccb44e3800",
       "publishedAt": "2023-11-26T17:33:39Z",
       "content": "PHOENIX (AP) — The 2024 presidential election is drawing an unusually robust field of independent, third party and long shot candidates hoping to capitalize on Americans’ ambivalence and frustration over a likely rematch between Democrat Joe Biden an... [6827 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1701020019
     },
     {
       "source": {
@@ -90,7 +112,8 @@
         "civil_rights",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1701004518
     },
     {
       "source": {
@@ -109,7 +132,8 @@
         "legal_justice",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1700996400
     },
     {
       "source": {
@@ -123,7 +147,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/a950e8038feaee069a83363e73cffeef876e8207/0_2_5266_3159/master/5266.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec04395769cc27a3a6638346711979a1",
       "publishedAt": "2023-11-26T07:00:11Z",
       "content": "“Marjorie Taylor Greene has been one of the most fierce warriors in Congress for America First and all it stands for,” Donald Trump announces, before the reader reaches the table of contents for the far-right Georgia congresswoman’s book. Over more t... [6187 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1700982011
     },
     {
       "source": {
@@ -137,7 +166,11 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/659004/uploads/8477d6c0-89bb-11ee-8b41-e56502e7623e_800_420.jpeg",
       "publishedAt": "2023-11-26T05:15:10Z",
       "content": "The $250 million civil fraud trial took a toll on Donald Trump and also on his employees. On Tuesday, November 21, 2023, the Republican's former corporate controller appeared in court to testify in the lawsuit filed by Letitia James. But after four d... [3784 chars]",
-      "tags": ["personal_family", "personal_legal"]
+      "tags": [
+        "personal_family",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1700975710
     },
     {
       "source": {
@@ -156,7 +189,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1700973060
     },
     {
       "source": {
@@ -174,7 +208,8 @@
         "media_communications",
         "security_intelligence",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1700973010
     },
     {
       "source": {
@@ -188,7 +223,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/659112/uploads/1b91f680-89e9-11ee-a1cb-ad036907e53d_800_420.jpeg",
       "publishedAt": "2023-11-26T03:45:01Z",
       "content": "Former Senator Claire McCaskill has ignited a controversial comparison, stating that Donald Trump is \"even more dangerous\" than infamous dictators like Adolf Hitler and Benito Mussolini. McCaskill, now serving as a political analyst for MSNBC, expres... [4057 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1700970301
     },
     {
       "source": {
@@ -202,7 +242,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=27868142&width=1200&height=600&coordinates=0%2C14%2C0%2C15",
       "publishedAt": "2023-11-26T02:52:29Z",
       "content": "Donald Trump on Saturday heard boos when he arrived at the South Carolina \"Palmetto Bowl.\" He also reportedly saw billboards telling him that he lost.\nTrump attended the bowl at least in part to show up his GOP rival Nikki Haley at her alma mater, bu... [1078 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1700967149
     },
     {
       "source": {
@@ -216,7 +261,12 @@
       "urlToImage": "https://media.wltx.com/assets/WLTX/images/d56976c2-bea3-4789-a980-abd41baa45f7/d56976c2-bea3-4789-a980-abd41baa45f7_1140x641.jpg",
       "publishedAt": "2023-11-26T00:52:00Z",
       "content": "With a former president in town and a huge football rivalry, fans from all over the Southeast packed the area around Williams-Brice stadium.\nExample video title will go here for this video\nCOLUMBIA, S.C. — Thousands of fans flocked to Columbia on Sat... [1997 chars]",
-      "tags": ["personal_family", "regional_state", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1700959920
     },
     {
       "source": {
@@ -230,7 +280,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/489e2a78e89ffbb0ba2c4d00d9d6024bdc2295d9",
       "publishedAt": "2023-11-26T00:39:00Z",
       "content": "Mr Murdoch has reportedly been eyeing off The Spectator, while hedge fund millionaire Paul Marshall wants to add the two Tory titles to his portfolio of start-up right-wing media ventures, which includes voluble TV station GB News.\nThe Gulf proposal ... [4262 chars]",
-      "tags": ["media_communications", "foreign_policy", "economy_finance"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1700959140
     },
     {
       "source": {
@@ -244,7 +299,11 @@
       "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=33609917&width=1200&height=600&coordinates=0%2C133%2C0%2C134",
       "publishedAt": "2023-11-26T00:37:44Z",
       "content": "Donald Trump is inching closer and closer to a point where he will cost himself his own freedom, a former Republican congressman said on Saturday.\nTrump, who has gone on the offensive even more since appeals courts have stayed the gag orders placed o... [1344 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1700959064
     }
   ]
 }

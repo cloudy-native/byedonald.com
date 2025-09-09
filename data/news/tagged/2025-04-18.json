@@ -20,7 +20,8 @@
         "personal_legal",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1745019779
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/jim-acosta-102938782.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-04-18T23:37:28Z",
       "content": "Liberal ex-CNN anchor Jim Acosta took a shot at Donald Trump supporters in an interview published Friday, suggesting that half of the country was uninterested in the truth.\nSpeaking with The Washingtonian shortly after his exit earlier this year from... [2395 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1745019448
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "economy_finance",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1745019279
     },
     {
       "source": {
@@ -74,7 +81,8 @@
         "elections_politics",
         "government_administration",
         "latin_america"
-      ]
+      ],
+      "publishedAtTs": 1745018237
     },
     {
       "source": {
@@ -94,7 +102,8 @@
         "free_speech",
         "media_communications",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1745017858
     }
   ]
 }

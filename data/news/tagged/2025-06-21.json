@@ -20,7 +20,8 @@
         "national_security",
         "cybersecurity",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750500000
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "social_issues",
         "personal_family",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750546489
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2020/03/lpfiuy2esnmlyn7jteex.jpg",
       "publishedAt": "2025-06-21T19:00:09Z",
       "content": "Something strange is happening on Wall Street. It isn’t Elon Musk, AI, or a late-night post from Donald Trump. It’s a crypto company called Circle Internet Group, and its making the market feel like … [+3234 chars]",
-      "tags": ["economy_finance", "cryptocurrency", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "cryptocurrency",
+        "stock_market"
+      ],
+      "publishedAtTs": 1750532409
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ce8d/live/59e737a0-4e79-11f0-b0f7-e3a4fb1ebd88.jpg",
       "publishedAt": "2025-06-21T10:37:10Z",
       "content": "Sofia Ferreira Santos\r\nThe director of national intelligence had previously said Iran was not building nuclear weapons\r\nTulsi Gabbard says Iran could produce nuclear weapons \"within weeks\", months af… [+3444 chars]",
-      "tags": ["foreign_policy", "national_security", "intelligence"]
+      "tags": [
+        "foreign_policy",
+        "national_security",
+        "intelligence"
+      ],
+      "publishedAtTs": 1750502230
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4d0e/live/9f69e3f0-4de2-11f0-86d5-3b52b53af158.png",
       "publishedAt": "2025-06-21T11:55:52Z",
       "content": "\"If this is true, all our troubles are over.\" \r\nA British businessman fast running out of cash, William Knox D'Arcy, is said to have uttered those words when he received a telegram from Persia, 113 y… [+10103 chars]",
-      "tags": ["foreign_policy", "middle_east", "international_organizations"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "international_organizations"
+      ],
+      "publishedAtTs": 1750506952
     },
     {
       "source": {
@@ -102,7 +119,8 @@
         "security_intelligence",
         "national_security",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1750512024
     },
     {
       "source": {
@@ -122,7 +140,8 @@
         "intelligence",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750500000
     },
     {
       "source": {
@@ -141,7 +160,8 @@
         "science_policy",
         "economy_finance",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750476600
     },
     {
       "source": {
@@ -161,7 +181,8 @@
         "middle_east",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750503782
     },
     {
       "source": {
@@ -179,7 +200,8 @@
         "government_operations",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750523223
     },
     {
       "source": {
@@ -199,7 +221,8 @@
         "iran",
         "national_security",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1750535200
     },
     {
       "source": {
@@ -219,7 +242,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750503600
     },
     {
       "source": {
@@ -239,7 +263,8 @@
         "security_intelligence",
         "national_security",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750507162
     },
     {
       "source": {
@@ -257,7 +282,8 @@
         "government_administration",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750531323
     },
     {
       "source": {
@@ -277,7 +303,8 @@
         "energy",
         "international_organizations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750509000
     },
     {
       "source": {
@@ -295,7 +322,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750514714
     },
     {
       "source": {
@@ -315,7 +343,8 @@
         "security_intelligence",
         "foreign_policy",
         "asia_pacific"
-      ]
+      ],
+      "publishedAtTs": 1750544392
     },
     {
       "source": {
@@ -329,7 +358,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a5cf975a-9541-4649-a53e-ad35298b392c/250621_abc_social_panda_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-21T17:24:28Z",
       "content": "<ul><li>Possible Iran retaliation tactical equivalent of a suicide bombing: Sadjadpour\r\n</li><li>Hegseth said US gave Iran every opportunity to come to the table\r\n</li><li>Iranian foreign minister ca… [+4319 chars]",
-      "tags": ["regional_state", "health_science", "personal_family"]
+      "tags": [
+        "regional_state",
+        "health_science",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750526668
     },
     {
       "source": {
@@ -343,7 +377,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7c1a735f-3729-4d86-ad1f-2bc7457eaf22/250621_abc_social_volcano_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-21T17:22:07Z",
       "content": "<ul><li>Possible Iran retaliation tactical equivalent of a suicide bombing: Sadjadpour\r\n</li><li>Hegseth said US gave Iran every opportunity to come to the table\r\n</li><li>Iranian foreign minister ca… [+4319 chars]",
-      "tags": ["natural_disasters", "regional_state"]
+      "tags": [
+        "natural_disasters",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750526527
     },
     {
       "source": {
@@ -357,7 +395,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/1cf616c1-9327-4bf1-8aa0-5f357d2d203b/ward-sakiek-engagement-ht-jt-250621_1750526181188_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-21T21:46:59Z",
       "content": "Taahir Shaikh needed headshots for his new job, so he set up an appointment with a photographer named Ward Sakeik. One appointment turned into three photo shoots, and the two just kept talking.\r\nThre… [+9085 chars]",
-      "tags": ["immigration", "legal_justice", "personal_family"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750542419
     },
     {
       "source": {
@@ -371,7 +414,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2023/02/5a3ea1064f4dd9ed87fda4bc9a3a50ab.jpg",
       "publishedAt": "2025-06-21T18:00:30Z",
       "content": "Tesla is having a nightmarish year, and much of the damage can be traced directly to its CEO, Elon Musk.\r\nAfter spending nearly $290 million to help Donald Trump return to the White House, Musk took … [+2798 chars]",
-      "tags": ["stock_market", "small_business", "personal_business"]
+      "tags": [
+        "stock_market",
+        "small_business",
+        "personal_business"
+      ],
+      "publishedAtTs": 1750528830
     },
     {
       "source": {
@@ -385,7 +433,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg",
       "publishedAt": "2025-06-21T16:00:28Z",
       "content": "For decades, Ford and General Motors have been symbols of American industry, blue-collar pride, and heartland grit. From the rugged Ford F-150 to the all-American Chevy, the Detroit Big Three Ford, G… [+3222 chars]",
-      "tags": ["economy_finance", "policy_legislation", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750521628
     },
     {
       "source": {
@@ -399,7 +452,13 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/HdpwDJPMWd5TsaDfL-JNcw1H2YQ=/0x43:2000x1085/1200x625/media/img/mt/2025/06/2025_06_20_Tehran_mpg_1/original.jpg",
       "publishedAt": "2025-06-21T13:00:00Z",
       "content": "President Donald Trump is being pulled toward war in the Middle East by his predator’s eye for a victim’s weakness and his ego’s need to claim the work of others as his own. But since his “unconditio… [+5731 chars]",
-      "tags": ["foreign_policy", "middle_east", "iran", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "iran",
+        "national_security"
+      ],
+      "publishedAtTs": 1750510800
     },
     {
       "source": {
@@ -419,7 +478,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750503600
     },
     {
       "source": {
@@ -439,7 +499,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750528577
     },
     {
       "source": {
@@ -458,7 +519,8 @@
         "russia",
         "economy_finance",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1750538721
     },
     {
       "source": {
@@ -472,7 +534,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b322/live/03709df0-4eb3-11f0-9e07-7900e9cdda16.jpg",
       "publishedAt": "2025-06-21T16:02:04Z",
       "content": "The husband of Belarusian opposition leader Svetlana Tikhanovskaya has been unexpectedly released from prison in Belarus, along with other political prisoners.\r\nSergei Tikhanovsky has been moved to L… [+2006 chars]",
-      "tags": ["foreign_policy", "europe", "legal_justice"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750521724
     },
     {
       "source": {
@@ -486,7 +553,11 @@
       "urlToImage": "https://greenstarsproject.org/wp-content/uploads/2025/06/whatsapp-and-signal-icons.png",
       "publishedAt": "2025-06-21T05:21:49Z",
       "content": "You may not need any incentive to do this, but Im going to argue that moving from WhatsApp to Signal is an important action, right now. There are other alternatives to WhatsApp, of course, but severa… [+8298 chars]",
-      "tags": ["technology_regulation", "media_communications"]
+      "tags": [
+        "technology_regulation",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750483309
     },
     {
       "source": {
@@ -500,7 +571,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/g7P.DYFpm1y8ax0.cG2Rpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/144397f91040dfb2f4d510c2daba8619",
       "publishedAt": "2025-06-21T17:06:22Z",
       "content": "<ul><li>Torsten Sløk, chief economist at Apollo Global Management, laid out a potential scenario where President Donald Trump’s tariffs are extended long enough to ease economic uncertainty while als… [+3738 chars]",
-      "tags": ["economy_finance", "foreign_policy", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750525582
     },
     {
       "source": {
@@ -520,7 +596,8 @@
         "security_clearances",
         "religious_freedom",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750505969
     },
     {
       "source": {
@@ -539,7 +616,8 @@
         "foreign_policy",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1750498501
     },
     {
       "source": {
@@ -559,7 +637,8 @@
         "social_media",
         "civil_rights",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750530649
     },
     {
       "source": {
@@ -577,7 +656,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750503660
     },
     {
       "source": {
@@ -597,7 +677,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750502875
     },
     {
       "source": {
@@ -611,7 +692,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-04-30T224938Z_1752165287_RC2KWDA8QCCI_RTRMADP_3_USA-TRUMP-HARVARD-GRANTS-1747948489.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-21T07:18:38Z",
       "content": "A federal judge in the United States has blocked President Donald Trumps bid to block Harvard from enrolling foreign students, delivering the prestigious university another victory as it challenges m… [+2453 chars]",
-      "tags": ["federal_courts", "immigration", "legal_justice"]
+      "tags": [
+        "federal_courts",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750490318
     },
     {
       "source": {
@@ -631,7 +717,8 @@
         "middle_east",
         "international_organizations",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1750515777
     },
     {
       "source": {
@@ -645,7 +732,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/afp_68567c7b2e4b-1750498427.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-21T10:54:14Z",
       "content": "Sitting in northern Europe, I shouldnt care about the New York mayoral race.\r\nYet, despite all that is happening in the world, the contentious Democratic primary for the 2025 New York City mayoral el… [+6135 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750503254
     },
     {
       "source": {
@@ -665,7 +757,8 @@
         "legal_justice",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750493164
     },
     {
       "source": {
@@ -683,7 +776,8 @@
         "government_administration",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750464198
     },
     {
       "source": {
@@ -697,7 +791,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP21348433706476-1750516740.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-21T15:31:28Z",
       "content": "Belarus opposition leader Siarhei Tsikhanouski has been released from prison after five years, his wife Svetlana Tsikhanouskaya said in a post on X.\r\nTsikhanouskaya, who took over the opposition caus… [+2067 chars]",
-      "tags": ["foreign_policy", "legal_justice", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1750519888
     },
     {
       "source": {
@@ -717,7 +816,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750510368
     },
     {
       "source": {
@@ -737,7 +837,8 @@
         "public_health_emergency",
         "crisis_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1750498844
     },
     {
       "source": {
@@ -751,7 +852,11 @@
       "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/06/17town_Bezos_Venice_Static16x9_ChrisMorris.png?w=1296&h=730&crop=1",
       "publishedAt": "2025-06-21T15:37:37Z",
       "content": "It’s been nearly 45 years since the term “wedding of the century” was bandied about so freely as it has been in advance of the Jeff Bezos and Lauren Sánchez nuptials, with her own brother saying, “I … [+9698 chars]",
-      "tags": ["personal_family", "lifestyle"]
+      "tags": [
+        "personal_family",
+        "lifestyle"
+      ],
+      "publishedAtTs": 1750520257
     },
     {
       "source": {
@@ -765,7 +870,12 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2220143750-e1750439521620.jpg?fit=8368%2C4184&w=1200&h=800",
       "publishedAt": "2025-06-21T12:00:00Z",
       "content": "Anya was hiding. Crouched behind the counter at a car wash in Westchester, just outside Los Angeles International Airport, she kept quiet while her co-workers scattered outside. Some ran toward the I… [+9734 chars]",
-      "tags": ["immigration", "border_security", "civil_rights"]
+      "tags": [
+        "immigration",
+        "border_security",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1750507200
     },
     {
       "source": {
@@ -779,7 +889,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/Gavin-Newsom-Alex-Padilla-and-Donald-Trump-.jpg?w=1024",
       "publishedAt": "2025-06-21T01:34:03Z",
       "content": "EXCLUSIVE: After years of playing polite, California’s governor &amp; senior senator are now taking on Donald Trump with bare knuckled barbs in his favorite forum and looking to do some damage to POT… [+11899 chars]",
-      "tags": ["elections_politics", "media_communications", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750469643
     },
     {
       "source": {
@@ -793,7 +908,12 @@
       "urlToImage": "https://api-prod.gothamist.com/images/351951/fill-1200x650|format-webp|webpquality-85/",
       "publishedAt": "2025-06-21T11:00:00Z",
       "content": "A federal judge on Friday ordered the release of Columbia graduate and pro-Palestinian protest leader Mahmoud Khalil from U.S. Immigration and Customs Enforcement detention, where he has been held fo… [+3523 chars]",
-      "tags": ["immigration", "legal_justice", "civil_rights"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1750503600
     },
     {
       "source": {
@@ -813,7 +933,8 @@
         "social_issues",
         "regional_state",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1750470158
     },
     {
       "source": {
@@ -833,7 +954,8 @@
         "economy_finance",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750500000
     },
     {
       "source": {
@@ -853,7 +975,8 @@
         "military",
         "civil_rights",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750500000
     },
     {
       "source": {
@@ -873,7 +996,8 @@
         "iran",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750500000
     },
     {
       "source": {
@@ -887,7 +1011,13 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/06/BankProtest.jpg?quality=75&strip=all",
       "publishedAt": "2025-06-21T13:00:00Z",
       "content": "This story was originally published by Mother Jones and is reproduced here as part of the Climate Desk collaboration.\r\nFor the first time since 2021 the start of the Biden administration banks have r… [+3772 chars]",
-      "tags": ["economy_finance", "environment", "energy", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "environment",
+        "energy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750510800
     },
     {
       "source": {
@@ -901,7 +1031,13 @@
       "urlToImage": "https://i.cbc.ca/1.7567961.1750559023!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2220642570.jpg?im=Resize%3D620",
       "publishedAt": "2025-06-21T12:18:25Z",
       "content": "The latest:\r\n<ul><li>Trump says stealth bombers hit sites in Fordow, Natanz and Isfahan.</li><li>Iran's nuclear agency confirms attacks, says work will not be stopped.</li><li>Iran said 'no sign of c… [+9205 chars]",
-      "tags": ["foreign_policy", "middle_east", "iran", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "iran",
+        "national_security"
+      ],
+      "publishedAtTs": 1750508305
     },
     {
       "source": {
@@ -921,7 +1057,8 @@
         "security_intelligence",
         "crisis_emergency",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750503330
     },
     {
       "source": {
@@ -935,7 +1072,12 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/06/00-Iran.jpg",
       "publishedAt": "2025-06-21T10:50:59Z",
       "content": "Yves here. Below Michael Hudson explains how long-standing the neocon plans to break up Iran have been (as going back to before they were called “neocons”) and why this project has been and still is … [+10038 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1750503059
     },
     {
       "source": {
@@ -955,7 +1097,8 @@
         "military",
         "government_operations",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750482348
     },
     {
       "source": {
@@ -974,7 +1117,8 @@
         "social_issues",
         "legal_justice",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1750524438
     },
     {
       "source": {
@@ -992,7 +1136,8 @@
         "technology_regulation",
         "personal_business",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750489200
     },
     {
       "source": {
@@ -1006,7 +1151,12 @@
       "urlToImage": "https://i.cbc.ca/1.7567355.1750451272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/2220148888.jpg?im=Resize%3D620",
       "publishedAt": "2025-06-21T08:00:00Z",
       "content": "If you were online last week, you probably saw footage from the No Kings protests.\r\nThe gigantic demonstration against U.S. President Donald Trump took place across the United States and portions of … [+5893 chars]",
-      "tags": ["media_communications", "social_issues", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1750492800
     },
     {
       "source": {
@@ -1026,7 +1176,8 @@
         "national_security",
         "iran",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750508305
     },
     {
       "source": {
@@ -1046,7 +1197,8 @@
         "international_organizations",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750492800
     },
     {
       "source": {
@@ -1060,7 +1212,14 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6853da7008349cde6f0def65/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-21T14:27:35Z",
       "content": "June 20, 8:11 a.m. ETIran state broadcaster IRIB, citing the countrys health ministry, reports over 400 people are dead and more than 3,000 are wounded following Israeli strikes, claiming the majorit… [+14528 chars]",
-      "tags": ["middle_east", "israel", "iran", "national_security", "military"]
+      "tags": [
+        "middle_east",
+        "israel",
+        "iran",
+        "national_security",
+        "military"
+      ],
+      "publishedAtTs": 1750516055
     },
     {
       "source": {
@@ -1080,7 +1239,8 @@
         "stock_market",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750505445
     },
     {
       "source": {
@@ -1100,7 +1260,8 @@
         "government_administration",
         "policy_legislation",
         "taxes"
-      ]
+      ],
+      "publishedAtTs": 1750540640
     },
     {
       "source": {
@@ -1120,7 +1281,8 @@
         "small_business",
         "economy_finance",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750501800
     },
     {
       "source": {
@@ -1139,7 +1301,8 @@
         "economy_finance",
         "personal_business",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750539600
     },
     {
       "source": {
@@ -1159,7 +1322,8 @@
         "economy_finance",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750513096
     },
     {
       "source": {
@@ -1179,7 +1343,8 @@
         "policy_legislation",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750467938
     },
     {
       "source": {
@@ -1199,7 +1364,8 @@
         "policy_legislation",
         "foreign_policy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750517116
     },
     {
       "source": {
@@ -1217,7 +1383,8 @@
         "economy_finance",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1750470119
     },
     {
       "source": {
@@ -1237,7 +1404,8 @@
         "criminal_cases",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750514400
     },
     {
       "source": {
@@ -1251,7 +1419,12 @@
       "urlToImage": "https://biztoc.com/cdn/80b45e4f7f002edd_s.webp",
       "publishedAt": "2025-06-21T21:32:04Z",
       "content": "Trump Says US Intel Assessment Of Iran's Nuclear Program \"Was Wrong\", Tulsi Responds\r\nAuthored by Jacob Burg via The Epoch Times,President Donald Trump said on June 20 that his director of national i… [+141 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "iran"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "iran"
+      ],
+      "publishedAtTs": 1750541524
     },
     {
       "source": {
@@ -1265,7 +1438,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6856de42c39d0f6de53ab6d6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-06-21T16:53:19Z",
       "content": "Italian soccer is undergoing a significant transformation. Not only are club owners championing the integration of Italys natural beauty and culinary culture into the match-day experience, but Serie … [+8013 chars]",
-      "tags": ["tourism", "economy_finance", "regional_state"]
+      "tags": [
+        "tourism",
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750524799
     },
     {
       "source": {
@@ -1285,7 +1463,8 @@
         "personal_family",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750512600
     },
     {
       "source": {
@@ -1299,7 +1478,12 @@
       "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/8bcaf6f42c701c47bb465ac2f40d9d3f074c07dd-700x430.png",
       "publishedAt": "2025-06-21T09:48:56Z",
       "content": "Bitcoin (BTC) \r\n continues to struggle for direction amid mounting macroeconomic pressures and a notable deterioration in retail investor sentiment. The asset is hovering near $103,700 following a vo… [+2523 chars]",
-      "tags": ["economy_finance", "stock_market", "cryptocurrency"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "cryptocurrency"
+      ],
+      "publishedAtTs": 1750499336
     },
     {
       "source": {
@@ -1313,7 +1497,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/URQjvq_9Or7K2Q.5.kegaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/c0b65bcf27347d5e7123e064daebdfd4",
       "publishedAt": "2025-06-21T22:24:00Z",
       "content": "Oscar Health, Inc. (NYSE:OSCR) is one of the 10 Stocks End Trading Week Soaring, Outshining Wall Street.\r\nOscar Health extended its winning streak to a fourth consecutive day on Friday, jumping 13.05… [+1395 chars]",
-      "tags": ["economy_finance", "stock_market", "small_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "small_business"
+      ],
+      "publishedAtTs": 1750544640
     },
     {
       "source": {
@@ -1327,7 +1516,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KVpvEJQ.7jnL3TuSNCOKpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/d8fba922ff12181041b7d87941a2308d",
       "publishedAt": "2025-06-21T22:26:11Z",
       "content": "The Kroger Co. (NYSE:KR) is one of the 10 Stocks End Trading Week Soaring, Outshining Wall Street.\r\nKroger rallied by 9.84 percent on Friday to finish at $71.97 apiece as investor sentiment was buoye… [+1421 chars]",
-      "tags": ["economy_finance", "stock_market", "small_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "small_business"
+      ],
+      "publishedAtTs": 1750544771
     },
     {
       "source": {
@@ -1346,7 +1540,8 @@
         "legal_justice",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750534413
     },
     {
       "source": {
@@ -1360,7 +1555,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/G.1tK8_wakfXVFDJfglm1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064",
       "publishedAt": "2025-06-21T13:39:42Z",
       "content": "Bernstein SocGen has raised its price target on Microsoft (NASDAQ: MSFT) to $540 from $520, and kept an Outperform rating for the stock a couple of weeks ago. Shares are trading at $477, near their 5… [+1403 chars]",
-      "tags": ["economy_finance", "stock_market", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1750513182
     },
     {
       "source": {
@@ -1374,7 +1574,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/c0kJ_As8GQsTBy5H2oeF7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTg-/https://media.zenfs.com/en/insidermonkey.com/ebb323e227fc4b041e697432733aba87",
       "publishedAt": "2025-06-21T19:41:07Z",
       "content": "Albertsons Companies, Inc. (NYSE:ACI) is one of the best future food stocks to buy according to analysts.\r\nAlbertsons Companies, Inc. (ACI) Partners with STRATACACHE to Leverage its Interactive Marke… [+1761 chars]",
-      "tags": ["small_business", "economy_finance", "technology_regulation"]
+      "tags": [
+        "small_business",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1750534867
     },
     {
       "source": {
@@ -1394,7 +1599,8 @@
         "stock_market",
         "trade",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750492980
     },
     {
       "source": {
@@ -1408,7 +1614,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_jsu11yNE769uqXn0ihLkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/8c64ee1e025ea3a226b10d0450c0cd0d",
       "publishedAt": "2025-06-21T15:27:00Z",
       "content": "- Getty Images/iStockphoto\r\nU.S. Treasury bonds are seen as a safe haven at times of geopolitical upheaval and uncertainty a refuge for global assets in the wake of a crisis. At such times, panicked … [+2034 chars]",
-      "tags": ["economy_finance", "foreign_policy", "security_intelligence"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1750519620
     },
     {
       "source": {
@@ -1422,7 +1633,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/d6hiuhfSWIMOKtD72OdXqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/4e33e0d1a07889115aefcb74e0ea299f",
       "publishedAt": "2025-06-21T03:54:41Z",
       "content": "CVS Health Corporation (NYSE:CVS) is one of the best dividend stocks for a bear market.\r\nEven during economic downturns, people continue to rely on medications, essential consumer products, and affor… [+2054 chars]",
-      "tags": ["healthcare", "economy_finance", "personal_business"]
+      "tags": [
+        "healthcare",
+        "economy_finance",
+        "personal_business"
+      ],
+      "publishedAtTs": 1750478081
     },
     {
       "source": {
@@ -1436,7 +1652,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8lmGSnF7nqdPequUBGTDKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/3c0a71fa6ead3853625822027cd43756",
       "publishedAt": "2025-06-21T03:54:19Z",
       "content": "T-Mobile US, Inc. (NASDAQ:TMUS) is one of the best dividend stocks for a bear market.\r\nThe company began paying dividends in 2023, starting at $0.65 per share, and has since raised the payout to $0.8… [+1960 chars]",
-      "tags": ["economy_finance", "stock_market", "small_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "small_business"
+      ],
+      "publishedAtTs": 1750478059
     },
     {
       "source": {
@@ -1450,7 +1671,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8bnN5HU3ARtOhuB_fdVeSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njk-/https://media.zenfs.com/en/fortune_175/5f6d8ebc3ab7559dc9d47e7ee9c00e32",
       "publishedAt": "2025-06-21T19:35:31Z",
       "content": "<ul><li>Wars and geopolitical conflicts typically arent long-term growth drivers for gold prices, according to analysts at Bank of America, which sees the precious metal reaching $4,000 an ounce over… [+3339 chars]",
-      "tags": ["economy_finance", "foreign_policy", "health_science"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "health_science"
+      ],
+      "publishedAtTs": 1750534531
     },
     {
       "source": {
@@ -1464,7 +1690,12 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/06/trumpai.png",
       "publishedAt": "2025-06-21T23:00:00Z",
       "content": "Claim:\r\nA photo shared online authentically depicts U.S. President Donald Trump on an airplane with underage girls. \r\nAn image purporting to be an authentic photo of U.S. President Donald Trump aboar… [+3274 chars]",
-      "tags": ["legal_justice", "personal_family", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750546800
     },
     {
       "source": {
@@ -1484,7 +1715,8 @@
         "government_administration",
         "elections_politics",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750469400
     },
     {
       "source": {
@@ -1498,7 +1730,12 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/06/khalil_for_062025.png",
       "publishedAt": "2025-06-21T14:00:02Z",
       "content": "Really, the Miller/Trump goons should never have detained Columbia University graduate Mahmoud Khalil in the first place. You dont have to agree with his pro-Palestinian views but the guy is a legal … [+1465 chars]",
-      "tags": ["legal_justice", "immigration", "civil_rights"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1750514402
     },
     {
       "source": {
@@ -1512,7 +1749,12 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/06/49567609682_724161b155_k_3.jpg",
       "publishedAt": "2025-06-21T10:43:38Z",
       "content": "It's only been one day since the first congressional sham hearing focusing on allegations of former President Joe Biden's alleged mental decline while in the White House. Since then, Trump has displa… [+1485 chars]",
-      "tags": ["elections_politics", "media_communications", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750502618
     },
     {
       "source": {
@@ -1530,7 +1772,8 @@
         "media_communications",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750471201
     },
     {
       "source": {
@@ -1548,7 +1791,8 @@
         "media_communications",
         "security_intelligence",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1750524699
     },
     {
       "source": {
@@ -1566,7 +1810,8 @@
         "media_communications",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750529731
     },
     {
       "source": {
@@ -1586,7 +1831,8 @@
         "crisis_emergency",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750518000
     },
     {
       "source": {
@@ -1606,7 +1852,8 @@
         "security_intelligence",
         "national_security",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750519340
     }
   ]
 }

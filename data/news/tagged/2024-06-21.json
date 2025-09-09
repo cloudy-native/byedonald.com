@@ -18,7 +18,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1719014087
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "elections_politics",
         "health_science",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1719013917
     },
     {
       "source": {
@@ -55,7 +57,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1719012251
     },
     {
       "source": {
@@ -69,7 +72,11 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/21/cb787aaf-82de-4e4e-8756-cf55fdb75644/thumbnail/1200x630g2/682d1c7922418c2d162d3bdc558c3d2e/gettyimages-2157145057.jpg?v=cb1f2643a8816828741cfb3a3fb2d931",
       "publishedAt": "2024-06-21T23:03:10Z",
       "content": "Trump beats Biden in May fundraising, both campaigns preparing for debate\nThe Trump campaign is expanding its ground game in Minnesota and Virginia as it puts President Biden's campaign on its heels in traditionally Democratic states, according to a ... [2881 chars]",
-      "tags": ["elections_politics", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719010990
     },
     {
       "source": {
@@ -83,7 +90,12 @@
       "urlToImage": "https://img.rasset.ie/002078fe-1600.jpg",
       "publishedAt": "2024-06-21T23:00:00Z",
       "content": "Republican presidential candidate Donald Trump will speak today to an influential group of conservative Christian activists who advocate for restricting abortion, before heading to Philadelphia for a rally aimed at courting black voters.\nThe former p... [2446 chars]",
-      "tags": ["elections_politics", "social_issues", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719010800
     },
     {
       "source": {
@@ -97,7 +109,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/06/bee7fe70-2e06-4a86-8c5f-f311f60411ea.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2024-06-21T22:36:18Z",
       "content": "LAS VEGAS (AP) — A Nevada judge dismissed an indictment Friday against six Republicans accused of submitting certificates to Congress falsely declaring Donald Trump the winner of the state’s 2020 presidential election, potentially cutting from four t... [4872 chars]",
-      "tags": ["legal_justice", "elections_politics", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719009378
     },
     {
       "source": {
@@ -111,7 +128,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/c2f3fe1f2ad5248ead048f9958edd866b21f8224/0_157_4723_2834/master/4723.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6050fc6fa47ff72112116ae71d0455ef",
       "publishedAt": "2024-06-21T22:07:36Z",
       "content": "Sean O’Brien, the president of the Teamsters union, will speak at the Republican national convention in Milwaukee next month, a move that could spell trouble for Joe Biden’s support among blue-collar workers ahead of the November election.\nDonald Tru... [2543 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1719007656
     },
     {
       "source": {
@@ -125,7 +146,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1793470046.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-06-21T22:06:09Z",
       "content": "New. York CNN —\nTeamsters President Sean O’Brien will speak to the Republican National Convention in Milwaukee in July, a sign that former President Donald Trump’s campaign is hoping to peel off the support of union members from President Joe Biden.\n... [3481 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1719007569
     },
     {
       "source": {
@@ -139,7 +164,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/ec/2ec9605c-fce9-508a-b501-5ded3f02ac74/6675f20564928.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-06-21T21:32:20Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1719005540
     },
     {
       "source": {
@@ -153,7 +182,12 @@
       "urlToImage": "https://img1-azrcdn.newser.com/image/1542038-12-20240621170313.jpeg",
       "publishedAt": "2024-06-21T21:30:00Z",
       "content": "A Nevada state court judge dismissed a criminal indictment Friday against six Republicans accused of submitting certificates to Congress falsely declaring Donald Trump the winner of the state's 2020 presidential election, potentially killing the case... [1879 chars]",
-      "tags": ["legal_justice", "elections_politics", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719005400
     },
     {
       "source": {
@@ -167,7 +201,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/trump-vp-potential-picks.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-06-21T21:18:50Z",
       "content": "CNN —\nFormer President Donald Trump has been busy in recent weeks. He was found guilty in his hush money trial in New York, is embroiled in three other legal cases and has continued his campaign to win back the White House.\nBut Trump has another task... [13483 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1719004730
     },
     {
       "source": {
@@ -181,7 +219,11 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/baytoday/images/city-of-north-bay/2024-06-18-mark-king-justine-mallah-north-bay-council-youtube.png;w=960;h=640;mode=crop",
       "publishedAt": "2024-06-21T21:00:00Z",
       "content": "'If you want more immigration, if you want to bring more people to these communities, you need to step up to the table and figure out how we provide housing. How we provide doctors. Quite frankly, the situation is in a crisis mode'\nAlthough North Bay... [4725 chars]",
-      "tags": ["policy_legislation", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719003600
     },
     {
       "source": {
@@ -195,7 +237,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/67/c67066b8-808f-5067-8404-d5a22cd5c901/6675e8a50a9f2.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2024-06-21T20:49:49Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1719002989
     },
     {
       "source": {
@@ -209,7 +255,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/32fae5da156e27866cd7df7a31952c73890eb69b/0_62_4199_2521/master/4199.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6783f07aec435b7b03b4c97dd964651f",
       "publishedAt": "2024-06-21T20:42:06Z",
       "content": "A Nevada state court judge dismissed a criminal indictment on Friday against six Republicans accused of submitting certificates to Congress falsely declaring Donald Trump the winner of the state’s 2020 presidential election, potentially killing the c... [3152 chars]",
-      "tags": ["legal_justice", "elections_politics", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1719002526
     },
     {
       "source": {
@@ -223,7 +274,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/HBBFHA26GRFEDHQEBJOVJYMFA4.JPG?auth=9f9e167bf32463f6b60361939b2bfb92ab2e3cc7d862993011c1351c7a1e4a6d&width=1200&height=831&quality=80",
       "publishedAt": "2024-06-21T20:31:42Z",
       "content": "Former President Donald Trump’s stake in his social media company is worth half of what it was before his conviction on charges of falsifying business records to cover up a sex scandal during the 2016 presidential campaign.\nTrump’s roughly 65 per cen... [2626 chars]",
-      "tags": ["economy_finance", "media_communications", "legal_justice"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1719001902
     },
     {
       "source": {
@@ -237,7 +293,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_06_2024_09_57_48_18417.jpg?width=920&format=jpeg",
       "publishedAt": "2024-06-21T19:42:21Z",
       "content": "Donald Trump's lawyer argued on Friday that the criminal case charging the former U.S. president with mishandling classified documents should be thrown out because the prosecutor is too independent -- even as Trump complains that his legal woes are d... [3891 chars]",
-      "tags": ["legal_justice", "security_intelligence"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1718998941
     },
     {
       "source": {
@@ -251,7 +311,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/06/donald_trump_2157143660.jpg",
       "publishedAt": "2024-06-21T19:21:20Z",
       "content": "Donald Trump got caught forgetting his own lie — that the 2020 election was stolen from him — during an interview with journalist Ramin Setoodeh for his new book, “Apprentice in Wonderland,” according to a tape Setoodeh shared Thursday with MSNBC’s N... [1650 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1718997680
     },
     {
       "source": {
@@ -265,7 +330,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2024/06/59a7f692-636a-48b9-8059-04b46e348059.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2024-06-21T19:19:19Z",
       "content": "LAS VEGAS (AP) — A Nevada state court judge dismissed a criminal indictment Friday against six Republicans accused of submitting certificates to Congress falsely declaring Donald Trump the winner of the state’s 2020 presidential election, potentially... [3164 chars]",
-      "tags": ["legal_justice", "elections_politics", "regional_state"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "regional_state"
+      ],
+      "publishedAtTs": 1718997559
     }
   ]
 }

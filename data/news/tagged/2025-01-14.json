@@ -20,7 +20,8 @@
         "elections_politics",
         "government_administration",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1736899026
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "policy_legislation",
         "federal_agencies",
         "california"
-      ]
+      ],
+      "publishedAtTs": 1736898590
     }
   ]
 }

@@ -20,7 +20,8 @@
         "security_intelligence",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1748735615
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/9eda3b1/2147483647/strip/true/crop/5106x2872+0+266/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2Ff7%2F61776f039aef8c57c87092bf817e%2F4f9a75c2f26041dea8f9306a64c31804",
       "publishedAt": "2025-05-31T23:15:41Z",
       "content": "NEW YORK (AP) — President Donald Trump’s doubling of tariffs on foreign steel and aluminum could hit Americans in an unexpected place: grocery aisles.\nThe staggering 50% levies on those imports took effect Wednesday, stoking fear that big-ticket purc... [4211 chars]",
-      "tags": ["economy_finance", "trade", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1748733341
     },
     {
       "source": {
@@ -53,7 +59,8 @@
         "government_operations",
         "ethics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1748731500
     },
     {
       "source": {
@@ -71,7 +78,8 @@
         "government_administration",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1748731213
     },
     {
       "source": {
@@ -89,7 +97,8 @@
         "government_administration",
         "security_intelligence",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1748731213
     },
     {
       "source": {
@@ -103,7 +112,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/3f/13f3e9ab-5dcf-5ff0-9d75-02c8bb698999/683b866d00ebe.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-05-31T22:40:13Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
-      "tags": ["government_administration", "legal_justice", "federal_agencies"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1748731213
     },
     {
       "source": {
@@ -121,7 +135,8 @@
         "government_administration",
         "space_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1748729927
     },
     {
       "source": {
@@ -135,7 +150,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2025_13_58_53_5663291.png?width=920&format=jpeg",
       "publishedAt": "2025-05-31T22:09:17Z",
       "content": "A federal judge in San Francisco has blocked the Trump administration's attempt to rescind work permits and lawful status documents for roughly 5,000 Venezuelans. This decision comes after the U.S. Supreme Court allowed the termination of Temporary P... [780 chars]",
-      "tags": ["foreign_policy", "legal_justice", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1748729357
     },
     {
       "source": {
@@ -155,7 +175,8 @@
         "security_clearances",
         "space_policy",
         "executive_orders"
-      ]
+      ],
+      "publishedAtTs": 1748728549
     },
     {
       "source": {
@@ -169,7 +190,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/H3IAVJIFRNC5BBZ4U35Z2CLHIA.JPG?smart=true&auth=bfe3d059d4be6b1eeca6ca0306ccf8ba025f6789809852398a66c74f44faf163&width=1200&height=630",
       "publishedAt": "2025-05-31T21:22:00Z",
       "content": "Bono has criticised cuts to the US Agency for International Development (USAid) budget in a lengthy interview with influential US podcaster Joe Rogan.\nHe cited academic research by Brooke Nichols, a mathematician and professor of infectious diseases ... [2224 chars]",
-      "tags": ["foreign_policy", "policy_legislation", "health_science"]
+      "tags": [
+        "foreign_policy",
+        "policy_legislation",
+        "health_science"
+      ],
+      "publishedAtTs": 1748726520
     }
   ]
 }

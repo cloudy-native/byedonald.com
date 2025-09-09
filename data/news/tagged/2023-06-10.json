@@ -14,7 +14,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/3DrgWGB-MorWOcsdP67KFhxbrcU=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/62FLHZTE3FPG5JSWMZR37K2NEM.jpg",
       "publishedAt": "2023-06-10T23:49:41Z",
       "content": "Open this photo in gallery: Republican presidential candidate Florida Gov. Ron DeSantis speaks during the North Carolina Republican Party Convention in Greensboro, N.C., June 9, 2023.Chuck Burton/The Associated Press\nRepublican White House candidate ... [5320 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1686440981
     },
     {
       "source": {
@@ -28,7 +33,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_51_4304562.jpg?width=920&format=jpeg",
       "publishedAt": "2023-06-10T23:48:53Z",
       "content": "Former President Donald Trump used the first public appearance since his federal indictment to ratchet up attacks on the Justice Department, accusing prosecutors, without evidence, of a politically motivated campaign to keep him from the White House.... [4141 chars]",
-      "tags": ["legal_justice", "doj_actions", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686440933
     },
     {
       "source": {
@@ -48,7 +58,8 @@
         "doj_actions",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1686439627
     },
     {
       "source": {
@@ -68,7 +79,8 @@
         "doj_actions",
         "impeachment",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1686438000
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDZcXFwvMTEwNTI3MTZcXFwvMzgwYmUwMzQ0ZTQ3NGExYWI1ZTVmNmI4Y2Y0MDM0YjQuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3NTFiNTAyNzdhODI1MDcyYjY1NGQyN2MyZTQzN2QyZmIzY2E2ZWY4In0=/trump-tells-republicans-federal-indictment-is-ridiculous-and-baseless.jpg",
       "publishedAt": "2023-06-10T23:00:00Z",
       "content": "Former president Donald Trump blasted his historic federal indictment as “ridiculous” and “baseless” during his first public appearances since the charges were unsealed.\nSpeaking at Republican state conventions in Georgia and North Carolina on Saturd... [6455 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686438000
     },
     {
       "source": {
@@ -96,7 +113,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AkgKlxGvN_VkAm0iAQKUSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/wall_street_journal_733/162fcebe6976f82404cba4ab553fc1db",
       "publishedAt": "2023-06-10T22:56:00Z",
       "content": "Associated Press\nThe Justice Department detailed stunning allegations against former President Donald Trump in a criminal indictment unsealed Friday, including allegations he stored classified documents in a bathroom and shower at his Florida club, f... [690 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686437760
     },
     {
       "source": {
@@ -110,7 +132,11 @@
       "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/06/former-u-s-president-donald-824078560.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
       "publishedAt": "2023-06-10T22:09:15Z",
       "content": "DONALD Trump tonight blasted criminal charges against him for allegedly keeping secret documents as “a travesty of justice”.\nChanting supporters greeted the former US president when he appeared in public for the first time since being indicted.\n1 Don... [983 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686434955
     },
     {
       "source": {
@@ -124,7 +150,12 @@
       "urlToImage": "https://townsquare.media/site/204/files/2023/06/attachment-donald-trump-kid-rock-north-korea-maps.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
       "publishedAt": "2023-06-10T21:55:00Z",
       "content": "Kid Rock was trending on Twitter on Saturday (June 10) as his previous claims that then-President Donald Trump showed him maps and asked his opinion on how to deal with North Korea resurfaced online after Trump's indictment over his handling of class... [2191 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686434100
     },
     {
       "source": {
@@ -138,7 +169,12 @@
       "urlToImage": "https://e3.365dm.com/23/06/1600x900/skynews-donald-trump_6183762.jpg?20230610203858",
       "publishedAt": "2023-06-10T21:51:00Z",
       "content": "Donald Trump has reiterated claims he is the victim of a \"witch hunt\" and said he was being framed for \"treason\" in a speech to supporters in Georgia.\nSpeaking on Saturday, he called it \"one of the most horrific abuses of power in our country\", a \"vi... [2972 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686433860
     },
     {
       "source": {
@@ -152,7 +188,11 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.475%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_577%2C$y_568/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/551133e41f91e4c59197e1f9e6cb52102afc771d",
       "publishedAt": "2023-06-10T21:41:22Z",
       "content": "31 mins ago – 8.30AM\nHousing Minister Julie Collins says the Housing Affordability Future Fund will help address a critical supply shortage as she calls for more senators to back the bill in parliament.\nCollins said the housing future fund was one pa... [1695 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686433282
     },
     {
       "source": {
@@ -166,7 +206,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_08_2022_01_35_59_152148.jpg?width=920&format=jpeg",
       "publishedAt": "2023-06-10T21:27:18Z",
       "content": "Former President Donald Trump blasted his historic federal indictment as “ridiculous” and “baseless'' on Saturday during his first public appearance since the charges were unsealed, painting the 37 felony counts as an attack on his supporters as he t... [6743 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686432438
     },
     {
       "source": {
@@ -180,7 +225,12 @@
       "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/06/NYPICHPDPICT000012476062.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2023-06-10T20:31:44Z",
       "content": "Click to email a link to a friend (Opens in new window)\nClick to share on Twitter (Opens in new window)\nClick to share on Facebook (Opens in new window)\nIvanka Trump is leaning on her faith during a difficult time in her family’s life.\nThe former Fir... [3291 chars]",
-      "tags": ["personal_family", "legal_justice", "new_york"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "new_york"
+      ],
+      "publishedAtTs": 1686429104
     },
     {
       "source": {
@@ -199,7 +249,8 @@
         "doj_actions",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1686427800
     },
     {
       "source": {
@@ -213,7 +264,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/sf2YrW6Te_ZilOXMBnvggUQ7aw4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TX76GJSKXLJYVWMSVYTB2AM7JU.jpg",
       "publishedAt": "2023-06-10T20:08:00Z",
       "content": "Former US president Donald Trump told the audience in Columbus, Georgia, his recent indictment was 'a travesty of justice'. Photograph: Anna Moneymaker/Getty Images\nDonald Trump delivered his first public address following the announcement of his fed... [3501 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686427680
     },
     {
       "source": {
@@ -232,7 +288,8 @@
         "criminal_cases",
         "doj_actions",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1686427201
     },
     {
       "source": {
@@ -252,7 +309,8 @@
         "criminal_cases",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1686426972
     },
     {
       "source": {
@@ -270,7 +328,8 @@
         "government_administration",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1686424488
     },
     {
       "source": {
@@ -284,7 +343,12 @@
       "urlToImage": "https://static.ffx.io/images/$zoom_0.2324%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/53e02b414e77e37c78936fc980f94f4fa36cd165",
       "publishedAt": "2023-06-10T18:54:25Z",
       "content": "“I think the verdict on democracy ultimately comes down to Republican leaders and Republican voters,” said David Jolly, a former Republican congressperson from Florida who left the party during the Trump presidency. “Their current weaponisation narra... [6208 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686423265
     },
     {
       "source": {
@@ -298,7 +362,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/06/11/600x338/2-0-92798693-Donald-Trump-4C-0_1681816794714_1686444420763.jpg",
       "publishedAt": "2023-06-10T18:30:00Z",
       "content": "Former US President Donald Trump on Saturday railed against the \"corrupt\" US justice system, lashing out a day after federal prosecutors indicted him on multiple felony charges in an explosive development in the 2024 presidential election race.\nThe 3... [2751 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686421800
     },
     {
       "source": {
@@ -312,7 +381,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/06/11/600x338/trump_1686444728617_1686444728756.jpg",
       "publishedAt": "2023-06-10T18:30:00Z",
       "content": "Former US president Donald Trump who his first public appearance at Republican Party convention in Georgia has described his federal indictment as \"ridiculous\" and \"baseless\".\nHis remarks came after the charges against him were unsealed, accusing him... [3294 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686421800
     },
     {
       "source": {
@@ -326,7 +400,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2023/06/10/600x338/USA-TRUMP-DOCUMENTS-9_1686391313501_1686391355209.JPG",
       "publishedAt": "2023-06-10T18:30:00Z",
       "content": "The United States Justice Department released a set of pictures as part of the criminal indictment against former President Donald Trump and alleged that he stored classified documents in his bathroom, shower, bedroom and ballroom of his Florida club... [2935 chars]",
-      "tags": ["personal_family", "security_clearances", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "security_clearances",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686421800
     },
     {
       "source": {
@@ -340,7 +419,11 @@
       "urlToImage": "https://i.guim.co.uk/img/media/064a33edca436c7ad8b792e574eb0ef601f79dc5/0_210_5703_3422/master/5703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=cdfe8aaefc15666217d7cd4f54f41ee4",
       "publishedAt": "2023-06-10T18:01:28Z",
       "content": "It is a measure of the topsy-turvy world of US politics that last week’s first-ever federal indictment of a former president, Donald Trump, on criminal charges may help him win the Republican party’s nomination in the 2024 race for the White House.\nT... [3552 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686420088
     },
     {
       "source": {
@@ -354,7 +437,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/05/untitled-design-26-168316206216x9.png",
       "publishedAt": "2023-06-10T17:58:04Z",
       "content": "Donald Trump will address his supporters Saturday for the first time since his indictment on multiple federal charges shot the 2024 presidential election race into uncharted and potentially deeply destabilizing territory.\nThe 37 counts of the indictm... [2136 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1686419884
     },
     {
       "source": {
@@ -368,7 +455,12 @@
       "urlToImage": "https://www.businessinsider.in/photo/100904364/after-pence-bails-kari-lake-fires-up-georgia-crowd-by-saying-republicans-have-guns-and-trumps-back.jpg?imgsize=100738",
       "publishedAt": "2023-06-10T17:06:00Z",
       "content": "After Mike Pence canceled, Kari Lake addressed Georgia GOP supporters.\nLake said Trump's 75 million supporters would defend him, and most are \"card-carrying NRA members.\"\nAdvertisement\nHours after federal prosecutors unsealed the 37 charges against f... [1622 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1686416760
     },
     {
       "source": {
@@ -387,7 +479,8 @@
         "media_communications",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1686416427
     }
   ]
 }

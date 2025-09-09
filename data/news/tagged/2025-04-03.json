@@ -20,7 +20,8 @@
         "economy_finance",
         "policy_legislation",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1743724646
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743724573
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "trade",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743723583
     },
     {
       "source": {
@@ -72,7 +75,12 @@
       "urlToImage": "https://media.zenfs.com/en/business_insider_articles_888/18d0389c5b5a7acbb59bd769f78f34e2",
       "publishedAt": "2025-04-03T23:38:57Z",
       "content": "Getty Images; Alyssa Powell/BI\nThe retail investing crowd is freaking over over Trump's latest tariffs.\nUS stocks sank after the president imposed new duties on US imports, including reciprocal tariffs.\nTraders took to the internet to lament their lo... [2415 chars]",
-      "tags": ["economy_finance", "trade", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
+      "publishedAtTs": 1743723537
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "foreign_policy",
         "policy_legislation",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1743723444
     },
     {
       "source": {
@@ -111,7 +120,8 @@
         "elections_politics",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1743723240
     },
     {
       "source": {
@@ -131,7 +141,8 @@
         "government_administration",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1743722637
     },
     {
       "source": {
@@ -145,7 +156,12 @@
       "urlToImage": "https://images.perthnow.com.au/publication/C-18259974/8ab18e3f9001ebcd18810bdc4839ab42adc0ebf0-16x9-x0y0w2048h1152.jpg?imwidth=1200",
       "publishedAt": "2025-04-03T23:17:27Z",
       "content": "Aussie investors are in for another horror day on the local share market, with the leading index opening sharply lower following a tariff-induced bloodbath in the US overnight.\nThe second day of the selloff on Australia’s S&P-ASX200 was sparked by th... [3971 chars]",
-      "tags": ["economy_finance", "stock_market", "trade"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "trade"
+      ],
+      "publishedAtTs": 1743722247
     },
     {
       "source": {
@@ -165,7 +181,8 @@
         "security_intelligence",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1743721559
     },
     {
       "source": {
@@ -179,7 +196,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/v2/VHFAVTA4U5C7FE2ZTPOGOKHXN4.jpg?smart=true&auth=1f202b740bd44798a55898a19ef6a892873ae4e538e9e94222c2b3519c6cad0e&width=1200&height=630",
       "publishedAt": "2025-04-03T23:02:00Z",
       "content": "Sir, – Any EU instinct to retaliate against President Trump’s tariffs would be understandable but disastrously wrong-headed. Instead of indulging in tit-for-tat economic nationalism, Europe should do something far braver: eliminate its own tariffs an... [12812 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743721320
     }
   ]
 }

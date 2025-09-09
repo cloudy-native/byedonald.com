@@ -19,7 +19,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1684008978
     },
     {
       "source": {
@@ -33,7 +34,12 @@
       "urlToImage": "https://focus.belfasttelegraph.co.uk/thumbor/_BTqfp00r0aay2ub4eOVh_LG8Yw=/0x0:5415x3610/5415x3610/prod-mh-ireland/da303818-aa36-45c3-89ec-4264116aad33/c7398003-50ae-4b87-a333-3fa88abcd406/31254d1cbe754b009996678a877b8b8e.jpg",
       "publishedAt": "2023-05-13T19:30:39Z",
       "content": "Florida governor Ron DeSantis has sought to weaken former president Donald Trump’s grip on the Republican Party as its leading presidential prospects collided in battleground Iowa.\nMr DeSantis, expected to announce his 2024 presidential campaign any ... [6534 chars]",
-      "tags": ["elections_politics", "2028_presidential", "florida"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "florida"
+      ],
+      "publishedAtTs": 1684006239
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "2028_presidential",
         "florida",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1684002600
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "elections_politics",
         "2028_presidential",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1683986400
     },
     {
       "source": {
@@ -91,7 +99,8 @@
         "policy_legislation",
         "health_science",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1683983156
     },
     {
       "source": {
@@ -110,7 +119,8 @@
         "doj_actions",
         "civil_litigation",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1683979928
     },
     {
       "source": {
@@ -124,7 +134,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/trumpdonald_desantisron_051223gn_rivalry.png?w=1280",
       "publishedAt": "2023-05-13T10:00:00Z",
       "content": "Former President Donald Trump and Florida Gov. Ron DeSantis (R) are heading to Iowa on Saturday for dueling events that underscore the escalating rivalry between the two leading contenders for the 2024 Republican presidential nomination.\nDeSantis has... [4672 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1683972000
     },
     {
       "source": {
@@ -138,7 +152,12 @@
       "urlToImage": "https://compote.slate.com/images/198f73d2-bed3-46c8-a7f3-5bb1b2e86a1d.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-05-13T09:50:00Z",
       "content": "After the case E. Jean Carroll’s team brought against Donald Trump these last few weeks, it would have been preposterous for the jury to arrive at any verdict other than the one it did on Tuesday. Jurors found Trump liable for both of Carroll’s claim... [8198 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1683971400
     },
     {
       "source": {
@@ -152,7 +171,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6Oc6nA5wiihobVDtYjFJXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzg-/https://media.zenfs.com/en/usa_today_news_641/36b4657d742c7f98ec4ada13524b9604",
       "publishedAt": "2023-05-13T09:03:41Z",
       "content": "WASHINGTON – A rematch between Joe Biden and Donald Trump?\nNo thanks, a majority of voters have said in poll after poll after poll.\nBut what if there was an alternative?\nElections are, after all, all about choices.\nThe bipartisan group No Labels, a n... [9179 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1683968621
     },
     {
       "source": {
@@ -171,7 +194,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1683968560
     },
     {
       "source": {
@@ -185,7 +209,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/454296b4dbc83e41af6a50e414700487eea09e16/0_70_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37add1bdfdf4e85df36a037f899ae236",
       "publishedAt": "2023-05-13T09:00:18Z",
       "content": "One day he was found liable for sexual abuse and defamation. The next he was on prime-time television pushing election lies, defending his own coup attempt and refusing to back Ukraine.\nTo his millions of critics, it was another week that proved Dona... [7959 chars]",
-      "tags": ["media_communications", "elections_politics", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1683968418
     },
     {
       "source": {
@@ -205,7 +234,8 @@
         "foreign_policy",
         "economy_finance",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1683968400
     },
     {
       "source": {
@@ -223,7 +253,8 @@
         "economy_finance",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1683962434
     },
     {
       "source": {
@@ -237,7 +268,12 @@
       "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/6a26bd0/2147483647/strip/true/crop/5409x2840+0+383/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F25%2F79%2F0d8b9c5847dbb938f2aa4908eee3%2Fap23130792074592.jpg",
       "publishedAt": "2023-05-13T07:02:11Z",
       "content": "Justice Department prosecutors were granted a postponement of the deposition of former President Donald Trump in a four-year-old civil lawsuit filed by former FBI officials on Friday.\nJudge Amy Berman Jackson ruled in favor of the Justice Department'... [2624 chars]",
-      "tags": ["legal_justice", "doj_actions", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "doj_actions",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1683961331
     },
     {
       "source": {
@@ -251,7 +287,12 @@
       "urlToImage": "https://images.thestarimages.com/KgzRI9-3lwGzSm9N_w6cdSt496g=/1200x1000/smart/filters:cb(1684021002734):format(webp)/https://www.thestar.com/content/dam/thestar/news/world/us/2023/05/13/fbi-agents-raid-condo-unit-owned-by-russians-at-trump-towers-in-florida/us_news_fla_trump_towers_mi.jpg",
       "publishedAt": "2023-05-13T07:00:00Z",
       "content": "The trio of Trump Towers on Sunny Isles Beach in northeast Miami-Dade County, Florida, draws its share of gawkers, thanks to former president Donald Trump’s licensing deal that plastered his name on the oceanfront development.\nBut on Thursday, the lu... [2239 chars]",
-      "tags": ["russia", "legal_justice", "foreign_policy"]
+      "tags": [
+        "russia",
+        "legal_justice",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1683961200
     },
     {
       "source": {
@@ -270,7 +311,8 @@
         "legal_justice",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1683957616
     },
     {
       "source": {
@@ -284,7 +326,12 @@
       "urlToImage": "https://www.irishtimes.com/resizer/Wk4FPPpKfFPpjTxHudUm4Y6U2BE=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/J7QKEHJXP63FY6WZNCRVUP7PO4.jpg",
       "publishedAt": "2023-05-13T04:00:00Z",
       "content": "Americans woke up last Sunday to a poll that challenged conventional political thinking.\nIt had been generally accepted that former president Donald Trump was way out in front to secure the Republican Party nomination to run for the presidency next y... [9478 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1683950400
     },
     {
       "source": {
@@ -298,7 +345,11 @@
       "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1253742506-e1684010952598.jpg?resize=1200,600",
       "publishedAt": "2023-05-13T04:00:00Z",
       "content": "When Donald Trump ran for president in 2016, it quickly became clear that much of the media was not up to the challenge of covering a candidate who openly lied, espoused racist ideologies, bragged about sexual assault, and encouraged his supporters t... [7701 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1683950400
     },
     {
       "source": {
@@ -312,7 +363,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/cnn.jpg?quality=75&strip=all&1683934835&w=1024",
       "publishedAt": "2023-05-13T03:27:56Z",
       "content": "CNN reporter Oliver Darcy was reportedly left “visibly shaken” after his boss, CEO Chris Licht, tore into the liberal journalist over his “emotional” coverage of the network’s town hall Wednesday night featuring former President Donald Trump.\nDarcy w... [2872 chars]",
-      "tags": ["media_communications", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1683948476
     },
     {
       "source": {
@@ -331,7 +386,8 @@
         "doj_actions",
         "criminal_cases",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1683939960
     }
   ]
 }

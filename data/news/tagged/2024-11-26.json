@@ -20,7 +20,8 @@
         "policy_legislation",
         "legal_justice",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1732665356
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "personal_family",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1732664700
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "policy_legislation",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1732664478
     },
     {
       "source": {
@@ -72,7 +75,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/67462e3318000028009dcfad.jpeg?cache=o0q5W4wNNJ&ops=1200_630",
       "publishedAt": "2024-11-26T23:38:13Z",
       "content": "LOADING ERROR LOADING\nAdvisers to President-elect Donald Trump are thinking up ways to cut federal funding to cities that do not cooperate with his plans to root out and deport immigrants lacking permanent legal status, according to a Tuesday report ... [2222 chars]",
-      "tags": ["government_administration", "policy_legislation", "immigration"]
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "immigration"
+      ],
+      "publishedAtTs": 1732664293
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "border_security",
         "government_administration",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1732664084
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "foreign_policy",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1732663800
     },
     {
       "source": {
@@ -126,7 +136,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_11_2024_09_38_09_2507788.jpeg?width=920&format=jpeg",
       "publishedAt": "2024-11-26T23:27:00Z",
       "content": "In a major announcement that could reshape U.S. trade policies, Donald Trump, the U.S. President-elect, is expected to appoint Jamieson Greer as the U.S. Trade Representative, according to Bloomberg sources.\nGreer, an attorney with a background in in... [412 chars]",
-      "tags": ["economy_finance", "foreign_policy", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1732663620
     },
     {
       "source": {
@@ -145,7 +160,8 @@
         "policy_legislation",
         "foreign_policy",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1732663529
     },
     {
       "source": {
@@ -164,7 +180,8 @@
         "government_administration",
         "political_endorsements",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1732663272
     },
     {
       "source": {
@@ -184,7 +201,8 @@
         "government_administration",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1732663059
     }
   ]
 }

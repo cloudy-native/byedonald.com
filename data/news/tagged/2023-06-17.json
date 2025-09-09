@@ -19,7 +19,8 @@
         "security_intelligence",
         "foreign_policy",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1687042800
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23072775091549-e1687041437734.jpg?w=1280",
       "publishedAt": "2023-06-17T22:42:08Z",
       "content": "Michael Cohen, former President Trump’s onetime fixer and a key witness in the Manhattan district attorney’s case against the former president, was denied his latest bid for an early release from probation on Thursday.\nU.S. District Judge Jesse Furma... [2040 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687041728
     },
     {
       "source": {
@@ -52,7 +57,8 @@
         "legal_justice",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1687038407
     },
     {
       "source": {
@@ -72,7 +78,8 @@
         "2028_presidential",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1687033623
     },
     {
       "source": {
@@ -86,7 +93,12 @@
       "urlToImage": "https://media.zenfs.com/en/business_insider_articles_888/899e2a3ae9c4f39fb3ed1aa56b051149",
       "publishedAt": "2023-06-17T18:45:00Z",
       "content": "\"Shark Tank\" investor Barbara Corcoran. Brian Ach / Stringer / Getty Images\nBarbara Corcoran praised Donald Trump's selling skills and championed real-estate investing.\nShe cautioned against following financial news too closely, and warned of AI's di... [4183 chars]",
-      "tags": ["personal_family", "economy_finance", "health_science"]
+      "tags": [
+        "personal_family",
+        "economy_finance",
+        "health_science"
+      ],
+      "publishedAtTs": 1687027500
     },
     {
       "source": {
@@ -100,7 +112,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/06/AP23165039965577-e1687026628787.jpg?w=1280",
       "publishedAt": "2023-06-17T18:31:05Z",
       "content": "A slim majority of Americans surveyed in a poll released Friday would support pardoning former President Trump if he is convicted and sentenced to jail over allegations that he mishandled classified documents.\nThe Harvard CAPS-Harris poll found 53 pe... [1308 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687026665
     },
     {
       "source": {
@@ -119,7 +136,8 @@
         "policy_legislation",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1687026331
     },
     {
       "source": {
@@ -133,7 +151,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2247883/donald-trump-defeats-joe-biden-post-indictment.jpg",
       "publishedAt": "2023-06-17T17:16:36Z",
       "content": "A new poll showed that former President Donald Trump holds a sizable lead over Democratic President Joe Biden in a hypothetical 2024 presidential election matchup, despite the Republican frontrunner's recent federal indictment connected to his handli... [4381 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687022196
     },
     {
       "source": {
@@ -152,7 +175,8 @@
         "lgbtq_rights",
         "legal_justice",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1687021674
     },
     {
       "source": {
@@ -172,7 +196,8 @@
         "impeachment",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687017601
     },
     {
       "source": {
@@ -186,7 +211,12 @@
       "urlToImage": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/188706-esxtqdyvsz-1680511591.jpg",
       "publishedAt": "2023-06-17T16:00:00Z",
       "content": "Former US President Donald Trump has once again been indicted, this time at the federal level for violating the Espionage Act and endangering US security in his handling of classified documents. Unsurprisingly, he maintains his innocence, accusing th... [9137 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1687017600
     },
     {
       "source": {
@@ -200,7 +230,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012820945.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-17T15:30:49Z",
       "content": "Former President Donald Trump remained the far-and-away 2024 Republican presidential frontrunner and a majority of Americans said they would like to him pardoned, according to a new poll.\nEven after his federal indictment last week on 37 felony count... [2097 chars]",
-      "tags": ["elections_politics", "2028_presidential", "pardons"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "pardons"
+      ],
+      "publishedAtTs": 1687015849
     },
     {
       "source": {
@@ -214,7 +249,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230616-joe-biden-ew-450p-de31ad.jpg",
       "publishedAt": "2023-06-17T15:28:57Z",
       "content": "As they deflect attention from his federal indictment, former President Donald Trump and his Republican allies on Capitol Hill say President Joe Biden and his family members are the ones who should be prosecuted or jailed.\nSpeaking hours after he was... [12745 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687015737
     },
     {
       "source": {
@@ -228,7 +268,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-06/230617-donald-trump-mike-pence-al-1038-c50de3.jpg",
       "publishedAt": "2023-06-17T15:24:46Z",
       "content": "Former Vice President Mike Pence on Friday criticized former President Donald Trump's position on abortion and the national debt, accusing his old boss of drifting away from conservative principles.\n\"Look, in 2016, Donald Trump promised to govern as ... [2051 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1687015486
     },
     {
       "source": {
@@ -242,7 +287,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/06/tom_fitton_1304566536.jpg",
       "publishedAt": "2023-06-17T14:00:01Z",
       "content": "Former President Donald Trump, who is charged with stashing national security secrets at Mar-a-Lago and obstructing government efforts to retrieve them, relied on advice from the leader of the conservative organization Judicial Watch, who convinced T... [6558 chars]",
-      "tags": ["personal_family", "legal_justice", "security_intelligence"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1687010401
     },
     {
       "source": {
@@ -256,7 +306,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/05/Steve-Cortes.png?w=1280",
       "publishedAt": "2023-06-17T13:42:17Z",
       "content": "An adviser to former President Donald Trump’s 2016 and 2020 election campaigns went after his former boss on Twitter early Saturday, calling out his “vicious” attacks on other former staffers.\nSteve Cortes asked, “Who would work for Trump???” respond... [942 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687009337
     },
     {
       "source": {
@@ -270,7 +325,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012807057.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-17T13:36:00Z",
       "content": "A top prosecutor in the classified documents case against former President Trump was once cited for unethical behavior in a federal drug case, court records show.\nKaren Gilbert, 59, who now has a leading role in Special Counsel Jack Smith’s prosecuti... [2792 chars]",
-      "tags": ["legal_justice", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1687008960
     },
     {
       "source": {
@@ -284,7 +343,12 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KLRRUSWEZJCU3OG2SHVKORQ2CI.jpg?_a=ATCqVhC0",
       "publishedAt": "2023-06-17T13:07:23Z",
       "content": "FILE - Supporters of President Donald Trump participate in a rally in Washington, Jan. 6, 2021. Most Republican candidates running for state legislature this year in Virginia are centering their pitches to voters on issues such as education, the cost... [8926 chars]",
-      "tags": ["elections_politics", "legal_justice", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687007243
     },
     {
       "source": {
@@ -298,7 +362,12 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/TrumpPence-1.png?w=1280",
       "publishedAt": "2023-06-17T12:49:38Z",
       "content": "Former Vice President Mike Pence said he does not know why other 2024 Republican presidential candidates “presume” former President Trump will be found guilty of the charges he is facing.\nPence said in an interview with Chuck Todd on NBC’s “Meet the ... [2142 chars]",
-      "tags": ["elections_politics", "legal_justice", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1687006178
     },
     {
       "source": {
@@ -312,7 +381,12 @@
       "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2023/06/SJM-Z-TRUMPBOOKED-0614-12.jpg?w=1024&h=683",
       "publishedAt": "2023-06-17T11:30:44Z",
       "content": "The country is living through history with the first-ever federal indictment of a former president. A grand jury charged Donald Trump with 37 federal counts, ranging from the willful retention of national defense information to obstruction of justice... [4177 chars]",
-      "tags": ["legal_justice", "media_communications", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1687001444
     },
     {
       "source": {
@@ -326,7 +400,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000012740790.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-06-17T11:30:41Z",
       "content": "Donald Trump “was” his friend, President Biden is a “disaster” and Democratic mega-donor George Soros is a “puppet master,” former Vice President Mike Pence said during an exclusive interview with The Post.\nPence, 64, who entered an increasingly crow... [5740 chars]",
-      "tags": ["elections_politics", "media_communications", "foreign_policy"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1687001441
     },
     {
       "source": {
@@ -346,7 +425,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687001127
     },
     {
       "source": {
@@ -360,7 +440,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uU04lcNFCy59KDvChfUh7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/8ae0288f3ace5b8011e469ac62819a5f",
       "publishedAt": "2023-06-17T11:00:41Z",
       "content": "Republicans must once again decide whether, and how, to defend former President Donald Trump against his legal troubles.\nLast Friday, the Justice Department unsealed its bombshell 37-count indictment against Trump, laying out the U.S. government's ar... [8228 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1686999641
     },
     {
       "source": {
@@ -374,7 +459,11 @@
       "urlToImage": "https://static.politico.com/90/fa/ac3727084fdda6e8150050e27c3b/trump-classified-documents-53569.jpg",
       "publishedAt": "2023-06-17T11:00:00Z",
       "content": "Post-launch bounces for DeSantis and former Vice President Mike Pence? Not according to the public polls. A bump for Sen. Tim Scott (S.C.) after his official kickoff? Yes, but only enough to vault him to the mid-single-digits, roughly tied for third ... [4905 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1686999600
     },
     {
       "source": {
@@ -388,7 +477,11 @@
       "urlToImage": "https://www.irishtimes.com/resizer/r7RFMX9dvIwYKntEF55EQdgZnzU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EDAO32NLBU77DUHMIJS72DLRBE.jpg",
       "publishedAt": "2023-06-17T11:00:00Z",
       "content": "Members of the media wait outside the Wilkie D. Ferguson Jr. United States Federal Courthouse ahead of Donald Trump's appearance before the court. Photograph: Alon Skuy/Getty Images\nDarkness had just fallen as I made my way to my hotel in Miami last ... [4209 chars]",
-      "tags": ["media_communications", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1686999600
     }
   ]
 }

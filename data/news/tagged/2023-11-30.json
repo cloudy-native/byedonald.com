@@ -14,7 +14,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-11/231130-bedminster-trump-national-golf-pga-championships-2020-ac-429p-be5b6d.jpg",
       "publishedAt": "2023-11-30T23:55:22Z",
       "content": "A former server at Donald Trump's New Jersey golf club says a Trump attorney duped her into signing an illegal non-disclosure agreement and settling a sexual harassment claim against her supervisor for a \"paltry sum.\"\nIn a lawsuit filed Wednesday in ... [3405 chars]",
-      "tags": ["personal_family", "legal_justice", "government_administration"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1701388522
     },
     {
       "source": {
@@ -28,7 +33,11 @@
       "urlToImage": "https://www.reuters.com/resizer/ngGZTB374bJpuuWIEabswd2Ebwo=/706x369/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NLQ7MXUABVEYFDRCLBVKAPALSE.jpeg",
       "publishedAt": "2023-11-30T23:51:30Z",
       "content": "A video clip showing a man in military uniform praying for U.S. President Joe Biden to be replaced by his predecessor Donald Trump while sharing the stage with Biden at an event in Norfolk, Virginia, has been flipped horizontally and contains an alte... [1296 chars]",
-      "tags": ["media_communications", "social_media"]
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
+      "publishedAtTs": 1701388290
     },
     {
       "source": {
@@ -42,7 +51,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2317052/donald-trump.jpg",
       "publishedAt": "2023-11-30T23:48:41Z",
       "content": "Former President Donald Trump's estranged niece, Mary Trump, is warning that \"jail is next\" for Donald after his gag order, barring him from commenting on court personnel, was reinstated by an appeals court in New York City on Thursday.\nEarlier this ... [3731 chars]",
-      "tags": ["legal_justice", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1701388121
     },
     {
       "source": {
@@ -56,7 +69,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/068df97/2147483647/strip/true/crop/5472x3078+0+285/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F93%2Ff00623c612426b205da80268349c%2Fe7f08a2fdcfb49599805c8ef0e594ae4",
       "publishedAt": "2023-11-30T23:36:19Z",
       "content": "NEW YORK (AP) — The Republican National Committee’s rules for next year’s nominating contest and convention were released this week without addressing a question the GOP could well face next summer: Can the party’s delegates vote for a different cand... [5136 chars]",
-      "tags": ["elections_politics", "legal_justice"]
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1701387379
     },
     {
       "source": {
@@ -70,7 +87,11 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
       "publishedAt": "2023-11-30T23:11:49Z",
       "content": "The Democratic Party has no Plan B if President Joe Biden decided for any reason to halt his 2024 re-election campaign, and a sudden need to replace him as its standard-bearer would spark a messy intraparty battle. Despite weak poll numbers and quest... [6130 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1701385909
     },
     {
       "source": {
@@ -84,7 +105,12 @@
       "urlToImage": "https://www.chicagotribune.com/resizer/w9csfec-3JcZA1_fBswOpLrT7xQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/V3HSL3I4GUD5USYT6SEEAII7JE.jpg",
       "publishedAt": "2023-11-30T23:00:00Z",
       "content": "NEW YORK — The Republican National Committee’s rules for next year’s nominating contest and convention were released this week without addressing a question the GOP could well face next summer: Can the party’s delegates vote for a different candidate... [5183 chars]",
-      "tags": ["elections_politics", "legal_justice", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1701385200
     },
     {
       "source": {
@@ -98,7 +124,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231130163802-trump-national-golf-club-bedminster-file-2017.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-30T22:07:56Z",
       "content": "CNN —\nA former server at the Trump National Golf Club in Bedminster has filed a lawsuit against the club in New Jersey, alleging that she was sexually harassed by her manager and then pressured to sign an illegal non-disclosure agreement by Alina Hab... [3384 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1701382076
     },
     {
       "source": {
@@ -112,7 +142,12 @@
       "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2023/11/henry_kissinger.jpg",
       "publishedAt": "2023-11-30T21:36:40Z",
       "content": "Claim: Former U.S. Secretary of State Henry Kissinger once described President Donald Trump as \"the one true leader.\" Rating: About this rating False\nHenry Kissinger, who died at the age of 100 in November 2023, served as a national security adviser ... [4341 chars]",
-      "tags": ["media_communications", "foreign_policy", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1701380200
     },
     {
       "source": {
@@ -130,7 +165,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1701379620
     },
     {
       "source": {
@@ -144,7 +180,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231024113500-01-kenneth-chesebro-guilty-plea-102023.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-30T21:23:11Z",
       "content": "CNN —\nA Nevada state-level criminal investigation into the fake electors plot intended to overturn Joe Biden’s 2020 election win is ramping up with prosecutors securing the cooperation of a key witness, even as some of those who served as pro-Trump e... [7386 chars]",
-      "tags": ["legal_justice", "elections_politics", "criminal_cases"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1701379391
     },
     {
       "source": {
@@ -158,7 +199,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231130154352-engoron-trump-split.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-11-30T21:21:07Z",
       "content": "New York CNN —\nNew York court officials have knocked down Donald Trump’s angry social media claims that the wife of Judge Arthur Engoron, who’s presiding over his civil fraud trial, has been posting anti-Trump rhetoric on X.\nEngoron’s wife does not h... [1530 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1701379267
     },
     {
       "source": {
@@ -172,7 +218,12 @@
       "urlToImage": "https://www.cp24.com/polopoly_fs/1.6667869.1701375726!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
       "publishedAt": "2023-11-30T20:23:15Z",
       "content": "Jennifer Peltz And Michael R. Sisak, The Associated Press\nNEW YORK (AP) - A New York appeals court Thursday reinstated a gag order that barred Donald Trump from commenting about court personnel after the former president repeatedly disparaged a law c... [3839 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1701375795
     },
     {
       "source": {
@@ -186,7 +237,12 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/30/7f25ee31-d157-4b84-9be3-247460a16222/thumbnail/1200x630g2/ebc017d08371a6ca6ba98367143d1a36/gettyimages-1810866450-1.jpg?v=2a3c5d91939c9bf28fa0bc6fdfacfdd4",
       "publishedAt": "2023-11-30T20:21:00Z",
       "content": "The Biden campaign is attacking former President Donald Trump's health care policies in a new TV ad airing Thursday in several key battleground states.\nThe 60-second spot, titled \"Your Family,\" focuses on Biden administration plans to lower prescript... [2505 chars]",
-      "tags": ["healthcare", "policy_legislation", "elections_politics"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1701375660
     },
     {
       "source": {
@@ -205,7 +261,8 @@
         "civil_litigation",
         "federal_courts",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1701371820
     },
     {
       "source": {
@@ -219,7 +276,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/10/donald_trump_1756126594.jpg",
       "publishedAt": "2023-11-30T19:09:52Z",
       "content": "A court-appointed monitor caught former President Donald Trump quietly moving $40 million without disclosing the transfers as required by Judge Arthur Engoron, according to The Daily Beast.\nEngoron, who is overseeing Trump’s New York fraud trial, las... [2985 chars]",
-      "tags": ["legal_justice", "personal_legal", "civil_litigation"]
+      "tags": [
+        "legal_justice",
+        "personal_legal",
+        "civil_litigation"
+      ],
+      "publishedAtTs": 1701371392
     },
     {
       "source": {
@@ -239,7 +301,8 @@
         "policy_legislation",
         "campaign_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1701370801
     },
     {
       "source": {
@@ -253,7 +316,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2316942/alina-habba-grooming-trump.jpg",
       "publishedAt": "2023-11-30T18:53:07Z",
       "content": "Alina Habba, one of Donald Trump's top lawyers, is being accused of \"grooming\" a former employee of the Trump National Golf Club in Bedminster, New Jersey, after the worker was allegedly sexually harassed by a supervisor.\nAlice Bianco, a former Trump... [4340 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1701370387
     },
     {
       "source": {
@@ -267,7 +334,12 @@
       "urlToImage": "https://images.wsj.net/im-893990/social",
       "publishedAt": "2023-11-30T17:42:00Z",
       "content": "State Supreme Court Justice Arthur Engoron, left, in a courtroom sketch from earlier this month, said he would enforce a gag order on former President Donald Trump ‘rigorously and vigorously.’ Photo: jane rosenberg/Reuters\nA New York appeals court Th... [468 chars]",
-      "tags": ["legal_justice", "civil_litigation", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "civil_litigation",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1701366120
     }
   ]
 }

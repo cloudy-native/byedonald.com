@@ -18,7 +18,8 @@
         "public_health_emergency",
         "natural_disasters",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752001606
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "social_issues",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1751994644
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/jeffrey-epstein-video-1200x675.jpg",
       "publishedAt": "2025-07-08T12:25:51Z",
       "content": "The U.S. Department of Justice has released video from the jail in New York where Jeffrey Epstein was held, recorded the day he died in 2019. The release is part of a campaign by the Trump regime to … [+3687 chars]",
-      "tags": ["legal_justice", "security_intelligence", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751977551
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "national_security",
         "security_intelligence",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1751962026
     },
     {
       "source": {
@@ -92,7 +100,8 @@
         "foreign_policy",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1751939510
     },
     {
       "source": {
@@ -112,7 +121,8 @@
         "national_security",
         "ukraine",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1751953546
     },
     {
       "source": {
@@ -126,7 +136,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/900x506+0+24/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F87%2Fa2e1926c4f4da2c3ef16b9f30aef%2Ftrump-kagan.png",
       "publishedAt": "2025-07-08T20:13:31Z",
       "content": "The Supreme Court on Tuesday lifted a lower court order that had blocked President Trump's executive order requiring government agencies to lay off hundreds of thousands of federal employees.\r\nThe or… [+4317 chars]",
-      "tags": ["government_administration", "legal_justice", "federal_courts"]
+      "tags": [
+        "government_administration",
+        "legal_justice",
+        "federal_courts"
+      ],
+      "publishedAtTs": 1752005611
     },
     {
       "source": {
@@ -140,7 +155,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2Fe6%2F7ffcc0e649558e989bea87fcbafa%2Fgettyimages-2223201846.jpg",
       "publishedAt": "2025-07-08T10:56:58Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+6698 chars]",
-      "tags": ["natural_disasters", "public_health_emergency", "legal_justice"]
+      "tags": [
+        "natural_disasters",
+        "public_health_emergency",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1751972218
     },
     {
       "source": {
@@ -160,7 +180,8 @@
         "health_science",
         "crisis_emergency",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751965200
     },
     {
       "source": {
@@ -174,7 +195,12 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
       "publishedAt": "2025-07-08T16:05:00Z",
       "content": "U.S. authorities do not know who is behind the string of impersonation attempts but they believe the culprit was probably attempting to manipulate powerful government officials \"with the goal of gain… [+630 chars]",
-      "tags": ["security_intelligence", "legal_justice", "media_communications"]
+      "tags": [
+        "security_intelligence",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751990700
     },
     {
       "source": {
@@ -194,7 +220,8 @@
         "nato",
         "russia",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1752000761
     },
     {
       "source": {
@@ -213,7 +240,8 @@
         "federal_agencies",
         "legal_justice",
         "supreme_court"
-      ]
+      ],
+      "publishedAtTs": 1752006729
     },
     {
       "source": {
@@ -231,7 +259,8 @@
         "government_administration",
         "economy_finance",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1751970947
     },
     {
       "source": {
@@ -251,7 +280,8 @@
         "personal_business",
         "media_communications",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751934663
     },
     {
       "source": {
@@ -265,7 +295,12 @@
       "urlToImage": "https://i.insider.com/686bc975f748d8c055f50cd1?width=1200&format=jpeg",
       "publishedAt": "2025-07-08T09:21:01Z",
       "content": "Elon Musk wouldn't be the first prominent businessman to challenge the two-party system.Taylor Hill/WireImage, Brendan Smialowski/AFP, and Robert Giroux/AFP via Getty Images\r\n<ul><li>Elon Musk says h… [+4564 chars]",
-      "tags": ["elections_politics", "economy_finance", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1751966461
     },
     {
       "source": {
@@ -285,7 +320,8 @@
         "civil_rights",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1751944583
     },
     {
       "source": {
@@ -299,7 +335,12 @@
       "urlToImage": "https://i.insider.com/686d550385e81483682d9320?width=1200&format=jpeg",
       "publishedAt": "2025-07-08T17:33:00Z",
       "content": "No one watches TV like this anymore, which is one reason people who own cable TV channels are trying to sell them.Camerique/Archive Photos/Getty Images\r\n<ul><li>Comcast is getting rid of most of its … [+2578 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751995980
     },
     {
       "source": {
@@ -313,7 +354,12 @@
       "urlToImage": "https://i.insider.com/686be3d0f748d8c055f50f8d?width=1200&format=jpeg",
       "publishedAt": "2025-07-08T08:04:01Z",
       "content": "President Donald Trump's spending bill places new caps on student loans for graduate students.Samuel Corum/Getty Images\r\n<ul><li>Trump signed his \"big beautiful\" tax and spending bill into law on Jul… [+4563 chars]",
-      "tags": ["policy_legislation", "education", "economy_finance"]
+      "tags": [
+        "policy_legislation",
+        "education",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1751961841
     },
     {
       "source": {
@@ -327,7 +373,12 @@
       "urlToImage": "https://i.insider.com/686c461bf748d8c055f51d31?width=1200&format=jpeg",
       "publishedAt": "2025-07-08T00:31:01Z",
       "content": "Elon Musk's America Party is page out of the Tesla CEO's \"playbook,\" Jeffrey Sonnenfeld, a Yale School of Management leadership professor, told BI.Tom Brenner For The Washington Post via Getty Images… [+7970 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751934661
     },
     {
       "source": {
@@ -345,7 +396,8 @@
         "media_communications",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752007357
     },
     {
       "source": {
@@ -359,7 +411,12 @@
       "urlToImage": "https://media.zenfs.com/en/the_spun_articles_751/c5c8ede4de8afbb3ffe317da27d87fd5",
       "publishedAt": "2025-07-08T21:48:25Z",
       "content": "WNBA Star Issues 'Threat' To President Trump originally appeared on The Spun.\r\nA prominent WNBA star has issued what some are deeming a \"warning\" and \"threat\" to President Donald J. Trump and ICE age… [+2625 chars]",
-      "tags": ["social_issues", "legal_justice", "security_intelligence"]
+      "tags": [
+        "social_issues",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752011305
     },
     {
       "source": {
@@ -373,7 +430,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YDY6aqxpLhl9DfSViRNCqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/6d3efb90-5c3d-11f0-bf03-30fbf924ed6f",
       "publishedAt": "2025-07-08T23:04:07Z",
       "content": "US stock futures wavered as President Trump ratcheted up trade tensions with US trade partners.\r\nFutures attached to the Dow Jones Industrial Average (YM=F) and the benchmark S&amp;P 500 (ES=F) held … [+1004 chars]",
-      "tags": ["economy_finance", "foreign_policy", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752015847
     },
     {
       "source": {
@@ -387,7 +449,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BH1DLuC08YMYTfG8vxSYdg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/politico_453/1a354daf56a0392070be2eb5af0165f8",
       "publishedAt": "2025-07-08T18:10:48Z",
       "content": "President Donald Trump on Tuesday suggested he might have taken a different approach to slashing government than his one-time adviser Elon Musk.\r\nWe could have done it differently, the president said… [+1063 chars]",
-      "tags": ["government_operations", "executive_orders", "personal_business"]
+      "tags": [
+        "government_operations",
+        "executive_orders",
+        "personal_business"
+      ],
+      "publishedAtTs": 1751998248
     },
     {
       "source": {
@@ -407,7 +474,8 @@
         "economy_finance",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751947771
     },
     {
       "source": {
@@ -427,7 +495,8 @@
         "foreign_policy",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751989860
     },
     {
       "source": {
@@ -441,7 +510,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/0857fe748aebb747bb8b416e73601c6b",
       "publishedAt": "2025-07-08T23:35:11Z",
       "content": "By Andrea Shalal and David Lawder\r\nWASHINGTON (Reuters) -Treasury Secretary Scott Bessent on Tuesday said the U.S. has taken in about $100 billion in tariff income so far this year, and this could gr… [+2414 chars]",
-      "tags": ["economy_finance", "taxes", "trade"]
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "trade"
+      ],
+      "publishedAtTs": 1752017711
     },
     {
       "source": {
@@ -459,7 +533,8 @@
         "elections_politics",
         "government_administration",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751999245
     },
     {
       "source": {
@@ -473,7 +548,11 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/9757c20a3a094fdd067a5b8c079b99f6",
       "publishedAt": "2025-07-08T15:44:38Z",
       "content": "By Rich McKay and Jonathan Allen\r\n(Reuters) -The death toll in Kerr County crept up to 87 on Tuesday as search and rescue teams recovered three more bodies in the flood-ravaged hills of central Texas… [+2630 chars]",
-      "tags": ["natural_disasters", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1751989478
     },
     {
       "source": {
@@ -487,7 +566,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/492edd41d108bd5f9b40709b5d9e33b0",
       "publishedAt": "2025-07-08T00:50:32Z",
       "content": "By Stephanie Kelly\r\n(Reuters) -Oil prices eased on Tuesday after rising almost 2% in the previous session, as investors assessed new developments on U.S. tariffs and a higher-than-expected OPEC+ outp… [+1886 chars]",
-      "tags": ["economy_finance", "foreign_policy", "energy"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "energy"
+      ],
+      "publishedAtTs": 1751935832
     },
     {
       "source": {
@@ -501,7 +585,12 @@
       "urlToImage": "https://media.zenfs.com/en/snopes_632/d60daf2c7ce274928ae2d462292da358",
       "publishedAt": "2025-07-08T14:38:00Z",
       "content": "Why is there not a rating on this post? There's not enough verified evidence for us to definitively confirm or debunk this rumor. Contact us if you have credible information to share. We'll update th… [+8506 chars]",
-      "tags": ["media_communications", "elections_politics", "social_issues"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751985480
     },
     {
       "source": {
@@ -521,7 +610,8 @@
         "tourism",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1751950301
     },
     {
       "source": {
@@ -541,7 +631,8 @@
         "social_issues",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751976000
     },
     {
       "source": {
@@ -555,7 +646,12 @@
       "urlToImage": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/07/Superman-and-Krypto.jpg?quality=90&strip=all&crop=0%2C2.8473478935566%2C100%2C94.305304212887&w=1200",
       "publishedAt": "2025-07-08T18:21:32Z",
       "content": "Ever since the 1978-1987 run of Superman movies starring Christopher Reeve ended, filmmakers have been puzzling over how to make the character vulnerable in a meaningful way, to ensure that dramatic … [+8973 chars]",
-      "tags": ["media_communications", "health_science", "personal_family"]
+      "tags": [
+        "media_communications",
+        "health_science",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751998892
     },
     {
       "source": {
@@ -574,7 +670,8 @@
         "economy_finance",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751990831
     },
     {
       "source": {
@@ -594,7 +691,8 @@
         "doj_actions",
         "security_intelligence",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1751995958
     },
     {
       "source": {
@@ -614,7 +712,8 @@
         "washington_dc",
         "regional_state",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752003693
     },
     {
       "source": {
@@ -634,7 +733,8 @@
         "federal_agencies",
         "legal_justice",
         "supreme_court"
-      ]
+      ],
+      "publishedAtTs": 1752005152
     },
     {
       "source": {
@@ -654,7 +754,8 @@
         "legal_justice",
         "government_administration",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751941708
     },
     {
       "source": {
@@ -668,7 +769,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a2b0fc89-54bf-443b-93d8-319830eb67c7/250708_abc_social_nolocator_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-08T21:26:58Z",
       "content": "<ul><li>3 killed as flash flooding hits Southwest\r\n</li><li>Death toll rises to 110 after deadly Texas floods\r\n</li><li>Trump criticizes Putin as US prepares to send more weapons to Ukraine\r\n</li><li… [+4560 chars]",
-      "tags": ["natural_disasters", "texas", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "texas",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752010018
     },
     {
       "source": {
@@ -682,7 +788,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bff381a3-3245-4be8-8e8a-8b96e756a7c8/250708_gma_social_lauper_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-08T16:09:37Z",
       "content": "<ul><li>We cry with them: Chaplain on comforting Texas families with missing children\r\n</li><li>Israel-Hamas ceasefire talks continue in Qatar\r\n</li><li>All parties edging in the right direction on c… [+4374 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1751990977
     },
     {
       "source": {
@@ -702,7 +812,8 @@
         "security_intelligence",
         "media_communications",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1751997032
     },
     {
       "source": {
@@ -720,7 +831,8 @@
         "security_intelligence",
         "technology_regulation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1751996125
     },
     {
       "source": {
@@ -740,7 +852,8 @@
         "health_science",
         "security_intelligence",
         "science_policy"
-      ]
+      ],
+      "publishedAtTs": 1751974596
     },
     {
       "source": {
@@ -754,7 +867,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/Nintendo-Switch-2-1920x1280-33-1200x675.jpg",
       "publishedAt": "2025-07-08T17:41:34Z",
       "content": "Nintendo’s Switch 2 may have avoided a tariff-related disaster at launch, but today is a new day full of fresh economic horrors, and that means (unfortunately for everyone) potentially new and more d… [+4232 chars]",
-      "tags": ["economy_finance", "technology_regulation", "trade"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "trade"
+      ],
+      "publishedAtTs": 1751996494
     },
     {
       "source": {
@@ -774,7 +892,8 @@
         "media_communications",
         "health_science",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751991484
     },
     {
       "source": {
@@ -788,7 +907,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-david-corenswet-1200x675.jpg",
       "publishedAt": "2025-07-08T14:30:14Z",
       "content": "It is unsurprising to anyone with even an iota of experience with Supermanwhether they’ve picked up a comic, watched a TV show, or seen a movie at any point over the last nearly 90 yearsthat the char… [+3750 chars]",
-      "tags": ["free_speech", "civil_rights", "social_issues"]
+      "tags": [
+        "free_speech",
+        "civil_rights",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751985014
     },
     {
       "source": {
@@ -808,7 +932,8 @@
         "media_communications",
         "personal_family",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1751968800
     },
     {
       "source": {
@@ -828,7 +953,8 @@
         "national_security",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751972400
     },
     {
       "source": {
@@ -842,7 +968,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/J_xDnR1fprJn2_wr_FW1ooQ1WnM=/0x41:1917x1039/1200x625/media/img/2025/07/atlantic_Nukes_anniversary_asia_opener/original.jpg",
       "publishedAt": "2025-07-08T09:45:00Z",
       "content": "Illustrations by Michael HaddadKeiko Ogura was just 8 years old when the atoms in the Hiroshima bomb started splitting. When we met in January, some 300 feet from where the bomb struck, Ogura was 87.… [+40047 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "arms_control"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "arms_control"
+      ],
+      "publishedAtTs": 1751967900
     },
     {
       "source": {
@@ -862,7 +993,8 @@
         "policy_legislation",
         "environment",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751981400
     },
     {
       "source": {
@@ -882,7 +1014,8 @@
         "security_intelligence",
         "crisis_emergency",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751970804
     },
     {
       "source": {
@@ -896,7 +1029,12 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/Macs-and-Apple-Watch-to-be-hit-by-Trump-tariffs-starting-on-August-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-07-08T11:15:03Z",
       "content": "Macs and Apple Watches are among the products to be hit by new tariffs on products manufactured in Thailand, taking effect on August 1.\r\nProducts imported from Thailand into the US will be subjected … [+2309 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1751973303
     },
     {
       "source": {
@@ -916,7 +1054,8 @@
         "government_administration",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751992200
     },
     {
       "source": {
@@ -930,7 +1069,12 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/2b5b76f6408b858c/original/Death-of-archimedes.jpg?m=1751983367.134&w=1200",
       "publishedAt": "2025-07-08T14:00:00Z",
       "content": "One of history’s dark jokes is that the Roman Empire, for all its vaunted accomplishments, only made a single great “contribution” to science: the killing of Archimedes. Today the U.S. risks sufferin… [+6666 chars]",
-      "tags": ["health_science", "science_policy", "government_administration"]
+      "tags": [
+        "health_science",
+        "science_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1751983200
     },
     {
       "source": {
@@ -950,7 +1094,8 @@
         "natural_disasters",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751972426
     },
     {
       "source": {
@@ -968,7 +1113,8 @@
         "media_communications",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751998323
     },
     {
       "source": {
@@ -988,7 +1134,8 @@
         "media_communications",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1751968800
     },
     {
       "source": {
@@ -1002,7 +1149,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64296-133962-62325-129170-61700-127719-macminim4review-1-xl-xl-xl.jpg",
       "publishedAt": "2025-07-08T20:05:17Z",
       "content": "Apple's Mac shipments are continuing to grow faster than the rest of the PC market, a report claims, as retailers prepare for an influx of tariff costs. \r\nIn a report from IDC on Tuesday, global PC s… [+2104 chars]",
-      "tags": ["economy_finance", "trade", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752005117
     },
     {
       "source": {
@@ -1016,7 +1168,12 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/PSQehmsugppZePQK97H4DA.jpg",
       "publishedAt": "2025-07-08T15:34:51Z",
       "content": "The ever-growing-in-length Amazon Prime Day here, bringing nearly a full week of discounts as sales, with competing retailers also putting out some noteworthy discounts. Right now, you can get an Xbo… [+2352 chars]",
-      "tags": ["technology_regulation", "economy_finance", "personal_business"]
+      "tags": [
+        "technology_regulation",
+        "economy_finance",
+        "personal_business"
+      ],
+      "publishedAtTs": 1751988891
     },
     {
       "source": {
@@ -1036,7 +1193,8 @@
         "climate_policy",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752005181
     },
     {
       "source": {
@@ -1056,7 +1214,8 @@
         "economy_finance",
         "technology_regulation",
         "small_business"
-      ]
+      ],
+      "publishedAtTs": 1751977445
     },
     {
       "source": {
@@ -1075,7 +1234,8 @@
         "legal_justice",
         "social_issues",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1751965445
     },
     {
       "source": {
@@ -1089,7 +1249,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/07/trump.jpg",
       "publishedAt": "2025-07-08T18:23:04Z",
       "content": "During the cursed 2024 presidential campaign, close watchers of abortion rightsincluding Jezebelnoted that Donald Trump seemed to be faking a moderate position just so he could get elected. As we sai… [+4380 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751998984
     },
     {
       "source": {
@@ -1109,7 +1274,8 @@
         "security_intelligence",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751991510
     },
     {
       "source": {
@@ -1123,7 +1289,12 @@
       "urlToImage": "https://www.jalopnik.com/img/gallery/why-were-subaru-diesel-engines-never-sold-in-the-us/l-intro-1750884303.jpg",
       "publishedAt": "2025-07-08T09:25:00Z",
       "content": "Diesel fuel has some important benefits over gasoline including the fact it contains more energy per gallon but unlocking that advantage also requires a slightly different process. In a gas engine, p… [+1290 chars]",
-      "tags": ["automotive", "energy", "technology_regulation"]
+      "tags": [
+        "automotive",
+        "energy",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1751966700
     },
     {
       "source": {
@@ -1143,7 +1314,8 @@
         "appointments",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1752008400
     },
     {
       "source": {
@@ -1163,7 +1335,8 @@
         "social_issues",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751949000
     },
     {
       "source": {
@@ -1183,7 +1356,8 @@
         "technology_regulation",
         "health_science",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752001200
     },
     {
       "source": {
@@ -1203,7 +1377,8 @@
         "government_administration",
         "budget",
         "space_policy"
-      ]
+      ],
+      "publishedAtTs": 1751979600
     },
     {
       "source": {
@@ -1223,7 +1398,8 @@
         "government_administration",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751996022
     },
     {
       "source": {
@@ -1243,7 +1419,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752013923
     },
     {
       "source": {
@@ -1257,7 +1434,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-08T12:20:42Z",
       "content": "from the this-is-why-we-can't-have-nice-things dept\r\nHowever terrible telecom monopolies are in the free world, theyre arguably worse in prisons. \r\nFor decades, journalists and researchers have outli… [+3427 chars]",
-      "tags": ["economy_finance", "legal_justice", "security_intelligence"]
+      "tags": [
+        "economy_finance",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1751977242
     },
     {
       "source": {
@@ -1271,7 +1453,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-08T16:18:42Z",
       "content": "from the an-updating dept\r\nWith apologies to Dorothy Thompson, whose 1941 essay in Harpers,Who Goes Nazi?remains a worthwhile read on the cultural archetypes of who is drawn to fascism, and who would… [+16235 chars]",
-      "tags": ["social_issues", "media_communications", "elections_politics"]
+      "tags": [
+        "social_issues",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1751991522
     },
     {
       "source": {
@@ -1291,7 +1478,8 @@
         "federal_courts",
         "government_administration",
         "government_operations"
-      ]
+      ],
+      "publishedAtTs": 1752014378
     },
     {
       "source": {
@@ -1311,7 +1499,8 @@
         "natural_disasters",
         "security_intelligence",
         "public_health"
-      ]
+      ],
+      "publishedAtTs": 1751986746
     },
     {
       "source": {
@@ -1325,7 +1514,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/LucyJones_Final.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-07-08T19:58:33Z",
       "content": "Prior to Kanye West, Lawrence Dennis was America’s most famous Black fascist.\n\nBorn in 1893, Dennis had European features and light skin that allowed him to pass for white, which he did for nearly hi… [+32616 chars]",
-      "tags": ["social_issues", "legal_justice", "media_communications"]
+      "tags": [
+        "social_issues",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752004713
     },
     {
       "source": {
@@ -1339,7 +1533,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2222312159.jpg?quality=90&strip=all&crop=0%2C10.728766115548%2C100%2C78.542467768905&w=1200",
       "publishedAt": "2025-07-08T19:55:50Z",
       "content": "Care workers with the Service Employees International Union (SEIU)  chant, rally outside the US Capitol on June 26, 2025 in Washington, DC. | Tasos Katopodis/Getty Images for SEIU\r\n\n\nLast week, the S… [+12898 chars]",
-      "tags": ["healthcare", "policy_legislation", "government_administration"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752004550
     },
     {
       "source": {
@@ -1358,7 +1557,8 @@
         "climate_policy",
         "natural_disasters",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1751992837
     },
     {
       "source": {
@@ -1378,7 +1578,8 @@
         "media_criticism",
         "personal_legal",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1751998070
     },
     {
       "source": {
@@ -1398,7 +1599,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1751995808
     },
     {
       "source": {
@@ -1418,7 +1620,8 @@
         "policy_legislation",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1751958648
     },
     {
       "source": {
@@ -1438,7 +1641,8 @@
         "social_issues",
         "health_science",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752012000
     },
     {
       "source": {
@@ -1452,7 +1656,12 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/vote.jpg",
       "publishedAt": "2025-07-08T16:29:04Z",
       "content": "During his recent public spat with Donald Trump, Elon Musk tweeted a poll asking if a new political party would better represent the 80% of voters in the middle. Hundreds of thousands of people respo… [+6637 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1751992144
     },
     {
       "source": {
@@ -1471,7 +1680,8 @@
         "family_activities",
         "education",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752007832
     },
     {
       "source": {
@@ -1491,7 +1701,8 @@
         "economy_finance",
         "government_administration",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1751996316
     },
     {
       "source": {
@@ -1511,7 +1722,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1751999794
     },
     {
       "source": {
@@ -1525,7 +1737,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752010135.jpg?resize=1920%2C1061&quality=80",
       "publishedAt": "2025-07-08T23:55:33Z",
       "content": "Israels Netanyahu discusses Gaza ceasefire in third meeting with Trump at the White House this year.Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump meet again.\r\nTheir third me… [+822 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel"
+      ],
+      "publishedAtTs": 1752018933
     },
     {
       "source": {
@@ -1544,7 +1761,8 @@
         "international_organizations",
         "foreign_policy",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1751978713
     },
     {
       "source": {
@@ -1558,7 +1776,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752004649.jpg?resize=1620%2C1080&quality=80",
       "publishedAt": "2025-07-08T19:58:04Z",
       "content": "NewsFeed\r\nIsraeli Prime Minister Benjamin Netanyahu said he would meet with President Trump again on Tuesday to discuss a Gaza ceasefire. He also praised Washingtons unprecedented military ties with … [+54 chars]",
-      "tags": ["foreign_policy", "middle_east", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752004684
     },
     {
       "source": {
@@ -1572,7 +1795,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-07T145921Z_78424735_RC2Y0FA5MNF0_RTRMADP_3_IRAN-NUCLEAR-PRESIDENT-1751976470.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-08T15:00:34Z",
       "content": "Iran says it has not requested talks with the United States over its nuclear programme, as claimed by US President Donald Trump.\r\nNo request for a meeting has been made on our side to the American si… [+3422 chars]",
-      "tags": ["foreign_policy", "middle_east", "iran"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "iran"
+      ],
+      "publishedAtTs": 1751986834
     },
     {
       "source": {
@@ -1592,7 +1820,8 @@
         "security_intelligence",
         "crisis_emergency",
         "israel"
-      ]
+      ],
+      "publishedAtTs": 1751994920
     },
     {
       "source": {
@@ -1606,7 +1835,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25187787715354-1751917454.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-08T21:43:57Z",
       "content": "United States President Donald Trump has said he will announce a 50 percent tariff on copper, hoping to boost domestic production of a metal critical to electric vehicles, military hardware, the powe… [+3494 chars]",
-      "tags": ["economy_finance", "trade", "energy"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1752011037
     },
     {
       "source": {
@@ -1620,7 +1854,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25188849387954-1751956802.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-08T09:41:01Z",
       "content": "Israeli Prime Minister Benjamin Netanyahu has met United States President Donald Trump at the White House, with the two leaders repeating their controversial proposal to forcibly transfer thousands o… [+5374 chars]",
-      "tags": ["foreign_policy", "middle_east", "social_issues", "civil_rights"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "social_issues",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1751967661
     },
     {
       "source": {
@@ -1639,7 +1879,8 @@
         "middle_east",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752005785
     },
     {
       "source": {
@@ -1653,7 +1894,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1751980565.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-07-08T13:16:27Z",
       "content": "NewsFeed\r\nThe US president and Israeli prime minister pushed their controversial plan to displace Palestinians from Gaza as they met at the White House, with Netanyahu rejecting a Palestinian state a… [+20 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel"
+      ],
+      "publishedAtTs": 1751980587
     },
     {
       "source": {
@@ -1673,7 +1919,8 @@
         "ukraine",
         "economy_finance",
         "sanctions"
-      ]
+      ],
+      "publishedAtTs": 1752000332
     },
     {
       "source": {
@@ -1692,7 +1939,8 @@
         "trade",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1751966071
     }
   ]
 }

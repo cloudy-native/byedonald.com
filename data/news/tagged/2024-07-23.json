@@ -19,7 +19,8 @@
         "2028_presidential",
         "political_endorsements",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1721778460
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "2028_presidential",
         "political_endorsements",
         "campaign_events"
-      ]
+      ],
+      "publishedAtTs": 1721778415
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "2028_presidential",
         "political_endorsements",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1721778343
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "2028_presidential",
         "campaign_finance",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1721778203
     },
     {
       "source": {
@@ -95,7 +99,8 @@
         "security_incidents",
         "legal_justice",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1721776968
     },
     {
       "source": {
@@ -114,7 +119,8 @@
         "2028_presidential",
         "voting_rights",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1721775600
     },
     {
       "source": {
@@ -133,7 +139,8 @@
         "campaign_finance",
         "legal_justice",
         "federal_courts"
-      ]
+      ],
+      "publishedAtTs": 1721775600
     },
     {
       "source": {
@@ -152,7 +159,8 @@
         "security_incidents",
         "legal_justice",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1721775600
     },
     {
       "source": {
@@ -171,7 +179,8 @@
         "campaign_finance",
         "legal_justice",
         "federal_courts"
-      ]
+      ],
+      "publishedAtTs": 1721775600
     },
     {
       "source": {
@@ -190,7 +199,8 @@
         "security_incidents",
         "legal_justice",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1721775600
     },
     {
       "source": {
@@ -209,7 +219,8 @@
         "2028_presidential",
         "political_endorsements",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1721773967
     },
     {
       "source": {
@@ -228,7 +239,8 @@
         "2028_presidential",
         "campaign_events",
         "campaign_finance"
-      ]
+      ],
+      "publishedAtTs": 1721772000
     },
     {
       "source": {
@@ -247,7 +259,8 @@
         "2028_presidential",
         "political_endorsements",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721768701
     },
     {
       "source": {
@@ -261,7 +274,13 @@
       "urlToImage": "https://media.zenfs.com/en/business_insider_articles_888/dfc424a7d8f1db117f99bfdfd75d198f",
       "publishedAt": "2024-07-23T20:57:21Z",
       "content": "Republican presidential nominee Donald Trump has said he wants a weaker dollar to boost US exports.\nEconomists and analysts say a weak dollar policy would be costly and politically difficult to implement.\nThe ongoing political uncertainty in the US i... [3473 chars]",
-      "tags": ["economy_finance", "trade", "banking", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "trade",
+        "banking",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721768241
     },
     {
       "source": {
@@ -280,7 +299,8 @@
         "lifestyle",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721768047
     },
     {
       "source": {
@@ -299,7 +319,8 @@
         "2028_presidential",
         "campaign_events",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1721767826
     },
     {
       "source": {
@@ -318,7 +339,8 @@
         "2028_presidential",
         "campaign_events",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1721767102
     },
     {
       "source": {
@@ -337,7 +359,8 @@
         "stock_market",
         "elections_politics",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1721766269
     },
     {
       "source": {
@@ -356,7 +379,8 @@
         "2028_presidential",
         "campaign_events",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1721766144
     },
     {
       "source": {
@@ -375,7 +399,8 @@
         "lifestyle",
         "foreign_policy",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721766018
     },
     {
       "source": {
@@ -394,7 +419,8 @@
         "2028_presidential",
         "political_endorsements",
         "voting_rights"
-      ]
+      ],
+      "publishedAtTs": 1721765544
     },
     {
       "source": {
@@ -413,7 +439,8 @@
         "criminal_cases",
         "policy_legislation",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1721765253
     },
     {
       "source": {
@@ -432,7 +459,8 @@
         "security_incidents",
         "media_communications",
         "social_media"
-      ]
+      ],
+      "publishedAtTs": 1721764825
     }
   ]
 }

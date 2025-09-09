@@ -20,7 +20,8 @@
         "education",
         "social_issues",
         "lgbtq_rights"
-      ]
+      ],
+      "publishedAtTs": 1746230090
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "legal_justice",
         "media_communications",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1746229354
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.livemint.com/lm-img/img/2025/05/02/1600x900/us_visa_1733841720662_1746207284852.jpeg",
       "publishedAt": "2025-05-02T23:17:35Z",
       "content": "Donald Trump administrations' series of federal cuts, tariff threats, ongoing deportations had already caused the POTUS to receive the lowest approval rating in years. Amid all this, the United States Citizenship and Immigration Services (USCIS) has ... [1866 chars]",
-      "tags": ["immigration", "government_administration", "policy_legislation"]
+      "tags": [
+        "immigration",
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746227855
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/00abc644111010361279cb6dff527759b0293fe761a2426a655c9b409377acad.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-02T23:01:12Z",
       "content": "WASHINGTON (AP) — The Army on Friday confirmed there will be a military parade on President Donald Trump’s birthday in June, as part of the celebrations around the service’s 250th birthday.\nPlans for the parade, as first detailed by The Associated Pr... [2835 chars]",
-      "tags": ["military", "government_operations", "personal_family"]
+      "tags": [
+        "military",
+        "government_operations",
+        "personal_family"
+      ],
+      "publishedAtTs": 1746226872
     },
     {
       "source": {
@@ -82,7 +94,8 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDMyMTM0MjNcXFwvMi43OTk2NTIxMS1lMTc0NjMwNTMzOTQwMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjQ0MDJhNjRlNTFjNTZkMmI0MGFiYjdhYzZjZjY5ODY2M2U5MDdlNzkifQ==/mark-williams-books-final-spot-with-win-over-judd-trump.jpg",
       "publishedAt": "2025-05-02T23:00:00Z",
       "content": "Mark Williams produced a vintage performance to beat world number one Judd Trump and book his place in the final of the World Snooker Championship in Sheffield.\nWilliams, 50, who is bidding to win his fourth title and become the oldest champion in to... [1982 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1746226800
     }
   ]
 }

@@ -20,7 +20,8 @@
         "regional_state",
         "florida",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756842264
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "government_administration",
         "legal_justice",
         "personnel"
-      ]
+      ],
+      "publishedAtTs": 1756855191
     },
     {
       "source": {
@@ -56,7 +58,8 @@
         "economy_finance",
         "automotive",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756833428
     },
     {
       "source": {
@@ -73,7 +76,8 @@
       "tags": [
         "media_communications",
         "artificial_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756846836
     },
     {
       "source": {
@@ -91,7 +95,8 @@
         "cryptocurrency",
         "economy_finance",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1756845612
     },
     {
       "source": {
@@ -109,7 +114,8 @@
         "technology_regulation",
         "social_issues",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756841410
     },
     {
       "source": {
@@ -126,7 +132,8 @@
       "tags": [
         "social_issues",
         "free_speech"
-      ]
+      ],
+      "publishedAtTs": 1756840323
     },
     {
       "source": {
@@ -143,7 +150,8 @@
       "tags": [
         "voting_rights",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1756840589
     },
     {
       "source": {
@@ -161,7 +169,8 @@
         "legal_justice",
         "immigration",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756822935
     },
     {
       "source": {
@@ -180,7 +189,8 @@
         "brazil",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1756803600
     },
     {
       "source": {
@@ -198,7 +208,8 @@
         "government_administration",
         "policy_legislation",
         "budget"
-      ]
+      ],
+      "publishedAtTs": 1756839038
     },
     {
       "source": {
@@ -215,7 +226,8 @@
       "tags": [
         "environment",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1756818000
     },
     {
       "source": {
@@ -233,7 +245,8 @@
         "legal_justice",
         "immigration",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756845217
     },
     {
       "source": {
@@ -251,7 +264,8 @@
         "elections_politics",
         "republican_party",
         "leadership"
-      ]
+      ],
+      "publishedAtTs": 1756807621
     },
     {
       "source": {
@@ -270,7 +284,8 @@
         "technology_regulation",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1756811774
     },
     {
       "source": {
@@ -288,7 +303,8 @@
         "economy_finance",
         "federal_agencies",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756790537
     },
     {
       "source": {
@@ -305,7 +321,8 @@
       "tags": [
         "personal_family",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1756787437
     },
     {
       "source": {
@@ -322,7 +339,8 @@
       "tags": [
         "taxes",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756832552
     },
     {
       "source": {
@@ -339,7 +357,8 @@
       "tags": [
         "technology_regulation",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1756823611
     },
     {
       "source": {
@@ -356,7 +375,8 @@
       "tags": [
         "economy_finance",
         "labor"
-      ]
+      ],
+      "publishedAtTs": 1756831222
     },
     {
       "source": {
@@ -375,7 +395,8 @@
         "china",
         "russia",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1756846890
     },
     {
       "source": {
@@ -389,7 +410,8 @@
       "urlToImage": "https://i.insider.com/688aa90185e81483682eff0e?width=1200&format=jpeg",
       "publishedAt": "2025-09-02T11:32:01Z",
       "content": "Tesla rejected 11 investor proposals calling for accountability and sustainability ahead of its annual shareholder meeting.Lisi Niesner/REUTERS\r\n<ul><li>Tesla scheduled its shareholder meeting for No… [+6098 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756812721
     },
     {
       "source": {
@@ -407,7 +429,8 @@
         "personal_family",
         "media_communications",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756841559
     },
     {
       "source": {
@@ -425,7 +448,8 @@
         "elections_politics",
         "republican_party",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756828321
     },
     {
       "source": {
@@ -442,7 +466,8 @@
       "tags": [
         "public_health",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1756814400
     },
     {
       "source": {
@@ -460,7 +485,8 @@
         "government_administration",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756822123
     },
     {
       "source": {
@@ -477,7 +503,8 @@
       "tags": [
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756836151
     },
     {
       "source": {
@@ -494,7 +521,8 @@
       "tags": [
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756841192
     },
     {
       "source": {
@@ -512,7 +540,8 @@
         "space_policy",
         "military",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756823626
     },
     {
       "source": {
@@ -529,7 +558,8 @@
       "tags": [
         "banking",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1756809298
     },
     {
       "source": {
@@ -548,7 +578,8 @@
         "inflation",
         "taxes",
         "budget"
-      ]
+      ],
+      "publishedAtTs": 1756810431
     },
     {
       "source": {
@@ -565,7 +596,8 @@
       "tags": [
         "economy_finance",
         "automotive"
-      ]
+      ],
+      "publishedAtTs": 1756788389
     },
     {
       "source": {
@@ -583,7 +615,8 @@
         "elections_politics",
         "regional_state",
         "new_york"
-      ]
+      ],
+      "publishedAtTs": 1756809058
     },
     {
       "source": {
@@ -602,7 +635,8 @@
         "israel",
         "gaza",
         "trump"
-      ]
+      ],
+      "publishedAtTs": 1756804491
     },
     {
       "source": {
@@ -620,7 +654,8 @@
         "policy_legislation",
         "immigration",
         "education"
-      ]
+      ],
+      "publishedAtTs": 1756833466
     },
     {
       "source": {
@@ -637,7 +672,8 @@
       "tags": [
         "economy_finance",
         "stock_market"
-      ]
+      ],
+      "publishedAtTs": 1756847496
     },
     {
       "source": {
@@ -654,7 +690,8 @@
       "tags": [
         "foreign_policy",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1756807427
     },
     {
       "source": {
@@ -671,7 +708,8 @@
       "tags": [
         "law_enforcement",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756829247
     },
     {
       "source": {
@@ -689,7 +727,8 @@
         "legal_justice",
         "law_enforcement",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756821351
     },
     {
       "source": {
@@ -706,7 +745,8 @@
       "tags": [
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756826810
     },
     {
       "source": {
@@ -723,7 +763,8 @@
       "tags": [
         "legal_justice",
         "congress"
-      ]
+      ],
+      "publishedAtTs": 1756850378
     },
     {
       "source": {
@@ -737,7 +778,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2e3fd1d9-6b39-4586-b917-4ea5948418ac/capitol-2-epa-gmh-250901_1756759751279_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-09-02T09:19:02Z",
       "content": "As lawmakers finally return to the Capitol after a six-week break, perhaps the most critical legislative item looming is the deadline to fund the government -- and Republicans are set to face questio… [+8847 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756804742
     },
     {
       "source": {
@@ -755,7 +797,8 @@
         "personal_family",
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756830882
     },
     {
       "source": {
@@ -773,7 +816,8 @@
         "health_science",
         "public_health",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756832382
     },
     {
       "source": {
@@ -791,7 +835,8 @@
         "government_administration",
         "legal_justice",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1756851578
     },
     {
       "source": {
@@ -809,7 +854,8 @@
         "foreign_policy",
         "china",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1756800462
     },
     {
       "source": {
@@ -823,7 +869,8 @@
       "urlToImage": "https://media.newyorker.com/photos/68af7ec804a816a523db945f/16:9/w_1280,c_limit/GLACHEN---NUCLEAR-RISK---GettyImages-514866568.jpg",
       "publishedAt": "2025-09-02T10:00:00Z",
       "content": "In Preventing Nuclear War, an essay published in the Bulletin of the Atomic Scientists, in 1981, the Harvard law professor Roger Fisher imagines a President in the White House, discussing nuclear war… [+12706 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756807200
     },
     {
       "source": {
@@ -837,7 +884,8 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Cameron-and-Tyler-Winklevoss-1.jpg",
       "publishedAt": "2025-09-02T18:30:35Z",
       "content": "The Winklevoss twins are aiming for a $2.22 billion IPO for their cryptocurrency exchange Gemini, the company announced in a press release on Tuesday.\r\nCrypto is having a moment thanks to the Trump a… [+4159 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756837835
     },
     {
       "source": {
@@ -856,7 +904,8 @@
         "executive_orders",
         "federal_agencies",
         "labor"
-      ]
+      ],
+      "publishedAtTs": 1756840238
     },
     {
       "source": {
@@ -874,7 +923,8 @@
         "foreign_policy",
         "trade",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756843258
     },
     {
       "source": {
@@ -891,7 +941,8 @@
       "tags": [
         "artificial_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756835704
     },
     {
       "source": {
@@ -908,7 +959,8 @@
       "tags": [
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756854600
     },
     {
       "source": {
@@ -927,7 +979,8 @@
         "china",
         "russia",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1756833659
     },
     {
       "source": {
@@ -945,7 +998,8 @@
         "social_issues",
         "free_speech",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1756851643
     },
     {
       "source": {
@@ -963,7 +1017,8 @@
         "trade",
         "economy_finance",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756790525
     },
     {
       "source": {
@@ -981,7 +1036,8 @@
         "china",
         "foreign_policy",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1756849337
     },
     {
       "source": {
@@ -999,7 +1055,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756821840
     },
     {
       "source": {
@@ -1017,7 +1074,8 @@
         "foreign_policy",
         "russia",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1756840647
     },
     {
       "source": {
@@ -1034,7 +1092,8 @@
       "tags": [
         "artificial_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756850592
     },
     {
       "source": {
@@ -1051,7 +1110,8 @@
       "tags": [
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1756839025
     },
     {
       "source": {
@@ -1065,7 +1125,8 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JmGP7Qw4KRkcpXgu2DX_RQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/97a28140-880c-11f0-bc7f-8e552dafff98",
       "publishedAt": "2025-09-02T14:53:59Z",
       "content": "Congressional leaders return to the hill after a month off and they're facing a pretty full schedule for September from looming budget talks to confirmation hearings, new bills. Yahoo Finance Washing… [+2615 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756824839
     },
     {
       "source": {
@@ -1083,7 +1144,8 @@
         "immigration",
         "foreign_policy",
         "africa"
-      ]
+      ],
+      "publishedAtTs": 1756827777
     },
     {
       "source": {
@@ -1101,7 +1163,8 @@
         "government_administration",
         "economy_finance",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756826366
     },
     {
       "source": {
@@ -1119,7 +1182,8 @@
         "legal_justice",
         "security_intelligence",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1756842359
     },
     {
       "source": {
@@ -1137,7 +1201,8 @@
         "china",
         "trade",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756807275
     },
     {
       "source": {
@@ -1155,7 +1220,8 @@
         "economy_finance",
         "inflation",
         "stock_market"
-      ]
+      ],
+      "publishedAtTs": 1756816240
     },
     {
       "source": {
@@ -1173,7 +1239,8 @@
         "media_communications",
         "social_media",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756843200
     },
     {
       "source": {
@@ -1190,7 +1257,8 @@
       "tags": [
         "media_communications",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756825200
     },
     {
       "source": {
@@ -1207,7 +1275,8 @@
       "tags": [
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756836600
     },
     {
       "source": {
@@ -1224,7 +1293,8 @@
       "tags": [
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756840500
     },
     {
       "source": {
@@ -1242,7 +1312,8 @@
         "government_administration",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1756845308
     },
     {
       "source": {
@@ -1260,7 +1331,8 @@
         "elections_politics",
         "social_issues",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756852364
     },
     {
       "source": {
@@ -1277,7 +1349,8 @@
       "tags": [
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1756830142
     },
     {
       "source": {
@@ -1295,7 +1368,8 @@
         "immigration",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756840589
     },
     {
       "source": {
@@ -1313,7 +1387,8 @@
         "artificial_intelligence",
         "media_communications",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1756815742
     },
     {
       "source": {
@@ -1330,7 +1405,8 @@
       "tags": [
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756832400
     },
     {
       "source": {
@@ -1346,7 +1422,8 @@
       "content": "Channing Tatum became an unexpected scene-stealer when he appeared as Gambit in last year's \"Deadpool &amp; Wolverine.\" The actor made a surprise appearance as the fan-favorite Cajun mutant and didn'… [+1646 chars]",
       "tags": [
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756837200
     },
     {
       "source": {
@@ -1364,7 +1441,8 @@
         "personal_family",
         "media_communications",
         "social_media"
-      ]
+      ],
+      "publishedAtTs": 1756847629
     },
     {
       "source": {
@@ -1382,7 +1460,8 @@
         "trade",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1756848802
     },
     {
       "source": {
@@ -1399,7 +1478,8 @@
       "tags": [
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1756855473
     },
     {
       "source": {
@@ -1416,7 +1496,8 @@
       "tags": [
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1756814400
     },
     {
       "source": {
@@ -1430,7 +1511,8 @@
       "urlToImage": "https://www.nybooks.com/wp-content/uploads/2025/08/lilla_1-092525-900.jpg",
       "publishedAt": "2025-09-02T12:00:00Z",
       "content": "An aristocrat who goes in for democracy is irresistible.\r\n—Dostoevsky\r\nAnyone around and alert during the Long Sixties knows the type. The scion of a wealthy family who gives his fortune to revolutio… [+21693 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756814400
     },
     {
       "source": {
@@ -1448,7 +1530,8 @@
         "security_intelligence",
         "law_enforcement",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1756844254
     },
     {
       "source": {
@@ -1466,7 +1549,8 @@
         "security_intelligence",
         "government_administration",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1756850779
     },
     {
       "source": {
@@ -1484,7 +1568,8 @@
         "energy",
         "policy_legislation",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1756838990
     },
     {
       "source": {
@@ -1504,7 +1589,8 @@
         "nato",
         "russia",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1756801521
     },
     {
       "source": {
@@ -1522,7 +1608,8 @@
         "foreign_policy",
         "russia",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1756830921
     },
     {
       "source": {
@@ -1540,7 +1627,8 @@
         "protests",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1756821688
     },
     {
       "source": {
@@ -1558,7 +1646,8 @@
         "legal_justice",
         "security_intelligence",
         "protests"
-      ]
+      ],
+      "publishedAtTs": 1756826451
     },
     {
       "source": {
@@ -1576,7 +1665,8 @@
         "foreign_policy",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1756825536
     },
     {
       "source": {
@@ -1594,7 +1684,8 @@
         "foreign_policy",
         "legal_justice",
         "criminal_cases"
-      ]
+      ],
+      "publishedAtTs": 1756826801
     },
     {
       "source": {
@@ -1608,7 +1699,8 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-01T040829Z_909664688_RC2QIGALZGO7_RTRMADP_3_CHINA-SCO-1756786433.jpg?resize=1920%2C1440",
       "publishedAt": "2025-09-02T06:49:10Z",
       "content": "China and Russia presented their vision of a new international order at the Shanghai Cooperation Organisation (SCO) summit, where Beijing offered new financial incentives to countries aligned with th… [+3766 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1756795750
     },
     {
       "source": {
@@ -1628,7 +1720,8 @@
         "gaza",
         "middle_east",
         "polling"
-      ]
+      ],
+      "publishedAtTs": 1756806047
     },
     {
       "source": {
@@ -1646,7 +1739,8 @@
         "energy",
         "russia",
         "china"
-      ]
+      ],
+      "publishedAtTs": 1756839918
     },
     {
       "source": {
@@ -1664,7 +1758,8 @@
         "china",
         "russia",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1756798932
     },
     {
       "source": {
@@ -1682,7 +1777,8 @@
         "immigration",
         "law_enforcement",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1756819896
     },
     {
       "source": {
@@ -1700,7 +1796,8 @@
         "social_issues",
         "political_endorsements",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1756819896
     }
   ]
 }

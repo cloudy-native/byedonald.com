@@ -18,7 +18,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1723247496
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "media_communications",
         "regional_state",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1723247419
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "media_communications",
         "veterans_affairs",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1723245945
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "travel",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1723245218
     },
     {
       "source": {
@@ -91,7 +95,12 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/08/AP24174756494139.jpg?w=1024&h=683",
       "publishedAt": "2024-08-09T23:13:18Z",
       "content": "A plane carrying former President Donald Trump reportedly made an emergency landing in Billings, Montana Friday afternoon after it was diverted due to a mechanical issue.\nFrom Billings, Trump took a private jet to Bozeman, where he’s holding a Friday... [1485 chars]",
-      "tags": ["security_incidents", "regional_state", "crisis_emergency"]
+      "tags": [
+        "security_incidents",
+        "regional_state",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1723245198
     },
     {
       "source": {
@@ -105,7 +114,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/truth-social-app-afp.jpg?id=27741327&width=1200&height=600&coordinates=0%2C63%2C0%2C64",
       "publishedAt": "2024-08-09T23:10:05Z",
       "content": "Speaking to Politico in an interview, Bob Shrum, an adviser to Kerry, outlined how significant these attacks might be — and how to defuse them.\nWhen it came to Kerry, who received three Purple Hearts, a Silver Star and a Bronze Star, he said, \"In the... [1702 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723245005
     },
     {
       "source": {
@@ -119,7 +133,11 @@
       "urlToImage": "https://images.indianexpress.com/2024/08/Untitled-design-5-3.jpg",
       "publishedAt": "2024-08-09T23:08:13Z",
       "content": "Arrested ED officer personally received Rs 20 lakh bribe, money exchanged in his car: CBI\nCities Updated: August 9, 2024 19:53 IST\nThe CBI has claimed that the assistant director of the ED, arrested for allegedly seeking Rs 20 lakh as bribe by threat... [260 chars]",
-      "tags": ["personal_legal", "media_communications"]
+      "tags": [
+        "personal_legal",
+        "media_communications"
+      ],
+      "publishedAtTs": 1723244893
     },
     {
       "source": {
@@ -133,7 +151,11 @@
       "urlToImage": "https://img.rasset.ie/0020c196-1600.jpg",
       "publishedAt": "2024-08-09T23:00:00Z",
       "content": "Celine Dion's team has criticised Donald Trump for using her classic song My Heart Will Go On during a presidential campaign rally.\nThe Oscar-winning song from the 1997 film Titanic was played during an event in Montana.\nHer management team released ... [2564 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723244400
     },
     {
       "source": {
@@ -153,7 +175,8 @@
         "elections_politics",
         "foreign_policy",
         "russia"
-      ]
+      ],
+      "publishedAtTs": 1723244400
     },
     {
       "source": {
@@ -172,7 +195,8 @@
         "2028_presidential",
         "regional_state",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1723244400
     },
     {
       "source": {
@@ -186,7 +210,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDhcXFwvMTAyMTE1MDhcXFwvMi40Mzk0NDA4MC1lMTcyMzMyMDk3OTc4My5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijc3NDNiYjNkODk0Y2U4Mzk4NDc1OGY1ZmFjMTdhNTE4NzJmZDFjZTIifQ==/celine-dion-s-team-condemn-trump-for-using-my-heart-will-go-on-at-campaign-rally.jpg",
       "publishedAt": "2024-08-09T23:00:00Z",
       "content": "Celine Dion’s team has hit out at Donald Trump for using her classic song My Heart Will Go On during a presidential campaign rally.\nThe Oscar-winning song from 1997 film Titanic was played during an event in Montana.\nAdvertisement\nOn Saturday, her ma... [2673 chars]",
-      "tags": ["media_communications", "personal_family", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1723244400
     },
     {
       "source": {
@@ -204,7 +233,8 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1723244400
     },
     {
       "source": {
@@ -224,7 +254,8 @@
         "2028_presidential",
         "media_communications",
         "statements"
-      ]
+      ],
+      "publishedAtTs": 1723243696
     },
     {
       "source": {
@@ -238,7 +269,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/08/plane-former-president-republican-presidential-87497530.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-08-09T22:44:08Z",
       "content": "Former President Donald Trump’s plane suffered “mechanical issues” on Friday, forcing it to make an unscheduled landing in Montana, The Post has learned.\nTrump’s distinctive Boeing 757, nicknamed Trump Force One, was en route to Bozeman, where the Re... [1683 chars]",
-      "tags": ["crisis_emergency", "personal_family", "regional_state"]
+      "tags": [
+        "crisis_emergency",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1723243448
     },
     {
       "source": {
@@ -252,7 +288,12 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240415-truth-social-donald-trump-vl-1022a-c43b0b.jpg",
       "publishedAt": "2024-08-09T22:28:36Z",
       "content": "Trump Media, the social media company whose majority shareholder is former President Donald Trump, on Friday reported a net loss of more than $16 million for the most recent financial quarter, mostly due to legal expenses, as well as consulting and l... [2577 chars]",
-      "tags": ["economy_finance", "personal_business", "legal_justice"]
+      "tags": [
+        "economy_finance",
+        "personal_business",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1723242516
     },
     {
       "source": {
@@ -266,7 +307,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/709894/uploads/3b3e0470-562a-11ef-862c-f57346be0aaf_1200_630.jpeg",
       "publishedAt": "2024-08-09T22:15:01Z",
       "content": "Donald Trump, never one to shy away from controversy, recently shot down concerns about Vice President Kamala Harris’ growing crowd sizes during her campaign stops. During a feisty press conference at his Mar-a-Lago resort, Trump expressed agitation ... [2986 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723241701
     },
     {
       "source": {
@@ -280,7 +326,12 @@
       "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/08/Trump-Force-One.webp",
       "publishedAt": "2024-08-09T22:13:53Z",
       "content": "Former President Donald Trump’s plane was forced to be rerouted and landed in Billings, Montana, after a mechanical failure.\nTrump Force One was headed to a planned Friday rally at Bozeman, near the campus of Montana State University. His plane was s... [1242 chars]",
-      "tags": ["travel", "security_incidents", "regional_state"]
+      "tags": [
+        "travel",
+        "security_incidents",
+        "regional_state"
+      ],
+      "publishedAtTs": 1723241633
     },
     {
       "source": {
@@ -300,7 +351,8 @@
         "security_incidents",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723241100
     },
     {
       "source": {
@@ -314,7 +366,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2447239/donald-trump-airplane-diverted-montana-rally.jpg",
       "publishedAt": "2024-08-09T22:02:57Z",
       "content": "Former President Donald Trump's airplane was diverted due to a \"mechanical issue\" while en route to a rally in Montana on Friday.\nThe former president was headed to Bozeman on \"Trump Force One\" when the snag forced the aircraft to make an unscheduled... [879 chars]",
-      "tags": ["personal_family", "crisis_emergency", "regional_state"]
+      "tags": [
+        "personal_family",
+        "crisis_emergency",
+        "regional_state"
+      ],
+      "publishedAtTs": 1723240977
     },
     {
       "source": {
@@ -328,7 +385,12 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/08/08/750859f6-093c-4869-98f7-b9a21d346783/thumbnail/1200x630/88b4c6afe227acba2a188b50b96d12d7/trump.jpg?v=0a0c17d349635d55704afd4e16e28fc6",
       "publishedAt": "2024-08-09T22:00:58Z",
       "content": "Trump Media and Technology Group, the social media business owned by former President Donald Trump, said its second-quarter revenue plunged 30% to $836,900 from a year earlier.\nThe company, whose main asset is the social media network Truth Social, a... [1950 chars]",
-      "tags": ["economy_finance", "stock_market", "personal_business"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "personal_business"
+      ],
+      "publishedAtTs": 1723240858
     },
     {
       "source": {
@@ -342,7 +404,12 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/f55f698f-bff3-4a88-9f62-1448e5fdd576/20240809T214619/f55f698f-bff3-4a88-9f62-1448e5fdd576_1140x641.jpg",
       "publishedAt": "2024-08-09T21:56:49Z",
       "content": "A mechanical issue forced the plane to divert to an airport on the other side of the Rockies.\nBOZEMAN, Mont. — Former President Donald Trump headed to Montana for a Friday night rally in hopes of ousting the state's Democratic senator, but his plane ... [6673 chars]",
-      "tags": ["security_incidents", "travel", "personal_business"]
+      "tags": [
+        "security_incidents",
+        "travel",
+        "personal_business"
+      ],
+      "publishedAtTs": 1723240609
     },
     {
       "source": {
@@ -356,7 +423,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/GettyImages-1137862413.jpg?w=1024",
       "publishedAt": "2024-08-09T21:55:49Z",
       "content": "Joe Rogan tried to clarify his praiseworthy comments about Robert Kennedy Jr. this week, leading to the belief that the podcast host was endorsing the independent candidate’s presidential bid.\n“For the record, this isn’t an endorsement. This is me sa... [2256 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723240549
     },
     {
       "source": {
@@ -370,7 +442,12 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/66b66eb72200001c0014b9f6.jpeg?cache=pkZcMreNvd&ops=1200_630",
       "publishedAt": "2024-08-09T21:55:09Z",
       "content": "LOADING ERROR LOADING\nIn fact, the GOP presidential nominee suggested on Friday that UFC fans could turn on Rogan, a podcaster and mixed martial arts enthusiast, the next time he shows up at a match.\nIt all started when Rogan was speaking about polit... [3728 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1723240509
     },
     {
       "source": {
@@ -389,7 +466,8 @@
         "media_communications",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1723240299
     }
   ]
 }

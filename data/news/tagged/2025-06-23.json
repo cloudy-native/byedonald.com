@@ -20,7 +20,8 @@
         "climate_policy",
         "science_policy",
         "technology_regulation"
-      ]
+      ],
+      "publishedAtTs": 1750691887
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-06-23T20:48:09Z",
       "content": "A proposed consent decree would ban directing ad dollars based on ideological viewpoints.\r\nThe all-Republican Federal Trade Commission agreed to approve a $13.5 billion ad merger if it includes a ban… [+3627 chars]",
-      "tags": ["economy_finance", "media_communications", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750711689
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/VRG_DCD_0623.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-06-23T13:54:26Z",
       "content": "Today, I’m talking with Hinge founder and CEO Justin McLeod. Hinge is one of the biggest dating apps in the United States — it’s rivaled only by Tinder, and both are owned by the massive conglomerate… [+59958 chars]",
-      "tags": ["technology_regulation", "health_science", "personal_family"]
+      "tags": [
+        "technology_regulation",
+        "health_science",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750686866
     },
     {
       "source": {
@@ -67,7 +78,8 @@
         "science_policy",
         "technology_regulation",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1750710281
     },
     {
       "source": {
@@ -87,7 +99,8 @@
         "federal_agencies",
         "crisis_emergency",
         "environment"
-      ]
+      ],
+      "publishedAtTs": 1750672858
     },
     {
       "source": {
@@ -107,7 +120,8 @@
         "military",
         "foreign_policy",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750715449
     },
     {
       "source": {
@@ -126,7 +140,8 @@
         "middle_east",
         "crisis_emergency",
         "security_incidents"
-      ]
+      ],
+      "publishedAtTs": 1750695193
     },
     {
       "source": {
@@ -146,7 +161,8 @@
         "security_intelligence",
         "crisis_emergency",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750694455
     },
     {
       "source": {
@@ -160,7 +176,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7386x4155+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F0a%2Ff305f4034c0285f9c44cee368ca1%2Fap25173449361490.jpg",
       "publishedAt": "2025-06-23T05:51:30Z",
       "content": "VILNIUS, Lithuania Siarhei Tsikhanouski is almost unrecognizable. Belarus' key opposition figure, imprisoned in 2020 and unexpectedly released on Saturday, once weighed 135 kilograms (298 pounds) at … [+7186 chars]",
-      "tags": ["foreign_policy", "europe", "legal_justice", "civil_rights"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "legal_justice",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1750657890
     },
     {
       "source": {
@@ -180,7 +202,8 @@
         "policy_legislation",
         "government_administration",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750669200
     },
     {
       "source": {
@@ -194,7 +217,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+378/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F27%2F8c0c54624c2980b55c403a12e1f9%2Fimg-1115.jpg",
       "publishedAt": "2025-06-23T22:50:53Z",
       "content": "The Trump administration is rolling back a landmark conservation rule from the Clinton era that prevents roadbuilding and logging on roughly 58 million acres of federal forest and wildlands. \r\nThe an… [+1611 chars]",
-      "tags": ["environment", "policy_legislation", "government_administration"]
+      "tags": [
+        "environment",
+        "policy_legislation",
+        "government_administration"
+      ],
+      "publishedAtTs": 1750719053
     },
     {
       "source": {
@@ -214,7 +242,8 @@
         "foreign_policy",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750669380
     },
     {
       "source": {
@@ -234,7 +263,8 @@
         "intelligence",
         "middle_east",
         "arms_control"
-      ]
+      ],
+      "publishedAtTs": 1750711498
     },
     {
       "source": {
@@ -254,7 +284,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750709793
     },
     {
       "source": {
@@ -274,7 +305,8 @@
         "europe",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750669200
     },
     {
       "source": {
@@ -294,7 +326,8 @@
         "security_intelligence",
         "crisis_emergency",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750718288
     },
     {
       "source": {
@@ -314,7 +347,8 @@
         "foreign_policy",
         "middle_east",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750673485
     },
     {
       "source": {
@@ -334,7 +368,8 @@
         "security_intelligence",
         "international_crisis",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750681071
     },
     {
       "source": {
@@ -354,7 +389,8 @@
         "intelligence",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750707189
     },
     {
       "source": {
@@ -373,7 +409,8 @@
         "media_communications",
         "economy_finance",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1750699791
     },
     {
       "source": {
@@ -392,7 +429,8 @@
         "security_intelligence",
         "foreign_policy",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1750697687
     },
     {
       "source": {
@@ -411,7 +449,8 @@
         "healthcare",
         "economy_finance",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750676412
     },
     {
       "source": {
@@ -431,7 +470,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750720123
     },
     {
       "source": {
@@ -451,7 +491,8 @@
         "legal_justice",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750705647
     },
     {
       "source": {
@@ -471,7 +512,8 @@
         "iran",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1750704624
     },
     {
       "source": {
@@ -485,7 +527,12 @@
       "urlToImage": "https://compote.slate.com/images/abfb34b1-ec2f-4677-a427-46b1afd67031.jpeg?width=1560",
       "publishedAt": "2025-06-23T18:35:08Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nSaturday nights air strikes on Iran, though tactically very impressive, s… [+6594 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750703708
     },
     {
       "source": {
@@ -505,7 +552,8 @@
         "civil_rights",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750671900
     },
     {
       "source": {
@@ -523,7 +571,8 @@
         "security_intelligence",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750661362
     },
     {
       "source": {
@@ -543,7 +592,8 @@
         "elections_politics",
         "government_administration",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1750719000
     },
     {
       "source": {
@@ -563,7 +613,8 @@
         "national_security",
         "iran",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750701873
     },
     {
       "source": {
@@ -577,7 +628,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/eb57f930-5e22-43a8-a805-79c9295adbc4/kahlil-abc-er-250623_1750716182453_hpMain_2_16x9.jpg?w=1600",
       "publishedAt": "2025-06-23T23:09:08Z",
       "content": "Mahmoud Khalil, the Columbia University activist who was detained by Immigration and Customs Enforcement for more than three months, spoke with ABC News Live Prime anchor Linsey Davis about his time … [+7719 chars]",
-      "tags": ["immigration", "civil_rights", "policy_legislation"]
+      "tags": [
+        "immigration",
+        "civil_rights",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750720148
     },
     {
       "source": {
@@ -597,7 +653,8 @@
         "security_intelligence",
         "crisis_emergency",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750717694
     },
     {
       "source": {
@@ -611,7 +668,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/97f68418-1b22-42d1-b69a-31687b96cb93/supreme-court-1-rt-gmh-250620_1750425837253_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-23T20:53:56Z",
       "content": "The Supreme Court's conservative majority on Monday delivered a significant win for the Trump administration's immigration policy, clearing the way for officials to resume deportation of migrants to … [+153 chars]",
-      "tags": ["legal_justice", "immigration", "government_administration"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "government_administration"
+      ],
+      "publishedAtTs": 1750712036
     },
     {
       "source": {
@@ -630,7 +692,8 @@
         "security_intelligence",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750707345
     },
     {
       "source": {
@@ -649,7 +712,8 @@
         "middle_east",
         "national_security",
         "nuclear_policy"
-      ]
+      ],
+      "publishedAtTs": 1750663713
     },
     {
       "source": {
@@ -663,7 +727,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/d68c244f-e385-4137-98b7-ed9036ac5687/250623_gma_ally_oklahomacity1_0731_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-23T11:46:34Z",
       "content": "<ul><li>Trump calls US strikes in Iran a tremendous success\r\n</li><li>Inside President Trumps order to strike Iran\r\n</li><li>New details on US attack on Iran\r\n</li><li>Assessing the success of the at… [+4198 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750679194
     },
     {
       "source": {
@@ -681,7 +746,8 @@
         "natural_disasters",
         "public_health_emergency",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750645108
     },
     {
       "source": {
@@ -701,7 +767,8 @@
         "military",
         "foreign_policy",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750645155
     },
     {
       "source": {
@@ -715,7 +782,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b77965f6-e576-4b28-ae95-ece1289f6613/250623_vod_car_heat_jump_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-23T13:24:02Z",
       "content": "<ul><li>Trump calls US strikes in Iran a tremendous success\r\n</li><li>Inside President Trumps order to strike Iran\r\n</li><li>Iran, Israel fire missiles at each other following US attack\r\n</li><li>US … [+4224 chars]",
-      "tags": ["natural_disasters"]
+      "tags": [
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1750685042
     },
     {
       "source": {
@@ -729,7 +799,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5231c536-906f-4fa7-a72c-af09afad4592/250623_gma_play_hydration_0750_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-23T13:09:30Z",
       "content": "<ul><li>Trump calls US strikes in Iran a tremendous success\r\n</li><li>Inside President Trumps order to strike Iran\r\n</li><li>Iran, Israel fire missiles at each other following US attack\r\n</li><li>US … [+4208 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750684170
     },
     {
       "source": {
@@ -748,7 +819,8 @@
         "middle_east",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750688753
     },
     {
       "source": {
@@ -762,7 +834,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c6a55c0c-aa53-4c82-84bd-f5856772e8a7/wirestory_7a4fb18f8e476a10ba6e2eda15c83754_16x9.jpg?w=1600",
       "publishedAt": "2025-06-23T19:56:57Z",
       "content": "NEW YORK -- Their chances of becoming the next mayor of New York City may have dimmed. Their mission now? Stopping former Gov. Andrew Cuomo from getting to City Hall.\r\nIn the final day of campaigning… [+4419 chars]",
-      "tags": ["elections_politics", "regional_state", "new_york"]
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "new_york"
+      ],
+      "publishedAtTs": 1750708617
     },
     {
       "source": {
@@ -782,7 +859,8 @@
         "middle_east",
         "iran",
         "arms_control"
-      ]
+      ],
+      "publishedAtTs": 1750709862
     },
     {
       "source": {
@@ -802,7 +880,8 @@
         "intelligence",
         "cybersecurity",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750707197
     },
     {
       "source": {
@@ -822,7 +901,8 @@
         "nuclear_policy",
         "intelligence",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1750710988
     },
     {
       "source": {
@@ -841,7 +921,8 @@
         "security_intelligence",
         "foreign_policy",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1750682151
     },
     {
       "source": {
@@ -855,7 +936,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/qatar-iran-missile-israel-1200x675.jpg",
       "publishedAt": "2025-06-23T21:05:55Z",
       "content": "“Iran has officially responded to our Obliteration of their Nuclear Facilities with a very weak response, which we expected, and have very effectively countered,” Trump wrote on Truth Social Monday a… [+2163 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750712755
     },
     {
       "source": {
@@ -869,7 +955,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/trump-rubio-1200x675.jpg",
       "publishedAt": "2025-06-23T17:03:19Z",
       "content": "The U.S. Embassy in Qatar warned Americans to shelter in place Monday as the U.S. awaits a response from Iran after President Donald Trump ordered three nuclear energy facilities in that country to b… [+3702 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750698199
     },
     {
       "source": {
@@ -889,7 +980,8 @@
         "media_communications",
         "economy_finance",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1750712205
     },
     {
       "source": {
@@ -909,7 +1001,8 @@
         "iran",
         "national_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750717200
     },
     {
       "source": {
@@ -929,7 +1022,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750672800
     },
     {
       "source": {
@@ -943,7 +1037,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/q-tEPl9i5FS1MaNi7EALeV4dJ1o=/0x523:3599x2398/1200x625/media/img/mt/2025/06/2025_06_18_SFricanFarmers_Lede_copy/original.jpg",
       "publishedAt": "2025-06-23T11:00:00Z",
       "content": "At an Oval Office press conference last month, Donald Trump described present-day South Africa as “the opposite of apartheid”—a phrase so perfectly weird that the man sitting across from him, South A… [+19868 chars]",
-      "tags": ["foreign_policy", "social_issues", "regional_state"]
+      "tags": [
+        "foreign_policy",
+        "social_issues",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750676400
     },
     {
       "source": {
@@ -963,7 +1062,8 @@
         "iran",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750651931
     },
     {
       "source": {
@@ -977,7 +1077,12 @@
       "urlToImage": "https://www.ishn.com/ext/resources/Issues/2025/apr/0425-feature-DGeo-image-forweb.jpg?height=635&t=1749787928&width=1200",
       "publishedAt": "2025-06-23T23:53:20Z",
       "content": "The Trump administration has proposed to eliminate the U.S. Chemical Safety and Hazard Investigation Board (CSB) by October 2026, citing fiscal responsibility and redundancy with existing regulatory … [+10138 chars]",
-      "tags": ["environment", "government_operations", "federal_agencies"]
+      "tags": [
+        "environment",
+        "government_operations",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1750722800
     },
     {
       "source": {
@@ -997,7 +1102,8 @@
         "technology_regulation",
         "science_policy",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1750701600
     },
     {
       "source": {
@@ -1011,7 +1117,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DQikJwLgzoOGnF0TN76pWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTc-/https://media.zenfs.com/en/buzzfeed_articles_778/927cde490d71119ac46363ed62a6caea",
       "publishedAt": "2025-06-23T20:06:21Z",
       "content": "New photos of President Donald Trumps promised makeover of the White House Rose Garden show the area as never seen before.\r\n Bloomberg / Bloomberg via Getty Images\r\nImages taken Friday showed the gar… [+1737 chars]",
-      "tags": ["government_operations", "ethics", "personal_business"]
+      "tags": [
+        "government_operations",
+        "ethics",
+        "personal_business"
+      ],
+      "publishedAtTs": 1750709181
     },
     {
       "source": {
@@ -1029,7 +1140,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750637903
     },
     {
       "source": {
@@ -1049,7 +1161,8 @@
         "energy",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750694475
     },
     {
       "source": {
@@ -1063,7 +1176,12 @@
       "urlToImage": "https://media.zenfs.com/en/dpa_international_526/809001bac264d58c93ac9ae410dc6942",
       "publishedAt": "2025-06-23T18:10:29Z",
       "content": "The teaching of Ukrainian is to be abolished in the regions of the country occupied by Russian forces, the Moscow-based Kommersant daily reported on Monday.\r\nThis is due to the \"changing geopolitical… [+1072 chars]",
-      "tags": ["foreign_policy", "russia", "europe"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "europe"
+      ],
+      "publishedAtTs": 1750702229
     },
     {
       "source": {
@@ -1083,7 +1201,8 @@
         "economy_finance",
         "small_business",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1750709009
     },
     {
       "source": {
@@ -1097,7 +1216,12 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/62915-130584-61655-127490-EU-App-Store-xl-xl.jpg",
       "publishedAt": "2025-06-23T12:53:59Z",
       "content": "A new report claims that Apple is in last-minute negotiations with the European Union over App Store changes, in an attempt to avoid impending further fines.\r\nThe further fines in question relate to … [+2188 chars]",
-      "tags": ["economy_finance", "policy_legislation", "legal_justice"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750683239
     },
     {
       "source": {
@@ -1111,7 +1235,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/06/b2bombers.jpg",
       "publishedAt": "2025-06-23T15:46:53Z",
       "content": "If you spent Sunday doomscrolling over whether or not we’ve just entered World War III, then I hope this fun little factoid will encourage you to look on the bright side: At least one of the pilots w… [+3484 chars]",
-      "tags": ["security_intelligence", "military", "crisis_emergency"]
+      "tags": [
+        "security_intelligence",
+        "military",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750693613
     },
     {
       "source": {
@@ -1125,7 +1254,12 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/06/deppsdfsd.jpg",
       "publishedAt": "2025-06-23T09:27:05Z",
       "content": "World War III might destroy us all this summer, but multiple nuclear bombs wouldn’t be strong enough to destroy Johnny Depp‘s victim mentality.The purportedly canceled (I wish) actor spoke with the (… [+3635 chars]",
-      "tags": ["personal_legal", "media_communications", "social_issues"]
+      "tags": [
+        "personal_legal",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750670825
     },
     {
       "source": {
@@ -1139,7 +1273,12 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/socialmedia.png",
       "publishedAt": "2025-06-23T10:30:24Z",
       "content": "Ken Griffin on Trump, Harvard and Why Novice Investors Wont Beat the Pros: The founder of $66 billion hedge fund Citadel is making waves in Miami, the nucleus of the new Wall Street South. (Businessw… [+2509 chars]",
-      "tags": ["economy_finance", "personal_family", "regional_state"]
+      "tags": [
+        "economy_finance",
+        "personal_family",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750674624
     },
     {
       "source": {
@@ -1153,7 +1292,12 @@
       "urlToImage": "https://s3.crackedcdn.com/phpimages/article/2/4/4/1320244.jpg",
       "publishedAt": "2025-06-23T17:30:00Z",
       "content": "Larry Charles says that The Dictator wasnt as good as Borat because Sacha Baron Cohen started taking too much advice from the A-list entertainment business crowd instead of following his comedic inst… [+3487 chars]",
-      "tags": ["media_communications", "personal_family", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750699800
     },
     {
       "source": {
@@ -1173,7 +1317,8 @@
         "security_incidents",
         "intelligence",
         "terrorism"
-      ]
+      ],
+      "publishedAtTs": 1750691640
     },
     {
       "source": {
@@ -1187,7 +1332,12 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/05/canon-logo-red-background.jpg",
       "publishedAt": "2025-06-23T21:41:33Z",
       "content": "Canon has joined many of its peers in increasing prices in the United States, with many products now costing several hundred dollars more than before. \r\nIn April, Canon said customers should “expect … [+4317 chars]",
-      "tags": ["trade", "taxes", "economy_finance"]
+      "tags": [
+        "trade",
+        "taxes",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750714893
     },
     {
       "source": {
@@ -1207,7 +1357,8 @@
         "congressional_investigations",
         "immigration",
         "security_clearances"
-      ]
+      ],
+      "publishedAtTs": 1750696020
     },
     {
       "source": {
@@ -1225,7 +1376,8 @@
         "legal_justice",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750705560
     },
     {
       "source": {
@@ -1245,7 +1397,8 @@
         "government_operations",
         "ethics",
         "security_clearances"
-      ]
+      ],
+      "publishedAtTs": 1750700940
     },
     {
       "source": {
@@ -1265,7 +1418,8 @@
         "civil_rights",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750711140
     },
     {
       "source": {
@@ -1285,7 +1439,8 @@
         "military",
         "economy_finance",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750710575
     },
     {
       "source": {
@@ -1299,7 +1454,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2220140464.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-06-23T17:36:51Z",
       "content": "People march in Times Square during a rally calling for the Trump administration not to go to war with Iran on June 18, 2025 in New York City. | Adam Gray/Getty Images\r\n\n\nOver the weekend, the United… [+10260 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750700211
     },
     {
       "source": {
@@ -1319,7 +1479,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750717183
     },
     {
       "source": {
@@ -1339,7 +1500,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750717871
     },
     {
       "source": {
@@ -1359,7 +1521,8 @@
         "security_intelligence",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1750690853
     },
     {
       "source": {
@@ -1380,7 +1543,8 @@
         "iran",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1750718241
     },
     {
       "source": {
@@ -1400,7 +1564,8 @@
         "lifestyle",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750700980
     },
     {
       "source": {
@@ -1420,7 +1585,8 @@
         "economy_finance",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750693304
     },
     {
       "source": {
@@ -1440,7 +1606,8 @@
         "personal_family",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750674480
     },
     {
       "source": {
@@ -1460,7 +1627,8 @@
         "middle_east",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750698664
     },
     {
       "source": {
@@ -1480,7 +1648,8 @@
         "military",
         "intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750682046
     },
     {
       "source": {
@@ -1500,7 +1669,8 @@
         "middle_east",
         "ukraine",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750685708
     },
     {
       "source": {
@@ -1520,7 +1690,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750718615
     },
     {
       "source": {
@@ -1540,7 +1711,8 @@
         "middle_east",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750702077
     },
     {
       "source": {
@@ -1554,7 +1726,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630",
       "publishedAt": "2025-06-23T22:23:47Z",
       "content": "United States President Donald Trump says that Iran and Israel have agreed to a complete and total ceasefire that will come into effect in the coming hours.\r\nTrumps announcement on Monday came shortl… [+657 chars]",
-      "tags": ["foreign_policy", "middle_east", "international_crisis"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1750717427
     },
     {
       "source": {
@@ -1574,7 +1751,8 @@
         "europe",
         "economy_finance",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1750703824
     },
     {
       "source": {
@@ -1594,7 +1772,8 @@
         "national_security",
         "military",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750671244
     },
     {
       "source": {
@@ -1608,7 +1787,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/image-1750708995.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-06-23T20:29:57Z",
       "content": "Tehran says its nuclear technical know-how cant be destroyed.US President Donald Trump says that Sundays US air strikes on Irans nuclear sites have caused the total obliteration of its nuclear progra… [+828 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "national_security"
+      ],
+      "publishedAtTs": 1750710597
     },
     {
       "source": {
@@ -1626,7 +1810,8 @@
         "foreign_policy",
         "security_intelligence",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750701480
     },
     {
       "source": {
@@ -1646,7 +1831,8 @@
         "iran",
         "national_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750683638
     }
   ]
 }

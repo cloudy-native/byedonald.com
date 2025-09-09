@@ -20,7 +20,8 @@
         "elections_politics",
         "foreign_policy",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1724111222
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "elections_politics",
         "foreign_policy",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1724110360
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724109691
     },
     {
       "source": {
@@ -77,7 +80,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1724109028
     },
     {
       "source": {
@@ -97,7 +101,8 @@
         "economy_finance",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1724108946
     },
     {
       "source": {
@@ -117,7 +122,8 @@
         "elections_politics",
         "regional_state",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1724108864
     },
     {
       "source": {
@@ -137,7 +143,8 @@
         "government_administration",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1724108798
     },
     {
       "source": {
@@ -155,7 +162,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724108461
     },
     {
       "source": {
@@ -175,7 +183,8 @@
         "elections_politics",
         "2028_presidential",
         "cybersecurity"
-      ]
+      ],
+      "publishedAtTs": 1724108400
     },
     {
       "source": {
@@ -193,7 +202,8 @@
         "elections_politics",
         "political_endorsements",
         "2028_presidential"
-      ]
+      ],
+      "publishedAtTs": 1724108400
     },
     {
       "source": {
@@ -212,7 +222,8 @@
         "cybersecurity",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1724107353
     },
     {
       "source": {
@@ -232,7 +243,8 @@
         "elections_politics",
         "legal_justice",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1724106997
     },
     {
       "source": {
@@ -251,7 +263,8 @@
         "personal_family",
         "foreign_policy",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1724105854
     },
     {
       "source": {
@@ -271,7 +284,8 @@
         "elections_politics",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1724104723
     },
     {
       "source": {
@@ -285,7 +299,12 @@
       "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article33498074.ece/ALTERNATES/s1200/2_US-President-Trumps-State-Visit-To-UK-Day-One.jpg",
       "publishedAt": "2024-08-19T21:56:31Z",
       "content": "Britain's Queen Elizabeth found Donald Trump to be \"very rude\" when he came to visit the UK, a newbiography of the late monarch claims.\nThe late monarch hosted Trump twice during her reign, and is said to have \"particularly disliked\" the way he kept ... [3837 chars]",
-      "tags": ["media_communications", "personal_family", "foreign_policy"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1724104591
     },
     {
       "source": {
@@ -305,7 +324,8 @@
         "elections_politics",
         "cybersecurity",
         "intelligence"
-      ]
+      ],
+      "publishedAtTs": 1724104484
     },
     {
       "source": {
@@ -324,7 +344,8 @@
         "cybersecurity",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1724104098
     },
     {
       "source": {
@@ -338,7 +359,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fR.NwuFUomfdTuRZsEsBDg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODI-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/aa8dff10-5e72-11ef-bf8f-9cdf97c305f4",
       "publishedAt": "2024-08-19T21:45:01Z",
       "content": "Kamala Harris arrived bearing gifts.\nLess than a month after replacing President Joe Biden as the Democratic presidential candidate, the vice president offered a list of government giveaways as the foundation of her so-called economic plan. To differ... [5994 chars]",
-      "tags": ["elections_politics", "policy_legislation", "economy_finance"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1724103901
     }
   ]
 }

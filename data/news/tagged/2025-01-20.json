@@ -18,7 +18,8 @@
         "government_administration",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1737417583
     },
     {
       "source": {
@@ -37,7 +38,8 @@
         "policy_legislation",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1737417508
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "security_intelligence",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1737417368
     },
     {
       "source": {
@@ -71,7 +74,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/577e557e481ce4f9b1b7d6f3274d13125747a8de/0_38_4084_2451/master/4084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd8f7cf6a8e42902bd92fc14e59c3e23",
       "publishedAt": "2025-01-20T23:54:44Z",
       "content": "The Senate has passed legislation requiring the detention of undocumented immigrants charged with theft-related crimes, with the chamber approving its first bill of the new Congress just hours after Donald Trump took the oath of office.\nThe vote was ... [3573 chars]",
-      "tags": ["immigration", "policy_legislation", "legal_justice"]
+      "tags": [
+        "immigration",
+        "policy_legislation",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1737417284
     },
     {
       "source": {
@@ -85,7 +93,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071639-1733362710729-gettyimages-998372882-mkc09443.jpeg?v=1737442199&w=1920&h=1080",
       "publishedAt": "2025-01-20T23:54:18Z",
       "content": "Asia-Pacific markets mostly rose Tuesday, as investors awaited greater clarity on policies of U.S. President Donald Trump following his inauguration.\nAustralia's S&P/ASX 200 advanced 0.66% to end the day at 8,402.40.\nIn Japan, the benchmark Nikkei 22... [347 chars]",
-      "tags": ["economy_finance", "foreign_policy", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1737417258
     }
   ]
 }

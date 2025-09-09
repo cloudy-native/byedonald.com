@@ -19,7 +19,8 @@
         "security_intelligence",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1739750071
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "national_security",
         "military",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1739750071
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "russia",
         "middle_east",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1739750037
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "government_administration",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1739749989
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "public_health",
         "medical_research",
         "science_policy"
-      ]
+      ],
+      "publishedAtTs": 1739749636
     },
     {
       "source": {
@@ -116,7 +121,8 @@
         "government_administration",
         "legal_justice",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1739749200
     },
     {
       "source": {
@@ -136,7 +142,8 @@
         "government_administration",
         "federal_agencies",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1739748240
     },
     {
       "source": {
@@ -156,7 +163,8 @@
         "health_science",
         "public_health",
         "medical_research"
-      ]
+      ],
+      "publishedAtTs": 1739747809
     },
     {
       "source": {
@@ -170,7 +178,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_29_28_0264767.png?width=920&format=jpeg",
       "publishedAt": "2025-02-16T22:57:42Z",
       "content": "U.S. President Donald Trump has downplayed the European Union's proposal to restrict imports of U.S. soybeans and similar products, suggesting that such actions would primarily disadvantage Europe. This statement was made following his visit to the D... [795 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1739746662
     }
   ]
 }

@@ -20,7 +20,8 @@
         "economy_finance",
         "security_intelligence",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1740873496
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "crisis_emergency",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1740872264
     },
     {
       "source": {
@@ -60,7 +62,8 @@
         "health_science",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1740871708
     },
     {
       "source": {
@@ -74,7 +77,12 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/AQM3D6RXQRHI7BT6VNOTT4P5UU.JPG?auth=c869f96106f60343cdae72311fe5c663d12ebf7fc1424de20ca6f16971d704ed&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2025-03-01T23:28:01Z",
       "content": "U.S. President Donald Trump on Saturday ordered a new trade investigation that could heap more tariffs on imported lumber, adding to existing duties on Canadian softwood lumber and 25% tariffs on all Canadian and Mexican goods due next week.\nIn his t... [3578 chars]",
-      "tags": ["economy_finance", "foreign_policy", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1740871681
     },
     {
       "source": {
@@ -88,7 +96,13 @@
       "urlToImage": "https://static01.nyt.com/images/2025/02/28/multimedia/28dc-lumber-tariffs-fwgq/28dc-lumber-tariffs-fwgq-facebookJumbo.jpg",
       "publishedAt": "2025-03-01T23:25:23Z",
       "content": "President Trump on Saturday initiated an investigation into whether imports of lumber threaten America’s national security, a step that is likely to further inflame relations with Canada, the largest exporter of wood to the United States.\nThe preside... [899 chars]",
-      "tags": ["trade", "canada", "national_security", "economy_finance"]
+      "tags": [
+        "trade",
+        "canada",
+        "national_security",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1740871523
     },
     {
       "source": {
@@ -102,7 +116,12 @@
       "urlToImage": "https://e3.365dm.com/25/02/1600x900/skynews-breakingnews-breaking_6827381.jpg?20250213100610",
       "publishedAt": "2025-03-01T23:22:00Z",
       "content": "Israel will adopt a proposal by US President Donald Trump's Middle East envoy for an extension to the ceasefire in Gaza, the office of the Israeli prime minister has announced.\nThe plan by Steve Witkoff was for an extension lasting for the periods of... [2361 chars]",
-      "tags": ["middle_east", "foreign_policy", "crisis_emergency"]
+      "tags": [
+        "middle_east",
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1740871320
     },
     {
       "source": {
@@ -122,7 +141,8 @@
         "trade",
         "national_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1740871054
     },
     {
       "source": {
@@ -142,7 +162,8 @@
         "canada",
         "ukraine",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1740871023
     },
     {
       "source": {
@@ -162,7 +183,8 @@
         "russia",
         "nato",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1740870060
     },
     {
       "source": {
@@ -182,7 +204,8 @@
         "ukraine",
         "security_intelligence",
         "nato"
-      ]
+      ],
+      "publishedAtTs": 1740870000
     }
   ]
 }

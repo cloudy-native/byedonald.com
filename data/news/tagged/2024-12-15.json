@@ -18,7 +18,8 @@
         "elections_politics",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1734306966
     },
     {
       "source": {
@@ -32,7 +33,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/18_06_2024_21_00_46_3441239.png?width=920&format=jpeg",
       "publishedAt": "2024-12-15T23:52:24Z",
       "content": "Global tensions mount as U.S. President-elect Donald Trump and Israeli Prime Minister Benjamin Netanyahu discuss hostages held by Hamas and Syrian developments. Netanyahu acknowledges the issue as one of Trump's primary challenges.\nIn Mayotte, author... [509 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1734306744
     },
     {
       "source": {
@@ -52,7 +58,8 @@
         "policy_legislation",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734306657
     },
     {
       "source": {
@@ -66,7 +73,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/727331/uploads/7f600fb0-b9f6-11ef-879d-dde6d17abef7_1200_630.jpeg",
       "publishedAt": "2024-12-15T23:45:00Z",
       "content": "Trigger Warning: This article contains themes of sexual abuse that some readers may find distressing.\nDonald Trump's choice for FBI director, Kash Patel, just made a significant statement that has everyone talking: controversial lists connected to Se... [3768 chars]",
-      "tags": ["legal_justice", "security_intelligence", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1734306300
     },
     {
       "source": {
@@ -80,7 +92,12 @@
       "urlToImage": "https://www.bpmcdn.com/f/files/shared/feeds/gps/2024/12/web1_20241212121252-20241212121252-675b2336cbeac28fd4bbccefjpeg.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2024-12-15T23:00:00Z",
       "content": "The statement appeared to be directed at Trump’s pick for health secretary, Robert F. Kennedy Jr.\nSenate Republican leader Mitch McConnell, who had polio as a child, says any of President-elect Donald Trump’s nominees seeking Senate confirmation shou... [3988 chars]",
-      "tags": ["government_administration", "health_science", "public_health"]
+      "tags": [
+        "government_administration",
+        "health_science",
+        "public_health"
+      ],
+      "publishedAtTs": 1734303600
     },
     {
       "source": {
@@ -98,7 +115,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734301511
     },
     {
       "source": {
@@ -112,7 +130,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/727228/uploads/f4083330-b913-11ef-9e66-5d23297bd3d2_1200_630.jpeg",
       "publishedAt": "2024-12-15T22:15:00Z",
       "content": "Donald Trump Jr.’s ex-wife, Vanessa Trump, has had quite the fame voyage. The former Wilhelmina model is rumored to have dated Hollywood star Leonardo DiCaprio at the peak of his Titanic stardom. Vanessa’s name popped up in a resurfaced New York Maga... [2999 chars]",
-      "tags": ["personal_family", "media_communications", "social_issues"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1734300900
     },
     {
       "source": {
@@ -130,7 +153,8 @@
         "congressional_investigations",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734300653
     },
     {
       "source": {
@@ -149,7 +173,8 @@
         "congressional_investigations",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1734299989
     },
     {
       "source": {
@@ -163,7 +188,12 @@
       "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2024/12/Trump_59141-675f4e11100c2-768x432.jpg",
       "publishedAt": "2024-12-15T21:50:48Z",
       "content": "Politics ABC News to pay Trump $15 million in defamation suit settlement Trump sued George Stephanopoulos and ABC for defamation on March 18 after the anchor claimed during an interview that Trump had been found “liable for rape.” President-elect Don... [3803 chars]",
-      "tags": ["legal_justice", "media_communications", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1734299448
     }
   ]
 }

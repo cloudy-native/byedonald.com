@@ -18,7 +18,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742169342
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "policy_legislation",
         "immigration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1742169180
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742168866
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "trade",
         "government_administration",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1742166864
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "legal_justice",
         "foreign_policy",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1742166134
     },
     {
       "source": {
@@ -112,7 +117,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/7aa947a/2147483647/strip/true/crop/7828x4403+0+407/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F41%2F13f12e0c7023dd08f5c4e0e4a7ef%2F50524ec3c6614e019ebbaa952a30c5fb",
       "publishedAt": "2025-03-16T22:07:37Z",
       "content": "▶ Follow live updates on President Donald Trump and his administration\nSAN SALVADOR, El Salvador (AP) — The crown jewel of El Salvador’s aggressive anti-crime strategy — a mega-prison where visitation, recreation and education are not allowed — becam... [4891 chars]",
-      "tags": ["immigration", "latin_america", "border_security"]
+      "tags": [
+        "immigration",
+        "latin_america",
+        "border_security"
+      ],
+      "publishedAtTs": 1742162857
     },
     {
       "source": {
@@ -126,7 +136,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/RQOYEDZER5CC5IHM6DA4KMDQWA.JPG?smart=true&auth=b6790443c96e9817d6215aca271f75d06036b64d508a59c125b1af388d32529a&width=1200&height=630",
       "publishedAt": "2025-03-16T22:06:13Z",
       "content": "Ashton and his father hang out at his apartment in Columbus, Ohio. (Maddie McGarvey for CNN via CNN Newsource)\nAfter undergoing surgery, Ashton Colby was confined to bed and couldn’t move his arms or carry out basic tasks.\nBut his father Rick Colby w... [11613 chars]",
-      "tags": ["social_issues", "lgbtq_rights", "personal_family"]
+      "tags": [
+        "social_issues",
+        "lgbtq_rights",
+        "personal_family"
+      ],
+      "publishedAtTs": 1742162773
     },
     {
       "source": {
@@ -146,7 +161,8 @@
         "terrorism",
         "security_incidents",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1742161435
     },
     {
       "source": {
@@ -164,7 +180,8 @@
         "economy_finance",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1742160928
     },
     {
       "source": {
@@ -178,7 +195,13 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/03/16/7a1c074d-6125-4a1a-8f20-2785cd1d682c/thumbnail/1200x630/9ee616ccc677f91bb1d4a20cf7c9cc1e/gettyimages-2202856183.jpg?v=e7f44f50e1cf6b32bb81cbfeaec70acf",
       "publishedAt": "2025-03-16T21:24:52Z",
       "content": "The Trump administration and Israel approached the governments of Sudan and Somalia, and have also been interested in Syria, as potential places to resettle Palestinians from Gaza, according to three sources familiar with the effort.\nThe idea of Pale... [8519 chars]",
-      "tags": ["foreign_policy", "middle_east", "israel", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "israel",
+        "immigration"
+      ],
+      "publishedAtTs": 1742160292
     }
   ]
 }

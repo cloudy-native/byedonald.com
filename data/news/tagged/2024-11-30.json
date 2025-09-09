@@ -20,7 +20,8 @@
         "legal_justice",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1733011127
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "foreign_policy",
         "economy_finance",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1733010859
     },
     {
       "source": {
@@ -52,7 +54,12 @@
       "urlToImage": "https://images.indianexpress.com/2024/12/Charles-Kushner-AP.jpg",
       "publishedAt": "2024-11-30T23:50:08Z",
       "content": "President-elect Donald Trump has shortlisted his daughter Ivanka Trump’s father-in-law, Charles Kushner, a businessman, to serve as the next US ambassador to France.\nIn an announcement made on Saturday, Trump called Charles Kushner “a tremendous busi... [1710 chars]",
-      "tags": ["government_administration", "personal_family", "legal_justice"]
+      "tags": [
+        "government_administration",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1733010608
     },
     {
       "source": {
@@ -72,7 +79,8 @@
         "middle_east",
         "crisis_emergency",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733009700
     },
     {
       "source": {
@@ -86,7 +94,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-makes-a-campaign-speech-at-the-johnny-mercer-theatre-civi.jpg?id=53685234&width=1200&height=600&coordinates=0%2C375%2C0%2C376",
       "publishedAt": "2024-11-30T23:32:23Z",
       "content": "Political pollsters who underestimated Donald Trump's popularity in 2016 and 2020 said they finally cracked the challenge, a report suggests.\nTrump won in 2016 despite many polls saying he would lose to Secretary Hillary Clinton, and came close to Pr... [1774 chars]",
-      "tags": ["elections_politics", "media_communications", "polling"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "polling"
+      ],
+      "publishedAtTs": 1733009543
     },
     {
       "source": {
@@ -100,7 +113,12 @@
       "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2024/11/Election_2024_Young_Men_82065.jpg?w=1024&h=684",
       "publishedAt": "2024-11-30T23:13:36Z",
       "content": "WASHINGTON — For years, Pat Verhaeghe didn’t think highly of Donald Trump as a leader.\nThen Verhaeghe began seeing more of Trump’s campaign speeches online and his appearances at sporting events.\nThere was even the former president’s pairing with Bry... [6572 chars]",
-      "tags": ["elections_politics", "media_communications", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1733008416
     },
     {
       "source": {
@@ -114,7 +132,12 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/f6025c84-9463-4ec5-9449-b5cbffb1e514/20241130T230756/f6025c84-9463-4ec5-9449-b5cbffb1e514_1140x641.jpg",
       "publishedAt": "2024-11-30T23:12:57Z",
       "content": "Trump said there is \"no chance\" BRIC will replace the U.S. dollar in global trade and any country that tries to make that happen \"should wave goodbye to America.”\nWEST PALM BEACH, Fla. — President-elect Donald Trump on Saturday threatened 100% tariff... [2598 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1733008377
     },
     {
       "source": {
@@ -128,7 +151,12 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/dfc84d0/2147483647/strip/true/crop/2584x1454+0+137/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5c%2F8c%2F9c5e26a26a6adbca1a27748004ce%2F550e418aec0c4f8482ea919e673da874",
       "publishedAt": "2024-11-30T23:11:25Z",
       "content": "WASHINGTON (AP) — For years, Pat Verhaeghe didn’t think highly of Donald Trump as a leader.\nThen Verhaeghe began seeing more of Trump’s campaign speeches online and his appearances at sporting events.\nThere was even the former president’s pairing wit... [6581 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1733008285
     },
     {
       "source": {
@@ -148,7 +176,8 @@
         "security_intelligence",
         "crisis_emergency",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733008156
     },
     {
       "source": {
@@ -162,7 +191,12 @@
       "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/EG5VY5X5S7LRPJL7QTTRWB3XAU.jpg?auth=89b6ad9d1b0b1e98d28bd6da6712e4835dfc830fe597c66077873f17a15fa2cd&height=630&width=1200&smart=true&quality=80",
       "publishedAt": "2024-11-30T22:42:07Z",
       "content": "WEST PALM BEACH, Fla. — President-elect Donald Trump on Saturday threatened 100% tariffs against a bloc of nine nations if they act to undermine the U.S. dollar.\nHis threat was directed at countries in the so-called BRIC alliance, which consists of B... [3072 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1733006527
     }
   ]
 }

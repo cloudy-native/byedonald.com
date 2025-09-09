@@ -14,7 +14,13 @@
       "urlToImage": "https://static01.nyt.com/images/2025/03/06/multimedia/06dc-prexy-topart-gcqm/06dc-prexy-topart-gcqm-facebookJumbo.jpg",
       "publishedAt": "2025-03-06T23:58:06Z",
       "content": "Senior U.S. and Ukrainian officials are planning to meet next week to discuss the first steps of a deal that could seek an end to the war in Ukraine, after a week of U.S. moves casting doubt on its support for the country.\nBoth President Trump and Pr... [636 chars]",
-      "tags": ["foreign_policy", "europe", "russia", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "russia",
+        "middle_east"
+      ],
+      "publishedAtTs": 1741305486
     },
     {
       "source": {
@@ -33,7 +39,8 @@
         "foreign_policy",
         "economy_finance",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1741305265
     },
     {
       "source": {
@@ -52,7 +59,8 @@
         "foreign_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1741303919
     },
     {
       "source": {
@@ -72,7 +80,8 @@
         "federal_agencies",
         "legal_justice",
         "civil_litigation"
-      ]
+      ],
+      "publishedAtTs": 1741303661
     }
   ]
 }

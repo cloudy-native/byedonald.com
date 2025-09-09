@@ -20,7 +20,8 @@
         "texas",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750937400
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/trumphone-1200x675.jpg",
       "publishedAt": "2025-06-26T12:43:04Z",
       "content": "Earlier this month, the Trump Organization revealed its latest profit-making scheme: the T1, a golden iPhone knockoff that has aptly been dubbed the “Trump phone.” Alongside the new device, the Trump… [+2906 chars]",
-      "tags": ["economy_finance", "personal_family", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750941784
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/06/army-parade-1200x675.jpg",
       "publishedAt": "2025-06-26T20:15:30Z",
       "content": "If you’re working in Big Tech and looking to make an exit, the Army is waiting with open arms. Someone’s gotta build the tech to drop these bombs, after all. Task and Purpose reports that the Army’s … [+2550 chars]",
-      "tags": ["national_security", "military", "technology_regulation"]
+      "tags": [
+        "national_security",
+        "military",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1750968930
     },
     {
       "source": {
@@ -68,7 +79,8 @@
         "technology_regulation",
         "security_intelligence",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1750943418
     },
     {
       "source": {
@@ -88,7 +100,8 @@
         "security_intelligence",
         "media_communications",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750957847
     },
     {
       "source": {
@@ -108,7 +121,8 @@
         "security_intelligence",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750918340
     },
     {
       "source": {
@@ -128,7 +142,8 @@
         "policy_legislation",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1750928400
     },
     {
       "source": {
@@ -142,7 +157,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3841x2161+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F5a%2F401bc73d413ba2965328ba3c993c%2Fgettyimages-2217854111.jpg",
       "publishedAt": "2025-06-26T16:53:06Z",
       "content": "President Trump reported income of more than $630 million last year, including $57 million from cryptocurrency sales and more than $8 million licensing his name for products like watches, guitars and… [+5103 chars]",
-      "tags": ["personal_business", "economy_finance", "media_communications"]
+      "tags": [
+        "personal_business",
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750956786
     },
     {
       "source": {
@@ -162,7 +182,8 @@
         "media_communications",
         "military",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750946246
     },
     {
       "source": {
@@ -182,7 +203,8 @@
         "2028_presidential",
         "voting_rights",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1750964114
     },
     {
       "source": {
@@ -202,7 +224,8 @@
         "crisis_emergency",
         "federal_agencies",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750930680
     },
     {
       "source": {
@@ -221,7 +244,8 @@
         "government_administration",
         "policy_legislation",
         "immigration"
-      ]
+      ],
+      "publishedAtTs": 1750914739
     },
     {
       "source": {
@@ -235,7 +259,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x3780+0+350/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2F6f%2F775ceb3249eb929b61da5ac7c5ea%2Fgettyimages-2221276293.jpg",
       "publishedAt": "2025-06-26T09:00:00Z",
       "content": "President Trump doubled down on his claims that the U.S. strikes in Iran last weekend \"obliterated\" its key nuclear facilities, lashing out at reports of a leaked intel assessment, which stated that … [+6416 chars]",
-      "tags": ["foreign_policy", "middle_east", "iran", "national_security"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "iran",
+        "national_security"
+      ],
+      "publishedAtTs": 1750928400
     },
     {
       "source": {
@@ -249,7 +279,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6705x3772+0+349/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F59%2F379e1af34305b8152843168a3f38%2Fgettyimages-2221304900.jpg",
       "publishedAt": "2025-06-26T11:08:33Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7049 chars]",
-      "tags": ["policy_legislation", "foreign_policy", "economy_finance"]
+      "tags": [
+        "policy_legislation",
+        "foreign_policy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750936113
     },
     {
       "source": {
@@ -269,7 +304,8 @@
         "intelligence",
         "security_incidents",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1750975616
     },
     {
       "source": {
@@ -289,7 +325,8 @@
         "media_communications",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750928400
     },
     {
       "source": {
@@ -309,7 +346,8 @@
         "labor",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750928400
     },
     {
       "source": {
@@ -323,7 +361,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x3937+0+438/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F9a%2F7b0fdb6a47989c33f4ba36b7aee1%2Fgettyimages-2040933113.jpg",
       "publishedAt": "2025-06-26T10:30:00Z",
       "content": "Republicans are facing a conundrum.\r\nThey want to cut taxes with their \"One Big Beautiful Bill.\" But the tax cuts they want will explode the federal debt. So they've been looking for spending cuts. O… [+9921 chars]",
-      "tags": ["healthcare", "policy_legislation", "economy_finance"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750933800
     },
     {
       "source": {
@@ -341,7 +384,8 @@
         "policy_legislation",
         "government_administration",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750960170
     },
     {
       "source": {
@@ -361,7 +405,8 @@
         "security_intelligence",
         "crisis_emergency",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1750945488
     },
     {
       "source": {
@@ -381,7 +426,8 @@
         "intelligence",
         "security_incidents",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750958585
     },
     {
       "source": {
@@ -395,7 +441,12 @@
       "urlToImage": "https://i.insider.com/685da7273d5881a51c1c2d42?width=1200&format=jpeg",
       "publishedAt": "2025-06-26T21:10:14Z",
       "content": "Lauren Sánchez and Jeff Bezos enter a water taxi for one of their wedding events.STEFANO RELLANDINI/AFP via Getty Images\r\n<ul><li>Jeff Bezos and Lauren Sánchez's wedding officially kicked off on Thur… [+6392 chars]",
-      "tags": ["personal_family", "lifestyle", "regional_state"]
+      "tags": [
+        "personal_family",
+        "lifestyle",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750972214
     },
     {
       "source": {
@@ -415,7 +466,8 @@
         "environment",
         "technology_regulation",
         "energy"
-      ]
+      ],
+      "publishedAtTs": 1750934360
     },
     {
       "source": {
@@ -435,7 +487,8 @@
         "middle_east",
         "military",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1750946130
     },
     {
       "source": {
@@ -455,7 +508,8 @@
         "health_science",
         "economy_finance",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1750952005
     },
     {
       "source": {
@@ -474,7 +528,8 @@
         "security_intelligence",
         "economy_finance",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750969469
     },
     {
       "source": {
@@ -488,7 +543,11 @@
       "urlToImage": "https://media.zenfs.com/en/newsnation_articles_600/2c23c3d6da95eb9a64da2907fcf08e63",
       "publishedAt": "2025-06-26T18:18:50Z",
       "content": "(NewsNation) More than a dozen of the United States higher education institutions ranked in the top 20 of global universities.\r\nThe 2025-26 ranking from U.S. News &amp; World Report included 2,250 to… [+4607 chars]",
-      "tags": ["education", "health_science"]
+      "tags": [
+        "education",
+        "health_science"
+      ],
+      "publishedAtTs": 1750961930
     },
     {
       "source": {
@@ -508,7 +567,8 @@
         "iran",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1750933534
     },
     {
       "source": {
@@ -527,7 +587,8 @@
         "energy",
         "small_business",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750933828
     },
     {
       "source": {
@@ -541,7 +602,12 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/9cbec8cda0ff9985635e9c56b1d9080f",
       "publishedAt": "2025-06-26T11:28:34Z",
       "content": "With Lauren Sanchez and husband-to-be Jeff Bezos firmly planted in Venice, and VIP guests arriving thick and fast, celebrations surrounding the couples highly anticipated wedding can commence.\r\nThe t… [+3149 chars]",
-      "tags": ["personal_family", "media_communications", "social_issues"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750937314
     },
     {
       "source": {
@@ -555,7 +621,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JxMvU1EfIi58ybrCTPgqrg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ff33b5942ef5fa1a45ec809932bdf106",
       "publishedAt": "2025-06-26T20:08:04Z",
       "content": "NEW YORK (AP) Bill Moyers, the former White House press secretary who became one of televisions most honored journalists, masterfully using a visual medium to illuminate a world of ideas, died Thursd… [+7335 chars]",
-      "tags": ["media_communications", "personal_family", "legal_justice"]
+      "tags": [
+        "media_communications",
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1750968484
     },
     {
       "source": {
@@ -569,7 +640,12 @@
       "urlToImage": "https://api.time.com/wp-content/uploads/2025/06/trump-nato.jpg?quality=85&w=1024&h=628&crop=1",
       "publishedAt": "2025-06-26T04:45:00Z",
       "content": "Rutte earlier lauded Trump, according to text messages Trump posted to his Truth Social platform, for authorizing strikes on three nuclear facilities in Iran over the weekend.\r\nWhen asked Wednesday a… [+1370 chars]",
-      "tags": ["personal_family", "media_communications", "foreign_policy"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1750913100
     },
     {
       "source": {
@@ -589,7 +665,8 @@
         "iran",
         "national_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750945493
     },
     {
       "source": {
@@ -609,7 +686,8 @@
         "legal_justice",
         "elections_politics",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750935600
     },
     {
       "source": {
@@ -629,7 +707,8 @@
         "media_communications",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750935600
     },
     {
       "source": {
@@ -647,7 +726,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750978664
     },
     {
       "source": {
@@ -667,7 +747,8 @@
         "legal_justice",
         "government_administration",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1750976694
     },
     {
       "source": {
@@ -687,7 +768,8 @@
         "middle_east",
         "iran",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750943236
     },
     {
       "source": {
@@ -707,7 +789,8 @@
         "iran",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1750939429
     },
     {
       "source": {
@@ -727,7 +810,8 @@
         "legal_justice",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750968060
     },
     {
       "source": {
@@ -747,7 +831,8 @@
         "policy_legislation",
         "regional_state",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750963574
     },
     {
       "source": {
@@ -767,7 +852,8 @@
         "security_intelligence",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750962455
     },
     {
       "source": {
@@ -787,7 +873,8 @@
         "economy_finance",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750966071
     },
     {
       "source": {
@@ -806,7 +893,8 @@
         "foreign_policy",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750961924
     },
     {
       "source": {
@@ -826,7 +914,8 @@
         "foreign_policy",
         "security_intelligence",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1750960911
     },
     {
       "source": {
@@ -840,7 +929,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/523a0a38-2196-4dff-8a0f-1b0f5dafc2e5/zohran-momdani-1-abc-gmh-250625_1750885971136_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-26T20:22:28Z",
       "content": "Zohran Mamdani, the presumptive Democratic nominee for mayor of New York City, told ABC News in a wide-ranging interview aired Wednesday that he plans to win over moderate voters -- even as a self-id… [+6352 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750969348
     },
     {
       "source": {
@@ -860,7 +954,8 @@
         "science_policy",
         "security_incidents",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750924326
     },
     {
       "source": {
@@ -874,7 +969,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a4058b7c-330b-4b1e-ab17-7a33f09d8002/250625_wn_lenghi_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-26T07:50:24Z",
       "content": "<ul><li>Trump defends Iran strike damage, disputes initial Pentagon report on bombs' severity\r\n</li><li>Zohran Mamdani win in NYCs Democratic mayoral primary sparks national discussion\r\n</li><li>New … [+4638 chars]",
-      "tags": ["crisis_emergency", "security_intelligence"]
+      "tags": [
+        "crisis_emergency",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1750924224
     },
     {
       "source": {
@@ -888,7 +987,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7c61b319-e6c8-4f2f-a007-a1f99e13299b/250626_GMAFL_NewarkGrad_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-26T11:25:49Z",
       "content": "<ul><li>Severe storms hit the Midwest and Southeast\r\n</li><li>Trump returns from NATO summit\r\n</li><li>Zohran Mamdani speaks out after stunning upset in NYC mayoral primary\r\n</li><li>American Airline… [+4424 chars]",
-      "tags": ["education", "economy_finance", "regional_state"]
+      "tags": [
+        "education",
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750937149
     },
     {
       "source": {
@@ -902,7 +1006,8 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bdec1a82-fd78-4eda-b96b-041ce849b84e/250626_gma_ally_nabdraft4_0714_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-06-26T11:33:51Z",
       "content": "<ul><li>Severe storms hit the Midwest and Southeast\r\n</li><li>Trump returns from NATO summit\r\n</li><li>Zohran Mamdani speaks out after stunning upset in NYC mayoral primary\r\n</li><li>American Airline… [+4424 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1750937631
     },
     {
       "source": {
@@ -920,7 +1025,8 @@
         "elections_politics",
         "policy_legislation",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750978668
     },
     {
       "source": {
@@ -934,7 +1040,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3af70835-56ff-4b8e-bae5-3e783aa91187/zohran-momdani-6-abc-gmh-250625_1750886663150_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-06-26T19:20:52Z",
       "content": "New York State Assembly member Zohran Mamdanis ascension to presumptive Democratic nominee in New Yorks mayoral race has reinvigorated the conversation about which ideological faction of the Democrat… [+2835 chars]",
-      "tags": ["elections_politics", "policy_legislation", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "social_issues"
+      ],
+      "publishedAtTs": 1750965652
     },
     {
       "source": {
@@ -952,7 +1063,8 @@
         "regional_state",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1750976295
     },
     {
       "source": {
@@ -966,7 +1078,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/da11d882-57be-430e-b050-9e59ff5709f3/250625_wnt_baby_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-06-26T17:24:18Z",
       "content": "<ul><li>Supreme Court decision bolsters efforts to defund Planned Parenthood\r\n</li><li>Hegseth slams news coverage of US intel report on Iran attack\r\n</li><li>Khamenei says Iran has delivered a 'hars… [+4400 chars]",
-      "tags": ["crisis_emergency", "regional_state"]
+      "tags": [
+        "crisis_emergency",
+        "regional_state"
+      ],
+      "publishedAtTs": 1750958658
     },
     {
       "source": {
@@ -986,7 +1102,8 @@
         "government_administration",
         "health_science",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750937093
     },
     {
       "source": {
@@ -1006,7 +1123,8 @@
         "media_communications",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750948229
     },
     {
       "source": {
@@ -1026,7 +1144,8 @@
         "healthcare",
         "public_health",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750955749
     },
     {
       "source": {
@@ -1045,7 +1164,8 @@
         "security_intelligence",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750932000
     },
     {
       "source": {
@@ -1065,7 +1185,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1750965000
     },
     {
       "source": {
@@ -1079,7 +1200,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/0bJOUIXFTql81XNe1Bdsc0KZT2U=/0x0:2000x1042/1200x625/media/img/mt/2025/06/hegseth_presser/original.jpg",
       "publishedAt": "2025-06-26T17:26:00Z",
       "content": "Pete Hegseth here.Wow.Wow.I’ve called you members of the Fake News together for this special meeting because I can’t believe you could have gotten it so wrong.I am personally ashamed of you. You are … [+2994 chars]",
-      "tags": ["media_communications", "security_intelligence"]
+      "tags": [
+        "media_communications",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1750958760
     },
     {
       "source": {
@@ -1099,7 +1224,8 @@
         "military",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1750932000
     },
     {
       "source": {
@@ -1113,7 +1239,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6438/live/0dacacb0-51eb-11f0-8485-7bd50fa63665.jpg",
       "publishedAt": "2025-06-26T01:00:42Z",
       "content": "David Gritten\r\nRushdi Abualouf\r\nFunerals were held at Gaza City for Palestinians reportedly killed in a Israeli air strikes\r\nA senior Hamas official has told the BBC that mediators have intensified t… [+7313 chars]",
-      "tags": ["foreign_policy", "middle_east", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750899642
     },
     {
       "source": {
@@ -1133,7 +1264,8 @@
         "security_intelligence",
         "national_security",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750952700
     },
     {
       "source": {
@@ -1153,7 +1285,8 @@
         "legal_justice",
         "economy_finance",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1750971211
     },
     {
       "source": {
@@ -1173,7 +1306,8 @@
         "legal_justice",
         "security_intelligence",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750979207
     },
     {
       "source": {
@@ -1187,7 +1321,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/plfvHeT9NSs6MRg3xX8.BA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/e54a6208ef63ede8ddf712f00d732f37",
       "publishedAt": "2025-06-26T20:48:13Z",
       "content": "NEW YORK (AP) When the Trump family unveiled a new phone before a giant American flag at its headquarters earlier this month, the pitch was simple and succinct, packed with pure patriotism: Made in t… [+3164 chars]",
-      "tags": ["economy_finance", "small_business"]
+      "tags": [
+        "economy_finance",
+        "small_business"
+      ],
+      "publishedAtTs": 1750970893
     },
     {
       "source": {
@@ -1207,7 +1345,8 @@
         "medical_research",
         "technology_regulation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1750977117
     },
     {
       "source": {
@@ -1221,7 +1360,11 @@
       "urlToImage": "https://media.zenfs.com/en/palm-beach-daily-news/9e7dad416197954cccda763c76099f62",
       "publishedAt": "2025-06-26T18:05:28Z",
       "content": "No tropical activity is expected over the next seven days, although the National Hurricane Center is tracking four tropical waves, including two in the Caribbean.\r\nThat doesn't mean all is quiet in F… [+5489 chars]",
-      "tags": ["natural_disasters", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750961128
     },
     {
       "source": {
@@ -1235,7 +1378,11 @@
       "urlToImage": "https://photos5.appleinsider.com/gallery/64158-133588-IMG_0467-xl.jpg",
       "publishedAt": "2025-06-26T17:59:20Z",
       "content": "J.P. Morgan has lowered its Apple stock price target, warning that iPhone demand may be slowing down after a wave of early purchases and weaker interest in the upcoming models.\r\nIn a note to investor… [+3413 chars]",
-      "tags": ["economy_finance", "stock_market"]
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1750960760
     },
     {
       "source": {
@@ -1255,7 +1402,8 @@
         "trade",
         "technology_regulation",
         "europe"
-      ]
+      ],
+      "publishedAtTs": 1750965262
     },
     {
       "source": {
@@ -1269,7 +1417,12 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/b04a85635b3bebc82dfa710c4a9e3877abc2d489/hub/2025/06/23/757552fe-a93b-4de6-bd84-992ab33dbba0/gas-pump-gettyimages-1460540605.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-06-26T16:28:38Z",
       "content": "Gas prices could go up due to the US-Iran conflict.\r\nAlvaro Gonzalez/Getty Images\r\nBrent crude opened Thursday at $67.83 a barrel, down more than $13 from last week's high of $81, after traders decid… [+2845 chars]",
-      "tags": ["economy_finance", "foreign_policy", "crisis_emergency"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1750955318
     },
     {
       "source": {
@@ -1288,7 +1441,8 @@
         "cybersecurity",
         "security_intelligence",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1750962854
     },
     {
       "source": {
@@ -1306,7 +1460,8 @@
         "media_communications",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750939583
     },
     {
       "source": {
@@ -1326,7 +1481,8 @@
         "healthcare",
         "social_issues",
         "womens_rights"
-      ]
+      ],
+      "publishedAtTs": 1750949780
     },
     {
       "source": {
@@ -1340,7 +1496,12 @@
       "urlToImage": "",
       "publishedAt": "2025-06-26T20:27:51Z",
       "content": "×Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a\r\n membership to support the site and join the conversation, you can explore your option… [+341 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1750969671
     },
     {
       "source": {
@@ -1360,7 +1521,8 @@
         "health_science",
         "science_policy",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1750973740
     },
     {
       "source": {
@@ -1374,7 +1536,12 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Nc2rvhxnEvK46YgoHCbXDG.jpg",
       "publishedAt": "2025-06-26T10:00:00Z",
       "content": "ANCHORAGE, ALASKA — Something was missing at the American Astronomical Society's 246th meeting this year, a conference sometimes referred to as the \"Superbowl of Astronomy.\"\r\nIt's a meeting that brin… [+11768 chars]",
-      "tags": ["science_policy", "medical_research", "public_health"]
+      "tags": [
+        "science_policy",
+        "medical_research",
+        "public_health"
+      ],
+      "publishedAtTs": 1750932000
     },
     {
       "source": {
@@ -1388,7 +1555,12 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/06/trump-mobile-t1-phone.jpg",
       "publishedAt": "2025-06-26T12:31:31Z",
       "content": "The Trump Organization has removed a claim that its newly announced T1 smartphone would be made in America, following doubts about whether the $499 gold device could be manufactured in the U.S. at th… [+2096 chars]",
-      "tags": ["personal_business", "small_business", "economy_finance"]
+      "tags": [
+        "personal_business",
+        "small_business",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1750941091
     },
     {
       "source": {
@@ -1402,7 +1574,12 @@
       "urlToImage": "http://img.youtube.com/vi/GpARr8DVU2M/0.jpg",
       "publishedAt": "2025-06-26T12:24:00Z",
       "content": "from the fox-watching-the-henhouse dept\r\nSo you may have seen that Elon Musk’s long-hyped Robotaxis have finally “launched” in Austin. And it’s going just about how you’d expect if you’re familiar wi… [+5269 chars]",
-      "tags": ["technology_regulation", "transportation", "security_incidents"]
+      "tags": [
+        "technology_regulation",
+        "transportation",
+        "security_incidents"
+      ],
+      "publishedAtTs": 1750940640
     },
     {
       "source": {
@@ -1422,7 +1599,8 @@
         "legal_justice",
         "criminal_cases",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1750960200
     },
     {
       "source": {
@@ -1436,7 +1614,12 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-06-26T02:39:08Z",
       "content": "from the spread-knowledge-openly dept\r\nA year ago, Walled Culture wrote about a growing risk that we will lose access to the worlds knowledge, because of a failure by traditional academic publishers … [+9006 chars]",
-      "tags": ["policy_legislation", "health_science", "media_communications"]
+      "tags": [
+        "policy_legislation",
+        "health_science",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750905548
     },
     {
       "source": {
@@ -1456,7 +1639,8 @@
         "ethics",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750969962
     },
     {
       "source": {
@@ -1476,7 +1660,8 @@
         "health_science",
         "crisis_emergency",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750975862
     },
     {
       "source": {
@@ -1494,7 +1679,8 @@
         "media_communications",
         "security_intelligence",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750952042
     },
     {
       "source": {
@@ -1514,7 +1700,8 @@
         "healthcare",
         "social_issues",
         "womens_rights"
-      ]
+      ],
+      "publishedAtTs": 1750952651
     },
     {
       "source": {
@@ -1528,7 +1715,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e715/live/1a7c2ad0-52a2-11f0-9641-1774b19dc1c9.jpg",
       "publishedAt": "2025-06-26T16:45:18Z",
       "content": "Kirsty Coventry, the new president of the International Olympic Committee, says its members have shown \"overwhelming support\" to protecting the female category in sport.\r\nSpeaking on Thursday, she sa… [+4655 chars]",
-      "tags": ["social_issues", "womens_rights"]
+      "tags": [
+        "social_issues",
+        "womens_rights"
+      ],
+      "publishedAtTs": 1750956318
     },
     {
       "source": {
@@ -1542,7 +1733,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/db38/live/03f1bf40-52ad-11f0-90c3-576318da68e3.jpg",
       "publishedAt": "2025-06-26T16:53:29Z",
       "content": "Liv McMahon\r\nDays after the Trump Organisation announced plans to launch a US-made smartphone, a reference to its American production has vanished from its website.\r\nA \"Made in the USA\" tagline featu… [+2606 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1750956809
     },
     {
       "source": {
@@ -1562,7 +1758,8 @@
         "government_administration",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1750946009
     },
     {
       "source": {
@@ -1582,7 +1779,8 @@
         "government_administration",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1750904907
     },
     {
       "source": {
@@ -1602,7 +1800,8 @@
         "economy_finance",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1750950000
     },
     {
       "source": {
@@ -1616,7 +1815,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/04/2025-04-17T195349Z_368566575_RC2VZDA1BUWF_RTRMADP_3_USA-TRUMP-UNIVERSITIES-1744920619.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-26T20:47:00Z",
       "content": "The administration of United States President Donald Trump has announced an investigation into hiring practices at the University of California (UC) system, the latest instance of his feud with highe… [+4849 chars]",
-      "tags": ["government_administration", "education", "civil_rights"]
+      "tags": [
+        "government_administration",
+        "education",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1750970820
     },
     {
       "source": {
@@ -1636,7 +1840,8 @@
         "intelligence",
         "middle_east",
         "iran"
-      ]
+      ],
+      "publishedAtTs": 1750949965
     },
     {
       "source": {
@@ -1656,7 +1861,8 @@
         "nuclear_policy",
         "iran",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1750955612
     },
     {
       "source": {
@@ -1670,7 +1876,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-25T220500Z_556667515_RC2U9FAHBMQS_RTRMADP_3_USA-TRUMP-IMMIGRATION-ABREGO-GARCIA-1750965642.jpg?resize=1920%2C1440",
       "publishedAt": "2025-06-26T21:52:14Z",
       "content": "Federal prosecutors have told a judge in Maryland that the United States government plans to initiate a new round of removal proceedings against Kilmar Abrego Garcia, a Salvadoran man whose mistaken … [+3704 chars]",
-      "tags": ["immigration", "legal_justice", "policy_legislation"]
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1750974734
     },
     {
       "source": {
@@ -1690,7 +1901,8 @@
         "middle_east",
         "economy_finance",
         "trade"
-      ]
+      ],
+      "publishedAtTs": 1750925603
     },
     {
       "source": {
@@ -1710,7 +1922,8 @@
         "security_intelligence",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1750975605
     }
   ]
 }

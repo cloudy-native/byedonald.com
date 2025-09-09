@@ -20,7 +20,8 @@
         "legal_justice",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752191407
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752105669
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "media_communications",
         "health_science",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752126629
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752176156
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "personal_family",
         "health_science",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752179405
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "government_administration",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752150634
     },
     {
       "source": {
@@ -138,7 +144,8 @@
         "middle_east",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1752181558
     },
     {
       "source": {
@@ -152,7 +159,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6af2/live/8b4b0c70-5cdb-11f0-9c4e-8937711cc91c.jpg",
       "publishedAt": "2025-07-10T23:38:25Z",
       "content": "Brian Wheeler\r\nDonald Trump did not invent the phrase but he made it his own\r\nEvery political campaign needs a good slogan a snappy phrase to energise voters and skewer opponents.\r\nSome slogans reson… [+5918 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752190705
     },
     {
       "source": {
@@ -172,7 +183,8 @@
         "legal_justice",
         "elections_politics",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1752141264
     },
     {
       "source": {
@@ -192,7 +204,8 @@
         "natural_disasters",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752141241
     },
     {
       "source": {
@@ -206,7 +219,14 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2F17%2F8c524c644d50a44a472d0f1ff754%2Fgettyimages-2223795979.jpg",
       "publishedAt": "2025-07-10T20:30:32Z",
       "content": "RIO DE JANEIRO, Brazil Brazilian President Luiz Inácio Lula da Silva says the U.S. must respect his country and he's ready to impose retaliatory tariffs if President Donald Trump goes ahead with a th… [+2773 chars]",
-      "tags": ["trade", "foreign_policy", "brazil", "taxes", "economy_finance"]
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "brazil",
+        "taxes",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752179432
     },
     {
       "source": {
@@ -220,7 +240,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4995x2810+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2Ff3%2Fc8b6e04f4bd0b3b5cd70a5e9151e%2Fap25190693809204.jpg",
       "publishedAt": "2025-07-10T05:39:20Z",
       "content": "UNITED NATIONS The Trump administration announced Wednesday that it is issuing sanctions against an independent investigator tasked with probing human rights abuses in the Palestinian territories, th… [+5750 chars]",
-      "tags": ["foreign_policy", "middle_east", "legal_justice", "civil_rights"]
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "legal_justice",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1752125960
     },
     {
       "source": {
@@ -240,7 +266,8 @@
         "security_incidents",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752118258
     },
     {
       "source": {
@@ -254,7 +281,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F93%2F4dc7c66b4b01b15164259674242a%2Fgettyimages-1250775435.jpg",
       "publishedAt": "2025-07-10T17:49:00Z",
       "content": "A federal judge ordered two attorneys representing MyPillow CEO Mike Lindell in a Colorado defamation case to pay $3,000 each after they used artificial intelligence to prepare a court filing filled … [+7189 chars]",
-      "tags": ["technology_regulation", "legal_justice", "crisis_emergency"]
+      "tags": [
+        "technology_regulation",
+        "legal_justice",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752169740
     },
     {
       "source": {
@@ -274,7 +306,8 @@
         "travel",
         "security_incidents",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1752134761
     },
     {
       "source": {
@@ -294,7 +327,8 @@
         "economy_finance",
         "elections_politics",
         "stock_market"
-      ]
+      ],
+      "publishedAtTs": 1752168171
     },
     {
       "source": {
@@ -314,7 +348,8 @@
         "legal_justice",
         "security_clearances",
         "personal_business"
-      ]
+      ],
+      "publishedAtTs": 1752139261
     },
     {
       "source": {
@@ -334,7 +369,8 @@
         "government_administration",
         "security_incidents",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752140761
     },
     {
       "source": {
@@ -354,7 +390,8 @@
         "social_issues",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1752135181
     },
     {
       "source": {
@@ -368,7 +405,13 @@
       "urlToImage": "https://i.insider.com/686ee35df748d8c055f54f08?width=1200&format=jpeg",
       "publishedAt": "2025-07-10T01:34:30Z",
       "content": "Tesla risks violating Texas governance rules if it doesn't schedule its annual shareholder meeting.Vincent Alban/REUTERS\r\n<ul><li>Tesla risks violating Texas governance rules if it doesn't schedule i… [+4069 chars]",
-      "tags": ["economy_finance", "stock_market", "texas", "legal_justice"]
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "texas",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752111270
     },
     {
       "source": {
@@ -388,7 +431,8 @@
         "media_communications",
         "security_intelligence",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1752168286
     },
     {
       "source": {
@@ -408,7 +452,8 @@
         "legal_justice",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752177715
     },
     {
       "source": {
@@ -428,7 +473,8 @@
         "government_administration",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752187470
     },
     {
       "source": {
@@ -446,7 +492,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752141300
     },
     {
       "source": {
@@ -460,7 +507,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V15NqIHqsyibOqvXNLSOdQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the_conversation_us_articles_815/8b647fe710abf21c11bebdc8a5399802",
       "publishedAt": "2025-07-10T17:22:21Z",
       "content": "The Trump administration wants to take away citizenship from naturalized Americans on a massive scale.\r\nWhile a recent Justice Department memo prioritizes national security cases, it directs the depa… [+7151 chars]",
-      "tags": ["legal_justice", "government_administration", "civil_rights"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1752168141
     },
     {
       "source": {
@@ -474,7 +526,13 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/1ffdeee432ee223c7d170b6a24deed96",
       "publishedAt": "2025-07-10T07:02:20Z",
       "content": "By Anna Hirtenstein and Alexander Marrow\r\nLONDON (Reuters) -A U.S.-owned canned food company seized by Russia to safeguard domestic food supplies is planning to boost dwindling sales with exports to … [+4447 chars]",
-      "tags": ["foreign_policy", "trade", "russia", "china"]
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "russia",
+        "china"
+      ],
+      "publishedAtTs": 1752130940
     },
     {
       "source": {
@@ -494,7 +552,8 @@
         "legal_justice",
         "federal_courts",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752163072
     },
     {
       "source": {
@@ -512,7 +571,8 @@
         "doj_actions",
         "congressional_investigations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752185214
     },
     {
       "source": {
@@ -526,7 +586,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f8d74062-1068-47c1-94ee-2cf5313ce413/250710_abc_social_ault_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-10T18:31:01Z",
       "content": "<ul><li>Federal judge blocks Trumps EO on birthright citizenship after SCOTUS ruling\r\n</li><li>First responders challenged by 'massive area' in Texas recovery efforts\r\n</li><li>Palestinian children k… [+4423 chars]",
-      "tags": ["natural_disasters", "regional_state", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "regional_state",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752172261
     },
     {
       "source": {
@@ -540,7 +605,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9091cbf2-65a8-4331-a025-6a61c176b317/250710_abc_soc_hawaii_volcano1b_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-10T11:13:15Z",
       "content": "<ul><li>Dozens of workers rescued after tunnel collapse\r\n</li><li>New questions about emergency response in Texas after flooding\r\n</li><li>Severe storms drench East Coast\r\n</li><li>At least 2 killed … [+4532 chars]",
-      "tags": ["natural_disasters", "crisis_emergency"]
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752145995
     },
     {
       "source": {
@@ -554,7 +623,13 @@
       "urlToImage": "https://i.abcnewsfe.com/a/11526a2f-5e40-45eb-baf2-060f52cd7fc7/250710_abcnl_11a_reevell_ukraine_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-10T18:30:46Z",
       "content": "<ul><li>Federal judge blocks Trumps EO on birthright citizenship after SCOTUS ruling\r\n</li><li>First responders challenged by 'massive area' in Texas recovery efforts\r\n</li><li>Palestinian children k… [+4423 chars]",
-      "tags": ["foreign_policy", "russia", "europe", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "europe",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752172246
     },
     {
       "source": {
@@ -568,7 +643,12 @@
       "urlToImage": "https://i.abcnewsfe.com/a/43685756-203e-4263-9ab2-6d7576e5faf1/250709_abc_social_gator1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-07-10T05:29:09Z",
       "content": "<ul><li>Son searching for parents after Texas floods hopes tragedy will bring people together\r\n</li><li>Russia launches largest aerial assault on Ukraine after Trump's criticism of Putin\r\n</li><li>At… [+4339 chars]",
-      "tags": ["regional_state", "crisis_emergency", "health_science"]
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "health_science"
+      ],
+      "publishedAtTs": 1752125349
     },
     {
       "source": {
@@ -587,7 +667,8 @@
         "florida",
         "crisis_emergency",
         "natural_disasters"
-      ]
+      ],
+      "publishedAtTs": 1752125115
     },
     {
       "source": {
@@ -601,7 +682,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/joe-rogan-donald-trump-ufc.jpg",
       "publishedAt": "2025-07-10T20:41:38Z",
       "content": "He hasnt said it outright yet, but Joe Rogan appears to be inching away from Donald Trump, the candidate he endorsed for the 2024 presidential election. Week after week, the wildly popular podcaster … [+5219 chars]",
-      "tags": ["media_communications", "legal_justice", "security_intelligence"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752180098
     },
     {
       "source": {
@@ -621,7 +707,8 @@
         "elections_politics",
         "media_communications",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1752169824
     },
     {
       "source": {
@@ -635,7 +722,12 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/08/Donald-Trump-and-Jeffrey-Epstein-hang-out.jpg",
       "publishedAt": "2025-07-10T19:00:22Z",
       "content": "A Justice Department memo published earlier this week states that Jeffrey Epstein, the notorious pedophile, had over one thousand victimsa figure that is substantially larger than previous estimates.… [+3971 chars]",
-      "tags": ["criminal_cases", "doj_actions", "legal_justice"]
+      "tags": [
+        "criminal_cases",
+        "doj_actions",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752174022
     },
     {
       "source": {
@@ -649,7 +741,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/07/Amazon-Prime-Day-Shipping-1-1200x675.jpg",
       "publishedAt": "2025-07-10T17:01:03Z",
       "content": "At this point, Amazons July Prime Day should be called Prime Week. This latest manufactured shopping holiday is supposed to last for four days through Friday, July 11, exhausting our collective eyeba… [+4753 chars]",
-      "tags": ["economy_finance", "media_communications"]
+      "tags": [
+        "economy_finance",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752166863
     },
     {
       "source": {
@@ -669,7 +765,8 @@
         "federal_agencies",
         "border_security",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752141600
     },
     {
       "source": {
@@ -688,7 +785,8 @@
         "ethics",
         "legal_justice",
         "government_operations"
-      ]
+      ],
+      "publishedAtTs": 1752159540
     },
     {
       "source": {
@@ -708,7 +806,8 @@
         "foreign_policy",
         "china",
         "asia_pacific"
-      ]
+      ],
+      "publishedAtTs": 1752170276
     },
     {
       "source": {
@@ -722,7 +821,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Up0MR9lQ9irEi_v2F5SDmxRkjrk=/0x42:2000x1084/1200x625/media/newsletters/2025/07/2025_07_10_QA_mpg/original.jpg",
       "publishedAt": "2025-07-10T21:00:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Ja… [+8772 chars]",
-      "tags": ["security_intelligence", "health_science", "foreign_policy"]
+      "tags": [
+        "security_intelligence",
+        "health_science",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752181200
     },
     {
       "source": {
@@ -741,7 +845,8 @@
         "religious_freedom",
         "social_issues",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752148800
     },
     {
       "source": {
@@ -761,7 +866,8 @@
         "security_intelligence",
         "social_issues",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1752145200
     },
     {
       "source": {
@@ -775,7 +881,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/2slhM2BecUbgPAKJrM_15iimplI=/300x235:3975x2149/1200x625/media/img/mt/2025/07/Radio_Atlantic_Vertical_Depopulation/original.jpg",
       "publishedAt": "2025-07-10T12:30:00Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsDean Spears does not want to alarm you. The co-author of After the Spike: Population, Progress, and the Case for People arg… [+27724 chars]",
-      "tags": ["health_science", "social_issues", "policy_legislation"]
+      "tags": [
+        "health_science",
+        "social_issues",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752150600
     },
     {
       "source": {
@@ -795,7 +906,8 @@
         "trade",
         "economy_finance",
         "international_crisis"
-      ]
+      ],
+      "publishedAtTs": 1752171592
     },
     {
       "source": {
@@ -809,7 +921,12 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/19f9866f554867a8/original/John-Weeks-bridge.jpeg?m=1751919885.794&w=1200",
       "publishedAt": "2025-07-10T12:00:00Z",
       "content": "Grant cancellations and budget reductions at the National Institutes of Health have put millions of dollars in research for promising new cancer treatments, tuberculosis therapies, and much more in j… [+9096 chars]",
-      "tags": ["health_science", "policy_legislation", "economy_finance"]
+      "tags": [
+        "health_science",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752148800
     },
     {
       "source": {
@@ -828,7 +945,8 @@
         "technology_regulation",
         "energy",
         "public_health_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752163200
     },
     {
       "source": {
@@ -842,7 +960,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bth_nqMFV_IcMRPo2.z9nA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/56f2ba6d6b150d73e1f2b4b5463218b0",
       "publishedAt": "2025-07-10T17:30:32Z",
       "content": "NEW YORK (AP) On a recent afternoon, Mahmoud Khalil sat in his Manhattan apartment, cradling his 10-week-old son as he thought back to the pre-dawn hours spent pacing a frigid immigration jail in Lou… [+6141 chars]",
-      "tags": ["legal_justice", "immigration", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1752168632
     },
     {
       "source": {
@@ -856,7 +979,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fDi0HrmnMnla0snmfPBx_w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/69270e2573c8bf21a0bb077678e39ba8",
       "publishedAt": "2025-07-10T20:28:42Z",
       "content": "PORTLAND, Ore. (AP) Democratic U.S. Sen. Jeff Merkley of Oregon said Thursday that he will run for reelection next year to seek a fourth term in Congress.\r\nIn a statement, the 68-year-old denounced t… [+608 chars]",
-      "tags": ["elections_politics", "policy_legislation", "regional_state"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752179322
     },
     {
       "source": {
@@ -870,7 +998,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yUkyanwYoVuCzUbwHS41cQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/22ab95a0-5988-11f0-afbf-1f03a90a8ca5",
       "publishedAt": "2025-07-10T11:00:50Z",
       "content": "Listen and subscribe to Decoding Retirement on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nHealthcare expert Jae Oh is cautioning others about sweeping disruptions to healt… [+6187 chars]",
-      "tags": ["healthcare", "policy_legislation", "economy_finance"]
+      "tags": [
+        "healthcare",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752145250
     },
     {
       "source": {
@@ -884,7 +1017,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AMuwQzlOtukR_JxGueXUFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/f1846983530520789e46e749003ce941",
       "publishedAt": "2025-07-10T20:09:02Z",
       "content": "AUSTIN, Texas (AP) Texas state Sen. Angela Paxton, the wife of Republican Texas Attorney General Ken Paxton, filed for divorce on Thursday, seeking to end 38 years of marriage as her husband campaign… [+3018 chars]",
-      "tags": ["personal_legal", "legal_justice", "regional_state"]
+      "tags": [
+        "personal_legal",
+        "legal_justice",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752178142
     },
     {
       "source": {
@@ -898,7 +1036,12 @@
       "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/07/10143456/SEI_258517892.jpg",
       "publishedAt": "2025-07-10T16:00:11Z",
       "content": "The plasma near Jupiter’s poles is capable of unusual behaviour\r\nNASA/JPL-Caltech/SwRI/MSSS; Oleksuik © CC NC SA\r\nThe cosmic neighbourhood of Jupiter is one of the more peculiar places in the solar s… [+1996 chars]",
-      "tags": ["health_science", "science_policy", "space_policy"]
+      "tags": [
+        "health_science",
+        "science_policy",
+        "space_policy"
+      ],
+      "publishedAtTs": 1752163211
     },
     {
       "source": {
@@ -918,7 +1061,8 @@
         "media_communications",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752171034
     },
     {
       "source": {
@@ -938,7 +1082,8 @@
         "health_science",
         "economy_finance",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752184920
     },
     {
       "source": {
@@ -952,7 +1097,8 @@
       "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1587/15875866/4529819-screenshot2025-07-10154519.png",
       "publishedAt": "2025-07-10T23:27:00Z",
       "content": "As seen in the latest State of Play, Ghost of Ytei is changing things up when it comes to combat, opting to give protagonist Atsu far more tools and weapons than Ghost of Tsushima's Jin.\r\nThe State o… [+1666 chars]",
-      "tags": []
+      "tags": [],
+      "publishedAtTs": 1752190020
     },
     {
       "source": {
@@ -972,7 +1118,8 @@
         "space_policy",
         "security_incidents",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752168146
     },
     {
       "source": {
@@ -986,7 +1133,12 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/productivity.png",
       "publishedAt": "2025-07-10T10:30:25Z",
       "content": "Prime Day is a scam: In reality, Amazon deploys deceptive tactics to exaggerate its markdowns and create a false sense of urgency. Featured items are often available at similar or lower prices at oth… [+2628 chars]",
-      "tags": ["economy_finance", "media_communications", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752143425
     },
     {
       "source": {
@@ -1005,7 +1157,8 @@
         "economy_finance",
         "health_science",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752178162
     },
     {
       "source": {
@@ -1023,7 +1176,8 @@
         "government_administration",
         "policy_legislation",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752154969
     },
     {
       "source": {
@@ -1043,7 +1197,8 @@
         "media_communications",
         "security_intelligence",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752169920
     },
     {
       "source": {
@@ -1057,7 +1212,10 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-07-10T12:22:00Z",
       "content": "from the this-is-why-we-can't-have-nice-things dept\r\nHave I mentioned lately that the U.S. no longer has functional federal consumer protection and corporate oversight thanks to Donald Trump? And how… [+5757 chars]",
-      "tags": ["consumer_protection"]
+      "tags": [
+        "consumer_protection"
+      ],
+      "publishedAtTs": 1752150120
     },
     {
       "source": {
@@ -1077,7 +1235,8 @@
         "social_issues",
         "education",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752164700
     },
     {
       "source": {
@@ -1096,7 +1255,8 @@
         "technology_regulation",
         "consumer_protection",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752180220
     },
     {
       "source": {
@@ -1116,7 +1276,8 @@
         "legal_justice",
         "policy_legislation",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752174127
     },
     {
       "source": {
@@ -1130,7 +1291,13 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2221902508.jpg?quality=90&strip=all&crop=0%2C10.752889363072%2C100%2C78.494221273856&w=1200",
       "publishedAt": "2025-07-10T22:30:37Z",
       "content": "Health and Human Services Secretary Robert F. Kennedy Jr. testifies before the House Energy and Commerce Committee Health Subcommittee in the Rayburn House Office Building on June 24, 2025.﻿ | Kayla … [+2862 chars]",
-      "tags": ["policy_legislation", "immigration", "education", "healthcare"]
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "education",
+        "healthcare"
+      ],
+      "publishedAtTs": 1752186637
     },
     {
       "source": {
@@ -1150,7 +1317,8 @@
         "doj_actions",
         "presidential_security",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752156331
     },
     {
       "source": {
@@ -1164,7 +1332,12 @@
       "urlToImage": "https://imagez.tmz.com/image/97/16by9/2025/07/10/978173ab33e442c4a2e9cc1ce6ccafb6_xl.jpg",
       "publishedAt": "2025-07-10T15:29:57Z",
       "content": "A deranged Pennsylvania man says he executed and beheaded his own dad -- and then posted the grisly aftermath online -- all 'cause, according to him, his dad was standing in the way of his dream to b… [+1178 chars]",
-      "tags": ["criminal_cases", "mental_health", "personal_legal"]
+      "tags": [
+        "criminal_cases",
+        "mental_health",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1752161397
     },
     {
       "source": {
@@ -1178,7 +1351,12 @@
       "urlToImage": "https://imagez.tmz.com/image/65/16by9/2025/07/10/6556af3fd75647cbbe9abd25fd455eaa_xl.jpg",
       "publishedAt": "2025-07-10T17:55:59Z",
       "content": "Ghislaine Maxwell is hopeful President Trump will review her case and pardon her ... after his DOJ's controversial announcement about the Jeffrey Epstein files this week -- but sources close to the P… [+2007 chars]",
-      "tags": ["criminal_cases", "pardons", "personal_legal"]
+      "tags": [
+        "criminal_cases",
+        "pardons",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1752170159
     },
     {
       "source": {
@@ -1198,7 +1376,8 @@
         "security_intelligence",
         "personal_family",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752122748
     },
     {
       "source": {
@@ -1218,7 +1397,8 @@
         "policy_legislation",
         "crisis_emergency",
         "travel"
-      ]
+      ],
+      "publishedAtTs": 1752162699
     },
     {
       "source": {
@@ -1232,7 +1412,12 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/07/Feb-slate.png?w=650",
       "publishedAt": "2025-07-10T23:30:00Z",
       "content": "While Trump has flirted with imposing a 100 percent tariff on movies made outside the United States, Wisconsin is welcoming the industry with hope and energy. A new bipartisan budget from the Badger … [+7882 chars]",
-      "tags": ["policy_legislation", "economy_finance", "regional_state"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752190200
     },
     {
       "source": {
@@ -1250,7 +1435,8 @@
         "foreign_policy",
         "economy_finance",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1752159600
     },
     {
       "source": {
@@ -1270,7 +1456,8 @@
         "security_intelligence",
         "personal_legal",
         "middle_east"
-      ]
+      ],
+      "publishedAtTs": 1752183119
     },
     {
       "source": {
@@ -1284,7 +1471,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752165897.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-07-10T16:45:13Z",
       "content": "NewsFeed\r\nThe Trump administration has sanctioned Francesca Albanese, the UN Special Rapporteur on the occupied Palestinian territories, over her critical reports on Israels genocide in Gaza.",
-      "tags": ["foreign_policy", "legal_justice", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752165913
     },
     {
       "source": {
@@ -1304,7 +1496,8 @@
         "government_administration",
         "executive_orders",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752165975
     },
     {
       "source": {
@@ -1322,7 +1515,8 @@
         "security_intelligence",
         "legal_justice",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752115450
     },
     {
       "source": {
@@ -1336,7 +1530,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/afp_686f9b0f65f1-1752144655.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-10T12:41:15Z",
       "content": "A budget is a moral document, as numerous human rights activists have said over the decades. If that is true, then the socalled One Big, Beautiful Bill represents a grotesque example of the immoralit… [+6957 chars]",
-      "tags": ["policy_legislation", "economy_finance", "social_issues"]
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752151275
     },
     {
       "source": {
@@ -1356,7 +1555,8 @@
         "security_intelligence",
         "crisis_emergency",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752109599
     },
     {
       "source": {
@@ -1370,7 +1570,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/ap_686ffece1fa74-1752170190.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-10T18:57:51Z",
       "content": "Liberians are expressing confusion and anger after United States President Donald Trump praised the English skills of their countrys President Joseph Boakai.\r\nSuch good English, Trump said to Boakai … [+4760 chars]",
-      "tags": ["media_communications", "foreign_policy", "social_issues"]
+      "tags": [
+        "media_communications",
+        "foreign_policy",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752173871
     },
     {
       "source": {
@@ -1390,7 +1595,8 @@
         "brazil",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752162879
     },
     {
       "source": {
@@ -1410,7 +1616,8 @@
         "europe",
         "national_security",
         "ukraine"
-      ]
+      ],
+      "publishedAtTs": 1752161726
     },
     {
       "source": {
@@ -1429,7 +1636,8 @@
         "asia_pacific",
         "international_organizations",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752139009
     },
     {
       "source": {
@@ -1449,7 +1657,8 @@
         "middle_east",
         "ukraine",
         "international_organizations"
-      ]
+      ],
+      "publishedAtTs": 1752154188
     },
     {
       "source": {
@@ -1469,7 +1678,8 @@
         "health_science",
         "international_organizations",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752164510
     },
     {
       "source": {
@@ -1489,7 +1699,8 @@
         "policy_legislation",
         "legal_justice",
         "social_issues"
-      ]
+      ],
+      "publishedAtTs": 1752186399
     },
     {
       "source": {
@@ -1509,7 +1720,8 @@
         "security_intelligence",
         "national_security",
         "military"
-      ]
+      ],
+      "publishedAtTs": 1752136378
     },
     {
       "source": {
@@ -1523,7 +1735,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/13089664-1752115425.jpg?resize=1200%2C675",
       "publishedAt": "2025-07-10T04:34:21Z",
       "content": "A parliamentary committee in the United Kingdom is demanding that a US consulting giant explain its activities in Gaza, including its role in establishing a controversial aid group under scrutiny ove… [+3339 chars]",
-      "tags": ["foreign_policy", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752122061
     },
     {
       "source": {
@@ -1543,7 +1759,8 @@
         "middle_east",
         "security_intelligence",
         "nuclear_policy"
-      ]
+      ],
+      "publishedAtTs": 1752149148
     },
     {
       "source": {
@@ -1557,7 +1774,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25191031272886-1752128110.jpg?resize=1920%2C1440",
       "publishedAt": "2025-07-10T06:59:41Z",
       "content": "Several hundred people have gathered in Tivy Antler Stadium in Texas to mourn the many lives lost and pray for those still missing from the catastrophic flash floods that battered the state over the … [+2895 chars]",
-      "tags": ["natural_disasters", "crisis_emergency", "regional_state"]
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency",
+        "regional_state"
+      ],
+      "publishedAtTs": 1752130781
     },
     {
       "source": {
@@ -1577,7 +1799,8 @@
         "ukraine",
         "security_intelligence",
         "national_security"
-      ]
+      ],
+      "publishedAtTs": 1752110666
     },
     {
       "source": {
@@ -1595,7 +1818,8 @@
         "technology_regulation",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752136318
     },
     {
       "source": {
@@ -1609,7 +1833,12 @@
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/Lenovo-Legion-Go-S-Legion-Space-software-1.jpg?quality=50&strip=all&w=1024",
       "publishedAt": "2025-07-10T16:40:57Z",
       "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nI’ve seen a lot of h… [+2448 chars]",
-      "tags": ["technology_regulation", "personal_family", "health_science"]
+      "tags": [
+        "technology_regulation",
+        "personal_family",
+        "health_science"
+      ],
+      "publishedAtTs": 1752165657
     },
     {
       "source": {
@@ -1623,7 +1852,11 @@
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/Hue-Bridge-4.jpg?quality=50&strip=all&w=1024",
       "publishedAt": "2025-07-10T07:00:00Z",
       "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nEven after a recent … [+4212 chars]",
-      "tags": ["economy_finance", "technology_regulation"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752130800
     },
     {
       "source": {
@@ -1637,7 +1870,12 @@
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/hds-PCW-Prime-Day-25-12.jpg?quality=50&strip=all&w=1024",
       "publishedAt": "2025-07-10T07:00:00Z",
       "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nSummer means leisure… [+4934 chars]",
-      "tags": ["economy_finance", "technology_regulation", "personal_family"]
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752130800
     },
     {
       "source": {
@@ -1651,7 +1889,10 @@
       "urlToImage": "https://www.pcworld.com/wp-content/uploads/2025/07/displays-PCW-Prime-Day-25-20.jpg?quality=50&strip=all&w=1024",
       "publishedAt": "2025-07-10T07:00:00Z",
       "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nOne of the easiest w… [+5599 chars]",
-      "tags": ["technology_regulation"]
+      "tags": [
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752130800
     }
   ]
 }

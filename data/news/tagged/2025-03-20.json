@@ -20,7 +20,8 @@
         "latin_america",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1742515008
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "gun_policy",
         "security_intelligence",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1742514989
     },
     {
       "source": {
@@ -57,7 +59,8 @@
         "government_administration",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1742514962
     },
     {
       "source": {
@@ -76,7 +79,8 @@
         "policy_legislation",
         "foreign_policy",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1742514630
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "economy_finance",
         "policy_legislation",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1742514443
     },
     {
       "source": {
@@ -114,7 +119,8 @@
         "legal_justice",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1742514415
     },
     {
       "source": {
@@ -128,7 +134,12 @@
       "urlToImage": "https://images.firstpost.com/uploads/2025/02/reciprocaltariffs-trump-2025-02-4737d9da2eb3d7a3a59300179aea812d.jpg?im=FitAndFill=(1200,675)",
       "publishedAt": "2025-03-20T23:45:57Z",
       "content": "US President Donald Trump signed an executive order on Thursday to scale back the federal government’s role in education. The decision aligns with his and the Republican Party’s long-standing commitment to decentralising education policy. read more\nU... [2370 chars]",
-      "tags": ["government_administration", "policy_legislation", "education"]
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "education"
+      ],
+      "publishedAtTs": 1742514357
     },
     {
       "source": {
@@ -142,7 +153,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/d1/8d17ab14-d473-54f0-b398-a7256f134a91/67dc979d693a0.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-03-20T23:45:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["government_operations", "policy_legislation", "health_science"]
+      "tags": [
+        "government_operations",
+        "policy_legislation",
+        "health_science"
+      ],
+      "publishedAtTs": 1742514300
     },
     {
       "source": {
@@ -156,7 +172,12 @@
       "urlToImage": "https://e3.365dm.com/25/03/1600x900/skynews-donald-trump-department-of-education_6862709.jpg?20250320225511",
       "publishedAt": "2025-03-20T23:45:00Z",
       "content": "US President Donald Trump has signed an executive order calling for the dismantling of the country's department of education.\nHowever, the department cannot be dismantled without an act of Congress, which created it in 1979. Republicans have said the... [2405 chars]",
-      "tags": ["government_operations", "education", "executive_orders"]
+      "tags": [
+        "government_operations",
+        "education",
+        "executive_orders"
+      ],
+      "publishedAtTs": 1742514300
     },
     {
       "source": {
@@ -170,7 +191,12 @@
       "urlToImage": "https://images.indianexpress.com/2025/03/Trump-1-2.jpg",
       "publishedAt": "2025-03-20T23:41:51Z",
       "content": "A federal judge instructed the Trump administration to explain why its failure to turn around flights carrying deportees to El Salvador did not violate his court order in a growing showdown between the judicial and executive branches.\nUS District Jud... [2457 chars]",
-      "tags": ["legal_justice", "government_administration", "immigration"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "immigration"
+      ],
+      "publishedAtTs": 1742514111
     }
   ]
 }

@@ -20,7 +20,8 @@
         "foreign_policy",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1726789905
     },
     {
       "source": {
@@ -39,7 +40,8 @@
         "legal_justice",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726789450
     },
     {
       "source": {
@@ -59,7 +61,8 @@
         "immigration",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726788633
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "social_issues",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1726788513
     },
     {
       "source": {
@@ -98,7 +102,8 @@
         "government_administration",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1726787935
     },
     {
       "source": {
@@ -118,7 +123,8 @@
         "crisis_emergency",
         "media_communications",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1726787390
     },
     {
       "source": {
@@ -138,7 +144,8 @@
         "regional_state",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1726786826
     },
     {
       "source": {
@@ -158,7 +165,8 @@
         "national_security",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1726786800
     },
     {
       "source": {
@@ -177,7 +185,8 @@
         "personal_legal",
         "health",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1726786800
     },
     {
       "source": {
@@ -197,7 +206,8 @@
         "doj_actions",
         "congressional_investigations",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726785438
     },
     {
       "source": {
@@ -215,7 +225,8 @@
         "media_communications",
         "government_administration",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1726783140
     },
     {
       "source": {
@@ -235,7 +246,8 @@
         "social_issues",
         "civil_rights",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726782474
     },
     {
       "source": {
@@ -255,7 +267,8 @@
         "immigration",
         "regional_state",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1726782030
     },
     {
       "source": {
@@ -269,7 +282,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/489d392a7081d4642aa2fd5f071a8a66",
       "publishedAt": "2024-09-19T21:38:29Z",
       "content": "WASHINGTON (Reuters) - The chair of the Federal Communications Commission rejected former U.S. President Donald Trump's suggestion that Walt Disney-owned ABC should lose its broadcast licenses over the network's moderating Sept. 10 presidential debat... [499 chars]",
-      "tags": ["media_communications", "legal_justice", "elections_politics"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1726781909
     },
     {
       "source": {
@@ -289,7 +307,8 @@
         "legal_justice",
         "elections_politics",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1726781636
     },
     {
       "source": {
@@ -303,7 +322,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/09/gettyimages-2168373354.jpg?quality=90&strip=all&crop=0%2C10.72987452716%2C100%2C78.54025094568&w=1200",
       "publishedAt": "2024-09-19T21:00:00Z",
       "content": "covers breaking and general assignment news as the weekend reporter at Vox. She previously worked at Business Insider covering the military and global conflicts.\nTeamsters General President Sean M. O’Brien speaks during a rally with workers and union... [5802 chars]",
-      "tags": ["labor", "elections_politics", "policy_legislation"]
+      "tags": [
+        "labor",
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1726779600
     },
     {
       "source": {
@@ -321,7 +345,8 @@
         "government_administration",
         "elections_politics",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1726778011
     },
     {
       "source": {
@@ -341,7 +366,8 @@
         "media_communications",
         "personal_family",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726777930
     },
     {
       "source": {
@@ -361,7 +387,8 @@
         "media_communications",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1726777262
     },
     {
       "source": {
@@ -381,7 +408,8 @@
         "elections_politics",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1726776723
     },
     {
       "source": {
@@ -395,7 +423,12 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/19/19/enhanced/890b4a02e123/original-1412-1726775736-2.jpg?crop=3000:1575;0,0%26downsize=1250:*",
       "publishedAt": "2024-09-19T20:06:48Z",
       "content": "Biden upended the race when he dropped out in July and endorsed Harris to take up the mantle.\nHarris leads Trump by 3 percentage points in FiveThirtyEight’s latest national polling average of what still looks to be an incredibly tight election.\nTrump... [524 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1726776408
     },
     {
       "source": {
@@ -409,7 +442,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/716343/uploads/53fa8410-7651-11ef-b3a9-470f162dea98_1200_630.jpeg",
       "publishedAt": "2024-09-19T20:00:01Z",
       "content": "Maggie Haberman, a reporter for the New York Times, shared her take on what the Trump campaign thinks. This comes after some recent controversy about JD Vance, who’s running alongside Donald Trump in the 2024 presidential race. Haberman thinks the fo... [3192 chars]",
-      "tags": ["elections_politics", "media_communications", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1726776001
     },
     {
       "source": {
@@ -423,7 +461,13 @@
       "urlToImage": "https://www.theglobeandmail.com/resizer/v2/H6ZKOSDFMNHKJMYS72R4U6QRTA.JPG?auth=79cc611525e8f918e7429a05c410110c13525f73dd2f2ee9c73793ad67952330&width=1200&height=800&quality=80&smart=true",
       "publishedAt": "2024-09-19T19:49:04Z",
       "content": "Open this photo in gallery: U.S. Vice President Kamala Harris, left, shakes hands with Ukraine President Volodymyr Zelensky as they meet for a bilateral talk during the Summit on peace in Ukraine, in Stansstad, Switzerland, on June 15.ALESSANDRO DELL... [4957 chars]",
-      "tags": ["foreign_policy", "europe", "russia", "international_crisis"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "russia",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1726775344
     },
     {
       "source": {
@@ -443,7 +487,8 @@
         "government_administration",
         "legal_justice",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1726774421
     },
     {
       "source": {
@@ -457,7 +502,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/716388/uploads/bd634af0-765a-11ef-b616-e5cc318f8667_1200_630.jpeg",
       "publishedAt": "2024-09-19T19:30:20Z",
       "content": "Taylor Swift recently announced she'd vote for Kamala Harris and her running mate Tim Walz. This led to a buzz in the entertainment world with many celebrities liking Swift's endorsement, echoing the singer's stance. The list included her paramour Tr... [3088 chars]",
-      "tags": ["elections_politics", "social_issues", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1726774220
     }
   ]
 }

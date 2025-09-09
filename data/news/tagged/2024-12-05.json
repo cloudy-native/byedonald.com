@@ -20,7 +20,8 @@
         "personal_family",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1733442991
     },
     {
       "source": {
@@ -34,7 +35,12 @@
       "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/CHFYH2WYHFBHVL5MGJUEVMSB44.png?auth=1850836198ff447f04cb9d8acebacb7381080f414c54284c39345a18833f91d2&width=1200&height=600&smart=true",
       "publishedAt": "2024-12-05T23:53:32Z",
       "content": "EAU CLAIRE, Wis. (WEAU) - Price tags for both goods and services are something consumers could see if President-elect Donald Trump goes through with his threat of placing tariffs on Chinese imports.\n“Tariffs are essentially a tax on a good or service... [1676 chars]",
-      "tags": ["economy_finance", "policy_legislation", "trade"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation",
+        "trade"
+      ],
+      "publishedAtTs": 1733442812
     },
     {
       "source": {
@@ -54,7 +60,8 @@
         "elections_politics",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1733442743
     },
     {
       "source": {
@@ -68,7 +75,11 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/cb930cde-3185-4793-b896-26c3a36f5772/20241205T234556/cb930cde-3185-4793-b896-26c3a36f5772_1140x641.jpg",
       "publishedAt": "2024-12-05T23:50:29Z",
       "content": "While ethics reports have previously been released after a member’s resignation, it is extremely rare.\nWASHINGTON — The House shut down Democrats' efforts Thursday to release the long-awaited ethics report into former Rep. Matt Gaetz, pushing the fat... [2803 chars]",
-      "tags": ["legal_justice", "ethics"]
+      "tags": [
+        "legal_justice",
+        "ethics"
+      ],
+      "publishedAtTs": 1733442629
     },
     {
       "source": {
@@ -88,7 +99,8 @@
         "government_administration",
         "economy_finance",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1733442583
     },
     {
       "source": {
@@ -108,7 +120,8 @@
         "national_security",
         "congressional_investigations",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1733442561
     },
     {
       "source": {
@@ -127,7 +140,8 @@
         "ethics",
         "government_administration",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1733442373
     },
     {
       "source": {
@@ -141,7 +155,12 @@
       "urlToImage": "https://dab57h0r8ahff.cloudfront.net/727289/uploads/fc8fcd30-b321-11ef-ab6b-65ab3216f03f_1200_630.jpeg",
       "publishedAt": "2024-12-05T23:45:00Z",
       "content": "Donald Trump and his wife Melania Trump will move back to the White House at the top of next year. But Melania, a former model, once impressively predicted herself becoming the first lady. A resurfaced interview from 1999 documented a young Melania K... [2739 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1733442300
     },
     {
       "source": {
@@ -155,7 +174,12 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/104433172-IMG_3512rr.jpg?v=1695770107&w=1920&h=1080",
       "publishedAt": "2024-12-05T23:31:12Z",
       "content": "CNBC's Jim Cramer on Thursday reflected on bitcoin 's rapid ascent — and while he praised the currency's value, he said it's unwise not to also include stocks in a portfolio.\n\"While we could become the bitcoin network, especially since President-elec... [1564 chars]",
-      "tags": ["cryptocurrency", "stock_market", "economy_finance"]
+      "tags": [
+        "cryptocurrency",
+        "stock_market",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1733441472
     },
     {
       "source": {
@@ -169,7 +193,12 @@
       "urlToImage": "https://variety.com/wp-content/uploads/2024/07/GettyImages-2156580050-e1722024265608.jpg?crop=0px%2C64px%2C1875px%2C1056px&resize=1000%2C563",
       "publishedAt": "2024-12-05T23:28:51Z",
       "content": "Jon Stewart used the latest episode of his “Weekly Show” podcast (via The Daily Beast) to criticize the media for getting Americans scared about Donald Trump‘s second term as president before it’s even begun.\n“The Daily Show” host said America is in ... [2037 chars]",
-      "tags": ["media_communications", "elections_politics", "personal_family"]
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1733441331
     }
   ]
 }

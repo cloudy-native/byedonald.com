@@ -19,7 +19,8 @@
         "2028_presidential",
         "regional_state",
         "florida"
-      ]
+      ],
+      "publishedAtTs": 1698708900
     },
     {
       "source": {
@@ -33,7 +34,11 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/cf/6cfb4be9-488b-5486-8c60-9924ef78070c/653f33a0ead7f.image.jpg?crop=1280%2C672%2C0%2C72&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2023-10-30T23:24:00Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698708240
     },
     {
       "source": {
@@ -47,7 +52,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y7vcDUkQUeGc2_PXyMzcbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/wall_street_journal_733/8973c769794f2c80d68cb126dc8551ca",
       "publishedAt": "2023-10-30T23:15:00Z",
       "content": "The Daily Beast\nIsrael Foreign Ministry XA young German-Israeli woman seen lying in the back of a pickup truck after being abducted from a music festival by Hamas gunmen is dead, Israel’s Foreign Ministry confirmed Monday.The family of Shani Louk, 23... [266 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698707700
     },
     {
       "source": {
@@ -61,7 +70,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/newspress-collage-untsjwyvq-1698703822531.jpg?quality=75&strip=all&1698689624&w=1024",
       "publishedAt": "2023-10-30T23:03:15Z",
       "content": "Just like Ford’s “Edsel” model in the 1950s, Trump administration economist Steve Moore cautioned that electric vehicles (EVs) may be the auto market’s “next big flop.”\n“Henry Ford’s son was named Edsel, and this was going to be the great car, all of... [3181 chars]",
-      "tags": ["economy_finance", "energy"]
+      "tags": [
+        "economy_finance",
+        "energy"
+      ],
+      "publishedAtTs": 1698706995
     },
     {
       "source": {
@@ -80,7 +93,8 @@
         "doj_actions",
         "criminal_cases",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1698706445
     },
     {
       "source": {
@@ -94,7 +108,12 @@
       "urlToImage": "https://compote.slate.com/images/840e6e4c-4a92-4a42-b3a4-4f3aaf9c9dcf.jpeg?crop=6000%2C4000%2Cx0%2Cy0&width=1560",
       "publishedAt": "2023-10-30T22:45:00Z",
       "content": "Legal arguments Trump once made in court are coming back to haunt him this week as the Supreme Court hears oral arguments in two major cases related to social media.\nGovernment officials who face lawsuits for blocking their followers on social media ... [3089 chars]",
-      "tags": ["supreme_court", "legal_justice", "social_media"]
+      "tags": [
+        "supreme_court",
+        "legal_justice",
+        "social_media"
+      ],
+      "publishedAtTs": 1698705900
     },
     {
       "source": {
@@ -108,7 +127,11 @@
       "urlToImage": "https://img2-azrcdn.newser.com/image/1499769-12-20231030123830.jpeg",
       "publishedAt": "2023-10-30T22:22:00Z",
       "content": "A new Republican poll focuses not on voters nationwide but on those in Iowa, though the results are the same: Former President Trump leads by a mile. The more interesting wrinkle is the battle for second place, with Nikki Haley surging into a tie wit... [1368 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698704520
     },
     {
       "source": {
@@ -127,7 +150,8 @@
         "criminal_cases",
         "doj_actions",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1698703743
     },
     {
       "source": {
@@ -141,7 +165,11 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/e7aeecd/2147483647/strip/true/crop/4318x2429+0+225/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2Fb8%2F21f09f9cd63f9948fc88061636af%2F1b92856bb4b84e3b8fa00e8963227c26",
       "publishedAt": "2023-10-30T21:14:07Z",
       "content": "WASHINGTON (AP) — A gag order in Donald Trump’s election interference case in Washington is back in place, restricting the former president’s inflammatory rhetoric as he prepares for trial and campaigns to return to the White House in 2024.\nTrump’s l... [6736 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698700447
     },
     {
       "source": {
@@ -155,7 +183,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/news-Trump-102923-AP-Charlie_Neibergall.jpeg?w=1280",
       "publishedAt": "2023-10-30T21:09:17Z",
       "content": "Time is running out for Republicans searching for an alternative to former President Trump to coalesce around a single candidate as the Iowa caucuses rapidly approach.\nThe departure of former Vice President Mike Pence was the latest shake-up to the p... [6282 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698700157
     },
     {
       "source": {
@@ -169,7 +201,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231030095904-donald-trump-1028-vegas.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-30T20:42:56Z",
       "content": "CNN —\nThe 14th Amendment disqualification trial against Donald Trump began Monday in Colorado with a group of voters trying to use the Civil War-era amendment to remove the former president from the 2024 ballot, citing his role in the January 6, 2021... [8196 chars]",
-      "tags": ["legal_justice", "impeachment", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "impeachment",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1698698576
     },
     {
       "source": {
@@ -183,7 +220,12 @@
       "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/15/49a0e662-71ac-42c3-8676-abc3f5ea5595/thumbnail/1200x630/3b4987f4beae1014e183130be59f532f/cbsn-fusion-fulton-county-da-fani-willis-speaks-after-trump-indictment-thumbnail-2207443-640x360.jpg?v=5799c2de91a486f8a37c0b0f0daf468a",
       "publishedAt": "2023-10-30T20:38:00Z",
       "content": "An Alabama man has been indicted for making alleged threats against officials in Fulton County, Georgia, involved in the arrest and prosecution of former President Donald Trump.\nA federal grand jury in Atlanta has indicted 59-year-old Arthur Ray Hans... [1853 chars]",
-      "tags": ["legal_justice", "criminal_cases", "doj_actions"]
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1698698280
     },
     {
       "source": {
@@ -197,7 +239,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000070725777.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-10-30T20:32:12Z",
       "content": "Donald Trump’s tax broker was forced to admit to authorities in 2020 that Mar-a-Lago had a market value of just $27 million — not the $517 million claimed in other documents, trial evidence revealed Monday.\nTrump, 77, also allegedly boasted of having... [5932 chars]",
-      "tags": ["personal_family", "legal_justice", "taxes"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "taxes"
+      ],
+      "publishedAtTs": 1698697932
     },
     {
       "source": {
@@ -211,7 +258,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WP77.71O8NXpWRfywvriLw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/816bc630-775a-11ee-bef7-ac9d3382c332",
       "publishedAt": "2023-10-30T19:39:02Z",
       "content": "Former President Donald Trump lashes out at Judge Tanya Chutkan after she reimposes a gag order designed to prevent him from attacking prosecutors, court staff and potential witnesses in the federal election interference case against him. Meanwhile i... [3059 chars]",
-      "tags": ["legal_justice", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698694742
     },
     {
       "source": {
@@ -225,7 +276,12 @@
       "urlToImage": "https://img2.thejournal.ie/article/6210889/river/?height=400&version=6210901",
       "publishedAt": "2023-10-30T19:21:57Z",
       "content": "EFFORTS TO USE the US Constitution’s “insurrection” clause to bar former president Donald Trump from running for the White House again has entered a new phase as a hearing begins in the first of two states’ lawsuits that could end up reaching the US ... [7320 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698693717
     },
     {
       "source": {
@@ -239,7 +295,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2301601/bannon-bets-trump-will-kicked-offballot.jpg",
       "publishedAt": "2023-10-30T18:52:38Z",
       "content": "Far-right political commentator Steve Bannon predicts that former President Donald Trump will be booted from Colorado's 2024 ballot amid the ongoing legal challenge to his candidacy in the state.\nTrump is facing a lawsuit filed by watchdog group Citi... [3185 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1698691958
     },
     {
       "source": {
@@ -258,7 +319,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1698690717
     },
     {
       "source": {
@@ -272,7 +334,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231030075107-exp-trump-gag-order-iowa-campaign-jeff-zeleny-lklv-jessica-levinson-live-103001aseg1-cnni-politics-00002001.png?c=16x9&q=w_800,c_fill",
       "publishedAt": "2023-10-30T16:42:23Z",
       "content": "New York CNN —\nLeon Cooperman, the hedge fund billionaire who has famously clashed with Sen. Elizabeth Warren over her proposed wealth tax, is cautioning voters against returning Donald Trump to the White House.\n“It would be terrible for the country ... [2770 chars]",
-      "tags": ["economy_finance", "elections_politics", "personal_legal"]
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1698684143
     },
     {
       "source": {
@@ -292,7 +359,8 @@
         "security_intelligence",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1698682902
     },
     {
       "source": {
@@ -306,7 +374,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2301396/donald-trump-rally.jpg",
       "publishedAt": "2023-10-30T16:11:45Z",
       "content": "Donald Trump could be struck off the ballot for the next presidential election in two states as the former president's legal issues continue.\nTrials in Colorado and Minnesota starting this week will determine whether Trump should be banned from the s... [3371 chars]",
-      "tags": ["legal_justice", "elections_politics", "personal_legal"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1698682305
     },
     {
       "source": {
@@ -320,7 +393,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000070155327.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-10-30T15:59:20Z",
       "content": "Former South Carolina Gov. Nikki Haley has jumped into a second-place tie with Florida Gov. Ron DeSantis in Iowa, a new poll shows, while former President Donald Trump is still way out in front of both his two main rivals.\nThe Des Moines Register/NBC... [2823 chars]",
-      "tags": ["elections_politics", "2028_presidential"]
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
+      "publishedAtTs": 1698681560
     },
     {
       "source": {
@@ -334,7 +411,11 @@
       "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/AP23292658199805-e1697741952349.jpg?w=1280",
       "publishedAt": "2023-10-30T15:36:21Z",
       "content": "Former Speaker Kevin McCarthy (R-Calif.) is getting a primary challenger in his reelection race for his House seat representing the state’s 20th congressional district.\nDavid Giglio, who previously lost a congressional bid for the state’s 13th Distri... [1573 chars]",
-      "tags": ["elections_politics", "2026_midterms"]
+      "tags": [
+        "elections_politics",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1698680181
     },
     {
       "source": {
@@ -354,7 +435,8 @@
         "supreme_court",
         "doj_actions",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1698679800
     },
     {
       "source": {
@@ -373,7 +455,8 @@
         "2028_presidential",
         "legal_justice",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1698679712
     }
   ]
 }

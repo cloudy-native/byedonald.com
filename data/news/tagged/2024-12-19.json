@@ -18,7 +18,8 @@
         "government_administration",
         "policy_legislation",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1734652717
     },
     {
       "source": {
@@ -38,7 +39,8 @@
         "europe",
         "media_communications",
         "personal_family"
-      ]
+      ],
+      "publishedAtTs": 1734652115
     },
     {
       "source": {
@@ -58,7 +60,8 @@
         "taxes",
         "trade",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1734651295
     },
     {
       "source": {
@@ -78,7 +81,8 @@
         "legal_justice",
         "economy_finance",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734650759
     },
     {
       "source": {
@@ -96,7 +100,8 @@
         "media_communications",
         "personal_family",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734650647
     },
     {
       "source": {
@@ -116,7 +121,8 @@
         "policy_legislation",
         "elections_politics",
         "foreign_policy"
-      ]
+      ],
+      "publishedAtTs": 1734650327
     },
     {
       "source": {
@@ -134,7 +140,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1734649713
     },
     {
       "source": {
@@ -154,7 +161,8 @@
         "policy_legislation",
         "elections_politics",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1734649672
     },
     {
       "source": {
@@ -174,7 +182,8 @@
         "elections_politics",
         "media_communications",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1734649259
     }
   ]
 }

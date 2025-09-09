@@ -20,7 +20,8 @@
         "government_administration",
         "policy_legislation",
         "health_science"
-      ]
+      ],
+      "publishedAtTs": 1736034927
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "taxes",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1736032980
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://www.rawstory.com/media-library/trump-plane-gage-skidmore.jpg?id=29510231&width=1200&height=600&coordinates=0%2C25%2C0%2C25",
       "publishedAt": "2025-01-04T23:13:37Z",
       "content": "A foreign leader who has been dubbed a \"neofascist\" is on a secret mission to meet Donald Trump, according to a report.\nItalian Prime Minister Giorgia Meloni, who announced in 2023 she was separating from her partner, with whom she has a daughter, af... [984 chars]",
-      "tags": ["foreign_policy", "europe", "personal_family"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "personal_family"
+      ],
+      "publishedAtTs": 1736032417
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
       "publishedAt": "2025-01-04T22:29:48Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["media_communications", "legal_justice", "personal_family"]
+      "tags": [
+        "media_communications",
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1736029788
     },
     {
       "source": {
@@ -82,7 +94,12 @@
       "urlToImage": "https://d.newsweek.com/en/full/2556503/debbie-dingell.jpg",
       "publishedAt": "2025-01-04T22:01:37Z",
       "content": "Representative Debbie Dingell, a Michigan Democrat, said during a Saturday appearance on Fox News Live that Democrats won't necessarily automatically oppose policies supported by President-elect Donald Trump, and in fact, she is \"looking forward\" to ... [5512 chars]",
-      "tags": ["policy_legislation", "elections_politics", "foreign_policy"]
+      "tags": [
+        "policy_legislation",
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1736028097
     },
     {
       "source": {
@@ -96,7 +113,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-15072353l.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-01-04T21:58:20Z",
       "content": "CNN —\nMexico opened the possibility Friday of receiving non-Mexican migrants deported by the United States after initially saying they would push President-elect Donald Trump to return other nationalities directly to their countries of origin.\nPresid... [1944 chars]",
-      "tags": ["foreign_policy", "latin_america", "immigration"]
+      "tags": [
+        "foreign_policy",
+        "latin_america",
+        "immigration"
+      ],
+      "publishedAtTs": 1736027900
     },
     {
       "source": {
@@ -115,7 +137,8 @@
         "media_communications",
         "economy_finance",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1736026589
     },
     {
       "source": {
@@ -135,7 +158,8 @@
         "federal_courts",
         "media_communications",
         "personal_legal"
-      ]
+      ],
+      "publishedAtTs": 1736024274
     },
     {
       "source": {
@@ -149,7 +173,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_09_2024_23_21_34_5323168.jpg?width=920&format=jpeg",
       "publishedAt": "2025-01-04T20:42:53Z",
       "content": "Italian Prime Minister Giorgia Meloni is planning a high-stakes visit to Florida to meet President-elect Donald Trump, according to reports from Italian media. This diplomatic mission comes as Meloni faces mounting pressure following the arrest of It... [915 chars]",
-      "tags": ["foreign_policy", "europe", "middle_east"]
+      "tags": [
+        "foreign_policy",
+        "europe",
+        "middle_east"
+      ],
+      "publishedAtTs": 1736023373
     }
   ]
 }

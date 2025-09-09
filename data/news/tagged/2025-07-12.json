@@ -20,7 +20,8 @@
         "security_intelligence",
         "legal_justice",
         "economy_finance"
-      ]
+      ],
+      "publishedAtTs": 1752364332
     },
     {
       "source": {
@@ -40,7 +41,8 @@
         "security_intelligence",
         "elections_politics",
         "legal_justice"
-      ]
+      ],
+      "publishedAtTs": 1752364195
     },
     {
       "source": {
@@ -54,7 +56,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTMwODAwMzVcXFwvNGExZjg1YjQxZGJhNDQ3MzhiOWI2MzNmMzlmNDhmMGIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkMmViMzZmYmFkYzQ2YzAwYmNlYzc0MDM5MTdkOGUxZDNjZjA5YjAxIn0=/trump-considering-taking-away-us-citizenship-from-comedian-rosie-o-donnell.jpg",
       "publishedAt": "2025-07-12T23:00:00Z",
       "content": "President Donald Trump says he is considering “taking away” the US citizenship of a long-time rival: the actress and comedian, Rosie O’Donnell.\nThe move comes despite a decades-old Supreme Court ruling that expressly prohibits such an action by the g... [2233 chars]",
-      "tags": ["personal_family", "social_issues", "legal_justice"]
+      "tags": [
+        "personal_family",
+        "social_issues",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752361200
     },
     {
       "source": {
@@ -68,7 +75,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTMwOTM1MzRcXFwvVW50aXRsZWQtZGVzaWduLTEzMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjgxNDQyY2VjMjlhMWMxMDU4NjAzNzVhZTJhYTdkMzkwMTgyNTdlNmYifQ==/what-the-papers-say-sunday-s-front-pages.jpg",
       "publishedAt": "2025-07-12T23:00:00Z",
       "content": "US President Donald Trump's announcement of 30 per cent tariffs on the European Union features on Irish front pages on Sunday.\nThe Business Post, Sunday Independent and Sunday Times all lead with the reaction to Trump announcing 30 per cent tariffs o... [550 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752361200
     },
     {
       "source": {
@@ -86,7 +98,8 @@
         "personal_legal",
         "media_communications",
         "security_intelligence"
-      ]
+      ],
+      "publishedAtTs": 1752361200
     },
     {
       "source": {
@@ -106,7 +119,8 @@
         "legal_justice",
         "crisis_emergency",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1752361200
     },
     {
       "source": {
@@ -126,7 +140,8 @@
         "foreign_policy",
         "government_administration",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1752360698
     },
     {
       "source": {
@@ -140,7 +155,12 @@
       "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-donald-trump_6963725.jpg?20250712223157",
       "publishedAt": "2025-07-12T22:08:00Z",
       "content": "Donald Trump has said he is considering \"taking away\" the US citizenship of actress and comedian Rosie O'Donnell, despite a Supreme Court ruling that expressly prohibits a government from doing so.\nIn a post on Truth Social on Saturday, the US presid... [2248 chars]",
-      "tags": ["personal_legal", "media_communications", "legal_justice"]
+      "tags": [
+        "personal_legal",
+        "media_communications",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752358080
     },
     {
       "source": {
@@ -154,7 +174,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2025_15_57_15_3262394.png?width=920&format=jpeg",
       "publishedAt": "2025-07-12T21:24:36Z",
       "content": "In a bold move, President Donald Trump declared a 30% tariff on the European Union and Mexico starting August 1. The announcement targets U.S. trade imbalances with these key partners amid rising concerns about potential economic fallout.\nTrump's act... [564 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752355476
     },
     {
       "source": {
@@ -174,7 +199,8 @@
         "legal_justice",
         "security_intelligence",
         "crisis_emergency"
-      ]
+      ],
+      "publishedAtTs": 1752354816
     },
     {
       "source": {
@@ -188,7 +214,12 @@
       "urlToImage": "https://i.guim.co.uk/img/media/9241984d22cafeaa241b20b69d8a48dbc5e05e69/451_0_4514_3610/master/4514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=413c0801f3173dbec25629972925a630",
       "publishedAt": "2025-07-12T21:00:19Z",
       "content": "The 10% tariffs on most UK goods imported into the US are likely “here to stay”, according to Lord Mandelson.\nThe British ambassador to the US said the “universal 10% tariff” was unlikely to change but that there was “scope” for negotiations in diffe... [2596 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752354019
     },
     {
       "source": {
@@ -202,7 +233,12 @@
       "urlToImage": "https://www.cp24.com/resizer/v2/XWPSV5BN6NBO3HIWELR7QE7VDY.JPG?smart=true&auth=6b9d1f44a8405fb067e8815618ce39188b5ffd62d2f25e483a84851420a9610d&width=1200&height=630",
       "publishedAt": "2025-07-12T20:49:43Z",
       "content": "People walk through Columbia University campus on the first day of the new semester September 3, 2024, in New York. (Adam Gray/Reuters/File via CNN Newsource)\nColumbia University is on the verge of striking an agreement with the Trump administration ... [4668 chars]",
-      "tags": ["government_operations", "federal_agencies", "education"]
+      "tags": [
+        "government_operations",
+        "federal_agencies",
+        "education"
+      ],
+      "publishedAtTs": 1752353383
     },
     {
       "source": {
@@ -216,7 +252,12 @@
       "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/9791752350888/2025/1/c9e259e91d48c46de464c427f04e57b4/v1.5/Trump-floats-revoking-Rosie-ODonnells-US-citizenship.jpg",
       "publishedAt": "2025-07-12T20:37:07Z",
       "content": "1 of 2 | Rosie O'Donnell on Saturday dared President Donald Trump to try to revoke her citizenship after he threatened to do so on social media. File Photo by John Angelillo/UPI | License Photo\nJuly 12 (UPI) -- President Donald Trump has suggested he... [1566 chars]",
-      "tags": ["personal_family", "legal_justice", "media_communications"]
+      "tags": [
+        "personal_family",
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752352627
     },
     {
       "source": {
@@ -230,7 +271,12 @@
       "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-ukraine-russia_6963180.jpg?20250712092224",
       "publishedAt": "2025-07-12T20:25:00Z",
       "content": "Zelenskyy vows to continue Ukraine's 'active drone operations' after Russian strikes\nVolodymyr Zelenskyy has vowed to continue Ukraine's \"active drone operations\" on Russian territory after Moscow launched one of its largest aerial attacks of the war... [821 chars]",
-      "tags": ["foreign_policy", "security_intelligence", "crisis_emergency"]
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1752351900
     },
     {
       "source": {
@@ -244,7 +290,12 @@
       "urlToImage": "https://media.nbcboston.com/2025/07/Trump-Red-Sox-070325.jpg?quality=85&strip=all&resize=1200%2C675",
       "publishedAt": "2025-07-12T20:20:23Z",
       "content": "The Boston Red Sox are surging, winning their ninth straight game on Saturday, and President Donald Trump appears to know why.\n\"They haven't lost since they saw me in the Oval,\" Trump wrote on Truth Social with a picture of the Red Sox celebrating on... [1617 chars]",
-      "tags": ["personal_family", "media_communications", "elections_politics"]
+      "tags": [
+        "personal_family",
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1752351623
     },
     {
       "source": {
@@ -258,7 +309,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2025_15_57_15_3262394.png?width=920&format=jpeg",
       "publishedAt": "2025-07-12T20:16:20Z",
       "content": "President Donald Trump on Saturday heightened trade tensions by announcing a 30% tariff on imports from Mexico and the European Union, effective August 1, following failed negotiations with these major U.S. trading partners.\nThe new tariff threats ha... [672 chars]",
-      "tags": ["trade", "economy_finance", "foreign_policy"]
+      "tags": [
+        "trade",
+        "economy_finance",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752351380
     },
     {
       "source": {
@@ -272,7 +328,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2025_14_33_01_9480876.png?width=920&format=jpeg",
       "publishedAt": "2025-07-12T20:10:34Z",
       "content": "In an unexpected escalation of their longstanding rivalry, President Donald Trump has publicly declared his intent to revoke the US citizenship of actress and comedian Rosie O'Donnell. This announcement comes despite a firm ruling by the Supreme Cour... [733 chars]",
-      "tags": ["legal_justice", "government_administration", "personal_family"]
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752351034
     },
     {
       "source": {
@@ -286,7 +347,12 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108059274.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2025-07-12T20:04:51Z",
       "content": "A crowdfunding effort that claims to have raised a $40 million bounty for the assassination of President Trump has been linked to a former employee of Iran’s primary propaganda network.\nThe campaign, organized by a group known as the “Blood Covenant,... [3365 chars]",
-      "tags": ["national_security", "terrorism", "international_crisis"]
+      "tags": [
+        "national_security",
+        "terrorism",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1752350691
     },
     {
       "source": {
@@ -305,7 +371,8 @@
         "social_issues",
         "media_communications",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1752350097
     },
     {
       "source": {
@@ -323,7 +390,8 @@
         "foreign_policy",
         "government_administration",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1752349878
     },
     {
       "source": {
@@ -341,7 +409,8 @@
         "elections_politics",
         "media_communications",
         "political_endorsements"
-      ]
+      ],
+      "publishedAtTs": 1752349509
     },
     {
       "source": {
@@ -355,7 +424,12 @@
       "urlToImage": "https://extra.ie/wp-content/uploads/2025/04/rosie-odonnell-ireland-am.jpg",
       "publishedAt": "2025-07-12T19:24:15Z",
       "content": "The American actor, comedian and ‘Trump fugitive’, Rosie O’Donnell who moved to Ireland on a work visa is not short of a few dollars.\nNow residing as an ‘exile’ in Ireland, O’Donnell revealed this week, she ‘already had $100million in the bank’ when ... [2522 chars]",
-      "tags": ["personal_family", "regional_state", "media_communications"]
+      "tags": [
+        "personal_family",
+        "regional_state",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752348255
     }
   ]
 }

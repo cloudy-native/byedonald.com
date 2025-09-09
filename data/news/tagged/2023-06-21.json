@@ -14,7 +14,12 @@
       "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
       "publishedAt": "2023-06-21T23:33:08Z",
       "content": "The U.S. House of Representatives approved a Republican effort on Wednesday to censure Representative Adam Schiff, a rare move intended to punish the Democrat for his leading role in investigating the conduct of Donald Trump when he was president.\nTh... [1782 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687390388
     },
     {
       "source": {
@@ -32,7 +37,8 @@
         "legal_justice",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1687390104
     },
     {
       "source": {
@@ -51,7 +57,8 @@
         "elections_politics",
         "media_communications",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1687388640
     },
     {
       "source": {
@@ -65,7 +72,12 @@
       "urlToImage": "https://media.wltx.com/assets/CCT/images/2defa920-58bf-45db-90cd-aa8ba5315be2/2defa920-58bf-45db-90cd-aa8ba5315be2_1140x641.jpg",
       "publishedAt": "2023-06-21T23:03:00Z",
       "content": "Several Republicans who previously voted to block the resolution changed their votes after a provision that could've fined Schiff $16 million was removed.\nExample video title will go here for this video\nWASHINGTON — The House voted Wednesday to censu... [7707 chars]",
-      "tags": ["legal_justice", "elections_politics", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687388580
     },
     {
       "source": {
@@ -84,7 +96,8 @@
         "elections_politics",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687388261
     },
     {
       "source": {
@@ -102,7 +115,8 @@
         "congressional_investigations",
         "legal_justice",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1687387868
     },
     {
       "source": {
@@ -120,7 +134,8 @@
         "legal_justice",
         "congressional_investigations",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1687387752
     },
     {
       "source": {
@@ -138,7 +153,8 @@
         "policy_legislation",
         "elections_politics",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687387718
     },
     {
       "source": {
@@ -156,7 +172,8 @@
         "elections_politics",
         "legal_justice",
         "congressional_investigations"
-      ]
+      ],
+      "publishedAtTs": 1687387685
     },
     {
       "source": {
@@ -174,7 +191,8 @@
         "legal_justice",
         "elections_politics",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1687387660
     },
     {
       "source": {
@@ -193,7 +211,8 @@
         "elections_politics",
         "legal_justice",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1687385970
     },
     {
       "source": {
@@ -212,7 +231,8 @@
         "elections_politics",
         "legal_justice",
         "regional_state"
-      ]
+      ],
+      "publishedAtTs": 1687385473
     },
     {
       "source": {
@@ -226,7 +246,12 @@
       "urlToImage": "https://static.politico.com/a3/50/5f20b83b44a6bad9bd04732be32d/https-delivery-gettyimages.com/downloads/1431382186",
       "publishedAt": "2023-06-21T21:56:55Z",
       "content": "Alito had every right to sting ProPublica before it stung him. But in his case, getting out in front of the story before it published was a little like a judge delivering a verdict after hearing the charges but before the trial had taken place. For o... [5477 chars]",
-      "tags": ["legal_justice", "supreme_court", "media_communications"]
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "media_communications"
+      ],
+      "publishedAtTs": 1687384615
     },
     {
       "source": {
@@ -245,7 +270,8 @@
         "supreme_court",
         "elections_politics",
         "doj_actions"
-      ]
+      ],
+      "publishedAtTs": 1687384480
     },
     {
       "source": {
@@ -263,7 +289,8 @@
         "elections_politics",
         "policy_legislation",
         "government_administration"
-      ]
+      ],
+      "publishedAtTs": 1687384137
     }
   ]
 }

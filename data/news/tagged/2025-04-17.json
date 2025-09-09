@@ -14,7 +14,12 @@
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/10/0102ceff-5df5-57ca-94f4-bc54b2499b6e/680193a8af19e.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
       "publishedAt": "2025-04-17T23:43:40Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
-      "tags": ["government_operations", "transportation", "federal_agencies"]
+      "tags": [
+        "government_operations",
+        "transportation",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1744933420
     },
     {
       "source": {
@@ -34,7 +39,8 @@
         "legal_justice",
         "foreign_policy",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1744932611
     },
     {
       "source": {
@@ -48,7 +54,12 @@
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/2ea3d99c6e945d1ed17b31ac63ad336ffc12bc3d1af6281a41087bb024849f83.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-17T23:29:26Z",
       "content": "MONTREAL — Canada's main federal party leaders squared off on U.S. tariffs and President Donald Trump's global trade war, offering contrasting visions for a country under economic threat.\nLiberal Leader Mark Carney is leading in the polls and became ... [1272 chars]",
-      "tags": ["economy_finance", "foreign_policy", "trade"]
+      "tags": [
+        "economy_finance",
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1744932566
     },
     {
       "source": {
@@ -68,7 +79,8 @@
         "personal_family",
         "regional_state",
         "elections_politics"
-      ]
+      ],
+      "publishedAtTs": 1744932120
     }
   ]
 }

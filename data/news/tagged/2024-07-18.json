@@ -14,7 +14,12 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24195841316454.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-18T23:58:17Z",
       "content": "CNN —\nIt has been nearly a week since gunfire erupted at Republican presidential candidate Donald Trump’s rally in Butler, Pennsylvania, resulting in an injury to the former president, the death of one attendee, Corey Comperatore, and severe injuries... [8029 chars]",
-      "tags": ["health_science", "security_intelligence", "personal_family"]
+      "tags": [
+        "health_science",
+        "security_intelligence",
+        "personal_family"
+      ],
+      "publishedAtTs": 1721347097
     },
     {
       "source": {
@@ -28,7 +33,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KGERr6kTE.zsE3n2raxOHQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/wall_street_journal_733/377504530b40f33b15aef4ac7c4dac07",
       "publishedAt": "2024-07-18T23:53:00Z",
       "content": "Reuters\nMOSCOW (Reuters) -Russia said on Thursday that Donald Trump's assertion he could quickly end the Ukraine war should be viewed realistically, given that he had promised a Middle East peace breakthrough but failed to achieve it during his presi... [431 chars]",
-      "tags": ["economy_finance", "policy_legislation"]
+      "tags": [
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1721346780
     },
     {
       "source": {
@@ -42,7 +51,11 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/USATSI_23768455-e1721332587734.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2024-07-18T23:52:53Z",
       "content": "The Issue: Former President Donald Trump chooses Sen. JD Vance to complete the Republican ticket.\nFormer President Donald Trump has chosen Ohio’s Sen. JD Vance as his running mate, suggesting that it is time for the millennials to step into the limel... [4019 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721346773
     },
     {
       "source": {
@@ -60,7 +73,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721346583
     },
     {
       "source": {
@@ -74,7 +88,12 @@
       "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/07/jd_vance_2161892074.jpg",
       "publishedAt": "2024-07-18T23:44:59Z",
       "content": "In his address at the Republican National Convention on Wednesday, Sen. JD Vance, R-Ohio, suggested he was an opponent of American military interventionism, citing the 2003 Iraq War as a conflict that did not need to happen and declaring that \"we wil... [3882 chars]",
-      "tags": ["foreign_policy", "elections_politics", "security_intelligence"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721346299
     },
     {
       "source": {
@@ -88,7 +107,11 @@
       "urlToImage": "https://images.7news.com.au/publication/C-15404996/94a8cfa0493d393a2864539cb17da6bbd5676256-16x9-x0y0w1280h720.jpg?imwidth=1200",
       "publishedAt": "2024-07-18T23:40:37Z",
       "content": "Donald Trump has paid tribute to conservative anchor Lou Dobbs, who has died aged 78.\nTrump shared the news on Truth Social on Friday morning (AEST), writing a tribute to the TV host who was a nightly presence on Fox Business Network for more than a ... [2852 chars]",
-      "tags": ["media_communications", "personal_family"]
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1721346037
     },
     {
       "source": {
@@ -102,7 +125,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/07/donald-trump-during-rnc-2024-07-4f8349989533d9b5dcfdb6645cf03336-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-07-18T23:28:53Z",
       "content": "Former US President Donald Trump met with Kimberly Cheatle, the Director of the US Secret Service, on Tuesday (Wednesday in India) at his hotel in Milwaukee, according to a source who spoke with ABC News. The details of their discussion remain undisc... [1688 chars]",
-      "tags": ["security_intelligence", "government_administration"]
+      "tags": [
+        "security_intelligence",
+        "government_administration"
+      ],
+      "publishedAtTs": 1721345333
     },
     {
       "source": {
@@ -116,7 +143,11 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432022-1719034249557-gettyimages-2123613062-Semiconductor_Trade_Export.jpeg?v=1721290746&w=1920&h=1080",
       "publishedAt": "2024-07-18T23:27:55Z",
       "content": "Tensions are ratchetting up between U.S. and its major trading partners. In the latest, Bloomberg on Wednesday reported that the Biden administration is considering a wide-sweeping rule to clamp down on companies exporting their critical chipmaking e... [4511 chars]",
-      "tags": ["economy_finance", "elections_politics"]
+      "tags": [
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721345275
     },
     {
       "source": {
@@ -134,7 +165,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721344526
     },
     {
       "source": {
@@ -152,7 +184,8 @@
         "elections_politics",
         "security_intelligence",
         "media_communications"
-      ]
+      ],
+      "publishedAtTs": 1721344425
     },
     {
       "source": {
@@ -166,7 +199,11 @@
       "urlToImage": "https://d.newsweek.com/en/full/2431976/republicans-break-maga-influencers-usha-vance.jpg",
       "publishedAt": "2024-07-18T23:11:22Z",
       "content": "Several Republican delegates have denounced the racist comments made by MAGA influencers against Senator JD Vance's wife, Usha Vance.\nThe daughter of Indian immigrants, she was raised in San Diego before meeting her husband at Yale Law School. They w... [2829 chars]",
-      "tags": ["elections_politics", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1721344282
     },
     {
       "source": {
@@ -180,7 +217,11 @@
       "urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-joe-biden-nato-washington_6624874.jpg?20240712155935",
       "publishedAt": "2024-07-18T23:07:00Z",
       "content": "'When you almost die I think it changes you,' Trump's son says\nEric Trump has been speaking to Sky's Yalda Hakim, who is at the Republican National Convention in Milkwaukee.\nHe said watching his father get shot on Saturday was \"unthinkable\" but \"he w... [918 chars]",
-      "tags": ["elections_politics", "personal_family"]
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1721344020
     },
     {
       "source": {
@@ -194,7 +235,12 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDdcXFwvMTkwNDE1MTlcXFwvNWZkOTZjNzNlNWRmNDViOWJlNjJhM2FkNTFlNTBjNjcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1MjYzMjIxZmZjMTE3MWNkNTQ1M2NjZDVjNTY5MGQ3YzY2M2M3NDJiIn0=/trump-warns-us-not-to-demonise-political-dissent-after-shooting.jpg",
       "publishedAt": "2024-07-18T23:00:00Z",
       "content": "Donald Trump has told Americans to be wary of stifling political disagreement, only days after a 20-year-old gunman attempted to assassinate the US presidential hopeful at a campaign rally.\nIn his first public speech since the attempt on his life, Mr... [2211 chars]",
-      "tags": ["elections_politics", "security_intelligence", "social_issues"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence",
+        "social_issues"
+      ],
+      "publishedAtTs": 1721343600
     },
     {
       "source": {
@@ -212,7 +258,8 @@
         "elections_politics",
         "security_intelligence",
         "policy_legislation"
-      ]
+      ],
+      "publishedAtTs": 1721343600
     },
     {
       "source": {
@@ -226,7 +273,11 @@
       "urlToImage": "https://img.rasset.ie/00209ef9-1600.jpg",
       "publishedAt": "2024-07-18T23:00:00Z",
       "content": "Donald Trump described how he narrowly survived an attempt on his life, telling the Republican National Convention in his first speech since the attack that he was only there \"by the grace of Almighty God.\"\n\"I heard a loud whizzing sound and felt som... [3348 chars]",
-      "tags": ["elections_politics", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721343600
     },
     {
       "source": {
@@ -240,7 +291,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDdcXFwvMTkwMzEyMjFcXFwvZWFkNzc0ODI0MDU2NDUxNjk4MzM1ZmE5NWU4NzU2MWUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYjZiNTkyMWZlZDE2MGVmN2Q5NThlODg0ODEwOTgyMjYzNTAwZjg0In0=/donald-trump-to-deliver-message-of-strength-in-wake-of-near-death-experience.jpg",
       "publishedAt": "2024-07-18T23:00:00Z",
       "content": "A bandaged Donald Trump is set to deliver a message “of confidence, strength, and hope” at the Republican National Convention to accept his party’s presidential nomination, five days after surviving an assassination attempt.\nIn speech excerpts provid... [2129 chars]",
-      "tags": ["elections_politics", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721343600
     },
     {
       "source": {
@@ -254,7 +309,11 @@
       "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDdcXFwvMTkwMjQ1MTNcXFwvZjVmNWEyMzVkMGM3NDJkMjgxNjc3NjBjNDNhYWE5MzIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI0Yzc3NTA0YjE3M2U4YWY0ZjdiZWJkMDRjOTNkYTU5ZDZiYzA5ZDQ0In0=/hunter-biden-seeks-court-dismissal-after-trump-case-dumped.jpg",
       "publishedAt": "2024-07-18T23:00:00Z",
       "content": "President Joe Biden’s son Hunter Biden has asked a court to dismiss tax and gun charges against him, citing a similar ruling that threw out a separate prosecution of former president Donald Trump.\nThe requests in federal court in Delaware and Califor... [3523 chars]",
-      "tags": ["legal_justice", "elections_politics"]
+      "tags": [
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721343600
     },
     {
       "source": {
@@ -268,7 +327,11 @@
       "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2024/07/duo_604387.jpg?w=1024&h=711",
       "publishedAt": "2024-07-18T22:59:08Z",
       "content": "With former President Donald Trump poised to take a triumphant victory lap at the Republican National Convention on Thursday, Democratic Vice President Kamala Harris took aim at the GOP’s far right-wing Project 2025 as a sleeper issue that could play... [4707 chars]",
-      "tags": ["elections_politics", "policy_legislation"]
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1721343548
     },
     {
       "source": {
@@ -282,7 +345,11 @@
       "urlToImage": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2024/07/e2c220df2b172e72d45c6930fc64f71c-84247800.jpg?fit=1200,800",
       "publishedAt": "2024-07-18T22:51:25Z",
       "content": "Ukraine’s Zelenskiy to BBC: We have to work with the U.S\nreuters_tickers\n2 minutes\n(Reuters) – President Volodymyr Zelenskiy acknowledged in an interview published on Thursday that a victory for Donald Trump in the U.S. election in November would be ... [1827 chars]",
-      "tags": ["foreign_policy", "elections_politics"]
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721343085
     },
     {
       "source": {
@@ -296,7 +363,11 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108007844-1721245874144-gettyimages-2162444002-_s2_2288_2uoccvly.jpeg?v=1721245909&w=1920&h=1080",
       "publishedAt": "2024-07-18T22:45:58Z",
       "content": "Donald Trump reportedly does not plan to mention President Joe Biden by name during his speech accepting the presidential nomination at the Republican National Convention in Milwaukee.\nTrump's planned avoidance of referring to the Democratic incumben... [1102 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721342758
     },
     {
       "source": {
@@ -310,7 +381,11 @@
       "urlToImage": "https://images.news18.com/ibnlive/uploads/2024/07/joe-biden-and-donald-trump-2024-07-9ed4e7152f3de3a333ce70b436957504-16x9.jpg?impolicy=website&width=1200&height=675",
       "publishedAt": "2024-07-18T22:32:10Z",
       "content": "Nancy Pelosi, the former Speaker of the United States House of Representatives, privately informed US President Joe Biden in a recent conversation that polling data indicates he cannot defeat Donald Trump and his pursuit of a second term could jeopar... [2194 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721341930
     },
     {
       "source": {
@@ -324,7 +399,11 @@
       "urlToImage": "https://e3.365dm.com/24/07/1600x900/skynews-biden-us_6627340.png?20240716023947",
       "publishedAt": "2024-07-18T22:22:00Z",
       "content": "Several top Democrats in the United States have called for Joe Biden to pull out of the leadership race amid deepening concerns he would not be able to beat Donald Trump.\nPressure has been building on the 81-year-old US president following his dire p... [9253 chars]",
-      "tags": ["elections_politics", "media_communications"]
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1721341320
     },
     {
       "source": {
@@ -338,7 +417,11 @@
       "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/BX3BJMAKLNBQ5FN75W43BDXTA4.jpg?_a=DATAdtfiZAA0",
       "publishedAt": "2024-07-18T22:13:45Z",
       "content": "WASHINGTON – A U.S. Secret Service sniper killed the would-be assassin of former President Donald Trump in a split-second decision, taking out the man perched on an adjacent rooftop.\nSecret Service Director Kimberly Cheatle has publicly praised the s... [5358 chars]",
-      "tags": ["security_intelligence", "government_administration"]
+      "tags": [
+        "security_intelligence",
+        "government_administration"
+      ],
+      "publishedAtTs": 1721340825
     },
     {
       "source": {
@@ -352,7 +435,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4n18xcJXViicFCO15QmLsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Njg-/https://media.zenfs.com/en/wall_street_journal_733/de10f77430b1058a3490a9fa3f9649a1",
       "publishedAt": "2024-07-18T22:13:00Z",
       "content": "Reuters\nMOSCOW (Reuters) -Russia said on Thursday that Donald Trump's assertion he could quickly end the Ukraine war should be viewed realistically, given that he had promised a Middle East peace breakthrough but failed to achieve it during his presi... [431 chars]",
-      "tags": ["elections_politics", "security_intelligence"]
+      "tags": [
+        "elections_politics",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1721340780
     },
     {
       "source": {
@@ -366,7 +453,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2161513416-restricted.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2024-07-18T22:11:31Z",
       "content": "CNN —\nWhen former President Donald Trump ascended the stage at last weekend’s Pennsylvania rally to thunderous cheers, the campaign staffers present expected to hear a typical stump speech.\nWhat they didn’t know: Law enforcement had spotted a suspici... [7047 chars]",
-      "tags": ["security_intelligence", "elections_politics"]
+      "tags": [
+        "security_intelligence",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1721340691
     }
   ]
 }
