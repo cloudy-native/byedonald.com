@@ -337,7 +337,7 @@ const NewsDayTemplate: React.FC<PageProps<null, NewsDayPageContext>> = ({
           </HStack>
         </HStack>
 
-        <Accordion allowMultiple defaultIndex={[0, 1]} mb={4}>
+        <Accordion allowMultiple mb={4}>
           <AccordionItem>
             <h2>
               <AccordionButton>

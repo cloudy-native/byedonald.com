@@ -125,17 +125,13 @@ const config: GatsbyConfig = {
       // This plugin must be placed last in your list of plugins to ensure that it can query all the GraphQL data
       resolve: `gatsby-plugin-algolia`,
       options: {
-        appId: process.env.ALGOLIA_APP_ID,
+        appId: process.env.GATSBY_ALGOLIA_APP_ID,
         // Use Admin API key without GATSBY_ prefix, so that the key isn't exposed in the application
         // Tip: use Search API key with GATSBY_ prefix to access the service from within components
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: process.env.ALGOLIA_INDEX_NAME, // for all queries
+        apiKey: process.env.ALGOLIA_API_KEY, // Once again, no GATSBY_ prefix because that is the search key that's safe to expose in the browser.
+        indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME, // for all queries
         queries,
         chunkSize: 10000, // default: 1000
-        // Force a one-time full reindex so newly added fields (e.g., publishedAtTs) are pushed
-        // The plugin usually does partial updates based on matchFields (e.g., contentDigest)
-        // which may skip unchanged records. Revert this to the default after a successful run.
-        // enablePartialUpdates: false,
         settings: {
           // Improve query relevance and snippet display
           searchableAttributes: [

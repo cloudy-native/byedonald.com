@@ -38,6 +38,8 @@ const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME;
 
 console.log("Algolia", appId, searchKey, indexName);
 
+console.log("env", process.env);
+
 // Types for Algolia records and UI items
 type Article = {
   url: string;
@@ -146,7 +148,13 @@ function DistinctAuthorChips() {
     showMoreLimit: 2000,
   });
 
-  const { items: authorItems, refine, canToggleShowMore, isShowingMore, toggleShowMore } = authorHook;
+  const {
+    items: authorItems,
+    refine,
+    canToggleShowMore,
+    isShowingMore,
+    toggleShowMore,
+  } = authorHook;
   const { items: sourceItems } = sourceHook;
 
   const sourceSet = new Set(
