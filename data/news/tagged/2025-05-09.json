@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -15,11 +15,8 @@
       "publishedAt": "2025-05-09T23:45:57Z",
       "content": "Steven Paul has been to Mar-a-Lago many times over the years. The producer and longtime manager to Jon Voight was there again last weekend, along with producer Scott Karol, to pitch President Trump on their plan to save Hollywood.\n“I always enjoy bei... [10640 chars]",
       "tags": [
-        "personal_business",
-        "foreign_policy",
-        "media_communications",
-        "economy_finance",
-        "regional_state"
+        "trade_negotiations_truces",
+        "foreign_policy"
       ],
       "publishedAtTs": 1746834357
     },
@@ -36,11 +33,7 @@
       "publishedAt": "2025-05-09T23:45:06Z",
       "content": "WASHINGTON (AP) — The Trump administration will welcome more than two dozen white South Africans to the United States as refugees next week, an unusual move because it has suspended most refugee resettlement operations, officials and documents said F... [6653 chars]",
       "tags": [
-        "foreign_policy",
-        "immigration",
-        "africa",
-        "social_issues",
-        "racial_justice"
+        "immigration"
       ],
       "publishedAtTs": 1746834306
     },
@@ -57,9 +50,8 @@
       "publishedAt": "2025-05-09T23:13:09Z",
       "content": "White House deputy chief of staff for policy Stephen Miller speaks to the media outside the White House in Washington, D.C., on May 9. (Kent Nishimura/Reuters via CNN Newsource)\nWASHINGTON — White House deputy chief of staff Stephen Miller told repor... [3320 chars]",
       "tags": [
-        "government_administration",
         "legal_justice",
-        "security_intelligence"
+        "immigration"
       ],
       "publishedAtTs": 1746832389
     },
@@ -76,11 +68,8 @@
       "publishedAt": "2025-05-09T23:12:00Z",
       "content": "1 of 3 | White House senior adviser Stephen Miller told reporters the writ of habeas corpus can be suspended in a time of invasion. Photo by Yuri Gripas/UPI | License Photo\nMay 9 (UPI) -- The Trump administration is \"actively looking at\" suspending t... [3788 chars]",
       "tags": [
-        "government_administration",
         "legal_justice",
-        "immigration",
-        "security_intelligence",
-        "policy_legislation"
+        "immigration"
       ],
       "publishedAtTs": 1746832320
     },
@@ -97,11 +86,8 @@
       "publishedAt": "2025-05-09T23:00:00Z",
       "content": "The Republican administration must halt much of its dramatic downsizing of the federal workforce, a California judge has ordered.\nJudge Susan Illston in San Francisco issued the emergency order in a lawsuit filed by unions and cities last week, one o... [3686 chars]",
       "tags": [
-        "government_operations",
-        "federal_agencies",
-        "legal_justice",
-        "civil_litigation",
-        "crisis_emergency"
+        "government_administration",
+        "personnel"
       ],
       "publishedAtTs": 1746831600
     },
@@ -119,10 +105,8 @@
       "content": "WASHINGTON (AP) — A top Federal Reserve official said Friday that massive uncertainty created by President Donald Trump’s tariffs has caused some businesses to cut back on hiring and spending, threatening to slow the economy, but he added that it’s n... [3602 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "banking",
-        "trade",
-        "government_administration"
+        "tariff_impact_economy",
+        "trade"
       ],
       "publishedAtTs": 1746831545
     },
@@ -140,8 +124,7 @@
       "content": "CNN —\nThe US Postal Service Board of Governors announced Friday that David Steiner, a board member at FedEx, will be the next postmaster general – a move that comes amid concerns the Trump administration will push for privatization of the independent... [3971 chars]",
       "tags": [
         "government_administration",
-        "policy_legislation",
-        "economy_finance"
+        "personnel"
       ],
       "publishedAtTs": 1746831498
     },
@@ -159,10 +142,8 @@
       "content": "Let's deal, first of all, with the question many of you will have: after today's reduction to 4.25% will there be more interest rate cuts to come?\nToday, the Bank of England did nothing to sway you - or the financial markets that bet on such things -... [2622 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "banking",
-        "federal_agencies",
-        "policy_legislation"
+        "inflation",
+        "trade"
       ],
       "publishedAtTs": 1746828360
     },
@@ -180,8 +161,7 @@
       "content": "President Donald Trump keeps saying he doesn’t know what his own administration is up to.\nThree times in the last week, Trump responded to questions about his signature policies by expressing ignorance.\nIs he truly clueless? Is he fully aware of the ... [3169 chars]",
       "tags": [
         "government_administration",
-        "media_communications",
-        "personal_family"
+        "personnel"
       ],
       "publishedAtTs": 1746827556
     },
@@ -200,11 +180,285 @@
       "tags": [
         "immigration",
         "legal_justice",
-        "government_administration",
-        "security_intelligence",
         "policy_legislation"
       ],
       "publishedAtTs": 1746826814
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": "KABC-TV",
+      "title": "The White House says Trump is considering suspending habeas corpus. What would that mean?",
+      "description": "White House deputy chief of staff Stephen Miller said on Friday the administration was \"actively looking at\" suspending habeas corpus.",
+      "url": "https://abc7.com/post/habeas-corpus-stephen-miller-says-admin-actively-looking-suspending-persons-challenge-legality-arrest/16369681/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16369657_stephen-miller-img.jpg?w=1600",
+      "publishedAt": "2025-05-09T21:29:00Z",
+      "content": "The White House says Trump is considering suspending habeas corpus. What would that mean?\nChief Justice Roberts rebuked Trump's call to impeach a judge who ruled against the president.\nChief Justice Roberts rebuked Trump's call to impeach a judge who... [3127 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1746826140
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "U.S. to accept white South African refugees",
+      "description": "The Trump administration will welcome more than two dozen white South Africans to the United States as refugees next week, an unusual move because it has suspended most refugee resettlement operations, officials and documents said Friday.",
+      "url": "https://www.cp24.com/news/world/2025/05/09/us-to-accept-white-south-african-refugees-while-other-programs-remain-paused/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/NZQLPXDWKTVPMH3T2YBXDLT2VA.jpg?smart=true&auth=fb3b9f82447061be5bb3fee6eacd9f2007ce9505e7750a331ef8f000be4c3d3b&width=1200&height=630",
+      "publishedAt": "2025-05-09T21:24:37Z",
+      "content": "White South Africans demonstrate in support of U.S. President Donald Trump in front of the U.S. embassy in Pretoria, South Africa, Feb. 15, 2025. (AP Photo/Jerome Delay)\nWASHINGTON (AP) — The Trump administration will welcome more than two dozen whit... [5975 chars]",
+      "tags": [
+        "immigration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746825877
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Trade talks in two acts: Canada-U.S. poised to negotiate in stages",
+      "description": "The process is still taking shape. But the two-step idea is emerging in comments following this week's meeting between Prime Minister Mark Carney and U.S. President Donald Trump.",
+      "url": "https://www.cbc.ca/news/world/two-phase-canada-us-talks-1.7531494",
+      "urlToImage": "https://i.cbc.ca/1.7531095.1746804518!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump-carney-gallery-09.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-09T21:23:37Z",
+      "content": "All signs point to Canada and the United States holding trade negotiations in two separate phases — with some now on immediate irritants, and the rest next year.\nThe process is still taking shape. But the two-step idea is emerging in comments followi... [4663 chars]",
+      "tags": [
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1746825817
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "Two dolls instead of 30? Toys become the latest symbol of Trump's trade war",
+      "description": "Toy dolls have become the latest rhetorical poster child for President Donald Trump's tariffs crusade.",
+      "url": "https://apnews.com/article/trump-two-dolls-tariffs-toys-7b0e5d3a9035471317e6dc4ee1fbfbc1",
+      "urlToImage": "https://dims.apnews.com/dims4/default/b342540/2147483647/strip/true/crop/4458x2508+0+199/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2Ff7%2F2f25d1e85a93a49caa40f0ae7fba%2F3d06d0fb30a6424eabc037ad7ed7acec",
+      "publishedAt": "2025-05-09T21:21:25Z",
+      "content": "NEW YORK (AP) — President Donald Trump’s tariffs crusade has taken aim at a number of foreign goods, from European wines and car parts from Mexico to films made abroad. Lately, the president’s wandering ire has found another rhetorical poster child: ... [7258 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746825685
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "On podcasts, Trump’s surgeon general pick touts organics, questions vaccines and talks spirituality",
+      "description": "NEW YORK (AP) — President Donald Trump's newest surgeon general nominee is a burgeoning health influencer who has shared her approach to health care through appearances on some of the",
+      "url": "https://www.thestar.com/news/world/united-states/on-podcasts-trump-s-surgeon-general-pick-touts-organics-questions-vaccines-and-talks-spirituality/article_5847606a-1fd9-5786-97d7-1d3f1ed3fb41.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/92/d9296922-7779-5fda-b03e-610523fda90b/681e7180a344b.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-09T21:16:13Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "social_issues",
+        "health_science",
+        "personal_family"
+      ],
+      "publishedAtTs": 1746825373
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Westword"
+      },
+      "author": "Westword",
+      "title": "Eric Trump Coming to Golden for Conservative Gala",
+      "description": "President Donald Trump's son, Eric, will come to Golden as the keynote speaker for a conservative gala on June 21 to speak on political stakes in 2025.",
+      "url": "https://www.westword.com/news/eric-trump-coming-to-colorado-for-conservative-gala-24495726",
+      "urlToImage": "https://media2.westword.com/den/imager/eric-trump-coming-to-colorado-in-june-for-conservative-gala/u/r-landingfeature/24496272/lauren.boebert.eric.trump.webp?cb=1746832358",
+      "publishedAt": "2025-05-09T21:12:00Z",
+      "content": "on political stakes in 2025 \"and why states like Colorado need bold, bottom-up leadership,\" according to the Rocky Mountain Voice, the event organizer.\n. \"This isn't politics as usual — it’s the launch pad for the most strategic and energized conserv... [3257 chars]",
+      "tags": [
+        "elections_politics",
+        "campaign_events"
+      ],
+      "publishedAtTs": 1746825120
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump administration mulling end to legal right to challenge one’s detention",
+      "description": "Top White House adviser Stephen Miller announces US president considering suspending writ of habeas corpus",
+      "url": "https://www.theguardian.com/law/2025/may/09/end-habeas-corpus-detention-trump-stephen-miller",
+      "urlToImage": "https://i.guim.co.uk/img/media/3c7f42340199f5c0cf239fd297ed44dffeb4061e/0_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1eca590991f8259cd62af6d3455f9aa",
+      "publishedAt": "2025-05-09T21:10:25Z",
+      "content": "The Trump administration is considering suspending the writ of habeas corpus, the legal right to challenge one’s detention, Stephen Miller, a top White House adviser, said on Friday.\n“The constitution is clear, and that of course is the supreme law o... [2196 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1746825025
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Verge"
+      },
+      "author": "The Verge",
+      "title": "Trump illegally fires Democrats on Consumer Product Safety Commission",
+      "description": "The president has removed the three Democrats at the CPSC, an independent watchdog agency, in violation of existing Supreme Court precedent.",
+      "url": "https://www.theverge.com/news/664498/consumer-product-safety-commission-cpsc-trump-firing",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-1268122495.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-05-09T20:58:29Z",
+      "content": "On Friday, Donald Trump abruptly removed the three sitting Democrat appointees on the five-person U.S. Consumer Product Safety Commission — the independent watchdog agency that issues recalls and regulates everyday products, including consumer electr... [3118 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1746824309
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump tariffs partially to blame for dip in U.S. tourism",
+      "description": "Expedia Group said Friday that reduced travel demand in the United States led to its weaker-than-expected revenue in the first quarter.",
+      "url": "https://www.cp24.com/news/world/2025/05/09/expedia-cites-lower-demand-for-us-travel-for-weaker-than-expected-revenue/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/YLGMGS7QEHILUMTGCPIYUKKZNY.jpg?smart=true&auth=30d783e77fa3b914c538c27b320c10e35437fc2a6059c6ef1f1abd3c44544e64&width=1200&height=630",
+      "publishedAt": "2025-05-09T20:55:54Z",
+      "content": "Expedia Group said Friday that reduced travel demand in the United States led to its weaker-than-expected revenue in the first quarter.\nExpedia, which owns the lodging reservation platforms Hotels.com and VRBO as well as an eponymous online travel ag... [3381 chars]",
+      "tags": [
+        "trade",
+        "tourism",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1746824154
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Inside Trump’s negotiating strategy with China",
+      "description": "A few hours after President Donald Trump’s trade negotiating team boarded a flight for the most important economic meetings in the world, their boss took to social media to publicly throw a curveball into the negotiations.",
+      "url": "https://edition.cnn.com/2025/05/09/business/china-trade-negotiations",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25129500995852.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-09T20:50:46Z",
+      "content": "CNN —\nA few hours after President Donald Trump’s trade negotiating team boarded a flight for the most important economic meetings in the world, their boss took to social media to publicly throw a curveball into the negotiations.\nThat was the point – ... [7177 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1746823846
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Trump plans to launch airlift for white South Africans the U.S. calls refugees",
+      "description": "As 50 Afrikaners are set to arrive next week, the South African government disputes calling them victims of racial discrimination",
+      "url": "https://www.theglobeandmail.com/world/article-trump-plans-to-launch-airlift-for-white-south-africans-the-us-calls/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/UB5Z4GISHNC3FNBIUY5P2PSO5Y.JPG?auth=bce6ab40bf67e4f639c4dbb2c6ea9ae150228c956221cb953c47b88a9465e371&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-09T20:25:51Z",
+      "content": "Open this photo in gallery: Demonstrators in support of U.S. President Donald Trump's stance against what he calls racist laws, outside the American Embassy in Pretoria, South Africa, on Feb. 15. The first chartered flight of about 50 white South Afr... [4435 chars]",
+      "tags": [
+        "immigration",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746822351
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Trump administration live updates: President floats 80% China tariff; Pope Leo XIV's social media scrutinized",
+      "description": "Live updates and the latest news as Trump touts his UK trade deal, names Jeanine Pirro as U.S. attorney, and Pope Leo XIV's social media gets scrutiny.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-pirro-pope-leo-uk-trade-immigration-live-updates-rcna204765",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250429-donald-trump-vl-1144a-8b85b2.jpg",
+      "publishedAt": "2025-05-09T20:14:38Z",
+      "content": "In an interview today with conservative radio host Hugh Hewitt, Vice President JD Vance spoke about the new pope, Leo XIV, and how he hopes that Americans will not try to fit Leo into American political lanes.\n\"These things always get discolored a li... [707 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "media_communications"
+      ],
+      "publishedAtTs": 1746821678
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "15 states sue over Trump's move to fast-track oil and gas projects via his 'energy emergency' order",
+      "description": "A coalition of 15 states is suing over President Donald Trump's efforts to fast-track energy-related projects, saying the administration is bypassing environmental protection laws and threatening endangered species, critical habitat",
+      "url": "https://www.thestar.com/news/world/united-states/15-states-sue-over-trumps-move-to-fast-track-oil-and-gas-projects-via-his/article_5a2dbe56-a2b7-59f3-af3d-a10a29548aa8.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/74/5748be19-8648-5879-b81d-f0350b3b6634/681e63718d5e2.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-09T20:13:11Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "energy",
+        "environment",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746821591
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Mayor Baraka of Newark, New Jersey, arrested at ICE detention centre he has been protesting",
+      "description": "Baraka, a Democrat who is running to succeed term-limited Gov. Phil Murphy, has embraced the fight with the Trump administration over illegal immigration",
+      "url": "https://www.theglobeandmail.com/world/article-mayor-baraka-of-newark-new-jersey-arrested-at-ice-detention-centre-he/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/UFIOXVTHNBGB7PMDCILAL63BLA.jpg?auth=d76f07fe3735dd36f50fc3783186498c87c36c12374ff8555c6506c927e53935&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-09T20:11:35Z",
+      "content": "Open this photo in gallery: Newark Mayor Ras Baraka speaks to protesters outside of Delaney Hall, a recently re-opened immigration detention centre, in Newark, N.J., on May 7.Seth Wenig/The Canadian Press\nNewark Mayor Ras Baraka was arrested Friday a... [2976 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration",
+        "protests",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1746821495
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Mayor of Newark arrested for trespassing at Ice detention center",
+      "description": "Ras Baraka, who has spoken out against Trump’s immigration policies, was at the center with Democratic members of Congress",
+      "url": "https://www.theguardian.com/us-news/2025/may/09/newark-mayor-ras-baraka-arrested-ice-protest-detention-center",
+      "urlToImage": "https://i.guim.co.uk/img/media/34f8d2d6091b7a0eaee1682afdc1592a2e8e3a07/719_0_7202_5760/master/7202.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5c44b585a79c54848cb3a595d47b832",
+      "publishedAt": "2025-05-09T20:09:01Z",
+      "content": "The mayor of Newark, Ras Baraka, was arrested for trespass at an Immigration and Customs Enforcement (Ice) detention center in New Jersey on Friday as Democratic members of Congress also attempted to conduct what they say was a visit to the controver... [2825 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "protests"
+      ],
+      "publishedAtTs": 1746821341
     }
   ]
 }

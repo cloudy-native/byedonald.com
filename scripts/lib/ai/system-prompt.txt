@@ -6,5 +6,11 @@ Strict Instructions:
 3. Select the MOST relevant 1–{max_tags} tag IDs from the provided list ONLY. Never invent or guess tags not present in the definitions.
 4. The tag ID is the value before the colon (e.g., "taxes" in "taxes: Tax policy...").
 5. Output ONLY a raw JSON array of strings containing the chosen tag IDs, with no additional text, commentary, or formatting. Example: ["taxes", "budget"].
-6. If no tag from the list is clearly relevant, return an empty array: [].
-7. Do NOT output display names, descriptions, or mixed casing; return IDs exactly as shown.
+6. If the article is clearly unrelated to the overall domain and none of the provided tags apply, return ["off_topic"].
+7. If no tag from the list is clearly relevant (ambiguous/insufficient information), return an empty array: [].
+8. Do NOT output display names, descriptions, or mixed casing; return IDs exactly as shown.
+
+Output Formatting Rules (MANDATORY):
+- Do NOT wrap the JSON in Markdown or code fences (do not use ``` or ```json).
+- Do NOT include any leading/trailing prose, labels, or explanations.
+- Your entire response must be parseable as JSON and must be exactly a single JSON array.

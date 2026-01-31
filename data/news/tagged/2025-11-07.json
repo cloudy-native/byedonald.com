@@ -33,7 +33,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/11/cornell-university-1200x675.jpg",
       "publishedAt": "2025-11-07T19:05:44Z",
       "content": "Cornell University announced Friday that it had reached an agreement with the Trump administration to pay $30 million to restore roughly $250 million in funding that had been withheld from the New Yo… [+4085 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "education"
+      ],
       "publishedAtTs": 1762542344
     },
     {
@@ -738,7 +741,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/aab59bd0-82c5-43bf-943a-21671c5bd84a/251107_abc_social_shark_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-11-07T14:05:11Z",
       "content": "<ul><li>FAA orders flight cuts at 40 major US airports amid shutdown\r\n</li><li>American Airlines COO talks impact of flight cuts\r\n</li><li>Judge orders Trump administration to pay SNAP benefits immed… [+4511 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762524311
     },
     {
@@ -826,7 +831,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/3lhlTbsBNQ2WOvpFqi6KaSrlVms=/1x334:7440x4209/1200x625/media/img/mt/2025/11/a01_G_2245355778/original.jpg",
       "publishedAt": "2025-11-07T14:30:00Z",
       "content": "Andrew Harnik / Getty\r\nPresident Donald Trump stands by as attendees help a guest after he collapsed during an event on lowering drug prices in the Oval Office, at the White House, in Washington, D.C… [+4970 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762525800
     },
     {
@@ -1042,7 +1049,12 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-1352810830.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-07T15:20:18Z",
       "content": "Residential electricity rates have risen fast across the US, more than 30 percent on average in just five years.\r\n\n\nYou’ve probably noticed that Democrats are talking a lot less about climate change.… [+6202 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "energy",
+        "climate_policy",
+        "economy_finance"
+      ],
       "publishedAtTs": 1762528818
     },
     {
@@ -1170,7 +1182,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24311755278552-1730926882.jpg?resize=1920%2C1440",
       "publishedAt": "2025-11-07T13:25:24Z",
       "content": "Its an historic moment for the Congress. Its an historic moment for the women of America. It is a moment for which we have waited over 200 years, said United States Congresswoman Nancy Pelosi in Janu… [+13376 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "leadership"
+      ],
       "publishedAtTs": 1762521924
     },
     {
@@ -1650,7 +1665,10 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/11/Karoline-Leavitt-2244524814.jpg",
       "publishedAt": "2025-11-07T11:45:50Z",
       "content": "President Donald Trump and his MAGA gang had their political posteriors handed to them this week in elections in Virginia, New Jersey, New York City and California, where a ballot initiative allowing… [+11933 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "press_relations"
+      ],
       "publishedAtTs": 1762515950
     },
     {
@@ -1762,7 +1780,12 @@
       "urlToImage": "https://api-prod.gothamist.com/images/354065/fill-1200x650|format-webp|webpquality-85/",
       "publishedAt": "2025-11-07T14:48:00Z",
       "content": "Rep. Elise Stefanik launched a 2026 campaign for New York governor Friday, arguing the high cost of living and concerns about public safety should be pinned on the states ruling Democrats.\r\nHer entra… [+4312 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "republican_party",
+        "state_elections"
+      ],
       "publishedAtTs": 1762526880
     },
     {

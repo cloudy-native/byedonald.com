@@ -51,7 +51,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
       "publishedAt": "2025-11-10T20:40:00Z",
       "content": "Available for over a year\r\nToday, President Trump has threatened to sue the BBC for $1bn. \r\nIn a latter to the corporation Trumps legal team demands the BBC immediately retract a Panorama programme w… [+1324 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1762807200
     },
     {
@@ -66,7 +69,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg",
       "publishedAt": "2025-11-10T20:07:00Z",
       "content": "Available for over a year\r\nPresident Donald Trump has threatened to sue the BBC for $1 billion over how the editing of his speech in a Panorama documentary, calling it \"false and defamatory\". The BBC… [+1999 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1762805220
     },
     {
@@ -344,7 +350,12 @@
       "urlToImage": "https://i.insider.com/690e2a40513c94655a3dd6f6?width=1200&format=jpeg",
       "publishedAt": "2025-11-10T11:09:01Z",
       "content": "OpenAI CEO Sam AltmanJustin Sullivan/Getty Images; Tyler Le/BI\r\n<ul><li>Sam Altman is increasingly leading OpenAI into spaces beyond AI research.</li><li>OpenAI is in competition with companies rangi… [+7520 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation",
+        "health_science",
+        "social_issues"
+      ],
       "publishedAtTs": 1762772941
     },
     {
@@ -433,7 +444,10 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/9a807106a7f85ef39f4c71f58038c60f",
       "publishedAt": "2025-11-10T14:14:31Z",
       "content": "LONDON (Reuters) -BBC News said on Monday the broadcaster had received a letter from U.S. President Donald Trump threatening legal action over the edit of a documentary broadcast a week before the U.… [+871 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
       "publishedAtTs": 1762784071
     },
     {
@@ -1012,7 +1026,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jzcY27ACoAXAPYedLxT0mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/bfb4126e4b4135bd04bba581091ab4fe",
       "publishedAt": "2025-11-10T03:43:28Z",
       "content": "WASHINGTON The record-breaking U.S. government shutdown appears headed for its end after more than a month of Washington gridlock caused real pain on main street.\r\nIt's welcome news to many in Washin… [+4535 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "budget"
+      ],
       "publishedAtTs": 1762746208
     },
     {
@@ -1027,7 +1045,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hUh1LtD260zgYJNpiPeNow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/47bd0b03dea39efd9444d9d7229dc3ca",
       "publishedAt": "2025-11-10T16:29:06Z",
       "content": "A leading investment bank has delivered an arresting diagnosis of the U.S. economy: the labor market, long a pillar of resilience, may be in real trouble. In their latest economic outlook, UBS econom… [+7024 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "labor"
+      ],
       "publishedAtTs": 1762792146
     },
     {
@@ -1230,7 +1251,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/97d00f72-f96f-41b1-9442-37184cea9682/251110_abc_social_typhoon_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-11-10T12:09:19Z",
       "content": "<ul><li>Late-night votes in the Senate following breakthrough on ending the shutdown\r\n</li><li>Pardons for individuals involved in efforts to overturn 2020 election\r\n</li><li>Concerns grow over Thank… [+4298 chars]",
-      "tags": [],
+      "tags": [
+        "natural_disasters"
+      ],
       "publishedAtTs": 1762776559
     },
     {
@@ -1413,7 +1436,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/fQqraPrzBw560BfMbXfloEsSe5w=/5x76:2160x1198/1200x625/media/img/mt/2025/11/110825_Atlantic_RedScare_Rendered_2/original.jpg",
       "publishedAt": "2025-11-10T15:45:58Z",
       "content": "Early last month, the White House convened a meeting of right-wing influencers for a livestreamed discussion of antifa and the danger they claim it poses. Over the course of the roundtable, President… [+25940 chars]",
-      "tags": [],
+      "tags": [
+        "free_speech",
+        "protests",
+        "civil_rights"
+      ],
       "publishedAtTs": 1762789558
     },
     {
@@ -1483,7 +1510,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/af17/live/953357c0-be4b-11f0-ae46-bd64331f0fd4.jpg",
       "publishedAt": "2025-11-10T16:06:59Z",
       "content": "Georgina RannardClimate and science reporter, Belém, Brazil\r\nBrazilian President Luiz Inacio Lula da Silva speaks during the opening of the COP30 conferences in Belem, Brazil.\r\nThe world must \"defeat… [+3796 chars]",
-      "tags": [],
+      "tags": [
+        "climate_policy",
+        "social_issues"
+      ],
       "publishedAtTs": 1762790819
     },
     {
@@ -1588,7 +1618,11 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/12/negativeearnings.jpg",
       "publishedAt": "2025-11-10T11:30:48Z",
       "content": "The Dow Is Close to 50,000. How the Heck Did We Get Here So Fast? It took a 103-year slog through market crashes, depression, and crippling inflation to reach that once-unthinkable milestone, as The … [+2957 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "inflation"
+      ],
       "publishedAtTs": 1762774248
     },
     {
@@ -1773,7 +1807,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2244656640.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-11-10T21:07:21Z",
       "content": "Senate Minority Leader Chuck Schumer (D-NY) during a news conference at the Capitol in Washington, DC, on November 5, 2025. | Daniel Heuer/Bloomberg via Getty Images\r\n\n\n\nKey takeaways\r\n\n\n\n\n<ul>\n<li>T… [+7405 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "congress"
+      ],
       "publishedAtTs": 1762808841
     },
     {

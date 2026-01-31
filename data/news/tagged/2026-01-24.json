@@ -14,7 +14,10 @@
       "urlToImage": "https://i.insider.com/697392f7a645d1188187df28?width=1200&format=jpeg",
       "publishedAt": "2026-01-24T08:11:01Z",
       "content": "If there's one thing student-loan borrowers are familiar with, it's uncertainty and there's a lot of that right now.\r\nAround the time it was set to take effect in early January, President Donald Trum… [+4175 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "education"
+      ],
       "publishedAtTs": 1769242261
     },
     {
@@ -29,7 +32,11 @@
       "urlToImage": "https://i.insider.com/69725f94e1ba468a96aa8655?width=1200&format=jpeg",
       "publishedAt": "2026-01-24T10:15:01Z",
       "content": "Jeremy Cerza, a 45-year-old retail investor, admits he isn't that experienced in markets, but even he knows metals stole the show in 2025.\r\nGold and silver were among the best-performing investments … [+6141 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "tariff_impact_economy"
+      ],
       "publishedAtTs": 1769249701
     },
     {
@@ -44,7 +51,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+181/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2Fe0%2Fd7723bc04091a719f92f818a6e52%2Fap26022695460529.jpg",
       "publishedAt": "2026-01-24T16:53:17Z",
       "content": "WASHINGTON President Donald Trump on Saturday threatened to impose a 100% tariff on goods imported from Canada if America's northern neighbor went ahead with its China trade deal.\r\nTrump said in a so… [+3929 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "foreign_policy",
+        "tariff_impact_economy"
+      ],
       "publishedAtTs": 1769273597
     },
     {
@@ -59,7 +70,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4817x2710+0+251/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2F4e%2F48939fea4781bc1a916a6da84f56%2Fap26003616548274.jpg",
       "publishedAt": "2026-01-24T09:17:04Z",
       "content": "WASHINGTON The Pentagon released a priority-shifting National Defense Strategy late Friday that chastised U.S. allies to take control of their own security and reasserted the Trump administration's f… [+5429 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "defense_contractor_reform",
+        "department_of_war"
+      ],
       "publishedAtTs": 1769246224
     },
     {
@@ -77,7 +92,7 @@
       "tags": [
         "china",
         "military",
-        "security_intelligence"
+        "personnel"
       ],
       "publishedAtTs": 1769261923
     },
@@ -93,7 +108,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F1d%2Fe5c31aef499b9653982190cef763%2Fap26024593977796.jpg",
       "publishedAt": "2026-01-24T19:01:37Z",
       "content": "A man shot Saturday morning in Minneapolis by federal immigration officers has died, federal and local officials said.\r\nThe incident, the third shooting involving Border Patrol agents in Minneapolis … [+2005 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "law_enforcement",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1769281297
     },
     {
@@ -109,7 +128,8 @@
       "publishedAt": "2026-01-24T15:58:31Z",
       "content": "President Donald Trump is threatening Canada with another round of tariffs.Harun Ozalp/Anadolu via Getty Images\r\n<ul><li>President Donald Trump on Saturday threatened to impose 100% tariffs on Canada… [+2353 chars]",
       "tags": [
-        "trade",
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
         "foreign_policy",
         "canada"
       ],
@@ -128,7 +148,8 @@
       "publishedAt": "2026-01-24T22:18:35Z",
       "content": "The National Basketball Association postponed the game between the Golden State Warriors and Minnesota Timberwolves on Saturday.Bruce Kluckhohn/AP\r\n<ul><li>The Warriors and Timberwolves were set to p… [+1449 chars]",
       "tags": [
-        "protests"
+        "protests",
+        "immigration"
       ],
       "publishedAtTs": 1769293115
     },
@@ -144,7 +165,11 @@
       "urlToImage": "https://i.insider.com/6973f02cd3c7faef0eccdd46?width=1200&format=jpeg",
       "publishedAt": "2026-01-24T14:02:01Z",
       "content": "Demetrius Freeman/The Washington Post via Getty Images\r\n<ul><li>A Democratic congressional report criticizes the Department of Veterans Affairs for major healthcare cuts.</li><li>The VA lost over 40,… [+4930 chars]",
-      "tags": [],
+      "tags": [
+        "veterans_affairs",
+        "government_administration",
+        "healthcare"
+      ],
       "publishedAtTs": 1769263321
     },
     {
@@ -160,7 +185,6 @@
       "publishedAt": "2026-01-24T16:24:01Z",
       "content": "Jerry Clark overhauled his diet: he started eating more vegetables and having his chicken roasted instead of fried.Courtesy of Jerry Clark\r\n<ul><li>A man gained 50 pounds after he quit the army and s… [+10987 chars]",
       "tags": [
-        "health",
         "personal_family"
       ],
       "publishedAtTs": 1769271841
@@ -178,9 +202,9 @@
       "publishedAt": "2026-01-24T01:36:12Z",
       "content": "MINNEAPOLIS (AP) The detention of a 5-year-old Ecuadorian boy with his father outside their home in Minnesota has become the latest lightning rod for Americas divisions on immigration under the Trump… [+7684 chars]",
       "tags": [
-        "immigration",
-        "legal_justice",
-        "security_intelligence"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1769218572
     },
@@ -232,8 +256,9 @@
       "publishedAt": "2026-01-24T11:02:12Z",
       "content": "Traces of Denmarks 250-year imperial reign are still visible on St. Thomas, St. Croix, St. John and the smattering of tiny islets that today make up the U.S. Virgin Islands.\r\nCities and street signs … [+7016 chars]",
       "tags": [
-        "foreign_policy",
-        "regional_state"
+        "greenland_acquisition",
+        "regional_state",
+        "foreign_policy"
       ],
       "publishedAtTs": 1769252532
     },
@@ -250,10 +275,9 @@
       "publishedAt": "2026-01-24T15:32:15Z",
       "content": "Jan 24 (Reuters) - Airlines have been rerouting and cancelling some flights across the Middle East as tensions ramp up between Iran and the United States, with President Donald Trump saying on Thursd… [+2530 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "security_intelligence",
-        "crisis_emergency"
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1769268735
     },
@@ -270,9 +294,9 @@
       "publishedAt": "2026-01-24T19:55:09Z",
       "content": "By Heather Schlitz\r\nMINNEAPOLIS, Jan 24 (Reuters) - When Fabiola, a single mother and naturalized U.S. citizen from Latin America, first learned of the fatal shooting of Renee Good by an Immigration … [+6157 chars]",
       "tags": [
-        "immigration",
-        "protests",
-        "social_issues"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1769284509
     },
@@ -288,7 +312,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6c162283-0bbe-456c-89ec-254d4f9e43f4/260124_abc_social_WH_ballroom_lawsuit_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-24T16:08:50Z",
       "content": "<ul><li>Massive winter storm, bitter cold threaten over 200 million\r\n</li><li>NATO allies outraged by Trump remarks amid Ukraine peace talks\r\n</li><li>NFL coaching carousel heats up\r\n</li><li>Former … [+4423 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1769270930
     },
     {
@@ -303,7 +330,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fb85edeb-c044-4bb4-a5f1-82e46c3f361a/260123_abcnl_prime_levine_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-24T02:32:02Z",
       "content": "<ul><li>180+ million to face dangerous winter storm bringing heavy snow, crippling ice\r\n</li><li>Trump claims NATO allies were \"a little off the front lines\" in Afghanistan\r\n</li><li>Minneapolis busi… [+4487 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
       "publishedAtTs": 1769221922
     },
     {
@@ -319,7 +349,7 @@
       "publishedAt": "2026-01-24T02:29:18Z",
       "content": "<ul><li>180+ million to face dangerous winter storm bringing heavy snow, crippling ice\r\n</li><li>Trump claims NATO allies were \"a little off the front lines\" in Afghanistan\r\n</li><li>Minneapolis busi… [+4487 chars]",
       "tags": [
-        "elections_politics"
+        "off_topic"
       ],
       "publishedAtTs": 1769221758
     },
@@ -335,7 +365,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9f62168b-d868-4758-b728-f9e13227ce55/260124_abc_social_norwood_storm_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-24T20:37:00Z",
       "content": "<ul><li>Federal agent shot and killed person that approached officers with handgun: DHS\r\n</li><li>What we know about the fatal shooting of a Minneapolis man by federal agents\r\n</li><li>Protesters gat… [+4535 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769287020
     },
     {
@@ -351,7 +383,7 @@
       "publishedAt": "2026-01-24T15:37:03Z",
       "content": "<ul><li>Massive winter storm, bitter cold threaten over 200 million\r\n</li><li>NATO allies outraged by Trump remarks amid Ukraine peace talks\r\n</li><li>NFL coaching carousel heats up\r\n</li><li>Former … [+4423 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769269023
     },
@@ -369,8 +401,7 @@
       "content": "<ul><li>Federal agent shot and killed person that approached officers with handgun: DHS\r\n</li><li>What we know about the fatal shooting of a Minneapolis man by federal agents\r\n</li><li>Protesters gat… [+4535 chars]",
       "tags": [
         "law_enforcement",
-        "criminal_cases",
-        "security_intelligence"
+        "criminal_cases"
       ],
       "publishedAtTs": 1769289992
     },
@@ -386,7 +417,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0e3cd7a0-7bcd-4f54-aa69-c9665cb2ae08/260124_abc_social_ICE_MN_protests_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-24T16:08:16Z",
       "content": "<ul><li>Massive winter storm, bitter cold threaten over 200 million\r\n</li><li>NATO allies outraged by Trump remarks amid Ukraine peace talks\r\n</li><li>NFL coaching carousel heats up\r\n</li><li>Former … [+4423 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "immigration"
+      ],
       "publishedAtTs": 1769270896
     },
     {
@@ -402,7 +436,7 @@
       "publishedAt": "2026-01-24T15:35:40Z",
       "content": "<ul><li>Massive winter storm, bitter cold threaten over 200 million\r\n</li><li>NATO allies outraged by Trump remarks amid Ukraine peace talks\r\n</li><li>NFL coaching carousel heats up\r\n</li><li>Former … [+4423 chars]",
       "tags": [
-        "elections_politics"
+        "off_topic"
       ],
       "publishedAtTs": 1769268940
     },
@@ -421,7 +455,8 @@
       "tags": [
         "media_communications",
         "legal_justice",
-        "foreign_policy"
+        "foreign_policy",
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1769252400
     },
@@ -457,8 +492,7 @@
       "publishedAt": "2026-01-24T13:00:00Z",
       "content": "At first, we didnt think much of it, the One Other Thing. When Agriculture Secretary Brooke Rollins suggested a meal of one corn tortilla, one piece of broccoli, one piece of chicken, and one other t… [+3202 chars]",
       "tags": [
-        "personal_family",
-        "agriculture"
+        "personal_family"
       ],
       "publishedAtTs": 1769259600
     },
@@ -474,7 +508,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/7IEMUl3FuaDRVttQPe4oFhSgyFo=/2x19:978x531/960x504/media/img/mt/2026/01/TechHamiltonians-7/original.gif",
       "publishedAt": "2026-01-24T11:00:00Z",
       "content": "As the Information Revolution accelerates around the world, upending everything from the international balance of power to the future of work, American culture and American politics are undergoing pe… [+40318 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "policy_legislation",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769252400
     },
     {
@@ -489,7 +527,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/qqgteQzWdaJ2O61VWm9_aoOma1o=/0x104:2596x1456/1200x625/media/img/mt/2026/01/Screenshot_2026_01_24_at_10.31.44AM/original.png",
       "publishedAt": "2026-01-24T16:01:50Z",
       "content": "Editor’s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings, watch… [+1042 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
       "publishedAtTs": 1769270510
     },
     {
@@ -504,7 +545,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/AcKh2AhU5miqE148FNPmZAGCxdY=/0x169:7936x4302/1200x625/media/img/mt/2026/01/2026_1_23_How_Minneapolis_police_are_working_amid_a_federal_force/original.png",
       "publishedAt": "2026-01-24T13:17:47Z",
       "content": "In 2023, the Department of Justice released a blistering report on the patterns and practices of the Minneapolis Police Department. The police force responsible for George Floyd’s death three years e… [+14364 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "criminal_cases",
+        "social_issues"
+      ],
       "publishedAtTs": 1769260667
     },
     {
@@ -519,7 +564,11 @@
       "urlToImage": "https://text.tchncs.de/img/wf-sq.png",
       "publishedAt": "2026-01-24T17:18:04Z",
       "content": "In Europe, there is a strong desire to make sense of the current madness unfolding in the United States. After all, this shift toward authoritarianism is occurring in one of the world's oldest democr… [+8024 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "government_administration",
+        "political_endorsements"
+      ],
       "publishedAtTs": 1769275084
     },
     {
@@ -537,7 +586,7 @@
       "tags": [
         "social_issues",
         "protests",
-        "media_communications"
+        "immigration"
       ],
       "publishedAtTs": 1769213149
     },
@@ -553,7 +602,10 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!fRJQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbc0a789-8daf-4457-9cef-c63006d1698c_1536x1024.heic",
       "publishedAt": "2026-01-24T08:21:36Z",
       "content": "Empires rarely fall in dramatic moments of realization. They do not collapse because they suddenly discover moral limits, nor because independence movements alone overwhelm them. Empires fall when th… [+11287 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "national_debt"
+      ],
       "publishedAtTs": 1769242896
     },
     {
@@ -569,7 +621,7 @@
       "publishedAt": "2026-01-24T03:39:00Z",
       "content": "from the closing-the-book dept\r\nEvery year, a little after New Years, I do a post about the previous year of Techdirt traffic and comments. You may notice that we skipped last years for 2024. 2025 wa… [+9492 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769225940
     },
@@ -585,7 +637,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2257959608.jpg?quality=90&strip=all&crop=0%2C10.741658252926%2C100%2C78.516683494149&w=1200",
       "publishedAt": "2026-01-24T22:35:57Z",
       "content": "A federal agent kicks a tear gas canister at protesters after federal agents shot and killed a man on January 24, 2026, in Minneapolis. | Brandon Bell/Getty Images\r\n\n\nOn Saturday, a Border Patrol age… [+5657 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "protests",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1769294157
     },
     {
@@ -600,7 +656,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/temp.png?quality=90&strip=all&crop=0,6.2494576379046,100,87.501084724191",
       "publishedAt": "2026-01-24T17:53:50Z",
       "content": "A screenshot of the video showing federal officers killing a man.﻿ | @TheJFreakinC\r\n\n\nThe video of the latest killing in Minneapolis is truly horrific. In it, about half a dozen men in military garb,… [+7302 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "criminal_cases",
+        "social_issues"
+      ],
       "publishedAtTs": 1769277230
     },
     {
@@ -616,9 +676,9 @@
       "publishedAt": "2026-01-24T20:59:14Z",
       "content": "President Donald Trump says Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey are to blame for the Saturday morning shooting ... claiming they don't protect ICE agents and cause situations… [+2076 chars]",
       "tags": [
-        "elections_politics",
-        "security_intelligence",
-        "social_issues"
+        "social_issues",
+        "law_enforcement",
+        "elections_politics"
       ],
       "publishedAtTs": 1769288354
     },
@@ -635,9 +695,8 @@
       "publishedAt": "2026-01-24T09:00:56Z",
       "content": "What do dog collars, stethoscopes and vibrators have in common with Jeffrey Epstein? They're all among the convicted pedophile's \"toy\" collection.\r\nNo surprise there ... given Epstein's notorious pen… [+1342 chars]",
       "tags": [
-        "criminal_cases",
-        "law_enforcement",
-        "legal_justice"
+        "legal_justice",
+        "criminal_cases"
       ],
       "publishedAtTs": 1769245256
     },
@@ -655,8 +714,7 @@
       "content": "The U.S. citizen shot to death by federal agents in Minneapolis has been identified.\r\nAlex Jeffrey Pretti -- a 37-year-old man -- was the individual killed by feds, according to the Associated Press,… [+1267 chars]",
       "tags": [
         "law_enforcement",
-        "criminal_cases",
-        "security_intelligence"
+        "criminal_cases"
       ],
       "publishedAtTs": 1769285437
     },
@@ -672,7 +730,10 @@
       "urlToImage": "https://imagez.tmz.com/image/db/16by9/2026/01/23/db7379b07b95474b8162f119cccd4dc7_xl.png",
       "publishedAt": "2026-01-24T00:00:57Z",
       "content": "Nicki Minaj's foray into politics has been a slap in the face to her gay fans ... reality star Tiffany Pollardtells TMZ.\r\nWe caught up with the \"Flavor of Love\" star -- who recently came out as queer… [+1276 chars]",
-      "tags": [],
+      "tags": [
+        "lgbtq_rights",
+        "social_issues"
+      ],
       "publishedAtTs": 1769212857
     },
     {
@@ -689,8 +750,7 @@
       "content": "New video from the shooting of Alex Pretti by Department of Homeland Security in Minneapolis Saturday morning shows officers pile onto the late ICU nurse before the fatal shots ring out.\r\nCheck out t… [+1600 chars]",
       "tags": [
         "law_enforcement",
-        "criminal_cases",
-        "security_intelligence"
+        "criminal_cases"
       ],
       "publishedAtTs": 1769291652
     },
@@ -707,9 +767,8 @@
       "publishedAt": "2026-01-24T19:40:20Z",
       "content": "Minneapolis Police Chief Brian O’Hara confirmed on Saturday that a man was shot and killed by Department of Homeland Security agents. The killing was captured on video by bystanders. In the footage, … [+3722 chars]",
       "tags": [
-        "law_enforcement",
-        "security_intelligence",
-        "social_issues"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1769283620
     },
@@ -726,9 +785,9 @@
       "publishedAt": "2026-01-24T08:17:49Z",
       "content": "Thousands of demonstrators have braved bitter cold to march through the streets of Minneapolis in the United States and demand an end to President Donald Trumps immigration crackdown in their city.\r\n… [+3547 chars]",
       "tags": [
-        "immigration",
+        "mass_deportation_operation",
         "protests",
-        "social_issues"
+        "immigration"
       ],
       "publishedAtTs": 1769242669
     },
@@ -744,7 +803,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260108__922U8C8__v1__HighRes__BrazilCoupAttemptAnniversary-1769227401.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T04:38:42Z",
       "content": "Brazilian President Luiz Inacio Lula da Silva has accused his United States counterpart Donald Trump of wanting to create a new UN, days after the US president launched his new Board of Peace initiat… [+2508 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "international_organizations"
+      ],
       "publishedAtTs": 1769229522
     },
     {
@@ -759,7 +821,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_697446e3-1769228003.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T06:11:01Z",
       "content": "At least two European airlines have suspended flights to cities in the Middle East, with Air France saying it will temporarily stop service to Dubai as it continues to monitor the geopolitical situat… [+1608 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trade_negotiations_truces"
+      ],
       "publishedAtTs": 1769235061
     },
     {
@@ -774,7 +839,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_6974e2d868eb-1769267928.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T16:11:38Z",
       "content": "Montreal, Canada United States President Donald Trump has threatened to impose a 100 percent tariff against Canada if Canadian Prime Minister Mark Carney moves ahead with an announced trade deal with… [+2748 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769271098
     },
     {
@@ -790,8 +858,7 @@
       "publishedAt": "2026-01-24T22:51:10Z",
       "content": "United States President Donald Trump has praised UK soldiers a day after receiving a rare rebuke from United Kingdom Prime Minister Keir Starmer over comments he made about European troops staying a … [+2254 chars]",
       "tags": [
-        "foreign_policy",
-        "nato"
+        "foreign_policy"
       ],
       "publishedAtTs": 1769295070
     },
@@ -807,7 +874,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1769258099.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-24T12:41:27Z",
       "content": "Donald Trumps latest attempt to seize Greenland shows that the president is willing to use US force to determine international borders, even at the expense of sovereignty.\r\nWestern allies NATO countr… [+1367 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "greenland_acquisition"
+      ],
       "publishedAtTs": 1769258487
     },
     {
@@ -824,7 +894,8 @@
       "content": "United States federal agents have shot another person in Minneapolis, Minnesota Governor Tim Walz said, amid an immigration crackdown in the city.\r\nWalz said on Saturday that he had spoken to the Whi… [+1721 chars]",
       "tags": [
         "law_enforcement",
-        "security_intelligence"
+        "social_issues",
+        "protests"
       ],
       "publishedAtTs": 1769273805
     },
@@ -840,7 +911,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/2020-01-08T183010Z_93400149_RC2UBE9797VF_RTRMADP_3_IRAQ-SECURITY.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T07:06:55Z",
       "content": "The United States military will prioritise protecting the homeland and deterring China while providing more limited support to allies in Europe and elsewhere, according to a Pentagon strategy documen… [+2539 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "china",
+        "russia",
+        "national_security"
+      ],
       "publishedAtTs": 1769238415
     },
     {
@@ -855,7 +931,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_6973b815480b-1769191445.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T14:24:41Z",
       "content": "It was an extraordinary beginning to the new year: A deadly United States military operation on Venezuelan soil. The abduction of the countrys longtime leader, Nicolas Maduro.\r\nBut in the three weeks… [+9513 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1769264681
     },
     {
@@ -870,7 +950,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_69739e34dce3-1769184820.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T09:59:16Z",
       "content": "Protests in Iran have petered out. Tens of thousands have been arrested. And those accused of supporting the unrest have had business assets seized and are being pursued on terrorism charges. The aut… [+7736 chars]",
-      "tags": [],
+      "tags": [
+        "iran",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769248756
     },
     {
@@ -885,7 +968,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_6974d3fd-1769264125.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T15:54:30Z",
       "content": "Tehran, Iran The Iranian state has rejected a resolution by the United Nations Human Rights Council that strongly condemned the violent crackdown on peaceful protests by security forces that left tho… [+6120 chars]",
-      "tags": [],
+      "tags": [
+        "iran",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769270070
     },
     {
@@ -900,7 +986,9 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26023722842587-1769240479.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-24T08:28:15Z",
       "content": "More than 8,000 flights set to take off over the weekend have been cancelled as a major storm bears down across the United States, threatening widespread heavy snow and a band of catastrophic ice str… [+2176 chars]",
-      "tags": [],
+      "tags": [
+        "natural_disasters"
+      ],
       "publishedAtTs": 1769243295
     },
     {
@@ -918,8 +1006,7 @@
       "tags": [
         "foreign_policy",
         "israel",
-        "iran",
-        "security_intelligence"
+        "iran"
       ],
       "publishedAtTs": 1769224728
     },
@@ -936,8 +1023,7 @@
       "publishedAt": "2026-01-24T11:26:24Z",
       "content": "Of the 104 matches at this summer's World Cup, 78 will be held in the US. \r\nThe French government said it is not currently in favour of a boycott, while the Danish Football Association said it is \"aw… [+1921 chars]",
       "tags": [
-        "foreign_policy",
-        "international_organizations"
+        "foreign_policy"
       ],
       "publishedAtTs": 1769253984
     },
@@ -970,7 +1056,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/12/Donald-Trump-2252765816.jpg",
       "publishedAt": "2026-01-24T14:00:04Z",
       "content": "Ive spent most of my professional life criticizing institutions their failures, their exclusions, their hypocrisies, their quiet (and not so quiet) forms of violence. But like many of Donald Trumps c… [+7691 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "elections_politics"
+      ],
       "publishedAtTs": 1769263204
     },
     {
@@ -985,7 +1075,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2024/11/donald_trump_pro-choice_protest_abortion_2182677887_2170036466.jpg",
       "publishedAt": "2026-01-24T11:30:00Z",
       "content": "Reproductive rights groups are gearing up for the current Trump administration to implement extensions to the current global gag rule but this time, it may go even further than the usual dominance ov… [+4500 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "policy_legislation",
+        "abortion"
+      ],
       "publishedAtTs": 1769254200
     },
     {
@@ -1000,7 +1094,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/01/ICE-2257018169.jpg",
       "publishedAt": "2026-01-24T11:45:21Z",
       "content": "The Trump administration has thoroughly failed the conservative information ecosystem credited with elevating Donald Trump back into the White House. Right-wing media wanted pictures of dangerous cri… [+9270 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "immigration",
+        "media_communications"
+      ],
       "publishedAtTs": 1769255121
     },
     {
@@ -1015,7 +1113,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/12/todd-blanche-2246893607.jpg",
       "publishedAt": "2026-01-24T11:00:35Z",
       "content": "An ethics watchdog group filed a complaint Thursday seeking an investigation into whether President Donald Trumps criminal defense attorney now the No. 2 at the Justice Department broke federal confl… [+5882 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "ethics",
+        "government_administration"
+      ],
       "publishedAtTs": 1769252435
     },
     {
@@ -1031,8 +1133,8 @@
       "publishedAt": "2026-01-24T06:00:00Z",
       "content": "Donald Trump has just launched a new entity called 'Board of Peace' – and with it comes a new logo. And guess what colour it is? That's right. Gold.\r\nRevealed at the World Economic Forum in Davos on … [+2261 chars]",
       "tags": [
-        "media_communications",
-        "personal_business"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1769234400
     },
@@ -1050,7 +1152,7 @@
       "content": "Networks shifted from the emerging winter mega storm to another deadly shooting in Minneapolis, where federal agents killed a 37-year-old man.\r\nAs was the case with the fatal shooting of Renee Good e… [+3196 chars]",
       "tags": [
         "law_enforcement",
-        "social_issues",
+        "criminal_cases",
         "media_communications"
       ],
       "publishedAtTs": 1769288113
@@ -1084,7 +1186,10 @@
       "urlToImage": "https://images.newrepublic.com/a65e217021907b30bdf6622ac5d555315ad54b06.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-01-24T18:37:41Z",
       "content": "Just hours after Bovino recounted his dystopian, rather than feel-good, story about detained children, another report emerged that immigration agents had grabbed a child. ICE detained a family of thr… [+797 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "immigration"
+      ],
       "publishedAtTs": 1769279861
     },
     {
@@ -1099,7 +1204,11 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/Trump-5.jpg",
       "publishedAt": "2026-01-24T08:11:51Z",
       "content": "US President Donald Trump has criticised Canada for rejecting a major US missile defence proposal. He shared a post on Truth Social saying that Canada was making a “big mistake” by opposing the plan … [+1977 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "greenland_acquisition",
+        "trade_negotiations_truces"
+      ],
       "publishedAtTs": 1769242311
     },
     {
@@ -1114,7 +1223,10 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/Scott.jpg",
       "publishedAt": "2026-01-24T09:16:41Z",
       "content": "Ahead of the expected conclusion of the India-EU trade deal negotiations next week, US Treasury Secretary Scott Bessent has said that it was the US tariffs that have resulted in a collapse of Indian … [+2947 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
       "publishedAtTs": 1769246201
     },
     {
@@ -1130,8 +1242,7 @@
       "publishedAt": "2026-01-24T15:24:25Z",
       "content": "As UPSC CSE Prelims 2026 is just a few months away, current affairs should be your primary focus. UPSC Weekly Quiz is a current affairsbased quiz on relevant topics from the past week, curated for as… [+18805 chars]",
       "tags": [
-        "elections_politics",
-        "policy_legislation"
+        "off_topic"
       ],
       "publishedAtTs": 1769268265
     },
@@ -1147,7 +1258,9 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/00-flamingoes.jpg",
       "publishedAt": "2026-01-24T11:55:42Z",
       "content": "Metal Fans Unlikely To Cheat, Jazz Fans Are Boning Everyone According To A Study Metal in Action (Micael T)\r\nWelcome to the wild world of skijoring Economist (Dr. Kevin)\r\nA brain glitch may explain w… [+8986 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769255742
     },
     {
@@ -1162,7 +1275,11 @@
       "urlToImage": "https://i.cbc.ca/ais/4c46dec2-09ac-4610-a99b-317e44ce150b,1769220052854/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C116%2C1796%2C1010%29%3BResize%3D620",
       "publishedAt": "2026-01-24T02:05:31Z",
       "content": "When Bruce Moncur was on the front lines in Afghanistan, there's one name that was certainly absent among the Americans he fought alongside.\r\n\"I didn't see anyone with the name tag 'Trump' and I can … [+4558 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "nato",
+        "trump"
+      ],
       "publishedAtTs": 1769220331
     },
     {
@@ -1180,8 +1297,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "crisis_emergency"
+        "ukraine"
       ],
       "publishedAtTs": 1769260586
     },
@@ -1197,7 +1313,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/zdTOwTShLMMgbmFElMEKHmototQ=/0x43:2000x1085/1200x625/media/img/mt/2026/01/4MAGAs/original.gif",
       "publishedAt": "2026-01-24T12:00:00Z",
       "content": "The first year of Donald Trump’s second term has made two things clear. First, the MAGA coalition is not breaking up any time soon. Even after the especially chaotic events of the past few weeks, Tru… [+7190 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "leadership"
+      ],
       "publishedAtTs": 1769256000
     },
     {
@@ -1213,7 +1333,7 @@
       "publishedAt": "2026-01-24T18:00:00Z",
       "content": "This is a newsletter bonus question. Care and Feeding is Slates parenting advice column. Have a question for Care and Feeding? Submit it here.\r\nDear Care and Feeding,\r\nMy friend, Angela, who is in he… [+4126 chars]",
       "tags": [
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1769277600
     },
@@ -1232,8 +1352,7 @@
       "tags": [
         "regional_state",
         "washington_dc",
-        "economy_finance",
-        "transportation"
+        "elections_politics"
       ],
       "publishedAtTs": 1769230017
     },
@@ -1252,8 +1371,7 @@
       "tags": [
         "trade",
         "foreign_policy",
-        "canada",
-        "trump"
+        "canada"
       ],
       "publishedAtTs": 1769265264
     },
@@ -1269,7 +1387,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697523016d14876ca03385d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-01-24T20:03:05Z",
       "content": "The Trump administration and Minnesota officials are again at odds, with the president accusing Minnesota Democratic leaders of inciting insurrection while Gov. Tim Walz claims the Department of Home… [+6783 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "elections_politics",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1769284985
     },
     {
@@ -1284,7 +1407,10 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6974ef83ff018f51fc2d430e/0x0.jpg?format=jpg&crop=3403,1916,x0,y176,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-01-24T18:14:24Z",
       "content": "The man fatally shot by federal agents Saturday morning in Minneapolis was a U.S. citizen who lived in the city, according to local authorities, the latest in a series of escalating events related to… [+3689 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1769278464
     },
     {
@@ -1299,7 +1425,10 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6973f1a9734bc4775fd459b9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-01-24T10:00:00Z",
       "content": "China's share of U.S. passenger vehicles dropped from 8.33% in all of 2024 to 2.17% in the month of October 2025, an apparent response to President Trump's continued trade war with China.\r\nustradenum… [+6394 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
       "publishedAtTs": 1769248800
     },
     {
@@ -1315,8 +1444,7 @@
       "publishedAt": "2026-01-24T14:54:06Z",
       "content": "There have been 3,684 flights canceled as of 9:30 a.m. EST on Saturday, according to FlightAware.com, including 660 out of Dallas-Fort Worth International and 218 out of Charlotte Douglass Internatio… [+895 chars]",
       "tags": [
-        "natural_disasters",
-        "transportation"
+        "natural_disasters"
       ],
       "publishedAtTs": 1769266446
     },
@@ -1334,7 +1462,6 @@
       "content": "A man was fatally shot by federal agents Saturday morning in Minneapolis, reports say, the latest in a series of escalating events related to a large federal presence in Minnesota.\r\nAn onlooker holds… [+2319 chars]",
       "tags": [
         "law_enforcement",
-        "security_intelligence",
         "criminal_cases"
       ],
       "publishedAtTs": 1769275630
@@ -1353,8 +1480,7 @@
       "content": "A man killed by a Border Patrol agent in Minnesota on Saturday has been identified as Alex Pretti, a 37-year-old intensive care unit nurse from Minneapolis. \r\nFederal agents shot and killed 37-year-o… [+2536 chars]",
       "tags": [
         "law_enforcement",
-        "criminal_cases",
-        "social_issues"
+        "criminal_cases"
       ],
       "publishedAtTs": 1769290946
     },
@@ -1370,7 +1496,10 @@
       "urlToImage": "https://regmedia.co.uk/2024/05/09/handout_cisa_jen_easterley_scaled.jpg",
       "publishedAt": "2026-01-24T00:22:51Z",
       "content": "exclusive The US Cybersecurity and Infrastructure Security Agency won't attend the annual RSA Conference in March, an agency spokesperson confirmed to The Register.\r\n\"Since the beginning of this admi… [+2811 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "cybersecurity"
+      ],
       "publishedAtTs": 1769214171
     },
     {
@@ -1385,7 +1514,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/HP9vyS9t2NKTgvk6o3hkVW-1600-80.jpg",
       "publishedAt": "2026-01-24T12:00:00Z",
       "content": "This week's science news was filled with discoveries once thought lost to time — notably, the world's oldest known rock art\r\n was discovered in Indonesia.\r\nThe roughly 70,000-year-old stencil of a hu… [+7665 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "science_policy",
+        "public_health"
+      ],
       "publishedAtTs": 1769256000
     },
     {
@@ -1400,7 +1533,10 @@
       "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/e0a9d0ff26018c235a34e47da80f2d330a20fd68-1920x1080.jpg?auto=format",
       "publishedAt": "2026-01-24T16:47:39Z",
       "content": "Spacecoin, a decentralized physical infrastructure network (DePIN), has launched its SPACE token, marking a key step in the companys plan to create a decentralized satellite internet network, just da… [+1410 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "space_policy"
+      ],
       "publishedAtTs": 1769273259
     },
     {
@@ -1433,7 +1569,11 @@
       "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/2d3b0bb18190a0817f538e8dbc4b72386feb1a59-1500x844.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "publishedAt": "2026-01-24T21:00:00Z",
       "content": "In theory, bitcoin should thrive during times of uncertainty as its sound money thats censorship-resistant. In practice, its becoming the first thing investors sell when push comes to shove.\r\nAs geop… [+2695 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "economy_finance",
+        "stock_market"
+      ],
       "publishedAtTs": 1769288400
     },
     {
@@ -1449,8 +1589,8 @@
       "publishedAt": "2026-01-24T18:48:57Z",
       "content": "Donald Trump says he won’t be attending the Super Bowl next weekend, but he doesn’t seem too broken up about it. In particular, he blasted the NFL’s choice of musical entertainment, ripping the decis… [+553 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "personal_activities",
+        "media_communications"
       ],
       "publishedAtTs": 1769280537
     },
@@ -1468,8 +1608,7 @@
       "content": "Add another name to the ever-growing list as singer-actress Renée Fleming is the latest act to cancel performances at the John F. Kennedy Center for the Performing Arts.\r\nFleming has axed two upcomin… [+1938 chars]",
       "tags": [
         "personal_family",
-        "leadership",
-        "trump"
+        "social_issues"
       ],
       "publishedAtTs": 1769286421
     }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 18,
   "articles": [
     {
       "source": {
@@ -15,9 +15,10 @@
       "publishedAt": "2025-04-02T23:54:03Z",
       "content": "Open this photo in gallery: Sen. Mitch McConnell arrives prior to the Senate Republicans weekly policy luncheon, in the U.S. Capitolin Washington on March 25.Al Drago/Getty Images\nA bipartisan coalition of U.S. senators have voted in favour of ending... [6090 chars]",
       "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "foreign_policy"
+        "trade",
+        "foreign_policy",
+        "canada",
+        "policy_legislation"
       ],
       "publishedAtTs": 1743638043
     },
@@ -35,8 +36,7 @@
       "content": "Canada’s exemption from Donald Trump’s global tariffs was “like dodging a bullet into the path of a tank”, say business leaders as other levies are poised to hit key industries that drive the country’s economy.\nIn a theatrical unveiling of tariffs on... [4829 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "foreign_policy"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743637673
     },
@@ -53,9 +53,10 @@
       "publishedAt": "2025-04-02T23:47:29Z",
       "content": "Canadian PM Vows To 'Fight' Trump's Sweeping Tariffs With 'Counter Measures'\nCurated By :\nNews18.com\nLast Updated: April 03, 2025, 05:17 IST\nCanadian Prime Minister Mark Carney on Wednesday pledged to \"fight\" against US President Donald Trump's tarif... [1950 chars]",
       "tags": [
-        "trade",
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
         "foreign_policy",
-        "economy_finance"
+        "canada"
       ],
       "publishedAtTs": 1743637649
     },
@@ -72,9 +73,9 @@
       "publishedAt": "2025-04-02T23:47:01Z",
       "content": "Open this photo in gallery: Auto workers leave the Stellantis Windsor Assembly Plant in Windsor, Ont., on April 2.Dax Melmer /The Globe and Mail\nCanada broadly averted additional levies in U.S. President Donald Trump’s Wednesday launch of global trad... [5026 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "trade"
+        "trade",
+        "automotive",
+        "economy_finance"
       ],
       "publishedAtTs": 1743637621
     },
@@ -91,11 +92,9 @@
       "publishedAt": "2025-04-02T23:44:21Z",
       "content": "WASHINGTON — The Senate voted Wednesday to terminate President Donald Trump’s emergency powers to impose tariffs on Canada shortly after he announced even more aggressive tariffs in a celebratory “Liberation Day” event at the White House.\nThe 51-48 v... [3366 chars]",
       "tags": [
+        "trade",
         "economy_finance",
-        "foreign_policy",
-        "policy_legislation",
-        "government_administration",
-        "elections_politics"
+        "foreign_policy"
       ],
       "publishedAtTs": 1743637461
     },
@@ -112,9 +111,8 @@
       "publishedAt": "2025-04-02T23:43:37Z",
       "content": "The ASX 200 gold stock is bucking the broader market sell-off today as cash flows hit new highs.\nYou’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get i... [2857 chars]",
       "tags": [
-        "stock_market",
         "economy_finance",
-        "regional_state"
+        "trade"
       ],
       "publishedAtTs": 1743637417
     },
@@ -131,8 +129,8 @@
       "publishedAt": "2025-04-02T23:42:52Z",
       "content": "“Liberation Day” turned out to be alarming. President Trump floored investors by announcing the largest tax hike on Americans since at least the 1940s.\nApril 2, which Trump called “Liberation Day,” was Trump’s deadline for unveiling a sweeping set of... [2381 chars]",
       "tags": [
-        "taxes",
-        "trade",
+        "liberation_day_tariffs",
+        "tariff_impact_economy",
         "economy_finance"
       ],
       "publishedAtTs": 1743637372
@@ -150,32 +148,192 @@
       "publishedAt": "2025-04-02T23:42:52Z",
       "content": "“Liberation Day” turned out to be alarming. President Trump floored investors by announcing the largest tax hike on Americans since at least the 1940s.\nApril 2, which Trump called “Liberation Day,” was Trump’s deadline for unveiling a sweeping set of... [2381 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "taxes"
+        "liberation_day_tariffs",
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743637372
     },
     {
       "source": {
         "id": null,
-        "name": "BradfordToday"
+        "name": "Vancouver Is Awesome"
       },
-      "author": "BradfordToday",
+      "author": "Vancouver Is Awesome",
       "title": "Senate rebukes Trump’s tariffs as some Republicans vote to halt taxes on Canadian imports",
       "description": "WASHINGTON (AP) — The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering him a rare rebuke just hours after the president unveiled sweeping plans to clamp down on inte",
-      "url": "https://www.bradfordtoday.ca/world-news/senate-rebukes-trumps-tariffs-as-some-republicans-vote-to-halt-taxes-on-canadian-imports-10469614",
+      "url": "https://www.vancouverisawesome.com/world-news/senate-rebukes-trumps-tariffs-as-some-republicans-vote-to-halt-taxes-on-canadian-imports-10469615",
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/af86f1cb7778014140f3cba23292ccc312316b26d41bdf454a3b515a76769eaa.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-02T23:41:02Z",
-      "content": "WASHINGTON (AP) — The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering him a rare rebuke just hours after the president unveiled sweeping plans to clamp down on inte... [6662 chars]",
+      "content": "WASHINGTON (AP) — The Senate passed a resolution Wednesday night that would thwart President Donald Trump’s ability to impose tariffs on Canada, delivering him a rare rebuke just hours after the president unveiled sweeping plans to clamp down on inte... [6913 chars]",
       "tags": [
-        "policy_legislation",
-        "economy_finance",
+        "trade",
         "foreign_policy",
-        "legal_justice",
-        "government_administration"
+        "congress"
       ],
       "publishedAtTs": 1743637262
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump goes full gameshow host to push his tariff plan - and nobody’s a winner",
+      "description": "There were charts and scores, as if The Price Is Right had come to Washington. The big prize? A global trade war",
+      "url": "https://www.theguardian.com/us-news/2025/apr/02/trump-tariffs-white-house-sketch",
+      "urlToImage": "https://i.guim.co.uk/img/media/02f5a7fc2517243ee8b66507bd26fc61019b0183/0_514_8094_4856/master/8094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7bd7ac92a4d35a067c7300bd9d1acf9",
+      "publishedAt": "2025-04-02T23:35:27Z",
+      "content": "It was Jeopardy!, or The Price Is Right, come to Washington.\nOn an unseasonably chilly day in the White House Rose Garden, Donald Trump stood with a giant chart listing what reciprocal tariffs he would impose on China, the European Union, the United ... [5729 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743636927
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Donald’s Trump hits Canada with 25 per cent auto tariffs",
+      "description": "Trump’s new “reciprocal” tariffs will slam countries in Europe, Asia while Canadian auto imports were set to be hit after midnight Thursday.",
+      "url": "https://www.thestar.com/politics/mark-carney-vows-to-fight-as-donald-trump-hits-canada-with-25-per-cent-auto/article_881b7fca-7e92-4c1a-b694-7206d84940ac.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/cf/ccf45957-ed33-5186-a78b-9547a810875e/67edb2723761f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-02T23:30:00Z",
+      "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
+      "tags": [
+        "trade"
+      ],
+      "publishedAtTs": 1743636600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "MacRumors",
+      "title": "Apple Stock Falls as Trump Tariffs Target Supply Chain",
+      "description": "Apple's efforts to diversify its supply chain may have been for naught with the Trump administration's new tariffs that target multiple...",
+      "url": "https://www.macrumors.com/2025/04/02/apple-stock-trump-tariffs/",
+      "urlToImage": "https://images.macrumors.com/t/HUt_KjzI5gOTbWcT39CmjWi8pzw=/2000x/article-new/2024/09/iphone-16-lineup-colors.jpg",
+      "publishedAt": "2025-04-02T23:26:39Z",
+      "content": "Apple's efforts to diversify its supply chain may have been for naught with the Trump administration's new tariffs that target multiple countries where Apple sources components for its iPhones, iPads, and Macs.\nApple has worked to move some of its ma... [1429 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743636399
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Trump Tariff Announcement latest updates: Donald Trump announces reciprocal tariffs on India, China, others",
+      "description": "Trump Tariff Announcement LIVE: Donald Trump in his address at the White House promised reciprocal tariffs. Trump’s new tariffs are a bid to boost US manufacturing and punish other countries for what he has said are years of unfair trade practices.",
+      "url": "https://www.livemint.com/news/us-news/donald-trump-tariff-announcement-live-donald-trump-to-announce-tariffs-as-world-watches-over-trump-tariff-latest-updates-11743615919814.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/04/02/1600x900/USA-TRUMP--3_1743384295674_1743616300348.JPG",
+      "publishedAt": "2025-04-02T23:24:06Z",
+      "content": "Donald Trump Tariffs LIVE: US President Donald Trump has said that he will impose reciprocal tariffs on the country’s global trading partners on Wednesday, effective from midnight. The new Trump tariffs are expected to change how trading works worldw... [7131 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743636246
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "Firstpost",
+      "title": "Trump claims the Great Depression would never have happened if US levied tariffs",
+      "description": "US President Donald Trump claimed that the Great Depression that hit America in 1930 would have never happened if the country had continued charging tariffs on foreign goods",
+      "url": "https://www.firstpost.com/world/united-states/trump-claims-the-great-depression-would-never-have-happened-if-us-levied-tariffs-13876760.html",
+      "urlToImage": "https://images.firstpost.com/uploads/2025/04/Trump_tariffs1200-2025-04-27fef69d4a07dda1e41909079b97450b.jpg?im=FitAndFill=(1200,675)",
+      "publishedAt": "2025-04-02T23:22:52Z",
+      "content": "US President Donald Trump claimed that the Great Depression that hit America in 1930 would have never happened if the country had continued charging tariffs on foreign goods read more\nPresident Donald Trump speaks during an event to announce new tari... [2021 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743636172
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Politics Insider: U.S. will exempt some elements of North American trade from 10-per-cent tariff",
+      "description": "Executive order signed by Trump orders existing tariffs to remain in place for Canada and Mexico, with zero-per-cent levies on goods compliant with the USMCA agreement",
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-us-will-exempt-some-elements-of-north-american-trade/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/DI5AYP7K6JEDDHBVFNUMTW4A7A.JPG?auth=763d6edc325494449de9ada9ed06db5414bf4bd40257b6f5a976f8ea694b5d1a&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-04-02T23:19:46Z",
+      "content": "Hello, welcome to Politics Insider, election edition. There are 26 days until voting day. Let’s look at what happened today.\nInternational correspondent Nathan VanderKlippe reports that the U.S. will exempt some elements of North American trade from ... [5892 chars]",
+      "tags": [
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1743635986
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Finance"
+      },
+      "author": "Yahoo Finance",
+      "title": "Here's every country facing reciprocal tariffs announced by Trump on 'Liberation Day'",
+      "description": "President Trump on Wednesday laid out his long-awaited plans to slap reciprocal tariffs on countries around the world.",
+      "url": "https://finance.yahoo.com/news/heres-every-country-facing-reciprocal-tariffs-announced-by-trump-on-liberation-day-231329935.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kSICLxqfbZubPzOcGIWfTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-04/d9b81880-100f-11f0-97bd-68786e44581f",
+      "publishedAt": "2025-04-02T23:13:29Z",
+      "content": "President Trump on Wednesday laid out his long-awaited plans to slap reciprocal tariffs on countries around the world, with the new levies ranging from a 10% \"baseline\" tariff to additional duties for nations the administration considers to be the \"w... [2418 chars]",
+      "tags": [
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1743635609
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Canada Finance"
+      },
+      "author": "Yahoo Canada Finance",
+      "title": "The world reacts with caution to US 'reciprocal' tariffs against dozens of nations",
+      "description": "MEXICO CITY (AP) — The sweeping new tariffs announced Wednesday by U.S. President Donald Trump were met initially with measured reactions from key trading partners, highlighting the lack of appetite for a full-fledged trade war.",
+      "url": "https://ca.finance.yahoo.com/news/world-reacts-caution-us-reciprocal-225659682.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t0K29lPK98WEEd1zAChqvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cp_finance_889/91a875f549bb619bc4bcee7dc354dc91",
+      "publishedAt": "2025-04-02T23:12:31Z",
+      "content": "MEXICO CITY (AP) — The sweeping new tariffs announced Wednesday by U.S. President Donald Trump were met initially with measured reactions from key trading partners, highlighting the lack of appetite for a full-fledged trade war.\nThe fact that the tar... [2448 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743635551
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Donald Trump announces sweeping global trade tariffs - including 10% on UK imports",
+      "description": "An upbeat president confirms the UK will not be spared but the reciprocal duties he is imposing on all UK exports to the US are set at 10%, a lower figure than many had feared.",
+      "url": "https://news.sky.com/story/donald-trump-announces-sweeping-global-trade-tariffs-including-10-on-uk-imports-13339740",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-donald-trump-tariffs_6874319.jpg?20250402214330",
+      "publishedAt": "2025-04-02T23:08:00Z",
+      "content": "Donald Trump has announced a 10% trade tariff on all imports from the UK - as he unleashed sweeping tariffs across the globe.\nSpeaking at a White House event entitled \"Make America Wealthy Again\", the president held up a chart detailing the worst off... [4534 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1743635280
     }
   ]
 }

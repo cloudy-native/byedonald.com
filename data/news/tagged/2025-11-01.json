@@ -90,7 +90,10 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/communications_64.png",
       "publishedAt": "2025-11-01T07:00:00Z",
       "content": "The planned \"air moving target indicator\" system in question could ultimately feature as many as 600 satellites once it is fully operational, The Wall Street Journal reports. Musk's company has also … [+617 chars]",
-      "tags": [],
+      "tags": [
+        "defense_contractor_reform",
+        "space_policy"
+      ],
       "publishedAtTs": 1761980400
     },
     {
@@ -235,7 +238,10 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!25LS!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e56b3cb-485e-4be2-ae91-3152266a467b_1280x720.png",
       "publishedAt": "2025-11-01T13:30:41Z",
       "content": "One of the surprising, at least to me, aspects of the Trump regime has been the large role played by Silicon Valley billionaires, who we used to think of as fairly liberal or at least libertarian. So… [+38682 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1762003841
     },
     {
@@ -543,7 +549,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6905b06fd275-1761980527.jpg?resize=1920%2C1440",
       "publishedAt": "2025-11-01T07:40:05Z",
       "content": "Gyeongju, South Korea Asian and Pacific Rim leaders have pledged their support for trade and investment that benefits all, concluding a summit dominated by an agreement between the leaders of the Uni… [+4535 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
       "publishedAtTs": 1761982805
     },
     {
@@ -762,7 +771,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/11/GettyImages-1172546779.jpg",
       "publishedAt": "2025-11-01T18:30:10Z",
       "content": "Just before the election last year, the New York Times Opinion section published a stark, all-caps warning, both online and in print: DONALD TRUMP SAYS HE WILL PROSECUTE HIS ENEMIES, ORDER MASS DEPOR… [+2030 chars]",
-      "tags": [],
+      "tags": [
+        "mass_deportation_operation",
+        "elections_politics",
+        "legal_justice"
+      ],
       "publishedAtTs": 1762021810
     },
     {
@@ -1021,7 +1034,10 @@
       "urlToImage": "https://i.cbc.ca/ais/5cd50012-9683-4d76-9b62-bd7994222a5a,1761948305925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3BResize%3D620",
       "publishedAt": "2025-11-01T12:00:00Z",
       "content": "Shortly after its premiere, Kathryn Bigelows nuclear warning film House of Dynamite earned a curious distinction. Instead of Oscar nominations or accolades, it was a warning: according to Bloomberg, … [+7397 chars]",
-      "tags": [],
+      "tags": [
+        "nuclear_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1761998400
     },
     {
@@ -1094,7 +1110,11 @@
       "urlToImage": "https://i.cbc.ca/ais/8590ac61-0154-464c-8e99-ce851404310c,1761938541767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C5211%2C2931%29%3BResize%3D620",
       "publishedAt": "2025-11-01T08:00:00Z",
       "content": "The testing of nuclear weapons is suddenly a major topic of discussion after being largely dormant for three decades. Last week, Russia tested a nuclear-powered missile, but did not detonate an actua… [+4559 chars]",
-      "tags": [],
+      "tags": [
+        "nuclear_policy",
+        "russia",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1761984000
     },
     {
@@ -1109,7 +1129,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69050159205e965eb4f02158/0x0.jpg?format=jpg&crop=2266,1511,x1,y0,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-11-01T14:30:39Z",
       "content": "President Donald Trump said Friday he has instructed White House lawyers to ask courts for more clarity on how his administration can legally fund the Supplemental Nutritional Assistance Program as s… [+2584 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "legal_justice"
+      ],
       "publishedAtTs": 1762007439
     },
     {
@@ -1252,7 +1276,11 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69061855d875b5618922d4a3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-11-01T14:32:05Z",
       "content": "Also known as the Status-6 Oceanic Multipurpose System, with the NATO reporting name \"Kanyon,\" the Poseidon is an unmanned underwater vehicle that was developed to bypass missile defense systems and … [+5552 chars]",
-      "tags": [],
+      "tags": [
+        "nuclear_policy",
+        "security_intelligence",
+        "russia"
+      ],
       "publishedAtTs": 1762007525
     },
     {
@@ -1267,7 +1295,13 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69051ecabc189aa8e0c885bb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-11-01T14:00:00Z",
       "content": "WASHINGTON, DC - OCTOBER 1: A sign indicating that the U.S. Capitol Visitor Center is closed due to the government shutdown, on October 1, 2025 in Washington, DC. Congress could not agree on a budget… [+19388 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "budget",
+        "economy_finance",
+        "taxes",
+        "trade"
+      ],
       "publishedAtTs": 1762005600
     },
     {
@@ -1282,7 +1316,9 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69039b050cb4659a2ad61587/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-11-01T20:40:32Z",
       "content": "Oscar Isaac in Guillermo del Toro's Frankenstein\r\nCredit: Netflix\r\nNovember is here, and with it a whole new slate of movies landing on Netflix this month. Some of these are classics that have been o… [+11580 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762029632
     },
     {
@@ -1429,7 +1465,10 @@
       "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/dbaaf4ee09d542d601779598bea948f38611ee01-1184x678.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "publishedAt": "2025-11-01T14:00:00Z",
       "content": "The Bitcoin whitepaper, A Peer-to-Peer Electronic Cash System, published by the mysterious and pseudonymous Satoshi Nakamoto, turned seventeen years old yesterday.\r\nReleased on Oct. 31, 2008, amid th… [+4543 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1762005600
     },
     {
@@ -1734,7 +1773,10 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/25/10/people_preparing_food_packs_for_103125.jpg",
       "publishedAt": "2025-11-01T14:00:01Z",
       "content": "Two federal courts on Friday slapped down the Trump administrations BS claim that it could not release SNAP benefits during the government shutdown. The New York Times called it a major rebuke of the… [+1196 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1762005601
     },
     {

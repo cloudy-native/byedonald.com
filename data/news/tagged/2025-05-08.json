@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 17,
   "articles": [
     {
       "source": {
@@ -15,11 +15,9 @@
       "publishedAt": "2025-05-08T23:48:04Z",
       "content": "Newly-elected Canadian Prime Minister Mark Carney visited the White House on Tuesday in search of common ground during an ongoing trade war that has shattered decades of trust between the his country and the U.S. Although the conversation was civil, ... [5866 chars]",
       "tags": [
-        "foreign_policy",
-        "economy_finance",
-        "government_administration",
         "trade",
-        "international_organizations"
+        "foreign_policy",
+        "economy_finance"
       ],
       "publishedAtTs": 1746748084
     },
@@ -36,11 +34,7 @@
       "publishedAt": "2025-05-08T23:47:41Z",
       "content": "Claim: A video authentically shows U.S. President Donald Trump complaining in early May 2025 about the organizers of the Met Gala banning him from the annual event. Rating: About this rating Fake\nA rumor that circulated online in early May 2025 invol... [3803 chars]",
       "tags": [
-        "media_communications",
-        "personal_family",
-        "elections_politics",
-        "crisis_emergency",
-        "regional_state"
+        "off_topic"
       ],
       "publishedAtTs": 1746748061
     },
@@ -57,7 +51,6 @@
       "publishedAt": "2025-05-08T23:41:22Z",
       "content": "Open this photo in gallery: Canadian Ambassador to the United States Kirsten Hillman, left, and Intergovernmental Affairs Minister Dominic LeBlanc prepare to leave following a meeting between Prime Minister Mark Carney and U.S. President Donald Trump... [5736 chars]",
       "tags": [
-        "foreign_policy",
         "trade",
         "canada"
       ],
@@ -77,8 +70,7 @@
       "content": "WASHINGTON — U.S. President Donald Trump said Thursday that he is naming Fox News host Jeanine Pirro, a former county prosecutor and elected judge, to be the top federal prosecutor for the nation’s capital after abandoning his first pick for the job.... [3986 chars]",
       "tags": [
         "government_administration",
-        "legal_justice",
-        "media_communications"
+        "personnel"
       ],
       "publishedAtTs": 1746747534
     },
@@ -96,10 +88,224 @@
       "content": "WASHINGTON (AP) — President Donald Trump said Thursday that he is naming Fox News host Jeanine Pirro, a former county prosecutor and elected judge, to be the top federal prosecutor for the nation’s capital after abandoning his first pick for the job.... [3674 chars]",
       "tags": [
         "government_administration",
-        "legal_justice",
-        "media_communications"
+        "personnel"
       ],
       "publishedAtTs": 1746746896
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Denmark to summon U.S. diplomat over Greenland intel gathering",
+      "description": "Denmark on Thursday summoned the top American diplomat in the country for an explanation following a Wall Street Journal report about the United States stepping up intelligence gathering on Greenland, a semi-autonomous Danish territory coveted by U.S. President Donald Trump.",
+      "url": "https://www.cp24.com/news/world/2025/05/08/denmark-says-it-will-summon-a-us-diplomat-over-report-on-increased-us-intel-gathering-in-greenland/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/ZQQKZQ4VKB5QELYQPO4F65J5RQ.jpg?smart=true&auth=3ec453a21a8ea3a7abb21f5c9215df7094ff38c8e71c3691032b227d990e6ceb&width=1200&height=630",
+      "publishedAt": "2025-05-08T23:20:47Z",
+      "content": "Denmark's Foreign Minister Lars Lokke Rasmussen listens to speakers during a meeting after a ceremony to mark the 25th Anniversary Nordic Embassies in Berlin, Germany, Monday, Oct. 21, 2024. (AP Photo/Ebrahim Noroozi, File)\nCOPENHAGEN, Denmark — Denm... [2744 chars]",
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746746447
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Variety",
+      "title": "Trump Names Fox Host Jeanine Pirro Interim U.S. Attorney for DC",
+      "description": "Jeanine Pirro is exiting Fox News to become interim U.S. Attorney for the District of Columbia, President Trump announced Thursday.",
+      "url": "https://variety.com/2025/politics/news/fox-jeanine-pirro-trump-dc-us-attorney-1236391651/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/05/GettyImages-1442330290.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-05-08T23:04:35Z",
+      "content": "Jeanine Pirro is exiting Fox News after 14 years to become interim U.S. attorney for the District of Columbia. President Trump announced her appointment Thursday.\nPirro, a former country judge and district attorney from New York who has been a reliab... [3720 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1746745475
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "New Pope likely to challenge Trump but will not be confrontational - expert",
+      "description": "Pope Leo XIV is the first ever from North America and the US president has said he looks forward to meeting him.",
+      "url": "https://www.breakingnews.ie/world/new-pope-likely-to-challenge-trump-but-will-not-be-confrontational-uk-expert-1761279.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDkxNzE1MjBcXFwvYmEwMWUwYWQyNjlhNDA4N2EzNTgwYWVmMjg1NmNiZGMtZTE3NDY4MDc1NDM5MTcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJlYTk2NDM4Y2E2NjE4MTRkMzgwNDQ2ZmJjNGExOWYzODNlZTJmMWFkIn0=/new-pope-likely-to-challenge-trump-but-will-not-be-confrontational-expert.jpg",
+      "publishedAt": "2025-05-08T23:00:00Z",
+      "content": "The first US Pope is likely to present a “quite challenging” message to president Donald Trump, according to a Vatican expert who met the new pontiff hours after his election.\nAmong the world leaders to congratulate Pope Leo XIV, Mr Trump spoke of th... [3026 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746745200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Mexico sues Google for labelling Gulf of Mexico as Gulf of America",
+      "description": "President Donald Trump’s executive order only carries authority within the US.",
+      "url": "https://www.breakingnews.ie/world/mexico-sues-google-for-labelling-gulf-of-mexico-as-gulf-of-america-1761395.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDkyMDMwMjNcXFwvMi41Nzk4NzkwOS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImNhZTIzOGUwMmEwZjQ1MmRmYzJkODgzMjUyNWIxMDYyMmExMDQzYzkifQ==/mexico-sues-google-for-labelling-gulf-of-mexico-as-gulf-of-america.jpg",
+      "publishedAt": "2025-05-08T23:00:00Z",
+      "content": "Mexico has sued tech giant Google over its labelling of the Gulf of Mexico as the Gulf of America, a change made by US President Donald Trump via executive order, Mexico President Claudia Sheinbaum said.\nMs Sheinbaum did not provide details of the la... [2472 chars]",
+      "tags": [
+        "foreign_policy",
+        "mexico"
+      ],
+      "publishedAtTs": 1746745200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Trump's big reveal of trade deal with UK was awkward spectacle",
+      "description": "There was Donald Trump flanked by deal negotiators on either side, a 'shoulders-back' Team America with UK ambassador Peter Mandelson standing as the Brit in the line-up. But then there was the cast member who joined remotely - Sir Keir Starmer.",
+      "url": "https://news.sky.com/story/trumps-big-reveal-of-trade-deal-with-uk-was-awkward-spectacle-13364086",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-donald-trump-president_6910660.jpg?20250508225515",
+      "publishedAt": "2025-05-08T22:08:00Z",
+      "content": "It felt like modern politics unplugged.\nThere's no easy choreography at a presidential news conference inside the Oval Office - take Donald Trump's unveiling of the UK-US trade deal.\nThere was the president flanked by deal negotiators on either side,... [2054 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746742080
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Snopes.com"
+      },
+      "author": "Snopes.com",
+      "title": "Video showing Anna Wintour saying why she banned Trump from Met Gala is a deepfake",
+      "description": "In the fake video, Wintour said she didn't want Trump supporters shouting \"Make fashion great again\" near the red carpet.",
+      "url": "https://www.snopes.com/fact-check/anna-wintour-trump-met-gala/",
+      "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/05/wintour_deepfake.png",
+      "publishedAt": "2025-05-08T22:01:37Z",
+      "content": "Claim: Video authentically shows Vogue editor-in-chief Anna Wintour explaining why she permanently removed U.S. President Donald Trump from the Met Gala invitation list. Rating: About this rating Fake\nA video circulating on social media in early May ... [4834 chars]",
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
+      "publishedAtTs": 1746741697
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump announces \"breakthrough trade agreement\" with U.K. Here's what to know.",
+      "description": "President Trump and Treasury Secretary Scott Bessent have both said numerous trade agreements could come as soon as this week.",
+      "url": "https://www.cbsnews.com/news/trump-trade-deals-china-europe-india-uk-tariffs/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/05/07/762ae404-a0e0-45d4-9c85-94d8469548c1/thumbnail/1200x630/6a80250a82ced5b24469b6d03a5a8491/gettyimages-2213749567.jpg?v=e61856d8e666e7ed5709adc37bb2d465",
+      "publishedAt": "2025-05-08T21:42:46Z",
+      "content": "Trump says there could be trade deals announced this week\nPresident Trump on Thursday announced a trade agreement with the United Kingdom.\nSpeaking from the Oval Office, Mr. Trump said a \"breakthrough\" deal with the U.K. would include \"billions of do... [8072 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746740566
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Melania Trump hosts White House event to unveil Barbara Bush postage stamp",
+      "description": "WASHINGTON (AP) — In the White House's East Room on a rainy Thursday, first lady Melania Trump and members of the Bush family gathered to unveil a U.S postage stamp",
+      "url": "https://www.thestar.com/news/world/united-states/melania-trump-hosts-white-house-event-to-unveil-barbara-bush-postage-stamp/article_aab905af-dc01-55f9-b7d6-5157799b9a52.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/72/672c4183-761a-525c-a528-80b0cb142e8d/681d25dc93644.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-08T21:39:02Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "personal_family",
+        "family_activities"
+      ],
+      "publishedAtTs": 1746740342
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "On social media, Pope Leo XIV has shared criticism of Trump and Vance over policies",
+      "description": "Elected Thursday as the Catholic Church's first global leader to hail from the United States, Pope Leo XIV is in a new job that will have many crossovers into politics",
+      "url": "https://www.thestar.com/news/world/united-states/on-social-media-pope-leo-xiv-has-shared-criticism-of-trump-and-vance-over-policies/article_943947fc-35a7-5671-ba3a-ff5661298a19.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/08/908fda8f-79b9-5587-9ebd-13d9015d4463/681d24b1c35ee.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-08T21:34:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1746740040
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Key details in the UK-US 'historic' trade deal",
+      "description": "Sir Keir Starmer said the new measures will save thousands of jobs in the car and steel industries, which were threatened by Donald Trump's tariffs.",
+      "url": "https://news.sky.com/story/key-details-in-the-uk-us-historic-trade-deal-13318569",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-donald-trump-peter-mandelson_6910601.jpg?20250508220536",
+      "publishedAt": "2025-05-08T21:18:00Z",
+      "content": "The UK and US have hailed a \"fantastic, historic day\" after striking a landmark trade deal.\nIn President Donald Trump's own words, this has been years in the making \"but it got there with this prime minister\".\nBut while Sir Keir Starmer will be no do... [7822 chars]",
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746739080
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Trump hails UK trade deal but issues unresolved",
+      "description": "The deal would drop tariffs on British steel and allow for imports of UK cars - but full details have yet to be completed. Follow live updates.",
+      "url": "https://www.afr.com/politics/federal/nothing-to-see-here-trump-hails-uk-trade-deal-but-issues-unresolved-20250509-p5lxtr",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2059%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_22/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/09530168d650e1e6031f7e0c8596dcb612a2923a",
+      "publishedAt": "2025-05-08T21:07:23Z",
+      "content": "Months before Cardinal Robert Prevost became the first American pope, a social media account under his name expressed criticism of Vice President J.D. Vance, sharing an article that called the vice president’s interpretation of Christian doctrine “wr... [1813 chars]",
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746738443
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Cannes opens under cloud of tariffs, but also rich stockpile of buzzy global cinema",
+      "description": "Every hot-house news conference will be laced with a level of fear and loathing over just how and when U.S. President Donald Trump might slap tariffs on any films made ‘in foreign lands’",
+      "url": "https://www.theglobeandmail.com/arts/film/article-cannes-opens-under-cloud-of-tariffs-but-also-rich-stockpile-of-buzzy/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ZZHLJDH675DRXPFU4VXKDRRGDQ.jpg?auth=181b92ebc789b178c561e86e3aa0b1c6ff8ec963d7d60d7942ef93a1245380fb&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-08T21:00:00Z",
+      "content": "Open this photo in gallery: Festival workers prepare the red carpet during preparations for the 77th international film festival, Cannes, southern France on May 13, 2024.Andreea Alexandru/The Associated Press\nThe world’s most prestigious film festiva... [4408 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1746738000
     }
   ]
 }

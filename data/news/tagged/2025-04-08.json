@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 23,
   "articles": [
     {
       "source": {
@@ -15,10 +15,9 @@
       "publishedAt": "2025-04-08T23:50:16Z",
       "content": "As the country reels over President Donald Trump’s tariffs, it’s a party at the “winter White House.”\nA source tells Page Six that on Thursday — the night after “Liberation Day,” when Trump announced his sweeping tariff plan — there was a celebratory... [2423 chars]",
       "tags": [
-        "personal_family",
-        "economy_finance",
-        "media_communications",
-        "regional_state"
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744156216
     },
@@ -36,8 +35,7 @@
       "content": "by Jennifer Shutt, Daily Montanan\nApril 8, 2025\nWASHINGTON — The U.S. Capitol Police chief testified Tuesday that President Donald Trump’s decision to pardon people convicted of assaulting police officers on Jan. 6, 2021, had negative repercussions o... [2471 chars]",
       "tags": [
         "legal_justice",
-        "security_intelligence",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1744156209
     },
@@ -55,10 +53,9 @@
       "content": "In recent months, officials in the Trump administration have repeatedly refused to rule out strikes in President Sheinbaum led-Mexico. (Photos: AP)\nUS President Donald Trump’s administration is reportedly planning to launch drone strikes against drug... [540 chars]",
       "tags": [
         "foreign_policy",
-        "national_security",
-        "border_security",
         "mexico",
-        "terrorism"
+        "security_intelligence",
+        "military"
       ],
       "publishedAtTs": 1744155602
     },
@@ -76,10 +73,8 @@
       "content": "The impact of Trump's tariffs is reaching deep into every economy.\nWe travelled into the French rural heartland, heading for Cognac - the home of French brandy.\nIt is only half the size of Surrey but its exports to America are worth €1bn a year and t... [5331 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "agriculture",
-        "foreign_policy",
-        "crisis_emergency"
+        "liberation_day_tariffs",
+        "economy_finance"
       ],
       "publishedAtTs": 1744155480
     },
@@ -97,8 +92,8 @@
       "content": "Nvidia has been one of the hottest stocks in the market since 2023 but has cooled alongside all of the other growth stocks during the latest sell-off.\nYou’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investin... [3698 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "trade"
+        "trade",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744154760
     },
@@ -115,10 +110,9 @@
       "publishedAt": "2025-04-08T23:05:05Z",
       "content": "Open this photo in gallery: Tugboats assist a container ship as it prepares to dock at the Manila International Container Terminal at the Philippine capital on April 8.Aaron Favila/The Canadian Press\nThe trade war started by U.S. President Donald Tru... [7494 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy",
-        "international_organizations"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1744153505
     },
@@ -135,10 +129,8 @@
       "publishedAt": "2025-04-08T23:04:53Z",
       "content": "U.S. Agriculture Secretary Brooke Rollins revealed on Tuesday that potential trade agreements with several countries might be finalized by the end of the week. Speaking in an interview on Fox News' 'Special Report', Rollins highlighted the swift prog... [729 chars]",
       "tags": [
-        "trade",
-        "agriculture",
-        "economy_finance",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744153493
     },
@@ -155,11 +147,9 @@
       "publishedAt": "2025-04-08T23:02:00Z",
       "content": "Sir, – My native state of Massachusetts, my alma mater of Tufts University, and my beloved city of Boston are under assault by the president of the United States. New Mexico, where I live, a majority-minority state of Hispanic-Americans, migrants and... [14250 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
-        "social_issues",
         "foreign_policy",
-        "legal_justice"
+        "elections_politics",
+        "social_issues"
       ],
       "publishedAtTs": 1744153320
     },
@@ -176,11 +166,270 @@
       "publishedAt": "2025-04-08T23:01:04Z",
       "content": "Elon Musk on Tuesday blasted President Donald Trump’s top trade adviser, Peter Navarro, as a “moron” and “dumber than a sack of bricks” in a spat that underscores the discord among the president’s top allies over his sweeping tariffs set to go into e... [2161 chars]",
       "tags": [
-        "economy_finance",
-        "government_administration",
-        "media_communications"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744153264
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "US tariffs: Harris to push for solution to trade war in crunch meeting with Trump’s commerce secretary",
+      "description": "Tánaiste in Washington for key meeting with Howard Lutnick, who labelled Irish corporate regime as his ‘favourite’ tax scam",
+      "url": "https://www.irishtimes.com/politics/2025/04/09/us-tariffs-harris-to-push-for-solution-to-trade-war-in-crunch-meeting-with-trumps-commerce-secretary/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/Y5U4D73RJUQABH6HGBL6UAGYJE.jpg?smart=true&auth=5ca66937b0822a2ae42c91edaca3db043b90405cbcaeb307cffa73acb6758c74&width=1200&height=630",
+      "publishedAt": "2025-04-08T23:01:00Z",
+      "content": "Tánaiste Simon Harris said he would emphasise ‘our desire to find a negotiated solution between the EU and US on tariffs’. Photograph: Brian Lawless/PA\nTánaiste Simon Harris will tell US commerce secretary Howard Lutnick in the US today Ireland and t... [2848 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Sun"
+      },
+      "author": "The Irish Sun",
+      "title": "Trump tariffs 'melting cube' as Harris jets to meet 'Ireland tax scam' accuser and EU plot to hit US oranges & chainsaws",
+      "description": "SIMON Harris has jetted out to the US for crunch tariff talks with the Trump administration - as a top White House official suggested the controversia",
+      "url": "https://www.thesun.ie/news/15018162/trump-tariffs-harris-ireland-tax-scam-accuser-eu-plot/",
+      "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/04/newspress-collage-0er2503lg-1744135964010.jpg?1744139584&strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2025-04-08T23:01:00Z",
+      "content": "SIMON Harris has jetted out to the US for crunch tariff talks with the Trump administration - as a top White House official suggested the controversial levies could be a “melting ice cube”.\nTanaiste and Foreign Affairs and Trade Minister Harris is to... [9744 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Donald Trump's 104% tariffs on China - and other levies on 'worst offenders' - in effect this mornong",
+      "description": "White House press secretary Karoline Leavitt said on Tuesday that the US president \"believes that China wants to make a deal with the US\" after confirming 104% levies on some Chinese imports would be in effect from 5am.",
+      "url": "https://news.sky.com/story/donald-trumps-104-tariffs-on-china-and-other-levies-on-worst-offenders-in-effect-this-mornong-13344832",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-donald-trump-white-house_6880462.jpg?20250408232433",
+      "publishedAt": "2025-04-08T23:01:00Z",
+      "content": "Donald Trump's trade tariffs on what he calls \"the worst offenders\" come into effect at 5am UK time, with China facing by far the biggest levy.\nThe US will hit Chinese imports with 104% tariffs, marking a significant trade escalation between the worl... [3218 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs",
+        "foreign_policy",
+        "china"
+      ],
+      "publishedAtTs": 1744153260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "US stocks soar to historic gains after Trump pauses most of his tariffs",
+      "description": "The S&P 500 surged 9.5%, an amount that would count as a good year for the market.",
+      "url": "https://www.breakingnews.ie/world/us-stocks-soar-to-historic-gains-after-trump-pauses-most-of-his-tariffs-1750582.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDkyMjA5MjZcXFwvYzlkMTFhNGU1Njg2NGU2MWE3ZGUwNWM3NGZkYTNmMzAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkYjY4YmVmNDJhYWU4ZTUwNjYyMDk3Y2YzYmI3Y2ExYWQ0MDdlMTc2In0=/us-stocks-soar-to-historic-gains-after-trump-pauses-most-of-his-tariffs.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US stocks soared to one of their best days in history on a euphoric Wall Street Wednesday after President Donald Trump said he would back off on most of his tariffs temporarily, as investors had so desperately hoped he would.\nThe S&P 500 surged 9.5%,... [6394 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GuelphToday"
+      },
+      "author": "GuelphToday",
+      "title": "WATCH: As trade war rages on, U.S. flags are coming down",
+      "description": "Tonight on 'Closer Look': Newmarket has joined the likes of Barrie and Mississauga in removing all Stars and Stripes from municipal arenas — a strong but symbolic gesture in the face of Trump's tariffs",
+      "url": "https://www.guelphtoday.com/closer-look/watch-as-trade-war-rages-on-us-flags-are-coming-down-10494479",
+      "urlToImage": "https://www.vmcdn.ca/f/files/local2/videos/closer-look/2025-closer-look/042025/april-stills/apr8cl.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "Tonight on 'Closer Look': Newmarket has joined the likes of Barrie and Mississauga in removing all Stars and Stripes from municipal arenas — a strong but symbolic gesture in the face of Trump's tariffs\nIn cities and towns across Ontario — and at Quee... [1430 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump warns Iran Israel would lead strike if Tehran does not halt nuclear plans",
+      "description": "Mr Trump made the comments before this weekend’s scheduled talks involving US and Iranian officials in the Middle East.",
+      "url": "https://www.breakingnews.ie/world/trump-warns-iran-israel-would-lead-strike-if-tehran-does-not-halt-nuclear-plans-1750588.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDkyMzA5MzBcXFwvNDdiYTcyMDI2MjI2NGRiNGIzMDM4MzJkMGM0ZGRjYzIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJhNzZkOWM0MGFkYzcyNzAxOTUxYzE1Mjk0NmU1Nzg2M2FkZGU4ODU4In0=/trump-warns-iran-israel-would-lead-strike-if-tehran-does-not-halt-nuclear-plans.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US President Donald Trump has said Israel would be the “leader” of a potential military strike against Iran if Tehran does not give up its nuclear weapons programme.\nMr Trump made the comments before this weekend’s scheduled talks involving US and Ir... [2784 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump limits tariffs on most nations for 90 days but raises them for China",
+      "description": "The US president hit pause in the face of intense pressure created by volatile financial markets that had been pushing him to change strategy.",
+      "url": "https://www.breakingnews.ie/world/trump-limits-tariffs-on-most-nations-for-90-days-but-raises-them-for-china-1750586.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDkyMjQ4MzBcXFwvZTFkZWNiZGU4OWEyNDNmZTkxNTdmZDI3YjViMTAzODMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkOWYwNjhkY2JkY2M1N2U1N2IxNTRmZmM4NzQzMjA5OWYyMDNiY2QxIn0=/trump-limits-tariffs-on-most-nations-for-90-days-but-raises-them-for-china.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "Facing a global market meltdown, US President Donald Trump has abruptly backed off his tariffs on most nations for 90 days even as he further increased the tax rate on Chinese imports to 125%.\nIt was seemingly an attempt to narrow what had been an un... [6453 chars]",
+      "tags": [
+        "trade",
+        "china"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Donald Trump announces 90-day pause on tariffs",
+      "description": "US president Donald Trump has announced a 90-day pause on tariffs 'effective immediately'",
+      "url": "https://www.breakingnews.ie/world/donald-trump-announces-90-day-pause-on-tariffs-1750494.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDgwMjQ4MTdcXFwvNjlmZTg2ZWYwOGE4NDY3NDgwMWUyODE5ZDQ4MWQwZjAtMS1lMTc0NDA5MjgwNjc0NC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY2YjFiNmJiYjA1MTYxNDE4NmJmOTYwY2M5YzAxMzAyMmEyNmUxY2IifQ==/donald-trump-announces-90-day-pause-on-tariffs.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US president Donald Trump has announced a 90-day pause on tariffs \"effective immediately\".\nThe pause excludes China - which is seeing tariffs rise to 125 percent.\nUS stocks have jumped after Mr Trump's announcement.\nGlobal markets surged following th... [4101 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump pauses tariffs on most nations for 90 days but hikes Chinese imports taxes",
+      "description": "The announcement came after the global economy appeared to be in open rebellion against Mr Trump’s tariffs.",
+      "url": "https://www.breakingnews.ie/world/trump-pauses-tariffs-on-most-nations-for-90-days-but-hikes-chinese-imports-taxes-1750548.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDkyMDI0NDJcXFwvMi43OTM3MTUyNi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijc1YzI3MzU3ODIyYzcwNmI3YjFjOWFjYTAxOGNmYzllYzVjZTU4OWUifQ==/trump-pauses-tariffs-on-most-nations-for-90-days-but-hikes-chinese-imports-taxes.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US President Donald Trump has abruptly backed down on his tariffs on most nations for 90 days but raised the tax rate on Chinese imports to 125%.\nIt appears to be an attempt to narrow what had been an unprecedented trade war between the US and most o... [5532 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "US tariffs take effect, deepening global trade war",
+      "description": "US President Donald Trump's \"reciprocal\" tariffs on dozens of countries have come into effect, including 104% duties on Chinese goods and 20% on goods from the EU, deepening his global trade war even as he prepared for negotiations with some nations.",
+      "url": "https://www.rte.ie/news/us/2025/0409/1506600-us-tariffs/",
+      "urlToImage": "https://img.rasset.ie/00223e3a-1600.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US President Donald Trump's \"reciprocal\" tariffs on dozens of countries have come into effect, including massive 104% duties on Chinese goods and 20% on goods from the EU, deepening his global trade war even as he prepared for negotiations with some ... [4719 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump says US to announce pharma tariffs 'very shortly'",
+      "description": "US President Donald Trump has said the United States will soon announce a \"major\" tariff on pharmaceutical imports.",
+      "url": "https://www.rte.ie/news/us/2025/0409/1506597-us-tariffs-pharmaceutical/",
+      "urlToImage": "https://img.rasset.ie/00223e36-1600.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "US President Donald Trump has said the United States will announce a \"major\" tariff on pharmaceutical imports \"very shortly\".\nSpeaking at an event at the National Republican Congressional Committee, Mr Trump said the tariff will incentivise drug comp... [4443 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump to soon announce tariffs on pharmaceutical imports",
+      "description": "President Donald Trump said the US will soon announce a \"major\" tariff on pharmaceutical imports.",
+      "url": "https://www.rte.ie/news/us/2025/0409/1506597-us-tariffs/",
+      "urlToImage": "https://img.rasset.ie/00223e32-1600.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "President Donald Trump said the US will soon announce a \"major\" tariff on pharmaceutical imports.\nSpeaking at an event at the National Republican Congressional Committee, Mr Trump said the tariff will incentivise drug companies to move their operatio... [5972 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trade tariffs: Five takeaways after another wild day",
+      "description": "Today was another wild day for the stock market after trillions of dollars were wiped off financial markets in the run-up to US President Donald Trump's \"explosive\" tariffs, writes Jackie Fox.",
+      "url": "https://www.rte.ie/news/2025/0409/1506798-five-things-trump-tariffs/",
+      "urlToImage": "https://img.rasset.ie/00223fd3-1600.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "Today was another wild day for the stock market after trillions of dollars were wiped off financial markets in the run-up to US President Donald Trump's \"explosive\" tariffs.\nThis morning, Ireland was among the many countries facing higher \"reciprocal... [5895 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1744153200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Will the Trump tariffs cause gadget prices to rise?",
+      "description": "Experts have warned the price of devices including Apple’s iPhone could increase.",
+      "url": "https://www.breakingnews.ie/world/will-the-trump-tariffs-cause-gadget-prices-to-rise-1750298.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDkxMjAyMzNcXFwvMi43ODIwMDc2Ny5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjRlNTlmOTJhNTU2YzcxODYxNjRlN2U1NmFkOTY0OGQxZDY0MTkxODQifQ==/will-the-trump-tariffs-cause-gadget-prices-to-rise.jpg",
+      "publishedAt": "2025-04-08T23:00:00Z",
+      "content": "Apple is “perhaps one of the most tariff-exposed companies” in the world and US President Donald Trump’s tariffs are “bad news” for tech firms that will inevitably cause prices on gadgets to rise, experts have warned.\nThe iPhone maker and other firms... [5554 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744153200
     }
   ]
 }

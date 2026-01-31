@@ -129,7 +129,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4283x2409+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F9a%2Ffe243f9b42ec83289117f7db8cb7%2Fgettyimages-2218258865.jpg",
       "publishedAt": "2025-10-03T09:02:00Z",
       "content": "LONDON In President Trump's 20-point plan to end the war in Gaza, only one name appears other than his own: Tony Blair.\r\nBlair, as prime minister of the United Kingdom, helped negotiate a 1998 peace … [+6802 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "gaza"
+      ],
       "publishedAtTs": 1759482120
     },
     {
@@ -495,7 +499,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/74d9cf26-15f2-460c-9db4-592ede010691/251002_abc_social_58_year_old_football_player_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-10-03T01:50:02Z",
       "content": "<ul><li>Shutdown showdown: White House threatens mass layoffs\r\n</li><li>More Americans blame Trump, GOP for shutdown than Democrats: Poll\r\n</li><li>Firefighters battle large fire at Chevron refinery … [+4785 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759456202
     },
     {
@@ -510,7 +516,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ee298e1b-0821-40e5-a165-f74cff1090d2/251003_abc_social_ozzy_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-10-03T15:48:37Z",
       "content": "<ul><li>Sean 'Diddy' Combs sentencing hearing gets underway\r\n</li><li>Government shutdown's impact on airport workers, travel\r\n</li><li>Government shutdown delays monthly jobs report\r\n</li><li>Federa… [+4547 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759506517
     },
     {
@@ -747,7 +755,9 @@
       "urlToImage": "https://responsiblestatecraft.org/media-library/safra-catz-tiktok-oracle-israel.jpg?id=61700270&width=1200&height=600&coordinates=0%2C259%2C0%2C453",
       "publishedAt": "2025-10-03T21:16:12Z",
       "content": "In the years after the Georgian Dream government was elected in 2012, relations\r\n with the EU were excellent. The previous United National Movement government of President Mikheil Saakashvili (now in… [+8226 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759526172
     },
     {
@@ -762,7 +772,10 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!ZuR_!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8471275-4ba1-4616-bde9-9ff3613efaac_457x388.png",
       "publishedAt": "2025-10-03T16:49:57Z",
       "content": "For decades, a doctorate in economics was a golden ticket. It promised a path to tenure, or at worst, a lucrative role at a central bank, think tank, or tech firm.\r\nNot anymore.\r\nThe economics job ma… [+12767 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "education"
+      ],
       "publishedAtTs": 1759510197
     },
     {
@@ -814,7 +827,11 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03167-5/d41586-025-03167-5_51529264.jpg",
       "publishedAt": "2025-10-03T00:00:00Z",
       "content": "Head of the US Food and Drugs Administration Marty Makary at the White House on 22 September.Credit: Andrew Harnik/Getty\r\nOn 22 September, the United States top public-health officials stood alongsid… [+6309 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "public_health",
+        "social_issues"
+      ],
       "publishedAtTs": 1759449600
     },
     {
@@ -1145,7 +1162,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-01T142411Z_1284592287_RC2G2HAJR6AR_RTRMADP_3_EUROPE-STOCKS-HEALTHCARE-1759485521.jpg?resize=1920%2C1440",
       "publishedAt": "2025-10-03T12:02:23Z",
       "content": "The United States government has asked nine US universities to agree to a number of demands in order to receive preferential access to federal funds.\r\nThe Wall Street Journal reported on Wednesday th… [+7847 chars]",
-      "tags": [],
+      "tags": [
+        "education",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1759492943
     },
     {
@@ -1258,7 +1278,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP090125015470-1-1759301676.jpg?resize=1920%2C1440",
       "publishedAt": "2025-10-03T06:46:57Z",
       "content": "US President Donald Trump announced earlier this week that his administration would launch a new website, called TrumpRx, which will allow American consumers to buy prescription drugs from pharmaceut… [+11997 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "economy_finance",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1759474017
     },
     {
@@ -1785,7 +1809,10 @@
       "urlToImage": "https://api-prod.gothamist.com/images/353530/fill-1200x650|format-webp|webpquality-85/",
       "publishedAt": "2025-10-03T16:06:00Z",
       "content": "President Donald Trumps administration has reversed $187 million in cuts to counterterrorism and security funding for police departments and programs in New York state.\r\nThe U.S. Department of Homela… [+2169 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "economy_finance"
+      ],
       "publishedAtTs": 1759507560
     },
     {

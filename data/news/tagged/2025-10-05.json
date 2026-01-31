@@ -274,7 +274,9 @@
       "urlToImage": "https://compote.slate.com/images/429eb95d-dfd5-46fc-a853-17b1a59cb0db.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2025-10-05T14:00:00Z",
       "content": "Recipe for Disaster is Slates column about what recipes get wrongand how to fix them. If youve noticed a recipe annoyance, absurdity, or outright lie, file your complaint here and we will investigate… [+10787 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759672800
     },
     {
@@ -872,7 +874,10 @@
       "urlToImage": "https://www.salon.com/app/uploads/2019/05/trump-comey3.jpg",
       "publishedAt": "2025-10-05T10:30:43Z",
       "content": "There are some moments in life where you remember exactly where you were and what you were doing. For me, one of those times was when I was walking up Wabash Avenue in downtown Chicago toward Trump T… [+8404 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1759660243
     },
     {
@@ -887,7 +892,10 @@
       "urlToImage": "https://www.salon.com/app/uploads/2021/12/donald-trump-melania-jeffrey-epstein-ghislaine-maxwell-1202211.jpg",
       "publishedAt": "2025-10-05T10:45:13Z",
       "content": "President Donald Trumps administration has demonstrated little ability to maintain a unified narrative on Jeffrey Epstein. For months, the White House has been dealing with the fallout from the Justi… [+7754 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1759661113
     },
     {
@@ -1186,7 +1194,10 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68e26863cb6f65f5d71759ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-10-05T13:06:23Z",
       "content": "Aerial view of the Trinity Gas Storage facility near Bethel, Texas.\r\nTrinity Gas Storage\r\nAs announcements for the buildout of natural gas power generation in Texas continue to multiply, the states g… [+6283 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "texas"
+      ],
       "publishedAtTs": 1759669583
     },
     {
@@ -1255,7 +1266,9 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6857d2b52750ec4d655a0e14/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-10-05T22:20:33Z",
       "content": "Major media brands including The Economist and The Verge are launch several new podcasts this fall.\r\ngetty\r\nWith fall now in full swing and the media industry moving into the final quarter of the yea… [+4489 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications"
+      ],
       "publishedAtTs": 1759702833
     },
     {
@@ -1455,7 +1468,10 @@
       "urlToImage": "https://media.zenfs.com/en/oilprice.com/67db9fe67f42f42cea7f7e9d3cba244f",
       "publishedAt": "2025-10-05T21:00:00Z",
       "content": "Predictions of an oil glut have dominated oil market reporting for months. Bloomberg this week suggested the first signs of oversupply may be emerging already, with several million barrels of Middle … [+5467 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "energy"
+      ],
       "publishedAtTs": 1759698000
     },
     {

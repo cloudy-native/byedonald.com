@@ -14,7 +14,10 @@
       "urlToImage": "https://media.wired.com/photos/68c78833d7b9edee244cf90a/191:100/w_1280,c_limit/WIRED_Health_Sanjay-Gupta.jpg",
       "publishedAt": "2025-09-15T09:30:00Z",
       "content": "At the WIRED Health summit in Boston on September 9, we hosted some of the leading experts in CRISPR, whole-genome sequencing, vaccines, and more for a series of eye-opening conversations and keynote… [+3841 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "medical_research"
+      ],
       "publishedAtTs": 1757928600
     },
     {
@@ -329,7 +332,10 @@
       "urlToImage": null,
       "publishedAt": "2025-09-15T16:05:16Z",
       "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [],
+      "tags": [
+        "environment",
+        "trade"
+      ],
       "publishedAtTs": 1757952316
     },
     {
@@ -720,7 +726,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6e8975ef-f6ec-4037-b22e-1eaa96b97a42/250915_abc_social_morningshow_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-09-15T17:45:53Z",
       "content": "<ul><li>VP Vance hosts Charlie Kirk's podcast\r\n</li><li>DNA found at Charlie Kirk crime scene links suspect to shooting: FBI\r\n</li><li>ABC obtains 911 calls made after Charlie Kirk shooting\r\n</li><li… [+4222 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1757958353
     },
     {
@@ -884,7 +892,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11fb/live/13eb0eb0-9231-11f0-9503-a35e38a7e112.jpg",
       "publishedAt": "2025-09-15T18:37:26Z",
       "content": "Paul AdamsDiplomatic correspondent, Jerusalem\r\nAs the war in Gaza grinds on, Israel's international isolation appears to be deepening.\r\nIs it approaching a \"South Africa moment\", when a combination o… [+9406 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "middle_east",
+        "gaza"
+      ],
       "publishedAtTs": 1757961446
     },
     {
@@ -991,7 +1004,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/UdxyNbcG5TQkTaG4M545xF.jpg",
       "publishedAt": "2025-09-15T18:15:14Z",
       "content": "The impact of the rise of AI on the environment is a very real concern, and it's not one that's going away in a hurry. Especially not when Google's planned new datacenter in the UK looks set to emit … [+3447 chars]",
-      "tags": [],
+      "tags": [
+        "environment",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1757960114
     },
     {
@@ -1601,7 +1617,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68c76497890d-1757897879.jpg?resize=1920%2C1440",
       "publishedAt": "2025-09-15T04:34:52Z",
       "content": "Brazils president, Luiz Inacio Lula da Silva, has slammed the sweeping tariffs imposed by the United States on his country as misguided and illogical, while also dismissing Washingtons criticism over… [+4750 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
       "publishedAtTs": 1757910892
     },
     {

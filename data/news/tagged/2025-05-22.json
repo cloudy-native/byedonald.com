@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 6,
+  "totalResults": 16,
   "articles": [
     {
       "source": {
@@ -15,11 +15,8 @@
       "publishedAt": "2025-05-22T23:47:24Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "foreign_policy",
-        "education",
-        "legal_justice"
+        "immigration",
+        "education"
       ],
       "publishedAtTs": 1747957644
     },
@@ -36,11 +33,9 @@
       "publishedAt": "2025-05-22T23:44:14Z",
       "content": "Homeland Security Secretary Kristi Noem ordered the department to terminate Harvard University’s Student and Exchange Visitor Program certification effective for the 2025-2026 school year read more\nIndian students at Harvard University raised objecti... [2439 chars]",
       "tags": [
-        "government_administration",
         "immigration",
-        "policy_legislation",
-        "legal_justice",
-        "education"
+        "education",
+        "government_administration"
       ],
       "publishedAtTs": 1747957454
     },
@@ -57,8 +52,8 @@
       "publishedAt": "2025-05-22T23:31:05Z",
       "content": "The White House has decided to wait before making an official foray into college sports.\nPlans for a presidential commission on college sports co-led by former Alabama head coach Nick Saban have been paused, Yahoo Sports' Ross Dellenger reported Thur... [2795 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation"
+        "policy_legislation",
+        "education"
       ],
       "publishedAtTs": 1747956665
     },
@@ -76,9 +71,8 @@
       "content": "Tonight on 'Closer Look': Hammered by U.S. tariffs, Ontario and Manitoba signed a deal to boost the movement of goods and labour between the provinces — including direct-to-consumer alcohol sales\nIn cities and towns across Ontario — and at Queen’s Pa... [1786 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "policy_legislation",
-        "regional_state"
+        "liberation_day_tariffs",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1747954800
     },
@@ -95,11 +89,8 @@
       "publishedAt": "2025-05-22T23:00:00Z",
       "content": "US president Donald Trump’s threatened 50 per cent tariff on all EU imports would cause extreme disruption to the global economy, the Taoiseach has warned.\nMicheál Martin said the move by Mr Trump had come as a “surprise”, noting that the EU was enga... [2596 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
-        "economy_finance",
         "trade",
-        "crisis_emergency"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1747954800
     },
@@ -116,11 +107,200 @@
       "publishedAt": "2025-05-22T23:00:00Z",
       "content": "Japan’s Prime Minister Shigeru Ishiba has said he held telephone talks with US President Donald Trump and agreed to hold “productive” discussions at an upcoming tariff talks between the two sides.\n“Investment, not tariffs,” Mr Ishiba told reporters a... [1426 chars]",
       "tags": [
-        "foreign_policy",
         "trade",
-        "government_administration"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747954800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "FTC drops case over Microsoft’s $69bn Activision Blizzard acquisition",
+      "description": "Microsoft president declares ‘victory’ in Call of Duty maker deal as FTC chair says case doesn’t fit with Trump’s agenda",
+      "url": "https://www.theguardian.com/technology/2025/may/22/ftc-drops-microsoft-activision-blizzard-acquisition-case",
+      "urlToImage": "https://i.guim.co.uk/img/media/3f87c03636ba131bc7d4aabc6f6987499406ca01/426_0_3153_2525/master/3153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32329caa4a4ceb4db47f9ba97e3331e6",
+      "publishedAt": "2025-05-22T22:22:53Z",
+      "content": "The US Federal Trade Commission dropped a case that sought to block Microsoft’s $69bn purchase of the Call of Duty maker Activision Blizzard, saying on Thursday that pursuing the case against the long-closed deal was not in the public interest.\nAndre... [1952 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1747952573
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC",
+      "title": "L3Harris to pay $62 million",
+      "description": "The L3Harris settlement was announced by the Department of Justice one day after the Trump administration formally accepted the Boeing jet as a gift from Qatar.",
+      "url": "https://www.cnbc.com/2025/05/22/trump-gift-jet-qatar-l3harris.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108149581-1747938545958-gettyimages-2190131647-avils-notitle241220_npcds.jpeg?v=1747938741&w=1920&h=1080",
+      "publishedAt": "2025-05-22T22:16:37Z",
+      "content": "Defense contractor L3Harris Technologies will pay $62 million to settle allegations that it lied about the prices of equipment it sold to the U.S. military years earlier, the Justice Department said Thursday.\nL3Harris was recently tapped to help modi... [789 chars]",
+      "tags": [
+        "legal_justice",
+        "defense_contractor_reform"
+      ],
+      "publishedAtTs": 1747952197
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Trump administration live updates: Supreme Court allows Trump to fire certain independent agency officials; Trump to host meme coin investor dinner",
+      "description": "Live updates and the latest news as the House passes the sweeping GOP agenda bill. including tax and Medicaid cuts and a SALT increase.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-administration-congress-salt-medicaid-tariffs-doge-live-updates-rcna207504",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250508-donald-trump-vl-411p-06ac11.jpg",
+      "publishedAt": "2025-05-22T21:55:39Z",
+      "content": "Trump appeared at a Make America Health Again event today with Health and Human Services Secretary Robert F. Kennedy Jr. after the White House released a report centered on identifying the causes of chronic diseases in children.\n\"We've relied too muc... [288 chars]",
+      "tags": [
+        "policy_legislation",
+        "healthcare",
+        "economy_finance",
+        "taxes"
+      ],
+      "publishedAtTs": 1747950939
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "U.S. Bond Yields Spike Amid Fiscal Concerns and Trump's Tax Bill Impact",
+      "description": "U.S. bond yields hit a 19-month high, driven by fiscal concerns and President Trump's tax bill. The bond market saw soft demand, with 20-year bond sales sparking fears over U.S. debt. Stock markets experienced mixed results, and the U.S. dollar gained amidst global economic uncertainty.",
+      "url": "https://www.devdiscourse.com/article/headlines/3422034-us-bond-yields-spike-amid-fiscal-concerns-and-trumps-tax-bill-impact",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_05_2025_21_54_10_2275806.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-22T21:54:10Z",
+      "content": "U.S. bond yields soared to their highest level in 19 months before stabilizing, influenced by ongoing concerns over the fiscal health of the United States and the demand for government debt. Meanwhile, Wall Street stocks showed mixed performance, wit... [828 chars]",
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "taxes",
+        "budget",
+        "stock_market"
+      ],
+      "publishedAtTs": 1747950850
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Trump's Immigration Crackdown Already Causing Hiring Issues for Businesses",
+      "description": "In a new report, one in five business owners said they lost employees due to deportations, visa denials or ICE raids.",
+      "url": "https://www.newsweek.com/trumps-immigration-crackdown-already-causing-hiring-issues-businesses-2076109",
+      "urlToImage": "https://d.newsweek.com/en/full/2650321/trump.jpg",
+      "publishedAt": "2025-05-22T21:53:25Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nBusinesses are already fe... [4310 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747950805
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Trump’s new bill threatens major tax increases for Canadian companies",
+      "description": "If it becomes law, the bill will override the Canadian-U.S. tax treaty that has been in place since 1942",
+      "url": "https://www.theglobeandmail.com/business/article-trumps-new-bill-threatens-major-tax-increases-for-canadian-companies/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/BMSDOMQ7FREXZL572N4JTU5XOA.JPG?auth=809e08f9fb688093b1a91dfdedd7e8709f79643cbd95f98e70ebdd034d48b2ee&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-22T21:38:49Z",
+      "content": "Open this photo in gallery: U.S. President Donald Trump gestures next to U.S. House Speaker Mike Johnson on Capitol Hill in Washington, on May 20.Ken Cedeno/Reuters\nU.S. President Donald Trump‘s new tax bill is threatening to significantly hike rates... [4826 chars]",
+      "tags": [
+        "trade",
+        "taxes",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1747949929
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump’s image of dead ‘white farmers’ filmed in Congo, not South Africa",
+      "description": "U.S. President Donald Trump showed a screenshot of Reuters video taken in the Democratic Republic of Congo as part of what he falsely presented on Wednesday as evidence of mass killings of white South Africans.",
+      "url": "https://www.cp24.com/news/world/2025/05/22/trumps-image-of-dead-white-farmers-came-from-reuters-footage-in-congo-not-south-africa/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/SJMHWPUZJNBRVJACCVBTWP2IZ4.jpg?smart=true&auth=9a1d92e86bcfa3b57bce19ae9fefd080ad4b7eefa88ac1272664f40fb9c79dd7&width=1200&height=630",
+      "publishedAt": "2025-05-22T21:14:56Z",
+      "content": "U.S. President Donald Trump meets South Africa's President Cyril Ramaphosa in the Oval Office of the White House, Wednesday, May 21, 2025, in Washington. (AP Photo/Evan Vucci)\nJOHANNESBURG, May 22 - U.S. President Donald Trump showed a screenshot of ... [2964 chars]",
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1747948496
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Trump admin blocks Harvard's international enrolments",
+      "description": "\"The government's action is unlawful,\" Harvard says of the Trump administration's move to revoke the university's ability to enrol international students.",
+      "url": "https://www.perthnow.com.au/politics/trump-admin-blocks-harvards-international-enrolments-c-18785735",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18785735/524e48b60bb6f2f333e6b63c9be55597880d4996-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-05-22T21:13:15Z",
+      "content": "US President Donald Trump's administration has revoked Harvard University's ability to enrol international students, and is forcing existing students to transfer to other schools or lose their legal status, while also threatening to expand the crackd... [2143 chars]",
+      "tags": [
+        "immigration",
+        "education"
+      ],
+      "publishedAtTs": 1747948395
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC",
+      "title": "Supreme Court says Fed different from Trump firing cases",
+      "description": "President Donald Trump has been critical of Fed Chairman Jerome Powell, who has said the president has no legal right to fire him.",
+      "url": "https://www.cnbc.com/2025/05/22/supreme-court-federal-reserve-trump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145983-17473124852025-05-13t090246z_1804573252_rc2py8a5uc89_rtrmadp_0_usa-court-trump-birthright.jpeg?v=1747319909&w=1920&h=1080",
+      "publishedAt": "2025-05-22T21:12:07Z",
+      "content": "A federal district court judge in Washington, D.C., had enjoined Trump from removing both women from their respective boards. An appeals court later upheld that order.\nWhile Thursday's decision does not explicitly bar Trump — or any other president —... [4961 chars]",
+      "tags": [
+        "legal_justice",
+        "presidential_security"
+      ],
+      "publishedAtTs": 1747948327
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BradfordToday"
+      },
+      "author": "BradfordToday",
+      "title": "Cost of Canada joining Trump's Golden Dome missile defence project still unknown",
+      "description": "OTTAWA — If Prime Minister Mark Carney signs on to U.S.",
+      "url": "https://www.bradfordtoday.ca/national-news/cost-of-canada-joining-trumps-golden-dome-missile-defence-project-still-unknown-10697590",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/70b59b9b4635023edf3c980b27314eb41bb894be16cb1223128715262b84534f.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-22T21:04:17Z",
+      "content": "OTTAWA — If Prime Minister Mark Carney signs on to U.S. President Donald Trump's proposed \"Golden Dome\" missile defence shield, he could be committing Canada to a project with a ballooning price tag, an anti-weapons proliferation groups said on Thurs... [4025 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada",
+        "defense_contractor_reform"
+      ],
+      "publishedAtTs": 1747947857
     }
   ]
 }

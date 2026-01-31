@@ -371,7 +371,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ADWrOygg5bkuy9J3am3A3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDk7Y2Y9d2VicA--/https://media.zenfs.com/en/the_enquirer_natl_articles_358/a591096c892b619ff40ce465ffa26052",
       "publishedAt": "2025-11-03T05:30:21Z",
       "content": "It's not been a typical mayoral race in Cincinnati.\r\nFirst off, Republicans don't often run for mayor of Cincinnati, a city that has voted  3-to-1 Democratic in recent presidential elections. The las… [+10975 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
       "publishedAtTs": 1762147821
     },
     {
@@ -441,7 +444,10 @@
       "urlToImage": "https://boingboing.net/wp-content/uploads/2025/03/Jan-30-2025-President-Donald-Trump-speaks-at-a-.jpg",
       "publishedAt": "2025-11-03T17:22:28Z",
       "content": "Donald Trump just slipped to new lows in popularity, with an approval rating of only 37%, according to a poll released today by CNN/SSRS. \"Approval of the president has dipped across partisan and dem… [+1647 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "polling"
+      ],
       "publishedAtTs": 1762190548
     },
     {
@@ -644,7 +650,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5b6bf1fd-0495-4651-aba1-7c2748ec9a34/251104_abc_social_worldseries_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-11-03T14:12:14Z",
       "content": "<ul><li>Government shutdown: New battle over SNAP benefits as healthcare premiums rise\r\n</li><li>Candidates rally supporters ahead of high-stakes elections in 3 states\r\n</li><li>Hourslong waits in ai… [+4364 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762179134
     },
     {
@@ -714,7 +722,10 @@
       "urlToImage": "https://media.newyorker.com/photos/690531e39cedccbb3cff394e/16:9/w_1280,c_limit/CASSIDY---RODRICK--GettyImages-2228976596.jpg",
       "publishedAt": "2025-11-03T11:00:00Z",
       "content": "Now that many governments around the world are moving to protect industries they consider vital, and international institutions like the I.M.F. and the World Trade Organization are being sidelined, R… [+4405 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1762167600
     },
     {
@@ -766,7 +777,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/UijBon4KCvwTw825-eQISSWZTZA=/0x41:1917x1039/1200x625/media/img/mt/2025/11/trivia_illo_16x9_100-1/original.jpg",
       "publishedAt": "2025-11-03T21:54:48Z",
       "content": "The 37-volume Naturalis Historia, written by the Roman naturalist Pliny the Elder, is the world’s earliest surviving encyclopedia. In the first century C.E., Pliny set out to collect the breadth of h… [+2911 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762206888
     },
     {
@@ -1005,7 +1018,11 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03575-7/d41586-025-03575-7_51634290.jpg",
       "publishedAt": "2025-11-03T00:00:00Z",
       "content": "At the US Environmental Protection Agency, scientists say proposed cuts will gut research. Credit: Eric Lee/Bloomberg via Getty\r\nFor 30 years, the US Environmental Protection Agency (EPA) has conduct… [+12668 chars]",
-      "tags": [],
+      "tags": [
+        "science_policy",
+        "environment",
+        "government_administration"
+      ],
       "publishedAtTs": 1762128000
     },
     {
@@ -1094,7 +1111,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/8vzjriM4f5DcwQjYcJpBwg-2560-80.jpg",
       "publishedAt": "2025-11-03T21:00:00Z",
       "content": "Sixty nations have now penned their commitment to the NASA-led Artemis Accords for peaceful space exploration.\r\nLatvia will become the latest country to join the Artemis Accords\r\n, the country announ… [+2856 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "space_policy"
+      ],
       "publishedAtTs": 1762203600
     },
     {
@@ -1278,7 +1298,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/33b0/live/ecfe1360-b8b9-11f0-b0a9-658d692df91a.jpg",
       "publishedAt": "2025-11-03T15:27:01Z",
       "content": "Fourteen-year-old Chinese amateur Wang Xinzhong almost caused a massive upset against Shaun Murphy before the reigning Masters champion prevailed in the deciding frame of their second-round match at … [+882 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1762183621
     },
     {
@@ -1561,7 +1583,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244607928.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-11-03T18:58:39Z",
       "content": "One year out from the midterm elections, the Democratic Party holds a sizable enthusiasm advantage as views of President Donald Trump dip further into negative territory, according to a new CNN poll … [+5619 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "polling",
+        "trump"
+      ],
       "publishedAtTs": 1762196319
     },
     {
@@ -1632,7 +1658,12 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/New-Studio-3.jpg?w=1024",
       "publishedAt": "2025-11-03T13:30:20Z",
       "content": "The off-year elections unusually are a footnote in the overall direction of the country, but Tuesday’s races will provide the first significant glimpse at voter sentiment since Donald Trump returned … [+14797 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2024_presidential",
+        "polling",
+        "trump"
+      ],
       "publishedAtTs": 1762176620
     },
     {

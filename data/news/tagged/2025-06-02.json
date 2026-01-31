@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 22,
   "articles": [
     {
       "source": {
@@ -15,9 +15,8 @@
       "publishedAt": "2025-06-02T23:47:15Z",
       "content": "The White House unveiled a new official presidential portrait of President Donald Trump on Monday, capturing him in a blue suit, red tie, and American flag pin, standing against a neutral backdrop with a serious, assertive expression, signaling a shi... [3249 chars]",
       "tags": [
-        "government_administration",
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1748908035
     },
@@ -35,7 +34,7 @@
       "content": "Donald Trump has pardoned two south Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore.\nPardons for Tanner Mansell and John Moore Jr were signed on Wednesday. They ha... [1591 chars]",
       "tags": [
         "legal_justice",
-        "personal_family"
+        "presidential_security"
       ],
       "publishedAtTs": 1748907975
     },
@@ -52,9 +51,9 @@
       "publishedAt": "2025-06-02T23:37:56Z",
       "content": "Why did the Supreme Court block Trump from using Alien Enemies Act for deportations?\nA judge in California on Monday blocked the Trump administration from using the wartime Alien Enemies Act to deport Venezuelan migrants in the Los Angeles area, ruli... [3809 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "civil_litigation"
+        "legal_justice",
+        "criminal_cases"
       ],
       "publishedAtTs": 1748907476
     },
@@ -72,10 +71,8 @@
       "content": "Washington — The Senate this week is taking up the massive budget package containing President Trump's second-term agenda, a measure that squeaked through the House with a one-vote margin, solely with Republican votes. Its path through the Senate see... [9959 chars]",
       "tags": [
         "policy_legislation",
-        "economy_finance",
-        "foreign_policy",
-        "security_intelligence",
-        "government_administration"
+        "taxes",
+        "border_security"
       ],
       "publishedAtTs": 1748907277
     },
@@ -92,7 +89,6 @@
       "publishedAt": "2025-06-02T23:30:37Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nFear and anger, not age,\nseparate GOP, Dems\nRe: “Democrats’ age problem goes far beyond Biden” (Page A7, May 29).\nThe mainstream media must drop the myth that Republican... [4481 chars]",
       "tags": [
-        "media_communications",
         "elections_politics",
         "social_issues"
       ],
@@ -112,10 +108,7 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
-        "nuclear_policy",
-        "national_security",
-        "government_administration"
+        "iran"
       ],
       "publishedAtTs": 1748906398
     },
@@ -132,9 +125,8 @@
       "publishedAt": "2025-06-02T23:18:34Z",
       "content": "Washington — The White House unveiled a new portrait of President Trump on Monday, showing him in a slightly different light than the portrait released ahead of his inauguration in January.\nIn the latest portrait, Mr. Trump wears his signature red ti... [1249 chars]",
       "tags": [
-        "government_administration",
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1748906314
     },
@@ -151,9 +143,9 @@
       "publishedAt": "2025-06-02T23:07:20Z",
       "content": "From the right: Trump’s Art of the Steel Deal\n“Nippon Steel is buying US Steel for $15 billion and has agreed to let the American company remain American-operated” in a Trump-approved deal that “addressed concerns about national security while securi... [4290 chars]",
       "tags": [
+        "trade",
         "economy_finance",
-        "national_security",
-        "foreign_policy"
+        "national_security"
       ],
       "publishedAtTs": 1748905640
     },
@@ -171,10 +163,7 @@
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nEven with leverage,\nwould Trump use it?\nRe: “How to give Trump leverage to coerce Putin” (Page A7, May 30).\nMarc Thiessen’s recent column makes a valid point about the n... [4393 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
-        "security_intelligence",
-        "national_security",
-        "crisis_emergency"
+        "trump"
       ],
       "publishedAtTs": 1748905227
     },
@@ -191,12 +180,227 @@
       "publishedAt": "2025-06-02T23:00:00Z",
       "content": "US President Donald Trump will sign an executive order making official his vow to double tariffs on steel and aluminium, White House spokeswoman Karoline Leavitt has told reporters in a briefing.\nMr Trump on Friday announced that he would increase ta... [1123 chars]",
       "tags": [
-        "government_administration",
-        "economy_finance",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748905200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump officials open up millions of acres in Alaska to drilling and mining",
+      "description": "Doug Burgum says Biden order that banned drilling in 23m-acre National Petroleum Reserve-Alaska will be reversed",
+      "url": "https://www.theguardian.com/us-news/2025/jun/02/trump-administration-alaska-drilling-mining",
+      "urlToImage": "https://i.guim.co.uk/img/media/36ebdf1ae8913f97eae261b39b4afb105606219c/394_0_3938_3151/master/3938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a55aee5d3bc7a7b47e5b3c707c5e9288",
+      "publishedAt": "2025-06-02T22:35:11Z",
+      "content": "Millions of acres of Alaska wilderness will lose federal protections and be exposed to drilling and mining in the Trump administration’s latest move to prioritize energy production over the shielding of the US’s open spaces.\nDoug Burgum, the interior... [3280 chars]",
+      "tags": [
+        "environment",
+        "energy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1748903711
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "U.S. expansion ahead for B.C.'s Moment Energy",
+      "description": "Trade ware brought on by Donald Trump and tariffs not stopping Vancouver company that builds large power banks with used EV batteries",
+      "url": "https://www.vancouverisawesome.com/technology/bcs-moment-energy-eyeing-us-expansion-even-amid-trade-war-10737499",
+      "urlToImage": "https://www.vmcdn.ca/f/files/biv/thumbnail_img_8699.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-02T22:30:00Z",
+      "content": "B.C. company that reuses EV batteries is selecting the site of its new Texas giga-factory\nAs the co-founder of a fast-growing clean tech company that repurposes used electric vehicle batteries, Sumreen Rattan is navigating new hurdles when shipping h... [3995 chars]",
+      "tags": [
+        "energy",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1748903400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Divers who freed 19 sharks off Florida coast pardoned",
+      "description": "Two South Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore have been pardoned by President Donald Trump.",
+      "url": "https://www.cp24.com/news/world/2025/06/02/trump-pardons-2-divers-who-freed-19-sharks-off-the-coast-of-florida/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/D3ONX67I5KHS3XIJLWQ5IV7P5M.jpg?smart=true&auth=31d5d6b7f9806b06ab6deeea2e8022a60ecd3946dacf88d85f2ef86a74f846d5&width=1200&height=630",
+      "publishedAt": "2025-06-02T22:25:40Z",
+      "content": "MIAMI — Two South Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore have been pardoned by U.S. President Donald Trump.\nPardons for Tanner Mansell and John Moore Jr. ... [1615 chars]",
+      "tags": [],
+      "publishedAtTs": 1748903140
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump pardons 2 divers who freed 19 sharks off the coast of Florida",
+      "description": "MIAMI (AP) — Two South Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman's longline several miles from shore have been pardoned",
+      "url": "https://www.thestar.com/news/world/united-states/trump-pardons-2-divers-who-freed-19-sharks-off-the-coast-of-florida/article_98b79726-c15c-56aa-a9b6-e2f4bfb6b141.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8e/18e042d4-1d38-525c-aa94-cb87b499aa14/683e24bca6db1.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-06-02T22:16:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "legal_justice",
+        "presidential_security"
+      ],
+      "publishedAtTs": 1748902560
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "New Law Society of B.C. leader wary of Trump tactics",
+      "description": "Brook Greenberg steps into leadership role as government's proposed reforms spark fears over independence and accountability",
+      "url": "https://www.vancouverisawesome.com/economy-law-politics/law-society-of-bc-facing-headwinds-on-rule-of-law-reconciliation-bar-independence-10716573",
+      "urlToImage": "https://www.vmcdn.ca/f/files/biv/images/brook-greenberg.png;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-02T22:00:00Z",
+      "content": "Brook Greenberg is leading the Law Society of B.C. into a constitutional showdown this fall with the provincial government over Bill 21\nLawyer Brook Greenberg, KC, of Fasken Martineau DuMoulin LLP has taken on the role of first vice-president of the ... [6992 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1748901600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Dallas Morning News"
+      },
+      "author": "The Dallas Morning News",
+      "title": "Jasmine Crockett says she’d open Trump impeachment inquiry as Oversight Committee chair",
+      "description": "U.S. Rep. Jasmine Crockett, D-Dallas, said she would open an impeachment inquiry into President Donald Trump if she becomes chair of the House Oversight...",
+      "url": "https://www.dallasnews.com/news/politics/2025/06/02/jasmine-crockett-says-shed-open-trump-impeachment-inquiry-as-oversight-committee-chair/",
+      "urlToImage": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/5RSKMUTD4V5Q7SKFNXQRN2RHFA.jpg?auth=d87dea18dc36e1e53e6ea507b976528f283b7fb5f717e7c364e9d328d939ab7f&height=630&width=1200&smart=true&quality=80",
+      "publishedAt": "2025-06-02T21:57:20Z",
+      "content": "WASHINGTON — U.S. Rep. Jasmine Crockett, D-Dallas, says she would pursue at least an impeachment inquiry into President Donald Trump if she becomes chair of the House Oversight Committee in the next Congress.\nCrockett aims to be the top Democrat on t... [4465 chars]",
+      "tags": [
+        "elections_politics",
+        "impeachment",
+        "congress"
+      ],
+      "publishedAtTs": 1748901440
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "UPDATE 2-Trump and Xi will likely speak this week, White House says",
+      "description": "It was not immediately clear when the two leaders will speak. U.S. Treasury Secretary Scott Bessent told CBS' \"Face the Nation\" on Sunday that Trump and Xi would speak \"very soon\" to iron out trade issues including a dispute over critical minerals and China's restrictions on exports of certain minerals.",
+      "url": "https://www.devdiscourse.com/article/law-order/3444869-update-2-trump-and-xi-will-likely-speak-this-week-white-house-says",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_05_15_9474824.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-06-02T21:31:17Z",
+      "content": "President Donald Trump and Chinese leader Xi Jinping will likely speak this week, White House press secretary Karoline Leavitt said on Monday, days after Trump accused China of violating an agreement to roll back tariffs and trade restrictions.\nLeavi... [2033 chars]",
+      "tags": [
         "foreign_policy",
         "trade"
       ],
-      "publishedAtTs": 1748905200
+      "publishedAtTs": 1748899877
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "US offers Iran nuclear deal allowing temporary uranium enrichment",
+      "description": "The Trump administration has pitched Iran on a revised nuclear deal that would allow Tehran to continue enriching uranium after it is signed.",
+      "url": "https://nypost.com/2025/06/02/us-news/us-offers-iran-nuclear-deal-allowing-temporary-uranium-enrichment/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/newspress-collage-r3ybqriet-1748899058251.jpg?quality=75&strip=all&1748884678&w=1024",
+      "publishedAt": "2025-06-02T20:56:33Z",
+      "content": "WASHINGTON — The Trump administration has pitched Iran on a revised nuclear deal that would allow Tehran to continue enriching uranium after it is signed — contradicting public statements by top US officials.\nThe proposal outline, first reported Mond... [3536 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1748897793
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "‘It’s just beginning and it’s going to get ugly’: Pro-Trump Polish president-elect reflects divided nation",
+      "description": "Warsaw’s allies in Europe left wondering who they will be dealing with: a populist head of state or its centrist prime minister",
+      "url": "https://www.irishtimes.com/world/europe/2025/06/03/its-just-beginning-and-its-going-to-get-ugly-pro-trump-polish-president-elect-reflects-divided-nation/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/EMKTC7J7GFLCQHGSCI4CVWSRTM.jpg?smart=true&auth=dae46d3e3820bfe7e566e4284344cc9a2f6f1b5e2a8fa511cd7da1e64eeae6e2&width=1200&height=630",
+      "publishedAt": "2025-06-02T20:34:00Z",
+      "content": "Warsaw mayor Rafal Trzaskowski was quick to claim the Polish presidency on Sunday night – too quick.\nMinutes after a first exit poll gave him a 0.6 point lead, the 53-year-old joked with supporters that the phrase “na zyletki” – razor-thin margin – w... [5501 chars]",
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1748896440
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Donald Trump warns of ‘economic ruination’ if courts block his tariff authority",
+      "description": "US President Donald Trump warned that a court ruling against his proposed tariffs could lead to the “economic ruination” of the US, claiming it would allow foreign nations to exploit America.",
+      "url": "https://www.livemint.com/news/us-news/donald-trump-warns-of-economic-ruination-if-courts-block-his-tariff-authority-11748875106776.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/South-Korea-Election-What-To-Know-0_1748875690577_1748875698500.jpg",
+      "publishedAt": "2025-06-02T20:26:56Z",
+      "content": "US President Donald Trump on Monday (June 1) issued a stark warning on his Truth Social platform, claiming that a potential court ruling against his proposed tariff policies could leave the United States vulnerable to foreign economic aggression.\nTru... [2200 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "trade_negotiations_truces",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748896016
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Trump admin asks Supreme Court to stop order blocking federal workforce cuts",
+      "description": "Solicitor General D. John Sauer claimed the district court's order included \"multiple fatal flaws,\" and urged the Supreme Court to pause the lower court ruling.",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/3428439/trump-supreme-court-stop-federal-workforce-cuts/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/06/trump-workforce-cuts.webp",
+      "publishedAt": "2025-06-02T19:53:49Z",
+      "content": "The Trump administration asked the Supreme Court on Monday to allow it to proceed with its sweeping federal workforce reductions across various federal agencies, arguing lower courts erred by blocking President Donald Trump’s executive orders.\nThe U.... [2711 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1748894029
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Trump-backed conservative Karol Nawrocki wins Poland's presidential race",
+      "description": "WARSAW, Poland (AP) — Conservative Karol Nawrocki’s victory in Poland’s weekend presidential runoff has set the country on a more nationalist course — and cast doubt on the viability of the centrist government of Prime Minister Donald Tusk after the",
+      "url": "https://www.vancouverisawesome.com/national-business/trump-backed-conservative-karol-nawrocki-wins-polands-presidential-race-10749102",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/06/9c5bd4da7a545ff6fb2dcbd36d40648c685df975ef582bd1065749d76d8da75f.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-02T19:52:55Z",
+      "content": "WARSAW, Poland (AP) — Conservative Karol Nawrocki’s victory in Poland’s weekend presidential runoff has set the country on a more nationalist course — and cast doubt on the viability of the centrist government of Prime Minister Donald Tusk after the\n... [6368 chars]",
+      "tags": [
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748893975
     }
   ]
 }

@@ -32,7 +32,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2022/11/247629778565cf2fa947d12e37cf189f.jpg",
       "publishedAt": "2025-09-27T20:00:12Z",
       "content": "There are an estimated 4,664,000 working industrial robots in the world, according to the International Federation of Robotics. More than two million of them are in China. And don’t count on anyone c… [+2639 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "trade"
+      ],
       "publishedAtTs": 1759003212
     },
     {
@@ -278,7 +282,11 @@
       "urlToImage": "https://i.insider.com/68d6ce9f1c1f80efbec468ce?width=1200&format=jpeg",
       "publishedAt": "2025-09-27T09:00:02Z",
       "content": "Christian Garrett (left) and Justin Fishner-Wolfson (right)137 Ventures\r\n<ul><li>137 Ventures mostly invests in secondary markets, holding stakes in SpaceX and Anduril.</li><li>It scaled an early \"fe… [+4604 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "automotive",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1758963602
     },
     {
@@ -370,7 +378,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0f772bac-8c9c-49c1-bd93-b987a6731238/250927_abc_social_monkey_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-09-27T20:55:00Z",
       "content": "<ul><li>National Guard troops set to arrive in Memphis starting next week\r\n</li><li>Humberto rapidly intensifies into major hurricane\r\n</li><li>Trump announces new tariffs on furniture and pharmaceut… [+4583 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759006500
     },
     {
@@ -513,7 +523,10 @@
       "urlToImage": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2025/09/25/2025-07-26T113343Z_93798843_RC28UFA7HL6R_RTRMADP_3_CHINA-AI-EXPO.JPG?itok=EQ0NP-sQ",
       "publishedAt": "2025-09-27T13:44:49Z",
       "content": "In early August, one day before releasing GPT-5, OpenAI CEO Sam Altman posted an image of the Death Star on social media. It was just the latest declaration by Altman that his new AI model would chan… [+13624 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1758980689
     },
     {
@@ -958,7 +971,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/09/Donald-Trump-JD-Vance-2237006505.jpg",
       "publishedAt": "2025-09-27T13:00:27Z",
       "content": "The battle over TikTok in the U.S. has lasted as long as the globally popular app has been available. Since 2019, TikTok has negotiated with the federal government to address concerns of Chinese mani… [+6142 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "foreign_policy",
+        "china"
+      ],
       "publishedAtTs": 1758978027
     },
     {
@@ -1144,7 +1161,13 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/09/00-dusty-dog-scaled.jpg",
       "publishedAt": "2025-09-27T10:55:18Z",
       "content": "This is Naked Capitalism fundraising week. 148 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+11901 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "inflation",
+        "housing",
+        "artificial_intelligence"
+      ],
       "publishedAtTs": 1758970518
     },
     {
@@ -1362,7 +1385,12 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68d7138841ad4c7627c9834b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-09-27T14:00:00Z",
       "content": "LOS ANGELES, CA - JULY 09: The original DeLorean Time Machine Hero \"A\" Car on display for the release of the Back to the Future documentary Outatime: Saving The DeLorean Time Machine at Petersen Auto… [+22427 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "budget",
+        "personal_family"
+      ],
       "publishedAtTs": 1758981600
     },
     {
@@ -1396,7 +1424,9 @@
       "urlToImage": "https://compote.slate.com/images/ece6c0af-f9f1-43e0-ab81-3e7d10dd2844.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2025-09-27T15:00:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nI like bikes. I like coffee. I especially like biking to coffee, which is… [+12314 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1758985200
     },
     {
@@ -1577,7 +1607,10 @@
       "urlToImage": "https://img.assets-d.propublica.org/v5/images/20250406-Reyes-Hurricane-Helene-Recovery-45_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?crop=focalpoint&fit=crop&fp-x=0.4842&fp-y=0.371&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=adbc38eaee43b209296b6836e363a421",
       "publishedAt": "2025-09-27T09:10:00Z",
       "content": "ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to receive our stories in your inbox every we… [+26551 chars]",
-      "tags": [],
+      "tags": [
+        "housing",
+        "crisis_emergency"
+      ],
       "publishedAtTs": 1758964200
     },
     {

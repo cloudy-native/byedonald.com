@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -16,7 +16,7 @@
       "content": "Donald Trump has tapped Dr Casey Means, a wellness influencer with close ties to Robert F Kennedy Jr, the US health secretary, as nominee for surgeon general after withdrawing his initial pick for the influential health post.\nThe US president said in... [5667 chars]",
       "tags": [
         "personnel",
-        "civil_rights"
+        "government_administration"
       ],
       "publishedAtTs": 1746662166
     },
@@ -33,9 +33,8 @@
       "publishedAt": "2025-05-07T23:48:45Z",
       "content": "May 7 (UPI) -- President Donald Trump on Wednesday withdrew Dr. Janette Nesheiwat as his nominee for U.S. surgeon general and announced Dr. Casey Means as his new selection.\nMeans has close ties to Health and Human Services Secretary Robert F. Kenned... [3205 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "health_science"
+        "personnel",
+        "government_administration"
       ],
       "publishedAtTs": 1746661725
     },
@@ -52,9 +51,8 @@
       "publishedAt": "2025-05-07T23:46:55Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "foreign_policy",
-        "latin_america",
-        "immigration"
+        "immigration",
+        "personal_family"
       ],
       "publishedAtTs": 1746661615
     },
@@ -71,11 +69,8 @@
       "publishedAt": "2025-05-07T23:46:00Z",
       "content": "President Trump will nominate Dr. Casey Means, an ally of Health and Human Services Secretary Robert F. Kennedy Jr. and prominent advocate for his agenda, to serve as the U.S. surgeon general, the president announced Wednesday.\nMeans replaces Dr. Jan... [4491 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "health_science",
-        "social_issues",
-        "personal_family"
+        "personnel",
+        "government_administration"
       ],
       "publishedAtTs": 1746661560
     },
@@ -93,8 +88,7 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "legal_justice",
-        "government_administration",
-        "elections_politics"
+        "supreme_court"
       ],
       "publishedAtTs": 1746661431
     },
@@ -111,9 +105,7 @@
       "publishedAt": "2025-05-07T23:33:00Z",
       "content": "Pakistan's prime minister has pledged to retaliate after India's deadly missile strike, saying the country will \"now have to pay the price\" for their \"blatant mistake\".\nIn a televised address on state broadcaster PTV, Shehbaz Sharif responded to Wedn... [4110 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "crisis_emergency"
+        "foreign_policy"
       ],
       "publishedAtTs": 1746660780
     },
@@ -130,10 +122,9 @@
       "publishedAt": "2025-05-07T23:28:00Z",
       "content": "1 of 3 | According to several published reports, Trump administration officials have proposed flying several deportees to Libya soon. If a deportation flight does leave for Libya, it would herald an expansion of Trump's controversial deportation poli... [2417 chars]",
       "tags": [
-        "immigration",
-        "national_security",
+        "mass_deportation_operation",
         "foreign_policy",
-        "government_administration"
+        "immigration"
       ],
       "publishedAtTs": 1746660480
     },
@@ -151,8 +142,6 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "legal_justice",
-        "foreign_policy",
-        "government_administration",
         "immigration"
       ],
       "publishedAtTs": 1746659349
@@ -170,11 +159,8 @@
       "publishedAt": "2025-05-07T23:07:40Z",
       "content": "The Trump administration is reportedly eyeing dozens of grants across the National Park Service for termination, according to reporting from the New York Times, one of several moves destabilizing the US’s investment in public lands.\nAccording to the ... [2626 chars]",
       "tags": [
-        "government_operations",
         "environment",
-        "national_security",
-        "budget",
-        "policy_legislation"
+        "budget"
       ],
       "publishedAtTs": 1746659260
     },
@@ -191,11 +177,170 @@
       "publishedAt": "2025-05-07T23:00:00Z",
       "content": "Donald Trump will on Thursday announce the US has reached a “major trade deal” with a “highly respected country”, the US president said.\nMultiple media outlets in the US, including The New York Times, reported the deal was with the UK, citing people ... [1933 chars]",
       "tags": [
-        "foreign_policy",
-        "trade",
-        "economy_finance"
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
       ],
       "publishedAtTs": 1746658800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Carney achieved nothing of substance in Washington. But that’s okay",
+      "description": "U.S. President Donald Trump showed an uncharacteristic level of respect for consent of the governed and put a much friendlier face on potentially violating international law",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-carney-achieved-nothing-of-substance-in-washington-but-thats-okay/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ZHD6RUKLXBHYTGR3KZTLRODW4E.JPG?auth=c30244c81fbf2a8438d6658157d06ae25a2aaae4e1acd5fad92edfd6a14fbbd7&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-07T22:15:46Z",
+      "content": "Open this photo in gallery: This composite image shows Prime Minister Mark Carney, left, in Kitchener, Ont. on March 26, and U.S. President Donald Trump, right, in Washington, on March 26.The Canadian Press\nKevin Yin is a contributing columnist for T... [4317 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1746656146
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Sunoco’s bid for gas station operator Parkland fits Trump’s MAGA agenda",
+      "description": "Boardroom battle and tariff-battered stock opens door wide for cross-border takeover",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-sunocos-bid-for-gas-station-operator-parkland-fits-trumps-maga-agenda/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/EDS723SX2RF37HFQEJP35XAZ7Y.JPG?auth=75ed4971c72534cff25f66e95e3495f126d9e25233921b146db4466d60c6dbac&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-07T22:13:15Z",
+      "content": "Open this photo in gallery: A person fuels up their truck at an Ultramar gas station on Broadview Ave. in Toronto, on March 26, 2024.Fred Lum/The Globe and Mail\nFor Donald Trump, winning the trade war means striking deals along the lines of Sunoco LP... [4419 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746655995
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Donald Trump taps wellness influencer close to Robert F. Kennedy Jr. for surgeon general",
+      "description": "Casey Means has no government experience and dropped out of her surgical residency program, saying she became disillusioned with traditional medicine",
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-donald-trump-taps-wellness-influencer-close-to-robert-f-kennedy-jr-for/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/ZXYNL4SOINEL3NQJYL3NCP4X3E.jpg?auth=fbd7b301d9fb2883b5ecc7af54ea108073abccc1dc130e8802bb9b2ace641840&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-07T22:09:57Z",
+      "content": "Open this photo in gallery: U.S. President Donald Trump speaks after David Perdue was sworn in as U.S. Ambassador to China during a ceremony in the Oval Office of the White House, on May 7, in Washington.Mark Schiefelbein/The Canadian Press\nU.S. Pres... [6252 chars]",
+      "tags": [
+        "personnel"
+      ],
+      "publishedAtTs": 1746655797
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "FBI director says bureau needs more funding than what Trump administration budget proposal calls for",
+      "description": "WASHINGTON (AP) — FBI Director Kash Patel broke with the Trump administration Wednesday over a budget proposal that would dramatically slash funding for the bureau, telling lawmakers, “We need more",
+      "url": "https://www.thestar.com/news/world/united-states/fbi-director-says-bureau-needs-more-funding-than-what-trump-administration-budget-proposal-calls-for/article_6ab8a927-d1de-5575-8013-df3872bfdf8b.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/e8/4e883d74-0894-59f3-a1cd-62e9681109d1/681bd6b6e9e76.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-07T21:52:13Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "government_administration",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1746654733
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "What to know about the air traffic controller shortage",
+      "description": "The Trump administration is promising to fix the nationwide shortage of air traffic controllers after recent control tower mishaps and a string of crashes earlier this year.",
+      "url": "https://www.thestar.com/news/world/united-states/what-to-know-about-the-air-traffic-controller-shortage/article_37c6889a-14b1-5210-9533-9815843c29fe.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/60/460f4d60-83b0-5ac9-857c-de85f096a106/681bd6b4999a1.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-07T21:49:26Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "transportation"
+      ],
+      "publishedAtTs": 1746654566
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump administration cuts to AmeriCorps causing \"damage and chaos,\" groups say",
+      "description": "A CBS News review of the list of 1,000 terminated programs show that half are in red states.",
+      "url": "https://www.cbsnews.com/news/americorps-cuts-trump-administration-terminated-programs/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/05/07/73f5ad9e-3d0d-4e1c-995d-e56486716100/thumbnail/1200x630/91e98bf833cfecacf0f12064d6efb070/gettyimages-116977195.jpg?v=e61856d8e666e7ed5709adc37bb2d465",
+      "publishedAt": "2025-05-07T21:21:04Z",
+      "content": "Approximately half of the AmeriCorps programs terminated in a controversial decision by the Trump Administration are projects that serve states and communities President Trump won in the 2024 election, according to a review of the list of terminated ... [6810 chars]",
+      "tags": [
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746652864
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Verge"
+      },
+      "author": "The Verge",
+      "title": "Trump cuts Energy Star program that saved households $450 a year",
+      "description": "The Energy Star program, which shows you how much money an appliance will cost you to run, could be on its way out.",
+      "url": "https://www.theverge.com/news/662847/trump-ending-energy-star-program-could-cost-homeowners-450-annually",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-98071090.jpg?quality=90&strip=all&crop=0%2C11.063940796424%2C100%2C77.872118407152&w=1200",
+      "publishedAt": "2025-05-07T21:11:25Z",
+      "content": "is a smart home reporter who’s been testing connected gadgets since 2013. Previously a contributor to Wirecutter, Wired, Dwell, and US News.\nThe Trump administration is moving to shut down the Energy Star program, which saves homeowners an average of... [1925 chars]",
+      "tags": [
+        "energy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1746652285
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Judge says US must allow migrants a chance to challenge in court any deportations to Libya",
+      "description": "WASHINGTON (AP) — A federal judge on Wednesday found the Trump administration can’t deport migrants to Libya unless they have a meaningful chance to challenge their removal in court.",
+      "url": "https://www.thestar.com/news/world/united-states/judge-says-us-must-allow-migrants-a-chance-to-challenge-in-court-any-deportations-to/article_e56fc668-ec96-5886-8525-6cb7eb9cfce4.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+      "publishedAt": "2025-05-07T21:07:01Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1746652021
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BayToday"
+      },
+      "author": "BayToday",
+      "title": "VIDEO: Fedeli's strategy: Don't 'give oxygen' to Trump tariff talk",
+      "description": "Nipissing MPP Vic Fedeli touches on Trump's recent musings on film tariffs and speaks about the overall trade war situation with the United States",
+      "url": "https://www.baytoday.ca/local-news/video-fedelis-strategy-dont-give-oxygen-to-trump-tariff-talk-10626600",
+      "urlToImage": "https://www.vmcdn.ca/f/files/baytoday/images/politics/2025-05-07-vic-fedeli-campaigne.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-07T21:00:00Z",
+      "content": "Nipissing MPP Vic Fedeli touches on Trump's recent musings on film tariffs and speaks about the overall trade war situation with the United States\nOne day after he was mostly silent on the recent Trump film tariff threat, Nipissing MPP Vic Fedeli exp... [1145 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746651600
     }
   ]
 }

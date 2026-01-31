@@ -165,7 +165,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5972x3359+0+310/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Faf%2F32fcc52e419398dca8ab52c1d1be%2Fap25248787202750.jpg",
       "publishedAt": "2025-09-06T05:16:32Z",
       "content": "NEW YORK Carlos Alcaraz was about to start a series of TV interviews to discuss the way he used his youth, athleticism and creativity to beat the much more accomplished, but also much older, Novak Dj… [+4289 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1757135792
     },
     {
@@ -309,7 +311,11 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/melania-trump-artificial-intelligence-ai-event.jpg",
       "publishedAt": "2025-09-06T12:30:11Z",
       "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Google CEO, major tech leaders join first lady Melania Trump at White Hous… [+2828 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "media_communications",
+        "artificial_intelligence"
+      ],
       "publishedAtTs": 1757161811
     },
     {
@@ -362,7 +368,11 @@
       "urlToImage": "https://media.newyorker.com/photos/68bb4fb951522f6b23ad2e19/16:9/w_1280,c_limit/r47448.png",
       "publishedAt": "2025-09-06T10:00:00Z",
       "content": "Last month, Robert F. Kennedy, Jr., the Secretary of Health and Human Services, demanded that Susan Monarez, the newly confirmed director of the Centers for Disease Control and Prevention, fire senio… [+6536 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "policy_legislation",
+        "social_issues"
+      ],
       "publishedAtTs": 1757152800
     },
     {
@@ -377,7 +387,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/MkIYrrI7_UvVxTBSm25OLzlQSRg=/0x61:2876x1559/1200x625/media/img/mt/2025/09/2025_09_05_trump_crypto/original.jpg",
       "publishedAt": "2025-09-06T14:42:00Z",
       "content": "The Trumps have never been known for their subtlety: They like to do things fast, big, and loud. This is especially so in the context of cryptocurrency, a noisy and chaotic industry by nature. Rememb… [+5375 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1757169720
     },
     {
@@ -410,7 +422,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/N7afiJxIs9I5H3V0ShHpJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/340dd3b5e78f0350e258dd66c180bac9",
       "publishedAt": "2025-09-06T01:06:22Z",
       "content": "House Speaker Mike Johnson claimed President Donald Trump acted as an FBI informant on Jeffrey Epstein.\r\nJohnson was questioned Thursday by CNN reporter Manu Raju about how the president has been usi… [+3394 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
       "publishedAtTs": 1757120782
     },
     {
@@ -425,7 +440,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/DmXVNMfkRRVqGGDSJrAesB.jpg",
       "publishedAt": "2025-09-06T13:07:48Z",
       "content": "The US government could receive over $3 billion worth of AI assistance from Microsoft over the next year.\r\nEarlier this week, Microsoft and the US General Services Administration (GSA) jointly announ… [+6057 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1757164068
     },
     {
@@ -440,7 +459,11 @@
       "urlToImage": null,
       "publishedAt": "2025-09-06T04:37:53Z",
       "content": "I am pleased to announce the imminent publication of my latest book, Rewiring Democracy: How AI will Transform our Politics, Government, and Citizenship: coauthored with Nathan Sanders, and published… [+2200 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "social_issues",
+        "health_science"
+      ],
       "publishedAtTs": 1757133473
     },
     {
@@ -529,7 +552,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0be1/live/0e2b22a0-8b5e-11f0-b391-6936825093bd.jpg",
       "publishedAt": "2025-09-06T20:39:11Z",
       "content": "The television cameras were spoilt for choice.\r\nDuring injury hold-ups and TMO deliberations and there were plenty they could swivel into the stands to pick out a variety of famous faces.\r\nCatherine,… [+1947 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1757191151
     },
     {
@@ -580,7 +605,9 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/Alcaraz-Sinner-AFPjpg-1757160436_747ce9-1757160533.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-09-06T14:53:28Z",
       "content": "The latest chapter of arguably the most riveting rivalry in modern-day mens tennis is to unfold in New York when Carlos Alcaraz takes on Jannik Sinner in the final of the US Open 2025.\r\nFor the tenni… [+6012 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1757170408
     },
     {
@@ -1033,7 +1060,12 @@
       "urlToImage": null,
       "publishedAt": "2025-09-06T09:45:48Z",
       "content": "Yves here. Despite the enthusiasm over the recent SCO conference and the final cinching of the long-in-gestation Siberia 2 pipeline, getting the SCO and BRICS states enough on the same page to make a… [+10339 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "china",
+        "russia",
+        "international_organizations"
+      ],
       "publishedAtTs": 1757151948
     },
     {

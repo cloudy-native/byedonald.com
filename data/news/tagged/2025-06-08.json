@@ -288,7 +288,10 @@
       "urlToImage": "https://platform.theverge.com/wp-content/2025/06/trump-ai-initiative.jpg",
       "publishedAt": "2025-06-08T15:00:00Z",
       "content": "Following reports of an AI.gov website, Trump’s administration is exploring AI policies to enhance government efficiency, with a launch planned for July.",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "government_administration"
+      ],
       "publishedAtTs": 1749394800
     },
     {

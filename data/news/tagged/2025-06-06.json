@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -16,10 +16,7 @@
       "content": "Kilmar Abrego Garcia, previously deported to El Salvador, was flown back to the United States amid criminal charges related to transporting illegal immigrants within the country, according to Attorney General Pam Bondi. The Trump administration's han... [888 chars]",
       "tags": [
         "immigration",
-        "legal_justice",
-        "border_security",
-        "foreign_policy",
-        "regional_state"
+        "legal_justice"
       ],
       "publishedAtTs": 1749254309
     },
@@ -36,9 +33,9 @@
       "publishedAt": "2025-06-06T23:45:08Z",
       "content": "Donald Trump appeared in no mood to patch things up with former top adviser Elon Musk on Friday, doubling down on his new hostility towards the Tesla and Space X tycoon with a number of disparaging statements.\nThe US president appeared to deny report... [479 chars]",
       "tags": [
-        "media_communications",
-        "personal_family",
-        "security_intelligence"
+        "trump",
+        "republican_party",
+        "elections_politics"
       ],
       "publishedAtTs": 1749253508
     },
@@ -55,9 +52,8 @@
       "publishedAt": "2025-06-06T23:38:55Z",
       "content": "British Columbia has launched a six-week, $5-million campaign of targeted advertisements to recruit doctors and nurses in the United States, citing \"chaos\" under the Trump administration to lure them north.\nBritish Columbia has launched a six-week, $... [2945 chars]",
       "tags": [
-        "foreign_policy",
-        "healthcare",
-        "labor"
+        "immigration",
+        "healthcare"
       ],
       "publishedAtTs": 1749253135
     },
@@ -74,11 +70,7 @@
       "publishedAt": "2025-06-06T23:36:01Z",
       "content": "Leader of Opposition in Lok Sabha Rahul Gandhi Friday while targeting Prime Minister Narendra Modi claimed that US President Donald Trump has repeated “11 times that he compelled him (the PM) to surrender”, referring to a ceasefire understanding with... [1099 chars]",
       "tags": [
-        "foreign_policy",
-        "asia_pacific",
-        "government_administration",
-        "policy_legislation",
-        "elections_politics"
+        "foreign_policy"
       ],
       "publishedAtTs": 1749252961
     },
@@ -95,9 +87,8 @@
       "publishedAt": "2025-06-06T23:33:38Z",
       "content": "In Brief\nPresident Donald Trump signed an executive order Friday that directs the Federal Aviation Administration to lift the 52-year ban on supersonic flight over U.S. soil, marking a major policy shift that occurred just weeks after lawmakers intro... [1209 chars]",
       "tags": [
-        "government_administration",
-        "transportation",
-        "executive_orders"
+        "executive_orders",
+        "transportation"
       ],
       "publishedAtTs": 1749252818
     },
@@ -114,10 +105,8 @@
       "publishedAt": "2025-06-06T23:23:50Z",
       "content": "A federal appeals court is allowing the Trump White House to ban the Associated Press from the Oval Office and other restricted spaces for now in a ruling that blocked a lower court's ruling that claimed the ban was unconstitutional.\nIn a 2-1 order, ... [2403 chars]",
       "tags": [
-        "press_relations",
-        "media_criticism",
         "legal_justice",
-        "security_intelligence"
+        "press_relations"
       ],
       "publishedAtTs": 1749252230
     },
@@ -135,8 +124,8 @@
       "content": "“I hope he does well with Tesla,” Trump said.\nAddressing reporters aboard Air Force One, Trump said he wasn’t “thinking about” the Tesla CEO.\nWashington: U.S. President Donald Trump said on Friday that he has no plans to speak with Elon Musk, signali... [5273 chars]",
       "tags": [
         "economy_finance",
-        "foreign_policy",
-        "media_communications"
+        "trade",
+        "legal_justice"
       ],
       "publishedAtTs": 1749251702
     },
@@ -154,8 +143,7 @@
       "content": "Republicans fearful about potential consequences of a prolonged feud between US President Donald Trump and Elon Musk are urging the pair to call a truce.\nAt a minimum, the explosion of animosity between the two powerful men could complicate the path ... [3762 chars]",
       "tags": [
         "elections_politics",
-        "media_communications",
-        "personal_family"
+        "republican_party"
       ],
       "publishedAtTs": 1749250800
     },
@@ -172,9 +160,8 @@
       "publishedAt": "2025-06-06T23:00:00Z",
       "content": "US President Donald Trump said he has no desire to repair his relationship with Elon Musk, and warned that his former ally and campaign benefactor could face “serious consequences” if he tries to help Democrats in upcoming elections.\nMr Trump told NB... [4258 chars]",
       "tags": [
-        "government_administration",
         "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1749250800
     },
@@ -192,12 +179,175 @@
       "content": "Donald Trump said on Saturday there would be \"serious consequences\" if Elon Musk funds US Democrats running against Republicans who vote for the president's sweeping tax-cut and spending bill and said his relationship with his billionaire donor is ov... [1935 chars]",
       "tags": [
         "elections_politics",
-        "political_endorsements",
-        "foreign_policy",
-        "security_intelligence",
-        "government_administration"
+        "campaign_finance"
       ],
       "publishedAtTs": 1749250800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Trump can block AP from White House events for now, U.S. appeals court rules",
+      "description": "The White House had restricted the AP’s access over its choice to continue referring to the Gulf of Mexico instead of the Gulf of America",
+      "url": "https://www.theglobeandmail.com/business/article-trump-associated-press-restricted-gulf-of-america/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/E5IVKCBSP5FZJKILJC4L5KVFHE.jpg?auth=d9e4858e2d1bd73d8d6cbdf0fb19d7685476c24990b731abe4d29010c7d96e7f&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-06-06T22:49:59Z",
+      "content": "Open this photo in gallery: The Associated Press office in New York in 2023. A U.S. appeals court on Friday paused a lower court ruling mandating that AP journalists be given access to White House media events.Aaron Jackson/The Canadian Press\nPreside... [3140 chars]",
+      "tags": [
+        "media_communications",
+        "press_relations"
+      ],
+      "publishedAtTs": 1749250199
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SooToday"
+      },
+      "author": "SooToday",
+      "title": "How Trump's tariffs on Algoma Steel directly affect his frenemy Elon Musk",
+      "description": "Tesla's Model 3 is made with Algoma Steel, the Sault steelmaker disclosed this week",
+      "url": "https://www.sootoday.com/local-news/how-trumps-tariffs-on-algoma-steel-directly-affect-his-frenemy-elon-musk-10772172",
+      "urlToImage": "https://www.vmcdn.ca/f/files/sootoday/images/business/algoma-steel/img_4334.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-06T22:45:00Z",
+      "content": "Tesla's Model 3 is made with Algoma Steel, the Sault steelmaker disclosed this week\nIntentionally or otherwise, U.S. President Donald Trump's 50 per cent tariffs on Canadian steel are causing discomfort to Elon Musk's Tesla Inc.\nIn a sustainability r... [2833 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "automotive"
+      ],
+      "publishedAtTs": 1749249900
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US supreme court rules Doge can access social security data during legal challenge",
+      "description": "Key player in Trump’s drive to slash federal workforce keeps access to sensitive records including family court and mental health records",
+      "url": "https://www.theguardian.com/us-news/2025/jun/06/supreme-court-doge-data",
+      "urlToImage": "https://i.guim.co.uk/img/media/04021d9d63de634cbdbc2216c2825b80fe886d0c/0_0_2776_2221/master/2776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bda5e45079e074c61e572cf5457e3786",
+      "publishedAt": "2025-06-06T22:36:15Z",
+      "content": "The US supreme court on Friday allowed members of the so-called “department of government efficiency” (Doge) to access the sensitive records kept by the Social Security Administration while legal challenges play out.\nThe conservative-majority court, ... [3530 chars]",
+      "tags": [
+        "legal_justice",
+        "social_security"
+      ],
+      "publishedAtTs": 1749249375
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Mercury News"
+      },
+      "author": "The Mercury News",
+      "title": "Supreme Court allows DOGE team to access Social Security systems with data on millions of Americans",
+      "description": "The Supreme Court handed the Trump administration two victories Friday in cases involving the Department of Government Efficiency, including giving it access to Social Security systems containing personal data on millions of Americans.",
+      "url": "https://www.mercurynews.com/2025/06/06/supreme-court-allows-doge-team-to-access-social-security-systems-with-data-on-millions-of-americans/",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/06/AP_Poll_Social_Security_60686-1.jpg?w=1024&h=683",
+      "publishedAt": "2025-06-06T22:34:48Z",
+      "content": "WASHINGTON (AP/By LINDSAY WHITEHURST) — The Supreme Court handed the Trump administration two victories Friday in cases involving the Department of Government Efficiency, including giving it access to Social Security systems containing personal data ... [4636 chars]",
+      "tags": [
+        "legal_justice",
+        "social_security",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1749249288
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Huffington Post"
+      },
+      "author": "The Huffington Post",
+      "title": "Political Historian Weighs In On Trump And Musk's Public Feud",
+      "description": "A political historian weighs in on what's most troubling about the way the president and Tesla CEO's explosive breakup played out on social media.",
+      "url": "https://www.huffpost.com/entry/donald-trump-elon-musk-feud-experts_l_684328dce4b04a6fce061e3e",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6843449119000001bf2702b1.jpeg?cache=vEsOwBPdb2&ops=1200_630",
+      "publishedAt": "2025-06-06T22:10:32Z",
+      "content": "LOADING ERROR LOADING\nPresident Donald Trump and Elon Musk’s public breakup broke the internet this week, sparking several concerns and questions about the two most powerful men in the world, a political historian says.\nWhat began earlier this week a... [5096 chars]",
+      "tags": [
+        "trump",
+        "media_communications",
+        "social_media"
+      ],
+      "publishedAtTs": 1749247832
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Enrique Tarrio and other freed January 6 convicts sue over prosecutions",
+      "description": "Ex-leader of far-right Proud Boys and three others whom Trump gave pardons or commutations sue government",
+      "url": "https://www.theguardian.com/us-news/2025/jun/06/january-6-enrique-tarrio-lawsuit",
+      "urlToImage": "https://i.guim.co.uk/img/media/b20735a62a60f3cc2cf29efed8d5e78e0f677401/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19fc4bc1f6b9679edd8da2143af66b5e",
+      "publishedAt": "2025-06-06T21:52:53Z",
+      "content": "Enrique Tarrio, the former national leader of the far-right Proud Boys group, and four other members convicted of orchestrating the deadly 6 January 2021 US Capitol attack are suing the federal government for allegedly violating their rights.\nA lawsu... [4441 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1749246773
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump-Musk spat could cost the billionaire billions",
+      "description": "The world’s richest man could lose billions in his fight with world’s most powerful politician.",
+      "url": "https://www.cp24.com/news/world/2025/06/06/musk-could-lose-billions-of-dollars-depending-on-how-spat-with-trump-unfolds/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/P5XKCSYRJVSYYTRCUSBWAIF7EM.jpg?smart=true&auth=874daa026032e7f901bfa8a2fea5345d77c92e5748fad6eae78f4da30fcfaf17&width=1200&height=630",
+      "publishedAt": "2025-06-06T21:49:12Z",
+      "content": "Republican presidential nominee former President Donald Trump, left, claps as Tesla and SpaceX CEO Elon Musk prepares to depart after a campaign event at the Butler Farm Show on Oct. 5, 2024, in Butler, Pa. (AP Photo/Alex Brandon, File)\nNEW YORK — Th... [6477 chars]",
+      "tags": [
+        "economy_finance",
+        "personal_family"
+      ],
+      "publishedAtTs": 1749246552
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox.com"
+      },
+      "author": "Vox.com",
+      "title": "Elon Musk and Donald Trump’s fallout, explained",
+      "description": "Why Elon Musk and Donald trump are feuding, and what that means for the rest of the country",
+      "url": "https://www.vox.com/politics/415872/elon-musk-and-donald-trumps-fallout-explained",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2217852297.jpg?quality=90&strip=all&crop=0%2C10.72814189392%2C100%2C78.543716212159&w=1200",
+      "publishedAt": "2025-06-06T21:48:52Z",
+      "content": "President Donald Trump and Elon Musk have quickly turned on each other in a very public and bitter feud. Their split isn’t just personal, but has major implications for the rest of the country, with Musk now strongly opposing Trump’s “big, beautiful ... [574 chars]",
+      "tags": [
+        "personal_activities",
+        "trump"
+      ],
+      "publishedAtTs": 1749246532
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Kilmar Abrego Garcia returned to the US, charged with transporting people in the country illegally",
+      "description": "WASHINGTON (AP) — Kilmar Abrego Garcia , whose mistaken deportation to El Salvador became a political flashpoint in the Trump administration's stepped-up immigration enforcement , was returned to the United States on Friday to face criminal charges r",
+      "url": "https://www.vancouverisawesome.com/world-news/kilmar-abrego-garcia-returned-to-the-us-charged-with-transporting-people-in-the-country-illegally-10774646",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/06/d73da3f8074e098851c7f171adefac6d9d2cf5837d07c56cff0be879148ac2fd.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-06T21:23:06Z",
+      "content": "WASHINGTON (AP) — Kilmar Abrego Garcia , whose mistaken deportation to El Salvador became a political flashpoint in the Trump administration's stepped-up immigration enforcement , was returned to the United States on Friday to face criminal charges r... [6100 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1749244986
     }
   ]
 }

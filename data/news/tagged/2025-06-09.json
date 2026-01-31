@@ -1,108 +1,367 @@
 {
   "status": "ok",
-  "totalResults": 3847,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
-        "id": "washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "The Guardian"
       },
-      "author": "Tyler Pager",
-      "title": "Trump threatens arrest of California Gov. Newsom amid Los Angeles protests",
-      "description": "President Trump suggested he would support arresting California Gov. Gavin Newsom for allegedly obstructing ICE operations, as protests over immigration raids continue in Los Angeles with National Guard deployment.",
-      "url": "https://www.washingtonpost.com/politics/2025/06/09/gavin-newsom-trump-los-angeles-protests/",
-      "publishedAt": "2025-06-09T18:45:23Z",
-      "content": "President Donald Trump threatened California Gov. Gavin Newsom's arrest Monday, prompting Newsom to accuse Trump of taking a step toward authoritarianism as protests over immigration enforcement cont... [+3892 chars]",
+      "author": "The Guardian",
+      "title": "Trump news at a glance: president ratchets up threats, troop deployment amid LA protests",
+      "description": "Protests showed no signs of stopping, as families of detained immigrants pleaded for their loved ones to be released – key US politics stories from 9 June",
+      "url": "https://www.theguardian.com/us-news/2025/jun/10/trump-administration-news-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/e0acd55729639d35f653e3dba7b7d45892239064/992_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=81c928ad27527a864d622aa277eba07a",
+      "publishedAt": "2025-06-09T23:57:23Z",
+      "content": "Los Angeles is facing the fourth day of protests as anger has grown in the city about president Donald Trump’s immigration crackdown, and his decision to deploy the national guard to quell the protests against it.\nProtests showed no signs of stopping... [336 chars]",
       "tags": [
         "immigration",
-        "criminal_cases",
+        "protests",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1749513443
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "A Crossroads of Governance: U.S. Policies and Reactions",
+      "description": "Recent U.S. domestic developments see various governmental bodies responding to policy decisions and incidents. The SEC aligns with federal cuts, United Natural Foods manages a cyber disruption, and the EPA grants Texas CO2 oversight. Meanwhile, Trump's immigration crackdown sparks controversy, and an NIH funding rebuke is issued by scientists.",
+      "url": "https://www.devdiscourse.com/article/law-order/3453079-a-crossroads-of-governance-us-policies-and-reactions",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_06_2025_23_55_13_2335885.png?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T23:55:13Z",
+      "content": "The latest in U.S. domestic news reveals significant developments across multiple sectors. The Securities and Exchange Commission (SEC) is aligning with federal mandates for workforce reductions, as communicated in March to the White House. This is i... [705 chars]",
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "legal_justice",
+        "economy_finance",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1749513313
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Independence on Trial: FTC Challenges Highlight Supreme Court Precedent",
+      "description": "Alvaro Bedoya, a former Democratic commissioner of the FTC, has resigned amid ethical concerns but continues to challenge his dismissal by former President Trump. The case, alongside others, questions the precedent that protects independent agencies from presidential control, potentially affecting numerous regulatory bodies across sectors.",
+      "url": "https://www.devdiscourse.com/article/law-order/3453073-independence-on-trial-ftc-challenges-highlight-supreme-court-precedent",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_06_33_8443168.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T23:44:41Z",
+      "content": "Alvaro Bedoya, one of the two Democratic commissioners at the Federal Trade Commission (FTC), has announced his resignation. This decision comes as he continues to challenge his dismissal by former President Donald Trump, claiming it defies ethics ru... [876 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1749512681
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liverpool Echo"
+      },
+      "author": "Liverpool Echo",
+      "title": "Foreign Office issues urgent update to travellers amid Los Angeles protests",
+      "description": "It comes as President Donald Trump has been branded a 'stone-cold liar' by California Governor, Gavin Newsom",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/foreign-office-issues-urgent-update-31820545",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/article31820825.ece/ALTERNATES/s1200/0_GettyImages-2218555948.jpg",
+      "publishedAt": "2025-06-09T23:43:00Z",
+      "content": "Foreign Office issues urgent update to travellers amid Los Angeles protests\nIt comes as President Donald Trump has been branded a 'stone-cold liar' by California Governor, Gavin Newsom\nBrits are being urged to exercise caution if travelling to LA (Im... [3130 chars]",
+      "tags": [
+        "foreign_policy",
+        "protests",
+        "media_communications"
+      ],
+      "publishedAtTs": 1749512580
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GuelphToday"
+      },
+      "author": "GuelphToday",
+      "title": "Pentagon deploys 700 Marines to Los Angeles to respond to immigration protests",
+      "description": "LOS ANGELES (AP) — The Pentagon deployed about 700 Marines to Los Angeles on Monday to help National Guard members respond to immigration protests, officials said, as California prepared to sue President Donald Trump over his use of the Guard troops",
+      "url": "https://www.guelphtoday.com/world-news/pentagon-deploys-700-marines-to-los-angeles-to-respond-to-immigration-protests-10779676",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/06/969683feafef1c11e3a77321455162a04b66a293f8cb30e2e9c9709a26e15eaa.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-09T23:30:38Z",
+      "content": "LOS ANGELES (AP) — The Pentagon deployed about 700 Marines to Los Angeles on Monday to help National Guard members respond to immigration protests, officials said, as California prepared to sue President Donald Trump over his use of the Guard troops ... [7238 chars]",
+      "tags": [
+        "security_intelligence",
+        "immigration",
         "military"
       ],
-      "publishedAtTs": 1749494723
+      "publishedAtTs": 1749511838
     },
     {
       "source": {
-        "id": "abc-news",
-        "name": "ABC News"
+        "id": null,
+        "name": "Devdiscourse"
       },
-      "author": "Selina Wang",
-      "title": "'Acts of a dictator': Newsom lashes out at Trump after arrest threat",
-      "description": "California Gov. Gavin Newsom fired back at President Trump after the president endorsed his potential arrest, calling Trump's actions dictatorial as Los Angeles protests over ICE raids enter their fourth day.",
-      "url": "https://abcnews.go.com/Politics/war-words-trump-newsom-la-protests-escalates-arrest/story?id=122662589",
-      "publishedAt": "2025-06-09T17:32:18Z",
-      "content": "President Donald Trump and California Gov. Gavin Newsom exchanged words on Monday over protests in Los Angeles over the federal government's immigration raids. Earlier Monday, arriving back at the Wh... [+2847 chars]",
+      "author": "Devdiscourse",
+      "title": "California Challenges Trump's National Guard Deployment Amid Protest",
+      "description": "President Trump ordered the deployment of the National Guard to California following immigration protests, citing a 'rebellion.' California sued, stating the deployment without the governor's consent violates federal law. The state argues the situation doesn't meet Title 10's requirements. Legal experts question the move's legality.",
+      "url": "https://www.devdiscourse.com/article/law-order/3453068-california-challenges-trumps-national-guard-deployment-amid-protest",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/08_06_2025_02_57_48_3239534.png?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T23:26:41Z",
+      "content": "In a controversial decision, President Donald Trump has ordered the deployment of National Guard troops to California in response to recent protests against immigration raids. Framing the demonstrations as a potential 'rebellion,' Trump invoked Title... [724 chars]",
       "tags": [
-        "immigration",
-        "criminal_cases"
-      ],
-      "publishedAtTs": 1749490338
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Priscilla Alvarez, Arlette Saenz",
-      "title": "Trump doubles National Guard deployment to 4,000 troops as LA protests intensify",
-      "description": "President Trump authorized an additional 2,000 National Guard members and 700 Marines to Los Angeles as protests against immigration raids continued Monday, while California Gov. Newsom filed a lawsuit challenging the federal takeover.",
-      "url": "https://www.cnn.com/us/live-news/la-protests-ice-raids-trump-06-09-25",
-      "publishedAt": "2025-06-09T22:15:47Z",
-      "content": "Protesters and police are still facing off in Los Angeles, and anti-ICE protests have occurred across the country. Approximately 1,700 National Guard members are now operating in the greater Los An... [+2934 chars]",
-      "tags": [
-        "immigration",
-        "military",
-        "civil_litigation"
-      ],
-      "publishedAtTs": 1749507347
-    },
-    {
-      "source": {
-        "id": "ap",
-        "name": "Associated Press"
-      },
-      "author": "Jill Colvin, Julie Watson",
-      "title": "Trump pushes ahead with deportations in face of LA protests",
-      "description": "President Donald Trump is moving swiftly to act on his immigration promises with little internal restraint, determined to test the bounds of his executive authority as protests rage in Los Angeles over federal immigration raids.",
-      "url": "https://apnews.com/article/donald-trump-california-immigration-customs-enforcement-newsom-0482a8935419d88986b890b18db5cc03",
-      "publishedAt": "2025-06-09T14:28:09Z",
-      "content": "President Donald Trump is moving swiftly to act on his immigration promises with little internal restraint, determined to test the bounds of his executive authority in order to fulfill the promises o... [+4673 chars]",
-      "tags": [
+        "legal_justice",
+        "security_intelligence",
         "immigration"
       ],
-      "publishedAtTs": 1749479289
+      "publishedAtTs": 1749511601
     },
     {
       "source": {
-        "id": "npr",
-        "name": "NPR"
+        "id": null,
+        "name": "The Guardian"
       },
-      "author": "Ailsa Chang",
-      "title": "Why Trump's deployment of the National Guard to LA is unprecedented, according to a general",
-      "description": "Retired Illinois National Guard General William Enyart calls Trump's decision to federalize California's National Guard without the governor's consent 'unprecedented' and legally questionable.",
-      "url": "https://www.npr.org/2025/06/09/nx-s1-5427233/trump-guard-deployment-unprecedented-los-angeles-william-enyart",
-      "publishedAt": "2025-06-09T20:43:55Z",
-      "content": "They've thrown the entire playbook out, says a retired general on Trump's National Guard deployment Most National Guard troops are trained for natural disasters, not protests, Enyart explains. Missi... [+3156 chars]",
+      "author": "The Guardian",
+      "title": "‘Kidnapped’: families and lawyers desperate to contact LA workers arrested in Ice raids",
+      "description": "As many demand the release of loved ones, Trump’s ‘border czar’ admits some were arrested without criminal records",
+      "url": "https://www.theguardian.com/us-news/2025/jun/09/los-angeles-immigration-raids-detained",
+      "urlToImage": "https://i.guim.co.uk/img/media/d2ecb67be6679b18ec244d54857540edb39937e6/696_0_6425_5142/master/6425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6df5fa5324572e1b6eb3888ae7b97ea2",
+      "publishedAt": "2025-06-09T23:26:25Z",
+      "content": "Gabriel says he has not been able to speak to his brother Jacob, since Jacob was arrested in a raid by armed immigration officials and federal agents on the Ambiance Apparel warehouse in the Los Angeles fashion district on Friday.\nYurien Contreras do... [5673 chars]",
       "tags": [
-        "military"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
-      "publishedAtTs": 1749501835
+      "publishedAtTs": 1749511585
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "Sky News"
       },
-      "author": "Jacob Soboroff, Yamiche Alcindor",
-      "title": "California Gov. Gavin Newsom unfazed by threats of arrest from Trump administration",
-      "description": "Gov. Gavin Newsom pushed back against arrest threats from Trump officials, telling border czar Tom Homan to 'arrest me' if he wants to, as protests continue in Los Angeles over immigration enforcement.",
-      "url": "https://www.nbcnews.com/politics/immigration/californias-governor-unfazed-threats-arrest-trump-administratio-rcna211752",
-      "publishedAt": "2025-06-09T19:22:14Z",
-      "content": "California Gov. Gavin Newsom pushed back against threats of arrest by Trump administration officials, remaining defiant as he oversees clashes between law enforcement agents and protesters in respon... [+3784 chars]",
+      "author": "Sky News",
+      "title": "Los Angeles live: Hundreds of marines to be deployed to LA - as California prepares to sue Trump government",
+      "description": "More protests are planned in LA today, demanding the end of ICE immigration raids. Donald Trump's government has controversially deployed the National Guard - prompting California to sue his administration - while the Pentagon is to deploy 700 marines. Follow the latest below.",
+      "url": "https://news.sky.com/story/los-angeles-live-national-guard-troops-arrive-on-trumps-orders-to-quell-immigration-protests-13380863",
+      "urlToImage": "https://e3.365dm.com/25/06/1600x900/skynews-donald-trump-rally_6937814.jpg?20250609214316",
+      "publishedAt": "2025-06-09T23:26:00Z",
+      "content": "Governor raises questions over mobilisation of marines\nGovernor Gavin Newsom's office has raised questions over the mobilisation of marines in Los Angeles.\nWe reported earlier - see our 21.09 post - on the reports that marines were being readied for ... [1154 chars]",
       "tags": [
         "immigration",
+        "protests",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1749511560
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Deployment of National Guard in Los Angeles: A Historical Pattern of Civil Unrest Response",
+      "description": "President Donald Trump's decision to deploy the National Guard to Los Angeles marks another instance of using military force to quell civil unrest. Historically, such deployments have occurred during major civil rights movements. However, Trump's federalisation of troops has sparked legal debates and raised concerns over escalating tensions.",
+      "url": "https://www.devdiscourse.com/article/law-order/3453066-deployment-of-national-guard-in-los-angeles-a-historical-pattern-of-civil-unrest-response",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/09_06_2025_14_50_31_6478023.png?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T23:14:52Z",
+      "content": "President Donald Trump's deployment of the National Guard to Los Angeles to contain protests against his immigration policies echoes past actions by U.S. authorities during civil unrest.\nTypically, National Guard troops are deployed with state govern... [541 chars]",
+      "tags": [
+        "security_intelligence",
+        "protests",
+        "immigration"
+      ],
+      "publishedAtTs": 1749510892
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "LA cleans up and protests some more after weekend of defiance against Trump",
+      "description": "Cleaners remove graffiti and burned cars after mostly peaceful protests that saw some vandalism and violence",
+      "url": "https://www.theguardian.com/us-news/2025/jun/09/los-angeles-trump-protests-dispatch",
+      "urlToImage": "https://i.guim.co.uk/img/media/9c75637ffb28d46555198cccf1bb3d34ba610554/409_0_4110_3288/master/4110.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17b3a9420d879e55dba16e135b0b890f",
+      "publishedAt": "2025-06-09T23:14:07Z",
+      "content": "Outside the federal courthouse complex in downtown Los Angeles on Monday morning, two cleaners carrying bins on wheels looked uncertainly at the daunting task in front of them – long walls in several directions covered in spray-painted graffiti after... [3565 chars]",
+      "tags": [
+        "protests",
+        "social_issues"
+      ],
+      "publishedAtTs": 1749510847
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Unprecedented Deployment: Trump's Immigration Crackdown Ignites Tensions in California",
+      "description": "Former President Donald Trump has deployed National Guard troops in Los Angeles to uphold his immigration policies, escalating tensions with local leaders. Despite protests, Trump remains steadfast, aiming for large-scale deportations, raising questions about his executive power and the future of immigration enforcement.",
+      "url": "https://www.devdiscourse.com/article/politics/3453063-unprecedented-deployment-trumps-immigration-crackdown-ignites-tensions-in-california",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/09_06_2025_11_32_42_3433389.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T23:04:58Z",
+      "content": "Donald Trump has taken significant measures to enforce his immigration policies by deploying hundreds of National Guard troops in Los Angeles. This move, met with opposition from state and city officials, aims to manage protests triggered by immigrat... [703 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1749510298
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "US marines deployed to LA have not yet responded to immigration protests",
+      "description": "The troops are only in the city to protect federal property, officials said, as President Donald Trump clamped down on immigration protests.",
+      "url": "https://www.breakingnews.ie/world/us-marines-deployed-to-la-have-not-yet-responded-to-immigration-protests-1771944.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDZcXFwvMTAxODI2NTFcXFwvNjFjZWY5ZDU4YTQ3NDRkMTllMWUzNjgwZWIxYmI3NjUtMi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImZhZTU5YzViMzg5ZWM3ZjJkOTFkNGU4NGI3MTRhN2NkYWE4MzlkNDcifQ==/us-marines-deployed-to-la-have-not-yet-responded-to-immigration-protests.jpg",
+      "publishedAt": "2025-06-09T23:00:00Z",
+      "content": "US marines that deployed to Los Angeles on orders from President Donald Trump have not yet been called to respond to the city’s immigration protests and are there only to protect federal officials and property, a commander said.\nThe 700 marines and a... [6096 chars]",
+      "tags": [
+        "security_intelligence",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1749510000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump orders marines into LA, steps up immigration raids",
+      "description": "The Trump administration has ordered US marines into Los Angeles and intensified raids on suspected undocumented immigrants, fuelling more outrage from street protesters and Democratic leaders who raised concerns over a national crisis.",
+      "url": "https://www.rte.ie/news/us/2025/0610/1517600-los-angeles-protests/",
+      "urlToImage": "https://www.rte.ie/images/0022b072-1600.jpg",
+      "publishedAt": "2025-06-09T23:00:00Z",
+      "content": "The Trump administration has ordered US marines into Los Angeles and intensified raids on suspected undocumented immigrants, fuelling more outrage from street protesters and Democratic leaders who raised concerns over a national crisis.\nSome 700 mari... [6012 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1749510000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Ontario, Nova Scotia premiers say they won’t follow Alberta in buying U.S. alcohol again",
+      "description": "The provinces want to maintain pressure on the Trump administration to lift tariffs on Canadian imports",
+      "url": "https://www.theglobeandmail.com/investing/personal-finance/article-ontario-nova-scotia-premiers-say-they-wont-follow-alberta-in-buying-us/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/MIEC27DEWBEVVGG7EB25FTCH3Y.JPG?auth=279ed6587076af901a0b5899d50b51cd36155f4e970d97b9e8d788c94f1aef27&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-06-09T22:54:51Z",
+      "content": "Open this photo in gallery: Ontario Premier Doug Ford, right, and Nova Scotia Premier Tim Houston said on Monday their provinces would not follow Alberta's lead on the sale of U.S. alcohol.Fred Lum/The Globe and Mail\nOntario Premier Doug Ford said on... [2781 chars]",
+      "tags": [
+        "trade",
+        "canada"
+      ],
+      "publishedAtTs": 1749509691
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Why Trump can hold firm on immigration despite unrest",
+      "description": "The developing situation in California looks ugly from afar. But one leading expert based in Los Angeles sniffs a Trump pivot that’s good news for investors.",
+      "url": "https://www.afr.com/chanticleer/this-strategist-thinks-the-la-riots-may-actually-be-very-bullish-20250610-p5m655",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5712%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/be60435b63df2eb31ed36b6953f7092e6e5aabca",
+      "publishedAt": "2025-06-09T22:51:30Z",
+      "content": "US Marines head for downtown Los Angeles in a once-in-a-lifetime show of White House force. President Donald Trump threatens to arrest the governor of America’s largest state, who has just sued the federal government. And the pictures of violence kee... [416 chars]",
+      "tags": [
+        "immigration",
+        "security_intelligence",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1749509490
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "President Donald Trump pushes ahead with his maximalist immigration campaign in face of LA protests",
+      "description": "WASHINGTON (AP) — Donald Trump made no secret of his willingness to exert a maximalist approach to enforcing immigration laws and keeping order as he campaigned to return to the",
+      "url": "https://www.thestar.com/news/world/united-states/president-donald-trump-pushes-ahead-with-his-maximalist-immigration-campaign-in-face-of-la-protests/article_32127764-664a-5e77-8262-a498286673af.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4f/54f7e3c8-d0d2-54b6-b539-fe2edb123ca2/68476647e7c56.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-06-09T22:50:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "immigration",
+        "elections_politics",
+        "protests"
+      ],
+      "publishedAtTs": 1749509400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "ABC News staffers 'pissed' at Terry Moran over 'stupid' verbal assault on Trump aide Stephen Miller",
+      "description": "ABC News staffers are \"pissed\" at Terry Moran and some are calling for his head after he blasted Trump aide Stephen Miller as a “world class hater,” The Post has learned.",
+      "url": "https://nypost.com/2025/06/09/media/abc-news-staffers-pissed-at-terry-moran-over-stupid-verbal-assault-on-trump-aide-stephen-miller/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/106189526.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-09T22:36:15Z",
+      "content": "ABC News staffers are “pissed” at Terry Moran and some are calling for his head after he blasted Trump aide Stephen Miller as a “world class hater,” The Post has learned.\nMoran’s diatribe on social media over the weekend, which he has since deleted, ... [5076 chars]",
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1749508575
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Marines Deployed amid LA Protests over Trump Policies",
+      "description": "In response to street protests in Los Angeles over aggressive immigration policies, President Trump has ordered the temporary deployment of 700 Marines. This decision, coupled with the activation of the National Guard, has sparked tension, with Democrats accusing Trump of unnecessary escalation and abuse of presidential power.",
+      "url": "https://www.devdiscourse.com/article/law-order/3453050-marines-deployed-amid-la-protests-over-trump-policies",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/11_04_2025_05_59_21_6046842.png?width=920&format=jpeg",
+      "publishedAt": "2025-06-09T22:32:04Z",
+      "content": "President Donald Trump has taken a decisive step by temporarily deploying approximately 700 Marines to Los Angeles, in addition to activating the National Guard amid rising tensions over his immigration policies. This move marks a significant escalat... [790 chars]",
+      "tags": [
+        "security_intelligence",
+        "immigration",
+        "protests",
+        "government_administration"
+      ],
+      "publishedAtTs": 1749508324
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Oklahoma judge stays execution of a man set to receive lethal injection this week",
+      "description": "OKLAHOMA CITY (AP) — An Oklahoma judge granted a temporary stay of execution Monday to a man whose transfer to death row was expedited by the Trump administration and who was scheduled to receive a lethal injection on Thursday.",
+      "url": "https://www.vancouverisawesome.com/world-news/oklahoma-judge-stays-execution-of-a-man-set-to-receive-lethal-injection-this-week-10784693",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/06/56299b9199094f3ed1431cb303b1ab719765d23c944c7136e90adf2790aa6d0a.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-06-09T22:27:33Z",
+      "content": "OKLAHOMA CITY (AP) — An Oklahoma judge granted a temporary stay of execution Monday to a man whose transfer to death row was expedited by the Trump administration and who was scheduled to receive a lethal injection on Thursday.\nOKLAHOMA CITY (AP) — A... [932 chars]",
+      "tags": [
+        "legal_justice",
         "criminal_cases"
       ],
-      "publishedAtTs": 1749496934
+      "publishedAtTs": 1749508053
     }
   ]
 }

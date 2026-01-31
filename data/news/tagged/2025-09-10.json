@@ -199,7 +199,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a510/live/2f9946e0-8e44-11f0-9cf6-cbf3e73ce2b9.jpg",
       "publishedAt": "2025-09-10T14:06:03Z",
       "content": "The Qatari capital, Doha, is back to normal today, with traffic moving on the highways, and skyscrapers shimmering in the heat.\r\nBut there are new tensions across the Middle East, and a key question … [+2619 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
       "publishedAtTs": 1757513163
     },
     {
@@ -592,7 +595,11 @@
       "urlToImage": "https://media.zenfs.com/en/deseret_news_992/c5aeb7e9b3a7f3d5e10b7bc8c96397a5",
       "publishedAt": "2025-09-10T15:02:12Z",
       "content": "We explore the potential fissures in the Republican party, examining their implications both nationally and in Utah.\r\nThe Utah Legislature is dealing with some harsh blows from the courts, the most r… [+5471 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "redistricting",
+        "republican_party"
+      ],
       "publishedAtTs": 1757516532
     },
     {
@@ -1021,7 +1028,10 @@
       "urlToImage": "https://media.newyorker.com/photos/68c07bb53c0e8f77ce849749/16:9/w_1280,c_limit/NewYorker_Sectarian_Final.jpg",
       "publishedAt": "2025-09-10T10:00:00Z",
       "content": "On September 1st, the author and statistician Nate Silver wrote a post on X diagnosing a new condition: Blueskyism, so named for the decentralized social network that has emerged as a competitor to w… [+6073 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
       "publishedAtTs": 1757498400
     },
     {
@@ -1242,7 +1252,10 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Googles-Gemini-smart-home-plans-really-pile-pressure-onto-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-09-10T23:41:29Z",
       "content": "Politico has published an extensive report claiming that, following Trumps election, Apple changed its AI training guidelines on issues such as DEI, vaccines, elections, and Trump himself. Here are t… [+3547 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "social_issues"
+      ],
       "publishedAtTs": 1757547689
     },
     {
@@ -1330,7 +1343,10 @@
       "urlToImage": "https://regmedia.co.uk/2021/03/12/perseverance.jpg",
       "publishedAt": "2025-09-10T18:15:51Z",
       "content": "If you were ever wondering where you'd be when NASA announced peer-reviewed evidence hinting at extraterrestrial life - long dead, if it existed at all - look around, because this is it.\r\nLet's quali… [+6564 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "space_policy"
+      ],
       "publishedAtTs": 1757528151
     },
     {
@@ -1345,7 +1361,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/sPUXDMZfeB6upyUjQB4iSf.jpg",
       "publishedAt": "2025-09-10T15:00:00Z",
       "content": "Since February 2021, NASA's Perseverance rover has been exploring a region on Mars known as Jezero Crater, a huge cavity believed to have once hosted a lake. It's considered one of the most promising… [+6831 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "space_policy"
+      ],
       "publishedAtTs": 1757516400
     },
     {

@@ -32,7 +32,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg",
       "publishedAt": "2025-12-12T03:01:07Z",
       "content": "US President Donald Trump has signed an executive order aimed at blocking states from enforcing their own artificial intelligence (AI) regulations.\r\n\"We want to have one central source of approval,\" … [+1886 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1765508467
     },
     {
@@ -65,7 +67,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48cf/live/9b017dc0-d6bb-11f0-9d57-f5bf64d847f4.jpg",
       "publishedAt": "2025-12-12T05:43:02Z",
       "content": "Lucy WilliamsonMiddle East correspondent, Jerusalem\r\nMore than 800,000 Gazans are at risk from flooding, the UN says, as a powerful winter storm sweeps through the Strip.\r\nThe heavy rain has already … [+6247 chars]",
-      "tags": [],
+      "tags": [
+        "gaza",
+        "middle_east",
+        "crisis_emergency",
+        "natural_disasters"
+      ],
       "publishedAtTs": 1765518182
     },
     {
@@ -80,7 +87,10 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/3d801f4150bd61508ad587f6651d369161ce1334/hub/2025/11/05/10cb696a-41e3-4eea-8236-5d0be9ba1eee/ai-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-12-12T02:07:00Z",
       "content": "President Donald Trump signed an executive order on Thursday that aims to block state regulations with the goal of creating a national framework for the tech industry to follow. \r\nThe Ensuring a Nati… [+3569 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "executive_orders"
+      ],
       "publishedAtTs": 1765505220
     },
     {
@@ -113,7 +123,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7183x4040+0+73/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Fba%2F7012ca564bc5982b7058ebc48461%2Fgettyimages-2231286193.jpg",
       "publishedAt": "2025-12-12T11:54:28Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+6643 chars]",
-      "tags": [],
+      "tags": [
+        "mass_deportation_operation",
+        "redistricting"
+      ],
       "publishedAtTs": 1765540468
     },
     {
@@ -147,7 +160,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4891x2751+0+255/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2F21%2F28bc5f96406bbfb310c6694f645f%2Fgettyimages-2215246948.jpg",
       "publishedAt": "2025-12-12T13:55:37Z",
       "content": "Jury selection is complete and a federal trial gets underway Monday for Milwaukee County judge Hannah Dugan. She is accused of helping a man try to evade arrest by immigration authorities at the coun… [+4445 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
       "publishedAtTs": 1765547737
     },
     {
@@ -162,7 +178,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3373+0+357/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fd0%2F3db747c54e588aa994a05927e823%2Fap25342673464595.jpg",
       "publishedAt": "2025-12-12T20:26:42Z",
       "content": "DAMASCUS, Syria As they mark the first anniversary this week of toppling Bashar al-Assad's regime, Syrians are also celebrating another likely milestone. The U.S. is on the verge of removing economic… [+5804 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "sanctions"
+      ],
       "publishedAtTs": 1765571202
     },
     {
@@ -233,7 +252,10 @@
       "urlToImage": "https://i.insider.com/693c3135832e0ef1ead62090?width=1200&format=jpeg",
       "publishedAt": "2025-12-12T16:17:43Z",
       "content": "The US will require H-1B applicants to make their social media public for visa vetting, a State Department spokesperson said.Andrew Harnik/Getty Images\r\n<ul><li>Over 140 bipartisan lawmakers wrote in… [+3546 chars]",
-      "tags": [],
+      "tags": [
+        "education",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1765556263
     },
     {
@@ -265,7 +287,10 @@
       "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/93038754daae3d087a40ebd94fb4704d",
       "publishedAt": "2025-12-12T19:33:54Z",
       "content": "Dec. 12 (UPI) -- President Donald Trump has voiced support for reclassifying cannabis and making it a legally obtainable drug -- possibly as soon as next week.\r\nThe president might sign an executive … [+2910 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "healthcare"
+      ],
       "publishedAtTs": 1765568034
     },
     {
@@ -536,7 +561,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SrpQF2.8pNwVtGYD9Mt7uQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7a5eed4c5c96c393d7d3d73e20bbd6f8",
       "publishedAt": "2025-12-12T13:04:16Z",
       "content": "Authoritarian President Alexander Lukashenko on Friday hosted a U.S. envoy for talks in the Belarus capital of Minsk, the latest step in the isolated leader's effort to improve ties with the West.\r\nL… [+3266 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
       "publishedAtTs": 1765544656
     },
     {
@@ -589,7 +617,10 @@
       "urlToImage": "https://media.zenfs.com/en/theguardian_763/d86d61631040029288cdc27ed4138a87",
       "publishedAt": "2025-12-12T00:47:24Z",
       "content": "After battling illness for years, Nancy Karipa tested positive for HIV in 1999. She had just given birth to her first child. It was a crossroads moment for me, with the fear of denial, but I chose ac… [+6121 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "international_crisis"
+      ],
       "publishedAtTs": 1765500444
     },
     {
@@ -624,7 +655,11 @@
       "urlToImage": "https://media.zenfs.com/en/moneywise_ecomm_711/54b04fe73795e784a2ad05d9d351c295",
       "publishedAt": "2025-12-12T22:01:00Z",
       "content": "Getty Images\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nWorking Americans will soon see a sizable financial boost all thanks to changes tied … [+7303 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "taxes",
+        "budget"
+      ],
       "publishedAtTs": 1765576860
     },
     {
@@ -658,7 +693,10 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/613af211d167703f670c63697942f256",
       "publishedAt": "2025-12-12T12:00:59Z",
       "content": "Geothermal startup, Zanskar, has used AI to discover a hidden geothermal reserve underneath the desert in western Nevada. - Zanskar\r\nNothing on the surface of this scrubby expanse of western Nevada d… [+6460 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1765540859
     },
     {
@@ -694,7 +732,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/w6k7SHTZ4d1ANcGC0240Vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/29c95f84764f49474c807130e476087b",
       "publishedAt": "2025-12-12T05:01:07Z",
       "content": "MIDLAND, Texas (AP) Retired Chinese official Li Chuanliang was recuperating from cancer on a Korean resort island when he got an urgent call: Dont return to China, a friend warned. Youre now a fugiti… [+19601 chars]",
-      "tags": [],
+      "tags": [
+        "china",
+        "foreign_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1765515667
     },
     {
@@ -764,7 +806,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/616e2749-3847-4964-b85d-3f9d01d1f47c/donald-trump-2-epa-gmh-251212_1765560324178_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-12-12T23:28:40Z",
       "content": "The Department of Justice on Friday filed a lawsuit against Fulton County, Georgia, in an attempt to obtain records from the 2020 election, in what appears to be the latest move from the Trump admini… [+935 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "elections_politics",
+        "2024_presidential"
+      ],
       "publishedAtTs": 1765582120
     },
     {
@@ -779,7 +825,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f9b1d0c1-0851-42a7-85ff-7bed93ec2d28/251212_gma3_allergy_free1_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-12-12T23:23:59Z",
       "content": "<ul><li>President Trump claims land strikes on Venezuela could come 'pretty soon'\r\n</li><li>Newly released photos from Epstein estate include images of Trump, Clinton\r\n</li><li>Retired lieutenant col… [+4467 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1765581839
     },
     {
@@ -794,7 +842,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/46c14257-de84-4103-bd12-78be9134972c/251212_gma_bergamotto_hosting3_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-12-12T17:33:37Z",
       "content": "<ul><li>US seizure of oil tanker a 'very orchestrated campaign': Defense analyst\r\n</li><li>Federal judge blocks government from detaining Kilmar Abrego Garcia after release\r\n</li><li>Fired Michigan f… [+4516 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1765560817
     },
     {
@@ -846,7 +896,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/42594a57-dbec-4aaf-9694-77153d4dd400/grocery-gty-er-251211_1765474734065_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-12-12T00:27:31Z",
       "content": "Six more states have joined the growing list across the country approved for Supplemental Nutritional Assistance Program food-choice waivers that will prevent benefits from being used on certain proc… [+2244 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1765499251
     },
     {
@@ -879,7 +932,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/69c9e492-fa3b-483b-8d5a-9978de342929/251212_gma_play_santa_0749_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-12-12T13:39:27Z",
       "content": "<ul><li>Washington residents evacuate amid catastrophic flooding\r\n</li><li>Tracking flood threat, bone-chilling cold weather\r\n</li><li>White House vows action on health care after Senate votes fail\r\n… [+4454 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1765546767
     },
     {
@@ -894,7 +949,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/22333521-113d-4347-91fe-9a840ed5878b/251212_gma_flay_homedepot1_0712_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-12-12T12:39:37Z",
       "content": "<ul><li>Washington residents evacuate amid catastrophic flooding\r\n</li><li>Tracking flood threat, bone-chilling cold weather\r\n</li><li>White House vows action on health care after Senate votes fail\r\n… [+4598 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement"
+      ],
       "publishedAtTs": 1765543177
     },
     {
@@ -926,7 +983,10 @@
       "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2025/12/p-1-91459815-ap-update-white-house-east-wing-lawsuit.jpg",
       "publishedAt": "2025-12-12T19:00:22Z",
       "content": "President Donald Trump was sued on Friday by preservationists asking a federal court to halt his White House ballroom project until it goes through multiple independent reviews and wins approval from… [+3148 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1765566022
     },
     {
@@ -959,7 +1019,11 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/secretary-of-war-pete-hegseth.jpg",
       "publishedAt": "2025-12-12T19:49:07Z",
       "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Pentagon launches military AI platform powered by Google Gemini for defens… [+4650 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "defense_contractor_reform",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1765568947
     },
     {
@@ -993,7 +1057,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/12/jeffrey-epstein-bill-gates-pilot-1200x675.jpg",
       "publishedAt": "2025-12-12T17:41:27Z",
       "content": "Democrats on the House Oversight Committee released 19 new photos from the Jeffrey Epstein estate on Friday showing the late financier with several high-profile figures, including President Donald Tr… [+4486 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1765561287
     },
     {
@@ -1008,7 +1075,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/21vTGjOh-K2m3Nhg0W4LFaMWAbE=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_altman_ai_/original.jpg",
       "publishedAt": "2025-12-12T20:50:22Z",
       "content": "OpenAI turned 10 yesterday, and President Donald Trump incidentally gave the company a very special birthday gift: a sweeping executive order aiming to dismantle and preempt many state-level regulati… [+5606 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "executive_orders"
+      ],
       "publishedAtTs": 1765572622
     },
     {
@@ -1023,7 +1093,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/CiXOOD6mSe3CZ5PF4e8OM4KR76s=/0x83:3919x2124/1200x625/media/img/mt/2025/12/2025_12_12_The_Indiana_Vote_Is_an_Inflection_Point/original.jpg",
       "publishedAt": "2025-12-12T21:40:00Z",
       "content": "In rejecting yesterday a redistricting plan backed by President Donald Trump, Indiana’s Republican-controlled senate did not merely deny Republicans two new U.S. House seats in next year’s midterm el… [+4461 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "redistricting"
+      ],
       "publishedAtTs": 1765575600
     },
     {
@@ -1038,7 +1111,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/DubR8PDeanMiazUOZlxX8V8P0Ec=/5x170:3999x2250/1200x625/media/img/mt/2025/12/2025_12_12_The_Daily_The_Reason_Trump_Keeps_Pushing_the_Fed/original.jpg",
       "publishedAt": "2025-12-12T23:29:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Fo… [+8867 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
       "publishedAtTs": 1765582140
     },
     {
@@ -1053,7 +1129,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/H7XyC9SyQlF6fjQXMxgNNS4U2MI=/0x169:7923x4296/1200x625/media/img/mt/2025/12/2025_12_10_Trumps_Bizarre_Chip_Export_Own_Goal/original.png",
       "publishedAt": "2025-12-12T18:58:00Z",
       "content": "Donald Trump launched his political career by insisting that free-trade deals had sacrificed the national interest in the pursuit of corporate profits. One wonders what that version of Trump would ma… [+9118 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "technology_regulation",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1765565880
     },
     {
@@ -1068,7 +1148,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cf23/live/d3e0f120-d6e3-11f0-82d0-d351f2064618.jpg",
       "publishedAt": "2025-12-12T05:42:29Z",
       "content": "Venezuelan leader Nicolás Maduro says escalating pressure from the US comes down to one thing: Washington wants to grab the South American nation's vast oil reserves.\r\nThis week the American military… [+6304 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "energy"
+      ],
       "publishedAtTs": 1765518149
     },
     {
@@ -1173,7 +1257,9 @@
       "urlToImage": null,
       "publishedAt": "2025-12-12T17:52:15Z",
       "content": "Cast your mind back to May of this year: Congress was in the throes of debate over the massive budget bill. Amidst the many seismic provisions, Senator Ted Cruz dropped a ticking time bomb of tech po… [+7545 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1765561935
     },
     {
@@ -1207,7 +1293,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/12/indiana-statehouse-unsplash-main.jpg",
       "publishedAt": "2025-12-12T11:24:47Z",
       "content": "Your browser does not support the audio element.\r\nGrowing up in the suburbs of Chicago, it’s fair to say one rarely found occasion to lavish praise upon the state of Indiana. It was the place where y… [+7624 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "redistricting",
+        "republican_party"
+      ],
       "publishedAtTs": 1765538687
     },
     {
@@ -1222,7 +1312,10 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/12/trump-ai-white-house-main.jpg",
       "publishedAt": "2025-12-12T14:57:43Z",
       "content": "One of the (many, many) downsides of having a President who is very easily swayed by (A) money and (B) rich men willing to say nice things and prostrate themselves before him, is the fact that Donald… [+8609 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "government_administration"
+      ],
       "publishedAtTs": 1765551463
     },
     {
@@ -1273,7 +1366,9 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2024/04/At-the-Money.jpg",
       "publishedAt": "2025-12-12T13:30:01Z",
       "content": "SPOTIFY EMBED\r\nATM: Title\r\nAt The Money:   with Guest name, company affiliation  (Month Date Year)\r\nIs it better to blurb or not to blurb? That is the question? In this episode of At the Money, I spe… [+17601 chars]",
-      "tags": [],
+      "tags": [
+        "taxes"
+      ],
       "publishedAtTs": 1765546201
     },
     {
@@ -1288,7 +1383,11 @@
       "urlToImage": "https://www.bgr.com/img/gallery/home-of-the-worst-nuclear-disaster-in-us-history-will-now-power-ai/l-intro-1764873061.jpg",
       "publishedAt": "2025-12-12T20:17:00Z",
       "content": "Data centers consume tons of electricity and fresh water. According to Pew Research data, 4% of the United State's total electricity in 2024 went to data centers. Altogether, they consumed about 183 … [+1668 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "technology_regulation",
+        "public_health_emergency"
+      ],
       "publishedAtTs": 1765570620
     },
     {
@@ -1303,7 +1402,10 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-12-12T20:59:33Z",
       "content": "from the doesn't-anyone-know-how-this-works? dept\r\nThe mainstream media just failed a basic civics test so badly that you’d think their brains have been pickled by the kinds of folks who spend all th… [+8517 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "media_communications"
+      ],
       "publishedAtTs": 1765573173
     },
     {
@@ -1356,7 +1458,10 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2025-12-12T23:36:17Z",
       "content": "from the seems-bad dept\r\nIt’s no secret that 2025 has given Americans plenty to protest about. But as news cameras showed protesters filling streets of cities across the country, law enforcement offi… [+13423 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "protests"
+      ],
       "publishedAtTs": 1765582577
     },
     {
@@ -1390,7 +1495,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/eco12.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-12-12T04:07:10Z",
       "content": "Key takeaways\r\n\n\n\n\n<ul>\n<li>Economists used to have a sort of special status in US policymaking; they were the consummate technocratic experts.</li>\n\n\n\n<li>But over the past decade, both parties have… [+18536 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "trade"
+      ],
       "publishedAtTs": 1765512430
     },
     {
@@ -1424,7 +1533,11 @@
       "urlToImage": "https://imagez.tmz.com/image/01/16by9/2025/12/12/01aeef1fbcc34d15b5ab0100a5ac8614_xl.jpg",
       "publishedAt": "2025-12-12T15:38:43Z",
       "content": "Democrats on the House Oversight Committee released a fresh batch of photos Friday sent to the committee by Jeffrey Epstein's estate ... with images featuring President Donald Trump and former Presid… [+1243 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
       "publishedAtTs": 1765553923
     },
     {
@@ -1439,7 +1552,11 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/12/Hochul-GettyImages-2247054844.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2025-12-12T16:00:00Z",
       "content": "The titans of artificial intelligence have fired the first shot in a regulation battle that is poised to dominate the 2026 midterms, and the industry’s prospects for victory are already looking good.… [+7484 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "media_communications",
+        "elections_politics"
+      ],
       "publishedAtTs": 1765555200
     },
     {
@@ -1511,7 +1628,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/afp_693c511d4ebc-1765560605.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-12T18:34:20Z",
       "content": "Washington, DC The National Trust for Historic Preservation, a Washington, DC-based nonprofit, has filed a lawsuit seeking to halt the administration of US President Donald Trumps construction of a s… [+3077 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1765564460
     },
     {
@@ -1526,7 +1646,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-12-10T213000Z_1762248913_RC2XDIABISPX_RTRMADP_3_VENEZUELA-ANNIVERSARY-MARCH-1765538645.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-12T13:20:14Z",
       "content": "The United States has announced sanctions on three nephews by marriage of Venezuelan President Nicolas Maduro and six Venezuela-flagged oil tankers and shipping firms linked to them, amid ongoing pol… [+12229 chars]",
-      "tags": [],
+      "tags": [
+        "sanctions",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1765545614
     },
     {
@@ -1559,7 +1682,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25339643880337-1764957309.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-12T21:12:13Z",
       "content": "Monterrey, Mexico  In April, Mexican President Claudia Sheinbaum announced the countrys aerospace industry could see sustained annual growth of as much as 15 percent over the next four years, and att… [+9516 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "mexico"
+      ],
       "publishedAtTs": 1765573933
     },
     {
@@ -1593,7 +1719,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25345803756839-1765499680.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-12T01:29:34Z",
       "content": "The Midwestern state of Indiana has dealt a setback to United States President Donald Trumps redistricting push ahead of the pivotal 2026 midterm elections, voting down legislation to redraw its cong… [+6427 chars]",
-      "tags": [],
+      "tags": [
+        "redistricting",
+        "state_elections",
+        "2026_midterms"
+      ],
       "publishedAtTs": 1765502974
     },
     {
@@ -1608,7 +1738,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/HOUSE_OVERSIGHT_083631-Copy-1765558220.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-12T18:00:11Z",
       "content": "Democrats in the United States Congress have released a new batch of photos from the estate of the late sex offender Jeffry Epstein, featuring rich and powerful public figures, including President Do… [+3825 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "political_endorsements"
+      ],
       "publishedAtTs": 1765562411
     }
   ]

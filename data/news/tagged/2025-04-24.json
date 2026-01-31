@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 23,
   "articles": [
     {
       "source": {
@@ -16,10 +16,8 @@
       "content": "Volodymyr Zelenskyy rushed home to Ukraine after a devastating attack on Kyiv, cutting short a diplomatic trip to South Africa. At least 12 people were killed, including a brother and sister, aged 21 and 19. The president said rescue workers were sti... [1786 chars]",
       "tags": [
         "foreign_policy",
-        "national_security",
-        "security_intelligence",
-        "crisis_emergency",
-        "europe"
+        "ukraine",
+        "russia"
       ],
       "publishedAtTs": 1745538904
     },
@@ -36,11 +34,9 @@
       "publishedAt": "2025-04-24T23:44:56Z",
       "content": "New York | President Donald Trump has ordered the US government to take a major step toward mining vast tracts of the ocean floor, a move that nearly every other nation in the world considers off-limits to this kind of industrial activity.\nThe execut... [374 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "economy_finance",
-        "foreign_policy",
-        "security_intelligence"
+        "trade",
+        "energy",
+        "environment"
       ],
       "publishedAtTs": 1745538296
     },
@@ -58,9 +54,7 @@
       "content": "Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\nCNN —\nThe head of the US National Science Foundation, a $9 billion agency charged with advancing discover... [3636 chars]",
       "tags": [
         "government_administration",
-        "science_policy",
-        "policy_legislation",
-        "federal_agencies"
+        "personnel"
       ],
       "publishedAtTs": 1745538159
     },
@@ -78,10 +72,8 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "legal_justice",
-        "elections_politics",
-        "government_administration",
-        "policy_legislation",
-        "social_issues"
+        "immigration",
+        "elections_politics"
       ],
       "publishedAtTs": 1745537588
     },
@@ -100,9 +92,7 @@
       "tags": [
         "elections_politics",
         "2028_presidential",
-        "media_communications",
-        "personal_business",
-        "regional_state"
+        "trump"
       ],
       "publishedAtTs": 1745536523
     },
@@ -119,9 +109,8 @@
       "publishedAt": "2025-04-24T23:12:50Z",
       "content": "Open this photo in gallery: Trucks line up to enter a shipping berth at the Port of Oakland on April 18, in Oakland, Calif.. The commercial transportation industry is struggling amid economic uncertainty as the fallout from U.S. President Donald Trum... [4631 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "small_business"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1745536370
     },
@@ -139,8 +128,7 @@
       "content": "US officials have arrested a Wisconsin judge and charged her with helping a man in her court evade immigration authorities in an escalating dispute between President Donald Trump's administration and local officials over immigration enforcement.\nIn a... [4878 chars]",
       "tags": [
         "legal_justice",
-        "immigration",
-        "government_administration"
+        "immigration"
       ],
       "publishedAtTs": 1745535600
     },
@@ -158,9 +146,8 @@
       "content": "President Donald Trump has called for Ukraine and Russia to meet for “very high level talks”, saying they are “very close to a deal” on ending the bloody three-year war.\nMr Trump posted on his Truth Social site shortly after arriving in Rome for Pope... [7038 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
         "ukraine",
-        "middle_east"
+        "russia"
       ],
       "publishedAtTs": 1745535600
     },
@@ -177,11 +164,9 @@
       "publishedAt": "2025-04-24T23:00:00Z",
       "content": "US President Donald Trump has ordered the Justice Department to investigate the Democratic Party’s top fundraising platform.\nMr Trump, in an executive order signed on Thursday, directed attorney general Pam Bondi to investigate allegations made by Re... [2970 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
         "legal_justice",
         "elections_politics",
-        "media_communications"
+        "government_administration"
       ],
       "publishedAtTs": 1745535600
     },
@@ -199,12 +184,248 @@
       "content": "CNN —\nFive days before his 100th day in office – and 93 days since his own deadline passed for resolving the conflict in Ukraine – President Donald Trump is frustrated his efforts to broker a peace deal between Russia and Ukraine have so far fallen s... [5217 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
-        "europe",
-        "ukraine",
-        "international_crisis"
+        "ukraine"
       ],
       "publishedAtTs": 1745534609
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump signs executive order boosting deep-sea mining industry",
+      "description": "Order seeks to jumpstart mining of US waters as part of push to offset China’s control of minerals industry",
+      "url": "https://www.theguardian.com/us-news/2025/apr/24/trump-deep-sea-mining-executive-order",
+      "urlToImage": "https://i.guim.co.uk/img/media/c0a9d59df16a143e538695657e67a3902c95f28e/111_0_3278_1967/master/3278.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6193398ed58ef25b6d548f9f7d9a639d",
+      "publishedAt": "2025-04-24T22:24:58Z",
+      "content": "Donald Trump on Thursday signed an executive order aimed at boosting the deep-sea mining industry, the latest attempt to boost US production of nickel, copper and other critical minerals used widely across the economy.\nThe broad order avoids a direct... [3513 chars]",
+      "tags": [
+        "executive_orders",
+        "energy",
+        "trade"
+      ],
+      "publishedAtTs": 1745533498
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump pardons Nevada politician who paid for cosmetic surgery with funds to honor a slain officer",
+      "description": "LAS VEGAS (AP) — President Donald Trump has pardoned a Nevada Republican politician who was awaiting sentencing on federal charges that she used money meant for a statue honoring a",
+      "url": "https://www.thestar.com/news/world/united-states/trump-pardons-nevada-politician-who-paid-for-cosmetic-surgery-with-funds-to-honor-a-slain/article_49ccabcb-e231-595f-8f63-706e8ad6474f.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/67/c67a6971-309f-5d28-b818-ecf6d90f0396/680aba3f10a99.image.jpg?crop=1560%2C819%2C0%2C130&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-24T22:21:13Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "legal_justice",
+        "presidential_security"
+      ],
+      "publishedAtTs": 1745533273
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Europe and Starmer double down on clean power as America ups the ante",
+      "description": "Donald Trump's government looks somewhat isolated in its attacks on clean power, as Europe, China and the UK double down. But the UK and Europe still need America.",
+      "url": "https://news.sky.com/story/europe-and-starmer-double-down-on-clean-power-as-america-ups-the-ante-13354932",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-ursula-von-der-leyen_6895591.jpg?20250424153257",
+      "publishedAt": "2025-04-24T22:17:00Z",
+      "content": "Sir Keir Starmer was in his comfort zone on Thursday, waxing lyrical about one of his favourite \"missions\".\nSpeaking at the government's summit on energy security, the prime minister doubled down on plans for clean energy, which he reaffirmed will bo... [3640 chars]",
+      "tags": [
+        "environment",
+        "energy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1745533020
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Largest federal employee union, a leading Trump opponent, to lay off more than half of staff",
+      "description": "IOWA CITY, Iowa (AP) — The largest union for federal employees is planning to lay off more than half of its staff nationwide after President Donald Trump’s executive actions have",
+      "url": "https://www.thestar.com/news/world/united-states/largest-federal-employee-union-a-leading-trump-opponent-to-lay-off-more-than-half-of/article_65b392ac-28a0-5125-900a-4bbea164128d.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/47/747384f9-c691-55d6-953e-df6655447dad/6809a6d8d8ab6.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-24T21:56:40Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1745531800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Trump 'poised to offer Saudi Arabia $100b arms package'",
+      "description": "The White House, Pentagon and Saudi government are not commenting about a proposed deal for the US to offer Saudi Arabia a massive arms package.",
+      "url": "https://www.perthnow.com.au/politics/trump-poised-to-offer-saudi-arabia-100b-arms-package-c-18480078",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18480078/5b8194a9b16f7e8a9040e9654dbbbf6d05b0be42-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-04-24T21:51:39Z",
+      "content": "The United States is poised to offer Saudi Arabia a multi-billion dollar arms package, sources claim, with the proposal being lined up for announcement during President Donald Trump's visit to the kingdom in May.\nThe package is worth well over $US100... [2624 chars]",
+      "tags": [
+        "foreign_policy",
+        "defense_contractor_reform",
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1745531499
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "In unintended filing, feds say Trump administration strategy to end New York toll is a losing battle",
+      "description": "The federal prosecutor’s office in Manhattan accidentally filed an internal memo that poked holes in the Trump administration’s strategy to kill New York’s toll on driving in Manhattan — arguing the government should change tactics if it wants to block the nascent program.",
+      "url": "https://edition.cnn.com/2025/04/24/politics/trump-administration-strategy-filing-new-york-toll/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25005833014854.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-04-24T21:48:53Z",
+      "content": "The federal prosecutor’s office in Manhattan accidentally filed an internal memo that poked holes in the Trump administration’s strategy to kill New York’s toll on driving in Manhattan – arguing the government should change tactics if it wants to blo... [3347 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1745531333
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Politics Insider: Carney says Trump made 51st state comment in March phone call",
+      "description": "The Liberal leader confirmed a report that the President repeated his comment about making Canada a U.S. state, which wasn’t mentioned in the original readout",
+      "url": "https://www.theglobeandmail.com/politics/article-politics-insider-carney-says-trump-made-51st-state-comment-in-march/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/6NCPCUNN7NDM3OKN4OSMZL3GQ4.jpg?auth=1962e0c2ed23d317e80f898fd05e45953e0e9073417bb0ca2159511e67e9f490&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-04-24T21:45:44Z",
+      "content": "Hello, welcome to Politics Insider, election edition. There are four days until voting day. Let’s look at what happened today.\nMark Carney acknowledged that Donald Trump raised the issue of Canada becoming the 51st state in their private phone call l... [7002 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1745531144
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Catherine McKenna defends Mark Carney after details emerge about his Trump call",
+      "description": "While Liberal Leader Mark Carney’s opponents accuse him of being dishonest about the details of his phone call with Donald Trump, one former Liberal cabinet minister says he remains the candidate most qualified to deal with the U.S. president.",
+      "url": "https://www.cbc.ca/radio/asithappens/catherine-mckenna-mark-carney-1.7518016",
+      "urlToImage": "https://i.cbc.ca/1.6403801.1719527666!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/mckenna.JPG?im=Resize%3D620",
+      "publishedAt": "2025-04-24T21:42:58Z",
+      "content": "As It Happens 6:39 Catherine McKenna stands by Carney after Trump call controversy\nWhile Liberal Leader Mark Carney's opponents accuse him of being dishonest about the details of his phone call with Donald Trump, one former Liberal cabinet minister s... [6936 chars]",
+      "tags": [
+        "foreign_policy",
+        "leadership"
+      ],
+      "publishedAtTs": 1745530978
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Trump says he might lower tariffs on China. Unless the number comes way down, experts say it won't matter",
+      "description": "U.S. President Donald Trump told reporters Tuesday during a news conference that tariffs would 'come down substantially,' but wouldn't disappear completely. Experts say rates would need to drop to 10 or 20 per cent in order for trade to return to some kind of normalcy.",
+      "url": "https://www.cbc.ca/news/business/trump-tariffs-china-lowered-1.7517966",
+      "urlToImage": "https://i.cbc.ca/1.7506915.1745526701!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-china-trump.JPG?im=Resize%3D620",
+      "publishedAt": "2025-04-24T21:38:43Z",
+      "content": "The White House has indicated that it could lower its tariffs on China, but experts say the exact figures might not make much of a difference.\nRight now, the U.S. has 145 per cent blanket tariffs on Chinese goods, while China has a 125 rate on U.S. g... [5358 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1745530723
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump targets Democratic fundraising platform ActBlue with memorandum",
+      "description": "President directs attorney general to investigate supposed foreign contributions, an unsubstantiated rightwing claim",
+      "url": "https://www.theguardian.com/us-news/2025/apr/24/trump-actblue-memo",
+      "urlToImage": "https://i.guim.co.uk/img/media/307a9dcdf1174381efe75a65901d4797d141de39/0_254_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a20140ce523dad27d201b9463f157ca",
+      "publishedAt": "2025-04-24T21:33:10Z",
+      "content": "The Republican president is taking aim at a Democratic fundraising platform, issuing a presidential memorandum to crack down on supposed foreign contributions to elections, an unsubstantiated claim from the right..\nDonald Trump announced the memo on ... [3049 chars]",
+      "tags": [
+        "elections_politics",
+        "campaign_finance"
+      ],
+      "publishedAtTs": 1745530390
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BradfordToday"
+      },
+      "author": "BradfordToday",
+      "title": "Wall Street's rally roars into a 3rd day as companies' profits keep piling up, for now at least",
+      "description": "NEW YORK (AP) — Wall Street’s rally kept rolling Thursday as better-than-expected profits for U.S. companies piled up, though CEOs said they’re unsure whether it will last because of uncertainty created by President Donald Trump’s trade war.",
+      "url": "https://www.bradfordtoday.ca/national-business/wall-streets-rally-roars-into-a-3rd-day-as-companies-profits-keep-piling-up-for-now-at-least-10564213",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/a420be595ff5be8024308a909ff7ca34e1adb197b5e262684d1d5f39935c0ff5.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-24T21:29:42Z",
+      "content": "NEW YORK (AP) — Wall Street’s rally kept rolling Thursday as better-than-expected profits for U.S. companies piled up, though CEOs said they’re unsure whether it will last because of uncertainty created by President Donald Trump’s trade war.\nThe S&P ... [5673 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
+      "publishedAtTs": 1745530182
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ars Technica"
+      },
+      "author": "Ars Technica",
+      "title": "Trump orders Ed Dept to make AI a national priority while plotting agency’s death",
+      "description": "States could mess with Trump’s AI education plan if the Education Department dies.",
+      "url": "https://arstechnica.com/tech-policy/2025/04/trump-orders-doe-to-make-ai-a-national-priority-while-plotting-agencys-death/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/GettyImages-2099677761-1152x648.jpg",
+      "publishedAt": "2025-04-24T20:56:41Z",
+      "content": "Donald Trump's executive order requiring artificial intelligence training in education as a national priority has been met with enthusiasm and confusion.\nOn the one hand, his plans to promote early AI training in K–12 schools appear to be \"critical,\"... [1747 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "education",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1745528201
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "Trump’s claim of active negotiations on tariffs ‘baseless’, says China",
+      "description": "US president says two countries held talks on Thursday to help resolve trade war",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2025/04/24/trumps-claim-of-active-negotiations-on-tariffs-baseless-says-china/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/OQZZESO2RKHE3GE7BOVLZBST7I.jpg?smart=true&auth=0ca2b47025177cf0028811aefc46b7cc582eb8062a17ad618d9406eb920b2d30&width=1200&height=630",
+      "publishedAt": "2025-04-24T20:50:00Z",
+      "content": "Beijing tells US to 'completely cancel all unilateral tariff measures against China'. Photograph Peter Parks/ AFP via Getty Images\nThe US and China held talks on Thursday to help resolve the trade war between the world’s two largest economies, Donald... [2404 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1745527800
     }
   ]
 }

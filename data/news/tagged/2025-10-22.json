@@ -70,7 +70,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/east-wing-of-the-white-house-being-destroyed-on-oct-21-2025-1200x675.jpg",
       "publishedAt": "2025-10-22T18:15:08Z",
       "content": "President Donald Trump is currently demolishing the East Wing of the White House in one of the more shocking acts of his second term. Trump plans to build an enormous $250 million ballroom in its pla… [+5644 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
       "publishedAtTs": 1761156908
     },
     {
@@ -85,7 +88,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/bitcoin-explosion-1200x675.jpg",
       "publishedAt": "2025-10-22T21:42:09Z",
       "content": "Crypto activity in the United States skyrocketed in the first half of the year, apparently propelled by President Donald Trumps controversial personal and regulatory embrace of the digital asset spac… [+2351 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "economy_finance"
+      ],
       "publishedAtTs": 1761169329
     },
     {
@@ -212,7 +218,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fba%2F2b%2Fcbd64ac242b7b2ea3945070bf5dd%2Fgettyimages-2242022226.jpg",
       "publishedAt": "2025-10-22T11:44:58Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5985 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "government_administration",
+        "ethics"
+      ],
       "publishedAtTs": 1761133498
     },
     {
@@ -284,7 +295,10 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/nasa_64.png",
       "publishedAt": "2025-10-22T07:00:00Z",
       "content": "The move paves the way for rivals such as Jeff Bezos' Blue Origin to snatch a high-profile mission to land the first astronauts on the moon in half a century. \"I'm in the process of opening that cont… [+1379 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1761116400
     },
     {
@@ -1141,7 +1155,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223681645.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "publishedAt": "2025-10-22T17:14:41Z",
       "content": "An Amazon Web Services data center in Virginia. | Nathan Howard/Bloomberg via Getty Images\r\n\n\nIf you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is gettin… [+6678 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "energy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1761153281
     },
     {
@@ -1305,7 +1323,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f91/live/31b93f30-af4a-11f0-9b73-4bd88f27c330.jpg",
       "publishedAt": "2025-10-22T21:17:15Z",
       "content": "Earlier in the day, this season's British Open winner and Xi'an Grand Prix finalist Murphy progressed to round three with a 4-2 win over Elliot Slessor.\r\n\"While there were no big centuries I was plea… [+1321 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1761167835
     },
     {
@@ -1608,7 +1628,9 @@
       "urlToImage": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
       "publishedAt": "2025-10-22T22:00:00Z",
       "content": "The top stories and transfer rumours from Thursday's newspapers...\r\nPremier League\r\nLiverpool are said to be considering Bayern Munich star Dayot Upamecano as a possible alternative to Marc Guehi - T… [+4196 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1761170400
     },
     {

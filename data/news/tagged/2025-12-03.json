@@ -52,7 +52,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56a4/live/5b41fcf0-cfef-11f0-a84c-53235698d969.jpg",
       "publishedAt": "2025-12-03T04:10:34Z",
       "content": "The US has halted the processing of all immigration applications linked to 19 countries already subject to a travel ban, according to an internal official memo seen by BBC partner CBS News.\r\nImmigrat… [+2395 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1764735034
     },
     {
@@ -253,7 +256,11 @@
       "urlToImage": "https://i.insider.com/6930b69704d0f0a114f15cbd?width=1200&format=jpeg",
       "publishedAt": "2025-12-03T22:50:45Z",
       "content": "Alex Karp at The New York Times' DealBook SummitDavid Dee Delgado/Getty Images for The New York Times\r\n<ul><li>Palantir CEO Alex Karp defended the company's ethics and praised Trump's immigration pol… [+3187 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "economy_finance",
+        "legal_justice"
+      ],
       "publishedAtTs": 1764802245
     },
     {
@@ -524,7 +531,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yfQwSEpwc88Y26Vh91Es5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xAP25330676548379.jpg",
       "publishedAt": "2025-12-03T00:11:15Z",
       "content": "Tech billionaires Michael and Susan Dell announced Tuesday that they are donating $6.25 billion to expand the reach of Trump accounts and allow more children to access the program, which was created … [+6080 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "education"
+      ],
       "publishedAtTs": 1764720675
     },
     {
@@ -728,7 +738,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BEa0o.bgTd8guI7oXrxgrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjE-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/70cfaf70-cfd8-11f0-9b2f-c050a7c70903",
       "publishedAt": "2025-12-03T21:03:58Z",
       "content": "US stocks edged up on Wednesday as a surprise decline in private-sector employment revealed cracks in the job market, but also reinforced bets on a Fed rate cut next week.\r\nThe Dow Jones Industrial A… [+15161 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "inflation"
+      ],
       "publishedAtTs": 1764795838
     },
     {
@@ -743,7 +757,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BEa0o.bgTd8guI7oXrxgrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjE-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/70cfaf70-cfd8-11f0-9b2f-c050a7c70903",
       "publishedAt": "2025-12-03T00:01:51Z",
       "content": "US stocks shook off early losses on Wednesday as a surprise decline in private-sector employment revealed cracks in the job market, but also reinforced bets on a Fed rate cut next week.\r\nThe Dow Jone… [+14393 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "inflation"
+      ],
       "publishedAtTs": 1764720111
     },
     {
@@ -944,7 +962,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/12/pete-hegseth-dec.-2-2025-1200x675.jpg",
       "publishedAt": "2025-12-03T19:45:23Z",
       "content": "Defense Secretary Pete Hegseth “risked compromising sensitive military information” when he shared information on a Signal group chat in late March, according to sources speaking to CNN, which previe… [+6129 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1764791123
     },
     {
@@ -959,7 +980,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/12/Jared-Isaacman-second-confirmation-hearing-1200x675.jpg",
       "publishedAt": "2025-12-03T20:35:17Z",
       "content": "Billionaire tech entrepreneur Jared Isaacman returned to Capitol Hill Wednesday for his second confirmation hearing for the role of NASA administrator. Members of the Senate Committee on Commerce, Sc… [+4733 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "government_administration",
+        "personnel"
+      ],
       "publishedAtTs": 1764794117
     },
     {
@@ -974,7 +999,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2023/04/c0259b0b4ddc201bf755c9757d30c46d.jpg",
       "publishedAt": "2025-12-03T12:30:50Z",
       "content": "The massive data center buildout happening across the country is driving up energy prices for local communities, creating shortages and strains as AI companies hammer the grid with demand. To solve t… [+2734 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "economy_finance"
+      ],
       "publishedAtTs": 1764765050
     },
     {
@@ -1008,7 +1036,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/SB-Z0wChNLVlEHWWxRJj1FzVlzk=/5x0:3999x2080/1200x625/media/img/mt/2025/12/2025_12_03_Trumps_Assault_on_Refugees/original.jpg",
       "publishedAt": "2025-12-03T15:13:09Z",
       "content": "Most of us are lucky enough to avoid any direct encounter with the true nature of Donald Trump’s presidency. But over time, abstract nouns such as authoritarianism and xenophobia lose their hard edge… [+7105 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "immigration",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1764774789
     },
     {
@@ -1080,7 +1112,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/qh_Xf4Yen_rhvJU-8Q9qxzzp1k0=/0x61:2876x1559/1200x625/media/img/mt/2025/12/2025_11_free_electricity/original.jpg",
       "publishedAt": "2025-12-03T17:32:24Z",
       "content": "Electricity prices are becoming an outsize issue in American politics because they themselves are legitimately outsize. Compared with the cost of consumer goods, which have been rising rapidly over t… [+7952 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "economy_finance",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1764783144
     },
     {
@@ -1171,7 +1207,10 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-12-03T23:33:32Z",
       "content": "At The New York Times DealBook Summit today, California Governor Gavin Newsom addressed the tech sectors deference to the Trump administration, and discussed Tim Cooks overtures to the president. Her… [+1689 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "media_communications"
+      ],
       "publishedAtTs": 1764804812
     },
     {
@@ -1186,7 +1225,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/fd73046bfc11ee8/original/jared-isaacman.jpg?m=1764789410.572&w=1200",
       "publishedAt": "2025-12-03T18:30:00Z",
       "content": "On Wednesday U.S. senators told President Donald Trump’s pick to lead NASA that the agency must beat China back to the moon. The uncertain future of science at the embattled space agency, meanwhile, … [+6796 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "government_administration",
+        "cabinet"
+      ],
       "publishedAtTs": 1764786600
     },
     {
@@ -1201,7 +1244,10 @@
       "urlToImage": "https://regmedia.co.uk/2021/02/17/pat_gelsinger_intel_ceo_pr_supplied.jpg",
       "publishedAt": "2025-12-03T10:42:36Z",
       "content": "The US Department of Commerce has signed a preliminary letter of intent to provide up to $150 million to xLight, a Palo Alto-based startup led by former Intel chief Pat Gelsinger, that is working on … [+2294 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1764758556
     },
     {
@@ -1509,7 +1555,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/GettyImages-1204174365.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
       "publishedAt": "2025-12-03T06:28:48Z",
       "content": "Cold viruses, the flu, Covid-19, and RSV could be brutal this year. But you can protect yourself. | A. Martin/Getty Images\r\n\n\nThis winter was already shaping up to be one of the strangest cold and fl… [+9711 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "health_science"
+      ],
       "publishedAtTs": 1764743328
     },
     {

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 22,
   "articles": [
     {
       "source": {
@@ -15,11 +15,9 @@
       "publishedAt": "2025-05-28T23:58:18Z",
       "content": "CNN —\nAs President Donald Trump’s interim US attorney for the District of Columbia, Ed Martin was remarkably blunt about intermingling Trump’s political goals with the ostensibly independent actions of the Justice Department. That might have cost him... [6305 chars]",
       "tags": [
-        "government_administration",
         "legal_justice",
-        "elections_politics",
-        "media_communications",
-        "doj_actions"
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1748476698
     },
@@ -36,10 +34,9 @@
       "publishedAt": "2025-05-28T23:57:15Z",
       "content": "A federal trade court ruled on Wednesday against US President Donald Trump's imposition of extensive tariffs under an emergency-powers law. The New York-based Court of International Trade stated Trump had overstepped his authority, leaving US trade p... [588 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "legal_justice",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "legal_justice"
       ],
       "publishedAtTs": 1748476635
     },
@@ -56,9 +53,10 @@
       "publishedAt": "2025-05-28T23:55:28Z",
       "content": "WASHINGTON — The U.S. Court of International Trade ruled today that U.S. President Donald Trump does not have the authority to impose his sweeping \"Liberation Day\" tariffs or his fentanyl-related duties against Canada and Mexico.\nWASHINGTON — The U.S... [922 chars]",
       "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
         "legal_justice",
-        "foreign_policy",
-        "economy_finance"
+        "foreign_policy"
       ],
       "publishedAtTs": 1748476528
     },
@@ -75,9 +73,9 @@
       "publishedAt": "2025-05-28T23:53:56Z",
       "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nThe White House slammed \"... [5086 chars]",
       "tags": [
-        "government_administration",
+        "trade_negotiations_truces",
         "legal_justice",
-        "economy_finance"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748476436
     },
@@ -94,11 +92,11 @@
       "publishedAt": "2025-05-28T23:53:54Z",
       "content": "A current summary of U.S. domestic news reveals widespread political and economic activity under the Trump administration. Key issues include AI competition in federal contracts, blocked tariffs, and strategic developments in cryptocurrency policies.... [677 chars]",
       "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "security_intelligence",
-        "health_science",
-        "technology_regulation"
+        "ai_state_preemption",
+        "trade_negotiations_truces",
+        "immigration",
+        "cryptocurrency",
+        "government_administration"
       ],
       "publishedAtTs": 1748476434
     },
@@ -115,9 +113,9 @@
       "publishedAt": "2025-05-28T23:52:00Z",
       "content": "The U.S. Court of International Trade on Wednesday blocked steep reciprocal tariffs unilaterally imposed by President Donald Trump on scores of countries in April to correct what he said were persistent trade imbalances.\nThe ruling deals a potentiall... [2141 chars]",
       "tags": [
-        "legal_justice",
-        "economy_finance",
-        "foreign_policy"
+        "trade",
+        "tariff_impact_economy",
+        "legal_justice"
       ],
       "publishedAtTs": 1748476320
     },
@@ -134,11 +132,8 @@
       "publishedAt": "2025-05-28T23:50:47Z",
       "content": "Reality TV figure Todd Chrisley was released from federal custody following a presidential pardon by Donald Trump, according to statements from his defense counsel. Chrisley, aged 57, rose to fame through his show, \"Chrisley Knows Best,\" and was serv... [1046 chars]",
       "tags": [
-        "personal_legal",
-        "criminal_cases",
-        "pardons",
-        "media_communications",
-        "elections_politics"
+        "legal_justice",
+        "presidential_security"
       ],
       "publishedAtTs": 1748476247
     },
@@ -155,11 +150,8 @@
       "publishedAt": "2025-05-28T23:49:35Z",
       "content": "The Trump administration has terminated a contract with Moderna for the late-stage development of its bird flu vaccine, citing safety and scientific concerns. The cancellation, announced on Wednesday, also includes the withdrawal of the government's ... [575 chars]",
       "tags": [
-        "public_health",
-        "medical_research",
-        "government_administration",
-        "federal_agencies",
-        "crisis_emergency"
+        "health_science",
+        "public_health"
       ],
       "publishedAtTs": 1748476175
     },
@@ -176,9 +168,10 @@
       "publishedAt": "2025-05-28T23:49:13Z",
       "content": "US President Donald Trump delivers remarks on tariffs in the Rose Garden at the White House in Washington, DC US. (Photo: Reuters)\nA Manhattan-based federal court in the United States has blocked President Donald Trump’s “Liberation Day” tariffs from... [449 chars]",
       "tags": [
-        "economy_finance",
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
         "legal_justice",
-        "foreign_policy"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748476153
     },
@@ -196,12 +189,236 @@
       "content": "Open this photo in gallery: President Donald Trump announces new tariffs at the White House on April 2.Mark Schiefelbein/The Associated Press\nThe U.S. president does not enjoy “unbounded authority” to impose tariffs as he sees fit, the U.S. Court of ... [3709 chars]",
       "tags": [
         "legal_justice",
-        "executive_orders",
-        "government_administration",
-        "economy_finance",
-        "trade"
+        "trade",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748475678
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trade Court Blocks Trump's 'Liberation Day' Tariffs",
+      "description": "A U.S. trade court has halted President Trump's tariffs, asserting he overstepped his authority. The court highlighted Congress's exclusive right to regulate commerce. This ruling follows lawsuits from businesses and states, arguing the tariffs harm U.S. companies. Trump's tariffs aimed to address trade deficits, notably with China.",
+      "url": "https://www.devdiscourse.com/article/law-order/3438986-trade-court-blocks-trumps-liberation-day-tariffs",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_04_2025_21_11_43_1785516.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-28T23:40:07Z",
+      "content": "A U.S. trade court has struck down President Donald Trump's 'Liberation Day' tariffs, ruling that he overstepped his authority by imposing blanket duties on imports from countries with trade surpluses with the United States. This Manhattan-based Cour... [982 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748475607
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Trump tariff court setback stirs relief and uncertainty",
+      "description": "Relief on financial markets has followed a US court ruling that blocks most of President Donald Trump's tariffs, which also adds to global economic uncertainty.",
+      "url": "https://www.perthnow.com.au/politics/law-and-order/us-trade-court-blocks-trumps-liberation-day-tariffs-c-18851296",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18851296/1c659d3b4c35a5f0dff968e7369cde33d768c9c5-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-05-28T23:37:48Z",
+      "content": "A US trade court ruling that blocked most of President Donald Trump's tariffs and found he had overstepped his authority has triggered some relief on financial markets, while adding to the uncertainties weighing on the global economy.\nAmong the Unite... [3229 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748475468
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump Nominates Emil Bove amid Controversies",
+      "description": "President Donald Trump announced the nomination of Justice Department official Emil Bove to the 3rd U.S. Circuit Court of Appeals. Bove, previously involved in controversial legal actions, will need Senate approval. Trump's decision has sparked both support and criticism, with ethics complaints facing Bove.",
+      "url": "https://www.devdiscourse.com/article/politics/3438982-trump-nominates-emil-bove-amid-controversies",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-28T23:29:05Z",
+      "content": "President Donald Trump has nominated Emil Bove, a Justice Department official, to the 3rd U.S. Circuit Court of Appeals. The nomination, announced on Trump's social media platform, Truth Social, has stirred both support and controversy due to Bove's ... [775 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1748474945
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WEAU"
+      },
+      "author": "WEAU",
+      "title": "Federal trade court blocks Trump from imposing sweeping tariffs under emergency powers law",
+      "description": "A federal trade court is blocking President Donald Trump from imposing sweeping tariffs on imports under an emergency-powers law.",
+      "url": "https://www.weau.com/2025/05/28/federal-trade-court-blocks-trump-imposing-sweeping-tariffs-under-emergency-powers-law/",
+      "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/K4XVRDCJ5RH5VCOS3EXSTBPQTY.jpg?auth=1fa74a4e42976447b4598c2a0f22868658af3ceb9304892345517df26d9157cc&width=1200&height=600&smart=true",
+      "publishedAt": "2025-05-28T23:26:30Z",
+      "content": "WASHINGTON (AP) — A federal court on Wednesday blocked President Donald Trump from imposing sweeping tariffs on imports under an emergency-powers law, swiftly throwing into doubt Trump’s signature set of economic policies that have rattled global fin... [4969 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748474790
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "US court blocks Trump from imposing the bulk of his tariffs",
+      "description": "A three-judge panel at the US Court of International Trade, a relatively low-profile court in Manhattan, ruled Wednesday to halt Trump’s global tariffs that he imposed citing emergency economic powers, including his “Liberation Day” tariffs imposed on April 2 and tariffs placed earlier against China, Mexico and Canada designed to combat fentanyl coming into the United States.",
+      "url": "https://edition.cnn.com/2025/05/28/business/us-court-blocks-trumps-tariffs",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2208185431-20250415000638365.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-28T23:15:44Z",
+      "content": "New York CNN —\nA federal court on Wednesday ruled that President Donald Trump overstepped his authority to impose sweeping tariffs that have raised the cost of imports for everyone from giant businesses to everyday Americans.\nBut the administration i... [8362 chars]",
+      "tags": [
+        "legal_justice",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748474144
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Judge says U.S. effort to deport pro-Palestinian activist likely unconstitutional",
+      "description": "A federal judge said the Trump administration’s effort to deport Mahmoud Khalil because of his pro-Palestinian activism at Columbia University likely violates the Constitution.",
+      "url": "https://www.cp24.com/news/world/2025/05/28/judge-says-us-effort-to-deport-mahmoud-khalil-on-foreign-policy-grounds-is-likely-unconstitutional/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/5AJVDF6N72OMQ3FWVUCE4GMLVU.jpg?smart=true&auth=25f9d0476834e5f5031e66d3bc45aa2dbbb0e23a9c5e5905a299c6332d5f8886&width=1200&height=630",
+      "publishedAt": "2025-05-28T23:07:10Z",
+      "content": "Student negotiator Mahmoud Khalil is seen at a pro-Palestinian protest encampment on the Columbia University campus in New York, April 29, 2024. (AP Photo/Ted Shaffrey, File)\nNEW YORK — A federal judge said the Trump administration’s effort to deport... [2714 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1748473630
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Debunking Harvard Rumors: Barron Trump Didn't Apply",
+      "description": "Rumors falsely suggested that Barron Trump was rejected by Harvard, prompting President Trump to cut funding to the university. A spokesperson clarified that Barron did not apply to Harvard. He is currently attending New York University. Recently, the Trump administration's decision to prevent Harvard from enrolling international students was halted by a federal judge.",
+      "url": "https://www.devdiscourse.com/article/education/3438975-debunking-harvard-rumors-barron-trump-didnt-apply",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_16_07_12_1951489.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-28T23:00:40Z",
+      "content": "Rumors had circulated claiming that Barron Trump, son of US President Donald Trump, was rejected by Harvard University, allegedly leading to federal funding cuts for the Ivy League school.\nNicholas Clemens, spokesperson for Barron's mother, Melania T... [360 chars]",
+      "tags": [
+        "personal_family",
+        "education",
+        "off_topic"
+      ],
+      "publishedAtTs": 1748473240
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Court blocks Trump from imposing sweeping tariffs under emergency powers law",
+      "description": "At least seven lawsuits are challenging the levies, the centrepiece of Mr Trump’s trade policy.",
+      "url": "https://www.breakingnews.ie/world/court-blocks-trump-from-imposing-sweeping-tariffs-under-emergency-powers-law-1767839.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjkwMTA2MzVcXFwvZjgyNzI0ZDBjYzdlNGIwZTk2OWE0YjRiZTIyMWNjOTcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3YWEyNDI0MjFkNWJjMDE1NjIzMzE2NDU5YTUxYzM3ODI3OTM1OTllIn0=/court-blocks-trump-from-imposing-sweeping-tariffs-under-emergency-powers-law.jpg",
+      "publishedAt": "2025-05-28T23:00:00Z",
+      "content": "A federal trade court on Wednesday blocked US President Donald Trump from imposing sweeping tariffs on imports under an emergency-powers law.\nThe ruling from a three-judge panel at the New York-based Court of International Trade came after several la... [1916 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1748473200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "A look at what happens to Trump’s tariffs following federal court ruling",
+      "description": "The US Court of International Trade has jurisdiction over civil cases involving trade.",
+      "url": "https://www.breakingnews.ie/world/a-look-at-what-happens-to-trumps-tariffs-following-federal-court-ruling-1767844.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjkwNDQ3MjZcXFwvMDc2YzQ5YWUwZjAzNDgzNDhlNzgzYTcyOGM4MjMzZTktMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImI2Y2JjODIwNjJjYzZlZTQzMTQzNmQxOTIxNWZjMGRmMzU5ZDU4MmIifQ==/a-look-at-what-happens-to-trump-s-tariffs-following-federal-court-ruling.jpg",
+      "publishedAt": "2025-05-28T23:00:00Z",
+      "content": "A federal court in New York handed US President Donald Trump a big setback on Wednesday, blocking his audacious plan to impose massive taxes on imports from almost every country in the world.\nA three-judge panel of the US Court of International Trade... [4840 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748473200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Musk leaving Trump administration - White House official",
+      "description": "Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leading the so-called Department of Government Efficiency in a controversial effort to slash federal spending.",
+      "url": "https://www.rte.ie/news/us/2025/0529/1515552-elon-musk-trump-administration/",
+      "urlToImage": "https://www.rte.ie/images/00229fc6-1600.jpg",
+      "publishedAt": "2025-05-28T23:00:00Z",
+      "content": "Billionaire Tesla CEO Elon Musk is leaving the Trump administration after leading the so-called Department of Government Efficiency in a controversial effort to slash federal spending.\nA White House official said that it was accurate that Mr Musk is ... [2773 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1748473200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Which tariffs did a US court block and what happens now?",
+      "description": "A federal court in New York handed US President Donald Trump a big setback, blocking his audacious plan to impose massive taxes on imports from almost every country in the world.",
+      "url": "https://www.rte.ie/news/2025/0529/1515558-tariffs-court/",
+      "urlToImage": "https://www.rte.ie/images/0021e2a7-1600.jpg",
+      "publishedAt": "2025-05-28T23:00:00Z",
+      "content": "A federal court in New York handed US President Donald Trump a big setback, blocking his audacious plan to impose massive taxes on imports from almost every country in the world.\nA three-judge panel of the US Court of International Trade ruled that M... [4757 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1748473200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "US appeals court temporarily reinstates Trump's tariffs",
+      "description": "A US federal appeals court has reinstated the most sweeping of President Donald Trump's tariffs, a day after a trade court had ruled he had exceeded his authority in imposing the duties and had ordered an immediate block on them.",
+      "url": "https://www.rte.ie/news/world/2025/0529/1515551-us-tariffs/",
+      "urlToImage": "https://www.rte.ie/images/00223429-1600.jpg",
+      "publishedAt": "2025-05-28T23:00:00Z",
+      "content": "A US federal appeals court has reinstated the most sweeping of President Donald Trump's tariffs, a day after a trade court had ruled he had exceeded his authority in imposing the duties and had ordered an immediate block on them.\nThe United States Co... [5885 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748473200
     }
   ]
 }

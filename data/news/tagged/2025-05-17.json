@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 23,
   "articles": [
     {
       "source": {
@@ -16,8 +16,8 @@
       "content": "\"Trump is now threatening Supreme Court justices who ruled against him,\" Democratic influencer Harry Sisson said on Saturday.\nThat is just one of the notable people who over the weekend accused the president of lobbing indirect threats at the members... [2111 chars]",
       "tags": [
         "legal_justice",
-        "security_intelligence",
-        "media_communications"
+        "supreme_court",
+        "elections_politics"
       ],
       "publishedAtTs": 1747525693
     },
@@ -35,10 +35,8 @@
       "content": "The U.S. embassy in Libya strongly refuted claims on Sunday of a purported U.S. government initiative to relocate Palestinians from Gaza to Libya, as reported by NBC News. According to the report, the Trump administration had plotted to permanently t... [604 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
-        "legal_justice",
-        "government_administration",
-        "policy_legislation"
+        "gaza",
+        "israel"
       ],
       "publishedAtTs": 1747524310
     },
@@ -55,10 +53,7 @@
       "publishedAt": "2025-05-17T23:00:00Z",
       "content": "Romania's centrist Bucharest mayor Nicușor Dan appears on course to win the Romanian presidency in an election closely watched across Europe amid a rise in support for US President Donald Trump.\nExit polls showed Mr Dan at 55% of ballots, following a... [2205 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
-        "elections_politics",
-        "regional_state"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747522800
     },
@@ -75,10 +70,6 @@
       "publishedAt": "2025-05-17T22:06:31Z",
       "content": "The Trump administration has given up a legal fight to ban a device that makes semiautomatic weapons more powerful.\nThe Justice Department said Friday that it had reached a settlement ending litigation filed by the Biden administration to block the s... [526 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration",
-        "security_intelligence",
-        "policy_legislation",
         "gun_policy"
       ],
       "publishedAtTs": 1747519591
@@ -97,10 +88,8 @@
       "content": "After saying there'll be no movement toward peace in the war over Ukraine until he and Russian President Vladimir Putin have a meeting of the minds , President Trump said he plans to talk to him on Monday. Trump posted Saturday that he plans to talk ... [1008 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
         "ukraine",
-        "security_intelligence",
-        "national_security"
+        "russia"
       ],
       "publishedAtTs": 1747519200
     },
@@ -118,10 +107,8 @@
       "content": "Secretary Rubio says Trump wants summit with Russia's Putin \"as soon as feasible\"\nSecretary of State Marco Rubio spoke on the phone Saturday with his Russian counterpart, Sergey Lavrov, to get a readout on the latest talks, as the U.S. tries to deter... [2652 chars]",
       "tags": [
         "foreign_policy",
-        "national_security",
-        "military",
-        "russia",
-        "ukraine"
+        "ukraine",
+        "russia"
       ],
       "publishedAtTs": 1747518856
     },
@@ -159,8 +146,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "nato"
+        "ukraine"
       ],
       "publishedAtTs": 1747516838
     },
@@ -178,8 +164,10 @@
       "content": "WASHINGTON — A key House Republican holdout on President Trump’s “big, beautiful bill” to provide tax cuts, border security, defense spending and green energy clawbacks is still calling for deeper spending cuts to chip away at the national debt — as ... [5102 chars]",
       "tags": [
         "policy_legislation",
-        "economy_finance",
-        "government_administration"
+        "budget",
+        "healthcare",
+        "energy",
+        "taxes"
       ],
       "publishedAtTs": 1747514855
     },
@@ -197,10 +185,252 @@
       "content": "The Trump administration will allow the sale of forced-reset triggers, which make semiautomatic rifles fire more rapidly, with the federal government ending a long-standing ban as part of a settlement that also requires it to return seized devices. T... [2032 chars]",
       "tags": [
         "gun_policy",
-        "legal_justice",
-        "security_intelligence"
+        "legal_justice"
       ],
       "publishedAtTs": 1747513800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump administration allows device for semi-automatic weapons",
+      "description": "U.S. President Donald Trump’s administration agreed on Friday to permit the sale of a device that allows for semi-automatic rifles to be fired quicker, a decision that gun control activists say paves the way for more mass shootings.",
+      "url": "https://www.cp24.com/news/world/2025/05/17/device-that-makes-semi-automatic-rifles-fire-quicker-allowed-by-trump-administration/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/XE2BTZBZNVEEBFXMUJJFZT52PQ.JPG?smart=true&auth=861569893cb1dc80e399dab110bd2f92e2d97295c78a04e52d10e3d563269938&width=1200&height=630",
+      "publishedAt": "2025-05-17T20:21:20Z",
+      "content": "Semi-automatic rifles on display at R Guns on April 29, 2023, in Carpentersville, Illinois. (John J. Kim/Chicago Tribune/Tribune News Service via Getty Images via CNN Newsource)\nU.S. President Donald Trump’s administration agreed on Friday to permit ... [3546 chars]",
+      "tags": [
+        "gun_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1747513280
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump to talk to Putin on Monday about Ukraine ceasefire proposal and trade",
+      "description": "In social media posts, president also slammed Walmart for price increases and spread anti-Clinton conspiracy theories",
+      "url": "https://www.theguardian.com/us-news/2025/may/17/trump-putin-zelenskyy-social-media-clintons-walmart",
+      "urlToImage": "https://i.guim.co.uk/img/media/402342c08830bcd60acc8e6c7c4a7e5b30ae4318/332_0_3319_2656/master/3319.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=816993c91b253ff9357c946539490f98",
+      "publishedAt": "2025-05-17T19:39:58Z",
+      "content": "Donald Trump has said that he will speak to both Vladimir Putin and Volodymyr Zelenskyy in an effort to stop what he called the “bloodbath” war in Ukraine, in a barrage of new social media posts that included baseless conspiracy theories and a demand... [4895 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia",
+        "media_communications",
+        "social_media"
+      ],
+      "publishedAtTs": 1747510798
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Walz calls Trump a \"tyrant\" who abuses power and violates rule of law",
+      "description": "Minnesota Gov. Tim Walz, the vice presidential nominee in 2024, made his remarks at the University of Minnesota's law school commencement ceremony.",
+      "url": "https://www.cbsnews.com/news/walz-calls-trump-a-tyrant/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/08/076c323f-2de8-4e43-9778-4c927ed19d0f/thumbnail/1200x630/a82d545f9e70c96ce14cc2be701ade62/gettyimages-2182605122-1.jpg?v=6df9366690ed146f169dd0670c453f91",
+      "publishedAt": "2025-05-17T19:29:00Z",
+      "content": "Democratic Gov. Tim Walz of Minnesota criticized President Trump in a law school graduation speech Saturday, accusing the Republican president of creating a national emergency by repeatedly violating the rule of law.\nWalz, the vice presidential nomin... [3164 chars]",
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1747510140
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Self-interest the trump card as householders queue for subsidised battery boom",
+      "description": "Demand for household batteries in Australia is on the cusp of an explosion, and new data suggest most people are motivated by personal considerations.",
+      "url": "https://www.abc.net.au/news/2025-05-18/self-interest-trumps-all-as-punters-eye-subsidised-batteries/105302640",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/620955248b7ead025d056584aa28da7c?impolicy=wcms_watermark_news&cropH=534&cropW=950&xPos=0&yPos=195&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-17T19:06:14Z",
+      "content": "In Sydney's south west, Anneliese Alexander's home has long been solar powered.\nShe and her husband installed solar panels not long after buying the place about 13 years ago.\nSince then, they've expanded the system to 13 kilowatts of capacity — enoug... [7775 chars]",
+      "tags": [
+        "energy",
+        "climate_policy"
+      ],
+      "publishedAtTs": 1747508774
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Our future lies in the clash between the US president and Pope Leo, the anti-Trump",
+      "description": "The contrast of Pope Leo and Donald Trump goes far beyond Christendom or American economic power; it goes to what we want from our leaders, who we will follow, who we will heed, and where our future lies.",
+      "url": "https://www.abc.net.au/news/2025-05-18/pope-leo-woke-counter-weight-us-president-donald-trump/105294682",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/da3169bd6920fd7fcdeae3b06d127119?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=65&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-05-17T19:00:00Z",
+      "content": "Pope Leo XIV began his first speech with one word: \"Peace.\"\nYet even that was viewed as a provocation by ideologues who had already dismissed him as the \"woke pope\". It's an odd slur to cast on a person who has just said that perhaps racism isn't suc... [5615 chars]",
+      "tags": [
+        "social_issues",
+        "leadership"
+      ],
+      "publishedAtTs": 1747508400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Could Trump stay in power beyond 2029?",
+      "description": "U.S. President Donald Trump's repeated suggestions he may seek a third term have sparked concern among constitutional scholars and political observers.",
+      "url": "https://www.vancouverisawesome.com/highlights/opinion-how-donald-trump-could-remain-president-of-the-united-states-10648703",
+      "urlToImage": "https://www.vmcdn.ca/f/files/glaciermedia/images/people/donaldtrumppixabay.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-17T19:00:00Z",
+      "content": "Donald Trump has repeatedly floated the idea of remaining in office once his term ends. Examples from other countries show how presidents have circumvented constitutional term limits.\nUnited States President Donald Trump has repeatedly floated the id... [6698 chars]",
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "leadership"
+      ],
+      "publishedAtTs": 1747508400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "How the S&P 500 recovered all of its losses for the year",
+      "description": "Conditions appeared dire for the stock market in early April. President Donald Trump followed through on a campaign promise and announced sweeping tariffs against most U.S. trading partners. The S&P 500 dropped 12 per cent in four days.",
+      "url": "https://www.cp24.com/news/money/2025/05/17/how-the-sp-500-recovered-all-of-its-losses-for-the-year/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/T27RDJT2FQ46J4FFLJPWVQW3DQ.jpg?smart=true&auth=db62024b91db0658de3ea82adba0eea206bdf663949f3bf6799e894588fbfe56&width=1200&height=630",
+      "publishedAt": "2025-05-17T18:57:22Z",
+      "content": "Trader Jonathan Corpina works on the floor of the New York Stock Exchange, Wednesday, May 14, 2025. (AP Photo/Richard Drew)\nNEW YORK — Conditions appeared dire for the stock market in early April. President Donald Trump followed through on a campaign... [4219 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1747508242
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Inquisitr"
+      },
+      "author": "The Inquisitr",
+      "title": "Diddy Reportedly Begs Trump for a Pardon as Trial Bombshells Erupt",
+      "description": "Amid explosive trial testimony and mounting charges, P Diddy is allegedly seeking a presidential pardon from Donald Trump—despite once disavowing him.",
+      "url": "https://www.inquisitr.com/diddy-reportedly-begs-trump-for-a-pardon-as-trial-bombshells-erupt",
+      "urlToImage": "https://www.inquisitr.com/wp-content/uploads/2025/05/Will-Trump-Forgive-Diddy.jpg",
+      "publishedAt": "2025-05-17T18:39:27Z",
+      "content": "Sean “P Diddy” Combs is trying is level best to get a pardon from the President, Donald Trump, while he is battling his current federal legal woes. Reports state that, it has been for several months that many allies of the 55-year-old music icon have... [3235 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1747507167
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Ajit Ranade: Decode Trump’s trade strategy for India’s own game plan",
+      "description": "The US pause in its tariff war with China sends signals that should serve as inputs for New Delhi’s trade thrust plans. Here’s what a US-China mutual climbdown actually means and what India should do in the context of this development.",
+      "url": "https://www.livemint.com/opinion/online-views/donald-trump-tim-cook-apple-india-us-china-trade-war-india-us-trade-deal-new-delhi-economic-reforms-brics-coalition-quad-11747467906120.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/05/18/1600x900/2-0-1473127789-istockphoto-1153303964-2048x2048-0_1679919877272_1747547949676.jpg",
+      "publishedAt": "2025-05-17T18:30:00Z",
+      "content": "The US and China have agreed to a 90-day truce in their trade war, with the former reducing tariffs from 145% to 30% on Chinese imports and the latter cutting them from 125% to 10% on US goods. After the tough talk of US President Donald Trump on ‘Li... [5564 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1747506600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Trump Tells Walmart to ‘Eat the Tariffs’ After Retailer Says Prices Could Rise",
+      "description": "Walmart, the nation’s largest retailer, is just one of several companies that have said they will be forced to pass on the costs of President Trump’s global tariffs to consumers.",
+      "url": "https://www.nytimes.com/2025/05/17/us/politics/trump-walmart-eat-the-tariffs-prices.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/05/17/multimedia/17trump-news-walmart-topart-tqvg/17trump-news-walmart-topart-tqvg-facebookJumbo.jpg",
+      "publishedAt": "2025-05-17T18:27:42Z",
+      "content": "President Trump scolded Walmart on Saturday after the retail giant warned that his tariffs would force it to raise prices, writing on social media that the discount chain could afford to absorb the costs of the new import taxes without passing them o... [607 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1747506462
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Walz calls Trump a ‘tyrant’ who is trampling Americans’ rights and violating the rule of law",
+      "description": "Walz pointed to Trump's immigration crackdown, which includes deporting alleged gang members to a notorious prison in El Salvador without due process, and the offer of a gifted jet from the Qatari ruling family to the president.",
+      "url": "https://indianexpress.com/article/world/walz-calls-trump-a-tyrant-who-is-trampling-americans-rights-and-violating-the-rule-of-law-10012981/",
+      "urlToImage": "https://images.indianexpress.com/2025/05/US_1b0b1f.jpg",
+      "publishedAt": "2025-05-17T18:23:55Z",
+      "content": "Democratic Gov. Tim Walz of Minnesota assailed Donald Trump in a law school graduation speech Saturday, accusing the Republican president of creating a national emergency by repeatedly violating the rule of law.\nWalz, the vice presidential nominee in... [3236 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1747506235
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Nonprofit leaders say they are bracing for potential targeting by the Trump administration after a controversial tax measure advances in Congress",
+      "description": "A House measure that would make it easier to yank the tax-exempt status of nonprofits that the Trump administration deems as supporting terrorism marks the latest effort by the president and his Republican allies to hobble organizations that oppose his agenda, some nonprofit leaders argue.",
+      "url": "https://edition.cnn.com/2025/05/17/politics/nonprofit-leaders-say-they-are-bracing-for-potential-targeting-by-the-trump-administration-after-a-controversial-tax-measure-advances-in-congress",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2203953647.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-17T18:11:52Z",
+      "content": "CNN —\nA House measure that would make it easier to yank the tax-exempt status of nonprofits the Trump administration deems as supporting terrorism marks the latest effort by the president and his Republican allies to hobble organizations that oppose ... [8666 chars]",
+      "tags": [
+        "taxes",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1747505512
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BradfordToday"
+      },
+      "author": "BradfordToday",
+      "title": "Trump says he will call Putin, then Zelenskyy, on Monday to push for Ukraine ceasefire",
+      "description": "KYIV, Ukraine (AP) — U.S.",
+      "url": "https://www.bradfordtoday.ca/world-news/trump-says-he-will-call-putin-then-zelenskyy-on-monday-to-push-for-ukraine-ceasefire-10676759",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/36255e482167125f009945179cb6c21434184c907bd67f16924338853accb6a0.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-17T17:56:55Z",
+      "content": "KYIV, Ukraine (AP) — U.S. President Donald Trump said that he plans to speak by phone Monday with Russian leader Vladimir Putin, followed by Ukrainian President Volodymyr Zelenskyy and leaders of various NATO countries, about ending the war in Ukrain... [6014 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "nato"
+      ],
+      "publishedAtTs": 1747504615
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -16,10 +16,8 @@
       "content": "Trump’s ally Elon Musk, head of the self-styled “department of government efficiency” unit that is spearheading the search for spending cuts, said he would send a second email asking federal workers to detail what they achieved at work. (AP)\nBilliona... [542 chars]",
       "tags": [
         "economy_finance",
-        "taxes",
-        "small_business",
-        "media_communications",
-        "personal_business"
+        "trade",
+        "personal_family"
       ],
       "publishedAtTs": 1745365562
     },
@@ -36,11 +34,8 @@
       "publishedAt": "2025-04-22T23:30:56Z",
       "content": "Tesla reported lower than expected earnings on Tuesday, with first-quarter profits dropping 71% on much lower sales of electric vehicles. The news isn’t altogether surprising, given the fact that Tesla CEO Elon Musk is the public face of the company ... [7248 chars]",
       "tags": [
-        "stock_market",
         "economy_finance",
-        "personal_business",
-        "media_communications",
-        "elections_politics"
+        "automotive"
       ],
       "publishedAtTs": 1745364656
     },
@@ -57,9 +52,8 @@
       "publishedAt": "2025-04-22T23:00:41Z",
       "content": "White House press secretary Karoline Leavitt speaks during a press briefing at the White House in Washington on Tuesday, April 22, 2025. AP / Mark Schiefelbein\nWASHINGTON — White House Press Secretary Karoline Leavitt said Tuesday there have been “su... [3787 chars]",
       "tags": [
-        "border_security",
-        "government_administration",
-        "policy_legislation"
+        "immigration",
+        "trade"
       ],
       "publishedAtTs": 1745362841
     },
@@ -77,8 +71,6 @@
       "content": "US stocks rose as a worldwide rally came back around to Wall Street after President Donald Trump appeared to back off his criticism of the Federal Reserve and his tough talk in his trade war.\nThe S&P 500 climbed 1.7% and added to its big gain from Tu... [5447 chars]",
       "tags": [
         "economy_finance",
-        "policy_legislation",
-        "foreign_policy",
         "stock_market",
         "trade"
       ],
@@ -98,10 +90,8 @@
       "content": "President Donald Trump lashed out at Ukrainian President Volodymyr Zelenskyy saying the Ukrainian leader is prolonging the “killing field” after he pushed back on ceding Crimea to Russia as part of a potential peace plan.\nMr Zelensky on Tuesday ruled... [3522 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
         "ukraine",
-        "security_intelligence",
-        "national_security"
+        "russia"
       ],
       "publishedAtTs": 1745362800
     },
@@ -119,8 +109,7 @@
       "content": "Elon Musk has said the time he spends with Donald Trump's Department of Government Efficiency (DOGE) will \"drop significantly\" from May and he will allocate more time to Tesla.\nIt comes after first-quarter profits at Tesla sank as the company grapple... [3000 chars]",
       "tags": [
         "government_administration",
-        "economy_finance",
-        "personal_family"
+        "personnel"
       ],
       "publishedAtTs": 1745362320
     },
@@ -138,10 +127,7 @@
       "content": "Rosie O’Donnell said she fled the U.S. in part to protect her “autistic, amazing, nonbinary child” after reading a plan for the country laid out by some of President Trump’s strongest supporters.\n“I knew after reading Project 2025 that if Trump got i... [1919 chars]",
       "tags": [
         "social_issues",
-        "lgbtq_rights",
-        "personal_family",
-        "crisis_emergency",
-        "political_endorsements"
+        "personal_family"
       ],
       "publishedAtTs": 1745361968
     },
@@ -158,9 +144,8 @@
       "publishedAt": "2025-04-22T22:33:01Z",
       "content": "President Donald Trump said Tuesday he has no plans to fire Federal Reserve Chair Jerome Powell, just days after his statement that he would like to terminate the head of the U.S. central bank caused a stock market selloff.\n“I have no intention of fi... [3065 chars]",
       "tags": [
-        "government_administration",
         "economy_finance",
-        "banking"
+        "trade"
       ],
       "publishedAtTs": 1745361181
     },
@@ -177,11 +162,8 @@
       "publishedAt": "2025-04-22T22:27:16Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "border_security",
-        "criminal_cases",
-        "legal_justice",
-        "foreign_policy",
-        "latin_america"
+        "immigration",
+        "law_enforcement"
       ],
       "publishedAtTs": 1745360836
     },
@@ -198,10 +180,172 @@
       "publishedAt": "2025-04-22T22:23:03Z",
       "content": "Donald Trump has said he has no plans to fire the Federal Reserve chairman, Jerome Powell, days after calling the central bank boss a “major loser” whose “termination cannot come fast enough!”\n“I have no intention of firing him,” Trump told reporters... [1464 chars]",
       "tags": [
-        "economy_finance",
-        "banking"
+        "government_administration",
+        "economy_finance"
       ],
       "publishedAtTs": 1745360583
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "In Trump 2.0, the mistakes are multiplying",
+      "description": "High-profile mistakes — and the ensuing headaches — are piling up for President Donald Trump’s administration.",
+      "url": "https://edition.cnn.com/2025/04/22/politics/trump-administration-errors-hegseth-irs-harvard-what-matters/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210722801.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-04-22T22:18:14Z",
+      "content": "A version of this story appeared in CNN’s What Matters newsletter. To get it in your inbox, sign up for free here.\nCNN —\nHigh-profile mistakes – and the ensuing headaches – are piling up for President Donald Trump’s administration.\nIt was an “adminis... [5371 chars]",
+      "tags": [
+        "government_administration",
+        "leadership"
+      ],
+      "publishedAtTs": 1745360294
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "'No intention' of firing Jerome Powell",
+      "description": "U.S. President Donald Trump said Tuesday he has no plans to fire Federal Reserve Chair Jerome Powell, just days after his statement that he would like to terminate the head of the U.S. central bank caused a stock market selloff.",
+      "url": "https://www.cp24.com/news/world/2025/04/22/trump-says-he-has-no-intention-of-firing-federal-reserve-chair/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/WNGWS5KRL2RXIK43ILKXY3ISVQ.jpg?smart=true&auth=d71ed595208f6bed6e6fceed9bc4177f5a6ca90a7f846e9ea9ecb4d2def980d2&width=1200&height=630",
+      "publishedAt": "2025-04-22T22:18:07Z",
+      "content": "President Donald Trump speaks with reporters as he participates in a ceremonial swearing in of Paul Atkins as chairman of the Securities and Exchange Commission, in the Oval Office of the White House, Tuesday, April 22, 2025, in Washington. (AP Photo... [1456 chars]",
+      "tags": [
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1745360287
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Donald Trump pounds another nail into the NDP’s coffin",
+      "description": "As voters rally to the cause of Canada, they are running away from the NDP. If this campaign is a fight for the federation’s survival, it’s now a two-way fight",
+      "url": "https://www.thestar.com/politics/political-opinion/donald-trump-pounds-another-nail-into-the-ndps-coffin/article_735d97a8-224e-402c-b2da-ac22cd4f2b18.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/b5/ab593895-ac28-5056-ab82-4cd21bd41d59/680800bde8d0a.image.jpg?crop=1748%2C918%2C0%2C134&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-22T22:15:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1745360100
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Manchester Evening News"
+      },
+      "author": "Manchester Evening News",
+      "title": "Elon Musk says time with Donald Trump's DOGE will 'drop significantly' as Tesla profits plunge",
+      "description": "Tesla’s first-quarter profits plunged by more than two-thirds amid a backlash against the electric car company which has damaged sales and sent its stock plunging",
+      "url": "https://www.manchestereveningnews.co.uk/news/world-news/elon-musk-says-time-donald-31491113",
+      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article31319034.ece/ALTERNATES/s1200/0_Musk-cheese.jpg",
+      "publishedAt": "2025-04-22T22:13:32Z",
+      "content": "Elon Musk says time with Donald Trump's DOGE will 'drop significantly' as Tesla profits plunge\nTesla’s first-quarter profits plunged by more than two-thirds amid a backlash against the electric car company which has damaged sales and sent its stock p... [2210 chars]",
+      "tags": [
+        "economy_finance",
+        "automotive"
+      ],
+      "publishedAtTs": 1745360012
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Trump Promised ‘Big, Beautiful’ Deals. Delivering Has Been Tougher.",
+      "description": "So far, the goals of many of President Trump’s negotiations have been unrealized, even those he said would be accomplished in a matter of days or weeks.",
+      "url": "https://www.nytimes.com/2025/04/22/us/politics/trump-trade-ukraine-negotiations.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-trumpdeals1-wjgb/22dc-trumpdeals1-wjgb-facebookJumbo.jpg",
+      "publishedAt": "2025-04-22T22:13:24Z",
+      "content": "President Trump came into office promising to strike “big, beautiful deals.”\nHe quickly opened a dizzying number of negotiations to, naming just a few of his aims, end the war in Ukraine in 24 hours, bring peace to the Middle East and usher in dozens... [1403 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade_negotiations_truces",
+        "2024_presidential"
+      ],
+      "publishedAtTs": 1745360004
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump says he has \"no intention of firing\" Federal Reserve chief Jerome Powell",
+      "description": "President Trump said he isn't planning on firing Federal Reserve chair Jerome Powell, one day after calling Powell a \"major loser.\"",
+      "url": "https://www.cbsnews.com/news/trump-says-no-intention-of-firing-fed-chief-jerome-powell/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/04/04/bc332189-1ab7-44ed-97ab-6fa57b02edfa/thumbnail/1200x630/60b9d3db5a79588712c74fda67757295/ap25094563398677.jpg?v=edaea84d9f9990d3a4d8ddf0e6fb4e98",
+      "publishedAt": "2025-04-22T22:12:39Z",
+      "content": "President Trump said Tuesday he has \"no intention of firing\" Federal Reserve chair Jerome Powell, one day after the president called Powell a \"major loser\" and publicly lobbied the central bank chief to lower interest rates at a faster clip.\nWhen ask... [1623 chars]",
+      "tags": [
+        "economy_finance",
+        "personnel"
+      ],
+      "publishedAtTs": 1745359959
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Trump Administration Continues to Defy Judge’s Orders in Abrego Garcia Case, Lawyers Say",
+      "description": "In refusing to reveal much of anything about the administration’s efforts, department lawyers insisted the information constituted state secrets that needed to be protected.",
+      "url": "https://www.nytimes.com/2025/04/22/us/politics/trump-justice-department-abrego-garcia-el-salvador.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-immig-lpth/22dc-immig-lpth-facebookJumbo.jpg",
+      "publishedAt": "2025-04-22T22:10:32Z",
+      "content": "Continuing a pattern of stonewalling, the Justice Department has defied a judge’s order to explain what the Trump administration has done, and plans to do, to seek the release of a Maryland man who was wrongfully deported to El Salvador last month, a... [816 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1745359832
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Trump administration must restore Voice of America, judge rules",
+      "description": "A federal judge has blocked the shutdown of Voice of America, Radio Free Asia, and Middle East Broadcasting Network and ordered employees be reinstated.",
+      "url": "https://www.washingtonexaminer.com/news/justice/3388209/trump-administration-restore-voice-of-america-judge-rules/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/AP25063688411091.webp",
+      "publishedAt": "2025-04-22T22:10:00Z",
+      "content": "A federal judge ruled President Donald Trump must restore federal funding and employees to Voice of America and two of its sister outlets that the Trump administration has accused of spewing “radical propaganda.”\nUnder U.S. District Judge Royce Lambe... [2713 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1745359800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Tribal activists stand up for Long Island town's Chiefs mascot after Trump pledges 'fight' over NY Native American logo ban",
+      "description": "Native Americans both in New York and across the nation are joining President Trump's rallying cry to protect a Long Island school district from being forced by New York state to change its team name that is a nod to the town's indigenous history.",
+      "url": "https://nypost.com/2025/04/22/us-news/tribal-activists-stand-up-for-long-island-towns-chiefs-mascot-after-trump-pledges-fight-over-ny-native-american-logo-ban/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/pics-massapequa-high-school-mascot-103120852.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-22T22:09:11Z",
+      "content": "High-profile tribal activists backed a Long Island school in its fight to keep its team name despite a state ban on Native American logos – joining a President Trump rallying cry.\nFrank Black Cloud, a member of the Spirit Lake Nation in North Dakota,... [5219 chars]",
+      "tags": [
+        "civil_rights",
+        "social_issues"
+      ],
+      "publishedAtTs": 1745359751
     }
   ]
 }

@@ -34,7 +34,7 @@
       "tags": [
         "policy_legislation",
         "social_media",
-        "media_communications"
+        "congress"
       ],
       "publishedAtTs": 1769206123
     },
@@ -51,8 +51,7 @@
       "publishedAt": "2026-01-23T15:20:10Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the future of Racine, Wisconsin.\r\nOn The Vergecast: TV tie-ups, chatbot ads, AI hardware, and the fut… [+3507 chars]",
       "tags": [
-        "technology_regulation",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1769181610
     },
@@ -68,7 +67,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/hurricane-milton-1200x675.jpg",
       "publishedAt": "2026-01-23T17:30:22Z",
       "content": "One year ago, with one of the first strokes of his presidential Sharpie, President Donald Trump signed an executive order declaring a national energy emergency, making good on a campaign promise to d… [+7932 chars]",
-      "tags": [],
+      "tags": [
+        "climate_policy",
+        "policy_legislation",
+        "environment"
+      ],
       "publishedAtTs": 1769189422
     },
     {
@@ -84,10 +87,8 @@
       "publishedAt": "2026-01-23T01:25:44Z",
       "content": "A new entity has been created that will allow ByteDance to sell a majority stake in the U.S. operations of TikTok to a group of investors outside of China, according to new reports from the New York … [+2607 chars]",
       "tags": [
-        "social_media",
-        "technology_regulation",
-        "economy_finance",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "social_media"
       ],
       "publishedAtTs": 1769131544
     },
@@ -104,7 +105,9 @@
       "publishedAt": "2026-01-23T12:30:35Z",
       "content": "Elon Musk spoke at the World Economic Forum in Davos, Switzerland, on Thursday, making promises about the future of robots, cars, and space travel that you’ve likely heard before. The chat was unchar… [+8292 chars]",
       "tags": [
-        "personal_family"
+        "personal_family",
+        "technology_regulation",
+        "media_communications"
       ],
       "publishedAtTs": 1769171435
     },
@@ -122,8 +125,7 @@
       "content": "Michael Sheils McNamee and Joe Inwood\r\nAndy Reid has said he believes Donald Trump should apologise for the remarks \r\nAndy Reid had been in Afghanistan for three months when the incident happened tha… [+5941 chars]",
       "tags": [
         "foreign_policy",
-        "military",
-        "veterans_affairs"
+        "military"
       ],
       "publishedAtTs": 1769195382
     },
@@ -140,6 +142,7 @@
       "publishedAt": "2026-01-23T05:59:34Z",
       "content": "Donald Trump backed down from his threats on Greenland because the UK stood up for the Danish territory's sovereignty, David Lammy has told the BBC.\r\nThe deputy prime minster told Nick Robinson's Pol… [+3255 chars]",
       "tags": [
+        "greenland_acquisition",
         "foreign_policy"
       ],
       "publishedAtTs": 1769147974
@@ -156,7 +159,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c27b/live/2b4ae100-f813-11f0-b385-5f48925de19a.jpg",
       "publishedAt": "2026-01-23T05:19:03Z",
       "content": "Russian, Ukrainian and US negotiators will hold talks in the United Arab Emirates on Friday, in what officials say is the first meeting attended by all three countries since Moscow launched its full-… [+3919 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
       "publishedAtTs": 1769145543
     },
     {
@@ -172,8 +179,7 @@
       "publishedAt": "2026-01-23T22:48:04Z",
       "content": "Leila Nathoo,Political correspondent\r\nA bill aimed at enshrining in law the government's Chagos deal will not be debated in the Lords as previously planned. \r\nThe legislation, which would see the arc… [+3701 chars]",
       "tags": [
-        "foreign_policy",
-        "regional_state"
+        "foreign_policy"
       ],
       "publishedAtTs": 1769208484
     },
@@ -190,9 +196,8 @@
       "publishedAt": "2026-01-23T18:23:37Z",
       "content": "What you need to know\r\n<ul><li>It's been announced that ByteDance, the parent company of TikTok, has reached an agreement with the U.S. Government to keep its services online for users.</li><li>This … [+3833 chars]",
       "tags": [
-        "technology_regulation",
-        "social_media",
-        "government_administration"
+        "media_communications",
+        "social_media"
       ],
       "publishedAtTs": 1769192617
     },
@@ -208,7 +213,10 @@
       "urlToImage": "https://images.macrumors.com/t/6h84AUtqev88wWPEA9ltBNJsk5E=/1920x/article-new/2025/01/TikTok-on-iPhone.jpg",
       "publishedAt": "2026-01-23T12:46:05Z",
       "content": "TikTok has announced that it has finalized a deal to establish a majority American-owned joint venture, allowing the app to continue operating in the United States indefinitely.\r\nFirst agreed in Dece… [+2299 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
       "publishedAtTs": 1769172365
     },
     {
@@ -226,7 +234,7 @@
       "tags": [
         "foreign_policy",
         "nato",
-        "trump"
+        "europe"
       ],
       "publishedAtTs": 1769162400
     },
@@ -242,7 +250,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2929x1648+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2Fa9%2F932e794a4becbea88169b746a7bc%2Fgettyimages-2257446175.jpg",
       "publishedAt": "2026-01-23T19:27:42Z",
       "content": "DAVOS, Switzerland It was among the most volatile weeks for trans-Atlantic relations in recent history, marked by a series of disruptive statements from President Trump that unsettled global markets … [+5391 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "greenland_acquisition",
+        "gaza",
+        "trade_negotiations_truces"
+      ],
       "publishedAtTs": 1769196462
     },
     {
@@ -257,7 +270,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5124x2882+0+284/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2Fad%2Fe7b42d8a40cb8685009f0caf0bb0%2Fap26014727326007.jpg",
       "publishedAt": "2026-01-23T06:58:41Z",
       "content": "CARACAS, Venezuela Venezuela's legislature advanced a bill on Thursday to loosen state control over the country's vast oil sector in the first major overhaul since the late socialist leader Hugo Cháv… [+3668 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "energy"
+      ],
       "publishedAtTs": 1769151521
     },
     {
@@ -272,7 +288,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2572x1447+0+30/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F5e%2F77c5292f48f1bb7aca17bdd22469%2Fmexico-city-madagascar.png",
       "publishedAt": "2026-01-23T21:36:28Z",
       "content": "For over four decades, Republican presidents have banned U.S. funds from going to groups that provide or promote abortion and Democratic presidents have reversed the ban.\r\nOn Friday at the March for … [+6277 chars]",
-      "tags": [],
+      "tags": [
+        "abortion",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1769204188
     },
     {
@@ -287,7 +306,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7788x4381+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F90%2F0cb9e7e84cff8a7f078714cd86d4%2Fgettyimages-2257013210.jpg",
       "publishedAt": "2026-01-23T10:00:00Z",
       "content": "Minneapolis has quickly become the center of massive political unrest after Renee Macklin Good was shot and killed by a U.S. Immigration and Customs Enforcement (ICE) officer more than two weeks ago.… [+7771 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "protests",
+        "law_enforcement",
+        "immigration"
+      ],
       "publishedAtTs": 1769162400
     },
     {
@@ -302,7 +326,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7968x4482+0+415/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fc7%2Fc0b9d29440b081522304f2267f9f%2Fap26022660486653.jpg",
       "publishedAt": "2026-01-23T10:12:00Z",
       "content": "A major snow and ice storm is expected to affect tens of millions of people from Texas to New England over the weekend.\r\nThe storm is very large and it could be particularly dangerous because a frigi… [+4408 chars]",
-      "tags": [],
+      "tags": [
+        "environment",
+        "climate_policy",
+        "public_health"
+      ],
       "publishedAtTs": 1769163120
     },
     {
@@ -317,7 +345,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+463/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F77%2Fe131e0654623a4f77d71b122ab8a%2Fwhatsapp-image-2026-01-23-at-15-41.jpg",
       "publishedAt": "2026-01-23T22:10:38Z",
       "content": "Large crowds flooded downtown Minneapolis Friday afternoon, despite subzero temperatures, as part of a march and rally to protest the largest and most aggressive immigration enforcement operation bro… [+6404 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "protests",
+        "social_issues"
+      ],
       "publishedAtTs": 1769206238
     },
     {
@@ -332,7 +364,11 @@
       "urlToImage": "https://i.insider.com/69734c70d3c7faef0ecccb50?width=1200&format=jpeg",
       "publishedAt": "2026-01-23T12:04:51Z",
       "content": "California Gov. Gavin Newsom's return to Davos sparked clashes with Trump, canceled events, and speculation about a 2028 presidential run.Fabrice COFFRINI / AFP via Getty Images\r\n<ul><li>Gavin Newsom… [+3693 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2028_presidential",
+        "personal_activities"
+      ],
       "publishedAtTs": 1769169891
     },
     {
@@ -347,7 +383,10 @@
       "urlToImage": "https://i.insider.com/697381ffe1ba468a96aa9457?width=1200&format=jpeg",
       "publishedAt": "2026-01-23T15:14:09Z",
       "content": "TikTok's CEO Shou ChewTom Williams/CQ-Roll Call, Inc via Getty Images\r\n<ul><li>TikTok has finalized a deal to keep its business operating in the US.</li><li>The deal, a US joint venture, involves a n… [+4889 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "trade"
+      ],
       "publishedAtTs": 1769181249
     },
     {
@@ -362,7 +401,10 @@
       "urlToImage": "https://i.insider.com/6972b33ae1ba468a96aa907c?width=1200&format=jpeg",
       "publishedAt": "2026-01-23T14:15:22Z",
       "content": "Business Insider's Ben Bergman in DavosBen Bergman/Business Insider\r\n<ul><li>A version of this story originally appeared in the BI Tech Memo newsletter.</li><li>Sign up for the weekly BI Tech Memo ne… [+4222 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769177722
     },
     {
@@ -377,7 +419,10 @@
       "urlToImage": "https://i.insider.com/697264c3a645d1188187cfbb?width=1200&format=jpeg",
       "publishedAt": "2026-01-23T10:42:01Z",
       "content": "Casper Frank Møller, CEO and cofounder of Raw Arctic.Raw Arctic\r\n<ul><li>Raw Arctic, co-led by Casper Frank Møller, offers a range of adventure tours in Greenland.</li><li>US interest in Greenland an… [+4892 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "tourism"
+      ],
       "publishedAtTs": 1769164921
     },
     {
@@ -393,8 +438,7 @@
       "publishedAt": "2026-01-23T23:37:14Z",
       "content": "An Ubisoft developer I chatted with back in 2022 was feeling pretty jealous. Elden Ring had just come out and was blowing people away. Despite FromSoftware’s reputation for challenging gameplay and e… [+6789 chars]",
       "tags": [
-        "personal_family",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1769211434
     },
@@ -412,8 +456,7 @@
       "content": "WASHINGTON (AP) President Donald Trump gives. And he takes away.\r\nOffended by Canadian Prime Minister Mark Carney's increasingly assertive posture toward the U.S., Trump revoked an invitation to join… [+6709 chars]",
       "tags": [
         "foreign_policy",
-        "canada",
-        "leadership"
+        "canada"
       ],
       "publishedAtTs": 1769212478
     },
@@ -448,7 +491,6 @@
       "publishedAt": "2026-01-23T03:29:24Z",
       "content": "National Park Service staff took down slavery exhibits at Philadelphias Independence Mall on Thursday following a Trump-ordered crackdown on distorted narratives about the nations history. Crews have… [+394 chars]",
       "tags": [
-        "government_administration",
         "social_issues"
       ],
       "publishedAtTs": 1769138964
@@ -466,7 +508,6 @@
       "publishedAt": "2026-01-23T15:27:01Z",
       "content": "PHILADELPHIA (AP) The National Park Service has removed an exhibit on slavery at Philadelphia's Independence National Historical Park in response to President Donald Trump's executive order restoring… [+1926 chars]",
       "tags": [
-        "government_administration",
         "social_issues"
       ],
       "publishedAtTs": 1769182021
@@ -502,7 +543,7 @@
       "publishedAt": "2026-01-23T20:52:41Z",
       "content": "The Kennedy Center is scrambling to find a replacement for a pair of shows after the Grammy-winning soprano Renée Fleming canceled her appearances. Those cancellations make the 66-year-old Fleming th… [+363 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1769201561
     },
@@ -518,7 +559,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FdGYf_x95.61jpoddB.b8Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/af75ef66eca3e81d56d9cea7569cc157",
       "publishedAt": "2026-01-23T03:49:02Z",
       "content": "Russian President Vladimir Putin discussed the settlement in Ukraine with U.S. President Donald Trumps envoys during marathon overnight talks, and the Kremlin insisted that the territorial issue need… [+5918 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
       "publishedAtTs": 1769140142
     },
     {
@@ -535,8 +580,7 @@
       "content": "Gold prices rose on Friday morning, advancing closer to the $5,000 mark, as geopolitical concerns remained in focus for investors.\r\nGold futures (GC=F) were up 0.6% to $4,940.20 per ounce at the time… [+4077 chars]",
       "tags": [
         "economy_finance",
-        "inflation",
-        "trade"
+        "inflation"
       ],
       "publishedAtTs": 1769161435
     },
@@ -552,7 +596,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/db694ae4-19dd-4393-b3fb-bdcb04116cbb/president-1-ht-er-260122_1769125604626_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-23T22:07:54Z",
       "content": "The city of Philadelphia filed a federal lawsuit on Thursday against the Trump administration over the National Parks Services removal of the slavery memorial at the President's House in the city -- … [+3444 chars]",
-      "tags": [],
+      "tags": [
+        "civil_rights",
+        "legal_justice",
+        "social_issues"
+      ],
       "publishedAtTs": 1769206074
     },
     {
@@ -587,7 +635,7 @@
       "content": "LONDON -- Denmark's new government was less than two months old when U.S. President Donald Trump's campaign to acquire Greenland broke into public view in the summer of 2019.\r\n\"We thought it was unpr… [+7360 chars]",
       "tags": [
         "foreign_policy",
-        "europe"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1769162915
     },
@@ -603,7 +651,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5650e541-e7d7-4fa2-83e7-261f78815a1d/trilateral-talks-UAE_1769163539804_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-23T13:42:04Z",
       "content": "LONDON -- Delegations from Russia, Ukraine and the United States are set to hold trilateral talks in the United Arab Emirates on Friday in what officials say will be the first trilateral meeting sinc… [+4788 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
       "publishedAtTs": 1769175724
     },
     {
@@ -618,7 +670,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9e9daeea-57b0-46ca-bf12-3966479b94d8/250123_abcnl_3p_stuart_nixon_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-23T21:09:26Z",
       "content": "<ul><li>Your top questions about the winter storm, answered\r\n</li><li>Dangerous winter storm threatens Tennessee with ice, power outages\r\n</li><li>14 states declare state of emergency ahead of winter… [+4362 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "natural_disasters"
+      ],
       "publishedAtTs": 1769202566
     },
     {
@@ -633,7 +688,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/8b27e612-d720-4cd9-b363-fe3b1c21ec95/260123_abc_social_elephant_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-23T13:01:29Z",
       "content": "<ul><li>More than 160 million Americans under storm watches, warnings\r\n</li><li>Winter storm to create treacherous driving conditions\r\n</li><li>Winter storm to paralyze South, bring heavy snow to Nor… [+4320 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769173289
     },
     {
@@ -648,10 +705,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/57aa5335-9e9a-45e1-bf99-c327ca9300c4/260123_abc_social_extreme_cold1_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-23T16:14:22Z",
       "content": "<ul><li>What to be concerned most about the winter storm\r\n</li><li>US, Denmark will 'have something' on Greenland in 2 weeks: Trump\r\n</li><li>Ryan Wedding, former Olympian turned FBI most wanted fugi… [+4332 chars]",
-      "tags": [
-        "public_health_emergency",
-        "natural_disasters"
-      ],
+      "tags": [],
       "publishedAtTs": 1769184862
     },
     {
@@ -666,7 +720,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0745210a-b05c-42b6-91a3-7b891baf1630/260123_gma_strahan_bigbend10_0741_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-23T13:14:19Z",
       "content": "<ul><li>More than 160 million Americans under storm watches, warnings\r\n</li><li>Winter storm to create treacherous driving conditions\r\n</li><li>Winter storm to paralyze South, bring heavy snow to Nor… [+4320 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769174059
     },
     {
@@ -682,11 +738,7 @@
       "publishedAt": "2026-01-23T15:50:16Z",
       "content": "<ul><li>14 states declare state of emergency ahead of winter storm\r\n</li><li>What to be concerned most about the winter storm\r\n</li><li>US, Denmark will 'have something' on Greenland in 2 weeks: Trum… [+4358 chars]",
       "tags": [
-        "regional_state",
-        "florida",
-        "new_york",
-        "california",
-        "texas"
+        "off_topic"
       ],
       "publishedAtTs": 1769183416
     },
@@ -703,8 +755,7 @@
       "publishedAt": "2026-01-23T21:22:24Z",
       "content": "<ul><li>Your top questions about the winter storm, answered\r\n</li><li>Dangerous winter storm threatens Tennessee with ice, power outages\r\n</li><li>14 states declare state of emergency ahead of winter… [+4362 chars]",
       "tags": [
-        "social_issues",
-        "personal_family"
+        "social_issues"
       ],
       "publishedAtTs": 1769203344
     },
@@ -721,8 +772,7 @@
       "publishedAt": "2026-01-23T06:11:12Z",
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1769148672
     },
@@ -740,9 +790,7 @@
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
       "tags": [
         "criminal_cases",
-        "legal_justice",
-        "racial_justice",
-        "social_issues"
+        "civil_rights"
       ],
       "publishedAtTs": 1769147711
     },
@@ -759,8 +807,7 @@
       "publishedAt": "2026-01-23T06:08:39Z",
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1769148519
     },
@@ -776,7 +823,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9dd47cfd-8f5e-459c-a057-cf546026b1a1/260122_wn_johnson_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-23T06:10:13Z",
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
-      "tags": [],
+      "tags": [
+        "natural_disasters"
+      ],
       "publishedAtTs": 1769148613
     },
     {
@@ -791,7 +840,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4966f672-e17d-4707-9015-fbb3e1a46204/260123_abc_social_pancake_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-23T12:03:38Z",
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769169818
     },
     {
@@ -806,7 +857,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/fce6e175-0713-42f7-9acb-00199733145f/260123_gmafl_kitty__fat_camp_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-23T11:35:42Z",
       "content": "<ul><li>Conan OBrien gets Oscars ready\r\n</li><li>New text messages between Taylor Swift and Blake Lively raising eyebrows\r\n</li><li>Images of 5-year-old taken into ICE custody along with his father i… [+4414 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769168142
     },
     {
@@ -821,7 +874,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0383eecd-7b1c-44a7-9152-0e0af7ae7516/jd-vance-5-gty-gmh-260122_1769111931427_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-23T00:13:12Z",
       "content": "Vice President JD Vance, visiting Minneapolis on Thursday amid growing clashes between federal agents and anti-ICE protesters, said President Donald Trump had given him a \"directive\" to \"meet these g… [+6644 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "protests",
+        "law_enforcement"
+      ],
       "publishedAtTs": 1769127192
     },
     {
@@ -838,8 +895,7 @@
       "content": "TikTok said Thursday it completed the deal to spin off its U.S. operations -- concluding a yearslong battle over access to the wildly popular video app for millions of Americans.\r\nIn a press release,… [+1048 chars]",
       "tags": [
         "social_media",
-        "technology_regulation",
-        "media_communications"
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1769132283
     },
@@ -855,7 +911,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Tether-stablecoins-1200x675.jpg",
       "publishedAt": "2026-01-23T15:30:10Z",
       "content": "Last year, the United States embraced the stablecoin aspect of the crypto industry with the GENIUS Act, just as President Trump promised during his presidential campaign. As the admin intensifies its… [+4911 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "sanctions",
+        "trade"
+      ],
       "publishedAtTs": 1769182210
     },
     {
@@ -872,8 +932,7 @@
       "content": "The meeting, by the time it convened, seemed pointless. Some joked that it could have been an email.When European Union leaders agreed to gather yesterday, the plan was to ready their response to Pre… [+12883 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "trade"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1769208600
     },
@@ -891,9 +950,9 @@
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsJoan Brugge has worked for nearly 50 years as a cancer scientist, studying the earliest signs that someone might become sic… [+22844 chars]",
       "tags": [
         "social_issues",
-        "health_science",
+        "climate_policy",
         "education",
-        "policy_legislation"
+        "health_science"
       ],
       "publishedAtTs": 1769166000
     },
@@ -909,7 +968,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/v232HqwMtSzmt4WvuwCwSdGAK2w=/0x100:4716x2556/1200x625/media/img/mt/2026/01/2026_1_21_Chinese_Carmakers_Are_Closing_in_on_America/original.png",
       "publishedAt": "2026-01-23T21:03:00Z",
       "content": "Two decades ago, a California company called Tesla Motors almost single-handedly created the electric car as we now know it. Elon Musk’s company has dominated the industry across the globe ever since… [+7405 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "energy",
+        "automotive"
+      ],
       "publishedAtTs": 1769202180
     },
     {
@@ -924,7 +987,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Iaxp2CGqAPnmhL-fI1grD-agmvE=/0x43:2000x1085/1200x625/media/img/mt/2026/01/01_22_GB_Ollie/original.jpg",
       "publishedAt": "2026-01-23T18:30:00Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube In this episode of Galaxy Brain, host Charlie Warzel speaks with the reporter Ryan Broderick about how the internet’s fragmentation of attention and… [+43398 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "law_enforcement",
+        "social_media"
+      ],
       "publishedAtTs": 1769193000
     },
     {
@@ -939,7 +1006,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/E-0jaIEVuDnDyR0gjv4-YKQYQgA=/2x20:997x542/960x504/media/img/mt/2026/01/2026_01_13_Breland_Antisemeticmemes_final_bigger/original.gif",
       "publishedAt": "2026-01-23T19:08:58Z",
       "content": "Heinrich Himmler and other Third Reich occultists in the 1930s latched onto the strange idea that the Aryan race was not the product of evolution but descended from semidivine beings who left the hea… [+11699 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769195338
     },
     {
@@ -954,7 +1023,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88c3/live/920c7380-f85a-11f0-933b-47b4ddaac6f0.jpg",
       "publishedAt": "2026-01-23T14:06:10Z",
       "content": "Sarah RainsfordEurope correspondent , Kyiv\r\nUkraine wants peace more than anyone in this process\r\nNegotiators from Russia, Ukraine and the US are due to meet in Abu Dhabi for their first trilateral t… [+4356 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
       "publishedAtTs": 1769177170
     },
     {
@@ -969,7 +1042,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f167/live/d4eadac0-f887-11f0-b5f7-49f0357294ff.jpg",
       "publishedAt": "2026-01-23T19:25:27Z",
       "content": "Adrienne MurrayCopenhagen\r\nFrederiksen (left) said there was now a \"diplomatic, political track\" to pursue after a difficult week\r\nDanish PM Mette Frederiksen is visiting Greenland's capital Nuuk for… [+3432 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769196327
     },
     {
@@ -986,8 +1062,7 @@
       "content": "Watch: Starmer calls Trump's remarks about Nato troops in Afghanistan \"insulting and frankly appalling\"\r\nSir Keir Starmer has described President Donald Trump's remarks about British troops in Afghan… [+6179 chars]",
       "tags": [
         "foreign_policy",
-        "nato",
-        "trump"
+        "nato"
       ],
       "publishedAtTs": 1769190173
     },
@@ -1003,7 +1078,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/509c/live/71c5cbf0-f86c-11f0-b5f7-49f0357294ff.jpg",
       "publishedAt": "2026-01-23T15:33:01Z",
       "content": "Warning: This story contains details which some readers might find distressing.\r\nAn Iranian woman who witnessed the bloody crackdown on protests in Iran has described how her neighbourhood turned int… [+5752 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
       "publishedAtTs": 1769182381
     },
     {
@@ -1019,8 +1097,7 @@
       "publishedAt": "2026-01-23T00:20:27Z",
       "content": "Madina MaishanuBBC Africa, Kurmin Wali\r\nSarah Peter managed to escape from the kidnappers despite being hit on the head by one of the attackers\r\nThere was a huge plaster on Sarah Peter's head to stau… [+5127 chars]",
       "tags": [
-        "security_incidents",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1769127627
     },
@@ -1036,7 +1113,10 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/US-owned-TikTok-spinoff-agreed-will-still-use-Chinese-algorithm.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2026-01-23T15:07:36Z",
       "content": "TikToks future in the US has reached a major milestone today, as the new US-owned spinoff for American users has officially launched. Heres what that means for TikTok users in the US today, and movin… [+3407 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769180856
     },
     {
@@ -1051,7 +1131,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/a5624c55b7e0b57b/original/GettyImages-496672575-three-mile-island.jpeg?m=1769197137.289&w=1200",
       "publishedAt": "2026-01-23T20:00:00Z",
       "content": "Get an x-ray, and you get a small dose of radiation to visualize your bones and body structures to help you medically. Buy a smoke detector, you’re inviting a tiny source of radiation, americium-241,… [+6113 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "public_health",
+        "energy"
+      ],
       "publishedAtTs": 1769198400
     },
     {
@@ -1066,7 +1150,10 @@
       "urlToImage": "https://images.mktw.net/im-50786939/social",
       "publishedAt": "2026-01-23T14:22:00Z",
       "content": "There has been much talk lately about foreign investors backing away from the U.S. Treasury market, with President Donald Trump \r\nrecently threatening to retaliate against nations that sell.But the r… [+340 chars]",
-      "tags": [],
+      "tags": [
+        "national_debt",
+        "trade"
+      ],
       "publishedAtTs": 1769178120
     },
     {
@@ -1081,7 +1168,11 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/b0834f6f08a3dd0e4e136762b85af6ddc9424c42/hub/2026/01/23/c81d5cfa-0990-4952-872d-5854b6abd783/gettyimages-2254288859.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2026-01-23T12:54:40Z",
       "content": "TikTok has dodged a ban and secured its long-term future in the US by announcing a deal on Friday that will see a joint venture take over US operations of the popular social video app. The deal marks… [+3580 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "media_communications",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769172880
     },
     {
@@ -1096,7 +1187,11 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00067-0/d41586-026-00067-0_51969788.jpg",
       "publishedAt": "2026-01-23T00:00:00Z",
       "content": "The research vessel Tarojoq is the biggest research investment by Greenlands government to date.Credit: Alex Rivest\r\nThe streets of Nuuk, Greenland, were bustling in November not from protests or mil… [+4429 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "climate_policy",
+        "science_policy"
+      ],
       "publishedAtTs": 1769126400
     },
     {
@@ -1111,7 +1206,9 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/crime-rate-generic-unsplash-main.jpg",
       "publishedAt": "2026-01-23T13:51:07Z",
       "content": "There has never been a time in U.S. history with a lower recorded rate of homicide (or murder) than what we just experienced in 2025. That’s according to a major new analysis of crime data from 40 la… [+8139 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues"
+      ],
       "publishedAtTs": 1769176267
     },
     {
@@ -1126,7 +1223,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/10/main-Trump_Gold_Card.jpg",
       "publishedAt": "2026-01-23T15:51:14Z",
       "content": "Gold heads for best week since 2008 is not exactly a headline that makes you feel all warm and fuzzy inside, but such is the present state of the American economy. Silver is running hard too, rocketi… [+8529 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "prices"
+      ],
       "publishedAtTs": 1769183474
     },
     {
@@ -1143,8 +1244,7 @@
       "content": "The March for Life rally took place in Washington, D.C. on Friday, though some more apt names for the event might be the March for Fetuses Beause Women Are Just Wombs, the Anti-Abortion Rally Against… [+4663 chars]",
       "tags": [
         "abortion",
-        "social_issues",
-        "protests"
+        "social_issues"
       ],
       "publishedAtTs": 1769180722
     },
@@ -1181,7 +1281,7 @@
       "tags": [
         "economy_finance",
         "inflation",
-        "stock_market"
+        "prices"
       ],
       "publishedAtTs": 1769167842
     },
@@ -1197,7 +1297,11 @@
       "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/01/dfd02404-994c-4527-b5f8-d5f23fd9fdc1-671.jpeg",
       "publishedAt": "2026-01-23T01:54:34Z",
       "content": "A White House official said the US and China have finalized a deal to spin off TikTok’s US business to a consortium led by Oracle and Silver Lake, Fox Business reported Thursday. CNN reported the joi… [+4196 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "technology_regulation",
+        "media_communications"
+      ],
       "publishedAtTs": 1769133274
     },
     {
@@ -1213,8 +1317,7 @@
       "publishedAt": "2026-01-23T21:33:50Z",
       "content": "<ul><li>A Trump Mobile executive teased a higher-end T1 Ultra in a November interview.</li><li>Thats despite no one who ordered the original Trump phone having received it yet.</li><li>The executive … [+2271 chars]",
       "tags": [
-        "personal_business",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1769204030
     },
@@ -1230,7 +1333,11 @@
       "urlToImage": "https://www.bgr.com/img/gallery/tiktok-in-america-is-now-us-owned-with-major-changes-coming/l-intro-1769208087.jpg",
       "publishedAt": "2026-01-23T22:45:09Z",
       "content": "The headline-grabbing battle between TikTok and the U.S. government is officially over, as TikTok USDS Joint Venture LLC was formally established on January 22, 2026. Following the Executive Order si… [+1068 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "social_media",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1769208309
     },
     {
@@ -1245,7 +1352,10 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/09/tiktok-american-flag-featured.jpg",
       "publishedAt": "2026-01-23T13:26:13Z",
       "content": "TikTok has completed a deal to create a new U.S.-based joint venture, resolving years of uncertainty over whether the app would be banned in the United States. \r\nThe agreement establishes a majority … [+3062 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "media_communications"
+      ],
       "publishedAtTs": 1769174773
     },
     {
@@ -1260,7 +1370,10 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2026/01/White-House-Altered-Arrest-Photo.jpg",
       "publishedAt": "2026-01-23T14:23:30Z",
       "content": "Kristi Noem shared the photo on the left before the White House tweeted out the edited version on the right.\r\nThe official X account for The White House published a digitally altered photo of a prote… [+2080 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "fact_checking"
+      ],
       "publishedAtTs": 1769178210
     },
     {
@@ -1276,8 +1389,9 @@
       "publishedAt": "2026-01-23T21:42:44Z",
       "content": "from the another-way dept\r\nIt will be to the everlasting shame of all Americans that impeachment has not yet been accomplished to formally remove Trump from office. Not in his previous term, and not … [+17150 chars]",
       "tags": [
-        "elections_politics",
         "impeachment",
+        "legal_justice",
+        "elections_politics",
         "trump"
       ],
       "publishedAtTs": 1769204564
@@ -1295,8 +1409,8 @@
       "publishedAt": "2026-01-23T13:24:00Z",
       "content": "from the our-constituency-is-extremely-paranoid dept\r\nThe hype and madness surrounding 5G has always been pretty wild to watch.\r\nOn one hand, wireless carriers spent years implying that 5G was some t… [+5090 chars]",
       "tags": [
-        "technology_regulation",
-        "public_health"
+        "social_issues",
+        "health_science"
       ],
       "publishedAtTs": 1769174640
     },
@@ -1313,10 +1427,9 @@
       "publishedAt": "2026-01-23T20:16:21Z",
       "content": "from the bold-new-version-of-America dept\r\nCBS News still exists, despite a president doing all he can to turn it into his own Baghdad Betty. Journalists are still demanding answers from this adminis… [+6536 chars]",
       "tags": [
-        "social_issues",
+        "media_communications",
         "protests",
-        "free_speech",
-        "media_communications"
+        "social_issues"
       ],
       "publishedAtTs": 1769199381
     },
@@ -1333,9 +1446,9 @@
       "publishedAt": "2026-01-23T17:21:00Z",
       "content": "from the kavanaugh-said-brown-was-bad dept\r\nTrump’s version of ICE has always assumed that if your skin shade is anything darker than right-wing podcaster translucent, your ass needs to be gone from … [+4573 chars]",
       "tags": [
-        "immigration",
-        "social_issues",
-        "racial_justice"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "civil_rights"
       ],
       "publishedAtTs": 1769188860
     },
@@ -1351,7 +1464,11 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-23T23:28:33Z",
       "content": "from the department-of-just-us dept\r\nWe are being led by deeply unserious people. Not only that, but people who are manufacturing cruelty upon their very own constituents. That’s how bad this has got… [+4062 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications",
+        "immigration"
+      ],
       "publishedAtTs": 1769210913
     },
     {
@@ -1367,8 +1484,8 @@
       "publishedAt": "2026-01-23T23:18:26Z",
       "content": "President Donald Trump at the Kennedy Center in Washington, DC, on December 5, 2025. | Brendan Smialowski/AFP via Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that helps you … [+2612 chars]",
       "tags": [
-        "foreign_policy",
-        "canada"
+        "canada",
+        "foreign_policy"
       ],
       "publishedAtTs": 1769210306
     },
@@ -1384,7 +1501,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2256434210.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "publishedAt": "2026-01-23T20:29:19Z",
       "content": "Federal law enforcement agents outside a private residence in St. Paul, Minnesota, US, on Sunday, Jan. 18, 2026.\r\n\n\nAmerica’s immigration debate has often centered on the morality of mass deportation… [+15535 chars]",
-      "tags": [],
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
+      ],
       "publishedAtTs": 1769200159
     },
     {
@@ -1399,7 +1520,11 @@
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHNw6vrF55MzjLtt48WKN8aD1UJIcbMEZFqOFPqIIhWiscHTk_S9_gLPdIMgbLi-OliN8MtGpf03YJ8AwAFG8pemtYFo-wtHqKqvg7Iw81r8pXZSnmPjcVgXBtZNNrgnriwV7mErx0K0puyIW0Xdbbhjlteatur-HbCyEesWJioePLF39rBHjBJwt5Tfig/s1600-e365/tiktok.jpg",
       "publishedAt": "2026-01-23T11:30:00Z",
       "content": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.\r\nThe new venture, named TikTok USDS… [+2777 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "executive_orders",
+        "social_media"
+      ],
       "publishedAtTs": 1769167800
     },
     {
@@ -1415,8 +1540,7 @@
       "publishedAt": "2026-01-23T20:32:41Z",
       "content": "Europe's busiest airport is finally ditching one of the most cumbersome requirements at security checkpoints.\r\nLondon's Heathrow Airport (LHR) on Friday announced it officially scrapped its limits on… [+3471 chars]",
       "tags": [
-        "transportation",
-        "security_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1769200361
     },
@@ -1433,7 +1557,6 @@
       "publishedAt": "2026-01-23T13:07:00Z",
       "content": "1 The US is dismantling itselfA foreign enemy could not invent a better chain of events to wreck its standing in the world. (Wired $)  + We need to talk about whether Donald Trump might be losing it.… [+2020 chars]",
       "tags": [
-        "artificial_intelligence",
         "health_science",
         "media_communications"
       ],
@@ -1451,7 +1574,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/134a/live/5c77c060-f758-11f0-aff3-fb80c79e9828.jpg",
       "publishedAt": "2026-01-23T05:17:48Z",
       "content": "Suranjana Tewari,Asia Business Correspondentand\r\nLily Jamali,North America Technology Correspondent\r\nTikTok announced on Thursday that it has finalised a deal that will allow the hugely popular short… [+4850 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "trade"
+      ],
       "publishedAtTs": 1769145468
     }
   ]

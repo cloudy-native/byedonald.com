@@ -27,6 +27,10 @@ const NAV_ITEMS: NavItem[] = [
     href: "/",
   },
   {
+    label: "500 Worst Things",
+    href: "/worst-things/",
+  },
+  {
     label: "Tags",
     href: "/tags/",
   },

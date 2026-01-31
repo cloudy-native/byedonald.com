@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -15,11 +15,9 @@
       "publishedAt": "2025-05-26T23:47:04Z",
       "content": "US President Donald Trump has intensified his confrontation with Harvard University, threatening to cut off federal funding and redirect billions to trade schools while accusing the Ivy League institution of antisemitism and shielding radical foreign... [2799 chars]",
       "tags": [
-        "government_administration",
+        "immigration",
         "education",
-        "foreign_policy",
-        "security_intelligence",
-        "media_communications"
+        "social_issues"
       ],
       "publishedAtTs": 1748303224
     },
@@ -37,8 +35,8 @@
       "content": "Kyiv, Ukraine — Russia launched its biggest drone attack on Ukraine overnight since the more than three-year war began, a Ukrainian official said Monday. President Trump said Russian leader Vladimir Putin had gone \"absolutely crazy\" in stepping up hi... [6805 chars]",
       "tags": [
         "foreign_policy",
-        "security_intelligence",
-        "crisis_emergency"
+        "russia",
+        "ukraine"
       ],
       "publishedAtTs": 1748301886
     },
@@ -56,10 +54,7 @@
       "content": "U.S. President Donald Trump said Monday that he is pardoning a former Virginia sheriff who was sentenced to 10 years in prison after a jury convicted him on federal bribery charges for deputizing several businessmen in exchange for cash payments.\nFor... [2712 chars]",
       "tags": [
         "legal_justice",
-        "criminal_cases",
-        "pardons",
-        "government_administration",
-        "ethics"
+        "presidential_security"
       ],
       "publishedAtTs": 1748300698
     },
@@ -77,8 +72,7 @@
       "content": "King Charles III arrived in Canada’s capital city, Ottawa, on Monday. This is his first trip to Canada since ascending the throne, personally invited by Prime Minister Mark Carney to speak about the agenda for the new season of Parliament.\nWhile main... [1894 chars]",
       "tags": [
         "foreign_policy",
-        "government_administration",
-        "regional_state"
+        "canada"
       ],
       "publishedAtTs": 1748300643
     },
@@ -95,11 +89,8 @@
       "publishedAt": "2025-05-26T23:01:09Z",
       "content": "Holidaymakers in countries hit the hardest by Donald Trump’s trade tariffs are taking the US off their list for trips abroad, according to online travel booking data.\nFindings from the hotel search site Trivago also suggest that UK and US travellers ... [2890 chars]",
       "tags": [
-        "trade",
-        "travel",
-        "tourism",
-        "foreign_policy",
-        "economy_finance"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748300469
     },
@@ -118,9 +109,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "security_intelligence",
-        "national_security"
+        "ukraine"
       ],
       "publishedAtTs": 1748300400
     },
@@ -137,9 +126,7 @@
       "publishedAt": "2025-05-26T23:00:00Z",
       "content": "The Trump administration has ordered US embassies around the world to pause scheduling new visa interviews for foreign students.\nThe State Department instructed embassies abroad, including in Ireland, to halt student or exchange visitor visa appointm... [1755 chars]",
       "tags": [
-        "immigration",
-        "education",
-        "foreign_policy"
+        "immigration"
       ],
       "publishedAtTs": 1748300400
     },
@@ -156,9 +143,7 @@
       "publishedAt": "2025-05-26T23:00:00Z",
       "content": "A wildlife inspector said the destruction of sand dunes at a beach beside Donald Trump's luxury Irish hotel was unlikely to be halted by a simple fencing project.\nThe National Parks and Wildlife Service agreed to a €3,500 trial for temporarily erecti... [2932 chars]",
       "tags": [
-        "regional_state",
-        "environment",
-        "personal_family"
+        "environment"
       ],
       "publishedAtTs": 1748300400
     },
@@ -176,9 +161,7 @@
       "content": "Adidas, Shein, Walmart, and Best Buy are among the 10 companies which are set to increase their product prices as President Donald Trump's baseline tariffs and charges on most Chinese imports weigh on the US imports, reported the news portal CNN.\nAcc... [4768 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "taxes",
-        "foreign_policy"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748300090
     },
@@ -195,12 +178,262 @@
       "publishedAt": "2025-05-26T22:52:31Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "pardons",
-        "criminal_cases",
-        "federal_courts",
-        "government_administration"
+        "legal_justice",
+        "presidential_security"
       ],
       "publishedAtTs": 1748299951
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Macquarie’s Viktor Shvets says investors really have only one choice",
+      "description": "US President Donald Trump has forced the strategist to concede that one of his strongest beliefs “could unravel”. Here’s what he suggests doing instead.",
+      "url": "https://www.afr.com/chanticleer/macquarie-s-viktor-shvets-says-investors-really-have-only-one-choice-20250527-p5m2ff",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_32/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/a596af547b72e05f7ce59d5921293dc466aca5b5",
+      "publishedAt": "2025-05-26T22:50:12Z",
+      "content": "You know we’re in a very different world when even Macquarie strategist Viktor Shvets is questioning one of his strongest beliefs.\nFor some years, Shvets has played down bearish prognostications about asset bubbles, debt bombs and boom-and-bust cycle... [257 chars]",
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1748299812
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Essentially Sports"
+      },
+      "author": "Essentially Sports",
+      "title": "Top 5 Most Controversial Moments in U.S. Women's Open History Explored",
+      "description": "From Charley Hull to Donald Trump, the U.S. Open has seen many famous individuals involved in controversial moments. Here are 5 of them.",
+      "url": "https://www.essentiallysports.com/golf-news-top-five-most-controversial-moments-in-u-s-womens-open-history/",
+      "urlToImage": "https://image-cdn.essentiallysports.com/wp-content/uploads/Charley-Hull-_20240913_045605_0000.png",
+      "publishedAt": "2025-05-26T22:50:07Z",
+      "content": "It’s the 2025 U.S. Women’s Open week! Fans of Nelly Korda, Lydia Ko, Lexi Thompson, and other LPGA Tour stars will be eagerly waiting for them to step onto the Erin Hills Golf Course for some nail-biting and intense action. Defending champion Yuka Sa... [4984 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1748299807
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Trump pardons Scott Jenkins, former Virginia sheriff convicted of bribery",
+      "description": "Trump claimed former Virginia sheriff Scott Jenkins was a victim of a “weaponized” Justice Department under the Biden administration.",
+      "url": "https://www.washingtonexaminer.com/news/3422289/trump-pardon-scott-jenkins-virginia-sheriff-bribery-conviction/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/02/AP25037554135443.webp",
+      "publishedAt": "2025-05-26T21:58:34Z",
+      "content": "President Donald Trump issued a full pardon on Monday to Scott Jenkins, a former Virginia sheriff who had been convicted of bribery.\nJenkins, the former sheriff of Culpeper County in Northern Virginia, was convicted in December on charges related to ... [2710 chars]",
+      "tags": [
+        "legal_justice",
+        "presidential_security"
+      ],
+      "publishedAtTs": 1748296714
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Why is Trump so obsessed with other men’s looks?",
+      "description": "The US president has never made a secret of his preoccupation with looks. But what has increased is the amount of time he devotes to the appearance of men.",
+      "url": "https://www.afr.com/world/north-america/why-is-trump-so-obsessed-with-other-men-s-looks-20250526-p5m2do",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3639%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_85%2C$y_39/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/c2a99cfc19259f020cee5c7aa6b6bc12d0caac20",
+      "publishedAt": "2025-05-26T21:46:47Z",
+      "content": "Donald Trump’s bumper tax-slashing, debt-swelling spending bill is not the only thing he professes to consider beautiful. His tour of the Persian Gulf earlier this month amounted to a full-blown compliment spree focused on other men’s appearance – Sy... [410 chars]",
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1748296007
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Trump’s claim of $100 billion trade deficit with India is ‘misleading’: GTRI",
+      "description": "In 2024-25, the US recorded a trade deficit of about $44.4 billion with India, meaning it imported far more goods and services from India than it exported. On February 13, 2025, President Trump claimed the US had a $100 billion trade deficit with India, though the actual figure is under $45 billion",
+      "url": "https://www.livemint.com/economy/trumps-claim-of-100-billion-trade-deficit-with-india-is-misleading-gtri-11748274009866.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/05/26/1600x900/2-0-1382223513-trade--9--0_1679774191416_1748275627970.jpg",
+      "publishedAt": "2025-05-26T21:37:49Z",
+      "content": "New Delhi: US President Donald Trump's regular targeting of India about the trade deficit and accusations that India unfairly benefits from trade are incorrect, argued Global Trade Research Initiative (GTRI) in a report, explaining threadbare how Ind... [4490 chars]",
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748295469
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Trump announces pardon for former Virginia sheriff convicted of federal bribery charges",
+      "description": "President Donald Trump announced he is granting a “full and unconditional pardon” to a former Virginia sheriff, Scott Jenkins, who was convicted of conspiracy, honest services fraud and bribery.",
+      "url": "https://edition.cnn.com/2025/05/26/politics/trump-pardons-scott-jenkins-virginia-sheriff",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230629181359-virginia-sheriff-badges-bribes.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-26T21:30:09Z",
+      "content": "CNN —\nPresident Donald Trump announced he is granting a “full and unconditional pardon” to a former Virginia sheriff, Scott Jenkins, who was convicted of conspiracy, honest services fraud and bribery.\n“This Sheriff is a victim of an overzealous Biden... [2007 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1748295009
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Raw Story",
+      "title": "'I'm over it': Tornado-ravaged red state residents hit out at 'America first'",
+      "description": "Earlier this year, almost 20 tornadoes rampaged across several Mississippi towns, killing seven people and damaging hundreds of homes. Residents are still waiting for aid from President Donald Trump's administration months later.PBS NewsHour recently reported that even in the deep-red Southern state...",
+      "url": "https://www.rawstory.com/havent-seen-federal-folks-man-in-tornado-ravaged-red-state-says-trump-no/",
+      "urlToImage": "https://www.rawstory.com/media-library/image.webp?id=60323446&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2025-05-26T21:27:51Z",
+      "content": "Earlier this year, almost 20 tornadoes rampaged across several Mississippi towns, killing seven people and damaging hundreds of homes. Residents are still waiting for aid from President Donald Trump's administration months later.\nPBS NewsHour recentl... [2107 chars]",
+      "tags": [
+        "regional_state",
+        "crisis_emergency",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1748294871
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Who Is Scott Jenkins? Donald Trump Gives Former Virginia Sheriff a Lifeline",
+      "description": "President Trump pardoned the former Virginia sheriff on Monday who was convicted on charges of conspiracy, fraud and bribery last year.",
+      "url": "https://www.newsweek.com/who-scott-jenkins-donald-trump-gives-former-virginia-sheriff-lifeline-2077209",
+      "urlToImage": "https://d.newsweek.com/en/full/2651756/scott-jenkins.jpg",
+      "publishedAt": "2025-05-26T21:24:56Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nPresident Donald Trump pa... [4637 chars]",
+      "tags": [
+        "legal_justice",
+        "presidential_security"
+      ],
+      "publishedAtTs": 1748294696
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Trump says Putin has 'gone absolutely CRAZY'",
+      "description": "‘Something has happened to him (Putin).’",
+      "url": "https://www.perthnow.com.au/news/conflict/trump-says-putin-has-gone-absolutely-crazy-c-18825725",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18825725/9d4767437574b122bb43e5a6656610d15ce9ac22-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2025-05-26T21:05:22Z",
+      "content": "US President Donald Trump said Vladimir Putin had “gone absolutely CRAZY” by unleashing a massive aerial attack on Ukraine and said he was weighing new sanctions on Moscow, though he also scolded Ukrainian President Volodymyr Zelenskiy.\nTrump posted ... [3344 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1748293522
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Trump vs. Harvard: Canadian university athlete Ocean Ma caught in crossfire",
+      "description": "Harvard squash player Ocean Ma of Richmond, B.C., hopes to build on a memorable freshman year in September, despite the uncertainty given the latest salvos between the Trump administration and the university.",
+      "url": "https://www.cbc.ca/sports/ocean-ma-squash-harvard-canada-trump-foreign-students-1.7544214",
+      "urlToImage": "https://i.cbc.ca/1.7544247.1748292321!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ma-ocean-230718-1180.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-26T20:47:16Z",
+      "content": "Highlighted by an Ivy League title and divisional crown at the national college playdowns, Canada's Ocean Ma enjoyed a memorable first season on Harvard's squash team.\nShe hopes to build on that in her sophomore year, despite the uncertainty given th... [3825 chars]",
+      "tags": [
+        "foreign_policy",
+        "education"
+      ],
+      "publishedAtTs": 1748292436
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "EU trade negotiator says calls with US officials were 'good' after Trump extends tariff deadline",
+      "description": "The European Union’s chief trade negotiator said Monday he had “good calls” with Trump administration officials and the EU was “fully committed” to reaching a trade deal by a July 9 deadline, after Trump agreed to delay his threatened 50% tariff — or import tax — on European goods.",
+      "url": "https://www.cp24.com/news/money/2025/05/26/eu-trade-negotiator-says-calls-with-us-officials-were-good-after-trump-extends-tariff-deadline/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/PKHMR3XCOD2PTZ2MNWLFUVQMPI.jpg?smart=true&auth=d3938e4606c9ef81826d03478bad1ec402440fbe3b525fa8fcee989d7376d72d&width=1200&height=630",
+      "publishedAt": "2025-05-26T20:41:14Z",
+      "content": "European Commission President Ursula von der Leyen arrives for the weekly college of commissioners meeting at EU headquarters in Brussels, Wednesday, May 21, 2025. (AP Photo/Omar Havana)\nThe European Union’s chief trade negotiator said Monday he had ... [1991 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748292074
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Charles, Camilla welcomed to Canada in show of support",
+      "description": "King Charles and Queen Camilla have begun a visit to Canada that's being seen as a show of support for the country in the face of challenges from Donald Trump.",
+      "url": "https://www.perthnow.com.au/news/human-interest/charles-lands-in-canada-in-show-of-support-c-18825542",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18825542/c46275a8f33d88dfc02094cf11620cb861aed989-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-05-26T20:37:20Z",
+      "content": "Canadadian Prime Minister Mark Carney has praised the \"historic ties\" between his nation and the UK \"that crises only fortify\" as the King and Queen were welcomed to Ottawa.\nCharles and Camilla experienced all aspects of Canadian life on Monday from ... [1219 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1748291840
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business 2 Community"
+      },
+      "author": "Business 2 Community",
+      "title": "Deep-Sea Mining Is Coming: Will It Destroy the Ocean Ecosystem?",
+      "description": "The Trump Administration is initiating the process of selling leases for deep-sea mining. While deep-sea mining is expected to…",
+      "url": "https://www.business2community.com/business-news/deep-sea-mining-is-coming-will-it-destroy-the-ocean-ecosystem-02852371",
+      "urlToImage": "https://www.business2community.com/wp-content/uploads/2025/05/deep-sea-mining.png",
+      "publishedAt": "2025-05-26T20:35:35Z",
+      "content": "The Trump Administration is initiating the process of selling leases for deep-sea mining. While deep-sea mining is expected to result in discoveries of critical minerals, some of which are crucial for the green energy supply chain, environmentalists ... [6968 chars]",
+      "tags": [
+        "environment",
+        "energy"
+      ],
+      "publishedAtTs": 1748291735
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "‘I have everything’: Trump peppers Memorial Day speech with boasting and partisan attacks",
+      "description": "US president lays wreath and pays tribute to fallen soldiers in address which also featured anti-immigration rhetoric",
+      "url": "https://www.irishtimes.com/world/us/2025/05/26/i-have-everything-trump-peppers-memorial-day-speech-with-boasting-and-partisan-attacks/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/DQ22KOGUOL64MTLLOVV2JJ2QJI.jpg?smart=true&auth=ad5b5b28a3e95c7527d415d1699126be3458b7607a90b732eeb5bed9bec59911&width=1200&height=630",
+      "publishedAt": "2025-05-26T20:16:00Z",
+      "content": "US president Donald Trump speaks during the Memorial Day wreath-laying ceremony at the Memorial Amphitheatre in Arlington National Cemetery, Virginia. Photograph: Kayla Bartkowski/Getty Images\nDonald Trump honoured the sacrifices of US military veter... [4115 chars]",
+      "tags": [
+        "elections_politics",
+        "personal_activities"
+      ],
+      "publishedAtTs": 1748290560
     }
   ]
 }

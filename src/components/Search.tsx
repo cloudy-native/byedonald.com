@@ -53,7 +53,7 @@ type Article = {
   publishedAtTs?: number;
   objectID: string;
 };
-type ArticleHit = AlgoliaHit<Article>;
+type ArticleHit = AlgoliaHit & Article;
 type FacetItem = {
   value: string;
   isRefined: boolean;

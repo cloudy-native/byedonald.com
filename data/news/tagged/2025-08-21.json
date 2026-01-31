@@ -180,7 +180,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F6d%2F7649c9cd42c0b3cb7be55c764b20%2Fvance-082125.JPG",
       "publishedAt": "2025-08-21T20:58:55Z",
       "content": "PEACHTREE CITY, Ga. Vice President Vance appeared in Georgia Thursday, promoting tax cuts included in President Trump's sweeping domestic policy bill signed into law last month.\r\nSpeaking at an indus… [+2776 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "taxes",
+        "immigration"
+      ],
       "publishedAtTs": 1755809935
     },
     {
@@ -232,7 +236,9 @@
       "urlToImage": "https://i.insider.com/68a74437cfc04e97619bc739?width=1200&format=jpeg",
       "publishedAt": "2025-08-21T17:52:02Z",
       "content": "Cracker Barrel unveiled a new, simplified logo on Tuesday.Alex Bitter/BI\r\n<ul><li>Cracker Barrel unveiled a new logo on Tuesday.</li><li>The chain's new emblem drew disapproval from some Cracker Barr… [+2425 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1755798722
     },
     {
@@ -375,7 +381,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uw.k2OidWuxc_UqgwCfUUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/nj_com_articles_950/b49e09b9cf51ab1c79c634a2b2acedbd",
       "publishedAt": "2025-08-21T18:13:30Z",
       "content": "Former House Speaker Kevin McCarthy (R) still appears to be peeved with his past colleague.\r\nDuring an appearance on CNN, McCarthy took aim at California Gov. Gavin Newsom (D) over a redistricting pr… [+3274 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "media_communications"
+      ],
       "publishedAtTs": 1755800010
     },
     {
@@ -646,7 +656,12 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/q5jEw4ZRN-pkRQMuOmNWVeIZDhU=/0x64:2995x1624/1200x625/media/img/mt/2025/08/2025_08_20_EO_Election/original.jpg",
       "publishedAt": "2025-08-21T11:00:00Z",
       "content": "The idea, it seems, came from the Russian president. “Vladimir Putin, smart guy,” Donald Trump told the Fox News television host Sean Hannity following the summit between the two leaders in Anchorage… [+7785 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "foreign_policy",
+        "russia"
+      ],
       "publishedAtTs": 1755774000
     },
     {
@@ -926,7 +941,10 @@
       "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/08/21144512/SEI_262824968.jpg",
       "publishedAt": "2025-08-21T17:26:11Z",
       "content": "An artwork in Geneva, Switzerland, where talks on a global plastic treaty took place last week\r\nFABRICE COFFRINI/AFP via Getty Images\r\nOn 14 August, exhausted UN delegates filed into a windowless ple… [+5727 chars]",
-      "tags": [],
+      "tags": [
+        "environment",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1755797171
     },
     {
@@ -1423,7 +1441,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-08-21T144752Z_1119048590_RC2PBGA1T6QO_RTRMADP_3_PEOPLE-JAMES-DOBSON-1755792636.jpg?resize=1920%2C1440",
       "publishedAt": "2025-08-21T16:25:38Z",
       "content": "James Dobson, a controversial and deeply influential Christian activist who advised several presidents, including US President Donald Trump and campaigned against abortion and LGBTQ rights has died.\r… [+3840 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "abortion",
+        "lgbtq_rights"
+      ],
       "publishedAtTs": 1755793538
     },
     {
@@ -1626,7 +1648,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25232594247126-1755801120.jpg?resize=1200%2C675",
       "publishedAt": "2025-08-21T22:45:25Z",
       "content": "President Donald Trump and his allies have kicked off a redistricting fight in the United States as the countrys two main political parties angle for advantage in the 2026 midterm elections.\r\nIn an e… [+10325 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "redistricting"
+      ],
       "publishedAtTs": 1755816325
     },
     {
@@ -1641,7 +1666,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/INTERACTIVE-WEAPONS-TO-UKRAINE-Poster-1755769318.png?resize=1200%2C630",
       "publishedAt": "2025-08-21T10:28:09Z",
       "content": "After a week of high-stakes diplomacy aimed at halting the war in Ukraine, United States President Donald Trump says he is set on arranging a summit between Russian President Vladimir Putin and Ukrai… [+5158 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "nato"
+      ],
       "publishedAtTs": 1755772089
     },
     {

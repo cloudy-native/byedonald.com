@@ -633,7 +633,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/39c45764-1046-45d6-92bb-e2f2703426f2/250929_abc_social_comey_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-09-29T16:40:17Z",
       "content": "<ul><li>Trump and Netanyahu to discuss Gaza war in Oval Office meeting\r\n</li><li>Trump to meet with Democrats as government shutdown looms\r\n</li><li>Trump warns 'there will be others' after Comey ind… [+4359 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "personnel"
+      ],
       "publishedAtTs": 1759164017
     },
     {
@@ -795,7 +798,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/BwpIraKSYXEobFMoKD1opwP2Jls=/0x43:2000x1085/1200x625/media/img/mt/2025/09/2025_9_29_Trump_Overplaying_Hand/original.png",
       "publishedAt": "2025-09-29T23:43:00Z",
       "content": "Donald Trump likes to say that his campaign of vengeance is only fair. Given that he had to endure years of (supposedly) phony legal claims and censorship on various social-media platforms, Trump ins… [+4142 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1759189380
     },
     {
@@ -828,7 +835,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/FkYinIcnwRqhIxuRsrmIfcxaxFM=/0x53:2496x1353/1200x625/media/img/mt/2025/09/TitforTat_1/original.png",
       "publishedAt": "2025-09-29T10:00:00Z",
       "content": "When revolutionaries come into power, they often come to resemble their nemeses. After spending years decrying left-wing “wokeness” and cancel culture, Republicans are now deploying tactics they once… [+9139 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
       "publishedAtTs": 1759140000
     },
     {
@@ -1148,7 +1158,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/smwnoqw2y2zCpj8a73rS9A-1920-80.jpg",
       "publishedAt": "2025-09-29T14:00:00Z",
       "content": "The AI race between the US and China could be closer than any of us expected, at least according to NVIDIA CEO Jensen Huang.\r\nHuang, whose company supplies most of the world with specialized GPUs for… [+5755 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "trade_negotiations_truces",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1759154400
     },
     {
@@ -1502,7 +1516,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2238074428.jpg?quality=90&strip=all&crop=0%2C12.294541218085%2C100%2C75.410917563831&w=1200",
       "publishedAt": "2025-09-29T23:20:47Z",
       "content": "President Donald Trump greets Israeli Prime Minister Benjamin Netanyahu as he arrives at the White House on September 29, 2025, in Washington, DC. | Win McNamee/Getty Images\r\n\n\nAfter a pivotal Allied… [+9854 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "gaza"
+      ],
       "publishedAtTs": 1759188047
     },
     {
@@ -1536,7 +1554,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2232929122.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "publishedAt": "2025-09-29T16:32:36Z",
       "content": "New homes under construction in Vacaville, California, on September 3, 2025. | David Paul Morris/Bloomberg via Getty Images\r\n\n\nHousing in America is about to get more expensive, thanks to new tariffs… [+9268 chars]",
-      "tags": [],
+      "tags": [
+        "tariff_impact_economy",
+        "housing"
+      ],
       "publishedAtTs": 1759163556
     },
     {
@@ -1625,7 +1646,11 @@
       "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2025/09/detect-kids.jpg?resize=1200,600",
       "publishedAt": "2025-09-29T12:10:00Z",
       "content": "The must-reads\r\nIve combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 ChatGPTs parental controls are now liveThe model can now alert parents and… [+1431 chars]",
-      "tags": [],
+      "tags": [
+        "artificial_intelligence",
+        "technology_regulation",
+        "social_issues"
+      ],
       "publishedAtTs": 1759147800
     },
     {

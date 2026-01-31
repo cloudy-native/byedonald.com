@@ -809,5 +809,126 @@
         "description": "Wars, conflicts, emergencies"
       }
     ]
+  },
+  {
+    "title": "Trade Wars & Tariffs",
+    "description": "Coverage of broad tariff impositions (e.g., 'Liberation Day' tariffs), trade negotiations, retaliatory actions by partners, and economic impacts like inflation shifts or manufacturing claims.",
+    "color": "#D32F2F",
+    "tags": [
+      {
+        "id": "liberation_day_tariffs",
+        "name": "Liberation Day Tariffs",
+        "description": "Stories on the sweeping global tariff rollout starting April 2025, including 10%+ duties on imports and country-specific escalations."
+      },
+      {
+        "id": "trade_negotiations_truces",
+        "name": "Trade Negotiations & Truces",
+        "description": "Deals, pauses, or joint statements with EU, China, Japan, UK, etc., to modify or suspend tariffs."
+      },
+      {
+        "id": "tariff_impact_economy",
+        "name": "Tariff Economic Impact",
+        "description": "Analyses of effects on inflation, prices, manufacturing, or consumer costs from tariff policies."
+      }
+    ]
+  },
+  {
+    "title": "Territorial & Expansionist Policy",
+    "description": "News involving U.S. claims, threats, or actions toward territories like Greenland, or interventions abroad (e.g., Venezuela leader seizure).",
+    "color": "#7B1FA2",
+    "tags": [
+      {
+        "id": "greenland_acquisition",
+        "name": "Greenland Acquisition Efforts",
+        "description": "Attempts to purchase, seize, or pressure Denmark/Europe over Greenland, including threats of force."
+      },
+      {
+        "id": "venezuela_intervention",
+        "name": "Venezuela Intervention",
+        "description": "Operations to seize Venezuelan leadership, oil revenue safeguards, or related foreign actions."
+      }
+    ]
+  },
+  {
+    "title": "Mass Deportation & Immigration Enforcement",
+    "description": "Large-scale deportation operations, record detentions, ICE actions, self-deportations, and related controversies or resistance.",
+    "color": "#F57C00",
+    "tags": [
+      {
+        "id": "mass_deportation_operation",
+        "name": "Mass Deportation Operation",
+        "description": "Reports on historic deportation numbers, detention capacity expansions, and enforcement scale."
+      },
+      {
+        "id": "ice_controversies_resistance",
+        "name": "ICE Controversies & Resistance",
+        "description": "Killings, protests, judicial blocks, or local/state pushback against immigration crackdowns."
+      }
+    ]
+  },
+  {
+    "title": "Housing & Economic Access",
+    "description": "Policies targeting housing affordability, restricting institutional investors, or related domestic economic measures.",
+    "color": "#388E3C",
+    "tags": [
+      {
+        "id": "wall_street_homebuyers",
+        "name": "Wall Street vs Main Street Homebuyers",
+        "description": "Executive actions blocking large investors from single-family homes to boost affordability for families."
+      }
+    ]
+  },
+  {
+    "title": "Defense & Military Reforms",
+    "description": "Changes in defense contracting, department rebranding (to 'Department of War'), warfighter prioritization, or military production rules.",
+    "color": "#1976D2",
+    "tags": [
+      {
+        "id": "defense_contractor_reform",
+        "name": "Defense Contractor Reform",
+        "description": "Actions against underperforming contractors, bans on stock buybacks/dividends during shortfalls, and performance-tied compensation."
+      },
+      {
+        "id": "department_of_war",
+        "name": "Department of War Rebranding",
+        "description": "Renaming of Defense Department and related 'peace through strength' narrative."
+      }
+    ]
+  },
+  {
+    "title": "Disaster Response & Rebuilding",
+    "description": "Federal interventions in natural disasters, wildfire rebuilding failures, or emergency management critiques.",
+    "color": "#FFA000",
+    "tags": [
+      {
+        "id": "la_wildfire_rebuilding",
+        "name": "LA Wildfire Rebuilding Failures",
+        "description": "Executive orders addressing state/local shortcomings in rebuilding after California wildfires."
+      }
+    ]
+  },
+  {
+    "title": "AI & Tech Policy Conflicts",
+    "description": "Federal efforts to preempt state AI laws, promote national AI framework, or challenge restrictive regulations.",
+    "color": "#0288D1",
+    "tags": [
+      {
+        "id": "ai_state_preemption",
+        "name": "AI State Law Preemption",
+        "description": "Challenges to state-level AI regulations conflicting with federal innovation priorities."
+      }
+    ]
+  },
+  {
+    "title": "Meta",
+    "description": "Internal classification markers",
+    "color": "#6b7280",
+    "tags": [
+      {
+        "id": "off_topic",
+        "name": "Off Topic",
+        "description": "Our tagging technology sometimes matches articles that are off-topic."
+      }
+    ]
   }
 ]

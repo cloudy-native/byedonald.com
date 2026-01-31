@@ -1,435 +1,1779 @@
 {
   "status": "ok",
-  "totalResults": 22,
+  "totalResults": 98,
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "Devdiscourse"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Devdiscourse",
-      "title": "Trump's Diplomatic Shake-Up Sparks Controversy Amid Global Tensions",
-      "description": "The Trump administration begins dismissing over 1,350 State Department workers, drawing criticism for undermining U.S. diplomacy amid global crises. Concurrently, Trump defends disaster responses in Texas, debates FEMA's future, imposes tariffs on Canada and Mexico, and engages in international trade and political conflicts, affecting both domestic and global policies.",
-      "url": "https://www.devdiscourse.com/article/politics/3502209-trumps-diplomatic-shake-up-sparks-controversy-amid-global-tensions",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_07_2025_22_53_41_2211436.jpg?width=920&format=jpeg",
-      "publishedAt": "2025-07-12T23:52:12Z",
-      "content": "In a bold and controversial move, President Donald Trump's administration has commenced the dismissal of more than 1,350 U.S.-based State Department employees, raising alarms about its potential impact on American diplomacy during global crises. Thes... [847 chars]",
+      "author": "Tik Root",
+      "title": "How to Use Clean Energy Tax Credits Before They Disappear",
+      "description": "There are just a few weeks left to tap federal programs that make purchasing an EV, heat pump, or solar panels more affordable.",
+      "url": "https://www.wired.com/story/congress-is-killing-clean-energy-tax-credits-heres-how-to-use-them-before-they-disappear/",
+      "urlToImage": "https://media.wired.com/photos/68700079e55641e9724c5fb2/191:100/w_1280,c_limit/solar-credit-home-sci-985363900.jpg",
+      "publishedAt": "2025-07-12T11:00:00Z",
+      "content": "This story originally appeared on Grist and is part of the Climate Desk collaboration.\r\nThe one big beautiful bill that President Donald Trump signed into law on July 4 is set to upend many aspects o… [+3986 chars]",
       "tags": [
-        "foreign_policy",
-        "government_administration",
-        "security_intelligence",
-        "legal_justice",
-        "economy_finance"
-      ],
-      "publishedAtTs": 1752364332
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CP24 Toronto"
-      },
-      "author": "CP24 Toronto",
-      "title": "Trump calls for MAGA base to end ‘Epstein Files’ obsession",
-      "description": "U.S. President Donald Trump urged his political base on Saturday to stop attacking his administration over files related to notorious sex offender Jeffrey Epstein, a case that has become an obsession for conspiracy theorists.",
-      "url": "https://www.cp24.com/news/world/2025/07/12/trump-calls-for-maga-base-to-end-epstein-files-obsession/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/LISR6Q7SIFAPVHQOXPX5NW5N6I.jpg?smart=true&auth=c4528a6c1562bfed5252c54fc3a5c073867c362601a5fd844e4d101868f149a8&width=1200&height=630",
-      "publishedAt": "2025-07-12T23:49:55Z",
-      "content": "U.S. President Donald Trump speaks during a roundtable discussion with first responders and local officials at Hill Country Youth Event Center in Kerrville, Texas, Friday, July 11, 2025. (AP Photo/Jacquelyn Martin)\nWASHINGTON — U.S. President Donald ... [3248 chars]",
-      "tags": [
-        "media_communications",
-        "personal_family",
-        "security_intelligence",
-        "elections_politics",
-        "legal_justice"
-      ],
-      "publishedAtTs": 1752364195
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BreakingNews.ie"
-      },
-      "author": "BreakingNews.ie",
-      "title": "Trump ‘considering’ taking away US citizenship from comedian Rosie O’Donnell",
-      "description": "The actress has been a long-time, vocal critic of the US President.",
-      "url": "https://www.breakingnews.ie/world/trump-considering-taking-away-us-citizenship-from-comedian-rosie-odonnell-1782877.html",
-      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTMwODAwMzVcXFwvNGExZjg1YjQxZGJhNDQ3MzhiOWI2MzNmMzlmNDhmMGIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJkMmViMzZmYmFkYzQ2YzAwYmNlYzc0MDM5MTdkOGUxZDNjZjA5YjAxIn0=/trump-considering-taking-away-us-citizenship-from-comedian-rosie-o-donnell.jpg",
-      "publishedAt": "2025-07-12T23:00:00Z",
-      "content": "President Donald Trump says he is considering “taking away” the US citizenship of a long-time rival: the actress and comedian, Rosie O’Donnell.\nThe move comes despite a decades-old Supreme Court ruling that expressly prohibits such an action by the g... [2233 chars]",
-      "tags": [
-        "personal_family",
-        "social_issues",
-        "legal_justice"
-      ],
-      "publishedAtTs": 1752361200
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BreakingNews.ie"
-      },
-      "author": "BreakingNews.ie",
-      "title": "What the papers say: Sunday's front pages",
-      "description": "US President Donald Trump's announcement of 30 per cent tariffs on the European Union features on Irish front pages on Sunday.",
-      "url": "https://www.breakingnews.ie/ireland/what-the-papers-say-sundays-front-pages-28-1782890.html",
-      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDdcXFwvMTMwOTM1MzRcXFwvVW50aXRsZWQtZGVzaWduLTEzMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjgxNDQyY2VjMjlhMWMxMDU4NjAzNzVhZTJhYTdkMzkwMTgyNTdlNmYifQ==/what-the-papers-say-sunday-s-front-pages.jpg",
-      "publishedAt": "2025-07-12T23:00:00Z",
-      "content": "US President Donald Trump's announcement of 30 per cent tariffs on the European Union features on Irish front pages on Sunday.\nThe Business Post, Sunday Independent and Sunday Times all lead with the reaction to Trump announcing 30 per cent tariffs o... [550 chars]",
-      "tags": [
+        "energy",
         "economy_finance",
-        "foreign_policy",
-        "trade"
+        "climate_policy"
       ],
-      "publishedAtTs": 1752361200
+      "publishedAtTs": 1752318000
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "BBC News"
       },
-      "author": "RTE.ie",
-      "title": "Rosie O'Donnell shrugs off Trump citizenship threat",
-      "description": "Rosie O'Donnell has said that she \"didn't take it personally\" when US President Donald Trump said he might revoke her US citizenship.",
-      "url": "https://www.rte.ie/entertainment/2025/0713/1523271-rosie-odonnell-shrugs-off-trump-threat-on-rte-radio-1/",
-      "urlToImage": "https://www.rte.ie/images/0022df1a-1600.jpg",
-      "publishedAt": "2025-07-12T23:00:00Z",
-      "content": "Rosie O'Donnell has said that she \"didn't take it personally\" when US President Donald Trump said he might revoke her US citizenship.\nMr Trump made his comments on his Truth Social platform after the Emmy winner criticised his administration's handli... [2947 chars]",
+      "author": null,
+      "title": "Trump says EU and Mexico face 30% tariff from August",
+      "description": "The US president warned both trading partners would face additional tariffs if they retaliated.",
+      "url": "https://www.bbc.com/news/articles/cyvj13d9ylpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2025-07-12T13:30:09Z",
+      "content": "President Donald Trump has announced that the European Union and Mexico will face a 30% tariff on imports to the US from 1 August.\r\nHe warned he would impose even higher import taxes if either of the… [+325 chars]",
       "tags": [
-        "personal_legal",
-        "media_communications",
-        "security_intelligence"
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
       ],
-      "publishedAtTs": 1752361200
+      "publishedAtTs": 1752327009
     },
     {
       "source": {
         "id": null,
-        "name": "RTE.ie"
+        "name": "NPR"
       },
-      "author": "RTE.ie",
-      "title": "'Inexcusable' failures led to Trump assassination attempt",
-      "description": "A congressional inquiry into the attempt to assassinate US President Donald Trump at a campaign rally a year ago on lamented \"inexcusable\" failures in the Secret Service's operations and response, and called for more serious disciplinary action",
-      "url": "https://www.rte.ie/news/world/2025/0713/1523305-trump-assassination-attempt/",
-      "urlToImage": "https://www.rte.ie/images/0022dcc2-1600.jpg",
-      "publishedAt": "2025-07-12T23:00:00Z",
-      "content": "A congressional inquiry into the attempt to assassinate US President Donald Trump at a campaign rally a year ago on lamented \"inexcusable\" failures in the Secret Service's operations and response, and called for more serious disciplinary action.\nOn 1... [2607 chars]",
+      "author": "Jasmine Garsd",
+      "title": "No playing Spanish-language music: Many immigrants say they have new rules for driving",
+      "description": "As the Trump administration's crackdown continues, traffic stops have become increasingly important tools of enforcement. It has led many immigrants to take alternate modes of transportation.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5437957/no-playing-spanish-language-music-many-immigrants-say-they-have-new-rules-for-driving",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+264/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F51%2Faeca02484da4908a61e1384337e7%2Fgettyimages-2212919053.jpg",
+      "publishedAt": "2025-07-12T12:00:00Z",
+      "content": "Outside an evangelical church on the outskirts of Tampa, Fla., half a dozen immigrant families wait in the sweltering Sunday heat. The men wear bright, colorful shirts while the women are dressed in … [+5283 chars]",
       "tags": [
-        "security_incidents",
-        "congressional_investigations",
-        "legal_justice",
+        "immigration",
+        "social_issues"
+      ],
+      "publishedAtTs": 1752321600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Scott Detrow",
+      "title": "Is the FIFA Club World Cup final a barometer of soccer's success in America?",
+      "description": "President Trump will be at the final game in the FIFA Club World Cup, taking place Sunday. Paul Tenorio of The Athletic talks about this moment in the culture and business of soccer in America.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5464881/is-the-fifa-club-world-cup-final-a-barometer-of-soccers-success-in-america",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-07-12T21:00:51Z",
+      "content": "President Trump will be at the final game in the FIFA Club World Cup, taking place Sunday. Paul Tenorio of The Athletic talks about this moment in the culture and business of soccer in America.",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752354051
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Dana Farrington",
+      "title": "Trump praises disaster response in Texas while FEMA's future is murky",
+      "description": "The president and first lady visited Kerrville to meet local officials and families of the victims of the recent flooding. Trump promised federal support, but his team emphasized the state's role.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5465112/trump-fema-texas-floods",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F67%2F0f576f6b4e43b734809ca06428ec%2Fgettyimages-2224676668.jpg",
+      "publishedAt": "2025-07-12T09:00:00Z",
+      "content": "President Trump visited a storm-torn Texas on Friday as the fate of the nation's top federal disaster agency\r\n remains uncertain.\r\nTexas Gov. Greg Abbott and other local leaders praised the president… [+4428 chars]",
+      "tags": [
         "crisis_emergency",
-        "government_administration"
+        "natural_disasters"
       ],
-      "publishedAtTs": 1752361200
+      "publishedAtTs": 1752310800
     },
     {
       "source": {
         "id": null,
-        "name": "Livemint"
+        "name": "NPR"
       },
-      "author": "Livemint",
-      "title": "Trump tariffs: How Germany, France, Spain reacted to 30% rate threat; Macron calls on EU to ‘defend European interests’",
-      "description": "In an escalation of the trade war that has angered US allies and rattled investors, President Donald Trump announced the latest tariffs in separate letters to European Commission President Ursula von der Leyen and Mexico’s President Claudia Sheinbaum posted on Truth Social.",
-      "url": "https://www.livemint.com/news/world/trump-tariffs-how-germany-france-spain-reacted-to-30-rate-threat-macron-calls-on-eu-to-defend-european-interests-11752338573688.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/12/1600x900/TRUMP-DEPART-WH-10_1752340505248_1752340511337.jpg",
-      "publishedAt": "2025-07-12T22:51:38Z",
-      "content": "US President Donald Trump on Saturday intensified the tariff trade war even further by threatening to impose a 30 per cent tariff on imports from Mexico and the European Union starting on August 1.\nIn an escalation of the trade war that has angered U... [3767 chars]",
+      "author": "Danielle Kurtzleben",
+      "title": "Here's a list of Trump's tariff letters so far and the rates they threaten",
+      "description": "Finding it hard to track the latest U.S. trade policy state of play? Here's a look the deals the president has announced and the rates he's so far threatened to impose in letters to global leaders.",
+      "url": "https://www.npr.org/2025/07/12/nx-s1-5463818/trump-tariff-rate-letters",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1717x966+39+198/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2F95%2F1ac75825477d929dfed9be778fb2%2Ftariff-chart-promo.jpg",
+      "publishedAt": "2025-07-12T09:00:00Z",
+      "content": "President Trump's trade policy has been unpredictable, and that continues with letters he's been writing to foreign leaders informing them of the tariff rates he intends to impose on their countries'… [+1640 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1752310800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Alana Wise",
+      "title": "Israeli settlers beat U.S. citizen to death in West Bank",
+      "description": "A 21-year-old Florida man was beaten to death by Israeli settlers while visiting family in the West Bank.",
+      "url": "https://www.npr.org/2025/07/12/g-s1-77345/israeli-settlers-u-s-citizen-death-west-bank",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F5f%2Fd174e92447058a67cb1854b8b9ed%2Fap25190591075982.jpg",
+      "publishedAt": "2025-07-12T17:19:52Z",
+      "content": "Israeli settlers in the occupied West Bank beat a U.S. citizen to death, according to local officials, during a Friday confrontation between a group of Israelis and Palestinians.\r\nA municipal officia… [+1839 chars]",
+      "tags": [
         "foreign_policy",
-        "government_administration",
-        "policy_legislation"
+        "israel"
       ],
-      "publishedAtTs": 1752360698
+      "publishedAtTs": 1752340792
     },
     {
       "source": {
         "id": null,
-        "name": "Sky News"
+        "name": "NPR"
       },
-      "author": "Sky News",
-      "title": "Donald Trump threatens to revoke Rosie O'Donnell's US citizenship",
-      "description": "O'Donnell responded to the US president's threat by posting a photograph of him with Jeffrey Epstein on Instagram.",
-      "url": "https://news.sky.com/story/donald-trump-threatens-to-revoke-rosie-odonnells-us-citizenship-13395988",
-      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-donald-trump_6963725.jpg?20250712223157",
-      "publishedAt": "2025-07-12T22:08:00Z",
-      "content": "Donald Trump has said he is considering \"taking away\" the US citizenship of actress and comedian Rosie O'Donnell, despite a Supreme Court ruling that expressly prohibits a government from doing so.\nIn a post on Truth Social on Saturday, the US presid... [2248 chars]",
+      "author": "Adrian Florido",
+      "title": "Federal judge orders stop to indiscriminate immigration raids in Los Angeles",
+      "description": "Civil rights groups alleged that ICE and Border Patrol agents are rounding people up based on their race, and denying them access to lawyers. A federal judge said there's ample evidence what they're doing is illegal.",
+      "url": "https://www.npr.org/2025/07/11/nx-s1-5462618/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2F47%2Fe6b29f214e87bf6f4fc96e5bfe0d%2Fgettyimages-2218681392.jpg",
+      "publishedAt": "2025-07-12T03:08:34Z",
+      "content": "A federal judge in Los Angeles ordered the Trump administration to stop carrying out immigration sweeps in which she said federal agents have been indiscriminately arresting people across southern Ca… [+6902 chars]",
       "tags": [
-        "personal_legal",
-        "media_communications",
-        "legal_justice"
-      ],
-      "publishedAtTs": 1752358080
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Devdiscourse"
-      },
-      "author": "Devdiscourse",
-      "title": "Trump's Tariff Surge: A Calculated Risk Aimed at Trade Balances",
-      "description": "President Donald Trump has announced new 30% tariffs on the European Union and Mexico, effective August 1. This decision marks a strategic move in his 2024 campaign to rectify U.S. trade imbalances with global partners. Both EU and Mexican leaders express concern, warning of the potential for economic disruption.",
-      "url": "https://www.devdiscourse.com/article/business/3502196-trumps-tariff-surge-a-calculated-risk-aimed-at-trade-balances",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2025_15_57_15_3262394.png?width=920&format=jpeg",
-      "publishedAt": "2025-07-12T21:24:36Z",
-      "content": "In a bold move, President Donald Trump declared a 30% tariff on the European Union and Mexico starting August 1. The announcement targets U.S. trade imbalances with these key partners amid rising concerns about potential economic fallout.\nTrump's act... [564 chars]",
-      "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "trade"
-      ],
-      "publishedAtTs": 1752355476
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBC.ca"
-      },
-      "author": "CBC.ca",
-      "title": "1 reported dead in California as U.S. judge orders halt to immigration crackdown tactics",
-      "description": "A California farm worker died on Friday after U.S. immigration agents raided a cannabis nursery and arrested hundreds of workers, a worker advocacy group said, while a federal judge ordered the Trump administration to temporarily halt some of its most aggressive tactics in rounding up undocumented immigrants.",
-      "url": "https://www.cbc.ca/news/world/trump-immigration-crackdown-raid-tactics-farm-death-1.7583841",
-      "urlToImage": "https://i.cbc.ca/1.7583844.1752354526!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/aptopix-immigration-raids-california-farm.jpg?im=Resize%3D620",
-      "publishedAt": "2025-07-12T21:13:36Z",
-      "content": "A California farm worker died on Friday after U.S. immigration agents raided a cannabis nursery and arrested hundreds of workers, a worker advocacy group said, while a federal judge ordered the Trump administration to temporarily halt some of its mos... [5634 chars]",
-      "tags": [
-        "policy_legislation",
         "immigration",
         "legal_justice",
-        "security_intelligence",
-        "crisis_emergency"
+        "civil_rights"
       ],
-      "publishedAtTs": 1752354816
+      "publishedAtTs": 1752289714
     },
     {
       "source": {
         "id": null,
-        "name": "The Guardian"
+        "name": "Slashdot.org"
       },
-      "author": "The Guardian",
-      "title": "Trump’s 10% tariff on most UK goods ‘here to stay’, says Lord Mandelson",
-      "description": "British ambassador to US believes universal levy unlikely to change but there is ‘scope’ for negotiations in some sectors",
-      "url": "https://www.theguardian.com/us-news/2025/jul/12/trumps-10-tariff-on-most-uk-goods-here-to-stay-says-lord-mandelson",
-      "urlToImage": "https://i.guim.co.uk/img/media/9241984d22cafeaa241b20b69d8a48dbc5e05e69/451_0_4514_3610/master/4514.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=413c0801f3173dbec25629972925a630",
-      "publishedAt": "2025-07-12T21:00:19Z",
-      "content": "The 10% tariffs on most UK goods imported into the US are likely “here to stay”, according to Lord Mandelson.\nThe British ambassador to the US said the “universal 10% tariff” was unlikely to change but that there was “scope” for negotiations in diffe... [2596 chars]",
+      "author": "EditorDavid",
+      "title": "Bitcoin Hits an All-Time High of $118,000, Up 21% for 2025",
+      "description": "Bitcoin \"vaulted to a fresh all-time high Friday, breaking above $118,000,\" reports Yahoo Finance:\n\nYear to date, the token is up roughly 21%, buoyed in part by crypto-friendly policies from the Trump administration, including the establishment of a strategic…",
+      "url": "https://slashdot.org/story/25/07/12/1550205/bitcoin-hits-an-all-time-high-of-118000-up-21-for-2025",
+      "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+      "publishedAt": "2025-07-12T16:34:00Z",
+      "content": "And Has completely stopped all law enforcement around cryptocurrency. So yeah you're going to have a bubble. Nasty one. And pretty soon cryptocurrency will get integrated directly into the economy an… [+308 chars]",
+      "tags": [
+        "cryptocurrency",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752338040
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katherine Li",
+      "title": "Canada would suffer the most economic damage under Trump's tariffs, new Yale report shows",
+      "description": "Canada would bear the brunt of Trump's tariffs in terms of economic contraction, says The Budget Lab of Yale.",
+      "url": "https://www.businessinsider.com/yale-budget-report-canada-gdp-suffer-most-trump-tariff-damage-2025-7",
+      "urlToImage": "https://i.insider.com/687195e9f748d8c055f58282?width=1200&format=jpeg",
+      "publishedAt": "2025-07-12T02:48:44Z",
+      "content": "Trump's tariffs could shrink Canada's economy by 2.1% in real terms.Carlos Osorio/REUTERS\r\n<ul><li>Trump's tariffs could shrink Canada's economy by 2.1% in real terms, says The Budget Lab of Yale.</l… [+2389 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "foreign_policy"
+        "tariff_impact_economy"
       ],
-      "publishedAtTs": 1752354019
+      "publishedAtTs": 1752288524
     },
     {
       "source": {
-        "id": null,
-        "name": "CP24 Toronto"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "CP24 Toronto",
-      "title": "Columbia University-Trump administration to strike a deal",
-      "description": "Columbia University is on the verge of striking an agreement with the Trump administration following months of negotiation to restore federal funding to the school, according to two sources familiar with the deal.",
-      "url": "https://www.cp24.com/news/world/2025/07/12/columbia-university-on-the-cusp-of-a-deal-with-trump-administration-paying-millions-to-unlock-federal-funding/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/XWPSV5BN6NBO3HIWELR7QE7VDY.JPG?smart=true&auth=6b9d1f44a8405fb067e8815618ce39188b5ffd62d2f25e483a84851420a9610d&width=1200&height=630",
-      "publishedAt": "2025-07-12T20:49:43Z",
-      "content": "People walk through Columbia University campus on the first day of the new semester September 3, 2024, in New York. (Adam Gray/Reuters/File via CNN Newsource)\nColumbia University is on the verge of striking an agreement with the Trump administration ... [4668 chars]",
+      "author": "Sarah E. Needleman",
+      "title": "How to get your manager to tell you if a layoff is coming",
+      "description": "If you're stressed about layoffs, you're not alone. Career experts say there are subtle ways to see if you might be on the chopping block.",
+      "url": "https://www.businessinsider.com/asking-manager-tell-you-layoff-coming-2025-7",
+      "urlToImage": "https://i.insider.com/6871578785e81483682de303?width=1200&format=jpeg",
+      "publishedAt": "2025-07-12T09:18:02Z",
+      "content": "If you're worried about layoffs, workplace experts say it can be wise to subtly raise the subject with your manager.Getty Images; Ava Horton/BI\r\n<ul><li>Certain subtle workplace signs may mean layoff… [+5588 chars]",
       "tags": [
-        "government_operations",
-        "federal_agencies",
-        "education"
+        "labor"
       ],
-      "publishedAtTs": 1752353383
+      "publishedAtTs": 1752311882
     },
     {
       "source": {
         "id": null,
-        "name": "UPI News"
+        "name": "Deadline"
       },
-      "author": "UPI News",
-      "title": "Trump floats revoking Rosie O'Donnell's U.S. citizenship",
-      "description": "President Donald Trump has suggested he might revoke actress Rosie O'Donnell's citizenship without saying what spurred the notion.",
-      "url": "https://www.upi.com/Entertainment_News/2025/07/12/trump-odonnell-citizenship/9791752350888/",
-      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/9791752350888/2025/1/c9e259e91d48c46de464c427f04e57b4/v1.5/Trump-floats-revoking-Rosie-ODonnells-US-citizenship.jpg",
-      "publishedAt": "2025-07-12T20:37:07Z",
-      "content": "1 of 2 | Rosie O'Donnell on Saturday dared President Donald Trump to try to revoke her citizenship after he threatened to do so on social media. File Photo by John Angelillo/UPI | License Photo\nJuly 12 (UPI) -- President Donald Trump has suggested he... [1566 chars]",
-      "tags": [
-        "personal_family",
-        "legal_justice",
-        "media_communications"
-      ],
-      "publishedAtTs": 1752352627
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sky News"
-      },
-      "author": "Sky News",
-      "title": "Ukraine war latest: Putin's forces hit western Ukraine - as Trump promises 'major statement' on Russia",
-      "description": "Russia's latest overnight attacks on Ukraine stretched deep into the country's western regions. It comes as Donald Trump promised a \"major statement\" on Russia on Monday. Follow the latest below.",
-      "url": "https://news.sky.com/story/ukraine-war-putin-trump-latest-live-zelenskyy-attack-moscow-12541713",
-      "urlToImage": "https://e3.365dm.com/25/07/1600x900/skynews-ukraine-russia_6963180.jpg?20250712092224",
-      "publishedAt": "2025-07-12T20:25:00Z",
-      "content": "Zelenskyy vows to continue Ukraine's 'active drone operations' after Russian strikes\nVolodymyr Zelenskyy has vowed to continue Ukraine's \"active drone operations\" on Russian territory after Moscow launched one of its largest aerial attacks of the war... [821 chars]",
-      "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "crisis_emergency"
-      ],
-      "publishedAtTs": 1752351900
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC10 Boston"
-      },
-      "author": "NBC10 Boston",
-      "title": "Red Sox winning, Trump says they haven’t lost since Oval Office visit",
-      "description": "The Red Sox are surging, winning their ninth straight game on Saturday, and President Donald Trump appears to know why.",
-      "url": "https://www.nbcboston.com/news/local/trump-boasts-red-sox-havent-lost-since-oval-office-visit/3765354/",
-      "urlToImage": "https://media.nbcboston.com/2025/07/Trump-Red-Sox-070325.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2025-07-12T20:20:23Z",
-      "content": "The Boston Red Sox are surging, winning their ninth straight game on Saturday, and President Donald Trump appears to know why.\n\"They haven't lost since they saw me in the Oval,\" Trump wrote on Truth Social with a picture of the Red Sox celebrating on... [1617 chars]",
-      "tags": [
-        "personal_family",
-        "media_communications",
-        "elections_politics"
-      ],
-      "publishedAtTs": 1752351623
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Devdiscourse"
-      },
-      "author": "Devdiscourse",
-      "title": "Trade Tensions Escalate: 30% Tariffs Loom Over EU and Mexico",
-      "description": "President Donald Trump has announced a 30% tariff on imports from Mexico and the European Union, escalating trade tensions. The announcement follows unsuccessful negotiations with major U.S. trading partners. Both Mexico and the EU view the tariffs as unfair, and negotiations continue to avoid trade disruption before the August 1 deadline.",
-      "url": "https://www.devdiscourse.com/article/health/3502186-trade-tensions-escalate-30-tariffs-loom-over-eu-and-mexico",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2025_15_57_15_3262394.png?width=920&format=jpeg",
-      "publishedAt": "2025-07-12T20:16:20Z",
-      "content": "President Donald Trump on Saturday heightened trade tensions by announcing a 30% tariff on imports from Mexico and the European Union, effective August 1, following failed negotiations with these major U.S. trading partners.\nThe new tariff threats ha... [672 chars]",
-      "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
-      ],
-      "publishedAtTs": 1752351380
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Devdiscourse"
-      },
-      "author": "Devdiscourse",
-      "title": "Trump's Citizenship Threat: A Clash with Rosie O'Donnell",
-      "description": "President Trump is considering revoking Rosie O'Donnell's US citizenship, a move both deemed infeasible and unprecedented due to constitutional protections. Trump's threats stem from an ongoing feud, as O'Donnell criticizes him publicly. Legal experts affirm that the president lacks authority to rescind citizenship without voluntary relinquishment.",
-      "url": "https://www.devdiscourse.com/article/law-order/3502184-trumps-citizenship-threat-a-clash-with-rosie-odonnell",
-      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2025_14_33_01_9480876.png?width=920&format=jpeg",
-      "publishedAt": "2025-07-12T20:10:34Z",
-      "content": "In an unexpected escalation of their longstanding rivalry, President Donald Trump has publicly declared his intent to revoke the US citizenship of actress and comedian Rosie O'Donnell. This announcement comes despite a firm ruling by the Supreme Cour... [733 chars]",
+      "author": "Ted Johnson",
+      "title": "Donald Trump Threatens To Revoke Rosie O’Donnell’s Citizenship; She Calls Him “A Danger To The Nation” In Response — Update",
+      "description": "Donald Trump posted on Saturday that he is giving “serious consideration” to revoking Rosie O’Donnell’s citizenship. The president posted on Truth Social...",
+      "url": "https://deadline.com/2025/07/trump-rosiedonnell-citizenship-1236455899/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8EpMTRDTJGVcqAgoUf3Czw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/deadline.com/f45e7030f54aef51ccb49faeb5284683",
+      "publishedAt": "2025-07-12T14:03:44Z",
+      "content": "Donald Trump posted on Saturday that he is giving serious consideration to revoking Rosie ODonnells citizenship.\r\nThe president posted on Truth Social, Because of the fact that Rosie ODonnell is not … [+3106 chars]",
       "tags": [
         "legal_justice",
-        "government_administration",
         "personal_family"
       ],
-      "publishedAtTs": 1752351034
+      "publishedAtTs": 1752329024
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "New York Post",
-      "title": "Iranian fatwa crowdfunding effort raises $40M to kill President Trump",
-      "description": "A crowdfunding effort linked to a former employee of Iran’s primary propaganda network claims to have raised a $40 million bounty for the assassination of President Trump.",
-      "url": "https://nypost.com/2025/07/12/us-news/iranian-fatwa-crowdfunding-effort-raises-40m-to-kill-president-trump/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/108059274.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2025-07-12T20:04:51Z",
-      "content": "A crowdfunding effort that claims to have raised a $40 million bounty for the assassination of President Trump has been linked to a former employee of Iran’s primary propaganda network.\nThe campaign, organized by a group known as the “Blood Covenant,... [3365 chars]",
+      "author": "Zach Montellaro",
+      "title": "'I don’t like what’s happening': Trump tries to quell MAGA blowup over Epstein",
+      "description": "Prominent MAGA voices have called for the attorney general’s firing amid attack over the Epstein investigation.",
+      "url": "https://www.politico.com/news/2025/07/12/trump-epstein-investigation-pam-bondi-00449926",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BuBtrBwxq3SvTdvzEt.UFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/politico_453/de3bb54d9de294c7c34df579ac8d016d",
+      "publishedAt": "2025-07-12T22:29:21Z",
+      "content": "President Donald Trump on Saturday defended embattled Attorney General Pam Bondi, as he tries to quell a revolt among his MAGA base over Jeffrey Epstein.\r\nWhats going on with my boys and, in some cas… [+2644 chars]",
       "tags": [
-        "national_security",
-        "terrorism",
-        "international_crisis"
+        "legal_justice",
+        "trump"
       ],
-      "publishedAtTs": 1752350691
+      "publishedAtTs": 1752359361
     },
     {
       "source": {
         "id": null,
-        "name": "CP24 Toronto"
+        "name": "Yahoo Entertainment"
       },
-      "author": "CP24 Toronto",
-      "title": "Trump says considering 'taking away' Rosie O'Donnell's citizenship",
-      "description": "U.S. President Donald Trump says he is considering “taking away” the U.S. citizenship of a longtime rival, actress and comedian Rosie O’Donnell.",
-      "url": "https://www.cp24.com/news/world/2025/07/12/trump-says-hes-considering-taking-away-rosie-odonnells-us-citizenship/",
-      "urlToImage": "https://www.cp24.com/resizer/v2/6FQYGZOC6LMGBYF6OK6TRDFAM4.jpg?smart=true&auth=e0a353b76e08f2f29b73d0c57e3992169e1bd81ff84476278c128fb2e85f8fdf&width=1200&height=630",
-      "publishedAt": "2025-07-12T19:54:57Z",
-      "content": "Presenter Rosie O'Donnell speaks at the 30th annual GLAAD Media Awards, May 4, 2019, in New York. (Photo by Evan Agostini/Invision/AP, File)\nWASHINGTON — U.S. President Donald Trump says he is considering “taking away” the U.S. citizenship of a longt... [2206 chars]",
+      "author": null,
+      "title": "Trump says he wants to deport 'the worst of the worst.' Government data tells another story",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d26c5f2c-15ae-4d04-8074-e494eb48d88d",
+      "urlToImage": null,
+      "publishedAt": "2025-07-12T15:14:34Z",
+      "content": "If you click 'Accept all', we and our partners, including 236 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
       "tags": [
-        "personal_legal",
-        "social_issues",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752333274
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "The Daily Beast",
+      "title": "The former White House correspondent said the Attorney General sounded like “one of Ricky Bobby’s girlfriends.”",
+      "description": "Former CNN White House Correspondent Jim Acosta has debuted a hilarious impersonation of Attorney General Pam Bondi amid the ongoing MAGA civil war over the ...",
+      "url": "https://www.thedailybeast.com/jim-acosta-shreds-pam-bondi-with-ruthless-impersonation-amid-epstein-fallout/",
+      "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/75089280dc56f92ec341ffbd8782cf16",
+      "publishedAt": "2025-07-12T22:35:35Z",
+      "content": "Former CNN White House Correspondent Jim Acosta has debuted a hilarious impersonation of Attorney General Pam Bondi amid the ongoing MAGA civil war over the Epstein files. I should not succumb to tha… [+573 chars]",
+      "tags": [
         "media_communications",
-        "elections_politics"
+        "personal_activities"
       ],
-      "publishedAtTs": 1752350097
+      "publishedAtTs": 1752359735
     },
     {
       "source": {
         "id": null,
-        "name": "Toronto Star"
+        "name": "BBC News"
       },
-      "author": "Toronto Star",
-      "title": "Canadian musician Matthew Good cancels U.S. shows due to Trump administration",
-      "description": "Canadian musician Matthew Good says he's cancelling his U.S. tour dates because of President Donald Trump's government.",
-      "url": "https://www.thestar.com/entertainment/music/canadian-musician-matthew-good-cancels-u-s-shows-due-to-trump-administration/article_5fa43dd4-51d2-585e-a2f9-81636b255de8.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/2f/d2f4f775-d8ed-5f38-8aba-6a4f67194619/6872bd9f19aa9.image.jpg?crop=1549%2C813%2C0%2C133&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2025-07-12T19:51:18Z",
-      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "author": "Rushdi Abualouf - Gaza correspondent",
+      "title": "Gaza ceasefire talks on verge of collapse, Palestinian officials say",
+      "description": "Senior Palestinian officials accuse Israel of deliberately stalling the negotiations in Qatar during the prime minister's US visit.",
+      "url": "https://www.bbc.com/news/articles/cqjq9p87vdvo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lsoMh319wR1Fw.mIDhsrLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/a99cbf8332b65f2a7eef4edf7e4555a5",
+      "publishedAt": "2025-07-12T04:51:19Z",
+      "content": "Negotiations between Israel and Hamas in Qatar on a new Gaza ceasefire and hostage release deal are on the brink of collapse, according to Palestinian officials familiar with the details of the discu… [+5830 chars]",
+      "tags": [
+        "gaza",
+        "foreign_policy",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752295879
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Colorado grandmother crawls 14 hours to survive after injury in remote area",
+      "description": "Linsey Davis reports on the remarkable survival story of a 75-year-old grandmother from Colorado, who crawled for 14 hours to seek safety after falling on her remote property and breaking her femur.",
+      "url": "https://abcnews.go.com/Travel/video/colorado-grandmother-crawls-14-hours-survive-after-injury-123695836",
+      "urlToImage": "https://i.abcnewsfe.com/a/be6b5ba9-70be-45a2-b5ac-ea1057ae4c34/250711_abc_social_grandmother1_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-12T05:58:09Z",
+      "content": "<ul><li>Judge orders pause on immigration raids in California as agents clash with protestors\r\n</li><li>What new Trump tariffs may mean for your wallet\r\n</li><li>Trump visits Texas flood zone, meets … [+4553 chars]",
+      "tags": [],
+      "publishedAtTs": 1752299889
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Hundreds of cats, dogs rescued amid deadly Texas floods with help from volunteers",
+      "description": "Amid the heartbreak one week after the devastating floods in Central Texas, Linsey Davis reports on the animals saved and the Humane Society of North Texas volunteers who helped make it happen.",
+      "url": "https://abcnews.go.com/Lifestyle/video/hundreds-cats-dogs-rescued-amid-deadly-texas-floods-123695745",
+      "urlToImage": "https://i.abcnewsfe.com/a/edb7cbb3-c76a-40e0-a584-95fa59cbb040/250711_abc_social_pets_hpMain_9x16.jpg?w=992",
+      "publishedAt": "2025-07-12T04:39:45Z",
+      "content": "<ul><li>Judge orders pause on immigration raids in California as agents clash with protestors\r\n</li><li>What new Trump tariffs may mean for your wallet\r\n</li><li>Trump visits Texas flood zone, meets … [+4553 chars]",
+      "tags": [
+        "regional_state",
+        "natural_disasters",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752295185
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Katherine Faulders, Alexander Mallin",
+      "title": "Pam Bondi fired at least 20 officials with ties to Jack Smith investigation: Sources",
+      "description": "Attorney General Pam Bondi fired at least 20 officials who assisted former Special Counsel Jack Smith, according to sources with knowledge of the firings.",
+      "url": "https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683",
+      "urlToImage": "https://i.abcnewsfe.com/a/7ea54c3d-6bcf-494a-a859-e5ee93ece563/jack-smith-gty-jt-240808_1723160060627_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-07-12T20:06:50Z",
+      "content": "Attorney General Pam Bondi has fired at least 20 prosecutors and support staffers who assisted former Special Counsel Jack Smith's investigations into President Donald Trump, sources familiar with th… [+806 chars]",
+      "tags": [
+        "personnel",
+        "government_administration"
+      ],
+      "publishedAtTs": 1752350810
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News Staff",
+      "title": "Fox News AI Newsletter: Trump Cabinet official impersonated",
+      "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
+      "url": "https://www.foxnews.com/tech/ai-newsletter-trump-cabinet-official-impersonated",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/marco-rubio-impersonation.jpg",
+      "publishedAt": "2025-07-12T12:30:54Z",
+      "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAY'S NEWSLETTER:\r\n- State Department investigating Rubio AI impersonator who contacted US, fo… [+3276 chars]",
+      "tags": [
+        "artificial_intelligence",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752323454
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Yorker"
+      },
+      "author": "Elizabeth Kolbert",
+      "title": "Flash Floods and Climate Policy",
+      "description": "Elizabeth Kolbert on how, even as the death toll climbs in Texas, the Trump Administration is actively undermining the nation’s ability to predict—and to deal with—climate-related disasters.",
+      "url": "https://www.newyorker.com/magazine/2025/07/21/flash-floods-and-climate-policy",
+      "urlToImage": "https://media.newyorker.com/photos/68717d7709c3948bc57843af/16:9/w_1280,c_limit/r47043.png",
+      "publishedAt": "2025-07-12T10:00:00Z",
+      "content": "Tropical Storm Barry developed in the Gulf of Mexico, as this magazine still calls it, on the morning of June 29th. It was the second named storm of the season and, as such, it arrived unusually earl… [+6602 chars]",
+      "tags": [
+        "climate_policy",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1752314400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Lucas Ropek",
+      "title": "Crypto Billionaire Justin Sun Buys Another $100 Million of Trump’s Memecoin",
+      "description": "The crypto mogul is getting in deep with the Trump family's digital assets.",
+      "url": "https://gizmodo.com/crypto-billionaire-justin-sun-buys-another-100-million-of-trumps-memecoin-2000628350",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Justin-Sun-founder-of-Tron.jpg",
+      "publishedAt": "2025-07-12T15:10:52Z",
+      "content": "Justin Sun, the founder of the Tron blockchain, announced this week that he had purchased yet another $100 million of Donald Trump’s memecoin, $TRUMP. Sun already owns a substantial amount of the ass… [+2065 chars]",
+      "tags": [
+        "cryptocurrency",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752333052
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Carter",
+      "title": "The Right Wants to Claim Superman While Tearing Him Down",
+      "description": "The White House's play at bandwagoning on the 'Superman' hype highlights just how fast the right-wing grift machine runs.",
+      "url": "https://gizmodo.com/the-right-wants-to-claim-superman-while-tearing-him-down-2000628331",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/07/superman-posterhed-1200x675.jpg",
+      "publishedAt": "2025-07-12T14:30:32Z",
+      "content": "The release of Superman this weekend has naturally led to a culture war it’s largely managed to avoid before now. But come it has, and the occurrence speaks to how much grifters refuse to engage with… [+3147 chars]",
+      "tags": [
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752330632
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Alexandra Petri",
+      "title": "I Must Leave The FBI At Once To Solve The Epstein Conspiracy!",
+      "description": "What good is being in a position of power when you could be podcasting?",
+      "url": "https://www.theatlantic.com/newsletters/archive/2025/07/dan-bongino-fbi-epstein-conspiracy/683519/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/3IsS8B--MlqNJ_sErG88JzpovUs=/0x43:2000x1085/1200x625/media/img/mt/2025/07/FBIepstein/original.png",
+      "publishedAt": "2025-07-12T18:03:45Z",
+      "content": "DAN BONGINO HERE!\nI MUST GET OUT OF THIS TERRIBLE POSITION OF “DEPUTY DIRECTOR OF THE FBI” (where I am HELPLESS to see what’s really going on), so that I can get to the bottom of this Jeffrey Epstein… [+3102 chars]",
+      "tags": [
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752343425
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Stephanie Burt",
+      "title": "A Strange Time to Be Trans",
+      "description": "In this particular culture war, some self-described skeptics look less like truth-tellers than merchants of doubt.",
+      "url": "https://www.theatlantic.com/ideas/archive/2025/07/youth-gender-transition/683513/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/RSQCffXm3khtCTfWYBJZ3mAdZpE=/0x43:2000x1085/1200x625/media/img/mt/2025/07/2025_07_10_Burt_Trans_Kids_final/original.jpg",
+      "publishedAt": "2025-07-12T14:00:00Z",
+      "content": "The “transgender tipping point,” in the words of Time magazine, supposedly came in 2014, when trans adults living proudly public lives began showing up regularly on mainstream screens. Such figures a… [+7686 chars]",
+      "tags": [
+        "social_issues",
+        "lgbtq_rights"
+      ],
+      "publishedAtTs": 1752328800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Autoblog"
+      },
+      "author": "Cody Carlson",
+      "title": "Waymo Won’t Like Tesla’s Latest Robotaxi Announcement",
+      "description": "Elon Musk has confirmed that Tesla will expand its autonomous robotaxi rideshare service to San Francisco’s Bay Area within the next couple of months...",
+      "url": "https://www.autoblog.com/news/waymo-wont-like-teslas-latest-robotaxi-announcement",
+      "urlToImage": "https://media.zenfs.com/en/autoblog_arena_articles_145/7c076b231c00335c558cb128d39ce32a",
+      "publishedAt": "2025-07-12T00:30:00Z",
+      "content": "Waymo Wont Like Teslas Latest Robotaxi Announcement originally appeared on Autoblog.\r\nTesla is putting the pedal to the floor with its robotaxis\r\nElon Musk has confirmed that Tesla will expand its au… [+3706 chars]",
+      "tags": [
+        "automotive",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752280200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Omar Gallaga",
+      "title": "A US-Only TikTok Replacement App Could Be Coming. What We Know So Far",
+      "description": "A new version of TikTok is reportedly in development right now, with plans to replace the current version for US users.",
+      "url": "https://www.cnet.com/tech/services-and-software/a-us-only-tiktok-replacement-app-could-be-coming-what-we-know-so-far/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e5cae204207338e4f226d81cc2fa3c105f5e6d74/hub/2025/05/15/e7f2912a-7f03-420a-b824-de19a8e09669/gettyimages-1470268269.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-12T08:30:03Z",
+      "content": "A new US-only version of TikTok is being developed by the vertical video app's owner ByteDance, and will replace the current version of TikTok ahead of a September deadline for the Chinese company to… [+2302 chars]",
+      "tags": [
+        "media_communications",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752309003
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Leigh Beadon",
+      "title": "This Week In Techdirt History: July 6th – 12th",
+      "description": "Five Years Ago This week in 2020, we looked at the encryption dilemma created by the EARN IT Act, while a federal case showed that cops already had plenty of options when dealing with device encryption. There was pushback against the Trump administration’s at…",
+      "url": "https://www.techdirt.com/2025/07/12/this-week-in-techdirt-history-july-6th-12th/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2025-07-12T19:00:00Z",
+      "content": "from the recent-memory dept\r\nFive Years Ago\r\nThis week in 2020, we looked at the encryption dilemma created by the EARN IT Act, while a federal case showed that cops already had plenty of options whe… [+1676 chars]",
+      "tags": [
+        "technology_regulation",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752346800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Alison Foreman",
+      "title": "50 Years Later, Fascist Satire ‘A Boy and His Dog’ Goes Great with Deep Panic — and Summer Malaise",
+      "description": "After Dark: Notorious for its bad gender politics, this 1975 sci-fi film inspired \"Mad Max\" and \"Fallout.\" It stars Don Johnson as an evil scavenger surviving with his telepathic pup, voiced by Tim McIntire.",
+      "url": "https://www.indiewire.com/features/best-of/a-boy-and-his-dog-50-years-midnight-movie-1235138160/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/07/MCDBOAN_EC040.jpg?w=650",
+      "publishedAt": "2025-07-12T03:59:00Z",
+      "content": "On Friday nights, IndieWire After Dark honors fringe cinema in the streaming age with midnight movies from any moment in film history.\r\nFirst, the BAIT: a weird genre pick and why we’re exploring its… [+4527 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752292740
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Nizaar Kinsella",
+      "title": "Club World Cup 'world's most successful club competition'",
+      "description": "Fifa president Gianni Infantino says the Club World Cup is \"already the most successful club competition in the world\", despite widespread criticism of the tournament.",
+      "url": "https://www.bbc.com/sport/football/articles/c15wdqd5528o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa59/live/0ec25c90-5f4b-11f0-b5c5-012c5796682d.jpg",
+      "publishedAt": "2025-07-12T17:56:19Z",
+      "content": "Fifa president Gianni Infantino says the Club World Cup is \"already the most successful club competition in the world\", despite widespread criticism of the tournament.\r\nInfantino, who has led world f… [+1876 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752342979
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Netanyahu & Trump: The optics and the outrage",
+      "description": "As Netanyahu woos Trump in DC with Nobel nominations, cracks appear in the MAGA camp's stance on Israel.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2025/7/12/netanyahu-trump-the-optics-and-the-outrage",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752317065.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-12T10:50:14Z",
+      "content": "As Netanyahu courts Trump with peace prizes and platitudes, divisions over Israel in the MAGA media space are deepening.\r\nContributors:Laura Albast Fellow, Institute for Palestine StudiesMitchell Pli… [+807 chars]",
       "tags": [
         "foreign_policy",
-        "government_administration",
-        "media_communications"
+        "israel",
+        "trump"
       ],
-      "publishedAtTs": 1752349878
+      "publishedAtTs": 1752317414
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Trump threatens to revoke citizenship of US comedian Rosie O’Donnell",
+      "description": "O'Donnell says the Republican US president hates her because she sees 'him for who he is - a criminal con man'.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/trump-threatens-to-revoke-citizenship-of-us-comedian-rosie-odonnell",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2019-05-05T045412Z_293262464_RC15BCF41D60_RTRMADP_3_AWARDS-GLAAD-MADONNA-1752345415.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-12T19:33:02Z",
+      "content": "United States President Donald Trump has said he might revoke talk-show host Rosie ODonnells US citizenship after she criticised his administrations handling of weather forecasting agencies in the wa… [+3156 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752348782
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Trump says 30-percent tariffs against EU and Mexico to begin on August 1",
+      "description": "EU's von der Leyen says the EU will safeguard its interests, 'including the adoption of proportionate countermeasures.'",
+      "url": "https://www.aljazeera.com/news/2025/7/12/trump-says-30-percent-tariffs-against-eu-and-mexico-to-begin-on-august-1",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250711__66JB8K9__v1__HighRes__UsPoliticsTrump-1752328671.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-12T14:40:27Z",
+      "content": "United States President Donald Trump has imposed a 30-percent tariff on imports from Mexico and the European Union starting on August 1, weeks after negotiations with the major trading partners faile… [+2596 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1752331227
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Worker dies following immigration raids on California cannabis farms",
+      "description": "Authorities said they arrested about 200 immigrants and saved 10 children at risk of exploitation during the raids.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/worker-dies-following-immigration-raids-on-california-cannabis-farms",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25191859032637-1752288754_51e028-1752290143.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2025-07-12T03:32:30Z",
+      "content": "A farmworker has died from injuries he sustained in immigration raids on two California cannabis farms, as United States authorities confirmed they arrested 200 workers after a tense standoff with pr… [+4587 chars]",
+      "tags": [
+        "immigration",
+        "labor"
+      ],
+      "publishedAtTs": 1752291150
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "How can countries save the lives of people living with HIV?",
+      "description": "The UN warns that funding cuts will have catastrophic consequences for the fight against the disease.",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/7/12/how-can-countries-save-the-lives-of-people-living-with-hiv",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752356181.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-07-12T23:09:15Z",
+      "content": "The UN warns that funding cuts will have catastrophic consequences for the fight against the disease.The United Nations AIDS agency is warning that severe international funding cuts could lead to an … [+910 chars]",
+      "tags": [
+        "public_health",
+        "international_crisis"
+      ],
+      "publishedAtTs": 1752361755
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "US State Department begins layoffs in Trump’s shake-up of diplomatic corps",
+      "description": "Mass layoff came days after the Supreme Court cleared the way for US president to gut entire government positions.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/us-state-department-begins-layoffs-in-trumps-shake-up-of-diplomatic-corps",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250711__2224700215__v2__HighRes__StateDepartmentToReduceWorkforceAfterSupreme-1752280496.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-12T01:13:26Z",
+      "content": "More than 1,350 US State Department employees have been fired in a major diplomatic shake-up ordered by President Donald Trump, in a move critics predict would curb the United States influence around… [+3205 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1752282806
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "US sanctions Cuban president, ‘regime-controlled’ luxury hotels",
+      "description": "Rubio said he had sanctioned several senior officials and their 'cronies' for their 'brutality toward the Cuban people'.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/us-sanctions-cuban-president-regime-controlled-luxury-hotels",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-01-03T152946Z_2026011332_RC2MYBANC36A_RTRMADP_3_CUBA-TOURISM-1752280628.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-12T01:19:15Z",
+      "content": "The US State Department has imposed sanctions on senior Cuban officials, including President Miguel Diaz-Canel, Secretary of State Marco Rubio announced as he marked the fourth anniversary of a bruta… [+2837 chars]",
+      "tags": [
+        "sanctions",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752283155
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Russia-Ukraine war: List of key events, day 1,234",
+      "description": "Here are the key events on day 1,234 of Russia’s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/russia-ukraine-war-list-of-key-events-day-1234",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250711__66HV244__v6__HighRes__TopshotUkraineRussiaConflictWar-1752278547.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-07-12T00:39:49Z",
+      "content": "<li>A Russian drone attack on the Ukrainian city of Kharkiv damaged a maternity hospital, authorities said, terrifying patients as windows shattered and shards of glass fell onto the beds, leaving fa… [+3645 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
+      "publishedAtTs": 1752280789
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Ali Harb",
+      "title": "Family of American citizen killed by Israeli settlers demands US probe",
+      "description": "Advocates say 20-year-old American citizen Sayfollah Musallet was 'lynched' while US officials stay silent.",
+      "url": "https://www.aljazeera.com/news/2025/7/12/family-of-american-citizen-killed-by-israeli-settlers-demands-us-probe",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/05/AA-20250502-37823736-37823732-ISRAEL_TO_DEMOLISH_106_HOMES_IN_THE_WEST_BANK_CITY_OF_TULKARM-1747028885.jpg?resize=1200%2C630",
+      "publishedAt": "2025-07-12T21:36:54Z",
+      "content": "Washington, DC  The family of Sayfollah Musallet, a 20-year-old United States citizen from Florida who was beaten to death by Israeli settlers in the occupied West Bank, is calling on Washington to l… [+4382 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel"
+      ],
+      "publishedAtTs": 1752356214
     },
     {
       "source": {
         "id": null,
-        "name": "Raw Story"
+        "name": "Daily Beast"
       },
-      "author": "Raw Story",
-      "title": "'Jaw-dropping' new numbers expose Trump's 'critical vulnerability': GOP pollster",
-      "description": "Donald Trump is paying a \"very steep price\" after \"completely misreading\" voters on a key issue, according to a GOP strategist.Mike Madrid, who served as the Golden State's GOP political director before co-founding the group of current and former anti-Trump Republicans known as the Lincoln Project, ...",
-      "url": "https://www.rawstory.com/trump-poll-jaw-dropping-vulnerability/",
-      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=61175457&width=1200&height=600&coordinates=0%2C96%2C0%2C97",
-      "publishedAt": "2025-07-12T19:45:09Z",
-      "content": "Donald Trump is paying a \"very steep price\" after \"completely misreading\" voters on a key issue, according to a GOP strategist.\nMike Madrid, who served as the Golden State's GOP political director before co-founding the group of current and former an... [3069 chars]",
+      "author": "Liam Archacki",
+      "title": "AOC Calls Trump 'Rapist' in Brutal Dig...",
+      "description": "AOC Calls Trump 'Rapist' in Brutal Dig...\r\n\n \n \n \n (Second column, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:TINA BROWN: DOUBTS GROW ON EPSTEIN SUICIDE...\r\nMetadata Shows FBI Prison Video Modified?\r\nBondi Flails as Troubles Pile Up...",
+      "url": "https://www.thedailybeast.com/aoc-calls-trump-rapist-in-brutal-epstein-files-crisis-dig/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/gI7R_KKZ9wuNcTV6DfLclg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/419755bd80143349a2a3f07ef319da7a",
+      "publishedAt": "2025-07-12T14:49:37Z",
+      "content": "Democratic Rep. Alexandria Ocasio-Cortez called Donald Trump a rapist while jabbing him for the MAGA crisis over his handling of the files on sex offender Jeffrey Epstein.\r\nWow who would have thought… [+3758 chars]",
+      "tags": [
+        "social_issues",
+        "legal_justice",
+        "republican_party",
+        "democratic_party"
+      ],
+      "publishedAtTs": 1752331777
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Justin Caffier",
+      "title": "What To Do When You See ICE in Your Neighborhood",
+      "description": "How can you deter the Trump administration's immigrant deportation machine when it pops up in your community? Follow these steps.\nThe post What To Do When You See ICE in Your Neighborhood appeared first on The Intercept.",
+      "url": "https://theintercept.com/2025/07/12/ice-neighborhood-watch-la/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/07/GettyImages-2223410160.jpg?fit=7792%2C5200&w=1200&h=800",
+      "publishedAt": "2025-07-12T10:00:00Z",
+      "content": "Federal agents near MacArthur Park in the Westlake neighborhood of Los Angeles on July 7, 2025. Photo: Carlin Steihl / Los Angeles Times via Getty Images\r\nJustin Caffier\r\n is a journalist and occasio… [+16613 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
+      ],
+      "publishedAtTs": 1752314400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Natasha Lennard",
+      "title": "ICE Campaign of Violence Will Lead to More Deaths",
+      "description": "Jaime Alanis' death shows the horrific consequences of a secret police force behaving with utter impunity.\nThe post ICE Campaign of Violence Will Lead to More Deaths appeared first on The Intercept.",
+      "url": "https://theintercept.com/2025/07/12/ice-violence-deaths-jaime-alanis/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/07/AP25192083833039.jpg?fit=5109%2C3399&w=1200&h=800",
+      "publishedAt": "2025-07-12T23:12:12Z",
+      "content": "Federal immigration agents toss tear gas at protesters during a raid in the agriculture area of Camarillo, Calif., Thursday, July 10, 2025. AP Photo / Michael Owen Baker\r\nAfter weeks of brazen rights… [+7050 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
+      ],
+      "publishedAtTs": 1752361932
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Ted Johnson",
+      "title": "Donald Trump Threatens To Revoke Rosie O’Donnell’s Citizenship",
+      "description": "Donald Trump posted on Saturday that he is giving “serious consideration” to revoking Rosie O’Donnell’s citizenship. The president posted on Truth Social, “Because of the fact that Rosie O’Donnell is not in the best interests of our Great Country, I am giving…",
+      "url": "http://deadline.com/2025/07/trump-rosiedonnell-citizenship-1236455899/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2219774898.jpg?w=1024",
+      "publishedAt": "2025-07-12T14:03:44Z",
+      "content": "Donald Trump posted on Saturday that he is giving “serious consideration” to revoking Rosie O’Donnell’s citizenship.\r\nThe president posted on Truth Social, “Because of the fact that Rosie O’Donnell i… [+1120 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1752329024
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Armando Tinoco",
+      "title": "Nick Offerman On “Dumb People” Saying Ron Swanson Would’ve Been MAGA & Voted For Trump: “He Would Think He’s An Absolute Idiot”",
+      "description": "Nick Offerman is not here for MAGA and Donald Trump supporters claiming his Parks & Recreation character would’ve been one of them. The actor played Libertarian Ron Swanson on the NBC mockumentary throughout its seven-season run. In a new interview, the Last …",
+      "url": "http://deadline.com/2025/07/nick-offerman-ron-swanson-maga-voted-trump-1236455975/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/nick-offerman-ron-swanson-donald-trump.jpg?w=1024",
+      "publishedAt": "2025-07-12T17:40:00Z",
+      "content": "Nick Offerman is not here for MAGA and Donald Trump supporters claiming his Parks &amp; Recreation character would’ve been one of them.\r\nThe actor played Libertarian Ron Swanson on the NBC mockumenta… [+1431 chars]",
+      "tags": [
+        "social_issues",
+        "media_communications"
+      ],
+      "publishedAtTs": 1752342000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Ted Johnson",
+      "title": "Judge Blocks Trump Administration From Carrying Out Indiscriminate Immigration Raids In Los Angeles",
+      "description": "A federal judge on Friday blocked the Donald Trump administration from carrying out broad immigration raids and arrests in Los Angeles that target individuals solely based on their race, location, language or type of work. U.S. District Judge Maame Ewusi-Mens…",
+      "url": "http://deadline.com/2025/07/trrump-los-angeles-immigration-raids-blocked-1236455839/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/GettyImages-2220045842.jpg?w=1024",
+      "publishedAt": "2025-07-12T03:50:08Z",
+      "content": "A federal judge on Friday blocked the Donald Trump administration from carrying out broad immigration raids and arrests in Los Angeles that target individuals solely based on their race, location, la… [+2784 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1752292208
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "CK Smith",
+      "title": "Trump escalates America First trade strategy",
+      "description": "Framing the move as pro-worker, Trump risks economic fallout as EU and Mexico weigh billions in countermeasures",
+      "url": "https://www.salon.com/2025/07/12/trump-escalates-america-first-trade-strategy/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/07/GettyImages-2221367275.jpg",
+      "publishedAt": "2025-07-12T14:07:46Z",
+      "content": "President Donald Trump announced Saturday that the United States will impose 30% tariffs on goods from the European Union and Mexico, a sweeping trade action that stunned U.S. allies, upended months … [+1479 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1752329266
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Tatyana Tandanpolie",
+      "title": "Aileen Cannon is doing a good job, actually",
+      "description": "After delaying the classified documents case, the Trump-appointed judge is showing she can work fast when she wants",
+      "url": "https://www.salon.com/2025/07/12/aileen-cannon-is-doing-a-good-job/",
+      "urlToImage": "https://www.salon.com/app/uploads/2024/06/aileen_cannon_1359546623.jpg",
+      "publishedAt": "2025-07-12T13:00:31Z",
+      "content": "A year removed from its dismissal in the U.S. District Court for the Southern District of Florida, President Donald Trumps classified documents case is little more than a distant memory. What stands … [+5907 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1752325231
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Jim Branscome",
+      "title": "Why Appalachia — and rural America — clings to Trump",
+      "description": "After failures from both parties, MAGA's rural vote is a \"desperate lunge toward any alternative\"",
+      "url": "https://www.salon.com/2025/07/12/why-appalachia-and-rural-america-clings-to-trump/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/07/Donald-Trump-Coal-Industry-2208639456.jpg",
+      "publishedAt": "2025-07-12T10:45:31Z",
+      "content": "Back in the days before child labor laws and before it became conventional wisdom that no young person could develop proper character without playing two dozen sports, mastering three instruments and… [+14375 chars]",
       "tags": [
         "elections_politics",
-        "media_communications",
-        "political_endorsements"
+        "social_issues",
+        "regional_state"
       ],
-      "publishedAtTs": 1752349509
+      "publishedAtTs": 1752317131
     },
     {
       "source": {
         "id": null,
-        "name": "Extra.ie"
+        "name": "Salon"
       },
-      "author": "Extra.ie",
-      "title": "Rosie O'Donnell's $100million fortune, Donald Trump, and a new life in Ireland",
-      "description": "The American actor, comedian and 'Trump fugitive', Rosie O'Donnell who moved to Ireland on a work visa is not short of a few dollars.",
-      "url": "https://extra.ie/2025/07/12/entertainment/rosie-odonnells-100million-fortune-donald-trump-and-a-new-life-in-ireland",
-      "urlToImage": "https://extra.ie/wp-content/uploads/2025/04/rosie-odonnell-ireland-am.jpg",
-      "publishedAt": "2025-07-12T19:24:15Z",
-      "content": "The American actor, comedian and ‘Trump fugitive’, Rosie O’Donnell who moved to Ireland on a work visa is not short of a few dollars.\nNow residing as an ‘exile’ in Ireland, O’Donnell revealed this week, she ‘already had $100million in the bank’ when ... [2522 chars]",
+      "author": "CK Smith",
+      "title": "Trump’s Latest Attack: Revoking Rosie O’Donnell’s Rights",
+      "description": "Trump's feud with Rosie flares again, this time over citizenship after her move to Ireland with her child",
+      "url": "https://www.salon.com/2025/07/12/trumps-latest-attack-revoking-rosie-odonnells-rights/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/07/GettyImages-483253514.jpg",
+      "publishedAt": "2025-07-12T20:00:06Z",
+      "content": "President Donald Trump escalated his long-running feud with comedian Rosie ODonnell Saturday, threatening on social media to revoke her U.S. citizenship.\r\nBecause of the fact that Rosie ODonnell is n… [+1961 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
+        "personal_activities",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752350406
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "CK Smith",
+      "title": "Federal judge halts indiscriminate immigration arrests in L.A.",
+      "description": "Ruling protects immigrants from racial profiling and guarantees access to legal counsel during detentions",
+      "url": "https://www.salon.com/2025/07/12/federal-judge-halts-indiscriminate-immigration-arrests-in-l-a/",
+      "urlToImage": "https://www.salon.com/app/uploads/2025/07/GettyImages-2222330963.jpg",
+      "publishedAt": "2025-07-12T15:00:23Z",
+      "content": "A federal judge issued two temporary restraining orders on Friday that block the Trump administration from conducting indiscriminate immigration arrests in the Los Angeles area and from denying detai… [+1543 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752332423
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New Republic"
+      },
+      "author": "Andre Pagliarini",
+      "title": "The Deeper Reason That Trump Is Raging Against Brazil Right Now",
+      "description": "For all the ways that MAGA has departed from established political norms, there is a throwback quality to President Trump’s extraordinarily hostile trade war. His ham-fisted efforts to shore up global U.S. hegemony in the face of growing competition, and Repu…",
+      "url": "https://newrepublic.com/article/197865/trump-brazil-tariffs-brics-bolsonaro-lula",
+      "urlToImage": "https://images.newrepublic.com/ca6ad1ec1439c8689f499734a36efa3aadf275b0.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2025-07-12T12:21:28Z",
+      "content": "It was in this context, two days after the BRICS summit concluded, that Trump posted his letter to Lula, which was a victory for Bolsonaros inner circle. Earlier this year, the ex-presidents son Edua… [+2667 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1752322888
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Links 7/12/2025",
+      "description": "Our bouncy daily links: fight voyeurism, US Covid increases, EU heat wave, Xi v. price wars, Japan sours on US, UK GDP fall, Israel v. Yemen, Ukraine long war? F-35 fail, DOGE lives, Trump loss on birthright citizenship, moar tariff threats, BBC censorship on…",
+      "url": "https://www.nakedcapitalism.com/2025/07/links-7-12-2025.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/Screenshot-2025-07-12-at-3.12.08 PM.png",
+      "publishedAt": "2025-07-12T10:55:55Z",
+      "content": "Eight Adorable Minutes of Baby Animals in the Wild Laughing Squid (resilc)\r\nWhy monkeysand humanscant look away from social conflict Science Daily\r\nWhy Science Hasnt Solved Consciousness (Yet) Nomea … [+8853 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752317755
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Satyajit Das: On Cinema – Francis Ford Coppola’s Operas & Chamber Pieces",
+      "description": "A break from our regular programming in the form of revisiting some of Francis Ford Coppola's classics.",
+      "url": "https://www.nakedcapitalism.com/2025/07/satyajit-das-on-cinema-francis-ford-coppolas-operas-chamber-pieces.html",
+      "urlToImage": null,
+      "publishedAt": "2025-07-12T06:41:33Z",
+      "content": "Yves here. To help you enjoy a summer weekend, Satyajit Das has penned a new piece on movies, here some major works by Francis Ford Coppola. \r\nIn passing, Das mentions Bernardo Bertolucci The Conform… [+10687 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752302493
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nakedcapitalism.com"
+      },
+      "author": "Yves Smith",
+      "title": "Stop Israel’s Dystopian “New Improved” Concentration Camp Plan—Before It’s Too Late",
+      "description": "Israel keeping finding new lows in depraved behavior. Now we have Israel trying to brand a concentration camp as a \"humanitarian city\".",
+      "url": "https://www.nakedcapitalism.com/2025/07/stop-israels-dystopian-new-improved-concentration-camp-plan-before-its-too-late.html",
+      "urlToImage": null,
+      "publishedAt": "2025-07-12T09:10:32Z",
+      "content": "Yves here. It’s sad to say that genocide fatigue has set in as outrage across the world has not moved the one actor that could stop the Israel’s slaughter, the US. Photos of starving children provoke… [+9662 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "gaza",
+        "middle_east"
+      ],
+      "publishedAtTs": 1752311432
+    },
+    {
+      "source": {
+        "id": "techradar",
+        "name": "TechRadar"
+      },
+      "author": "Efosa Udinmwen",
+      "title": "Good news: worldwide PC shipments are up. Bad news: it's due to the Windows 10 end of life and business upgrades",
+      "description": "PC shipments jumped in Q2 2025, but growth came from business upgrades tied to Windows 10's deadline, not lasting consumer demand or confidence.",
+      "url": "https://www.techradar.com/pro/good-news-worldwide-pc-shipments-are-up-significantly-bad-news-its-all-down-to-windows-10-end-of-life-and-businesses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HDzGQ5eczDYhuomAvwnEU4.jpg",
+      "publishedAt": "2025-07-12T10:09:48Z",
+      "content": "<ul><li>Global PC shipments rose in Q2 2025, but the reason isn’t consumer confidence</li><li>Windows 10’s looming end is forcing businesses into urgent PC upgrade cycles</li><li>Consumer spending on… [+3411 chars]",
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752314988
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Trump says 30% tariffs against EU, Mexico to proceed starting Aug. 1",
+      "description": "U.S. President Donald Trump on Saturday announced he's levying tariffs of 30 per cent against the European Union and Mexico starting on Aug. 1, after weeks of negotiations with the key trading allies failed to reach a more comprehensive trade deal.",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-eu-mexico-1.7583731",
+      "urlToImage": "https://i.cbc.ca/1.7583737.1752331803!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/trump.jpg?im=Resize%3D620",
+      "publishedAt": "2025-07-12T14:51:46Z",
+      "content": "U.S. President Donald Trump on Saturday announced he's levying tariffs of 30 per cent against the European Union and Mexico starting on Aug. 1, after weeks of negotiations with the key trading allies… [+4806 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1752331906
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "'An unimaginable nightmare': Family of American killed in West Bank demand U.S. investigate",
+      "description": "A Palestinian American man was beaten to death by settlers in the Israeli-occupied West Bank, says the Palestinian Health Ministry, prompting his family to demand that the U.S. lead an investigation. Another man, 23, was shot dead.",
+      "url": "https://www.cbc.ca/news/world/palestinian-american-killed-israel-1.7583717",
+      "urlToImage": "https://i.cbc.ca/1.7583718.1752304199!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/israel-palestinians-town-fence.JPG?im=Resize%3D620",
+      "publishedAt": "2025-07-12T10:09:36Z",
+      "content": "A Palestinian American man was beaten to death by settlers in the Israeli-occupied West Bank overnight and another man was shot dead, the Palestinian Health Ministry said in a statement.\r\nSayafollah … [+2374 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel"
+      ],
+      "publishedAtTs": 1752314976
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": null,
+      "title": "Carney's plan to cut tens of billions in spending is tough but doable, experts say",
+      "description": "The federal government has started its comprehensive review of government spending, but what will it mean for Canada's public service, what balance will it have to strike and can the Liberals really cut so much?",
+      "url": "https://www.cbc.ca/news/politics/carney-spending-review-cuts-1.7582889",
+      "urlToImage": "https://i.cbc.ca/1.7554661.1749233177!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/carney-20250606.JPG?im=Resize%3D620",
+      "publishedAt": "2025-07-12T08:01:00Z",
+      "content": "The federal government has started its comprehensive review of government spending, but what will it mean for Canada's public service, what balance will it have to strike and can the Liberals really … [+6475 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752307260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+      "title": "Trump Imposes 30% Tariffs On EU And Mexico",
+      "description": "The president’s announcement came after European officials had long been negotiating with the Trump administration in hopes to secure a lower rate.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/07/12/trump-imposes-30-tariffs-on-eu-and-mexico/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6872609b31826dd42559bd77/0x0.jpg?format=jpg&crop=2847,1601,x0,y111,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T13:20:50Z",
+      "content": "Trump posted two nearly identical letters Saturday morning to his Truth Social account, which were addressed to European Commission President Ursula von der Leyen and Mexican President Claudia Sheinb… [+270 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1752326450
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Billy Bambrough, Senior Contributor, \n Billy Bambrough, Senior Contributor\n https://www.forbes.com/sites/billybambrough/",
+      "title": "Trump Fed Warning Spurs Crypto Price Surge Toward $4 Trillion As Bitcoin, Ethereum And XRP Suddenly Soar",
+      "description": "U.S. president Donald Trump has helped spur the crypto market higher, pointing to its success as why the Federal Reserve should “rapidly” lower interest rates...",
+      "url": "https://www.forbes.com/sites/digital-assets/2025/07/12/trump-fed-warning-spurs-crypto-price-surge-toward-4-trillion-as-bitcoin-ethereum-and-xrp-suddenly-soar/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67d41e29e8034991d691f377/0x0.jpg?format=jpg&crop=1387,779,x82,y80,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T11:30:47Z",
+      "content": "Bitcoin has rocketed higher this week, soaring after Tesla billionaire Elon Musk confirmed a bitcoin bombshell.\r\nFront-run Donald Trump, the White House and Wall Street by subscribing now to \r\nForbes… [+3787 chars]",
+      "tags": [
+        "cryptocurrency",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752319847
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Zach Everson, Forbes Staff, \n Zach Everson, Forbes Staff\n https://www.forbes.com/sites/zacheverson/",
+      "title": "Trump’s Crypto Firm Raised $52 Million—Likely Sending Millions To His Family, New Disclosure Reveals",
+      "description": "The payout to Trump and his family highlights how his private business dealings overlap with a presidency focused on turning America into the “crypto capital of the world.”",
+      "url": "https://www.forbes.com/sites/zacheverson/2025/07/12/trump-world-liberty-financial-crypto-sec-tokens-wlfi-usd1/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68707d34ff60d12a0b3580d6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T12:00:00Z",
+      "content": "President Donald Trumps decentralized finance venture, World Liberty Financial, raised $52.1 million through private sales of its crypto tokenlikely sending tens of millions to him and his familyacco… [+6673 chars]",
+      "tags": [
+        "personal_business",
+        "economy_finance",
+        "cryptocurrency"
+      ],
+      "publishedAtTs": 1752321600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "John Navin, Contributor, \n John Navin, Contributor\n https://www.forbes.com/sites/johnnavin/",
+      "title": "Copper Stocks After The Trump Tariff On The Metal: Up Then Down",
+      "description": "Whether his copper tariff will remain in place is a question given the number of times Trump has flip-flopped on tariffs of various kinds.",
+      "url": "https://www.forbes.com/sites/johnnavin/2025/07/12/copper-stocks-after-the-trump-tariff-on-the-metal-up-then-down/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6872820327dd78df30ee4817/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T15:44:26Z",
+      "content": "Copper\r\ngetty\r\nCopper stocks backed off slightly this week after hitting new 2025 highs last week following President Trump announcement that he would be imposing tariffs on the metal. Whether his co… [+3337 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1752335066
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+      "title": "Pam Bondi Fires DOJ Staffers Who Worked On Trump Cases Amid Chaos At Agency",
+      "description": "The terminations come as Bondi herself comes under fire from Trump’s base.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/07/12/pam-bondi-fires-doj-staffers-who-worked-on-trump-cases-amid-chaos-at-agency/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6872926d600837e01449af87/0x0.jpg?format=jpg&crop=1468,825,x0,y0,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T16:55:32Z",
+      "content": "Attorney General Pam Bondi fired at least nine Justice Department prosecutors and staffers who worked on criminal cases against President Donald Trump this week, according to multiple reports, the la… [+4291 chars]",
+      "tags": [
+        "law_enforcement",
+        "doj_actions",
+        "personnel"
+      ],
+      "publishedAtTs": 1752339332
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+      "title": "Kash Patel Decries ‘Conspiracy Theories’ Amid Reports Of FBI Turmoil Over Epstein Files",
+      "description": "Patel vowed to continue his role at the FBI as reports suggest his deputy Dan Bongino may be on the way out.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2025/07/12/kash-patel-decries-conspiracy-theories-amid-reports-of-fbi-turmoil-over-epstein-files/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/679be65262fb26ac3de1a23e/0x0.jpg?format=jpg&crop=2000,1124,x0,y28,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T20:48:32Z",
+      "content": "FBI Director Kash Patel hit back Saturday against reports of internal drama between the Justice Department and FBI over the decision not to release any more files on disgraced financier Jeffrey Epste… [+6896 chars]",
+      "tags": [
+        "law_enforcement",
+        "legal_justice",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1752353312
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Michael Lewis, Contributor, \n Michael Lewis, Contributor\n https://www.forbes.com/sites/michaellewis/",
+      "title": "Infantino: Club World Cup Has Been Huge Success But Others Disagree",
+      "description": "On the eve of the FIFA Club World Cup, FIFA President Gianni Infantino says that the tournament has been a huge success. At least financially. But there are critics.",
+      "url": "https://www.forbes.com/sites/michaellewis/2025/07/12/infantino-club-world-cup-has-been-huge-success-but-others-disagree/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6872b6db39b0475ba0dc230b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T19:43:45Z",
+      "content": "NEW YORK, NEW YORK - JULY 12: FIFA President Gianni Infantino speaks during a media scrum at the ... More Trump Tower ahead of FIFA Club World Cup Final on July 12, 2025 in New York City. (Photo by E… [+6307 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752349425
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "David Blackmon, Senior Contributor, \n David Blackmon, Senior Contributor\n https://www.forbes.com/sites/davidblackmon/",
+      "title": "The Pentagon’s Bold Move To Secure U.S. Rare Earth Mineral Needs",
+      "description": "The Department of Defense led by Sec. Pete Hegseth made a deal with a U.S. mining company to secure the military's needs for rare earth minerals on July 10.",
+      "url": "https://www.forbes.com/sites/davidblackmon/2025/07/12/the-pentagons-bold-move-to-secure-us-rare-earth-mineral-needs/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68727325b075da569523c47d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T14:59:57Z",
+      "content": "FORT BRAGG, NORTH CAROLINA - JUNE 10: U.S. President Donald Trump and Secretary of Defense Pete ... More Hegseth are greeted by 18th Airborne Corps Commander Lt. Gen. Gregory Anderson and other milit… [+6821 chars]",
+      "tags": [
+        "defense_contractor_reform",
+        "energy"
+      ],
+      "publishedAtTs": 1752332397
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Virginia La Torre Jeker, J.D., Contributor, \n Virginia La Torre Jeker, J.D., Contributor\n https://www.forbes.com/sites/virginialatorrejeker/",
+      "title": "Bombshell: Denaturalized Citizen Forced To Exit, Can’t Escape Exit Tax",
+      "description": "Can naturalized Americans whose citizenship is revoked be subject to U.S. exit tax expatriation rules?  Involuntarily giving up U.S. citizenship, but still taxed.",
+      "url": "https://www.forbes.com/sites/virginialatorrejeker/2025/07/12/bombshell-denaturalized-citizen-forced-to-exit-cant-escape-exit-tax/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68727f9dd7d368815ff2ae96/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T15:45:30Z",
+      "content": "The Trump administration is ramping up efforts to revoke the citizenship of naturalized Americans. ... More Can those stripped of their U.S. citizenship be subject to the U.S. tax expatriation rules … [+7717 chars]",
+      "tags": [
+        "legal_justice",
+        "taxes"
+      ],
+      "publishedAtTs": 1752335130
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Rohit Arora, Senior Contributor, \n Rohit Arora, Senior Contributor\n https://www.forbes.com/sites/rohitarora/",
+      "title": "Small Business Loans Can Help You Maximize The Summer Season",
+      "description": "A profitable summer season can make or break the year, but to capitalize on it, your business must be prepared... a small business loan might be the answer.",
+      "url": "https://www.forbes.com/sites/rohitarora/2025/07/12/small-business-loans-can-help-you-maximize-the-summer-season/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6871e29236ed5454ca530dba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T10:15:38Z",
+      "content": "Small Business Loan Form Tax man work application form loan\r\ngetty\r\nSummer is in full swing, and for many small businesses, especially those in seasonal industries like tourism, retail, food service,… [+7035 chars]",
+      "tags": [
+        "small_business"
+      ],
+      "publishedAtTs": 1752315338
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kelly Phillips Erb, Forbes Staff, \n Kelly Phillips Erb, Forbes Staff\n https://www.forbes.com/sites/kellyphillipserb/",
+      "title": "Tax Breaks: The Sorting Out The One Big Beautiful Bill Act Edition",
+      "description": "Plus: A famous soccer coach is sentenced to prison for tax fraud, filing an amended tax return, smoking rates and sin taxes, filing deadlines, tax trivia, and more.",
+      "url": "https://www.forbes.com/sites/kellyphillipserb/2025/07/12/tax-breaks-the-sorting-out-the-one-big-beautiful-bill-act-edition/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6871919a0ebae20c8bcb6e3f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T14:00:00Z",
+      "content": "Taxpayers have questions.\r\ngetty\r\nMy inbox hasnt been this full in yearsat least as far back as the pandemic. Whats confusing taxpayers these days? The One Big Beautiful Bill Act (OBBBA).\r\nOBBBA (I p… [+15800 chars]",
+      "tags": [
+        "taxes",
+        "policy_legislation",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1752328800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Catherine Brock, Contributor, \n Catherine Brock, Contributor\n https://www.forbes.com/sites/wealth-planning-insights/people/catherinebrock/",
+      "title": "6 Best Bank Stocks To Watch As 2008 Financial Crisis Rules Are Eased",
+      "description": "As the 2008 financial crisis rules are eased for banks, explore the 6 top bank stocks poised for growth. Check the list here to discover investing opportunities.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/6-best-bank-stocks-watch-2008-financial-crisis-rules/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68716b0519ee60be6d0e6594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T13:00:00Z",
+      "content": "If regulators ease capital requirements as proposed, financial institutions will have more balance ... More sheet freedom to make loans or fund other growth opportunities.\r\ngetty\r\nDeregulation is a t… [+11926 chars]",
+      "tags": [
+        "economy_finance",
+        "banking",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752325200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Emily Peck, Felix Salmon, and Elizabeth Spiers",
+      "title": "It’s Certainly One Big Bill",
+      "description": "Beautiful? Not so much.",
+      "url": "https://slate.com/podcasts/slate-money/2025/07/business-donald-trump-big-bill-congress-trade-tariff-babies",
+      "urlToImage": "https://compote.slate.com/images/0ad4cce0-1643-405e-b092-a65cc2f24b9e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2025-07-12T09:00:00Z",
+      "content": "This week: Trumps supersized One Big Beautiful Bill is now one big BS act. Felix Salmon, Emily Peck and Elizabeth Spiers the economic ramifications of congress passing the controversial megabill. The… [+708 chars]",
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752310800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "zerohedge.com",
+      "title": "Newborns To Get $1,000 'Trump Accounts' - Here's How It Works",
+      "description": "Newborns To Get $1,000 'Trump Accounts' - Here's How It Works\n \nAuthored by Andrew Moran via The Epoch Times,\nThe Republican reconciliation package, better known as the One Big Beautiful Bill, introduced Trump Accounts for newborns, which were previously dubb…",
+      "url": "https://biztoc.com/x/f40229fa97597e6f",
+      "urlToImage": "https://biztoc.com/cdn/f40229fa97597e6f_s.webp",
+      "publishedAt": "2025-07-12T20:23:37Z",
+      "content": "Newborns To Get $1,000 'Trump Accounts' - Here's How It Works\r\nAuthored by Andrew Moran via The Epoch Times,The Republican reconciliation package, better known as the One Big Beautiful Bill, introduc… [+143 chars]",
+      "tags": [
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752351817
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "businessinsider.com",
+      "title": "DOGE cuts are now a Trump loyalty test",
+      "description": "Trump declared this week that anyone who doesn't support the DOGE cuts package \"will not have my support or Endorsement.\"\nSamuel Corum/Getty Images\nThe push to pass DOGE cuts through Congress only became more dramatic this week.\nTrump says anyone who doesn't …",
+      "url": "https://biztoc.com/x/2b7a273bff417a07",
+      "urlToImage": "https://biztoc.com/cdn/2b7a273bff417a07_s.webp",
+      "publishedAt": "2025-07-12T09:37:21Z",
+      "content": "Trump declared this week that anyone who doesn't support the DOGE cuts package \"will not have my support or Endorsement.\"Samuel Corum/Getty ImagesThe push to pass DOGE cuts through Congress only beca… [+149 chars]",
+      "tags": [
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752313041
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "youtube.com",
+      "title": "Trump admin faces heat over Epstein video's 'missing minute'",
+      "description": "The Justice Department released video of the federal prison area where Jeffrey Epstein was held the night he died in 2019.",
+      "url": "https://biztoc.com/x/779d2d6b45eec111",
+      "urlToImage": "https://biztoc.com/cdn/779d2d6b45eec111_s.webp",
+      "publishedAt": "2025-07-12T03:37:42Z",
+      "content": "The Justice Department released video of the federal prison area where Jeffrey Epstein was held the night he died in 2019.\r\nThis story appeared on youtube.com, 2025-07-12 03:13:52.",
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752291462
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "breakingthenews.net",
+      "title": "Putin said to support ban on Iran enriching uranium",
+      "description": "Russian President Vladimir Putin told his United States counterpart Donald Trump, as well as Tehran's representatives, that he would support the idea of the revived Joint Comprehensive Plan of Action ...",
+      "url": "https://biztoc.com/x/a3a2c54b3701640d",
+      "urlToImage": "https://biztoc.com/cdn/a3a2c54b3701640d_s.webp",
+      "publishedAt": "2025-07-12T12:23:37Z",
+      "content": "Russian President Vladimir Putin told his United States counterpart Donald Trump, as well as Tehran's representatives, that he would support the idea of the revived Joint Comprehensive Plan of Action… [+69 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1752323017
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "cnbc.com",
+      "title": "Judge orders Trump administration to halt indiscriminate immigration stops, arrests in California",
+      "description": "A federal judge on Friday ordered the Trump administration to halt indiscriminate immigration stops and arrests in seven California counties, including Los Angeles.\nImmigrant advocacy groups filed the lawsuit last week accusing President Donald Trump's admini…",
+      "url": "https://biztoc.com/x/344a0f00f4f8dfba",
+      "urlToImage": "https://biztoc.com/cdn/344a0f00f4f8dfba_s.webp",
+      "publishedAt": "2025-07-12T02:46:03Z",
+      "content": "A federal judge on Friday ordered the Trump administration to halt indiscriminate immigration stops and arrests in seven California counties, including Los Angeles.Immigrant advocacy groups filed the… [+139 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752288363
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tippinsights.com",
+      "title": "Trump Vows ‘Historic Action’ To Prevent ‘Devastation’ Like That Of Texas Flash Flooding",
+      "description": "By Elizabeth Troutman Mitchell, The Daily Signal | July 11, 2025\nPresident Donald Trump said his administration will take “historic action” to prevent another devastation like the Texas flash flooding, which has claimed more than 120 lives, including dozens o…",
+      "url": "https://biztoc.com/x/b21361ce12d6450b",
+      "urlToImage": "https://biztoc.com/cdn/b21361ce12d6450b_s.webp",
+      "publishedAt": "2025-07-12T13:19:43Z",
+      "content": "By Elizabeth Troutman Mitchell, The Daily Signal | July 11, 2025President Donald Trump said his administration will take historic action to prevent another devastation like the Texas flash flooding, … [+145 chars]",
+      "tags": [
+        "crisis_emergency",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1752326383
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tippinsights.com",
+      "title": "A Course Correction On Antitrust Policy",
+      "description": "By Stephen Moore via The Daily Signal | July 11, 2025\nThe Department of Justice under President Donald Trump recently took a long-overdue step toward restoring sanity to U.S. antitrust policy.\nRight before Independence Day, the DOJ backed away from an overrea…",
+      "url": "https://biztoc.com/x/e85e1f6f17e00131",
+      "urlToImage": "https://biztoc.com/cdn/e85e1f6f17e00131_s.webp",
+      "publishedAt": "2025-07-12T13:19:57Z",
+      "content": "By Stephen Moore via The Daily Signal | July 11, 2025The Department of Justice under President Donald Trump recently took a long-overdue step toward restoring sanity to U.S. antitrust policy.Right be… [+149 chars]",
+      "tags": [
+        "antitrust"
+      ],
+      "publishedAtTs": 1752326397
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "nypost.com",
+      "title": "Jerome Powell ‘considering resigning’ as pressure grows over lavish $2.5B HQ: report",
+      "description": "A senior Trump administration official said Friday that Fed Chair Jerome Powell is “considering resigning” as pressure grows for an investigation into whether he lied to Congress about the central bank’s “Palace of Versailles” renovations to its headquarters …",
+      "url": "https://biztoc.com/x/74d5f46ed78123cf",
+      "urlToImage": "https://biztoc.com/cdn/74d5f46ed78123cf_s.webp",
+      "publishedAt": "2025-07-12T04:48:37Z",
+      "content": "A senior Trump administration official said Friday that Fed Chair Jerome Powell is considering resigning as pressure grows for an investigation into whether he lied to Congress about the central bank… [+140 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1752295717
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tippinsights.com",
+      "title": "John Brennan’s Checkered Past Comes Back To Haunt Him Amid DOJ Investigation",
+      "description": "By Victor Davis Hanson, The Daily Signal | July 11, 2025\nHello, this is Victor Davis Hanson for The Daily Signal. Recently, Attorney General Pam Bondi and the Trump Department of Justice have said they are running an investigation into James Comey’s and John …",
+      "url": "https://biztoc.com/x/5f6edf585b2ee145",
+      "urlToImage": "https://biztoc.com/cdn/5f6edf585b2ee145_s.webp",
+      "publishedAt": "2025-07-12T13:19:49Z",
+      "content": "By Victor Davis Hanson, The Daily Signal | July 11, 2025Hello, this is Victor Davis Hanson for The Daily Signal. Recently, Attorney General Pam Bondi and the Trump Department of Justice have said the… [+143 chars]",
+      "tags": [
+        "legal_justice",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1752326389
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "apnews.com",
+      "title": "Ecuador approves controversial law on protected areas, sparking legal threats",
+      "description": "",
+      "url": "https://biztoc.com/x/adabacc76dea8857",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-07-12T13:19:46Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump raising tariffs on Canada to 35%? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Nvidia reach a $4 … [+764 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1752326386
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "bloomberg.com",
+      "title": "Thyssenkrupp Steel, Labor Union Reach Agreement on Job Cuts",
+      "description": "",
+      "url": "https://biztoc.com/x/7f79cda403542b9a",
+      "urlToImage": "https://biztoc.com/cdn/7f79cda403542b9a_s.webp",
+      "publishedAt": "2025-07-12T15:44:44Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump announce 30% tariffs on EU and Mexico? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How are Trumps tarif… [+793 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1752335084
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "bloomberg.com",
+      "title": "Robinhood’s Private Stock Tokens Lure Investors, Draw Scrutiny",
+      "description": "",
+      "url": "https://biztoc.com/x/79acd1fe7d4c62ad",
+      "urlToImage": "https://biztoc.com/cdn/79acd1fe7d4c62ad_s.webp",
+      "publishedAt": "2025-07-12T12:23:31Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump raising tariffs on Canada to 35%? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Nvidia reach a $4 … [+756 chars]",
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752323011
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "bloomberg.com",
+      "title": "Worst Spate of Downgrades Since 2021 Signals Pain",
+      "description": "",
+      "url": "https://biztoc.com/x/1bac7c7a2dce0339",
+      "urlToImage": "https://biztoc.com/cdn/1bac7c7a2dce0339_s.webp",
+      "publishedAt": "2025-07-12T19:16:27Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump announce 30% tariffs on EU and Mexico? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Google outbi… [+787 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1752347787
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "bloomberg.com",
+      "title": "Five Themes for Investors to Watch as Earnings Season Kicks Off",
+      "description": "",
+      "url": "https://biztoc.com/x/8e058ef448798351",
+      "urlToImage": "https://biztoc.com/cdn/8e058ef448798351_s.webp",
+      "publishedAt": "2025-07-12T13:19:57Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump raising tariffs on Canada to 35%? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How did Nvidia reach a $4 … [+758 chars]",
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752326397
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kelly Phillips Erb, Forbes Staff, \n Kelly Phillips Erb, Forbes Staff\n https://www.forbes.com/sites/kellyphillipserb/",
+      "title": "Questions About The New Tax Bill? Taxgirl Has Answers",
+      "description": "New deductions for seniors, tipped workers and overtime, plus a tax hit on gamblers, have generated confusion, misinformation and outrage.",
+      "url": "https://www.forbes.com/sites/kellyphillipserb/2025/07/12/questions-about-the-new-tax-bill-taxgirl-has-answers/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687180766912acb707b53e02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-12T10:30:00Z",
+      "content": "New deductions for seniors, tipped workers and overtime, plus a tax hit on gamblers, have generated confusion, misinformation and outrage.\r\nMisinformation about the One Big Beautiful Bill Act (OBBBA)… [+16216 chars]",
+      "tags": [
+        "taxes",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1752316200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "author": "BlazeTV Staff",
+      "title": "WATCH: Flashback to Glenn’s 2023 Kash Patel interview exposes Epstein narrative shift",
+      "description": "During the late hours of July 6, the Department of Justice and the FBI issued a quiet report: Jeffrey Epstein’s “black book” of elitist clients who engaged in his sex trafficking ring of underage girls doesn’t exist and neither does the blackmailing operation…",
+      "url": "https://www.theblaze.com/shows/the-glenn-beck-program/watch-flashback-to-glenns-2023-kash-patel-interview-exposes-epstein-narrative-shift",
+      "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=61194082&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+      "publishedAt": "2025-07-12T20:00:00Z",
+      "content": "During the late hours of July 6, the Department of Justice and the FBI issued a quiet report: Jeffrey Epsteins black book of elitist clients who engaged in his sex trafficking ring of underage girls … [+1902 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1752350400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Scoop Harrison",
+      "title": "Trump Threatens to Revoke Rosie O’Donnell’s Citizenship: “She is a Threat to Humanity”",
+      "description": "O'Donnell hit back in response to the threat: \"18 years later and I still live rent-free in that collapsing brain of yours.\"\nTrump Threatens to Revoke Rosie O’Donnell’s Citizenship: “She is a Threat to Humanity”\nScoop Harrison",
+      "url": "https://consequence.net/2025/07/trump-threatens-to-revoke-rosie-odonnell-citizenship/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2025/07/Trump-Rosie.jpeg",
+      "publishedAt": "2025-07-12T16:53:32Z",
+      "content": "Donald Trump on Saturday threatened to revoke the citizenship of his longtime foe Rosie O’Donnell, saying she is “a Threat to Humanity.” In a post shared to Truth Social, Trump wrote, “Because of the… [+2406 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1752339212
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Consequence.net"
+      },
+      "author": "Scoop Harrison",
+      "title": "Metallica Force Pentagon to Pull Video Touting Drone Program Over Unauthorized Use of “Enter Sandman”",
+      "description": "The Department of Defense is apparently no match for the notoriously litigious Metallica.\nMetallica Force Pentagon to Pull Video Touting Drone Program Over Unauthorized Use of “Enter Sandman”\nScoop Harrison",
+      "url": "https://consequence.net/2025/07/metallica-pentagon-drone-video/",
+      "urlToImage": "https://consequence.net/wp-content/uploads/2025/07/Metallica-Department-of-Defense.jpeg",
+      "publishedAt": "2025-07-12T19:48:08Z",
+      "content": "The Department of Defense is apparently no match for the notoriously litigious Metallica. A social media video promoting the department’s drone capabilities— set to the band’s classic track “Enter Sa… [+1369 chars]",
+      "tags": [
+        "legal_justice",
         "media_communications"
       ],
-      "publishedAtTs": 1752348255
+      "publishedAtTs": 1752349688
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Johnson & Johnson (JNJ): I Would “Love” If Trump Praised The Company, Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. Johnson & Johnson (NYSE:JNJ) is one of the stocks Jim Cramer...",
+      "url": "https://finance.yahoo.com/news/johnson-johnson-jnj-love-trump-183237413.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DBFyZ0OZ_JyFkP8R8eQoiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f9ccf3c88c7274582ef19e20143427c2",
+      "publishedAt": "2025-07-12T18:32:37Z",
+      "content": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. Johnson &amp; Johnson (NYSE:JNJ) is one of the stocks Jim Cramer recently discussed.\r\nJohnson &amp; Johns… [+2357 chars]",
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752345157
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Eli Lilly and Company (LLY): I Would “Love” If Trump Praised The Company, Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. Eli Lilly and Company (NYSE:LLY) is one of the stocks Jim...",
+      "url": "https://finance.yahoo.com/news/eli-lilly-company-lly-love-183301489.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UjoPACeXPFyN.4G.yM_TTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/860932d32d923713fdffa5b1d444d8a3",
+      "publishedAt": "2025-07-12T18:33:01Z",
+      "content": "We recently published 14 Stocks Jim Cramer Discussed As He Talked About Record Bitcoin Price. Eli Lilly and Company (NYSE:LLY) is one of the stocks Jim Cramer recently discussed.\r\nEli Lilly and Compa… [+2146 chars]",
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752345181
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Has The Right Approach In Dealing With President Trump, Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one ...",
+      "url": "https://finance.yahoo.com/news/taiwan-semiconductor-manufacturing-company-limited-184131370.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/NNwY.gZByHpNCeRTqa8TTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e",
+      "publishedAt": "2025-07-12T18:41:31Z",
+      "content": "We recently published Jim Cramers Fresh 14 Stocks &amp; Thoughts About Market Performance. Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM) is one of the stocks Jim Cramer recently discu… [+2553 chars]",
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1752345691
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Tesla, Inc. (TSLA) Isn’t Being Targeted By Trump’s Copper Tariffs, Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. ABC is one of the stocks Jim Cramer recently discussed. Tesla, Inc. (...",
+      "url": "https://finance.yahoo.com/news/tesla-inc-tsla-isn-t-184254044.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R3DsTXHuX1Up50du0B.awA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf",
+      "publishedAt": "2025-07-12T18:42:54Z",
+      "content": "We recently published Jim Cramers Fresh 14 Stocks &amp; Thoughts About Market Performance. ABC is one of the stocks Jim Cramer recently discussed.\r\nTesla, Inc. (NASDAQ:TSLA) is the worlds largest ele… [+2561 chars]",
+      "tags": [
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1752345774
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "Cencora, Inc. (COR): If It Was Down, I’d Say “Double Down And Buy,” Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. Cencora, Inc. (NYSE:COR) is one of the stocks Jim Cramer recently...",
+      "url": "https://finance.yahoo.com/news/cencora-inc-cor-down-d-184011172.html",
+      "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/dc5a2bcb6b4c16a43cb5b4ba98feb139",
+      "publishedAt": "2025-07-12T18:40:11Z",
+      "content": "We recently published Jim Cramers Fresh 14 Stocks &amp; Thoughts About Market Performance. Cencora, Inc. (NYSE:COR) is one of the stocks Jim Cramer recently discussed.\r\nCencora, Inc. (NYSE:COR) is an… [+2395 chars]",
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1752345611
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ramish Cheema",
+      "title": "McKesson Corporation (MCK): If It Was Down, I’d Say “Fill Her Up,” Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s Fresh 14 Stocks & Thoughts About Market Performance. McKesson Corporation (NYSE:MCK) is one of the stocks Jim Cramer...",
+      "url": "https://finance.yahoo.com/news/mckesson-corporation-mck-down-d-184033982.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IlhvfHCXAZaUutXsa0Ugdw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/07a69a45dfb32a787ef2e58f45539bbb",
+      "publishedAt": "2025-07-12T18:40:33Z",
+      "content": "We recently published Jim Cramers Fresh 14 Stocks &amp; Thoughts About Market Performance. McKesson Corporation (NYSE:MCK) is one of the stocks Jim Cramer recently discussed.\r\nMcKesson Corporation (N… [+2478 chars]",
+      "tags": [
+        "economy_finance"
+      ],
+      "publishedAtTs": 1752345633
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Neha Gupta",
+      "title": "Perfect Corp (PERF) Earns Newsweek Award for AI Skin Analysis Solution",
+      "description": "Perfect Corp. (NYSE:PERF) is one of the most popular AI penny stocks to buy according to billionaires. On June 27, Perfect Corp. announced it had won the...",
+      "url": "https://finance.yahoo.com/news/perfect-corp-perf-earns-newsweek-104556029.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/AF59y1_4WOSaHkOSZ9Vxjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/f7b3d5bf0b3c5442141341e739eacff5",
+      "publishedAt": "2025-07-12T10:45:56Z",
+      "content": "Perfect Corp. (NYSE:PERF) is one of the most popular AI penny stocks to buy according to billionaires. On June 27, Perfect Corp. announced it had won the Best Outcomes, Customer Experience award at t… [+1589 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752317156
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Neha Gupta",
+      "title": "8×8 (EGHT) Introduces Verif8 AI-Powered Authentication Service",
+      "description": "8×8, Inc. (NASDAQ:EGHT) is one of the most popular AI penny stocks to buy according to billionaires. On June 24, the company introduced a new omnichannel...",
+      "url": "https://finance.yahoo.com/news/8-8-eght-introduces-verif8-104549016.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jconPLxb_ft4ChPmrdwlkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/818a3c54585f722adfbf9db68e604ff2",
+      "publishedAt": "2025-07-12T10:45:49Z",
+      "content": "8×8, Inc. (NASDAQ:EGHT) is one of the most popular AI penny stocks to buy according to billionaires. On June 24, the company introduced a new omnichannel authentication service named 8×8 Verif8. 8×8 … [+1973 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1752317149
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Neha Gupta",
+      "title": "Vuzix (VUZI) Receives Follow-On Orders for Z100 Smart Glasses from TranscribeGlass",
+      "description": "Vuzix Corporation (NASDAQ:VUZI) is one of the most popular AI penny stocks to buy according to billionaires. On June 30, the company announced that...",
+      "url": "https://finance.yahoo.com/news/vuzix-vuzi-receives-orders-z100-104546536.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_G4NrKJfAgpBScF9s2D1Kw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/insidermonkey.com/aab8c033531c9f1911710e2c60e86d04",
+      "publishedAt": "2025-07-12T10:45:46Z",
+      "content": "Vuzix Corporation (NASDAQ:VUZI) is one of the most popular AI penny stocks to buy according to billionaires. On June 30, the company announced that TranscribeGlass has placed follow-on orders for Vuz… [+2167 chars]",
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "artificial_intelligence"
+      ],
+      "publishedAtTs": 1752317146
     }
   ]
 }

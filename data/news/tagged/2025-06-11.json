@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 100,
+  "totalResults": 96,
   "articles": [
     {
       "source": {
@@ -16,9 +16,7 @@
       "content": "The US Environmental Protection Agency (EPA) moved to roll back emissions standards for power plants, the second-largest source of CO2 emissions in the country, on Wednesday, claiming that the Americ… [+3006 chars]",
       "tags": [
         "environment",
-        "federal_agencies",
-        "policy_legislation",
-        "energy"
+        "policy_legislation"
       ],
       "publishedAtTs": 1749674185
     },
@@ -35,8 +33,9 @@
       "publishedAt": "2025-06-11T11:30:00Z",
       "content": "As traditional media shrinks, storm streamers are growing; Schuster recently hired his first full-time employeeReilly Dibble, who used to work for Hall. Unlike a traditional broadcast, YouTube allows… [+3592 chars]",
       "tags": [
-        "media_communications",
-        "technology_regulation"
+        "technology_regulation",
+        "public_health_emergency",
+        "climate_policy"
       ],
       "publishedAtTs": 1749641400
     },
@@ -53,10 +52,8 @@
       "publishedAt": "2025-06-11T14:41:23Z",
       "content": "The deal is still subject to Trump and Chinese President Xi Jinpings approval. \r\nPresident Donald Trump says he has reached a deal with China that will ensure the US receives rare earth materials, ke… [+1467 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "china",
-        "foreign_policy"
+        "china"
       ],
       "publishedAtTs": 1749652883
     },
@@ -73,8 +70,8 @@
       "publishedAt": "2025-06-11T13:10:46Z",
       "content": "President Donald Trump has been talking for months about his desire to eliminate FEMA, the federal agency tasked with responding to natural disasters. But until now, we didn’t really know when he pla… [+2916 chars]",
       "tags": [
-        "crisis_emergency",
         "government_administration",
+        "natural_disasters",
         "policy_legislation"
       ],
       "publishedAtTs": 1749647446
@@ -92,9 +89,7 @@
       "publishedAt": "2025-06-11T15:40:15Z",
       "content": "The AI brain rot in Silicon Valley manifests in many varieties. For OpenAIs figurehead Sam Altman, this often results in a lot of vague talk about artificial intelligence as the panacea to all of the… [+4849 chars]",
       "tags": [
-        "health_science",
-        "media_communications",
-        "social_issues"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1749656415
     },
@@ -112,10 +107,9 @@
       "content": "Ana Faguy &amp; Bernd Debusmann Jr.\r\nUS President Donald Trump has sent thousands of National Guard troops and hundreds of US Marines to Los Angeles as protests take place against the administration'… [+4963 chars]",
       "tags": [
         "social_issues",
-        "civil_rights",
-        "elections_politics",
-        "media_communications",
-        "security_intelligence"
+        "protests",
+        "security_intelligence",
+        "law_enforcement"
       ],
       "publishedAtTs": 1749613274
     },
@@ -132,8 +126,8 @@
       "publishedAt": "2025-06-11T09:39:31Z",
       "content": "Adam Easton\r\nPoland's prime minister Donald Tusk has called for a vote of confidence in his pro-EU government after his political camp narrowly lost the recent presidential election.\r\nWednesday's vot… [+3127 chars]",
       "tags": [
-        "foreign_policy",
-        "europe"
+        "elections_politics",
+        "government_administration"
       ],
       "publishedAtTs": 1749634771
     },
@@ -150,11 +144,8 @@
       "publishedAt": "2025-06-11T16:20:00Z",
       "content": "President Donald Trump on Wednesday took to Truth Social to tout a new tentative trade agreement with China, albeit one that leaves the tariff rate against Beijing at historically high levels.\r\n\"WE A… [+1523 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "china",
         "trade",
-        "taxes"
+        "china"
       ],
       "publishedAtTs": 1749658800
     },
@@ -172,7 +163,7 @@
       "content": "JD Vance is taking a page out of the president's playbook.\r\nThe Vice President took a shot at the Federal Reserve on Wednesday, suggesting that the Fed should cut interest rates in a post on X.\r\nThe … [+1963 chars]",
       "tags": [
         "economy_finance",
-        "foreign_policy"
+        "inflation"
       ],
       "publishedAtTs": 1749659505
     },
@@ -189,9 +180,7 @@
       "publishedAt": "2025-06-11T15:42:20Z",
       "content": "Victoria's Secret is planning to cut back on deals to offset higher costs from tariffs.\r\nShoppers at the lingerie chain might be familiar with its frequent discounts or the free gifts that it gives c… [+1784 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "taxes"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1749656540
     },
@@ -209,8 +198,7 @@
       "content": "Days after the very public breakup of President Trump and his former adviser Elon Musk, the latter appears to be doing damage control.\r\n\"I regret some of my posts about President [Trump] last week,\" … [+4685 chars]",
       "tags": [
         "media_communications",
-        "personal_family",
-        "elections_politics"
+        "social_media"
       ],
       "publishedAtTs": 1749649458
     },
@@ -228,7 +216,8 @@
       "content": "The Trump administration says it is investigating whether there is a \"financial backer\" for the anti-immigration enforcement protests in Los Angeles suggesting it could be a \"foreign adversary.\"\r\nDur… [+9777 chars]",
       "tags": [
         "security_intelligence",
-        "immigration"
+        "immigration",
+        "law_enforcement"
       ],
       "publishedAtTs": 1749638844
     },
@@ -245,9 +234,8 @@
       "publishedAt": "2025-06-11T09:04:32Z",
       "content": "An appeal hearing for President Trump's criminal conviction and sentencing in his hush money case is set to be held in a U.S. court of appeals in Manhattan on Wednesday.",
       "tags": [
-        "legal_justice",
         "criminal_cases",
-        "personal_legal"
+        "legal_justice"
       ],
       "publishedAtTs": 1749632672
     },
@@ -264,9 +252,8 @@
       "publishedAt": "2025-06-11T21:35:39Z",
       "content": "In Florida, the growing number of immigrants being deported are raising concerns among some of President Trump's most loyal voters: Cuban-Americans. Before last year's election, more than two-thirds … [+4112 chars]",
       "tags": [
+        "mass_deportation_operation",
         "immigration",
-        "policy_legislation",
-        "regional_state",
         "social_issues"
       ],
       "publishedAtTs": 1749677739
@@ -285,8 +272,8 @@
       "content": "The Trump administration announced plans to repeal limits on greenhouse gas emissions and other airborne pollutants from the nation's fossil fuel-fired power plants.\r\nThe proposal is part of the Envi… [+8498 chars]",
       "tags": [
         "environment",
-        "energy",
-        "policy_legislation"
+        "policy_legislation",
+        "energy"
       ],
       "publishedAtTs": 1749676123
     },
@@ -304,7 +291,8 @@
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7093 chars]",
       "tags": [
         "security_intelligence",
-        "legal_justice"
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1749639823
     },
@@ -323,9 +311,7 @@
       "tags": [
         "legal_justice",
         "policy_legislation",
-        "environment",
-        "executive_orders",
-        "government_administration"
+        "environment"
       ],
       "publishedAtTs": 1749620818
     },
@@ -342,9 +328,8 @@
       "publishedAt": "2025-06-11T02:00:05Z",
       "content": "LONDON The U.S. and China have agreed in principle on a framework to carry out an agreement they reached on resolving their trade disputes last month, Chinese state media said.\r\nThe announcement foll… [+2389 chars]",
       "tags": [
-        "china",
-        "trade",
-        "economy_finance"
+        "trade_negotiations_truces",
+        "china"
       ],
       "publishedAtTs": 1749607205
     },
@@ -361,11 +346,9 @@
       "publishedAt": "2025-06-11T22:42:22Z",
       "content": "Downtown Los Angeles was quieter Wednesday morning as it emerged from its first overnight curfew since the start of protests against immigration enforcement raids. The city imposed the curfew after i… [+3673 chars]",
       "tags": [
-        "legal_justice",
         "social_issues",
         "security_intelligence",
-        "regional_state",
-        "crisis_emergency"
+        "protests"
       ],
       "publishedAtTs": 1749681742
     },
@@ -384,8 +367,6 @@
       "tags": [
         "legal_justice",
         "immigration",
-        "policy_legislation",
-        "government_administration",
         "elections_politics"
       ],
       "publishedAtTs": 1749674026
@@ -403,10 +384,9 @@
       "publishedAt": "2025-06-11T09:04:00Z",
       "content": "NEW YORK \"ICE out of New York!\"\r\nThose were the words thousands of people chanted near the city's Immigration and Customs Enforcement (ICE) field office, and throughout the streets of Manhattan Tuesd… [+2530 chars]",
       "tags": [
+        "protests",
         "immigration",
-        "policy_legislation",
-        "social_issues",
-        "elections_politics"
+        "mass_deportation_operation"
       ],
       "publishedAtTs": 1749632640
     },
@@ -424,8 +404,8 @@
       "content": "Health Secretary Robert F. Kennedy Jr. has unveiled eight people he has chosen to serve on the Centers for Disease Control and Prevention's vaccine advisory panel just two days after taking the unpre… [+4847 chars]",
       "tags": [
         "health_science",
-        "government_administration",
-        "personnel"
+        "public_health",
+        "government_administration"
       ],
       "publishedAtTs": 1749685795
     },
@@ -443,8 +423,7 @@
       "content": "Wilbur Ross says the US-China deal is modest and incomplete.REUTERS/Carlos Barria\r\n<ul><li>Wilbur Ross, Trump's first-term Secretary of Commerce, says the US-China deal is modest and incomplete.</li>… [+2507 chars]",
       "tags": [
         "china",
-        "trade",
-        "economy_finance"
+        "trade"
       ],
       "publishedAtTs": 1749680622
     },
@@ -462,8 +441,7 @@
       "content": "Donald Trump leaves Manhattan Criminal Court after he became the first former president to become a convicted felon.Mark Peterson - Pool/Getty Images\r\n<ul><li>Donald Trump's appeal in his Manhattan h… [+4452 chars]",
       "tags": [
         "legal_justice",
-        "criminal_cases",
-        "personal_legal"
+        "criminal_cases"
       ],
       "publishedAtTs": 1749633661
     },
@@ -481,9 +459,7 @@
       "content": "Jamie Dimon is the CEO of JPMorgan.Win McNamee\r\n<ul><li>Jamie Dimon tore into bland CEO letters and onerous regulations at a conference on Tuesday.</li><li>The JPMorgan CEO said he reads Warren Buffe… [+2328 chars]",
       "tags": [
         "economy_finance",
-        "policy_legislation",
-        "banking",
-        "government_administration"
+        "banking"
       ],
       "publishedAtTs": 1749640014
     },
@@ -500,10 +476,8 @@
       "publishedAt": "2025-06-11T12:31:59Z",
       "content": "New data out Wednesday showed how consumer prices changed in May.Spencer Platt/Getty Images\r\n<ul><li>The year-over-year inflation rate ticked up in May to 2.4%, less than expected.</li><li>Researcher… [+3243 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "taxes",
-        "trade"
+        "inflation",
+        "economy_finance"
       ],
       "publishedAtTs": 1749645119
     },
@@ -520,8 +494,7 @@
       "publishedAt": "2025-06-11T16:42:03Z",
       "content": "Scott Frank's \"Dept. Q\" is a take on the British crime show that has found viewers around the world.Justin Downing/Netflix\r\n<ul><li>Scott Frank wrote lots of big, successful movies.</li><li>Now he ma… [+8551 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1749660123
     },
@@ -538,10 +511,8 @@
       "publishedAt": "2025-06-11T08:11:01Z",
       "content": "Before flying from his home in Pittsburgh to Stanford's annual gathering of incoming freshmen in late April, Sebastian Tan downloaded what might be the top book on Silicon Valley's required reading l… [+15941 chars]",
       "tags": [
-        "education",
-        "technology_regulation",
         "social_issues",
-        "economy_finance"
+        "education"
       ],
       "publishedAtTs": 1749629461
     },
@@ -558,7 +529,7 @@
       "publishedAt": "2025-06-11T16:22:47Z",
       "content": "Midjourney, una de las IA para generar imágenes más prominentes de los últimos años, se enfrenta a un problema bastante importante. Axios reporta que Disney y NBCUniversal se han aliado en una demand… [+3613 chars]",
       "tags": [
-        "technology_regulation",
+        "ai_state_preemption",
         "legal_justice"
       ],
       "publishedAtTs": 1749658967
@@ -576,9 +547,7 @@
       "publishedAt": "2025-06-11T13:18:39Z",
       "content": "La Nintendo Switch 2 es cosa seria y su debut ha superado las expectativas de todos. Según informó la compañía japonesa en las últimas horas, se vendieron más de 3,5 millones de unidades del disposit… [+3455 chars]",
       "tags": [
-        "technology_regulation",
-        "personal_family",
-        "regional_state"
+        "off_topic"
       ],
       "publishedAtTs": 1749647919
     },
@@ -596,67 +565,9 @@
       "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
       "tags": [
         "government_administration",
-        "foreign_policy",
-        "legal_justice"
+        "personnel"
       ],
       "publishedAtTs": 1749670100
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump says China will face 55% tariffs as he endorses trade deal",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c8f7fe5a-bb9e-4248-8f58-4e8ac9b9cee8",
-      "urlToImage": null,
-      "publishedAt": "2025-06-11T14:21:14Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "economy_finance",
-        "trade",
-        "china"
-      ],
-      "publishedAtTs": 1749651674
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Jon Voight calls Newsom a ‘lying dog’ over LA protests while heaping praise on Trump",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a23afc2d-6ffe-4426-8db7-60cfc1675fc7",
-      "urlToImage": null,
-      "publishedAt": "2025-06-11T10:21:13Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "elections_politics",
-        "social_issues"
-      ],
-      "publishedAtTs": 1749637273
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "\"Evidence Of Trump’s Stupidity\": Trump Was Ruthlessly Mocked After Suffering A Brain Fart While Trying To Insult Biden",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6606e524-32c3-48e2-8249-01d3eb49700f",
-      "urlToImage": null,
-      "publishedAt": "2025-06-11T21:41:46Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "media_communications",
-        "elections_politics",
-        "personal_family"
-      ],
-      "publishedAtTs": 1749678106
     },
     {
       "source": {
@@ -671,9 +582,9 @@
       "publishedAt": "2025-06-11T09:02:09Z",
       "content": "By Guy Faulconbridge and Parisa Hafezi\r\nMOSCOW (Reuters) -Russia said on Wednesday it stood ready to remove highly enriched uranium from Iran and convert it into civilian reactor fuel as a potential … [+2981 chars]",
       "tags": [
-        "foreign_policy",
         "russia",
-        "arms_control"
+        "iran",
+        "nuclear_policy"
       ],
       "publishedAtTs": 1749632529
     },
@@ -691,10 +602,7 @@
       "content": "(Refiles with new headline)\r\nBy Marco Aquino\r\nPISCO, Peru (Reuters) -In Peru's Pisco Desert, rows of blueberry bushes towering as much as two meters high stretch towards the horizon, finally giving w… [+5507 chars]",
       "tags": [
         "trade",
-        "china",
-        "economy_finance",
-        "policy_legislation",
-        "agriculture"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1749636495
     },
@@ -711,8 +619,7 @@
       "publishedAt": "2025-06-11T22:33:00Z",
       "content": "Nvidia CEO sends blunt 7-word message on quantum computing originally appeared on TheStreet.\r\nNvidia  (NVDA)  CEO Jensen Huang has a new statement on quantum computing, but this time, it isnt sending… [+4458 chars]",
       "tags": [
-        "technology_regulation",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1749681180
     },
@@ -729,8 +636,8 @@
       "publishedAt": "2025-06-11T08:44:00Z",
       "content": "I regret some of my posts about President @realDonaldTrump last week, Elon Musk posted on his social media platform X early Wednesday. They went too far.\r\nMusk and Trump, who were once almost insepar… [+1644 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1749631440
     },
@@ -748,9 +655,7 @@
       "content": "This article is part of The D.C. Brief, TIMEs politics newsletter. Sign up here to get stories like this sent to your inbox.\r\nIts sometimes easy to go numb living here in Washington. On most days, th… [+5529 chars]",
       "tags": [
         "security_intelligence",
-        "national_security",
-        "military",
-        "crisis_emergency"
+        "government_administration"
       ],
       "publishedAtTs": 1749671236
     },
@@ -767,9 +672,9 @@
       "publishedAt": "2025-06-11T04:45:00Z",
       "content": "Whats happening right now is very different than anything weve seen before, Gavin Newsom, the Governor of California, said in a speech Tuesday night that was seemingly addressed as much to his own st… [+4868 chars]",
       "tags": [
-        "california",
-        "regional_state",
-        "elections_politics"
+        "elections_politics",
+        "social_issues",
+        "media_communications"
       ],
       "publishedAtTs": 1749617100
     },
@@ -786,10 +691,8 @@
       "publishedAt": "2025-06-11T18:37:04Z",
       "content": "On May 11, 2023, President Joseph Biden ended the COVID-19 public health emergency, calling an finish to the pandemic. By the end of 2023, COVID-19 claimed the lives of over 20 million people around … [+6257 chars]",
       "tags": [
-        "public_health",
         "health_science",
-        "medical_research",
-        "social_issues"
+        "public_health"
       ],
       "publishedAtTs": 1749667024
     },
@@ -806,11 +709,9 @@
       "publishedAt": "2025-06-11T14:32:50Z",
       "content": "What started out as large-scale protests in Los Angeles, with people rallying against raids conducted by Immigration and Customs Enforcement (ICE), has now spread to other cities across the U.S. \r\nIn… [+2345 chars]",
       "tags": [
+        "protests",
         "immigration",
-        "policy_legislation",
-        "government_administration",
-        "security_intelligence",
-        "crisis_emergency"
+        "law_enforcement"
       ],
       "publishedAtTs": 1749652370
     },
@@ -827,8 +728,6 @@
       "publishedAt": "2025-06-11T19:22:36Z",
       "content": "To mark the 250th anniversary of the United States Army, Washington D.C. will play host to a national military parade on Saturday, June 14. The date also falls in line with President Donald Trumps 79… [+8037 chars]",
       "tags": [
-        "security_intelligence",
-        "national_security",
         "military"
       ],
       "publishedAtTs": 1749669756
@@ -846,9 +745,7 @@
       "publishedAt": "2025-06-11T13:22:24Z",
       "content": "Jun 11, 2025, 09:07 AM ET\r\nLAUSANNE, Switzerland -- The global watchdog of doping in sports said Wednesday it will urge public authorities to shut down the drug-fueled Enhanced Games planned in Las V… [+2030 chars]",
       "tags": [
-        "health_science",
-        "social_issues",
-        "crisis_emergency"
+        "social_issues"
       ],
       "publishedAtTs": 1749648144
     },
@@ -865,8 +762,7 @@
       "publishedAt": "2025-06-11T19:37:30Z",
       "content": "Jun 11, 2025, 03:15 PM ET\r\nAS EARLY PLANS for the 2026 FIFA World Cup came together, the three host areas in the Northeast -- Boston, New York/New Jersey and Philadelphia -- saw an opportunity to pit… [+12411 chars]",
       "tags": [
-        "transportation",
-        "regional_state"
+        "transportation"
       ],
       "publishedAtTs": 1749670650
     },
@@ -883,8 +779,8 @@
       "publishedAt": "2025-06-11T16:30:35Z",
       "content": "A finales de mayo, la administración estadounidense dio un nuevo paso en su estrategia para frenar la industria china de semiconductores. Tras comprobar que impedir el acceso a su tecnología no había… [+3746 chars]",
       "tags": [
-        "foreign_policy",
         "china",
+        "trade_negotiations_truces",
         "technology_regulation"
       ],
       "publishedAtTs": 1749659435
@@ -902,10 +798,9 @@
       "publishedAt": "2025-06-11T12:21:48Z",
       "content": "President Donald Trump said a trade deal with China \"is done, subject to final approval.\"\r\n\"OUR DEAL WITH CHINA IS DONE, SUBJECT TO FINAL APPROVAL WITH PRESIDENT XI AND ME,\" Trump said on Truth Socia… [+61 chars]",
       "tags": [
+        "trade",
         "foreign_policy",
-        "china",
-        "economy_finance",
-        "trade"
+        "china"
       ],
       "publishedAtTs": 1749644508
     },
@@ -922,9 +817,10 @@
       "publishedAt": "2025-06-11T23:45:17Z",
       "content": "President Donald Trump confirmed on Wednesday that United States personnel are being \"moved out\" of parts of the Middle East amid escalating tensions with Israel and Iran.\r\n\"Well, they are being move… [+1101 chars]",
       "tags": [
-        "middle_east",
         "foreign_policy",
-        "security_intelligence"
+        "middle_east",
+        "israel",
+        "iran"
       ],
       "publishedAtTs": 1749685517
     },
@@ -941,11 +837,9 @@
       "publishedAt": "2025-06-11T04:04:10Z",
       "content": "With migrant communities already living in fear amid the Trump administration's immigration crackdown, raids carried out in downtown Los Angeles last week by federal agents apparently became a flashp… [+10089 chars]",
       "tags": [
-        "immigration",
-        "legal_justice",
-        "media_communications",
-        "social_issues",
-        "crisis_emergency"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1749614650
     },
@@ -980,9 +874,7 @@
       "publishedAt": "2025-06-11T16:16:56Z",
       "content": "<ul><li>Hegseth goes on the defensive over LA military deployment\r\n</li><li>Elon Musk says he went too far in some posts critical of Trump\r\n</li><li>Progressives plan 'No Kings Day' protests to count… [+4379 chars]",
       "tags": [
-        "health_science",
-        "science_policy",
-        "medical_research"
+        "off_topic"
       ],
       "publishedAtTs": 1749658616
     },
@@ -999,8 +891,9 @@
       "publishedAt": "2025-06-11T02:32:47Z",
       "content": "The Associated Press has projected that U.S. Rep. Mikie Sherrill (D-NJ) will win New Jersey's Democratic gubernatorial primary, and that former state assemblyman Jack Ciattarelli will win New Jersey'… [+2898 chars]",
       "tags": [
-        "regional_state",
-        "elections_politics"
+        "elections_politics",
+        "2024_presidential",
+        "state_elections"
       ],
       "publishedAtTs": 1749609167
     },
@@ -1018,9 +911,7 @@
       "content": "Director of National Intelligence Tulsi Gabbard issued a stark warning about the threat of nuclear war in a video posted to her personal account on X, marking a sharp contrast with past comments made… [+4417 chars]",
       "tags": [
         "security_intelligence",
-        "foreign_policy",
-        "arms_control",
-        "crisis_emergency"
+        "nuclear_policy"
       ],
       "publishedAtTs": 1749657308
     },
@@ -1037,10 +928,10 @@
       "publishedAt": "2025-06-11T10:33:04Z",
       "content": "Texas Gov. Greg Abbott said he was deploying the Texas National Guard to multiple locations across the state to \"ensure peace and order.\"\r\nThe deployment comes ahead of planned protests this week in … [+1195 chars]",
       "tags": [
-        "government_administration",
+        "social_issues",
+        "protests",
         "security_intelligence",
-        "crisis_emergency",
-        "regional_state"
+        "law_enforcement"
       ],
       "publishedAtTs": 1749637984
     },
@@ -1057,7 +948,7 @@
       "publishedAt": "2025-06-11T15:02:00Z",
       "content": "<ul><li>Appeals court takes up Trump's challenge to his criminal hush money conviction\r\n</li><li>Final defense witness takes stand in Karen Read murder retrial\r\n</li><li>Trump says China trade deal '… [+4380 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1749654120
     },
@@ -1074,11 +965,9 @@
       "publishedAt": "2025-06-11T21:35:43Z",
       "content": "The White House on Wednesday attempted to clarify President Donald Trump's threat the day before to use \"heavy force\" against \"any\" protesters at the military parade this weekend in Washington celebr… [+2856 chars]",
       "tags": [
-        "free_speech",
-        "civil_rights",
         "social_issues",
-        "media_communications",
-        "government_administration"
+        "protests",
+        "law_enforcement"
       ],
       "publishedAtTs": 1749677743
     },
@@ -1096,8 +985,8 @@
       "content": "Attorney General Pam Bondi rejected that President Donald Trump's pardons for hundreds of rioters who assaulted police during the Jan. 6 attack on the Capitol creates a double standard with the admin… [+2984 chars]",
       "tags": [
         "legal_justice",
-        "elections_politics",
-        "social_issues"
+        "protests",
+        "immigration"
       ],
       "publishedAtTs": 1749660697
     },
@@ -1114,10 +1003,9 @@
       "publishedAt": "2025-06-11T13:33:59Z",
       "content": "Before devolving into personal attacks, the clash between President Donald Trump and Elon Musk began with a disagreement over the country's ballooning debt.\r\nMusk publicly condemned what Trump hopes … [+4971 chars]",
       "tags": [
+        "national_debt",
         "economy_finance",
-        "policy_legislation",
-        "taxes",
-        "budget"
+        "policy_legislation"
       ],
       "publishedAtTs": 1749648839
     },
@@ -1134,7 +1022,7 @@
       "publishedAt": "2025-06-11T11:37:04Z",
       "content": "<ul><li>LA mayor imposes curfew downtown amid immigration protests\r\n</li><li>Trump defends show of force in LA amid protests\r\n</li><li>US and China agree to framework of trade deal\r\n</li><li>CDC empl… [+4376 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1749641824
     },
@@ -1151,9 +1039,8 @@
       "publishedAt": "2025-06-11T12:41:54Z",
       "content": "<ul><li>LA mayor imposes curfew downtown amid immigration protests\r\n</li><li>Trump defends show of force in LA amid protests\r\n</li><li>US and China agree to framework of trade deal\r\n</li><li>CDC empl… [+4367 chars]",
       "tags": [
-        "public_health_emergency",
-        "crisis_emergency",
-        "security_incidents"
+        "security_intelligence",
+        "law_enforcement"
       ],
       "publishedAtTs": 1749645714
     },
@@ -1170,9 +1057,7 @@
       "publishedAt": "2025-06-11T11:37:36Z",
       "content": "<ul><li>LA mayor imposes curfew downtown amid immigration protests\r\n</li><li>Trump defends show of force in LA amid protests\r\n</li><li>US and China agree to framework of trade deal\r\n</li><li>CDC empl… [+4376 chars]",
       "tags": [
-        "social_issues",
-        "personal_family",
-        "regional_state"
+        "off_topic"
       ],
       "publishedAtTs": 1749641856
     },
@@ -1189,7 +1074,7 @@
       "publishedAt": "2025-06-11T07:50:41Z",
       "content": "<ul><li>Trump delivers warning to Army parade protesters ahead of event \r\n</li><li>Showdown in Los Angeles over immigration protests\r\n</li><li>CDC workers protest after RFK Jr. purges agency's vaccin… [+4393 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1749628241
     },
@@ -1207,9 +1092,8 @@
       "content": "As anti-immigration raid protests continue for the sixth day in Los Angeles, a group of 30 regional mayors from Southern California came together to stand in support and solidarity with those peacefu… [+2263 chars]",
       "tags": [
         "immigration",
-        "policy_legislation",
-        "social_issues",
-        "regional_state"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749675716
     },
@@ -1226,8 +1110,7 @@
       "publishedAt": "2025-06-11T06:52:26Z",
       "content": "<ul><li>Trump delivers warning to Army parade protesters ahead of event \r\n</li><li>Showdown in Los Angeles over immigration protests\r\n</li><li>CDC workers protest after RFK Jr. purges agency's vaccin… [+4393 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1749624746
     },
@@ -1245,9 +1128,7 @@
       "content": "The State Department is ordering the departure of all nonessential staff from its embassy in Baghdad due to concern over increased security risks in the region, according to two State Department offi… [+972 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
-        "security_intelligence",
-        "crisis_emergency"
+        "security_intelligence"
       ],
       "publishedAtTs": 1749670490
     },
@@ -1264,10 +1145,9 @@
       "publishedAt": "2025-06-11T22:58:02Z",
       "content": "The government on Wednesday hired back more than 450 Centers for Disease Control and Prevention employees that were fired as part of the widespread restructuring that took place in April at the Depar… [+2650 chars]",
       "tags": [
-        "public_health",
         "government_administration",
-        "federal_agencies",
-        "personnel"
+        "personnel",
+        "public_health"
       ],
       "publishedAtTs": 1749682682
     },
@@ -1284,8 +1164,8 @@
       "publishedAt": "2025-06-11T08:54:02Z",
       "content": "Le président américain, Donald Trump (à droite), lors dune conférence de presse avec Elon Musk dans le bureau Ovale de la Maison Blanche, à Washington, le 30 mai 2025. EVAN VUCCI / AP\r\nLe multimillia… [+1436 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "social_media",
+        "personal_activities"
       ],
       "publishedAtTs": 1749632042
     },
@@ -1303,7 +1183,8 @@
       "content": "Le président américain Donald Trump le 10 juin 2025 à la base interarmées dAndrews, dans le Maryland. ANNA MONEYMAKER / AFP\r\nDonald Trump sest félicité mercredi 11 juin de laccord trouvé dans la nuit… [+4627 chars]",
       "tags": [
         "china",
-        "trade"
+        "trade",
+        "foreign_policy"
       ],
       "publishedAtTs": 1749647390
     },
@@ -1321,9 +1202,7 @@
       "content": "[La maire démocrate de Los Angeles, Karen Bass, a décrété un couvre-feu après plusieurs jours de manifestation contre la politique migratoire fédérale, la réquisition de 2 000 gardes nationaux, et la… [+2067 chars]",
       "tags": [
         "immigration",
-        "policy_legislation",
-        "california",
-        "legal_justice",
+        "protests",
         "social_issues"
       ],
       "publishedAtTs": 1749649198
@@ -1341,11 +1220,8 @@
       "publishedAt": "2025-06-11T16:00:06Z",
       "content": "Elon Musk has built his reputation as a man who never backs downa tech gladiator convinced hes always right. When he responds to criticism, its usually to mock it. The word sorry doesnt live in his v… [+5054 chars]",
       "tags": [
-        "media_communications",
         "personal_family",
-        "social_issues",
-        "elections_politics",
-        "foreign_policy"
+        "media_communications"
       ],
       "publishedAtTs": 1749657606
     },
@@ -1362,9 +1238,9 @@
       "publishedAt": "2025-06-11T18:05:37Z",
       "content": "Bill Nye, the science educator who’s been a TV mainstay for decades, is not the kind of guy you’d expect would be friends with Robert F. Kennedy Jr., the most prominent anti-science kook in the count… [+3268 chars]",
       "tags": [
-        "health_science",
-        "media_communications",
-        "social_issues"
+        "social_issues",
+        "climate_policy",
+        "personal_family"
       ],
       "publishedAtTs": 1749665137
     },
@@ -1381,9 +1257,7 @@
       "publishedAt": "2025-06-11T14:50:53Z",
       "content": "A little over a year ago, United Launch Alliance (ULA) launched its final Delta IV Heavy rocket from Space Launch Complex-37 (SLC-37). It was the end of an era for the heavy-lift rocket and the histo… [+2475 chars]",
       "tags": [
-        "space_policy",
-        "economy_finance",
-        "security_intelligence"
+        "space_policy"
       ],
       "publishedAtTs": 1749653453
     },
@@ -1400,9 +1274,8 @@
       "publishedAt": "2025-06-11T10:00:43Z",
       "content": "Tesla doesnt have a strong history of releasing things on time or with promised functionality. After the latest in a series of setbacks, it seems like the EV giants long-awaited robotaxi service will… [+5211 chars]",
       "tags": [
-        "technology_regulation",
-        "economy_finance",
-        "transportation"
+        "automotive",
+        "technology_regulation"
       ],
       "publishedAtTs": 1749636043
     },
@@ -1419,11 +1292,10 @@
       "publishedAt": "2025-06-11T16:03:59Z",
       "content": "On Monday afternoon, news broke that seven hundred Marines were being deployed from their base in Twentynine Palms. The 2nd Battalion 7th Marinesknown for their battles in Guadalcanal, during the Sec… [+14901 chars]",
       "tags": [
-        "crisis_emergency",
-        "policy_legislation",
-        "government_administration",
+        "protests",
+        "immigration",
         "security_intelligence",
-        "social_issues"
+        "government_administration"
       ],
       "publishedAtTs": 1749657839
     },
@@ -1440,11 +1312,9 @@
       "publishedAt": "2025-06-11T01:53:00Z",
       "content": "The last time President Donald Trump tried to send military forces into American streets to put down civil unrest, in June 2020, Pete Hegseth was positioned outside the White House with a Kevlar helm… [+7546 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
+        "security_intelligence",
         "social_issues",
-        "regional_state",
-        "crisis_emergency"
+        "protests"
       ],
       "publishedAtTs": 1749606780
     },
@@ -1461,11 +1331,10 @@
       "publishedAt": "2025-06-11T12:05:07Z",
       "content": "Revolutions have a logic. The revolutionaries start with a big, transformative, impossible goal. They want to remake society, smash existing institutions, replace them with something different. They … [+5922 chars]",
       "tags": [
-        "policy_legislation",
         "social_issues",
-        "legal_justice",
-        "security_intelligence",
-        "crisis_emergency"
+        "protests",
+        "regional_state",
+        "california"
       ],
       "publishedAtTs": 1749643507
     },
@@ -1482,8 +1351,7 @@
       "publishedAt": "2025-06-11T11:00:00Z",
       "content": "In 1992, The Simpsons was one of the most beloved sitcoms on television. Critics adored it; the ratings were climbing higher and higher; the show had entered what fans would eventually come to regard… [+8814 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1749639600
     },
@@ -1500,11 +1368,8 @@
       "publishedAt": "2025-06-11T13:36:51Z",
       "content": "Bernd Debusmann Jr\r\nOn the campaign trail, Donald Trump was crystal clear: \"On day one, I will launch the largest deportation programme of criminals in the history of America.\"\r\nThat promise, opinion… [+7861 chars]",
       "tags": [
-        "immigration",
-        "legal_justice",
-        "policy_legislation",
-        "government_administration",
-        "security_intelligence"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1749649011
     },
@@ -1521,8 +1386,8 @@
       "publishedAt": "2025-06-11T01:15:35Z",
       "content": "Protests against immigration raids have continued in Los Angeles, California on Tuesday, with similar demonstrations happening in other major US cities. \r\nUS President Donald Trump says the protests … [+193 chars]",
       "tags": [
-        "immigration",
-        "social_issues"
+        "protests",
+        "immigration"
       ],
       "publishedAtTs": 1749604535
     },
@@ -1540,8 +1405,8 @@
       "content": "BREAKING: After Trump deployed Marines to LA, this military member joined an anti-ICE protest in Dallas, declaring, 'We wont be pawns in stripping away constitutional rights. pic.twitter.com/JYvb6ucR… [+49 chars]",
       "tags": [
         "social_issues",
-        "media_communications",
-        "elections_politics"
+        "protests",
+        "military"
       ],
       "publishedAtTs": 1749655441
     },
@@ -1558,8 +1423,7 @@
       "publishedAt": "2025-06-11T03:52:00Z",
       "content": "Inhaltsverzeichnis\r\nclose notice\r\nThis article is also available in\r\n English.\r\nIt was translated with technical assistance and editorially reviewed before publication.\r\nDont show this again.\r\nMit ei… [+6118 chars]",
       "tags": [
-        "technology_regulation",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1749613920
     },
@@ -1576,32 +1440,11 @@
       "publishedAt": "2025-06-11T20:30:00Z",
       "content": "CLIMATEWIRE | President Donald Trump said Tuesday that his administration will wait until after this hurricane season to begin cutting disaster aid to states.\r\nTrump’s comments to reporters during an… [+2633 chars]",
       "tags": [
+        "climate_policy",
         "crisis_emergency",
-        "federal_agencies",
-        "government_administration",
-        "policy_legislation"
+        "natural_disasters"
       ],
       "publishedAtTs": 1749673800
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": null,
-      "title": "Trump administration says he has the authority to cancel national monuments that protect landscapes",
-      "description": null,
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1ee3d732-bf69-4572-953b-f990c7b9ac7b",
-      "urlToImage": null,
-      "publishedAt": "2025-06-11T00:03:07Z",
-      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [
-        "policy_legislation",
-        "environment",
-        "legal_justice",
-        "executive_orders"
-      ],
-      "publishedAtTs": 1749600187
     },
     {
       "source": {
@@ -1617,7 +1460,8 @@
       "content": "White House Press Secretary Karoline Leavitt abruptly ended a news conference after facing tough questions over free speech.\r\nAmid ongoing tensions over Donald Trumps immigration crackdown in Los Ang… [+3373 chars]",
       "tags": [
         "media_communications",
-        "free_speech"
+        "free_speech",
+        "legal_justice"
       ],
       "publishedAtTs": 1749671682
     },
@@ -1635,7 +1479,6 @@
       "content": "By Ahmed Rasheed and Daphne Psaledakis\r\nBAGHDAD/WASHINGTON (Reuters) -The United States is preparing to evacuate its Iraqi embassy due to heightened security risks in the region, three U.S. and two I… [+1653 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
         "security_intelligence",
         "crisis_emergency"
       ],
@@ -1655,8 +1498,8 @@
       "content": "OMAHA, Neb. (AP) The owner of an Omaha food packaging company says his business has been unfairly hamstrung by federal immigration officials, who raided the plant and arrested more than half its work… [+4018 chars]",
       "tags": [
         "immigration",
-        "economy_finance",
-        "legal_justice"
+        "law_enforcement",
+        "labor"
       ],
       "publishedAtTs": 1749682935
     },
@@ -1673,10 +1516,9 @@
       "publishedAt": "2025-06-11T18:28:01Z",
       "content": "In an ambiguous post today, President Donald Trump noted that he's close to a deal with China, that's still worse for Apple and the US economy than what was in place before his April tariff program l… [+2258 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "china",
-        "policy_legislation"
+        "economy_finance",
+        "china"
       ],
       "publishedAtTs": 1749666481
     },
@@ -1693,9 +1535,8 @@
       "publishedAt": "2025-06-11T11:37:13Z",
       "content": "Rioters have run through Apple Tower Theater in downtown Los Angeles, smashing windows and stealing iPhones, during protests over immigration raids.\r\nApple Tower Theater is an historic Los Angeles bu… [+2322 chars]",
       "tags": [
-        "social_issues",
-        "legal_justice",
-        "crisis_emergency"
+        "protests",
+        "immigration"
       ],
       "publishedAtTs": 1749641833
     },
@@ -1712,6 +1553,7 @@
       "publishedAt": "2025-06-11T18:42:54Z",
       "content": "Les relations entre la Chine et les États-Unis sont un peu plus apaisées aujourdhui. Après deux jours de négociations à Londres, les représentants des deux pays ont trouvé un accord-cadre. Notre acco… [+1147 chars]",
       "tags": [
+        "foreign_policy",
         "china"
       ],
       "publishedAtTs": 1749667374
@@ -1729,8 +1571,7 @@
       "publishedAt": "2025-06-11T05:20:02Z",
       "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]",
       "tags": [
-        "technology_regulation",
-        "health_science"
+        "ai_state_preemption"
       ],
       "publishedAtTs": 1749619202
     },
@@ -1747,11 +1588,9 @@
       "publishedAt": "2025-06-11T19:00:00Z",
       "content": "NASA put out a new call urging its workforce to leave the agency this week with a new offer for employment buyouts as the U.S. space program faces huge budget cuts proposed by the Trump administratio… [+4041 chars]",
       "tags": [
-        "health_science",
-        "budget",
-        "federal_agencies",
-        "science_policy",
-        "space_policy"
+        "space_policy",
+        "government_administration",
+        "budget"
       ],
       "publishedAtTs": 1749668400
     },
@@ -1768,8 +1607,8 @@
       "publishedAt": "2025-06-11T08:01:14Z",
       "content": "« Je regrette certaines de mes publications sur le président Donald Trump la semaine dernière. Cest allé trop loin. » Elon Musk vient de publier ce mea culpa sur son compte X (anciennement Twitter). … [+2689 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1749628874
     },
@@ -1786,8 +1625,8 @@
       "publishedAt": "2025-06-11T08:25:48Z",
       "content": "Elon Musk bedauert eigenen Angaben zufolge einige seiner kritischen Äußerungen im Streit mit US-Präsident Donald Trump. \"Ich bedauere einige meiner Posts über Präsident Donald Trump vergangene Woche\"… [+1596 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1749630348
     },
@@ -1804,11 +1643,9 @@
       "publishedAt": "2025-06-11T04:05:11Z",
       "content": "Der Internet-Aktivist Markus Beckedahl hält eine bessere digitale Welt nach wie vor für möglich.© [M] dts Nachrichtenagentur/imago images\r\nKein schnelles Internet, keine digitale Verwaltung, keine So… [+1568 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
         "technology_regulation",
-        "cybersecurity",
-        "security_intelligence"
+        "security_intelligence",
+        "policy_legislation"
       ],
       "publishedAtTs": 1749614711
     },
@@ -1825,8 +1662,7 @@
       "publishedAt": "2025-06-11T09:10:49Z",
       "content": "Nach seinem öffentlichen Zerwürfnis mit US-Präsident Donald Trump rudert Tech-Milliardär Elon Musk überraschend zurück. «Ich bedauere einige meiner Beiträge über Präsident @realDonaldTrump vergangene… [+1435 chars]",
       "tags": [
-        "foreign_policy",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1749633049
     },
@@ -1843,9 +1679,7 @@
       "publishedAt": "2025-06-11T20:24:52Z",
       "content": "Bruce Springsteen alias «The Boss» hat beim ersten Deutschlandkonzert seiner Europatour erneut US-Präsident Donald Trump und die US-Regierung scharf kritisiert. Das Amerika das er liebe, über das er … [+2760 chars]",
       "tags": [
-        "media_communications",
-        "elections_politics",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1749673492
     },
@@ -1862,9 +1696,8 @@
       "publishedAt": "2025-06-11T12:47:09Z",
       "content": "China und die USA haben sich nach Angaben von US-Präsident Donald Trump bei neuen Handelsgesprächen grundsätzlich auf einen Abbau von Exportbeschränkungen bei seltenen Erden verständigt. Die formelle… [+3961 chars]",
       "tags": [
-        "china",
         "trade",
-        "economy_finance"
+        "china"
       ],
       "publishedAtTs": 1749646029
     },
@@ -1881,8 +1714,8 @@
       "publishedAt": "2025-06-11T15:59:40Z",
       "content": "Schließen\r\nArtikelzusammenfassung\r\nMuzaffar Chishti, Leiter des New Yorker Büros des Migration Policy Institute, warnt davor, dass die Ereignisse in Los Angeles an frühere Unruhen erinnern und von de… [+767 chars]",
       "tags": [
-        "immigration",
-        "foreign_policy"
+        "social_issues",
+        "immigration"
       ],
       "publishedAtTs": 1749657580
     },
@@ -1899,6 +1732,7 @@
       "publishedAt": "2025-06-11T10:59:24Z",
       "content": "Raul Gomez macht heute ein richtig gutes Geschäft. An der Kreuzung neben dem Bundesgebäude in Downtown Los Angeles, das neuerdings Soldaten bewachen, verkauft er unterschiedliche Nationalflaggen die … [+701 chars]",
       "tags": [
+        "protests",
         "social_issues"
       ],
       "publishedAtTs": 1749639564
@@ -1916,9 +1750,8 @@
       "publishedAt": "2025-06-11T00:32:27Z",
       "content": "Die Atmosphäre ist nach den Demonstrationen und den Ausschreitungen in Los Angeles aufgeheizt, als kurz vor Mittag die Nationalgarde am Bundesgefängnis im Stadtzentrum aufmarschiert. In Tarnmontur, m… [+5831 chars]",
       "tags": [
-        "california",
-        "social_issues",
-        "crisis_emergency"
+        "protests",
+        "security_intelligence"
       ],
       "publishedAtTs": 1749601947
     }

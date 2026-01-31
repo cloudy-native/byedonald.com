@@ -14,7 +14,12 @@
       "urlToImage": "https://media.wired.com/photos/69651f71a5fd331911189027/191:100/w_1280,c_limit/pol-maga-influencers-REUTERS-2025-01-20T035742Z_976557768_RC2FDCASPTAN_RTRMADP_3_USA-TIKTOK-AWARDS.jpg",
       "publishedAt": "2026-01-12T19:03:15Z",
       "content": "In the days since a masked federal agent shot and killed Renee Nicole Good, right-wing creators and influencers like Nick Sortor and Cam Higby have descended on Minneapolis, filming protestors and in… [+3026 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "protests",
+        "immigration",
+        "media_communications"
+      ],
       "publishedAtTs": 1768244595
     },
     {
@@ -31,7 +36,8 @@
       "content": "The State of Minnesota and the cites of Minneapolis and St. Paul on Monday filed a sweeping federal lawsuit to halt what they call an unprecedented and unlawful surge of US federal agents in the Twin… [+3199 chars]",
       "tags": [
         "immigration",
-        "legal_justice"
+        "legal_justice",
+        "law_enforcement"
       ],
       "publishedAtTs": 1768257765
     },
@@ -47,7 +53,10 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23646266/1393837660.jpg?quality=90&strip=all&crop=0%2C10.727421605036%2C100%2C78.545156789928&w=1200",
       "publishedAt": "2026-01-12T18:44:21Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over rich donors.\r\nSen. Elizabeth Warren (D-MA) urged Democrats to put working people over ric… [+2851 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "democratic_party"
+      ],
       "publishedAtTs": 1768243461
     },
     {
@@ -62,7 +71,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/trump_shutdown-1200x675.jpg",
       "publishedAt": "2026-01-12T19:05:16Z",
       "content": "The Trump administration is buying a stake in yet another company.\r\nThis time, the U.S. Department of Defense is entering a partnership with Atlantic Alumina (ATALCO) to boost the nations supply of a… [+2713 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "energy",
+        "defense_contractor_reform"
+      ],
       "publishedAtTs": 1768244716
     },
     {
@@ -79,8 +92,7 @@
       "content": "According to an anonymously-sourced New York Times article, as early as Tuesday Meta will announce that about 10% of the workers in the companys Reality Labs division are set to lose their jobsabout … [+2365 chars]",
       "tags": [
         "economy_finance",
-        "technology_regulation",
-        "artificial_intelligence"
+        "personal_family"
       ],
       "publishedAtTs": 1768257953
     },
@@ -96,7 +108,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/grok_interface_phone-1200x675.jpg",
       "publishedAt": "2026-01-12T21:55:54Z",
       "content": "The UK government will begin enforcing a law that prohibits the non-consensual creation of sexual pictures and videos, according to technology secretary Liz Kendall. The announcement comes after UK r… [+5312 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1768254954
     },
     {
@@ -112,9 +127,7 @@
       "publishedAt": "2026-01-12T14:15:19Z",
       "content": "Nothing says CES like looking at a gadget and uttering to yourself, “What the actual f*ck?” Wacky gadgets are as important to the allure of the world’s biggest consumer electronics show as phones are… [+6999 chars]",
       "tags": [
-        "technology_regulation",
-        "personal_family",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1768227319
     },
@@ -130,7 +143,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5d1d/live/ef8a4290-efda-11f0-be9a-5d00009628a6.jpg",
       "publishedAt": "2026-01-12T17:53:07Z",
       "content": "Lyse DoucetChief international correspondent\r\nThe authorities are trying to regain control in Iran following weeks of protests \r\nIran's rulers confront their most serious challenge since their own 19… [+8411 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768240387
     },
     {
@@ -145,7 +162,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0j72y80.jpg",
       "publishedAt": "2026-01-12T19:56:00Z",
       "content": "Available for over a year\r\nDonald Trump won his second presidency on a promise to put America First and to Make America Great Again. But with his recent action against Venezuela, and ambitions to acq… [+2034 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1768247760
     },
     {
@@ -162,8 +183,7 @@
       "content": "Federal prosecutors have opened a criminal investigation into Federal Reserve Chairman Jerome Powell, he said on Sunday. \r\nIn a video announcing the probe, Powell said the US justice department serve… [+2216 chars]",
       "tags": [
         "legal_justice",
-        "criminal_cases",
-        "economy_finance"
+        "criminal_cases"
       ],
       "publishedAtTs": 1768180880
     },
@@ -182,7 +202,7 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "crisis_emergency"
+        "national_security"
       ],
       "publishedAtTs": 1768196167
     },
@@ -198,7 +218,12 @@
       "urlToImage": "https://i.insider.com/696503e604eda4732f2ee17e?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T14:53:27Z",
       "content": "The \"sell America\" trade is seeing a revival on Monday. \r\nInvestors were reacting to developments over the weekend, including a proposal to cap credit card interest rates and the Department of Justic… [+4589 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "legal_justice",
+        "doj_actions"
+      ],
       "publishedAtTs": 1768229607
     },
     {
@@ -251,7 +276,6 @@
       "content": "The Justice Department has subpoenaed the Federal Reserve for information on the central bank's headquarters renovation, according to a video statement released by Fed chairman Jerome Powell on Sunda… [+2130 chars]",
       "tags": [
         "doj_actions",
-        "federal_agencies",
         "legal_justice"
       ],
       "publishedAtTs": 1768183286
@@ -269,10 +293,9 @@
       "publishedAt": "2026-01-12T23:51:04Z",
       "content": "MINNEAPOLIS State officials are suing the Trump administration over the widespread immigration operation taking place across the Minneapolis region.\r\nThe lawsuit, filed Monday in the U.S. District Co… [+5621 chars]",
       "tags": [
+        "mass_deportation_operation",
         "immigration",
-        "law_enforcement",
-        "legal_justice",
-        "policy_legislation"
+        "legal_justice"
       ],
       "publishedAtTs": 1768261864
     },
@@ -288,7 +311,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+106/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F86%2Fdfef4e744a5c90447cb4d26acbf4%2Fap25356747141368.jpg",
       "publishedAt": "2026-01-12T19:14:30Z",
       "content": "NEW YORK A federal judge has ordered the Trump administration to restore nearly $12 million in funding to the American Academy of Pediatrics, including money for rural health care and the early ident… [+2630 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "legal_justice"
+      ],
       "publishedAtTs": 1768245270
     },
     {
@@ -303,7 +329,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+460/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2Fff%2F11df4deb41c082bef1a1bfcc8ea6%2Fgettyimages-2235638584.jpg",
       "publishedAt": "2026-01-12T21:01:37Z",
       "content": "Every year, Dr. Molly O'Shea's pediatric practices would hold drive-thru clinics in the parking lot to make it as easy as possible for busy parents to quickly get their kids their annual flu and COVI… [+4697 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "health_science"
+      ],
       "publishedAtTs": 1768251697
     },
     {
@@ -318,7 +347,11 @@
       "urlToImage": "https://i.insider.com/6965464504eda4732f2eeaa8?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T20:04:20Z",
       "content": "\"It would be a complete mess, and almost impossible for our Country to pay,\" Trump said of potential tariff refunds.Samuel Corum/Getty Images\r\n<ul><li>The Supreme Court could rule against Trump's tar… [+1794 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "legal_justice",
+        "supreme_court"
+      ],
       "publishedAtTs": 1768248260
     },
     {
@@ -335,8 +368,7 @@
       "content": "Trump said he'll impose a tariff of 25% on countries that do business with Iran.SAUL LOEB/AFP/Getty Images\r\nPresident Donald Trump said Monday that he'll impose a tariff of 25% on any country that do… [+400 chars]",
       "tags": [
         "trade",
-        "iran",
-        "economy_finance"
+        "foreign_policy"
       ],
       "publishedAtTs": 1768256263
     },
@@ -353,8 +385,9 @@
       "publishedAt": "2026-01-12T16:55:49Z",
       "content": "Dina Powell McCormick is Meta's new president and vice chairman.Riccardo Savi/Getty Images for Concordia Summit\r\n<ul><li>Meta named Dina Powell McCormick as its president and vice chairman.</li><li>P… [+3912 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "personal_family",
+        "leadership",
+        "media_communications"
       ],
       "publishedAtTs": 1768236949
     },
@@ -371,10 +404,8 @@
       "publishedAt": "2026-01-12T21:16:21Z",
       "content": "Trump takes questions from the press on board Air Force One.Samuel Corum/Getty Images\r\n<ul><li>Donald Trump wants Federal Reserve Chair Jerome Powell to do his bidding. Powell says he's independent.<… [+4552 chars]",
       "tags": [
-        "government_administration",
         "legal_justice",
-        "economy_finance",
-        "elections_politics"
+        "government_administration"
       ],
       "publishedAtTs": 1768252581
     },
@@ -390,7 +421,10 @@
       "urlToImage": "https://i.insider.com/69617e0004eda4732f2ed6fa?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T12:06:50Z",
       "content": "Matt Mawson/Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Do you enjoy s… [+2098 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
       "publishedAtTs": 1768219610
     },
     {
@@ -405,7 +439,10 @@
       "urlToImage": "https://i.insider.com/696449e064858d02d2182488?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T01:14:35Z",
       "content": "Chip Somodevilla/Getty Images, Anna Moneymaker/Getty Images\r\nFederal Reserve Chair Jerome Powell said the US central bank was served grand jury subpoenas on Friday from the Department of Justice that… [+1049 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "economy_finance"
+      ],
       "publishedAtTs": 1768180475
     },
     {
@@ -420,7 +457,10 @@
       "urlToImage": "https://i.insider.com/696500b864858d02d2182833?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T14:42:10Z",
       "content": "Fed chief Jerome Powell.Li Yuanqing/Xinhua via Getty Images\r\n<ul><li>Federal Reserve Chair Jerome Powell announced grand jury subpoenas from the Department of Justice.</li><li>Powell linked the subpo… [+2472 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "economy_finance"
+      ],
       "publishedAtTs": 1768228930
     },
     {
@@ -435,7 +475,11 @@
       "urlToImage": "https://i.insider.com/6964592d64858d02d21824f3?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T08:38:02Z",
       "content": "Fed chair Jerome PowellAlex Wong/Getty Images\r\n<ul><li>Fed Chair Jerome Powell said the central bank has received grand jury subpoenas from the Justice Department.</li><li>Economists, business leader… [+2215 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1768207082
     },
     {
@@ -450,7 +494,10 @@
       "urlToImage": "https://i.insider.com/6965211804eda4732f2ee5d4?width=1200&format=jpeg",
       "publishedAt": "2026-01-12T21:03:49Z",
       "content": "Federal prosecutors have launched a criminal investigation into Federal Reserve Chair Jerome Powell.ANDREW CABALLERO-REYNOLDS/AFP via Getty Images\r\n<ul><li>Jerome Powell says the DOJ criminal investi… [+6637 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1768251829
     },
     {
@@ -466,8 +513,8 @@
       "publishedAt": "2026-01-12T19:26:05Z",
       "content": "Meta CEO Mark Zuckerberg.ANGELA WEISS/AFP via Getty Images\r\n<ul><li>Meta CEO Mark Zuckerberg announced a new \"top-level\" initiative called Meta Compute.</li><li>Zuckerberg said Meta aims to build \"hu… [+2102 chars]",
       "tags": [
-        "technology_regulation",
-        "artificial_intelligence"
+        "ai_state_preemption",
+        "technology_regulation"
       ],
       "publishedAtTs": 1768245965
     },
@@ -502,8 +549,9 @@
       "publishedAt": "2026-01-12T17:10:05Z",
       "content": "Nintendo says its actively monitoring the impacts of tariffs and the rising prices of RAM as an AI-fueled scramble spikes computing costs around the world. \r\nThe comments came in a rare interview the… [+2518 chars]",
       "tags": [
-        "economy_finance",
-        "technology_regulation"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1768237805
     },
@@ -521,7 +569,7 @@
       "content": "Things between the President and First Lady may be purely for show. Thats what some insiders believe as suggestions that Donaldand Melania Trumpsmarriage is anything but solid at this point.\r\nThe pai… [+1911 chars]",
       "tags": [
         "personal_family",
-        "personal_business"
+        "personal_legal"
       ],
       "publishedAtTs": 1768241638
     },
@@ -558,8 +606,7 @@
       "content": "After Donald Trump launched a lightning operation to topple Venezuela's Nicolas Maduro, rumours surfaced online that the US president announced he would next free former Philippine leader Rodrigo Dut… [+3348 chars]",
       "tags": [
         "foreign_policy",
-        "media_communications",
-        "legal_justice"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1768206426
     },
@@ -576,8 +623,7 @@
       "publishedAt": "2026-01-12T15:51:52Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "media_communications",
-        "social_media"
+        "off_topic"
       ],
       "publishedAtTs": 1768233112
     },
@@ -595,9 +641,7 @@
       "content": "MAGA Senator Lindsey Graham has suggested that President Donald Trump should just kill Irans supreme leader as the Islamic Republic continues to be gripped by nationwide protests.\r\nThe South Carolina… [+2055 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "leadership"
+        "iran"
       ],
       "publishedAtTs": 1768188652
     },
@@ -631,7 +675,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rwYIie9xTJ_op4MfdFX.3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/f21d44283cf136508d883e8660f31fcd",
       "publishedAt": "2026-01-12T06:02:06Z",
       "content": "U.S. President Donald Trump says Iran has proposed negotiations after his threat to strike the Islamic Republic as an ongoing crackdown on demonstrators has led to hundreds of deaths.\r\nTrump said lat… [+4031 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768197726
     },
     {
@@ -646,7 +694,11 @@
       "urlToImage": "https://s.yimg.com/os/en/reuters.com/d545e7be3e54834ab4227fb804fb267a",
       "publishedAt": "2026-01-12T09:20:58Z",
       "content": "By Jana Choukeir, Nayera Abdallah and Tala Ramadan\r\nDUBAI, Jan 12 (Reuters) - President Donald Trump said the U.S. may meet Iranian officials and was in contact with the opposition, as he weighed a r… [+5760 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1768209658
     },
     {
@@ -662,9 +714,9 @@
       "publishedAt": "2026-01-12T00:45:09Z",
       "content": "ABOARD AIR FORCE ONE (AP) President Donald Trump said Sunday that he is inclined to keep ExxonMobil out of Venezuela after its top executive was skeptical about oil investment efforts in the country … [+1580 chars]",
       "tags": [
-        "energy",
         "foreign_policy",
-        "trump"
+        "energy",
+        "trade"
       ],
       "publishedAtTs": 1768178709
     },
@@ -700,8 +752,7 @@
       "content": "MEXICO CITY, Jan 12 (Reuters) - Mexican President Claudia Sheinbaum said on Monday she had a good conversation with U.S. President Donald Trump on security and efforts to reduce drug trafficking.\r\nSh… [+940 chars]",
       "tags": [
         "foreign_policy",
-        "mexico",
-        "trump"
+        "mexico"
       ],
       "publishedAtTs": 1768228671
     },
@@ -718,7 +769,8 @@
       "publishedAt": "2026-01-12T00:54:57Z",
       "content": "With everyone anticipating Donald Trumps whims seemingly every second of his second term, the former Apprentice host just brought his thumb down hard on the scale of the bids to buy Warner Bros. and … [+3492 chars]",
       "tags": [
-        "media_communications"
+        "media_communications",
+        "economy_finance"
       ],
       "publishedAtTs": 1768179297
     },
@@ -734,7 +786,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/jRYRo_ikwAlp2KHyvKbRUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/1f8b6c00-ef48-11f0-97b6-58a7df830b62",
       "publishedAt": "2026-01-12T00:16:21Z",
       "content": "US stock futures dropped Sunday night as Wall Street reacted to the Trump administration opening a criminal investigation into Fed Chair Jerome Powell.\r\nDow Jones Industrial Average futures (YM=F) an… [+3534 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "legal_justice",
+        "doj_actions"
+      ],
       "publishedAtTs": 1768176981
     },
     {
@@ -749,7 +806,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YkK1iGwCpGrxovv261D09A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/4b4c1ded27b6d2095a0522bd8d735cc0",
       "publishedAt": "2026-01-12T14:43:35Z",
       "content": "Republican North Carolina Sen. Thom Tillis has said he will oppose any of President Donald Trumps future nominees to the Federal Reserve Board of Governors after the Department of Justice launched an… [+5015 chars]",
-      "tags": [],
+      "tags": [
+        "republican_party",
+        "trump",
+        "elections_politics"
+      ],
       "publishedAtTs": 1768229015
     },
     {
@@ -783,7 +844,10 @@
       "urlToImage": "https://s.yimg.com/os/en/reuters.com/4e22ad2c8987519b116371b2b929fa0b",
       "publishedAt": "2026-01-12T11:57:29Z",
       "content": "By Dmitry Zhdannikov, Marianna Parraga and Shariq Khan\r\nLONDON, Jan 12 (Reuters) - Global oil trading houses have emerged as early winners in the race to control Venezuelan crude flows, getting ahead… [+7066 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768219049
     },
     {
@@ -799,9 +863,8 @@
       "publishedAt": "2026-01-12T12:49:04Z",
       "content": "Federal Reserve Chair Jerome Powell said the US central bank had been served grand jury subpoenas from the Justice Department threatening a criminal indictment, a dramatic escalation of the Trump adm… [+40 chars]",
       "tags": [
-        "doj_actions",
-        "criminal_cases",
-        "legal_justice"
+        "legal_justice",
+        "doj_actions"
       ],
       "publishedAtTs": 1768222144
     },
@@ -837,8 +900,8 @@
       "publishedAt": "2026-01-12T21:49:02Z",
       "content": "By David Hood-Nuño\r\nWASHINGTON, Jan 12 (Reuters) - The U.S. Consumer Financial Protection Bureau and the Department of Justice withdrew guidance expressly prohibiting lenders from discriminating agai… [+2401 chars]",
       "tags": [
-        "policy_legislation",
-        "immigration"
+        "immigration",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768254542
     },
@@ -856,8 +919,7 @@
       "content": "ANKARA, Jan 12 (Reuters) - Turkey said on Monday that any foreign intervention in neighbouring Iran would lead to greater crises in the country and the region, and it called for U.S. and Iranian nego… [+1914 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
-        "crisis_emergency"
+        "iran"
       ],
       "publishedAtTs": 1768231458
     },
@@ -891,7 +953,10 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "publishedAt": "2026-01-12T21:08:41Z",
       "content": "PBS will premiere separate programs on science and foreign affairs next weekend after shutting the doors on its Saturday and Sunday breaking newscasts because of the federal government's cut of $1.1 … [+2327 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "media_communications"
+      ],
       "publishedAtTs": 1768252121
     },
     {
@@ -925,7 +990,8 @@
       "publishedAt": "2026-01-12T16:01:57Z",
       "content": "The Trevor Project, known for its hotline for LGBTQ+ youth, received $45 million from billionaire and author MacKenzie Scott at the end of 2025, the organization said Monday.\r\nThe gift is the largest… [+4917 chars]",
       "tags": [
-        "lgbtq_rights"
+        "lgbtq_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1768233717
     },
@@ -960,9 +1026,8 @@
       "publishedAt": "2026-01-12T18:25:56Z",
       "content": "By now, everyone has had an opportunity to review the footage of the shooting death of Renee Good, who was killed by an ICE officer while in her car in Minneapolis last week. We have seen footage fro… [+4626 chars]",
       "tags": [
-        "law_enforcement",
-        "security_intelligence",
-        "social_issues"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1768242356
     },
@@ -978,7 +1043,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QIwRNdnNDIv17KdyeYfMqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/2df8490dd7650fb5634edbcc3b945d97",
       "publishedAt": "2026-01-12T14:13:17Z",
       "content": "Tamisclao / Shutterstock.com\r\n<ul><li>Standard Chartered projects $8 XRP by 2026 based on sustained ETF inflows and RLUSD adoption.\r\n</li><li>XRP ETFs absorbed $1.3B in 50 days with zero net outflows… [+7505 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1768227197
     },
     {
@@ -993,7 +1060,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DnHWRF2eftOzqNJHbPe1zA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7d4fee3e4be0442e11d9857198653e7a",
       "publishedAt": "2026-01-12T14:07:33Z",
       "content": "Alma Figueroa began to worry when she learned that her gas provider wanted to test a controversial solution to curb global warming: blend hydrogen with natural gas to power her stove and other applia… [+7890 chars]",
-      "tags": [],
+      "tags": [
+        "environment",
+        "energy",
+        "california"
+      ],
       "publishedAtTs": 1768226853
     },
     {
@@ -1008,7 +1079,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0Xfy09wp6.mfO._LQr7vSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/reason_com_245/0a274d6210a15dbe9d454bcd1f6d921f",
       "publishedAt": "2026-01-12T20:50:22Z",
       "content": "During a contentious interview with CNN's Jake Tapper on Sunday, Secretary of Homeland Security Kristi Noem reiterated her claim that Renee Good, the woman who was fatally shot by an immigration agen… [+9505 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "immigration"
+      ],
       "publishedAtTs": 1768251022
     },
     {
@@ -1024,8 +1099,7 @@
       "publishedAt": "2026-01-12T10:40:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nLast February, I was in a remote town in northern Greenland and watching … [+7449 chars]",
       "tags": [
-        "foreign_policy",
-        "trump"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768214400
     },
@@ -1041,7 +1115,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/52872552-30a0-4fce-8227-3d93a9022d42/donald-trump-6-gty-gmh-260112_1768230063676_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-12T23:47:39Z",
       "content": "After declaring Iran is in \"big trouble\" and close to crossing a red line over its crackdown on anti-government protests, President Donald Trump was expected to be briefed Tuesday by his national sec… [+5081 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768261659
     },
     {
@@ -1056,7 +1134,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/76f11ef7-af3f-4770-b64e-74d3458ca151/Iran-protest-DB-260112_1768213415159_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-12T10:31:19Z",
       "content": "LONDON -- Iranian Supreme Leader Ayatollah Ali Khamenei on Sunday hit back against U.S. President Donald Trump's threats of military action in Iran in support of anti-government protests there, short… [+5355 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "trump"
+      ],
       "publishedAtTs": 1768213879
     },
     {
@@ -1071,7 +1153,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/48ffc9c1-4dd9-4e84-a681-cfad2177a057/nyse-ap-jef-260112_1768225962317_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-12T14:34:55Z",
       "content": "Stocks slid in early trading on Monday hours after reports that the Department of Justice had opened a criminal investigation into Federal Reserve Chair Jerome Powell centered on the central bank lea… [+1628 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "economy_finance",
+        "government_administration"
+      ],
       "publishedAtTs": 1768228495
     },
     {
@@ -1088,9 +1174,8 @@
       "content": "The Justice Department investigation into Federal Reserve Chairman Jerome Powell is sparking backlash from former Federal Reserve and Treasury officials as well as current members of Congress, includ… [+4469 chars]",
       "tags": [
         "legal_justice",
-        "doj_actions",
-        "economy_finance",
-        "federal_agencies"
+        "government_administration",
+        "economy_finance"
       ],
       "publishedAtTs": 1768245313
     },
@@ -1106,7 +1191,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2cc5071d-0755-488e-a95f-fd41258abdea/260111_wn_wildfires_australia2_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-12T06:25:53Z",
       "content": "<ul><li>Growing protests against ICE operations\r\n</li><li>Historic Mississippi Synagogue targeted in arson attack: police\r\n</li><li>Ex-husband charged in Ohio murders\r\n</li><li>President Trump offers… [+4256 chars]",
-      "tags": [],
+      "tags": [
+        "natural_disasters"
+      ],
       "publishedAtTs": 1768199153
     },
     {
@@ -1121,7 +1208,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c7467b38-5d9b-4605-9a6d-ca0ad1c04740/260112_abc_social_italy_road_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-12T20:35:53Z",
       "content": "<ul><li>Minnesota sues Trump admin over ICE surge after fatal shooting\r\n</li><li>Trump weighs military options as protests rock Iran\r\n</li><li>Sen. Mark Kelly files lawsuit against Hegseth, Departmen… [+4484 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768250153
     },
     {
@@ -1137,7 +1226,7 @@
       "publishedAt": "2026-01-12T03:33:44Z",
       "content": "<ul><li>Growing protests against ICE operations\r\n</li><li>Historic Mississippi Synagogue targeted in arson attack: police\r\n</li><li>Ex-husband charged in Ohio murders\r\n</li><li>President Trump offers… [+4256 chars]",
       "tags": [
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1768188824
     },
@@ -1153,7 +1242,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/cdb7abdf-1f0e-4c2c-95f5-c07b64273f23/260112_gmafl_guide_dog_travel_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-12T11:16:51Z",
       "content": "<ul><li>Growing protests against ICE operations\r\n</li><li>Historic Mississippi Synagogue targeted in arson attack: police\r\n</li><li>Ex-husband charged in Ohio murders\r\n</li><li>President Trump offers… [+4256 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768216611
     },
     {
@@ -1168,7 +1259,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/29adb905-22ba-4ed2-b21b-be86cfb5ca6f/260111_wn_surfer_rescue5_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-12T06:25:11Z",
       "content": "<ul><li>Growing protests against ICE operations\r\n</li><li>Historic Mississippi Synagogue targeted in arson attack: police\r\n</li><li>Ex-husband charged in Ohio murders\r\n</li><li>President Trump offers… [+4256 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768199111
     },
     {
@@ -1184,7 +1277,7 @@
       "publishedAt": "2026-01-12T19:37:21Z",
       "content": "<ul><li>Stocks fall after DOJ criminal investigation into Fed chair\r\n</li><li>Iran government views protests as 'crisis': Expert\r\n</li><li>Greenlander who supports Trump wants 'new chapter' for his c… [+4350 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1768246641
     },
@@ -1200,7 +1293,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/maduro_venezuela-1200x675.jpg",
       "publishedAt": "2026-01-12T20:45:30Z",
       "content": "Over the weekend, The Wall Street Journal reported on the use of stablecoins, specifically Tethers USDT, to circumvent sanctions imposed by the United States on Venezuela. The report indicates PdVSA,… [+5626 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1768250730
     },
     {
@@ -1216,8 +1312,7 @@
       "publishedAt": "2026-01-12T22:25:00Z",
       "content": "President Trump keeps talking about buying Greenland. Perhaps via a lump sum to Denmark, perhaps through individual payments to each Greenlander? We have reached the stage of the imperial presidency … [+3764 chars]",
       "tags": [
-        "personal_family",
-        "foreign_policy"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768256700
     },
@@ -1233,7 +1328,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/iarzvNXq-M-bfIJh3wxJGwrEvBI=/0x129:6042x3276/1200x625/media/img/mt/2026/01/2026_12_8_Trump_Is_Shrinking_His_Coalition/original.png",
       "publishedAt": "2026-01-12T13:00:00Z",
       "content": "Tulsi Gabbard, a combat veteran who detests military intervention, joined the MAGA coalition full of hope that Donald Trump shared her beliefs. Gabbard especially despises—or at least despised—the no… [+8177 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "trump"
+      ],
       "publishedAtTs": 1768222800
     },
     {
@@ -1248,7 +1347,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/U7aUmqyWx7zr6yh1OTPKX9hVKhk=/0x83:2000x1125/1200x625/media/img/mt/2026/01/HR_GettyImages_2235976009/original.jpg",
       "publishedAt": "2026-01-12T14:34:54Z",
       "content": "The Trump administration has opened a criminal investigation into Federal Reserve Chair Jerome Powell on grounds so flimsy and transparently hypocritical that it is difficult to know whether anybody … [+4924 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1768228494
     },
     {
@@ -1263,7 +1365,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ded5/live/cbde00d0-eff7-11f0-be92-3d10f1095d70.jpg",
       "publishedAt": "2026-01-12T20:51:10Z",
       "content": "Bernd Debusmann Jr,White House Reporter\r\nVenezuelan opposition leader and Nobel Peace Prize winner María Corina Machado will meet President Donald Trump on Thursday, the White House has confirmed.\r\nT… [+2338 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768251070
     },
     {
@@ -1296,7 +1401,9 @@
       "urlToImage": "https://regmedia.co.uk/2024/07/30/screennshot_zuckerberg_siggraph.jpg",
       "publishedAt": "2026-01-12T22:21:05Z",
       "content": "Meta has formed a new initiative called Meta Compute to oversee the planning, deployment, and operations of its growing fleet of AI datacenters.\r\n\"Meta is planning to build tens of gigawatts this dec… [+2704 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1768256465
     },
     {
@@ -1311,7 +1418,10 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00068-z/d41586-026-00068-z_51921860.jpg",
       "publishedAt": "2026-01-12T00:00:00Z",
       "content": "Greenland is a major place of climate research.Credit: Lukasz Larsson Warzecha/Getty\r\nIn the aftermath of the United States militarys action to remove Nicolás Maduro, the president of Venezuela on 3 … [+2682 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "climate_policy"
+      ],
       "publishedAtTs": 1768176000
     },
     {
@@ -1327,7 +1437,7 @@
       "publishedAt": "2026-01-12T00:00:00Z",
       "content": "A career makeover can allow scientists to explore their passions.Credit: Getty\r\nNick Sheron starts most days by strolling across his six-hectare farm with his two golden retrievers, Daphne and Phoebe… [+9295 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1768176000
     },
@@ -1362,9 +1472,9 @@
       "publishedAt": "2026-01-12T15:01:13Z",
       "content": "Ever since an ICE goon shot and killed Renee Nicole Good on Wednesday, Kristi Noem hasmore than usualbeen very busy operating outside the law, propagating lies, and rewriting reality.\r\nLets start wit… [+5218 chars]",
       "tags": [
+        "immigration",
         "law_enforcement",
-        "social_issues",
-        "personal_family"
+        "criminal_cases"
       ],
       "publishedAtTs": 1768230073
     },
@@ -1381,9 +1491,9 @@
       "publishedAt": "2026-01-12T11:39:27Z",
       "content": "Among the various things that the two Donald Trump administrations have eroded from American society: The expectation that high-ranking officials in said administration would employ their social medi… [+6664 chars]",
       "tags": [
+        "foreign_policy",
         "media_communications",
-        "social_media",
-        "statements"
+        "security_intelligence"
       ],
       "publishedAtTs": 1768217967
     },
@@ -1400,8 +1510,7 @@
       "publishedAt": "2026-01-12T16:09:33Z",
       "content": "A new study, published today by the scientific journal Nature Ecology &amp; Evolution, provides an interesting overview of the relative frequency in which same-sex behaviors have been observed in an … [+5580 chars]",
       "tags": [
-        "social_issues",
-        "health_science"
+        "social_issues"
       ],
       "publishedAtTs": 1768234173
     },
@@ -1418,7 +1527,7 @@
       "publishedAt": "2026-01-12T20:37:00Z",
       "content": "Despite multiple rejections of its bids, Paramount remains intent on buying Warner Bros. Discovery and has now launched a lawsuit against the company over the matter. What's more, Paramount said it w… [+4327 chars]",
       "tags": [
-        "economy_finance"
+        "media_communications"
       ],
       "publishedAtTs": 1768250220
     },
@@ -1434,7 +1543,10 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2026/01/SCOTUS-Arg.png",
       "publishedAt": "2026-01-12T13:58:02Z",
       "content": "* Hopefully…\r\nThis is likely the week the Supreme Court issues a ruling on the IEEPA tariffs in place since April 2025 (excluding the 90-day suspension, and other sundry modifications, revisions, pau… [+6566 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
+      ],
       "publishedAtTs": 1768226282
     },
     {
@@ -1449,7 +1561,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/DmTv3myF7fxCtLX3iKcPyB-1920-80.jpg",
       "publishedAt": "2026-01-12T21:00:00Z",
       "content": "The European Space Agency (ESA) is still in the dark about NASA's participation in its Venus exploration mission Envision despite the project's tight deadline, ESA representatives said in a recent me… [+5534 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "budget"
+      ],
       "publishedAtTs": 1768251600
     },
     {
@@ -1464,7 +1579,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/q3LV3oLH5SDENzyPfm8ufk-2000-80.jpg",
       "publishedAt": "2026-01-12T23:00:00Z",
       "content": "Mark Kelly isn't taking his punishment lying down.\r\nKelly — a former U.S. Navy fighter pilot and NASA astronaut who currently serves as a U.S. Senator (D-Ariz.) — announced today (Jan. 12) that he's … [+3903 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "personnel"
+      ],
       "publishedAtTs": 1768258800
     },
     {
@@ -1479,7 +1597,9 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/zcjxJavkfhfEQDwoTebMkd-1920-80.jpg",
       "publishedAt": "2026-01-12T22:00:00Z",
       "content": "BOULDER, Colorado — The existing NASA-European Space Agency effort to establish a Mars Sample Return program is slated to be discontinued.\r\nThat's the word according to the Commerce, Justice, Science… [+6410 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy"
+      ],
       "publishedAtTs": 1768255200
     },
     {
@@ -1494,7 +1614,10 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2026/01/Daniel-Torok-Trump-Smithsonian-Portrait-feature.jpg",
       "publishedAt": "2026-01-12T11:28:34Z",
       "content": "The new portrait of Trump that hangs in the National Portrait Gallery in Washington D.C. | Photo by Daniel Torok\r\nOfficial White House photographer Daniel Torok’s portrait of Donald Trump with his fi… [+2380 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
       "publishedAtTs": 1768217314
     },
     {
@@ -1510,10 +1633,9 @@
       "publishedAt": "2026-01-12T23:25:40Z",
       "content": "from the we-serve-no-one-but-ourselves dept\r\nWhatever the stated reasons for doing this, we all know what this really is: another effort from the Trump regime to put as much distance between it and a… [+5747 chars]",
       "tags": [
-        "government_administration",
+        "immigration",
         "legal_justice",
-        "policy_legislation",
-        "immigration"
+        "government_administration"
       ],
       "publishedAtTs": 1768260340
     },
@@ -1530,9 +1652,10 @@
       "publishedAt": "2026-01-12T17:27:06Z",
       "content": "from the the-abuser's-lament dept\r\nThe murder of Renee Nicole Good by ICE officer Jonathan Ross has certainly created quite the divide between the reality-based majority of the population who doesnt … [+8435 chars]",
       "tags": [
-        "immigration",
-        "law_enforcement",
-        "social_issues"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1768238826
     }

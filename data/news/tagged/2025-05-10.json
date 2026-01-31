@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 5,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -16,9 +16,7 @@
       "content": "GENEVA (AP) — Sensitive talks between U.S. and Chinese delegations over tariffs that threaten to upend the global economy ended after a day of prolonged negotiations and will resume Sunday, an official told The Associated Press.\nHours after the talks... [5869 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "foreign_policy",
-        "china"
+        "foreign_policy"
       ],
       "publishedAtTs": 1746920833
     },
@@ -35,11 +33,8 @@
       "publishedAt": "2025-05-10T23:39:21Z",
       "content": "'Great Progress Made': Trump Hails 'Total Reset' After Meeting With China Over Tariffs In Switzerland\nCurated By :\nNews18.com\nLast Updated: May 11, 2025, 05:09 IST\nTaking to his platform Truth Social, Trump said the talks were “friendly, but construc... [2186 chars]",
       "tags": [
-        "foreign_policy",
-        "china",
         "trade",
-        "economy_finance",
-        "policy_legislation"
+        "foreign_policy"
       ],
       "publishedAtTs": 1746920361
     },
@@ -56,11 +51,7 @@
       "publishedAt": "2025-05-10T23:33:00Z",
       "content": "In pictures: Ceasefire celebrations\nIn some parts of Pakistan, India and Kashmir, people have marked what many hope will become a lasting ceasefire.\nPakistanis were jubilant about the truce, saying it was a moment of national pride and relief after d... [684 chars]",
       "tags": [
-        "foreign_policy",
-        "asia_pacific",
-        "middle_east",
-        "security_intelligence",
-        "crisis_emergency"
+        "foreign_policy"
       ],
       "publishedAtTs": 1746919980
     },
@@ -78,8 +69,7 @@
       "content": "Jay Bratt attends a court hearing for the Donald Trump classified documents case in Ft. Pierce, Florida, on August 10, 2023. Bill Hennessey via CNN Newsource\nA key federal prosecutor in the classified documents case against U.S. President Donald Trum... [1406 chars]",
       "tags": [
         "legal_justice",
-        "government_administration",
-        "security_intelligence"
+        "trump"
       ],
       "publishedAtTs": 1746919696
     },
@@ -97,10 +87,264 @@
       "content": "Donald Trump reportedly is set to accept a Boeing 747-8 jumbo jet as a gift from the royal family of Qatar during his trip to the Middle East this coming week, and US officials could convert the plane into a potential presidential aircraft.\nABC News ... [4129 chars]",
       "tags": [
         "foreign_policy",
-        "government_administration",
-        "security_intelligence"
+        "government_administration"
       ],
       "publishedAtTs": 1746918000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump hails ‘great progress made’ at China tariff talks",
+      "description": "Talks between US and China officials will continued in Switzerland on Sunday.",
+      "url": "https://www.breakingnews.ie/world/trump-hails-great-progress-made-at-china-tariff-talks-1761679.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTEwMTU0MjlcXFwvMTA5M2JkMWYyMTlhNGNjNzg2OTY4ZWMwZjkyMTcyOGIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJlZThkZDI3YTJiN2QyYTM3M2FkOGRjZTZjMmM0MDJmZjM2ODIxNTBlIn0=/trump-hails-great-progress-made-at-china-tariff-talks.jpg",
+      "publishedAt": "2025-05-10T23:00:00Z",
+      "content": "The first day of sensitive talks between US and Chinese delegations over tariffs ended without major breakthroughs being announced, but President Donald Trump touted “GREAT PROGRESS”.\nThe meeting lasted more than 10 hours in Switzerland and featured ... [3442 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "foreign_policy",
+        "china"
+      ],
+      "publishedAtTs": 1746918000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Zelensky ready to meet Putin in Turkey on Thursday",
+      "description": "Ukrainian President Volodymyr Zelensky said he would be ready to meet Vladimir Putin for talks in Istanbul on Thursday after US President Donald Trump told him to agree to an offer of talks with Russia immediately.",
+      "url": "https://www.rte.ie/news/world/2025/0511/1512211-russia-ukraine/",
+      "urlToImage": "https://www.rte.ie/images/00227dc4-1600.jpg",
+      "publishedAt": "2025-05-10T23:00:00Z",
+      "content": "Ukrainian President Volodymyr Zelensky said he would be ready to meet Vladimir Putin for talks in Istanbul on Thursday after US President Donald Trump told him to agree to an offer of talks with Russia immediately.\nMr Zelensky, in a post on X, former... [6133 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1746918000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Trump claims credit; Delhi’s new red lines: terror from Pak ‘act of war’, Indus pause stays",
+      "description": "Post the announcement, Jaishankar and National Security Advisor Ajit Doval spoke to ministers in key countries including China, Saudi Arabia and the European Union.",
+      "url": "https://indianexpress.com/article/india/trump-claims-credit-delhis-new-red-lines-terror-from-pak-act-of-war-indus-pause-stays-9995339/",
+      "urlToImage": "https://images.indianexpress.com/2025/05/Lalchowk-5col.jpg",
+      "publishedAt": "2025-05-10T22:44:14Z",
+      "content": "EIGHTEEN DAYS after a deadly terror attack in J&K’s Pahalgam prompted India to launch a military strike against Pakistan leading to four days of fierce confrontation, the two nuclear-armed countries agreed to stop firing and military action from 5 pm... [6113 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746917054
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "India accuses Pakistan of breaking ceasefire deal - as Pakistan claims India violates truce 'in some areas'",
+      "description": "Hours after reaching a ceasefire agreement which Donald Trump said the US mediated, multiple explosions were heard in cities in Indian-controlled Kashmir. In a TV appearance on Saturday night, Pakistan's prime minister didn't address the accusations, but did claim \"victory\".",
+      "url": "https://news.sky.com/story/india-accuses-pakistan-of-breaking-ceasefire-deal-as-pakistan-claims-india-violates-truce-in-some-areas-13364836",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-india-pakistan-kashmir_6912363.jpg?20250510190006",
+      "publishedAt": "2025-05-10T22:32:00Z",
+      "content": "India has accused Pakistan of violating a ceasefire agreement, hours after the truce was reached.\nIndia's foreign secretary Vikram Misri said his country's armed forces have been \"given instructions to deal strongly with violations along the border\" ... [7428 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746916320
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "US, China set for second day of high-stakes talks",
+      "description": "The talks wrapped up after the first day without any statement, and come after Donald Trump said he could lower tariffs on Chinese goods to 80 per cent.",
+      "url": "https://www.afr.com/world/europe/us-china-prep-for-second-day-of-high-stakes-talks-20250511-p5ly5z",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3767%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_310%2C$y_162/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/f64bebae06f4e1efd11dea8637143c1d9917e8d9",
+      "publishedAt": "2025-05-10T21:30:31Z",
+      "content": "Geneva | Top US and Chinese officials wrapped up the first day of talks in Switzerland on Saturday (Sunday AEST) aimed at defusing a trade war that threatens to hammer the global economy and planned to resume negotiations on Sunday, a source close to... [337 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1746912631
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Key prosecutor in Trump’s classified documents case to testify in front of House Judiciary Committee",
+      "description": "A key federal prosecutor in the classified documents case against President Donald Trump is expected to privately testify in front of the House Judiciary Committee in the coming days, a source familiar with the process told CNN.",
+      "url": "https://edition.cnn.com/2025/05/10/politics/jay-bratt-classified-documents-judiciary-committee",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230810150719-06-classified-documents-hearing-ft-pierce-sketch.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-10T21:15:24Z",
+      "content": "CNN —\nA key federal prosecutor in the classified documents case against President Donald Trump is expected to privately testify in front of the House Judiciary Committee in the coming days, a source familiar with the process told CNN.\nJay Bratt’s dep... [1249 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1746911724
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": "KABC-TV",
+      "title": "Trump signs executive order to establish national center for homeless veterans in West LA",
+      "description": "President Donald Trump signed an executive order to establish a national center for homeless veterans in West Los Angeles.",
+      "url": "https://abc7.com/post/trump-signs-executive-order-establish-national-center-homeless-veterans-west-la/16377964/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16373130_0050925-kabc-11pm-trump-homeless-veterans-vid.jpg?w=1600",
+      "publishedAt": "2025-05-10T20:50:00Z",
+      "content": "Trump signs executive order to establish national center for homeless veterans in West LA\nAn organization seeking to develop the nation's largest supportive housing community for military veterans experiencing homelessness praised President Donald J.... [3177 chars]",
+      "tags": [
+        "government_administration",
+        "executive_orders",
+        "veterans_affairs"
+      ],
+      "publishedAtTs": 1746910200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Manchester Evening News"
+      },
+      "author": "Manchester Evening News",
+      "title": "Keir Starmer calls out Putin and says he has Trump's support",
+      "description": "Vladimir Putin has been warned by European leaders that he has 24 hours to accept a 30-day ceasefire or he will face a raft of new sanctions",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/keir-starmer-calls-out-putin-31615471",
+      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/article31615467.ece/ALTERNATES/s1200/0_Mental-health-crisis.jpg",
+      "publishedAt": "2025-05-10T20:46:23Z",
+      "content": "Keir Starmer calls out Putin and says he has Trump's support\nVladimir Putin has been warned by European leaders that he has 24 hours to accept a 30-day ceasefire or he will face a raft of new sanctions\nPrime Minister Sir Keir Starme (Image: PA )\nKeir... [3128 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "sanctions"
+      ],
+      "publishedAtTs": 1746909983
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Intervention in Kashmir is a poisoned fruit",
+      "description": "Following the announcement of a ceasefire, India carefully worded statements to avoid any suggestion of outside intervention - even as Donald Trump took credit for the deal.",
+      "url": "https://news.sky.com/story/intervention-in-kashmir-is-a-poisoned-fruit-13365420",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-pakistan-india_6912391.jpg?20250510192815",
+      "publishedAt": "2025-05-10T20:26:00Z",
+      "content": "Intervention in Kashmir is a poisoned fruit.\nPresident Trump was quick to take credit for the ceasefire, posting on Truth Social: \"After a long night of talks mediated by the United States, I am pleased to announce that India and Pakistan have agreed... [3308 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746908760
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vulture"
+      },
+      "author": "Vulture",
+      "title": "Michael Feinstein on Kennedy Center LGBT Cancellations",
+      "description": "Michael Feinstein criticizes the Kennedy Center and the Trump administration after several World Pride performances were canceled this month, calling it ‘government-sanctioned censorship.’",
+      "url": "https://www.vulture.com/article/michael-feinstein-trump-kennedy-center.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/1f9/df1/1ffc39f7945c3eeebb6efd52b5a335ec70-michael-feinstein.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-05-10T20:08:54Z",
+      "content": "Photo: Karwai Tang/Getty Images\nAfter several World Pride performances were canceled at the Kennedy Center, the Great American Songbook Foundation’s founder, Michael Feinstein, wrote an essay titled “Fear of Queer?” criticizing Trump’s attack on the ... [1772 chars]",
+      "tags": [
+        "lgbtq_rights",
+        "social_issues"
+      ],
+      "publishedAtTs": 1746907734
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "What is habeas corpus, the legal procedure Trump is considering suspending?",
+      "description": "The future of habeas corpus has been pushed into the spotlight as President Donald Trump has been involved in discussions inside his administration over potentially taking the extreme step of suspending the procedure.",
+      "url": "https://edition.cnn.com/2025/05/10/politics/habeas-corpus-explained",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2213279817.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-10T19:14:22Z",
+      "content": "CNN —\nThe future of habeas corpus has been pushed into the spotlight as President Donald Trump has been involved in discussions inside his administration over potentially taking the extreme step of suspending the procedure.\nWhat is habeas corpus?\nHab... [4209 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1746904462
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "author": "The Straits Times",
+      "title": "India and Pakistan reach ceasefire, but trade claims of violations",
+      "description": "US President Donald Trump earlier said the nuclear-armed neighbours had stepped back from the brink of full-blown war. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/south-asia/india-claims-pakistan-violated-truce-says-it-is-retaliating",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/26d5940c6a8c9244eeafbd3d3c2ebdad9513120a575abffa82c895dc55c09d5f",
+      "publishedAt": "2025-05-10T19:03:28Z",
+      "content": "Flashes are seen in the sky over Srinagar on May 10, just hours after a ceasefire was announced in the conflict between India and Pakistan over an April attack on tourists in Indian-administered Kashmir. PHOTO: REUTERS\nISLAMABAD - India and Pakistan ... [5422 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746903808
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC",
+      "title": "Trump official says NJ Democrats could face charges",
+      "description": "New Jersey Democrats accuse the Trump administration of spreading \"lies and misinformation\" about events that led to the arrest of Newark Mayor Ras Baraka.",
+      "url": "https://www.cnbc.com/2025/05/10/ras-baraka-arrest-trump-new-jersey-newark-ice.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108143741-1746823617460-image.png?v=1746823944&w=1920&h=1080",
+      "publishedAt": "2025-05-10T18:41:38Z",
+      "content": "Mayor Ras Baraka of Newark in handcuffs outside Delaney Hall detention facility in Newark, NJ on May 9, 2025.\nThe Trump administration suggested Saturday that New Jersey Democratic lawmakers involved in a clash a day earlier with authorities at a fed... [1065 chars]",
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "government_administration"
+      ],
+      "publishedAtTs": 1746902498
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Vance called Indian prime minister to encourage ceasefire talks after receiving alarming intelligence, sources say",
+      "description": "A core group of top US officials — including Vice President JD Vance, Secretary of State and interim national security adviser Marco Rubio, and White House chief of staff Susie Wiles — had been closely monitoring the escalating conflict between India and Pakistan when on Friday morning, the US received alarming intelligence, Trump administration officials told CNN.",
+      "url": "https://edition.cnn.com/2025/05/10/politics/vance-modi-india-pakistan-intelligence",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2213210213.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-10T17:57:01Z",
+      "content": "CNN —\nA core group of top US officials — including Vice President JD Vance, Secretary of State and interim national security adviser Marco Rubio, and White House chief of staff Susie Wiles — had been closely monitoring the escalating conflict between... [5311 chars]",
+      "tags": [
+        "foreign_policy",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1746899821
     }
   ]
 }

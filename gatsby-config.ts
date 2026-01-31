@@ -90,6 +90,13 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `worst-things`,
+        path: `${__dirname}/data/worst-things/`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `backgrounds`,
         path: `${__dirname}/static/backgrounds`,
       },

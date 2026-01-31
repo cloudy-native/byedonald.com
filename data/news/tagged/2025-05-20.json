@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -15,11 +15,9 @@
       "publishedAt": "2025-05-20T23:47:36Z",
       "content": "Class conflict has erupted in President Donald Trump’s America – within his own Republican Party. The party controls both houses of Congress, as well as the presidency. But their struggle to agree upon tax legislation shows that Republicans in Washin... [448 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
         "elections_politics",
-        "media_communications",
-        "social_issues"
+        "policy_legislation",
+        "taxes"
       ],
       "publishedAtTs": 1747784856
     },
@@ -37,10 +35,10 @@
       "content": "The U.S. has obtained new intelligence suggesting that Israel is making preparations to strike Iranian nuclear facilities, even as the Trump administration has been pursing a diplomatic deal with Tehran, multiple U.S. officials familiar with the late... [6895 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
+        "israel",
         "iran",
-        "national_security",
-        "intelligence"
+        "security_intelligence",
+        "nuclear_policy"
       ],
       "publishedAtTs": 1747784536
     },
@@ -58,10 +56,7 @@
       "content": "Millions of people live legally in the United States under various forms of temporary legal protection. Many have been targeted in the Trump administration’s immigration crackdown.\nThe latest move has been against people who have what’s known as “tem... [3994 chars]",
       "tags": [
         "immigration",
-        "policy_legislation",
-        "foreign_policy",
-        "legal_justice",
-        "security_intelligence"
+        "policy_legislation"
       ],
       "publishedAtTs": 1747784418
     },
@@ -78,9 +73,7 @@
       "publishedAt": "2025-05-20T23:38:46Z",
       "content": "In the lush foothills of Damyang county, South Jeolla province, rows of earthenware jars stand under the Korean sky. Inside each clay vessel, a quiet transformation is taking place, one that has been occurring on this land for centuries.\nThis is the ... [6751 chars]",
       "tags": [
-        "regional_state",
-        "health_science",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1747784326
     },
@@ -97,7 +90,7 @@
       "publishedAt": "2025-05-20T23:30:49Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nFinance continues\nto run U.S. health care\nRe: “Federal vaccine funding is axed” (Page A1, May 19).\nI want to assume that cost analysis compared continued support of publ... [4353 chars]",
       "tags": [
-        "policy_legislation",
+        "healthcare",
         "economy_finance"
       ],
       "publishedAtTs": 1747783849
@@ -116,10 +109,8 @@
       "content": "High cost of living, lower wages might be making international tech talent think twice about relocating\nAs Canada and the U.S. took divergent paths on immigration during President Donald Trump’s first administration, B.C.’s tech sector capitalized on... [4013 chars]",
       "tags": [
         "immigration",
-        "media_communications",
         "economy_finance",
-        "foreign_policy",
-        "regional_state"
+        "technology_regulation"
       ],
       "publishedAtTs": 1747783800
     },
@@ -136,9 +127,8 @@
       "publishedAt": "2025-05-20T23:17:35Z",
       "content": "Billionaire Elon Musk pushed back on accusations that he was a Nazi sympathizer because of a hand gesture he made during one of President Donald Trump's rallies.\nIn a Tuesday interview with CNBC, Musk accused the mainstream media of propaganda.\n\"What... [723 chars]",
       "tags": [
-        "media_communications",
         "social_issues",
-        "political_endorsements"
+        "media_communications"
       ],
       "publishedAtTs": 1747783055
     },
@@ -155,11 +145,7 @@
       "publishedAt": "2025-05-20T23:00:00Z",
       "content": "President Donald Trump used a White House meeting to confront South African president Cyril Ramaphosa, accusing his country of failing to address the killing of white farmers.\n“People are fleeing South Africa for their own safety,” said Mr Trump, who... [2307 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "racial_justice",
-        "regional_state",
-        "africa"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747782000
     },
@@ -176,10 +162,44 @@
       "publishedAt": "2025-05-20T23:00:00Z",
       "content": "President Donald Trump is hosting South African president Cyril Ramaphosa for White House talks at a moment when relations between the two countries are strained.\nMr Trump has been attacking South African officials on widely rejected charges of allow... [4921 chars]",
       "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1747782000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Springsteen doubles down on political criticism of Trump with a digital EP",
+      "description": "The Boss pointedly opened his concert in Manchester on Tuesday night with the song No Surrender.",
+      "url": "https://www.breakingnews.ie/world/springsteen-doubles-down-on-political-criticism-of-trump-with-a-digital-ep-1765234.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjExODA5MjFcXFwvYzA1YjE5OWVkMDkyNDQ1YzgwYWFjYWJiZGU0MjE5N2YuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjNDRhZWZhYmU5ZTMyZWU3MTFkMDVkNTU3NTZmNGM5NjBjOGUxZDI3In0=/springsteen-doubles-down-on-political-criticism-of-trump-with-a-digital-ep.jpg",
+      "publishedAt": "2025-05-20T23:00:00Z",
+      "content": "There is no retreat or surrender from Bruce Springsteen — or from President Donald Trump, for that matter.\nThe rock star released a digital EP on Wednesday with four songs recorded live in Manchester last week, along with two of his addresses to the ... [2102 chars]",
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1747782000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "US defence department accepts Boeing 747 from Qatar for Trump’s use",
+      "description": "He said the plane was accepted ‘in accordance with all federal rules and regulations’.",
+      "url": "https://www.breakingnews.ie/world/defence-department-accepts-boeing-747-from-qatar-for-trumps-use-1765248.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjExNzM3MTZcXFwvNTQ0ZTAwODY1MWJkNDk4YjkzY2JhODE3ZWEwMjgwZWYtMi1lMTc0Nzg1MDAwNzM1OS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjlkYjIxZmEzNzdkYTQ5MjEzODBiYTIwNTBiOWJiYzZiMWQ3YzU5NWQifQ==/us-defence-department-accepts-boeing-747-from-qatar-for-trump-s-use.jpg",
+      "publishedAt": "2025-05-20T23:00:00Z",
+      "content": "US defence secretary Pete Hegseth has accepted a gifted Boeing 747 from Qatar for president Donald Trump to use as Air Force One, the Pentagon said.\nPentagon spokesman Sean Parnell said the department will “work to ensure proper security measures” on... [1173 chars]",
+      "tags": [
         "foreign_policy",
-        "africa",
-        "china",
-        "russia"
+        "government_administration",
+        "security_intelligence"
       ],
       "publishedAtTs": 1747782000
     },
@@ -197,10 +217,141 @@
       "content": "US president Donald Trump's eldest son, Donald Trump Jr, said on Wednesday he could maybe run for president one day.\nTrump (47) was asked by a moderator during an appearance on a panel in Qatar, if he would run and \"pick up the reins\" after his fathe... [2477 chars]",
       "tags": [
         "elections_politics",
-        "personal_family",
-        "2028_presidential"
+        "republican_party",
+        "trump"
       ],
       "publishedAtTs": 1747782000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump administration ‘violated court order on deportations to third countries’",
+      "description": "The group was flown out of the United States just hours after getting notice, leaving them no chance to contact lawyers to object in court.",
+      "url": "https://www.breakingnews.ie/world/trump-administration-violated-court-order-on-deportations-to-third-countries-1765251.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjExODAzMzVcXFwvZDljNjRjODZlNmE5NDU5YzlkMWUzNDc5YWI2YzQ1ODUtMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImU0MGNlMjE4ODRhODhmYjI2MTI4M2QzMmQzMjllMjVkMTQ5NWEwNzYifQ==/trump-administration-violated-court-order-on-deportations-to-third-countries.jpg",
+      "publishedAt": "2025-05-20T23:00:00Z",
+      "content": "The Trump administration violated a court order on deportations to third countries with a flight linked to the chaotic nation of South Sudan, a federal judge said.\nJudge Brian E Murphy in Boston said the eight migrants aboard the plane were not given... [2353 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1747782000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump says program will include Canada",
+      "description": "U.S. President Donald Trump announced Tuesday aspects of his plan for a “Golden Dome” missile defence shield and said “it automatically makes sense” for Canada to be involved.",
+      "url": "https://www.cp24.com/news/world/2025/05/20/trump-says-canada-has-asked-to-join-his-golden-dome-missile-defence-program/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/Z37OOOQYG5FTNHPUKVWSHKNL2I.jpg?smart=true&auth=1a46ebbc000ad48858595bc4b7f24ecdd00e35a24b605b86afebacbef3584a3b&width=1200&height=630",
+      "publishedAt": "2025-05-20T22:55:42Z",
+      "content": "U.S. President Donald Trump speaks in the Oval Office of the White House, Tuesday, May 20, 2025, in Washington. (AP Photo/Alex Brandon)\nU.S. President Donald Trump announced Tuesday aspects of his plan for a “Golden Dome” missile defence shield and s... [3028 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1747781742
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Trump says Canada has asked to join his Golden Dome missile defence program",
+      "description": "WASHINGTON — U.S. President Donald Trump announced Tuesday aspects of his plan for a \"Golden Dome\" missile defence shield and said \"it automatically makes sense\" for Canada to be involved.",
+      "url": "https://www.vancouverisawesome.com/national-business/trump-says-canada-has-asked-to-join-his-golden-dome-missile-defence-program-10687025",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/6bc9df331a33f16adacb80122e988ddd58291bd56ab88d57a9f756b45d4a221e.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-20T22:51:48Z",
+      "content": "WASHINGTON — U.S. President Donald Trump announced Tuesday aspects of his plan for a \"Golden Dome\" missile defence shield and said \"it automatically makes sense\" for Canada to be involved.\nWASHINGTON — U.S. President Donald Trump announced Tuesday as... [3133 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1747781508
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SpaceNews"
+      },
+      "author": "SpaceNews",
+      "title": "Trump taps Space Force general to lead $175 billion Golden Dome missile defense program",
+      "description": "Trump taps Space Force general to lead $175 billion Golden Dome missile defense program Trump taps Space Force general to lead $175 Billion Golden Dome missile defense program",
+      "url": "https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/",
+      "urlToImage": "https://spacenews.com/wp-content/uploads/2025/05/Screenshot-2025-05-20-at-4.38.31 PM.png",
+      "publishedAt": "2025-05-20T22:44:56Z",
+      "content": "WASHINGTON — President Donald Trump selected Space Force Gen. Michael Guetlein to lead the Golden Dome missile defense program, a massive undertaking that aims to create a comprehensive shield against advanced missile threats targeting the United Sta... [4087 chars]",
+      "tags": [
+        "government_administration",
+        "military"
+      ],
+      "publishedAtTs": 1747781096
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "7NEWS.com.au"
+      },
+      "author": "7NEWS.com.au",
+      "title": "Trump unveils design of $273 billion Golden Dome shield to protect US from Russia and China",
+      "description": "Elon Musk’s SpaceX has emerged as a frontrunner to build key components of the system.",
+      "url": "https://7news.com.au/news/trump-announces-golden-dome-us-defence-shield-design-c-18759861",
+      "urlToImage": "https://images.7news.com.au/publication/C-18759861/42b1d9d58f7d8ac6188a096cb62bed579648362b-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2025-05-20T22:34:31Z",
+      "content": "US President Donald Trump has selected a design for the Golden Dome missile defence shield and has named a Space Force general to head the ambitious program aimed at blocking threats from China and Russia.\nTrump announced on Tuesday at a White House ... [3207 chars]",
+      "tags": [
+        "defense_contractor_reform",
+        "national_security",
+        "foreign_policy",
+        "china",
+        "russia"
+      ],
+      "publishedAtTs": 1747780471
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "Trump announces multibillion-dollar ‘Golden Dome’ missile defence system",
+      "description": "Trump says Golden Dome will protect US from foreign strikes using ground and space-based weapons",
+      "url": "https://www.irishtimes.com/world/2025/05/20/trump-announces-multibillion-dollar-golden-dome-missile-defence-system/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/EQTYDHKPX6YK3KZ6S7MKY4IP7I.jpg?smart=true&auth=6a19d27ea0b40fdcce4f495de50804703e59c6eeddff4622095b362fe766b131&width=1200&height=630",
+      "publishedAt": "2025-05-20T22:25:00Z",
+      "content": "Donald Trump announced on Tuesday that his administration will move forward with developing a multibillion-dollar missile defence system, called “Golden Dome” that he envisions will protect the United States from possible foreign strikes using ground... [3808 chars]",
+      "tags": [
+        "security_intelligence",
+        "national_security",
+        "military"
+      ],
+      "publishedAtTs": 1747779900
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "The Intercept",
+      "title": "Senate Dems Hand Trump a Win by Backing Stablecoin Bill",
+      "description": "Democrats helped the GENIUS Act evade filibuster risk, paving the way for crypto legislation that stands to enrich Trump.",
+      "url": "https://theintercept.com/2025/05/20/crypto-stablecoin-genius-bill-trump/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2025/05/GettyImages-2208409917-e1747776903311.jpg?fit=5000%2C2500&w=1200&h=800",
+      "publishedAt": "2025-05-20T21:49:03Z",
+      "content": "As President Donald Trump prepares to welcome the top investors in his meme coin to a private dinner, centrist Senate Democrats gave a different kind of gift to the crypto industry on Monday.\nTwo weeks after helping tank an earlier vote on the so-cal... [6099 chars]",
+      "tags": [
+        "policy_legislation",
+        "cryptocurrency"
+      ],
+      "publishedAtTs": 1747777743
     }
   ]
 }

@@ -375,7 +375,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4799x2699+0+500/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F4d%2F625ee8f44b02bcbedd280ba64d13%2Fap25199767055970.jpg",
       "publishedAt": "2025-09-30T09:00:00Z",
       "content": "The Republican tax and spending package that passed in early July brought an early end to federal EV tax credits, which are worth up to $7,500 for new electric vehicles and up to $4,000 for used ones… [+3666 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "automotive"
+      ],
       "publishedAtTs": 1759222800
     },
     {
@@ -425,7 +428,11 @@
       "urlToImage": "https://i.insider.com/68dbf225cc993f9955cf308c?width=1200&format=jpeg",
       "publishedAt": "2025-09-30T16:16:25Z",
       "content": "The new initiative will allow individuals to pay for prescription drugs directly from a government website.Alex Wong/Getty Images\r\n<ul><li>Donald Trump announced a new government website for buying p… [+1741 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "economy_finance",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1759248985
     },
     {
@@ -836,7 +843,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/1d3819ec-fa25-4eba-9564-f00394ec028e/capitol-2-gty-gmh-250929_1759169305756_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-09-30T09:13:48Z",
       "content": "The federal government is hurtling toward a possible shutdown at a delicate moment for the nation's economy, as a hiring slowdown stokes recession fears and inflation proves difficult to fully contai… [+5722 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "government_administration",
+        "budget"
+      ],
       "publishedAtTs": 1759223628
     },
     {
@@ -1096,7 +1107,10 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/f610521c036a485/original/Habitable-Worlds-Observatory-Engineering-Architecture-Concepts-Loop.gif?m=1759244733.307&w=1200",
       "publishedAt": "2025-09-30T14:30:00Z",
       "content": "It’s a sweltering Tuesday in Washington, D.C., the kind of day that stretches the definition of Earth as a “habitable” planet. But on an eighth-floor terrace near the U.S. Capitol building, dozens of… [+23228 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "space_policy"
+      ],
       "publishedAtTs": 1759242600
     },
     {
@@ -1223,7 +1237,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OXr4a3qnYYReTq57M.HMxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/6e9accd44facdba7702b9a7859967d9c",
       "publishedAt": "2025-09-30T14:58:38Z",
       "content": "Gen Z keeps being told their chances of landing a job are slim as AI threatens entry-level jobs. But in reality, Nvidia’s CEO Jensen Huang says, there are thousands of jobs for young people, thanks t… [+3395 chars]",
-      "tags": [],
+      "tags": [
+        "labor",
+        "economy_finance",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1759244318
     },
     {
@@ -1460,7 +1478,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2194927663.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
       "publishedAt": "2025-09-30T23:31:08Z",
       "content": "Justice Brett Kavanaugh (L) and Chief Justice John Roberts listen as President Donald Trump speaks during his second inaugural. | Photo by Chip Somodevilla/Getty Images\r\n\n\nOn Friday, the Supreme Cour… [+5546 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1759275068
     },
     {
@@ -1565,7 +1586,9 @@
       "urlToImage": "https://www.nybooks.com/wp-content/uploads/2025/09/pynchon_phomas-102325-900.jpg",
       "publishedAt": "2025-09-30T12:00:00Z",
       "content": "Thomas Pynchon’s new novel, Shadow Ticket, is his third in a row to feature a private detective as its main character, but it doesn’t fit as neatly into the tradition of classic crime fiction as the … [+23346 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759233600
     },
     {
@@ -1715,7 +1738,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-30T151345Z_718498894_RC2D2HARK7LL_RTRMADP_3_USA-TRUMP-MILITARY-1759246580.jpg?resize=1920%2C1440",
       "publishedAt": "2025-09-30T18:36:26Z",
       "content": "Washington, DC United States President Donald Trump has addressed hundreds of US generals in Virginia on topics ranging from climbing up stairs to the crisis in Ukraine often repeating his talking po… [+5472 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "military",
+        "government_administration"
+      ],
       "publishedAtTs": 1759257386
     },
     {

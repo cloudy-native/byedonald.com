@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -15,11 +15,8 @@
       "publishedAt": "2025-05-06T23:49:39Z",
       "content": "US president Donald Trump convened the first meeting of his administration’s 2026 World Cup task force on Tuesday in a public event in which he revealed that he did not know Russia had been banned from Fifa competitions and insisted the tournament wo... [3980 chars]",
       "tags": [
-        "government_administration",
-        "foreign_policy",
-        "security_intelligence",
         "elections_politics",
-        "media_communications"
+        "government_administration"
       ],
       "publishedAtTs": 1746575379
     },
@@ -37,10 +34,7 @@
       "content": "Open this photo in gallery: U.S. President Donald Trump meets Prime Minister Mark Carney in the Oval Office of the White House, on May 6, in Washington.Evan Vucci/The Canadian Press\nSeven minutes before Prime Minister Mark Carney was scheduled to arr... [4330 chars]",
       "tags": [
         "foreign_policy",
-        "trade",
-        "nato",
-        "media_communications",
-        "government_administration"
+        "trade"
       ],
       "publishedAtTs": 1746575210
     },
@@ -58,8 +52,7 @@
       "content": "In a White House that prizes the power of pictures, the images it shared after a first meeting with Mark Carney spoke volumes.\nIt was all smiles, thumbs up, friendly photo captions and warm videos on U.S. President Donald Trump's social media feeds a... [6703 chars]",
       "tags": [
         "foreign_policy",
-        "media_communications",
-        "government_administration"
+        "media_communications"
       ],
       "publishedAtTs": 1746575179
     },
@@ -77,8 +70,7 @@
       "content": "The El Valle Detention Center in Raymondville, Texas is pictured, Thursday, May 1, 2025, after a federal judge in the district barred the Trump administration from deporting any Venezuelans at the south Texas detention center under the Alien Enemies ... [3184 chars]",
       "tags": [
         "legal_justice",
-        "immigration",
-        "government_administration"
+        "immigration"
       ],
       "publishedAtTs": 1746574545
     },
@@ -95,11 +87,10 @@
       "publishedAt": "2025-05-06T23:32:38Z",
       "content": "U.S. troops in the Middle East have come under attack close to 400 times, at a minimum, since the outbreak of the Israel–Hamas war, according to figures provided to The Intercept by the Office of the Secretary of Defense and Central Command.\nThe stri... [6064 chars]",
       "tags": [
-        "national_security",
-        "military",
+        "security_intelligence",
+        "foreign_policy",
         "middle_east",
-        "security_incidents",
-        "crisis_emergency"
+        "military"
       ],
       "publishedAtTs": 1746574358
     },
@@ -117,32 +108,245 @@
       "content": "After abruptly pulling their support from what would have been the Senate’s first stablecoin regulatory bill, Senate Democrats announced Tuesday that they would introduce a new bill that would prevent federal officials and their families from issuing... [1990 chars]",
       "tags": [
         "policy_legislation",
-        "economy_finance",
-        "elections_politics",
-        "personal_family",
-        "media_communications"
+        "cryptocurrency"
       ],
       "publishedAtTs": 1746574093
     },
     {
       "source": {
         "id": null,
-        "name": "BayToday"
+        "name": "GuelphToday"
       },
-      "author": "BayToday",
+      "author": "GuelphToday",
       "title": "Top Trump officials to meet with Chinese counterparts amid trade war",
       "description": "WASHINGTON (AP) — Top U.S.",
-      "url": "https://www.baytoday.ca/business/top-trump-officials-to-meet-with-chinese-counterparts-amid-trade-war-10623493",
+      "url": "https://www.guelphtoday.com/national-business/top-trump-officials-to-meet-with-chinese-counterparts-amid-trade-war-10623493",
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/648bed3dc8592ae79fa0f156077dedde551985f48c9279f28a3d1559ebc020d6.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-06T23:01:42Z",
       "content": "WASHINGTON (AP) — Top U.S. officials are set to meet with a high-level Chinese delegation this weekend in Switzerland, the administration announced Tuesday, in the first major talks between the two nations since President Donald Trump sparked a trade... [2029 chars]",
       "tags": [
         "foreign_policy",
-        "china",
-        "trade",
-        "economy_finance"
+        "trade"
       ],
       "publishedAtTs": 1746572502
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Carney and Trump are only at the beginning of redefining the Canada-U.S. relationship",
+      "description": "There is a long way to go — and much more to figure out than could possibly be settled in a single afternoon at the White House.",
+      "url": "https://www.cbc.ca/news/politics/carney-trump-white-house-analysis-1.7528219",
+      "urlToImage": "https://i.cbc.ca/1.7528028.1746562000!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-trump-canada.JPG?im=Resize%3D620",
+      "publishedAt": "2025-05-06T23:01:02Z",
+      "content": "In 2013, when he was running to unseat a Conservative government, Justin Trudeau said there were a \"few very big things the prime minister of Canada needs to get right,\" one of which was \"building a constructive working relationship with the presiden... [6879 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1746572462
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Birmingham Live"
+      },
+      "author": "Birmingham Live",
+      "title": "Startling impact of Trump tariffs on West Midlands laid bare with half of businesses at risk of harm",
+      "description": "More than half of all businesses in the West Midlands would be hit by the US tariffs, finds",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/startling-impact-trump-tariffs-west-31584568",
+      "urlToImage": "https://i2-prod.birminghammail.co.uk/article30503595.ece/ALTERNATES/s1200/3_FILE-Jaguar-Land-Rover-Set-To-Announce-5000-UK-Job-Cuts.jpg",
+      "publishedAt": "2025-05-06T23:01:00Z",
+      "content": "Startling impact of Trump tariffs on West Midlands laid bare with half of businesses at risk of harm\nMore than half of all businesses in the West Midlands would be hit by the US tariffs, finds\nRobotics systems working on the chassis of a car at the J... [5306 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746572460
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Brian Cox says Trump’s tariffs would be ‘absolute disaster’ for upcoming film",
+      "description": "The film industry has raised concerns that US president Donald Trump’s plan would impact freelancers in the UK and would be difficult to enact",
+      "url": "https://www.breakingnews.ie/entertainment/brian-cox-says-trumps-tariffs-would-be-absolute-disaster-for-upcoming-film-1760235.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDcxNTUxNDZcXFwvMi43NjE1MDI0NS1lMTc0NjYyOTYyODExOS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImZjNjQ0OWE5ZGFkODU2MjM1OWFiMzhiYWE1NGFjZTZmYmE5NWZiZDMifQ==/brian-cox-says-trump-s-tariffs-would-be-absolute-disaster-for-upcoming-film.jpg",
+      "publishedAt": "2025-05-06T23:00:00Z",
+      "content": "Scottish actor Brian Cox has said Donald Trump’s plan to impose 100 per cent tariffs on non-US movies would be an “absolute disaster” for his upcoming film.\nThe US president said in a post on his Truth Social platform that he has authorised governmen... [4170 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746572400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Netanyahu: There is ‘doubt’ whether three of the remaining hostages are alive",
+      "description": "The statement came a day after US President Donald Trump said only 21 of 24 hostages believed alive had survived.",
+      "url": "https://www.breakingnews.ie/world/netanyahu-there-is-doubt-whether-three-of-the-remaining-hostages-are-alive-2-1760316.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDcxODI4MTRcXFwvNzNmZDBlMDA4NTA0NDIwOTg4NzAzZWNkZWQ2YzI5NGItMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImY2NjY0MzFkMDg5ZjNkMjkyODBkODZmNGVjMDk5ODM1MWE5M2NiYWQifQ==/netanyahu-there-is-doubt-whether-three-of-the-remaining-hostages-are-alive.jpg",
+      "publishedAt": "2025-05-06T23:00:00Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday there is “doubt” about the survival of three hostages previously believed to be alive in Gaza.\nThe statement came a day after US President Donald Trump said only 21 of 24 hostages believed a... [991 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "gaza"
+      ],
+      "publishedAtTs": 1746572400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump pledges more on Gaza peace plan as Israeli strikes kill dozens",
+      "description": "The strikes included one attack on a school sheltering hundreds of displaced Palestinians, which killed 27 people, officials said.",
+      "url": "https://www.breakingnews.ie/world/trump-pledges-more-on-gaza-peace-plan-as-israeli-strikes-kill-dozens-1760001.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDcxMDM0MzRcXFwvMjI5ZGYwYTJhNzQzNDk3ZGE4ZDc2NGY1ZWQyZTM2NWUtMy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjYzNDNlMzg4OGJmMzQzODRhN2Y0YWRhM2Q5MWE0OWQzNTZjMTFkMjkifQ==/trump-pledges-more-on-gaza-peace-plan-as-israeli-strikes-kill-dozens.jpg",
+      "publishedAt": "2025-05-06T23:00:00Z",
+      "content": "US President Donald Trump has said his administration will soon have more to say on a plan for Gaza – which may include a new push for a ceasefire between Hamas and Israel, the release of hostages and an influx of aid to Palestinians.\n“You’ll be know... [6069 chars]",
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "israel"
+      ],
+      "publishedAtTs": 1746572400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump plans to announce name change for Persian Gulf, officials say",
+      "description": "The US president is expected to say the US will use the names Arabian Gulf or the Gulf of Arabia.",
+      "url": "https://www.breakingnews.ie/world/trump-plans-to-announce-name-change-for-persian-gulf-officials-say-1759943.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDcwNTQ4MjlcXFwvNjg2YWFmMDg0ZjFhNDRlY2JlZDA0MzE4NzdlNWNhOTMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5Y2UwNWNkYTAxYzdmYThmNzhkMmVkOGQ2Y2ViZjc2YmNkMmVhNTY1In0=/trump-plans-to-announce-name-change-for-persian-gulf-officials-say.jpg",
+      "publishedAt": "2025-05-06T23:00:00Z",
+      "content": "President Donald Trump plans to announce on his trip to Saudi Arabia next week that the US will refer to the Persian Gulf as the Arabian Gulf or the Gulf of Arabia, two US officials said on Tuesday.\nArab nations have pushed for a change to the geogra... [2597 chars]",
+      "tags": [
+        "foreign_policy",
+        "regional_state"
+      ],
+      "publishedAtTs": 1746572400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump says he will not reduce tariffs on China in order to have negotiations",
+      "description": "Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer are set to meet their Chinese counterparts this weekend in Switzerland.",
+      "url": "https://www.breakingnews.ie/world/trump-says-he-will-not-reduce-tariffs-on-china-in-order-to-have-negotiations-1760352.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDcyMjMzNDdcXFwvZTY3ZTljNDBmNDZmNDcyZDljZDI3Zjc4YjM5NzUwNDEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiNDdmNjc3ZmVjOThlM2EyMTNhYjZiMmE5MTNmNTlmMjFkMzkwM2MxIn0=/trump-says-he-will-not-reduce-tariffs-on-china-in-order-to-have-negotiations.jpg",
+      "publishedAt": "2025-05-06T23:00:00Z",
+      "content": "US President Donald Trump said “no” when asked if he would reduce his 145% tariffs on Chinese goods as a condition for negotiations.\nTreasury Secretary Scott Bessent and US Trade Representative Jamieson Greer are set to meet their Chinese counterpart... [560 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746572400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News18"
+      },
+      "author": "News18",
+      "title": "Donald Trump Reacts To Indian Strikes On Terror Camps In PoK: 'Hope It Ends Very Quickly'",
+      "description": "New Delhi described the late-night strikes, dubbed Operation Sindoor, as “measured and non-escalatory,\" stressing that no Pakistani military facilities were targeted.",
+      "url": "https://www.news18.com/india/donald-trump-reacts-to-indian-strike-on-terror-camps-in-pok-hope-it-ends-very-quickly-9326445.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2025/04/Untitled-design-2025-04-26T093341.701-2025-04-2da2367d080b2e4b7d83fc6717e1d7a4-16x9.jpg",
+      "publishedAt": "2025-05-06T22:29:13Z",
+      "content": "Donald Trump Reacts To Indian Strikes On Terror Camps In PoK: 'Hope It Ends Very Quickly'\nCurated By :\nNews18.com\nLast Updated: May 07, 2025, 03:59 IST\nNew Delhi described the late-night strikes, dubbed Operation Sindoor, as “measured and non-escalat... [1977 chars]",
+      "tags": [
+        "foreign_policy",
+        "terrorism"
+      ],
+      "publishedAtTs": 1746570553
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Canada's Carney becomes the latest foreign leader to get the Trump treatment in the Oval Office",
+      "description": "The prime minister's campaign was fueled by a wave of anger at the American president's aggressive rhetoric, and today was his chance to defend his country to the president's face.",
+      "url": "https://www.thestar.com/news/world/united-states/canadas-carney-becomes-the-latest-foreign-leader-to-get-the-trump-treatment-in-the-oval/article_2d10818b-52a4-5d8f-a778-07326d2b4b8e.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/fc/0fc3e123-1251-57b0-a323-dbfad281be22/681a6592b84d0.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-06T22:22:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "foreign_policy",
+        "leadership"
+      ],
+      "publishedAtTs": 1746570120
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Carney tells Trump Canada ‘not for sale’ in historic meeting",
+      "description": "The prime minister said Canada would “never” join the United States but is willing to work with Trump on a new trade and security partnership.",
+      "url": "https://www.thestar.com/politics/federal/mark-carney-tells-donald-trump-canada-is-not-for-sale-in-historic-meeting-at-the/article_ccfd3960-75a7-4952-bf1a-76297445f313.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/f9/ff9043e1-470e-5255-8634-cf678289dfb9/681a83556ea10.image.jpg?crop=1764%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-06T22:15:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1746569700
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Trump downplays trade talks, says he’ll dictate terms to other nations",
+      "description": "The US president’s comments indicate he could continue to change his approach, which may further roil financial markets that have struggled with uncertainty.",
+      "url": "https://www.afr.com/world/north-america/trump-downplays-trade-talks-says-he-ll-dictate-terms-20250507-p5lx5w",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/4d0927aadaaef156f9e494faa127608988c956f6",
+      "publishedAt": "2025-05-06T22:00:05Z",
+      "content": "Washington | US President Donald Trump said he would prescribe tariff levels and trade concessions for partners looking to avoid higher duties, appearing to move away from the idea that he would engage in back-and-forth negotiations.\n“We’re going to ... [350 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746568805
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Carney says he pushed back against Trump in private on '51st state' notion",
+      "description": "WASHINGTON — Canada will never become a U.S. state, Prime Minister Carney declared Tuesday in public and private meetings with U.S. President Donald Trump at the White House — meetings both leaders described as productive and cordial.",
+      "url": "https://www.vancouverisawesome.com/national-news/carney-says-he-pushed-back-against-trump-in-private-on-51st-state-notion-10618419",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/ba0a12da64c76408929925ae14b40c1138d60ad6f0554976981f54f99cda7686.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-06T21:58:15Z",
+      "content": "WASHINGTON — Canada will never become a U.S. state, Prime Minister Carney declared Tuesday in public and private meetings with U.S. President Donald Trump at the White House — meetings both leaders described as productive and cordial.\nWASHINGTON — Ca... [6949 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1746568695
     }
   ]
 }

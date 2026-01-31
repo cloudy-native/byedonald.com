@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -16,7 +16,7 @@
       "content": "Earlier this month, a Trump administration plan to cut the National Institutes of Health budget by more than 40% was leaked to the press.\nThe preliminary budget sent shockwaves through the nation's health agency but also, the wider scientific communi... [11510 chars]",
       "tags": [
         "health_science",
-        "government_administration",
+        "budget",
         "policy_legislation"
       ],
       "publishedAtTs": 1745798183
@@ -34,11 +34,9 @@
       "publishedAt": "2025-04-27T23:44:38Z",
       "content": "For decades, the United States has been the destination for scientific talent from around the globe. Now, with the Trump administration's mass layoffs and cuts to scientific research at the National Institutes of Health, that could be about to change... [4647 chars]",
       "tags": [
-        "science_policy",
         "medical_research",
-        "health_science",
-        "government_administration",
-        "economy_finance"
+        "science_policy",
+        "policy_legislation"
       ],
       "publishedAtTs": 1745797478
     },
@@ -56,8 +54,7 @@
       "content": "US President Donald Trump on Sunday urged Russia to stop its offensive in Ukraine as he viewed his Ukrainian counterpart Volodymyr Zelenskyy “calmer” and more interested in seeking a ceasefire deal, following their brief one-on-one meeting inside the... [1810 chars]",
       "tags": [
         "foreign_policy",
-        "security_intelligence",
-        "policy_legislation"
+        "ukraine"
       ],
       "publishedAtTs": 1745797434
     },
@@ -75,10 +72,8 @@
       "content": "Asked to comment on his meeting at the Vatican with Volodymyr Zelenskyy, Donald Trump on Sunday expressed newfound sympathy for his Ukrainian counterpart, saying he “wants to do something good for his country” and “is working hard”.\nReflecting on his... [3655 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
-        "middle_east",
-        "europe",
-        "ukraine"
+        "ukraine",
+        "russia"
       ],
       "publishedAtTs": 1745797354
     },
@@ -95,9 +90,8 @@
       "publishedAt": "2025-04-27T23:40:22Z",
       "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nGreenland's prime ministe... [5061 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
-        "international_organizations"
+        "greenland_acquisition",
+        "foreign_policy"
       ],
       "publishedAtTs": 1745797222
     },
@@ -114,8 +108,7 @@
       "publishedAt": "2025-04-27T23:29:45Z",
       "content": "LYNGBY, Denmark — New Greenlandic Prime Minister Jens-Frederik Nielsen said Sunday that US statements about the mineral-rich Arctic island have been disrespectful and that Greenland “will never, ever be a piece of property that can be bought by just ... [2298 chars]",
       "tags": [
-        "foreign_policy",
-        "international_organizations"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1745796585
     },
@@ -133,10 +126,8 @@
       "content": "The U.S. military has escalated its offensive against Houthi rebels in Yemen, as President Donald Trump sanctioned increased strikes aimed at curbing their influence. Despite these operations' 'lethal effects,' specifics remain undisclosed due to sec... [543 chars]",
       "tags": [
         "foreign_policy",
-        "security_intelligence",
         "military",
-        "legal_justice",
-        "crisis_emergency"
+        "security_intelligence"
       ],
       "publishedAtTs": 1745796450
     },
@@ -154,10 +145,7 @@
       "content": "Philadelphia Eagles running back Saquon Barkley was spotted with President Donald Trump at his golf course in New Jersey on Sunday, a day before the team visits the White House.\nA photo that made the rounds on social media showed Barkley sitting to T... [2394 chars]",
       "tags": [
         "personal_family",
-        "government_administration",
-        "media_communications",
-        "elections_politics",
-        "regional_state"
+        "trump"
       ],
       "publishedAtTs": 1745794981
     },
@@ -174,10 +162,9 @@
       "publishedAt": "2025-04-27T23:01:44Z",
       "content": "The UK economy is set to slow sharply for the next two years as Donald Trump’s global tariff war weighs on consumer spending and business investment, a study by a leading forecaster has predicted.\nThe findings by EY Item Club, which is sponsored by t... [3507 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy",
-        "policy_legislation"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1745794904
     },
@@ -196,11 +183,286 @@
       "tags": [
         "government_administration",
         "policy_legislation",
-        "economy_finance",
-        "foreign_policy",
-        "elections_politics"
+        "elections_politics",
+        "trade_negotiations_truces",
+        "mass_deportation_operation"
       ],
       "publishedAtTs": 1745794800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Donald Trump says Virginia Giuffre’s death ‘a horrible thing’",
+      "description": "The 41-year-old, who settled a sexual assault lawsuit against the Duke of York, died on Friday in Australia.",
+      "url": "https://www.breakingnews.ie/world/donald-trump-says-virginia-giuffres-death-a-horrible-thing-1756853.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMjgwNzQ0MTdcXFwvMi42NDU4MDk1Ni5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijg2Yzg2NDU0NjMwMGMzNzc0NGY3M2ZlNzZmNGJiODE1M2QyMTgyN2MifQ==/donald-trump-says-virginia-giuffre-s-death-a-horrible-thing.jpg",
+      "publishedAt": "2025-04-27T23:00:00Z",
+      "content": "US President Donald Trump has described the death of Virginia Giuffre, who settled a sexual assault lawsuit against the UK's Prince Andrew, as “a horrible thing”.\nMs Giuffre died in Western Australia on Friday, aged 41, her publicist has confirmed.\nA... [2736 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1745794800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Jeffries and Booker end sit-in protest against GOP budget on Capitol steps after more than 12 hours",
+      "description": "House Minority Leader Hakeem Jeffries and Sen. Cory Booker opposed the Republican budget plan key to enacting President Trump's agenda with a sit-in protest on the steps of the Capitol as the sun rose on Sunday.",
+      "url": "https://www.cbsnews.com/news/cory-booker-hakeem-jeffries-protest-sit-in-capitol/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/04/27/8d46ad9c-98e4-4fba-9510-81d8b68b0096/thumbnail/1200x630/771e0e39a7fc6760beb07ab625fe536f/gettyimages-2211726597.jpg?v=8e9dede207b29c97b32974c53e32aabc",
+      "publishedAt": "2025-04-27T22:51:30Z",
+      "content": "Washington — House Minority Leader Hakeem Jeffries and Sen. Cory Booker voiced their opposition to the Republican budget plan key to enacting President Trump's agenda as the sun rose on Sunday, holding a sit-in protest on the steps of the Capitol tha... [3586 chars]",
+      "tags": [
+        "protests",
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1745794290
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Ukraine war latest: Trump 'very disappointed' in Russia and wants Putin to 'reach a deal'",
+      "description": "The US president appears to show increasing frustration with a lack of progress over a ceasefire deal. Meanwhile, North Korea says its fighters made an \"important contribution\" to expelling Ukrainian forces from Russian territory - though Kyiv says its soldiers are still in Kursk.",
+      "url": "https://news.sky.com/story/ukraine-war-latest-trump-very-disappointed-in-russia-and-wants-putin-to-reach-a-deal-12541713",
+      "urlToImage": "https://e3.365dm.com/25/03/1600x900/skynews-vladimir-putin-donald-trump_6856280.jpg?20250314144324",
+      "publishedAt": "2025-04-27T22:51:00Z",
+      "content": "Trump says Zelenskyy 'calmer' - and he's disappointed with Russia\nDonald Trump says his meeting with Volodymyr Zelenskyy at the Vatican yesterday went well and the next few days will prove if there was progress.\nAsked about a change in attitude since... [539 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
+      "publishedAtTs": 1745794260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump Pushes for Peace in Ukraine Amid Tensions with Russia",
+      "description": "President Trump calls on Russia to cease attacks in Ukraine, highlighting potential shifts in U.S. diplomatic efforts. Meeting with Ukrainian President Zelenskiy at the Vatican, Trump emphasizes negotiation. Amid stalled peace talks, differing proposals emerge, and U.S. officials voice concerns over territorial discussions.",
+      "url": "https://www.devdiscourse.com/article/politics/3361476-trump-pushes-for-peace-in-ukraine-amid-tensions-with-russia",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_04_2025_11_49_19_681739.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-27T22:45:03Z",
+      "content": "President Donald Trump has urged Russia to halt its ongoing attacks in Ukraine, signaling potential changes in American diplomatic engagement. Meeting with Ukrainian President Volodymyr Zelenskiy at the Vatican, Trump expressed disappointment over Ru... [643 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
+      "publishedAtTs": 1745793903
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump says he's \"bringing back Columbus Day from the ashes\"",
+      "description": "Columbus Day, the second Monday in October, was also recognized as Indigenous Peoples Day during former President Joe Biden's term in 2021.",
+      "url": "https://www.cbsnews.com/news/trump-columbus-day-indigenous-peoples-day/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/27/00815526-41f3-4905-8240-76e25e35211d/thumbnail/1200x630/59abb23bf2a71fca809231830d95723e/gettyimages-77212766.jpg?v=8e9dede207b29c97b32974c53e32aabc",
+      "publishedAt": "2025-04-27T22:30:28Z",
+      "content": "President Trump made clear Sunday that he would not follow his predecessor's practice of recognizing Indigenous Peoples Day alongside Columbus Day in October, accusing Democrats of denigrating the explorer's legacy as he pressed his campaign to resto... [3800 chars]",
+      "tags": [
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1745793028
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "How coincidence and diplomacy drove a consequential meeting between Trump and Zelensky inside St. Peter’s",
+      "description": "Inside the soaring nave of St. Peter’s Basilica on Saturday, the quiet hush of world leaders paying respects to the late Pope Francis was briefly interrupted by a flurry of activity in a secluded corner near the entrance doors.",
+      "url": "https://edition.cnn.com/2025/04/27/politics/trump-zelensky-calmer-ukraine/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211787003.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-04-27T22:28:43Z",
+      "content": "CNN —\nInside the soaring nave of St. Peter’s Basilica on Saturday, the quiet hush of world leaders paying respects to the late Pope Francis was briefly interrupted by a flurry of activity in a secluded corner near the entrance doors.\nMen in black rob... [6321 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
+      "publishedAtTs": 1745792923
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WLTX.com"
+      },
+      "author": "WLTX.com",
+      "title": "Trump says Columbus Day will now just be Columbus Day",
+      "description": "Trump claimed Democrats undermined Christopher Columbus' legacy by including Indigenous People's Day on the same holiday.",
+      "url": "https://www.wltx.com/article/news/nation-world/trump-columbus-day/507-eb4081d1-8558-4c2e-b57d-5b6efcea07b6",
+      "urlToImage": "https://media.wltx.com/assets/CCT/images/f745b2ad-d998-42c9-b5d6-7b1daa99ab44/20250214T172747/f745b2ad-d998-42c9-b5d6-7b1daa99ab44_1140x641.jpg",
+      "publishedAt": "2025-04-27T22:27:32Z",
+      "content": "Trump in a post on his Truth Social site Sunday said he'd only use the day's original name, instead of also including Indigenous People's Day.\nWASHINGTON D.C., DC — President Donald Trump made clear Sunday that he would not follow his predecessor's p... [2577 chars]",
+      "tags": [
+        "social_issues",
+        "personal_family"
+      ],
+      "publishedAtTs": 1745792852
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "New Details Emerge on Trump Officials’ Sprint to Gut Consumer Bureau Staff",
+      "description": "Emails and testimonials from workers at the Consumer Financial Protection Bureau document the administration’s efforts to lay off 90 percent of the employees.",
+      "url": "https://www.nytimes.com/2025/04/27/business/cfpb-layoffs-trump-musk-doge.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/27/multimedia/27biz-cfpb-gpml/27biz-cfpb-gpml-facebookJumbo.jpg",
+      "publishedAt": "2025-04-27T22:24:25Z",
+      "content": "Two weeks ago, a three-judge panel from the federal appeals court in Washington lifted a freeze on firing employees at the Consumer Financial Protection Bureau, with some conditions. The judges, ruling on a Friday night, said that workers could be fi... [1326 chars]",
+      "tags": [
+        "government_administration",
+        "personnel",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1745792665
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump and Zelensky Meet at Vatican Amidst Russia-Ukraine Tensions",
+      "description": "President Donald Trump reported a successful meeting with Ukrainian President Volodymyr Zelensky at the Vatican. The outcomes of their discussions on the Russia-Ukraine conflict will become apparent in the coming days, indicating whether any progress has been made towards resolving the ongoing situation.",
+      "url": "https://www.devdiscourse.com/article/politics/3361470-trump-and-zelensky-meet-at-vatican-amidst-russia-ukraine-tensions",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_04_2025_03_14_08_4434572.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-27T21:56:43Z",
+      "content": "President Donald Trump announced that his meeting with Ukrainian President Volodymyr Zelensky at the Vatican was successful. The encounter was focused on addressing the ongoing Russia-Ukraine conflict.\nThe discussions aimed at finding solutions for t... [251 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "trump"
+      ],
+      "publishedAtTs": 1745791003
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Sharemarket rallies as hopes grow for easing of Donald Trump’s trade war; Brambles lowers revenue forecasts, citing market uncertainty",
+      "description": "ASX climbs, buoyed by banks, tech; gold retreats; James Hardie to keep ASX ties; Brambles sees weaker revenues; CoStar doubles down on $2.8b Domain bid.",
+      "url": "https://www.afr.com/markets/equity-markets/asx-hangs-in-the-balance-us-local-inflation-in-focus-20250425-p5lual",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/9db5bb106d010db083ea12886cc14f4bae6dffaf",
+      "publishedAt": "2025-04-27T21:56:23Z",
+      "content": "The Australian sharemarket climbed for a third session, buoyed by strong gains on Wall Street and renewed hopes for a US-China trade deal.\nThe S & P/ASX 200 climbed 0.4 per cent, or by 28.9 points, to 7997.1 points at the close, extending the prior w... [2649 chars]",
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1745790983
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "talkSPORT.com"
+      },
+      "author": "talkSPORT.com",
+      "title": "Judd Trump receives standing ovation mid-frame as he banks £100k with stunning feat",
+      "description": "Fans inside the Crucible theatre showed their huge appreciation for Judd Trump as he notched up a stunning 100th century for the season.Trump also ban",
+      "url": "https://talksport.com/sport/3156035/judd-trump-prize-money-stunning-feat-crucible/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2025/04/judd-trump-england-reacts-shaun-990380125.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2025-04-27T21:31:57Z",
+      "content": "Fans inside the Crucible theatre showed their huge appreciation for Judd Trump as he notched up a stunning 100th century for the season.\nTrump also banks £100,000 for the feat and is the only player to have ever managed it on two separate occasions.\n... [2244 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1745789517
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Why Quebec could once again tip the balance in this federal election",
+      "description": "The shadow cast by Trump has loomed large in Quebec, where the Liberals are hoping to make big gains at the expense of the Bloc Québécois.",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-federal-election-campaign-final-weekend-1.7518829",
+      "urlToImage": "https://i.cbc.ca/1.7518819.1745602001!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/fedelxn-liberals-20250422.jpg?im=Resize%3D620",
+      "publishedAt": "2025-04-27T21:30:15Z",
+      "content": "At a casse-croûte on Montreal's South Shore, Anne-Marie Pinot settles in for a lunchtime poutine. She has voted for political parties across the spectrum over the years, but this time, she is voting Bloc Québécois.\nPinot is concerned about the threat... [5631 chars]",
+      "tags": [
+        "elections_politics",
+        "regional_state",
+        "canada"
+      ],
+      "publishedAtTs": 1745789415
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump’s attacks on Canada open a window for nation-building",
+      "description": "Public projects including an east-west electricity grid, housing, clean manufacturing, and a truly public bank are important examples of government-led initiatives key to our sovereignty.",
+      "url": "https://www.thestar.com/opinion/contributors/canada-needs-to-embrace-a-new-era-of-nation-building/article_45c883bb-06f0-4887-88e5-cacfc569cc11.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/ff/afff45e6-9e02-5f0f-8e41-d01b1d022b68/680e983db38f6.image.jpg?crop=1750%2C919%2C0%2C133&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-27T21:00:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1745787600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo"
+      },
+      "author": "Gizmodo",
+      "title": "Trump Hangers-On Open New Club for Other Rich Suck-Ups",
+      "description": "The Executive Branch is open for business.",
+      "url": "https://gizmodo.com/trump-hangers-on-open-new-club-for-other-rich-suck-ups-2000595075",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/04/GettyImages-2205297109.jpg",
+      "publishedAt": "2025-04-27T20:30:15Z",
+      "content": "George Carlin once said, “It’s a big club and you ain’t in it.” Some folks in Donald Trump’s circle heard that and thought, “Now that’s an idea!” According to Politico, Donald Trump Jr., megadonor Omeed Malik, and a handful of wealthy ghouls who orbi... [2371 chars]",
+      "tags": [
+        "personal_family",
+        "government_administration"
+      ],
+      "publishedAtTs": 1745785815
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Liverpool win 20th English title and send Postecoglou close to exit",
+      "description": "The hammering only shoved Ange Postecoglou ever closer to the Spurs exit door; Donald Trump floats new income tax cut in bid to ease tariffs bite. Follow live updates.",
+      "url": "https://www.afr.com/politics/federal/liverpool-win-20th-english-title-and-send-postecoglou-close-to-exit-20250428-p5lum4",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2837%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_190%2C$y_146/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/16815abc8777b5cc66fc8def5a6824cb3f7ea4a4",
+      "publishedAt": "2025-04-27T20:17:27Z",
+      "content": "President Donald Trump suggested on Sunday (Monday AEDT) that his sweeping tariffs would help him reduce income taxes for people making less than $US200,000 ($313,000) a year, as public anxiety rises over his economic agenda.\nTrump has previously arg... [1727 chars]",
+      "tags": [
+        "economy_finance",
+        "taxes"
+      ],
+      "publishedAtTs": 1745785047
     }
   ]
 }

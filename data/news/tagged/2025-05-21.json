@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 7,
+  "totalResults": 15,
   "articles": [
     {
       "source": {
@@ -16,9 +16,7 @@
       "content": "U.S. President Donald Trump said on Wednesday he will make a decision in the near future about taking mortgage finance firms Fannie Mae and Freddie Mac public, saying that he is giving “very serious consideration” to doing so.\nIn a post on Truth Soci... [1280 chars]",
       "tags": [
         "economy_finance",
-        "housing",
-        "government_administration",
-        "policy_legislation"
+        "housing"
       ],
       "publishedAtTs": 1747871813
     },
@@ -35,11 +33,8 @@
       "publishedAt": "2025-05-21T23:19:11Z",
       "content": "WASHINGTON — A resolution with bipartisan support was introduced by United States senators on Wednesday to recognize the U.S.-Canada partnership as the relationship continues to be badly strained by President Donald Trump’s tariffs and threats of ann... [3870 chars]",
       "tags": [
-        "foreign_policy",
         "canada",
-        "trade",
-        "government_administration",
-        "policy_legislation"
+        "trade"
       ],
       "publishedAtTs": 1747869551
     },
@@ -56,10 +51,9 @@
       "publishedAt": "2025-05-21T23:10:41Z",
       "content": "U.S. Ambassador to Canada Pete Hoekstra says Canada and the U.S. 'would have to have some kind of a discussion on NORAD' if Canada doesn't buy F35s.\nThe new U.S. ambassador to Canada says while U.S. President Donald Trump is unlikely to ever remove h... [6981 chars]",
       "tags": [
+        "trade_negotiations_truces",
         "foreign_policy",
-        "nato",
-        "policy_legislation",
-        "security_intelligence"
+        "defense_contractor_reform"
       ],
       "publishedAtTs": 1747869041
     },
@@ -76,9 +70,10 @@
       "publishedAt": "2025-05-21T23:00:00Z",
       "content": "House Republicans stayed up all night to pass their multitrillion-dollar tax breaks package, with speaker Mike Johnson defying the sceptics and unifying his ranks to muscle US President Donald Trump’s priority bill to approval.\nWith last-minute conce... [4374 chars]",
       "tags": [
-        "economy_finance",
         "policy_legislation",
-        "government_administration"
+        "taxes",
+        "economy_finance",
+        "elections_politics"
       ],
       "publishedAtTs": 1747868400
     },
@@ -95,9 +90,7 @@
       "publishedAt": "2025-05-21T23:00:00Z",
       "content": "The US Mint has made its final order of penny blanks and plans to stop producing the coin when those run out, a Treasury Department official confirmed on Thursday.\nStopping penny production is expected to produce an immediate annual savings of 56 mil... [1171 chars]",
       "tags": [
-        "government_operations",
-        "economy_finance",
-        "policy_legislation"
+        "economy_finance"
       ],
       "publishedAtTs": 1747868400
     },
@@ -114,11 +107,8 @@
       "publishedAt": "2025-05-21T23:00:00Z",
       "content": "The Trump administration has revoked Harvard University’s ability to enrol international students in its escalating battle with the Ivy League school, saying thousands of current students must transfer to other schools or leave the country.\nThe Depar... [4526 chars]",
       "tags": [
-        "government_administration",
-        "foreign_policy",
-        "education",
         "immigration",
-        "legal_justice"
+        "education"
       ],
       "publishedAtTs": 1747868400
     },
@@ -135,13 +125,155 @@
       "publishedAt": "2025-05-21T22:49:43Z",
       "content": "OTTAWA — Prime Minister Mark Carney says Canada is looking at participating in U.S. President Donald Trump's new Golden Dome missile defence program.\nCarney says high-level discussions are underway, but he did not provide a figure on how much Canada ... [699 chars]",
       "tags": [
-        "security_intelligence",
-        "national_security",
         "foreign_policy",
-        "canada",
-        "nato"
+        "canada"
       ],
       "publishedAtTs": 1747867783
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "TheJournal.ie",
+      "title": "US Defence Department accepts Boeing 747 from Qatar for Donald Trump’s use",
+      "description": "Pemtagon spokesman Sean Parnell said the plane was accepted ‘in accordance with all federal rules and regulations’.",
+      "url": "https://www.thejournal.ie/us-accepts-plane-from-qatar-donald-trump-6711273-May2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6711273/river/?height=400&version=6711277",
+      "publishedAt": "2025-05-21T22:41:39Z",
+      "content": "US DEFENCE SECRETARY Pete Hegseth has accepted a gifted Boeing 747 from Qatar for president Donald Trump to use as Air Force One, the Pentagon said.\nPentagon spokesman Sean Parnell said the department will “work to ensure proper security measures” on... [1077 chars]",
+      "tags": [
+        "foreign_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1747867299
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sinister Trump dims the lights for another White House ambush",
+      "description": "Like a Bond villain startling guests with noxious gas, the president pushed his 'white genocide’ delusion to Cyril Ramaphosa",
+      "url": "https://www.theguardian.com/us-news/2025/may/21/trump-south-africa-cyril-ramaphosa",
+      "urlToImage": "https://i.guim.co.uk/img/media/16340c45f5c117054830c8549e5f3791968d1271/456_0_4583_3669/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e861f6f8f3dcbf09dc7a442a676806ed",
+      "publishedAt": "2025-05-21T22:25:23Z",
+      "content": "We knew he was a bore and boor. Now we have learned that Donald Trump is an honorary Boer.\nWhen he turned his attention to South Africa on Wednesday, it may come as no surprise that the US president – who has been sued for discriminating against Blac... [5024 chars]",
+      "tags": [
+        "personal_family",
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1747866323
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Cuomo's comeback faces a new challenger in Donald Trump's Justice Department",
+      "description": "With just weeks to go until New York City's mayoral primary, one of the leading candidates, former Gov. Andrew Cuomo, finds himself under investigation by the U.S. Department of Justice.",
+      "url": "https://www.thestar.com/news/world/united-states/cuomos-comeback-faces-a-new-challenger-in-donald-trumps-justice-department/article_336eb113-6faf-554c-b7fb-622da9d830e4.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d0/cd0c9ea5-c52e-50c3-9ff7-7e13a0b958d0/682e5068df1e7.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-21T22:11:26Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1747865486
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "U.S. formally accepts Qatar-gifted jet for Trump's use as Air Force One",
+      "description": "U.S. Defence Secretary Pete Hegseth has accepted a luxury Boeing 747 aircraft from Qatar for U.S. President Donald Trump to use as Air Force One, the Pentagon said Wednesday, despite ongoing questions about the ethics and legality of taking the expensive gift from a foreign nation.",
+      "url": "https://www.cbc.ca/news/world/hegseth-trump-qatar-plane-1.7540260",
+      "urlToImage": "https://i.cbc.ca/1.7540281.1747856467!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/u-s-president-donald-trump-inside-the-oval-office.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-21T22:11:17Z",
+      "content": "U.S. Defence Secretary Pete Hegseth has accepted a luxury Boeing 747 aircraft from Qatar for U.S. President Donald Trump to use as Air Force One, the Pentagon said Wednesday, despite ongoing questions about the ethics and legality of taking the expen... [4528 chars]",
+      "tags": [
+        "ethics",
+        "foreign_policy",
+        "government_administration"
+      ],
+      "publishedAtTs": 1747865477
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Trump’s ‘opposite of apartheid’ crusade contrasts with Reagan’s approach",
+      "description": "The 40-year arc of US relations with South Africa goes something like this:",
+      "url": "https://edition.cnn.com/2025/05/21/politics/south-africa-trump-ramaphosa-reagan-tutu",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-515129236.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-21T22:04:58Z",
+      "content": "CNN —\nThe 40-year arc of US relations with South Africa goes something like this:\n► In 1984, President Ronald Reagan wrote in his diary that Desmond Tutu was “naive” for pressuring him — unsuccessfully — to support sanctions to pressure South Africa ... [7963 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1747865098
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump hosts NCAA basketball champion Florida Gators at the White House",
+      "description": "WASHINGTON (AP) — President Donald Trump honored the 2025 NCAA basketball champion Florida Gators at the White House on Wednesday, proclaiming that “lesser teams would have crumbled” during its nail-biting",
+      "url": "https://www.thestar.com/news/world/united-states/trump-hosts-ncaa-basketball-champion-florida-gators-at-the-white-house/article_8922fd57-75a8-522b-a520-d2528f8da70c.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/19/6195e3e3-7e29-5a35-9a50-a7cd32945fd5/682e50662689b.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-21T22:04:10Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1747865050
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "U.S. Senate resolution introduced to recognize Canada-U.S. partnership",
+      "description": "WASHINGTON - A resolution with bipartisan support was introduced in the United States Senate today to recognize the U.S.-Canada partnership, a relationship badly strained by President Donald Trump's tariffs and",
+      "url": "https://www.thestar.com/politics/u-s-senate-resolution-introduced-to-recognize-canada-u-s-partnership/article_0fb18139-879d-5c6a-9627-bc81611d1cb1.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/af/fafcec13-1b76-42b7-9a04-f4651b8a0df4/681e0fcf959a3.image.jpg?crop=1752%2C920%2C0%2C131&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-05-21T22:01:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1747864860
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Former ambassador calls Trump's missile defence pitch a political blast from the past",
+      "description": "OTTAWA — Frank McKenna felt a sense of déjà vu on Tuesday when U.S. President Donald Trump claimed Canada is interested in buying into his new \"Golden Dome\" missile defence program. Canada's former ambassador to the U.S.",
+      "url": "https://www.vancouverisawesome.com/national-news/former-ambassador-calls-trumps-missile-defence-pitch-a-political-blast-from-the-past-10692197",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/038f1ce4eb7e683862e81fce5125aadf04e54a5d0471f26a1b208c2ac365e5ac.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-21T21:54:21Z",
+      "content": "OTTAWA — Frank McKenna felt a sense of déjà vu on Tuesday when U.S. President Donald Trump claimed Canada is interested in buying into his new \"Golden Dome\" missile defence program. Canada's former ambassador to the U.S.\nOTTAWA — Frank McKenna felt a... [4425 chars]",
+      "tags": [
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1747864461
     }
   ]
 }

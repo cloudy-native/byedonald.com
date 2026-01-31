@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -15,11 +15,8 @@
       "publishedAt": "2025-04-07T23:56:21Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "government_administration",
-        "foreign_policy",
-        "nato",
-        "military",
-        "security_intelligence"
+        "personnel",
+        "government_administration"
       ],
       "publishedAtTs": 1744070181
     },
@@ -38,9 +35,8 @@
       "tags": [
         "legal_justice",
         "government_administration",
-        "economy_finance",
         "policy_legislation",
-        "security_intelligence"
+        "economy_finance"
       ],
       "publishedAtTs": 1744070109
     },
@@ -58,10 +54,9 @@
       "content": "The Trump administration's recent actions have stirred a global storm, beginning with its decision to slash aid for Afghanistan and Yemen—deemed a critical blow to millions dependent on the U.N. World Food Programme. Over a dozen nations, including S... [584 chars]",
       "tags": [
         "foreign_policy",
-        "economy_finance",
-        "policy_legislation",
-        "legal_justice",
-        "security_intelligence"
+        "trade",
+        "immigration",
+        "legal_justice"
       ],
       "publishedAtTs": 1744070094
     },
@@ -78,10 +73,9 @@
       "publishedAt": "2025-04-07T23:49:55Z",
       "content": "While the stock market broadly fared better on Monday than in the prior two trading days, Apple got hammered once again, losing 3.7%, as concerns mounted that the company will take a major hit from President Donald Trump’s tariffs.\nThe sell-off bring... [1246 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market",
         "trade",
-        "taxes"
+        "economy_finance",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744069795
     },
@@ -98,9 +92,9 @@
       "publishedAt": "2025-04-07T23:49:11Z",
       "content": "Politics Will the tariffs lead to a recession? Here’s how to know if we’re in one. Economists at Goldman Sachs have raised their assessment of the odds the US will experience a recession — where the economy shrinks and unemployment rises — to 45%, fr... [7574 chars]",
       "tags": [
+        "tariff_impact_economy",
         "economy_finance",
-        "policy_legislation",
-        "crisis_emergency"
+        "inflation"
       ],
       "publishedAtTs": 1744069751
     },
@@ -119,8 +113,7 @@
       "tags": [
         "legal_justice",
         "immigration",
-        "national_security",
-        "foreign_policy"
+        "security_intelligence"
       ],
       "publishedAtTs": 1744069507
     },
@@ -137,11 +130,8 @@
       "publishedAt": "2025-04-07T23:44:24Z",
       "content": "The Exchange Square Complex, which houses the Hong Kong Stock Exchange, on Feb. 26, 2025.\nAsia-Pacific markets opened higher, rebounding from previous session's losses over U.S. President Donald Trump's tariff policy and threats of even higher levies... [599 chars]",
       "tags": [
-        "trade",
-        "stock_market",
-        "china",
-        "economy_finance",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744069464
     },
@@ -158,9 +148,8 @@
       "publishedAt": "2025-04-07T23:43:43Z",
       "content": "Mr. President, take “yes” for an answer.\nOn Monday, as the fallout from Liberation Day continued to rile markets, the European Union surrendered.\n“We have offered zero-for-zero tariffs for industrial goods,” European Commission President Ursula von d... [3824 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
+        "liberation_day_tariffs",
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1744069423
     },
@@ -178,11 +167,287 @@
       "content": "In an unexpected move, President Donald Trump revealed that the U.S. and Iran are gearing up for discussions concerning Tehran's nuclear program. While Trump stated that talks would commence directly, Iran's Foreign Minister clarified that initial di... [486 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
-        "national_security",
-        "middle_east"
+        "iran"
       ],
       "publishedAtTs": 1744069382
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Domestic funds go on buying spree; FPIs pull out",
+      "description": "Investor wealth of Rs 14 lakh crore wiped out in Trump-triggered sell-off on Black Monday",
+      "url": "https://indianexpress.com/article/business/market/domestic-funds-go-on-buying-spree-fpis-pull-out-9930643/",
+      "urlToImage": "https://images.indianexpress.com/2025/04/FPI.jpg",
+      "publishedAt": "2025-04-07T23:41:40Z",
+      "content": "On a day when the stock market plummeted by nearly three per cent, domestic institutional investors (DIIs) led by insurance companies like LIC and mutual funds were big buyers and accumulated stocks at rock-bottom valuation. DIIs, which are long-term... [3222 chars]",
+      "tags": [
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1744069300
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Joliet, IL Patch"
+      },
+      "author": "Joliet, IL Patch",
+      "title": "'Hands Off' Protestors Line Murrieta, Temecula City Streets Saturday",
+      "description": "'Hands Off' Protestors Line Murrieta, Temecula City Streets Saturday - Murrieta, CA - Hundreds participated in Southwest Riverside County rallies to protest the actions of the Trump administration.",
+      "url": "https://patch.com/california/murrieta/murrieta-hands-protestors-line-city-streets-saturday",
+      "urlToImage": "https://patch.com/img/cdn20/users/22887534/20250407/074052/styles/patch_image/public/8bcb5648-b633-43dc-ba83-e843c2027873___07191731332.jpg",
+      "publishedAt": "2025-04-07T23:40:53Z",
+      "content": "Politics & Government 'Hands Off' Protestors Line Murrieta, Temecula City Streets Saturday Hundreds participated in Southwest Riverside County rallies to protest the actions of the Trump administration.\nHands Off! Protests in Southwest Riverside Coun... [2465 chars]",
+      "tags": [
+        "protests",
+        "social_issues"
+      ],
+      "publishedAtTs": 1744069253
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Senate GOP leaders dismiss bipartisan push to curb Trump tariff power",
+      "description": "GOP leaders’ dismissal of a proposal from Sens. Chuck Grassley (R-IA) and Maria Cantwell (D-WA) to require congressional tariff approval came after a third straight day of plunging stock markets.",
+      "url": "https://www.washingtonexaminer.com/news/senate/3373145/senate-gop-leaders-dismiss-push-curb-trump-tariff-power/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/thune-tariffs.webp",
+      "publishedAt": "2025-04-07T23:40:13Z",
+      "content": "Republican Senate leaders on Monday downplayed the notion that a bipartisan bill to claw back Congress’s authority over tariffs from President Donald Trump would receive serious consideration.\nGOP leaders’ dismissal of a proposal from Sens. Chuck Gra... [2542 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1744069213
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Raw Story",
+      "title": "Supreme Court hands Trump win in effort to deport migrants using controversial 1700s law",
+      "description": "The Supreme Court handed President Donald Trump a win Monday afternoon as it allowed his administration to — for now — use a 1700s-era law to deport migrants it alleges are gang members.The court said Trump's administration can invoke the Alien Enemies Act of 1798, which was part of the Alien and Se...",
+      "url": "https://www.rawstory.com/alien-enemies-act-of-1798/",
+      "urlToImage": "https://www.rawstory.com/media-library/file-photo-a-view-of-the-u-s-supreme-court-in-washington-u-s-june-29-2024-reuters-kevin-mohatt-file-photo.jpg?id=59811740&width=1200&height=600&coordinates=0%2C240%2C0%2C241",
+      "publishedAt": "2025-04-07T23:39:38Z",
+      "content": "The Supreme Court handed President Donald Trump a win Monday afternoon as it allowed his administration to — for now — use a 1700s-era law to deport migrants it alleges are gang members.\nThe court said Trump's administration can invoke the Alien Enem... [1892 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1744069178
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Paramount to begin mediation with President Trump in $20B lawsuit over '60 Minutes' interview: report",
+      "description": "Paramount Global and President Trump will reportedly begin mediation in the coming days in his $20 billion lawsuit over CBS News' \"60 Minutes\" interview with Kamala Harris.",
+      "url": "https://nypost.com/2025/04/07/media/paramount-to-begin-mediation-with-president-trump-in-20b-lawsuit-over-60-minutes-interview-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/60-minutes-election-special-bill-101999660.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-07T23:39:31Z",
+      "content": "Paramount Global and President Trump will reportedly begin mediation in the coming days in his $20 billion lawsuit over CBS News’ “60 Minutes” interview with Kamala Harris.\nThe two sides tapped a mediator for the case in recent days, The New York Tim... [3363 chars]",
+      "tags": [
+        "legal_justice",
+        "campaign_finance"
+      ],
+      "publishedAtTs": 1744069171
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Supreme Court's Controversial Decision on Venezuelan Deportations",
+      "description": "The Supreme Court allowed the Trump administration to deport Venezuelan migrants using an 18th-century law, contingent on a court hearing. The decision sparked division, with liberals dissenting and Justice Barrett partially agreeing. This ruling has intensified the conflict between the White House and federal courts.",
+      "url": "https://www.devdiscourse.com/article/law-order/3338302-supreme-courts-controversial-decision-on-venezuelan-deportations",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_23_37_35_5730513.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-07T23:37:36Z",
+      "content": "The Supreme Court, in a contentious decision on Monday, granted the Trump administration the authority to deport Venezuelan migrants by employing an 18th-century wartime law. However, the court emphasized that these migrants must be provided a hearin... [817 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
+      "publishedAtTs": 1744069056
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "China Uses Ronald Reagan's 1987 Speech to Criticize Trump's Tariffs",
+      "description": "The Chinese Embassy has shared a clip of the iconic Republican criticizing tariffs, saying his words have \"new relevance\" amid Trump's global levies.",
+      "url": "https://www.newsweek.com/china-uses-ronald-reagans-1987-speech-criticize-trumps-tariffs-2056562",
+      "urlToImage": "https://d.newsweek.com/en/full/2622823/former-us-president-ronald-reagan.jpg",
+      "publishedAt": "2025-04-07T23:37:03Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nThe Chinese Embassy has shared a clip of iconic Republican President Ronald Reagan criticizing tariffs, saying the speech pac... [5812 chars]",
+      "tags": [
+        "china",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744069023
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": "KABC-TV",
+      "title": "Supreme Court allows Trump to deport Venezuelans under wartime law, but only after judges' review",
+      "description": "The Supreme Court is allowing Trump to resume deportations of alleged Venezuelan gang members, but said they must be given due process.",
+      "url": "https://abc7.com/post/us-immigration-news-supreme-court-allows-trump-deport-venezuelans-wartime-law-judges-review/16141446/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/16141460_040725-cc-ap-el-salvador-guards-deportees-img.jpg?w=1600",
+      "publishedAt": "2025-04-07T23:36:00Z",
+      "content": "Supreme Court allows Trump to deport Venezuelans under wartime law, but only after judges' review\nThe Supreme Court is allowing Trump to resume deportations of alleged Venezuelan gang members, but said they must be given due process.\nThe Supreme Cour... [1466 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1744068960
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "A Parade in the Making: Military Dreams in Washington",
+      "description": "The Trump administration is considering a military parade in Washington this summer, aligned with the Army's 250th anniversary. Discussions remain early, but the event would coincide with Trump's birthday. Previous plans were halted due to high costs. DC officials express infrastructure concerns should military vehicles be used.",
+      "url": "https://www.devdiscourse.com/article/entertainment/3338301-a-parade-in-the-making-military-dreams-in-washington",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_23_35_19_0346091.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-07T23:35:19Z",
+      "content": "The Trump administration is exploring the possibility of a grand military parade in Washington, a vision harbored by President Donald Trump. The parade is tentatively planned for June 14, aligning with Trump's 79th birthday and the Army's 250th anniv... [723 chars]",
+      "tags": [
+        "government_administration",
+        "military"
+      ],
+      "publishedAtTs": 1744068919
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "CNBC",
+      "title": "What’s likely to move the market",
+      "description": "President Trump's tariffs rattled the market for a third session, with the Dow seeing an intraday swing of 2,595 points. Here's what CNBC is watching Tuesday.",
+      "url": "https://www.cnbc.com/2025/04/07/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108121247-1742951856257-gettyimages-2192425115-_0000594.jpeg?v=1744066732&w=1920&h=1080",
+      "publishedAt": "2025-04-07T23:34:27Z",
+      "content": "Stocks @ Night is a daily newsletter delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox. Here's what CNBC TV's producers were watching as the Dow Industrials saw an... [4126 chars]",
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "trade"
+      ],
+      "publishedAtTs": 1744068867
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WDIV ClickOnDetroit"
+      },
+      "author": "WDIV ClickOnDetroit",
+      "title": "Federal grants to fight child labor worldwide are axed in DOGE cuts",
+      "description": "The Trump administrated has canceled millions of dollars in international grants that a Department of Labor division administered to combat child labor and slave labor around the world.",
+      "url": "https://www.clickondetroit.com/news/politics/2025/04/07/federal-grants-to-fight-child-labor-worldwide-are-axed-in-doge-cuts/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GMXVDX2ITBBWPMHZLUHN7GV4T4.jpg?_a=DATAdtfiZAA0",
+      "publishedAt": "2025-04-07T23:31:43Z",
+      "content": "FILE - A sign stands outside the U.S. Department of Labor's headquarters, May 6, 2020, in Washington. (AP Photo/Patrick Semansky, File)\nNEW YORK – The Trump administrated has canceled millions of dollars in international grants that a Department of L... [5483 chars]",
+      "tags": [
+        "policy_legislation",
+        "labor"
+      ],
+      "publishedAtTs": 1744068703
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Mercury News"
+      },
+      "author": "The Mercury News",
+      "title": "Letters: Protesters misguided in targeting Tesla",
+      "description": "Also: Tenant protections | Senior center | Trump's interest | Healthy aging | Rewriting history. East Bay Times reader letters to the editor for April 8, 2025.",
+      "url": "https://www.mercurynews.com/2025/04/07/letters-protesters-misguided-targeting-tesla/",
+      "urlToImage": "https://www.mercurynews.com/wp-content/uploads/2025/03/SJM-L-RESIST-0330-02.jpg?w=1024&h=683",
+      "publishedAt": "2025-04-07T23:30:03Z",
+      "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nTargeting Tesla is\na misguided action\nActivists who have targeted Tesla vehicles, owners and facilities appear to have drawn inspiration from Saul Alinsky’s concept of “... [4924 chars]",
+      "tags": [
+        "social_issues",
+        "protests"
+      ],
+      "publishedAtTs": 1744068603
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Supreme Court clears Trump to resume swift deportations",
+      "description": "The Supreme Court handed Trump a significant legal victory, allowing him to resume deporting alleged Venezuelan gang members under the Alien Enemies Act.",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/3372959/supreme-court-trump-resume-swift-deportations-alien-enemies-act/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/10/Supreme-Court-.webp",
+      "publishedAt": "2025-04-07T23:28:07Z",
+      "content": "The Supreme Court on Monday handed the Trump administration a significant legal victory, allowing President Donald Trump to resume deporting alleged Venezuelan gang members under a wartime law invoked for the first time in peacetime.\nIn a 5-4 decisio... [2104 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1744068487
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Straits Times"
+      },
+      "author": "The Straits Times",
+      "title": "Trump’s tariffs: What are Singapore’s possible options in responding?",
+      "description": "As a free trade partner, Singapore can rightfully ask for exemption from the unilateral imposition of “baseline” tariffs. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/united-states/trumps-tariffs-what-are-singapores-possible-options-in-responding",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/b5e53339caa9c71cb2591e09d5f19aa15db2f96cf3c354e9ccb43140dda545de",
+      "publishedAt": "2025-04-07T23:27:34Z",
+      "content": "As a free trade partner, Singapore can rightfully ask for exemption from Mr Trump’s unilateral imposition of 10 per cent “baseline” tariff. PHOTO: ST FILE\nWASHINGTON - Singapore has more options than most nations in how it responds to President Donal... [7043 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1744068454
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump administration is having early discussions to hold a military parade in Washington on June 14",
+      "description": "WASHINGTON (AP) — The Trump administration is having early discussions about a grand military parade in Washington this summer, something that is a long-held dream of President Donald Trump.",
+      "url": "https://www.thestar.com/news/world/united-states/trump-administration-is-having-early-discussions-to-hold-a-military-parade-in-washington-on-june/article_05c52aed-dd11-533e-8c18-ebfd54328f8a.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/18/f184faa1-5ec8-5fc5-8b8a-4c474a0c2e2a/67f45ff9340bf.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-07T23:24:54Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "military",
+        "government_administration"
+      ],
+      "publishedAtTs": 1744068294
     }
   ]
 }

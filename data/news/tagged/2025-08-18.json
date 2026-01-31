@@ -674,7 +674,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9a0ccc8c-22c1-4bc7-b07e-1140779a5642/250818_abc_social_oval_office_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-18T21:00:07Z",
       "content": "<ul><li>Trump walks back Russia-Ukraine ceasefire demand\r\n</li><li>Texas Democrats return to state clearing way for new congressional maps\r\n</li><li>Mayor Bowser questions federal presence in Washing… [+4342 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
       "publishedAtTs": 1755550807
     },
     {
@@ -748,7 +751,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7a965a0b-84ae-49cd-be91-8a5fb0f9510c/250818_abc_social_trump_zelenskyy_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-18T21:02:49Z",
       "content": "<ul><li>Trump walks back Russia-Ukraine ceasefire demand\r\n</li><li>Texas Democrats return to state clearing way for new congressional maps\r\n</li><li>Mayor Bowser questions federal presence in Washing… [+4342 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "nato"
+      ],
       "publishedAtTs": 1755550969
     },
     {
@@ -839,7 +846,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg",
       "publishedAt": "2025-08-18T20:37:02Z",
       "content": "Bernd Debusmann JrReporting from the White House\r\nWatch: Key moments from Zelensky-Trump White House talks\r\nUkraine's President Volodymyr Zelensky returned to the White House on Monday to meet US Pre… [+4873 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
       "publishedAtTs": 1755549422
     },
     {
@@ -872,7 +882,10 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/3205fc13c6c468248cb67f1da805d606",
       "publishedAt": "2025-08-18T21:33:34Z",
       "content": "By Trevor Hunnicutt and Gram Slattery\r\nWASHINGTON (Reuters) -U.S. President Donald Trump gathered European leaders and Ukrainian President Volodymyr Zelenskiy for a hastily arranged White House meeti… [+6072 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
       "publishedAtTs": 1755552814
     },
     {

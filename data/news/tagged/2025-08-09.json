@@ -199,7 +199,9 @@
       "urlToImage": "https://compote.slate.com/images/c61b704e-ac4a-4c22-ab02-b76637c75301.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2025-08-09T09:50:00Z",
       "content": "At a contentious meeting in a normally placid suburb, parents erupt in anger, demanding to know just what their childrens teacher has been telling them. The teacher looks shellshocked, young and tiny… [+8974 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1754733000
     },
     {
@@ -232,7 +234,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/60bd8bbc-ea28-4923-9c13-73bb1db0be94/250808_wnt_social_georgia_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-09T15:18:23Z",
       "content": "<ul><li>Trump says face-to-face meeting with Putin set for Aug. 15 in Alaska\r\n</li><li>Emory University Atlanta campus shooting prompts shelter-in-place order\r\n</li><li>Idaho college murders crime sc… [+4488 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues"
+      ],
       "publishedAtTs": 1754752703
     },
     {
@@ -247,7 +251,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/21f9f0ff-986e-48e0-b618-cbae09d5f344/250808_wnt_social_idaho_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-09T15:18:02Z",
       "content": "<ul><li>Trump says face-to-face meeting with Putin set for Aug. 15 in Alaska\r\n</li><li>Emory University Atlanta campus shooting prompts shelter-in-place order\r\n</li><li>Idaho college murders crime sc… [+4488 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1754752682
     },
     {
@@ -262,7 +269,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/211edeba-5ee2-4fa8-ac2b-ee50584ce459/250808_wnt_social_shooting_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-09T15:20:05Z",
       "content": "<ul><li>Trump says face-to-face meeting with Putin set for Aug. 15 in Alaska\r\n</li><li>Emory University Atlanta campus shooting prompts shelter-in-place order\r\n</li><li>Idaho college murders crime sc… [+4488 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1754752805
     },
     {
@@ -277,7 +287,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2741fdeb-3cbb-4fbb-b649-2293dad4eefc/250808_wnt_social_labubu_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-09T15:17:55Z",
       "content": "<ul><li>Trump says face-to-face meeting with Putin set for Aug. 15 in Alaska\r\n</li><li>Emory University Atlanta campus shooting prompts shelter-in-place order\r\n</li><li>Idaho college murders crime sc… [+4488 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1754752675
     },
     {
@@ -665,7 +677,9 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-05-25T181714Z_540407635_UP1EL5P1ESOV1_RTRMADP_3_SOCCER-ENGLAND-LIV-CRY-REPORT-1754738588.jpg?resize=1920%2C1440",
       "publishedAt": "2025-08-09T19:21:32Z",
       "content": "The new Premier League season kicks off on Friday, August 15, when champions Liverpool entertain Bournemouth.\r\nArne Slots Reds will be favourites to lift the trophy once more, but can Arsenal improve… [+9696 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1754767292
     },
     {
@@ -1286,7 +1300,9 @@
       "urlToImage": "https://biztoc.com/cdn/138829120dae3ca0_s.webp",
       "publishedAt": "2025-08-09T13:18:43Z",
       "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump remove IRS commissioner Billy Long? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trump-Putin Al… [+749 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1754745523
     },
     {
@@ -1337,7 +1353,10 @@
       "urlToImage": null,
       "publishedAt": "2025-08-09T11:00:00Z",
       "content": "The world of comedy is in a weird place right now. A distinct strain of gleefully transgressive comics have embraced taboo-busting (read: bigoted) jokes to become arena-packing headliners and podcast… [+1432 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "personal_activities"
+      ],
       "publishedAtTs": 1754737200
     },
     {
@@ -1675,7 +1694,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XJ8ujrbwjqe6OVe7Z3QOhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTI-/https://media.zenfs.com/en/bloomberg_holding_pen_162/bf6e0a8585c2513b90139284cf75838a",
       "publishedAt": "2025-08-09T13:30:00Z",
       "content": "(Bloomberg) -- The global gold market relies on a network of banks, refineries and couriers that can fly bullion between key trading hubs at a moments notice in pursuit of the highest prices. On Frid… [+4373 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
       "publishedAtTs": 1754746200
     },
     {

@@ -670,7 +670,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4488deb3-cb16-4260-829a-8a9cbf241ef1/250902_abc_social_wedding_crasher_heist_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-09-03T00:45:25Z",
       "content": "<ul><li>Cardi B speaks out after being found not liable in civil suit\r\n</li><li>Vladimir Putin, Kim Jong Un, other world leaders gather for military parade in China\r\n</li><li>Texas man accused of cha… [+4484 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1756860325
     },
     {
@@ -799,7 +801,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/_UaG245Pjrbgo65NqDjtCr31-7o=/0x43:2000x1085/1200x625/media/img/mt/2025/09/2025_9_2_FEMA/original.jpg",
       "publishedAt": "2025-09-03T16:36:53Z",
       "content": "Derrick Hiebert had planned to stick it out at FEMA. He was an assistant administrator working on hazard mitigation—he specialized in getting communities prepared for disasters—and like many emergenc… [+11506 chars]",
-      "tags": [],
+      "tags": [
+        "regional_state"
+      ],
       "publishedAtTs": 1756917413
     },
     {
@@ -964,7 +968,11 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/UtPo9woxtSGrYWeY7sYWfG.jpg",
       "publishedAt": "2025-09-03T20:00:12Z",
       "content": "Across the government, Microsoft’s Office software is already a staple. When Trump returned to office, his administration introduced OneGov, a procurement strategy designed to consolidate IT spending… [+4803 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "government_administration",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1756929612
     },
     {
@@ -1312,7 +1320,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68b7fb499e1c-1756887881.jpg?resize=1920%2C1440",
       "publishedAt": "2025-09-03T11:06:10Z",
       "content": "United States President Donald Trump announced on Tuesday that the headquarters of US Space Command, the agency he launched during his first term as president to defend US interests in space, will be… [+7520 chars]",
-      "tags": [],
+      "tags": [
+        "defense_contractor_reform",
+        "department_of_war"
+      ],
       "publishedAtTs": 1756897570
     },
     {

@@ -14,7 +14,10 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258130_Profile_of_Anthropics_7-person_societal_impacts_team_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-12-02T15:16:38Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSpoiler: the nine-person team works for Anthropic.\r\nSpoiler: the nine-person team works for Anthropic.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this auth… [+25297 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "health_science"
+      ],
       "publishedAtTs": 1764688598
     },
     {
@@ -161,7 +164,10 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/government_64.png",
       "publishedAt": "2025-12-02T16:16:00Z",
       "content": "The Trump administration has agreed to inject up to $150 million into a startup(source paywalled; alternative source) trying to develop more advanced semiconductor manufacturing techniques in the U.S… [+1537 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1764692160
     },
     {
@@ -250,7 +256,11 @@
       "urlToImage": "https://i.insider.com/692e6c7f71107c9f34572573?width=1200&format=jpeg",
       "publishedAt": "2025-12-02T05:28:31Z",
       "content": "The US is taking an equity stake in a chip startup led by Intel's former CEO Pat Gelsinger as it tries to reclaim leadership in the semiconductor race.I-HWA CHENG/AFP via Getty Images\r\n<ul><li>The US… [+3311 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "trade"
+      ],
       "publishedAtTs": 1764653311
     },
     {
@@ -1337,7 +1347,10 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/11/Marc-Andreessen-ai-election.jpg?crop=0px%2C67px%2C1800px%2C1014px&resize=1600%2C900",
       "publishedAt": "2025-12-02T15:00:00Z",
       "content": "One week after Donald Trump secured a return to the Oval Office, Marc Andreessen and Ben Horowitz, co-founders of the venture capital firm a16z, recorded a podcast episode gloating about the 2024 pre… [+10832 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1764687600
     },
     {
@@ -1560,7 +1573,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/image-3-1764694563.png?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-12-02T16:57:25Z",
       "content": "Fact Check\r\nVenezuelas Nicolás Maduro reappeared after days of speculation hed fled just as President Trump confirmed a call with him and sent a US carrier to the Caribbeanraising fresh questions abo… [+608 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1764694645
     },
     {
@@ -1594,7 +1611,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/reuters_692f0a23-1764690467.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-02T15:48:17Z",
       "content": "The Trump administration is now determining what the future holds for Ukraine, and by extension for Europe, in matters of territorial integrity, sovereignty and security. Washington aims to make a de… [+7433 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
       "publishedAtTs": 1764690497
     },
     {

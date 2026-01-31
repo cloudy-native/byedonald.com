@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 93,
+  "totalResults": 94,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-06-14T02:46:19Z",
       "content": "Amir Azimi\r\nSome Israeli attacks hit populated areas in Tehran and other places\r\nBeyond Israel's stated goal of destroying what it calls an existential threat from Iran's nuclear capabilities with it… [+5572 chars]",
       "tags": [
-        "middle_east",
-        "international_crisis",
-        "national_security"
+        "foreign_policy",
+        "israel",
+        "iran"
       ],
       "publishedAtTs": 1749869179
     },
@@ -34,10 +34,8 @@
       "publishedAt": "2025-06-14T23:43:21Z",
       "content": "Adrienne Murray\r\nFrench President Emmanuel Macron is visiting Greenland to meet the prime ministers of Greenland and Denmark\r\nIn a sign of Greenland's growing importance, French President Emmanuel Ma… [+5984 chars]",
       "tags": [
-        "europe",
-        "nato",
-        "national_security",
-        "international_organizations"
+        "foreign_policy",
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1749944601
     },
@@ -54,9 +52,7 @@
       "publishedAt": "2025-06-14T09:28:10Z",
       "content": "Jack Fenwick\r\nThe telephone calls and WhatsApp messages continue apace this weekend between leaders, foreign ministers and diplomats, with the expectation that there are many more days to come in thi… [+2660 chars]",
       "tags": [
-        "europe",
-        "international_organizations",
-        "international_crisis"
+        "foreign_policy"
       ],
       "publishedAtTs": 1749893290
     },
@@ -73,9 +69,10 @@
       "publishedAt": "2025-06-14T11:44:43Z",
       "content": "On a normal weekend, MPs might try to snatch a bit of downtime, or squeeze in a game of pin the tail on the donkey at a constituency summer fete. \r\nMinisters might be ploughing through documents in t… [+7672 chars]",
       "tags": [
-        "middle_east",
-        "international_crisis",
-        "foreign_policy"
+        "foreign_policy",
+        "israel",
+        "iran",
+        "crisis_emergency"
       ],
       "publishedAtTs": 1749901483
     },
@@ -92,10 +89,10 @@
       "publishedAt": "2025-06-14T17:01:03Z",
       "content": "Newly captured satellite images reveal extensive damage at one of Iran's most important nuclear facilities after Israeli fighter jets launched significant airstrikes against the site on Friday.\r\nThe … [+3441 chars]",
       "tags": [
-        "middle_east",
-        "arms_control",
-        "national_security",
-        "international_crisis"
+        "foreign_policy",
+        "iran",
+        "nuclear_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1749920463
     },
@@ -112,9 +109,8 @@
       "publishedAt": "2025-06-14T10:00:00Z",
       "content": "About 2,000 \"No Kings\" protestsare planned Saturday in response to the Trump administration's plans to hold alarge-scale military parade this weekend, an event organizer told NPR. \r\nOrganizers are ac… [+2605 chars]",
       "tags": [
-        "civil_rights",
-        "military",
-        "campaign_events"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749895200
     },
@@ -131,9 +127,8 @@
       "publishedAt": "2025-06-14T17:30:07Z",
       "content": "A lot happened this week, and NPR has you covered. Catch up on the big news and culture moments you might have missed.\r\nThe Trump administration deployed thousands of National Guard troops and mobili… [+4063 chars]",
       "tags": [
-        "interviews",
-        "national_security",
-        "military"
+        "media_communications",
+        "social_issues"
       ],
       "publishedAtTs": 1749922207
     },
@@ -151,8 +146,7 @@
       "content": "Political messaging on immigration goes well beyond whether to deport people without legal status.\r\nThere's a big difference, for example, in advocating for stronger border security and booting harde… [+8348 chars]",
       "tags": [
         "immigration",
-        "political_endorsements",
-        "border_security"
+        "elections_politics"
       ],
       "publishedAtTs": 1749891600
     },
@@ -169,10 +163,8 @@
       "publishedAt": "2025-06-14T22:11:55Z",
       "content": "No Kings protests took place across the country from New York City to Atlanta to Los Angeles.\r\nThe 50502 Movement, which stands for 50 states, 50 protests, one movement, said the nationwide protests … [+131 chars]",
       "tags": [
-        "civil_rights",
-        "free_speech",
-        "new_york",
-        "california"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749939115
     },
@@ -189,9 +181,8 @@
       "publishedAt": "2025-06-14T00:00:57Z",
       "content": "Mahmoud Khalil will remain in federal custody after a federal judge accepted the government's shifting explanations for why it is detaining him at an immigration facility in rural Louisiana.\r\nKhalil … [+2366 chars]",
       "tags": [
-        "civil_litigation",
-        "immigration",
-        "federal_agencies"
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1749859257
     },
@@ -208,10 +199,8 @@
       "publishedAt": "2025-06-14T13:48:57Z",
       "content": "National Archives/Department of Defense\r\n<ul><li>The US Army announced Friday that it was forming a new \"Executive Innovation Corps.\"</li><li>It aims to recruit senior tech executives to serve as par… [+2661 chars]",
       "tags": [
-        "military",
-        "personnel",
-        "technology_regulation",
-        "national_security"
+        "government_administration",
+        "personnel"
       ],
       "publishedAtTs": 1749908937
     },
@@ -228,11 +217,10 @@
       "publishedAt": "2025-06-14T19:30:46Z",
       "content": "President Donald Trump's second run as commander in chief of the United States has entered Summer 2025 in a vortex of turbulent times. Questions surrounding the hikes on tariffs that have impacted th… [+5428 chars]",
       "tags": [
-        "stock_market",
-        "trade",
-        "campaign_events",
-        "statements",
-        "political_endorsements"
+        "elections_politics",
+        "polling",
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1749929446
     },
@@ -249,11 +237,28 @@
       "publishedAt": "2025-06-14T17:13:36Z",
       "content": "Hundreds of chanting protesters, carrying signs with phrases like Defend Democracy and No Kings since 1776, rallied across South Florida Saturday, joining nationwide protests against Trump administra… [+2477 chars]",
       "tags": [
-        "campaign_events",
-        "florida",
-        "civil_rights"
+        "protests",
+        "social_issues",
+        "elections_politics"
       ],
       "publishedAtTs": 1749921216
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "The Latest: 'No Kings' protests spread across US as Trump gets military parade",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cda9ec68-8a78-4e27-bdb6-124128a8aff2",
+      "urlToImage": null,
+      "publishedAt": "2025-06-14T12:57:43Z",
+      "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1749905863
     },
     {
       "source": {
@@ -268,9 +273,8 @@
       "publishedAt": "2025-06-14T14:30:00Z",
       "content": "Across the nation today, thousands of protests are being organized by left-wing groups, unions, and other organizations, with chants of No Kings, No Kings, No Kings. The mantra is a calculated campai… [+5539 chars]",
       "tags": [
-        "civil_rights",
-        "political_endorsements",
-        "free_speech"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749911400
     },
@@ -287,8 +291,7 @@
       "publishedAt": "2025-06-14T10:00:00Z",
       "content": "Its easy to dismiss the G-7, a club of wealthy democracies set up in 1975 to coordinate trade and global economic policy. This year's summitheld on June 15-17 in Kananaskis, Canadacomes at a time whe… [+4704 chars]",
       "tags": [
-        "international_organizations",
-        "trade"
+        "foreign_policy"
       ],
       "publishedAtTs": 1749895200
     },
@@ -305,10 +308,8 @@
       "publishedAt": "2025-06-14T16:16:56Z",
       "content": "Two Democratic Minnesota lawmakers have been shot in what Minnesota Gov. Tim Walz referred to as acts of targeted political violence, at their respective homes early Saturday morning.\r\nDemocratic sta… [+7139 chars]",
       "tags": [
-        "criminal_cases",
-        "state_elections",
-        "security_incidents",
-        "civil_rights"
+        "social_issues",
+        "legal_justice"
       ],
       "publishedAtTs": 1749917816
     },
@@ -325,11 +326,8 @@
       "publishedAt": "2025-06-14T09:00:00Z",
       "content": "America feels very different this weekend. While the presidents planned military parade (that just happens to coincide with his birthday) will see tanks and armored vehicles rolling through Washingto… [+1362 chars]",
       "tags": [
-        "doj_actions",
-        "military",
-        "california",
-        "government_operations",
-        "security_incidents"
+        "legal_justice",
+        "government_administration"
       ],
       "publishedAtTs": 1749891600
     },
@@ -346,10 +344,8 @@
       "publishedAt": "2025-06-14T09:00:00Z",
       "content": "America feels very different this weekend. While the presidents planned military parade (that just happens to coincide with his birthday) will see tanks and armored vehicles rolling through Washingto… [+1036 chars]",
       "tags": [
-        "supreme_court",
-        "federal_agencies",
-        "national_security",
-        "government_operations"
+        "legal_justice",
+        "supreme_court"
       ],
       "publishedAtTs": 1749891600
     },
@@ -366,9 +362,8 @@
       "publishedAt": "2025-06-14T10:21:21Z",
       "content": "In June 2024, Army Chief of Staff Gen. Randy George and his aides were at a Virginia military base where the service was putting on one of its live-action shows for kids and families.\r\nThe event -- a… [+5015 chars]",
       "tags": [
-        "military",
-        "government_operations",
-        "personal_business"
+        "elections_politics",
+        "personal_activities"
       ],
       "publishedAtTs": 1749896481
     },
@@ -386,8 +381,8 @@
       "content": "A parade in Washington, D.C., commemorating the 250th anniversary of the armed services and coinciding with the birthday of President Donald Trump, kicked off Saturday with a grand showing of the mil… [+3241 chars]",
       "tags": [
         "military",
-        "campaign_events",
-        "washington_dc"
+        "national_security",
+        "government_administration"
       ],
       "publishedAtTs": 1749944152
     },
@@ -404,8 +399,9 @@
       "publishedAt": "2025-06-14T16:25:14Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "middle_east",
-        "statements"
+        "foreign_policy",
+        "israel",
+        "iran"
       ],
       "publishedAtTs": 1749918314
     },
@@ -422,11 +418,8 @@
       "publishedAt": "2025-06-14T21:33:43Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "campaign_events",
-        "civil_rights",
-        "statements",
-        "press_relations",
-        "national_security"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749936823
     },
@@ -443,9 +436,8 @@
       "publishedAt": "2025-06-14T23:11:38Z",
       "content": "<ul><li>Police move to clear streets in downtown Los Angeles\r\n</li><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>Trump arrives at Grand Military Parade… [+4439 chars]",
       "tags": [
-        "military",
-        "budget",
-        "washington_dc"
+        "security_intelligence",
+        "military"
       ],
       "publishedAtTs": 1749942698
     },
@@ -462,9 +454,7 @@
       "publishedAt": "2025-06-14T23:11:53Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>Trump arrives at Grand Military Parade in DC\r\n</li><li>US Army's Golden Knights parachute over Nation… [+4450 chars]",
       "tags": [
-        "military",
-        "washington_dc",
-        "campaign_events"
+        "military"
       ],
       "publishedAtTs": 1749942713
     },
@@ -481,10 +471,7 @@
       "publishedAt": "2025-06-14T22:19:10Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "middle_east",
-        "criminal_cases",
-        "civil_rights",
-        "international_organizations"
+        "off_topic"
       ],
       "publishedAtTs": 1749939550
     },
@@ -501,7 +488,7 @@
       "publishedAt": "2025-06-14T21:03:59Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "military"
+        "off_topic"
       ],
       "publishedAtTs": 1749935039
     },
@@ -518,9 +505,7 @@
       "publishedAt": "2025-06-14T21:03:03Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "military",
-        "space_policy",
-        "science_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1749934983
     },
@@ -537,9 +522,7 @@
       "publishedAt": "2025-06-14T19:53:01Z",
       "content": "<ul><li>Minnesota officials give an update on targeted shootings of two state lawmakers\r\n</li><li>'No Kings' protests underway across the US\r\n</li><li>Iran launches missiles toward Israel, IDF says\r\n… [+4451 chars]",
       "tags": [
-        "middle_east",
-        "security_incidents",
-        "civil_rights"
+        "off_topic"
       ],
       "publishedAtTs": 1749930781
     },
@@ -556,10 +539,7 @@
       "publishedAt": "2025-06-14T11:30:19Z",
       "content": "[If you want to see how AI handled protest chants against immigration crackdowns, you can check it out here.]\r\nIn the lead-up to nationwide protests against U.S. Immigration and Customs Enforcement (… [+5419 chars]",
       "tags": [
-        "immigration",
-        "technology_regulation",
-        "social_media",
-        "free_speech"
+        "social_issues"
       ],
       "publishedAtTs": 1749900619
     },
@@ -576,9 +556,8 @@
       "publishedAt": "2025-06-14T11:00:00Z",
       "content": "From the beginning, Donald Trump’s approach to deportations has been about both removing people from the country and the spectacle of removing people from the country. If any doubt lingered about the… [+7534 chars]",
       "tags": [
-        "immigration",
-        "media_criticism",
-        "policy_legislation"
+        "mass_deportation_operation",
+        "immigration"
       ],
       "publishedAtTs": 1749898800
     },
@@ -595,10 +574,8 @@
       "publishedAt": "2025-06-14T22:13:00Z",
       "content": "Early this morning, a gunman apparently impersonating a police officer targeted two Democratic Minnesota state lawmakers in their homes. First, he shot State Senator John Hoffman and his wife, who we… [+9385 chars]",
       "tags": [
-        "terrorism",
-        "criminal_cases",
-        "elections_politics",
-        "civil_rights"
+        "social_issues",
+        "protests"
       ],
       "publishedAtTs": 1749939180
     },
@@ -617,8 +594,7 @@
       "tags": [
         "immigration",
         "california",
-        "federal_agencies",
-        "state_elections"
+        "law_enforcement"
       ],
       "publishedAtTs": 1749929732
     },
@@ -635,11 +611,8 @@
       "publishedAt": "2025-06-14T11:18:00Z",
       "content": "Today—250 years since the Continental Army officially formed to fight for the independence of the American colonies against the British monarchy—marks a milestone in President Donald Trump’s effort t… [+8572 chars]",
       "tags": [
-        "national_security",
-        "military",
-        "campaign_events",
-        "government_operations",
-        "washington_dc"
+        "government_administration",
+        "military"
       ],
       "publishedAtTs": 1749899880
     },
@@ -657,9 +630,8 @@
       "content": "Just how mad is Beijing about President Donald Trump’s decision to revoke student visas for Chinese nationals? Not as mad as it says, and not as mad as one might expect. Publicly, China’s leadership … [+6803 chars]",
       "tags": [
         "immigration",
-        "china",
-        "education",
-        "foreign_policy"
+        "foreign_policy",
+        "china"
       ],
       "publishedAtTs": 1749898800
     },
@@ -676,9 +648,8 @@
       "publishedAt": "2025-06-14T15:32:00Z",
       "content": "It’s easy to forget that Robert F. Kennedy Jr.’s assault on vaccines—including, most recently, his gutting of the expert committee that guides American vaccine policy—might have been avoided. Four mo… [+6511 chars]",
       "tags": [
-        "personnel",
-        "public_health",
-        "federal_agencies"
+        "social_issues",
+        "public_health"
       ],
       "publishedAtTs": 1749915120
     },
@@ -695,9 +666,8 @@
       "publishedAt": "2025-06-14T01:38:40Z",
       "content": "Max Matza and Leire VentasReporting from\r\nOxnard, California\r\nThe women crouch down motionless, kneeling between endless rows of fruit bushes, almost hidden from view.\r\n\"Are you from ICE?\" one of the… [+6175 chars]",
       "tags": [
-        "immigration",
-        "agriculture",
-        "california"
+        "mass_deportation_operation",
+        "immigration"
       ],
       "publishedAtTs": 1749865120
     },
@@ -715,7 +685,7 @@
       "content": "On top of all the emotional and logistical challenges of caregiving, it can be a huge financial strain on family members who are typically paid little or nothing for their services. In Georgia, for e… [+1919 chars]",
       "tags": [
         "healthcare",
-        "budget",
+        "labor",
         "social_issues"
       ],
       "publishedAtTs": 1749896162
@@ -734,7 +704,7 @@
       "content": "The wildfire in the Wharton State Forest in Shamong, Burlington County, NJ, has created unhealthy breathing conditions in parts of Bucks, Delaware and Chester counties and Philadelphia. authorities s… [+2151 chars]",
       "tags": [
         "natural_disasters",
-        "public_health"
+        "public_health_emergency"
       ],
       "publishedAtTs": 1749914970
     },
@@ -751,8 +721,7 @@
       "publishedAt": "2025-06-14T10:52:24Z",
       "content": "The Amusement Park for Engineers: An exclusive peek behind the curtain of Anduril’s product engineering machine. (Colossus Review)\r\nThe Pentagon Disinformation That Fueled Americas UFO Mythology: U.S… [+2230 chars]",
       "tags": [
-        "national_security",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1749898344
     },
@@ -769,8 +738,8 @@
       "publishedAt": "2025-06-14T04:30:00Z",
       "content": "During this weeks episode of Overtime, the YouTube show for those poor lost souls who somehow didnt get enough of Bill Mahers opinions on the hour-long Real Time, the host was asked by a viewer for h… [+2213 chars]",
       "tags": [
-        "press_relations",
-        "free_speech"
+        "media_communications",
+        "personal_family"
       ],
       "publishedAtTs": 1749875400
     },
@@ -787,9 +756,7 @@
       "publishedAt": "2025-06-14T19:00:00Z",
       "content": "from the so-it-went dept\r\nFive Years Ago\r\nThis week in 2020, Don Henley was using TikTok as a reason to push for stronger copyright laws, while some Senators were asking the FCC to reinterpret Sectio… [+1655 chars]",
       "tags": [
-        "technology_regulation",
-        "free_speech",
-        "policy_legislation"
+        "off_topic"
       ],
       "publishedAtTs": 1749927600
     },
@@ -806,9 +773,7 @@
       "publishedAt": "2025-06-14T07:45:25Z",
       "content": "Diddy finally gets celeb support with Ye in court, President Trump sets the Marines loose on L.A. in his showdown with Gov. Newsom, and we're mourning OG Beach Boy Brian Wilson. So, we gotta ask ...",
       "tags": [
-        "military",
-        "california",
-        "federal_agencies"
+        "off_topic"
       ],
       "publishedAtTs": 1749887125
     },
@@ -826,10 +791,7 @@
       "content": "The suspect on the run for the shooting death of Minnesota's Democrat State Rep. Melissa Hortman and her husband reportedly wanted to slaughter even more lawmakers.\r\nThe gunman's manifesto was found … [+1240 chars]",
       "tags": [
         "criminal_cases",
-        "security_incidents",
-        "terrorism",
-        "state_elections",
-        "civil_rights"
+        "protests"
       ],
       "publishedAtTs": 1749919710
     },
@@ -846,9 +808,9 @@
       "publishedAt": "2025-06-14T22:21:58Z",
       "content": "Donald Trump's massive military parade -- conveniently placed on his birthday -- has just begun in Washington, D.C. ... and, we've got a stream ready for you to watch all the action!\r\nMore than 6,000… [+1418 chars]",
       "tags": [
+        "security_intelligence",
         "military",
-        "washington_dc",
-        "personal_business"
+        "government_administration"
       ],
       "publishedAtTs": 1749939718
     },
@@ -865,9 +827,8 @@
       "publishedAt": "2025-06-14T23:39:29Z",
       "content": "President Donald Trump earned money in 2024 from a variety of sources, including luxury properties and royalty payments and licensing earnings for the use of his name and likeness last year, and big … [+2515 chars]",
       "tags": [
-        "cryptocurrency",
         "personal_business",
-        "ethics"
+        "economy_finance"
       ],
       "publishedAtTs": 1749944369
     },
@@ -884,9 +845,8 @@
       "publishedAt": "2025-06-14T14:15:40Z",
       "content": "All over America today, it’s No Kings Day, as the people rise up to make the kind of protests none of us thought we’d ever need to make in our lifetimes. It’s a day for defiance, for solidarity, as w… [+8000 chars]",
       "tags": [
-        "social_issues",
-        "free_speech",
-        "media_criticism"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749910540
     },
@@ -903,9 +863,8 @@
       "publishedAt": "2025-06-14T16:00:00Z",
       "content": "“Mid-Century Modern” star Nathan Lane is fully embracing his sitcom’s queerness. Moreover, he feels that it’s a necessity for mainstream television in the current, divisive political era. In an inter… [+2143 chars]",
       "tags": [
-        "lgbtq_rights",
-        "free_speech",
-        "media_criticism"
+        "social_issues",
+        "media_communications"
       ],
       "publishedAtTs": 1749916800
     },
@@ -922,9 +881,8 @@
       "publishedAt": "2025-06-14T19:30:00Z",
       "content": "According to “Jimmy Kimmel Live!” executive producer and head writer Molly McNearney, the ABC series’ first official venture into short form comedy, “The Rabbit Hole,” was partially a matter of real … [+9487 chars]",
       "tags": [
-        "social_media",
-        "technology_regulation",
-        "media_criticism"
+        "media_communications",
+        "social_media"
       ],
       "publishedAtTs": 1749929400
     },
@@ -941,9 +899,9 @@
       "publishedAt": "2025-06-14T09:10:49Z",
       "content": "Americans are taking to the streets on Saturday to protest United States President Donald Trumps policies in thousands of locations across the country.\r\nThe No Kings protests will coincide with a mil… [+7378 chars]",
       "tags": [
-        "civil_rights",
-        "campaign_events",
-        "political_endorsements"
+        "protests",
+        "social_issues",
+        "elections_politics"
       ],
       "publishedAtTs": 1749892249
     },
@@ -960,9 +918,9 @@
       "publishedAt": "2025-06-14T03:29:43Z",
       "content": "Washington, DC  After taking the oath of office for his second term in January, United States President Donald Trump said he would push to stop all wars and leave a legacy of a peacemaker and unifier… [+8475 chars]",
       "tags": [
-        "middle_east",
-        "political_endorsements",
-        "national_security"
+        "foreign_policy",
+        "iran",
+        "trump"
       ],
       "publishedAtTs": 1749871783
     },
@@ -979,9 +937,11 @@
       "publishedAt": "2025-06-14T13:55:01Z",
       "content": "The unfolding Israel-Iran conflict will immensely dominate the upcoming gathering of the leaders of the Group of Seven, not just because of the dangers of further escalation, but also because of the … [+6635 chars]",
       "tags": [
-        "middle_east",
-        "international_organizations",
-        "international_crisis"
+        "foreign_policy",
+        "iran",
+        "israel",
+        "2024_presidential",
+        "trump"
       ],
       "publishedAtTs": 1749909301
     },
@@ -998,9 +958,9 @@
       "publishedAt": "2025-06-14T09:02:40Z",
       "content": "Iran says dialogue over its nuclear programme with the United States is meaningless after Israel launched its biggest-ever military strike against Iran, which Tehran accuses Washington, DC, of suppor… [+2937 chars]",
       "tags": [
-        "middle_east",
-        "arms_control",
-        "international_organizations"
+        "iran",
+        "nuclear_policy",
+        "foreign_policy"
       ],
       "publishedAtTs": 1749891760
     },
@@ -1017,11 +977,10 @@
       "publishedAt": "2025-06-14T17:31:30Z",
       "content": "A massive military parade is set to roll through Washington, DC, as United States President Donald Trump marks his 79th birthday with a contentious show of force that coincides with the US Armys 250t… [+3845 chars]",
       "tags": [
-        "military",
-        "campaign_events",
-        "washington_dc",
-        "national_security",
-        "protests"
+        "security_intelligence",
+        "government_administration",
+        "protests",
+        "military"
       ],
       "publishedAtTs": 1749922290
     },
@@ -1038,9 +997,9 @@
       "publishedAt": "2025-06-14T08:24:31Z",
       "content": "Media outlets amplify Israels narrative about its attack on Iran.Israel has launched an unprovoked assault on Iran, including strikes on nuclear facilities and assassinations of several senior milita… [+1044 chars]",
       "tags": [
-        "middle_east",
-        "media_criticism",
-        "national_security"
+        "foreign_policy",
+        "israel",
+        "iran"
       ],
       "publishedAtTs": 1749889471
     },
@@ -1057,9 +1016,9 @@
       "publishedAt": "2025-06-14T20:47:29Z",
       "content": "Irans official news agency IRNA says Iranian forces are carrying out a hybrid attack with drones accompanying the missiles targeting Israeli cities, with explosions heard in Israeli cities.\r\nIsraels … [+6241 chars]",
       "tags": [
-        "middle_east",
-        "national_security",
-        "international_crisis"
+        "foreign_policy",
+        "iran",
+        "military"
       ],
       "publishedAtTs": 1749934049
     },
@@ -1076,9 +1035,10 @@
       "publishedAt": "2025-06-14T18:22:47Z",
       "content": "World leaders and senior officials have called on both Israel and Iran to walk back from the brink of all-out war as the bitter enemies traded intense attacks for a second day.\r\nPrime Minister Benjam… [+5982 chars]",
       "tags": [
-        "middle_east",
-        "international_crisis",
-        "international_organizations"
+        "foreign_policy",
+        "israel",
+        "iran",
+        "middle_east"
       ],
       "publishedAtTs": 1749925367
     },
@@ -1095,8 +1055,9 @@
       "publishedAt": "2025-06-14T13:44:56Z",
       "content": "Ukraine and Russia have swapped prisoners of war (POWs), the warring sides said, after Moscow also handed over the bodies of 1,200 Ukrainian soldiers to Kyiv.\r\nWe continue to take our people out of R… [+2462 chars]",
       "tags": [
+        "foreign_policy",
         "russia",
-        "international_crisis"
+        "ukraine"
       ],
       "publishedAtTs": 1749908696
     },
@@ -1113,9 +1074,9 @@
       "publishedAt": "2025-06-14T15:16:29Z",
       "content": "Heres where things stand on Saturday, June 14:\r\nFighting\r\n<ul><li>Ukrainian President Volodymyr Zelenskyy said troops halted Russian forces from advancing in the northeastern Sumy region following Mo… [+1875 chars]",
       "tags": [
-        "russia",
-        "national_security",
-        "international_crisis"
+        "foreign_policy",
+        "ukraine",
+        "russia"
       ],
       "publishedAtTs": 1749914189
     },
@@ -1132,11 +1093,10 @@
       "publishedAt": "2025-06-14T17:24:28Z",
       "content": "Iran is considering closing the Strait of Hormuz, Iranian news agency IRINN has reported, citing key conservative lawmaker Esmail Kosari, as the conflict with Israel intensifies.\r\nThe move would send… [+3347 chars]",
       "tags": [
+        "foreign_policy",
+        "iran",
         "middle_east",
-        "energy",
-        "international_crisis",
-        "national_security",
-        "trade"
+        "energy"
       ],
       "publishedAtTs": 1749921868
     },
@@ -1153,9 +1113,7 @@
       "publishedAt": "2025-06-14T16:17:26Z",
       "content": "A top Democratic state leader, and former House speaker, and her husband were shot and killed in Minnesota, and a second lawmaker and his wife were wounded, in what appear to be politically motivated… [+2997 chars]",
       "tags": [
-        "security_incidents",
-        "civil_rights",
-        "state_elections"
+        "protests"
       ],
       "publishedAtTs": 1749917846
     },
@@ -1172,9 +1130,8 @@
       "publishedAt": "2025-06-14T08:20:03Z",
       "content": "A global oceans summit wrapped up Friday with world leaders taking major steps toward marine protection and vowing a showdown when nations meet to negotiate rules for deep-sea mining next month.\r\nBut… [+4859 chars]",
       "tags": [
-        "international_organizations",
         "environment",
-        "arms_control"
+        "foreign_policy"
       ],
       "publishedAtTs": 1749889203
     },
@@ -1191,9 +1148,8 @@
       "publishedAt": "2025-06-14T15:55:38Z",
       "content": "10:57 a.m. - Stores and homes surrounding Edinburgh Golf Course were quiet Saturday morning, with a bevy of different police agencies stationed at the entrance to each of the street that approached R… [+2279 chars]",
       "tags": [
-        "security_incidents",
-        "criminal_cases",
-        "state_elections"
+        "legal_justice",
+        "protests"
       ],
       "publishedAtTs": 1749916538
     },
@@ -1210,10 +1166,9 @@
       "publishedAt": "2025-06-14T15:08:32Z",
       "content": "Israeli strikes left homes and residential buildings destroyed in Tehran, Iran, on June 13, 2025.Photo: SABA/Middle East Images/AFP via Getty\r\nIn the early morning hours of June 13, Israel launched a… [+5232 chars]",
       "tags": [
-        "middle_east",
-        "2028_presidential",
-        "national_security",
-        "political_endorsements"
+        "foreign_policy",
+        "israel",
+        "middle_east"
       ],
       "publishedAtTs": 1749913712
     },
@@ -1230,10 +1185,8 @@
       "publishedAt": "2025-06-14T09:00:00Z",
       "content": "Both candidates for Virginia attorney general in Tuesdays Democratic primary have much in common. Theyve both promised, for instance, to fight against Donald Trump and DOGE, and to protect abortion r… [+7431 chars]",
       "tags": [
-        "state_elections",
-        "campaign_finance",
-        "energy",
-        "doj_actions"
+        "elections_politics",
+        "campaign_finance"
       ],
       "publishedAtTs": 1749891600
     },
@@ -1250,8 +1203,9 @@
       "publishedAt": "2025-06-14T10:30:00Z",
       "content": "What are your rights at a protest? If youre going out to protest the Trump administrations deportation regime, Israels genocide in Gaza, or any other affront to justice, you should know your rights. … [+14455 chars]",
       "tags": [
+        "protests",
         "civil_rights",
-        "immigration"
+        "legal_justice"
       ],
       "publishedAtTs": 1749897000
     },
@@ -1268,11 +1222,9 @@
       "publishedAt": "2025-06-14T09:10:02Z",
       "content": "Like a protagonist in a Greek tragedy, President Donald Trump is exhibiting a concerning level of hubris in his handling of the US economy, former IMF official Desmond Lachman worries.\r\nDespite warni… [+3507 chars]",
       "tags": [
-        "trade",
-        "taxes",
-        "stock_market",
-        "economic_crisis",
-        "international_organizations"
+        "economy_finance",
+        "tariff_impact_economy",
+        "inflation"
       ],
       "publishedAtTs": 1749892202
     },
@@ -1289,10 +1241,9 @@
       "publishedAt": "2025-06-14T20:54:35Z",
       "content": "Demonstrators filled streets and parks across the country on Saturday, taking part in a nationwide day of protests to counter the actions of the Trump administration and the president’s plans for a m… [+3273 chars]",
       "tags": [
-        "social_media",
-        "national_security",
-        "civil_rights",
-        "california"
+        "protests",
+        "social_issues",
+        "elections_politics"
       ],
       "publishedAtTs": 1749934475
     },
@@ -1309,9 +1260,8 @@
       "publishedAt": "2025-06-14T20:53:00Z",
       "content": "Thousands of demonstrators took to New York City's rainy streets on Saturday to protest against the Trump administration's policies.\r\nSaturday's protest comes after marches that took place in the cit… [+2420 chars]",
       "tags": [
-        "civil_rights",
-        "new_york",
-        "statements"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749934380
     },
@@ -1329,8 +1279,8 @@
       "content": "Thousands of soldiers, tanks and fighting vehicles and marching bands were expected at a parade down a five-block stretch of Constitution Avenue for a celebration of the Army’s 250th anniversary.\r\nAt… [+2050 chars]",
       "tags": [
         "military",
-        "washington_dc",
-        "campaign_events"
+        "protests",
+        "government_administration"
       ],
       "publishedAtTs": 1749939108
     },
@@ -1347,10 +1297,9 @@
       "publishedAt": "2025-06-14T21:28:45Z",
       "content": "EXCLUSIVE: Donald Trump’s vainglorious birthday parade masquerading as a celebration of the 250th anniversary of the U.S. Army may get drenched in a rainy DC this Flag Day, but the financial sun is s… [+5389 chars]",
       "tags": [
-        "military",
-        "campaign_events",
-        "washington_dc",
-        "government_operations"
+        "trump",
+        "media_communications",
+        "personal_activities"
       ],
       "publishedAtTs": 1749936525
     },
@@ -1367,9 +1316,7 @@
       "publishedAt": "2025-06-14T17:13:37Z",
       "content": "As another summer in Los Angeles starts heating up, tensions remain high with protests and the aftermath of this year’s wildfires, but at least one constant remains.\r\nCelebrating his 10th year with C… [+2926 chars]",
       "tags": [
-        "natural_disasters",
-        "california",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1749921217
     },
@@ -1386,9 +1333,8 @@
       "publishedAt": "2025-06-14T14:00:00Z",
       "content": "Hours before tanks rumbled into Washington for Donald Trump’s military parade, ground shaking applause erupted in DC for someone who couldn’t be more opposed to everything the president stands for — … [+8414 chars]",
       "tags": [
-        "media_criticism",
-        "press_relations",
-        "campaign_events"
+        "social_issues",
+        "media_communications"
       ],
       "publishedAtTs": 1749909600
     },
@@ -1405,10 +1351,9 @@
       "publishedAt": "2025-06-14T10:00:00Z",
       "content": "Donald Trumps first 100 days in office may have been the longest, figuratively speaking, of any U.S. president in history. But we can also say definitively that they were the most disastrous, ever. H… [+3113 chars]",
       "tags": [
+        "mass_deportation_operation",
         "immigration",
-        "california",
-        "federal_agencies",
-        "civil_rights",
+        "social_issues",
         "elections_politics"
       ],
       "publishedAtTs": 1749895200
@@ -1426,9 +1371,8 @@
       "publishedAt": "2025-06-14T13:12:32Z",
       "content": "Demonstrators crowded into streets, parks and plazas across the U.S. Saturday to rally against President Donald Trump as officials urged calm and mobilized National Guard troops ahead of a military p… [+5775 chars]",
       "tags": [
-        "civil_rights",
-        "military",
-        "national_security"
+        "protests",
+        "trump"
       ],
       "publishedAtTs": 1749906752
     },
@@ -1445,11 +1389,7 @@
       "publishedAt": "2025-06-14T10:55:41Z",
       "content": "The 10,000-mile march through fire that made dinosaurs possible ScienceDaily (Kevin W)\r\nEpisode 25 of Kilauea's ongoing eruption \r\nWith sound!\r\n USGSpic.twitter.com/cIxgio5YDl\r\n— Volcaholic (@volcaho… [+10882 chars]",
       "tags": [
-        "middle_east",
-        "trade",
-        "public_health",
-        "political_endorsements",
-        "science_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1749898541
     },
@@ -1466,10 +1406,8 @@
       "publishedAt": "2025-06-14T06:25:48Z",
       "content": "After implementing significant budget cuts across various federal programs, including eliminating some 83,000 jobs at the Department of Veterans Affairs, 20,000 of which were filled by veterans, Pres… [+5454 chars]",
       "tags": [
-        "veterans_affairs",
-        "military",
-        "political_endorsements",
-        "campaign_events",
+        "government_administration",
+        "personnel",
         "budget"
       ],
       "publishedAtTs": 1749882348
@@ -1487,10 +1425,9 @@
       "publishedAt": "2025-06-14T07:39:25Z",
       "content": "Yves here. We’re heavy in our syndicated material today on the increasingly aggressive actions by the Trump Administration, its minions, and its loyalists against US Constitutional and legislative li… [+8148 chars]",
       "tags": [
-        "congressional_investigations",
-        "civil_rights",
-        "government_operations",
-        "security_incidents"
+        "legal_justice",
+        "elections_politics",
+        "social_issues"
       ],
       "publishedAtTs": 1749886765
     },
@@ -1508,8 +1445,8 @@
       "content": "The march was inescapable along one of the oldest streets in downtown Los Angeles on Saturday. Tens of thousands of people chanted over each other, laid on air horns and sang along with live bands pe… [+3850 chars]",
       "tags": [
         "immigration",
-        "campaign_events",
-        "california"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1749906752
     },
@@ -1526,10 +1463,9 @@
       "publishedAt": "2025-06-14T22:24:58Z",
       "content": "President Donald Trump kicked off an unprecedented military-style parade in Washington, D.C. commemorating the U.S. Armys 250th anniversary and his 79th birthdayas millions across the country took to… [+4772 chars]",
       "tags": [
-        "military",
-        "washington_dc",
-        "civil_rights",
-        "campaign_events"
+        "social_issues",
+        "protests",
+        "military"
       ],
       "publishedAtTs": 1749939898
     },
@@ -1546,11 +1482,10 @@
       "publishedAt": "2025-06-14T14:37:08Z",
       "content": "As President Donald Trump prepares to attend an unprecedented military-style parade in Washington, D.C. later todaycommemorating the U.S. Armys 250th anniversary and his 79th birthdaymillions across … [+3339 chars]",
       "tags": [
-        "military",
-        "campaign_events",
-        "civil_rights",
-        "washington_dc",
-        "security_incidents"
+        "security_intelligence",
+        "protests",
+        "government_administration",
+        "elections_politics"
       ],
       "publishedAtTs": 1749911828
     },
@@ -1567,10 +1502,8 @@
       "publishedAt": "2025-06-14T23:37:22Z",
       "content": "President Donald Trump earned $57.4 million from World Liberty Financial, a crypto company he partially ownsas his administration advances policies aimed at boosting the industryaccording to a financ… [+6006 chars]",
       "tags": [
-        "cryptocurrency",
-        "ethics",
-        "personal_business",
-        "technology_regulation"
+        "economy_finance",
+        "cryptocurrency"
       ],
       "publishedAtTs": 1749944242
     },
@@ -1587,8 +1520,7 @@
       "publishedAt": "2025-06-14T23:15:25Z",
       "content": "President Donald Trump reported earning $3.4 million from Winning Team Publishing, which has published three books drawing heavily on material not created by Trumpincluding publicly available photos … [+4992 chars]",
       "tags": [
-        "personal_business",
-        "ethics"
+        "personal_business"
       ],
       "publishedAtTs": 1749942925
     },
@@ -1605,7 +1537,7 @@
       "publishedAt": "2025-06-14T10:00:00Z",
       "content": "For three successive nights, beginning Monday, June 16, the red planet Mars will be positioned next to the bright blue star Regulus, creating a rare contrast in colors in the night sky.\r\nMars and Reg… [+2851 chars]",
       "tags": [
-        "space_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1749895200
     },
@@ -1622,9 +1554,9 @@
       "publishedAt": "2025-06-14T15:31:19Z",
       "content": "A police officer holds a nonlethal rifle as protesters confront California National Guard soldiers ... More and police outside of a federal building as protests continue in Los Angeles following thre… [+5666 chars]",
       "tags": [
+        "protests",
         "immigration",
-        "civil_rights",
-        "california"
+        "security_intelligence"
       ],
       "publishedAtTs": 1749915079
     },
@@ -1641,11 +1573,8 @@
       "publishedAt": "2025-06-14T13:49:09Z",
       "content": "More than 2,000 National Institutes of Health grants have been terminated as of June 4. They total ... More almost $3.8 billion of lost funding.\r\ngetty\r\nThe termination of National Institutes of Heal… [+3609 chars]",
       "tags": [
-        "medical_research",
-        "science_policy",
-        "budget",
-        "healthcare",
-        "federal_agencies"
+        "health_science",
+        "economy_finance"
       ],
       "publishedAtTs": 1749908949
     },
@@ -1662,10 +1591,8 @@
       "publishedAt": "2025-06-14T12:00:00Z",
       "content": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. speaks alongside President Donald ... More Trump during a press conference in the Roosevelt Room of the White House on May 12, 2025, in … [+2793 chars]",
       "tags": [
-        "cabinet",
         "healthcare",
-        "public_health",
-        "personnel"
+        "policy_legislation"
       ],
       "publishedAtTs": 1749902400
     },
@@ -1683,9 +1610,8 @@
       "content": "In what Gov. Tim Walz has characterized as a politically motivated assassination, Minnesota State Rep. Melissa Hortman and her husband were shot and killed in their home while State Sen. John Hoffman… [+2672 chars]",
       "tags": [
         "criminal_cases",
-        "civil_rights",
-        "security_incidents",
-        "state_elections"
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1749926852
     },
@@ -1703,8 +1629,8 @@
       "content": "It's a new chapter at the IRS.\r\ngetty\r\nThe traditional individual tax filing season ended two months ago (those of us on extension still have a few months to go), but the IRS is still in the news. Mo… [+20020 chars]",
       "tags": [
         "taxes",
-        "federal_agencies",
-        "government_operations"
+        "government_administration",
+        "economy_finance"
       ],
       "publishedAtTs": 1749909600
     },
@@ -1722,9 +1648,7 @@
       "content": "In what Gov. Tim Walz has characterized as a politically motivated assassination, Minnesota State Rep. Melissa Hortman and her husband were shot and killed in their home while State Sen. John Hoffman… [+5543 chars]",
       "tags": [
         "criminal_cases",
-        "federal_agencies",
-        "state_elections",
-        "security_incidents"
+        "law_enforcement"
       ],
       "publishedAtTs": 1749934045
     },
@@ -1742,8 +1666,8 @@
       "content": "In what Gov. Tim Walz has characterized as a politically motivated assassination, Minnesota State Rep. Melissa Hortman and her husband were shot and killed in their home while State Sen. John Hoffman… [+4101 chars]",
       "tags": [
         "criminal_cases",
-        "security_incidents",
-        "state_elections"
+        "elections_politics",
+        "security_intelligence"
       ],
       "publishedAtTs": 1749934045
     },
@@ -1760,9 +1684,8 @@
       "publishedAt": "2025-06-14T13:06:58Z",
       "content": "NYC June 5th- Future of Fatherhood Summit\r\n© Jessica Bal\r\nTheres not that much for the dad to do.\r\nIts a comment that might seem fitting of an era long gone, but for Deborah Singers husband, it was a… [+6758 chars]",
       "tags": [
-        "labor",
-        "family_activities",
-        "healthcare"
+        "social_issues",
+        "labor"
       ],
       "publishedAtTs": 1749906418
     },
@@ -1779,10 +1702,10 @@
       "publishedAt": "2025-06-14T20:43:29Z",
       "content": "A member of the Iranian armed forces conducts an army orchestra as a truck carries a missile during ... More a military parade as part of a ceremony marking the country's annual army day in Tehran on… [+7422 chars]",
       "tags": [
-        "middle_east",
-        "arms_control",
-        "national_security",
-        "international_crisis"
+        "iran",
+        "nuclear_policy",
+        "israel",
+        "defense_contractor_reform"
       ],
       "publishedAtTs": 1749933809
     },
@@ -1799,6 +1722,7 @@
       "publishedAt": "2025-06-14T13:00:00Z",
       "content": "These five companies have strong competitive positions and compelling growth prospects.\r\ngetty\r\nThe stock market's remarkable recovery from earlier 2025 volatility has investors questioning whether i… [+10581 chars]",
       "tags": [
+        "economy_finance",
         "stock_market"
       ],
       "publishedAtTs": 1749906000

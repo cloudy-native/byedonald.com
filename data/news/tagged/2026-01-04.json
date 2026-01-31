@@ -14,7 +14,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b03/live/7bd23bb0-e97b-11f0-8858-73f2ecc1c262.jpg",
       "publishedAt": "2026-01-04T15:14:35Z",
       "content": "Jeremy BowenInternational editor\r\nTrump's action in Venezuela may point to months of global turbulence\r\nWith the seizure of Venezuelan leader Nicolás Maduro, Donald Trump has demonstrated more powerf… [+8838 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1767539675
     },
     {
@@ -31,6 +34,8 @@
       "content": "Leaders around the world have responded with a mix of condemnation and support to the US capture of Venezuela's President Nicolás Maduro. \r\nFollowing a large-scale strike on Venezuela on Saturday, Ma… [+4626 chars]",
       "tags": [
         "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence",
         "international_crisis"
       ],
       "publishedAtTs": 1767493651
@@ -47,7 +52,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2160x1215+0+225/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F77%2F5f972ea9484ebd1cd2196d3c51ea%2Fgettyimages-51418825.jpg",
       "publishedAt": "2026-01-04T10:00:00Z",
       "content": "Hours after the U.S. military captured Venezuelan president Nicolás Maduro, President Trump made it clear that the U.S. operation is about at least in part control of Venezuela's oil.\r\n\"We're going t… [+6303 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "energy",
+        "trade"
+      ],
       "publishedAtTs": 1767520800
     },
     {
@@ -64,7 +74,8 @@
       "content": "CARACAS, Venezuela Venezuelans on Saturday scrambled to understand who was in charge of their country after the U.S. military captured President Nicolás Maduro, ousting the strongman who had outlaste… [+7321 chars]",
       "tags": [
         "foreign_policy",
-        "crisis_emergency"
+        "venezuela_intervention",
+        "government_administration"
       ],
       "publishedAtTs": 1767503981
     },
@@ -80,7 +91,12 @@
       "urlToImage": "https://apps.npr.org/jan-6-archive/assets/synced/images/resized/j6_promo-min.png",
       "publishedAt": "2026-01-04T10:00:00Z",
       "content": "While Trump initially condemned the Jan. 6 attack, he soon began embracing the rioters, describing them as political prisoners and hostages.\r\nWhen Trump won the 2024 election, his transition team did… [+1815 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "elections_politics",
+        "government_administration"
+      ],
       "publishedAtTs": 1767520800
     },
     {
@@ -95,7 +111,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5813x3270+0+303/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Fcc%2F0b814f7346ce921c7359d9e36920%2Fap26003722366805.jpg",
       "publishedAt": "2026-01-04T15:56:27Z",
       "content": "President Trump's move to depose Venezuelan President Nicolás Maduro has drawn praise inside the United States, especially from Republican leaders. But the invasion also faces significant skepticism,… [+6137 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "elections_politics",
+        "congress"
+      ],
       "publishedAtTs": 1767542187
     },
     {
@@ -125,7 +146,11 @@
       "urlToImage": "https://i.insider.com/695aa6ed04eda4732f2e6f3e?width=1200&format=jpeg",
       "publishedAt": "2026-01-04T19:09:38Z",
       "content": "A view of the \"El Palito\" oil refinery in Puerto Cabello, Venezuela.Jesus Vargas/Getty Images\r\n<ul><li>The US captured Venezuelan President Nicolás Maduro in a surprise raid on Saturday.</li><li>In a… [+1585 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "energy"
+      ],
       "publishedAtTs": 1767553778
     },
     {
@@ -142,8 +167,8 @@
       "content": "US forces captured Venezuela's leader overnight, and President Donald Trump said he was seeking access to the country's oilfields.AFP\r\n<ul><li>The US military has experience with oil infrastructure, … [+5114 chars]",
       "tags": [
         "foreign_policy",
-        "military",
-        "energy"
+        "venezuela_intervention",
+        "military"
       ],
       "publishedAtTs": 1767526081
     },
@@ -159,7 +184,11 @@
       "urlToImage": "https://i.insider.com/695aac6904eda4732f2e6f58?width=1200&format=jpeg",
       "publishedAt": "2026-01-04T18:29:44Z",
       "content": "The US Army has several special operations forces. Delta Force is among its most elite.US Army\r\n<ul><li>A US operation infiltrated the home of Venezuela's president and captured him and his wife.</li… [+5800 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "venezuela_intervention",
+        "military"
+      ],
       "publishedAtTs": 1767551384
     },
     {
@@ -174,10 +203,7 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/byTrGPE.c8wwIhXCieNyAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA7Y2Y9d2VicA--/https://media.zenfs.com/en/the_telegraph_818/f289ccaccf142e49b1de923247fef738",
       "publishedAt": "2026-01-04T19:37:06Z",
       "content": "Donald Trump has signalled that Greenland is in his sights after capturing Nicolas Maduro, the Venezuelan dictator, and taking him to the US to face trial.\r\nWe do need Greenland, absolutely, the US p… [+8313 chars]",
-      "tags": [
-        "foreign_policy",
-        "trump"
-      ],
+      "tags": [],
       "publishedAtTs": 1767555426
     },
     {
@@ -192,7 +218,11 @@
       "urlToImage": "https://media.zenfs.com/en/theguardian_763/217f3765e058746e60d8e12b9773bb59",
       "publishedAt": "2026-01-04T13:00:06Z",
       "content": "Canadian officials and public health experts are warning that US health and science institutions can no longer be depended upon for accurate information, particularly when it comes to vaccinations, a… [+4178 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "public_health",
+        "media_communications"
+      ],
       "publishedAtTs": 1767531606
     },
     {
@@ -226,8 +256,8 @@
       "publishedAt": "2026-01-04T02:16:29Z",
       "content": "President Donald Trump is taking a victory lap on social media following his surprise attack on Venezuela.\r\nOn Saturday evening, following a wild early-morning military operation in which the U.S. ab… [+3693 chars]",
       "tags": [
-        "elections_politics",
         "foreign_policy",
+        "venezuela_intervention",
         "media_communications"
       ],
       "publishedAtTs": 1767492989
@@ -247,8 +277,7 @@
       "tags": [
         "elections_politics",
         "republican_party",
-        "personal_family",
-        "regional_state"
+        "personal_activities"
       ],
       "publishedAtTs": 1767503487
     },
@@ -281,7 +310,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2YNV58rryUBvvQNvKid0CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTM7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7da97e5789ce98d86fea92ecdd5b608a",
       "publishedAt": "2026-01-04T05:43:16Z",
       "content": "DUBAI, United Arab Emirates (AP) Widening protests in Iran sparked by the Islamic Republic's ailing economy are putting new pressure on its theocracy.\r\nTehran is still reeling from a 12-day war launc… [+6131 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "iran",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767505396
     },
     {
@@ -298,8 +331,8 @@
       "content": "Secretary of State Marco Rubio said Sunday that the Trump administration is \"pretty certain\" that Western oil companies will be willing to return to Venezuela -- but wouldn't say if U.S. troops would… [+2466 chars]",
       "tags": [
         "foreign_policy",
-        "energy",
-        "trade"
+        "venezuela_intervention",
+        "energy"
       ],
       "publishedAtTs": 1767549674
     },
@@ -317,8 +350,9 @@
       "content": "<ul><li>Trump didn't rule out US military boots on the ground in Venezuela\r\n</li><li>Trump announces US will run Venezuela until judicious transition\r\n</li><li>Flu activity rising as new variant spre… [+4324 chars]",
       "tags": [
         "foreign_policy",
-        "crisis_emergency",
-        "international_crisis"
+        "venezuela_intervention",
+        "regional_state",
+        "florida"
       ],
       "publishedAtTs": 1767561047
     },
@@ -335,9 +369,9 @@
       "publishedAt": "2026-01-04T21:09:34Z",
       "content": "<ul><li>Trump didn't rule out US military boots on the ground in Venezuela\r\n</li><li>Trump announces US will run Venezuela until judicious transition\r\n</li><li>Flu activity rising as new variant spre… [+4324 chars]",
       "tags": [
-        "law_enforcement",
-        "regional_state",
-        "new_york"
+        "security_intelligence",
+        "foreign_policy",
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767560974
     },
@@ -354,6 +388,7 @@
       "publishedAt": "2026-01-04T14:54:44Z",
       "content": "<ul><li>Rubio: Maduro ouster is not about securing the oil fields\r\n</li><li>There is no authority for US to enter Venezuela and oust Maduro: Schumer\r\n</li><li>A look into the military operation to ca… [+4346 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
         "military"
       ],
@@ -372,6 +407,7 @@
       "publishedAt": "2026-01-04T14:54:20Z",
       "content": "<ul><li>Rubio: Maduro ouster is not about securing the oil fields\r\n</li><li>There is no authority for US to enter Venezuela and oust Maduro: Schumer\r\n</li><li>A look into the military operation to ca… [+4346 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
         "crisis_emergency"
       ],
@@ -390,7 +426,8 @@
       "publishedAt": "2026-01-04T15:23:56Z",
       "content": "Secretary of State Marco Rubio said Sunday the U.S. was in charge of the direction of the situation in Venezuela after U.S. forces arrested and deposed Venezuelan President Nicolás Maduro early Satur… [+3065 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767540236
     },
@@ -408,7 +445,7 @@
       "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here.\r\nIn a telephone interview this morning, President Donald Trump issued a not-so-veiled threat against the new … [+4517 chars]",
       "tags": [
         "foreign_policy",
-        "trump"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767546060
     },
@@ -426,8 +463,7 @@
       "content": "American forces’ surgical capture of Venezuelan President Nicolás Maduro and his wife, Cilia Flores, carried out in a daring raid shortly after 1 a.m. local time today, had been planned and rehearsed… [+15975 chars]",
       "tags": [
         "foreign_policy",
-        "security_intelligence",
-        "military"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767495812
     },
@@ -443,7 +479,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/WEfDUtJ8iFjlZcNdLejrSt4TYdk=/0x0:2000x1042/1200x625/media/img/mt/2026/01/2026_1_4_Trump/original.png",
       "publishedAt": "2026-01-04T14:28:38Z",
       "content": "Nicolás Maduro and his wife awoke yesterday in a safe house on a heavily fortified military base in the center of Caracas. Courtesy of a brilliant, audacious U.S. military operation, the two ended th… [+4550 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767536918
     },
     {
@@ -459,8 +499,8 @@
       "publishedAt": "2026-01-04T10:02:47Z",
       "content": "The composer of the musical Wicked has said he will not appear at the Kennedy Center after its board voted toinclude US President Donald Trump's name in the name of the venue.\r\nStephen Schwartz said … [+3404 chars]",
       "tags": [
-        "social_issues",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1767520967
     },
@@ -476,7 +516,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bdc3/live/490a4e60-e990-11f0-aae2-2191c0e48a3b.jpg",
       "publishedAt": "2026-01-04T18:05:10Z",
       "content": "BBC Visual Journalism team\r\nThe US says its military operation to capture Venezuela's president took months of planning, but when Donald Trump gave the order was given to launch, \"Operation Absolute … [+4223 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1767549910
     },
     {
@@ -492,9 +535,9 @@
       "publishedAt": "2026-01-04T01:23:56Z",
       "content": "As the dust settles in Caracas, Venezuelans are reacting to the news of President Nicolás Maduro's capture by the US with hope, fear, and uncertainty. \r\nPeople began to emerge in the streets Saturday… [+4262 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
-        "crisis_emergency",
-        "international_crisis"
+        "crisis_emergency"
       ],
       "publishedAtTs": 1767489836
     },
@@ -510,7 +553,9 @@
       "urlToImage": "https://static.philippdubach.com/ograph/ograph-nike-crisis.jpg",
       "publishedAt": "2026-01-04T13:45:42Z",
       "content": "What it sounds like is that the CEO has the wrong people making the wrong decisions across the strongest brand or one of the strongest brands in consumer history.\r\nThis quote by Scott Galloway on his… [+9267 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance"
+      ],
       "publishedAtTs": 1767534342
     },
     {
@@ -525,7 +570,11 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!pGnM!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftracyshuchart.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-991473112%26version%3D9",
       "publishedAt": "2026-01-04T11:28:16Z",
       "content": "Understanding the Decision Architecture\r\nBefore examining the strategic calculus behind the January 3, 2026 military operation in Venezuela, it is essential to understand who actually makes decisions… [+26171 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "energy"
+      ],
       "publishedAtTs": 1767526096
     },
     {
@@ -540,7 +589,10 @@
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSOEfPqLfK5MBi6v2-z8hvNZydtAzf7ohFKKSEDcJtSgjxCyQoFsJNdKDPTqF1ls_be9dFHJ1xFtsmYSkDiep9MkN-Goj_af7ePZ-k-kiJjZDQZ82f9wZh85g0_ma_ECjJj8pVQhuB_d9yPUMkE25omeTQa_CK0919RkLZi_Pl6TKIzhT76_uw/w1200-h630-p-k-no-nu/Image%201-3-26%20at%204.00%E2%80%AFPM.jpeg",
       "publishedAt": "2026-01-04T13:12:00Z",
       "content": "by Calculated Risk on 1/04/2026 08:12:00 AM\r\nHere is another update on lumber prices.\r\nNOTE: The CME group discontinued the Random Length Lumber Futures contract on May 16, 2023.  I switched to a phy… [+986 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1767532320
     },
     {
@@ -557,8 +609,9 @@
       "content": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures: Partying at Mar-a-Lago with the New MAGA Media Stars: While major news outlets obsessed over the anticipated r… [+3567 chars]",
       "tags": [
         "personal_family",
-        "elections_politics",
-        "media_communications"
+        "media_communications",
+        "social_issues",
+        "elections_politics"
       ],
       "publishedAtTs": 1767526257
     },
@@ -593,7 +646,7 @@
       "content": "President Trump and Elon Musk have repaired their broken relationship ... the two giants were seen together at a Saturday night dinner in Mar-a-Lago.\r\nDonald Trump and Elon Musk enjoyed a lavish dinn… [+1548 chars]",
       "tags": [
         "personal_family",
-        "florida"
+        "family_activities"
       ],
       "publishedAtTs": 1767532312
     },
@@ -610,9 +663,9 @@
       "publishedAt": "2026-01-04T02:17:36Z",
       "content": "Nicolas Maduro's gone from president in Venezuela to prisoner in the United States ... and, we've got the first clear images of him in federal custody.\r\nTMZ has obtained two videos of the deposed Lat… [+1328 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
-        "legal_justice",
-        "security_intelligence"
+        "legal_justice"
       ],
       "publishedAtTs": 1767493056
     },
@@ -630,7 +683,7 @@
       "content": "NewsFeed\r\nPresident Donald Trump says the US will take back Venezuelas oil, arguing it should be used to reimburse Washington for past spending. According to Trump, the US will run Venezuela after ha… [+62 chars]",
       "tags": [
         "foreign_policy",
-        "energy"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767507623
     },
@@ -646,7 +699,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1767519186.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-04T09:33:56Z",
       "content": "NewsFeed\r\nProtesters have rallied worldwide after Donald Trump announced the US would run Venezuela following the abduction of President Nicolas Maduro and his wife. Demonstrators from Paris to Sao P… [+64 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "protests"
+      ],
       "publishedAtTs": 1767519236
     },
     {
@@ -663,6 +720,7 @@
       "content": "For weeks, United States President Donald Trump and his officials said the rhetoric and military posturing against Venezuela was aimed at countering the flow of narcotics.\r\nBut abundant evidence, inc… [+7326 chars]",
       "tags": [
         "foreign_policy",
+        "venezuela_intervention",
         "energy"
       ],
       "publishedAtTs": 1767556156
@@ -679,7 +737,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_695aca79ddb8-1767557753.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-04T21:56:14Z",
       "content": "Venezuelas Defence Minister Vladimir Padrino Lopez has denounced the United States move to abduct leader Nicolas Maduro as a cowardly kidnapping, adding that some of the presidents bodyguards were ki… [+6236 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767563774
     },
     {
@@ -695,7 +756,8 @@
       "publishedAt": "2026-01-04T07:06:15Z",
       "content": "NewsFeed\r\nUS President Donald Trump says Venezuelas opposition leader Maria Corina Machado lacks the support and respect to run the country, after announcing the US will run Venezuela following its a… [+125 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767510375
     },
@@ -711,7 +773,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-04T005259Z_1155150438_RC20UIAN2CIF_RTRMADP_3_USA-VENEZUELA-1767492771.jpg?resize=1200%2C630",
       "publishedAt": "2026-01-04T03:12:13Z",
       "content": "Since coming down the escalator in 2015 to announce his first presidential run, Donald Trump has presented himself as a break from the traditional hawkish foreign policy in the United States.\r\nThe US… [+6430 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "elections_politics",
+        "republican_party"
+      ],
       "publishedAtTs": 1767496333
     },
     {
@@ -728,7 +795,8 @@
       "content": "United States President Donald Trump said that a US military assault succeeded in capturing Venezuelan President Nicolas Maduro and his wife, Cilia Flores, both facing US charges related to cocaine t… [+8256 chars]",
       "tags": [
         "foreign_policy",
-        "trump"
+        "venezuela_intervention",
+        "media_communications"
       ],
       "publishedAtTs": 1767496151
     },
@@ -745,8 +813,9 @@
       "publishedAt": "2026-01-04T22:50:06Z",
       "content": "Denmarks prime minister, Mette Frederiksen, has urged US President Donald Trump to stop threatening to take over Greenland, after the latter reiterated his wish to do so following Washingtons abducti… [+2605 chars]",
       "tags": [
+        "greenland_acquisition",
         "foreign_policy",
-        "trump"
+        "russia"
       ],
       "publishedAtTs": 1767567006
     },
@@ -793,8 +862,9 @@
       "publishedAt": "2026-01-04T13:26:37Z",
       "content": "NewsFeed\r\nThe image of abducted Venezuelan President Nicolas Maduro bound and blindfolded aboard the USS Iwo Jima posted by Donald Trump prompted shock and condemnation.",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
-        "media_communications"
+        "security_intelligence"
       ],
       "publishedAtTs": 1767533197
     },
@@ -812,6 +882,8 @@
       "content": "In a move that stunned the world, the United States bombed Venezuela and toppled President Nicolas Maduro amid condemnation and plaudits.\r\nIn a news conference on Saturday at his Mar-a-Lago resort in… [+5783 chars]",
       "tags": [
         "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence",
         "military"
       ],
       "publishedAtTs": 1767519159
@@ -828,7 +900,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_695a442c032c-1767523372.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-04T12:21:08Z",
       "content": "A brief power vacuum had emerged in Venezuela in the sudden chaos and confusion after the abduction of President Nicolas Maduro by the United States.\r\nBut shortly after the US military rained strikes… [+4538 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy",
+        "russia"
+      ],
       "publishedAtTs": 1767529268
     },
     {
@@ -844,8 +920,8 @@
       "publishedAt": "2026-01-04T14:34:14Z",
       "content": "Gunmen have raided a village in northern Nigerias Niger state, killing at least 30 villagers and abducting others, in what marks the latest deadly attack in the conflict-hit region.\r\nOver 30 victims … [+2243 chars]",
       "tags": [
-        "security_incidents",
-        "regional_state"
+        "terrorism",
+        "security_intelligence"
       ],
       "publishedAtTs": 1767537254
     },
@@ -862,8 +938,9 @@
       "publishedAt": "2026-01-04T14:00:58Z",
       "content": "Nicolas Maduro, 63, kept an iron grip on power for over a decade in Venezuela.\r\nIt ended abruptly on Saturday, January 3, when United States forces abducted him and his wife, First Lady Cilia Flores,… [+6089 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
-        "security_intelligence"
+        "russia"
       ],
       "publishedAtTs": 1767535258
     },
@@ -879,7 +956,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26003754967895-1767481078.jpg?resize=1200%2C675",
       "publishedAt": "2026-01-04T01:21:38Z",
       "content": "Sao Paulo, Brazil Venezuela has temporarily closed its border with Brazil following the United Statess early morning attack on Caracas, in which US forces also captured President Nicolas Maduro and h… [+3809 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "crisis_emergency"
+      ],
       "publishedAtTs": 1767489698
     },
     {
@@ -897,7 +978,6 @@
       "tags": [
         "russia",
         "ukraine",
-        "military",
         "foreign_policy"
       ],
       "publishedAtTs": 1767509737
@@ -915,6 +995,7 @@
       "publishedAt": "2026-01-04T20:43:47Z",
       "content": "It was his 26th birthday, so Wilmer Castro was not surprised by the flurry of messages that lit up his phone.\r\nHowever, as he began scrolling on Saturday morning, he realised the messages were not bi… [+7523 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
         "crisis_emergency"
       ],
@@ -934,7 +1015,9 @@
       "content": "China has called on the United States to immediately release Venezuelan President Nicolas Maduro after Washington carried out massive military strikes on the capital, Caracas, as well as other region… [+4144 chars]",
       "tags": [
         "china",
-        "foreign_policy"
+        "foreign_policy",
+        "venezuela_intervention",
+        "military"
       ],
       "publishedAtTs": 1767520529
     },
@@ -950,7 +1033,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/873A0165-1766925535.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-04T07:10:03Z",
       "content": "Gaza City- Crammed in a tiny tent at a United Nations-run school in central Gaza City, Alaa Alzanin, along with his wife, five children, his 71-year-old mother and younger sister, are taking shelter … [+7255 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "economy_finance",
+        "public_health_emergency"
+      ],
       "publishedAtTs": 1767510603
     },
     {
@@ -965,7 +1053,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/12/AP25342534485210-1767097995.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-04T07:18:48Z",
       "content": "Syria is still facing numerous challenges a year after the toppling of Bashar al-Assads regime. Among the key priorities for the new government is rebuilding its national army and security forces.\r\nF… [+10136 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "military"
+      ],
       "publishedAtTs": 1767511128
     },
     {
@@ -981,7 +1073,8 @@
       "publishedAt": "2026-01-04T17:28:37Z",
       "content": "Secretary of State Marco Rubio did not rule out that the Cuban communist government could become the Trump administration's next target, a day after Venezuelan dictator Nicolas Maduro's arrest.\r\nDuri… [+3306 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1767547717
     },
@@ -1013,7 +1106,9 @@
       "publishedAt": "2026-01-04T11:10:37Z",
       "content": "The Trump administration's strikes on Venezuela and capture of President Nicolas Maduro represent a major victory for foreign policy hawks in President Donald Trumps Cabinet, including Secretary of S… [+8430 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "venezuela_intervention",
+        "government_administration"
       ],
       "publishedAtTs": 1767525037
     },
@@ -1061,7 +1156,7 @@
       "content": "The New York Times and Washington Post learned of a secret US raid on Venezuela soon before it was scheduled to begin Friday night  but held off publishing what they knew to avoid endangering US troo… [+1554 chars]",
       "tags": [
         "foreign_policy",
-        "security_intelligence"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1767538716
     },
@@ -1078,8 +1173,7 @@
       "publishedAt": "2026-01-04T14:58:37Z",
       "content": "The Danish ambassador to the U.S. has urged Washington to \"respect\" Denmark's territory after a prominent MAGA figure revived the long-running tensions between the two NATO members over Greenland.\r\nK… [+4555 chars]",
       "tags": [
-        "foreign_policy",
-        "nato"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1767538717
     },
@@ -1095,7 +1189,11 @@
       "urlToImage": "https://cdn.abcotvs.com/dip/images/18350318_183b10cc-7729-455f-9ed8-d8cef20947de.jpg?w=1600",
       "publishedAt": "2026-01-04T13:43:36Z",
       "content": "CARACAS, Venezuela -- President Donald Trump's plan to take control of Venezuela's oil industry and ask American companies to revitalize it after capturing President Nicolás Maduro in a raid isn't li… [+5986 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "energy",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767534216
     },
     {
@@ -1110,7 +1208,11 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2026/01/GettyImages-2253840880-e1767551185649.jpg?fit=2100%2C1050&w=1200&h=800",
       "publishedAt": "2026-01-04T19:28:07Z",
       "content": "Fire at Fuerte Tiuna, Venezuelas largest military complex, is seen from a distance after a series of explosions in Caracas on Jan. 3, 2026. Photo: AFP via Getty Images\r\nWhat would Donald Trump have t… [+10616 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "media_communications"
+      ],
       "publishedAtTs": 1767554887
     },
     {
@@ -1143,10 +1245,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/Screenshot-2026-01-04-at-2.37.14 PM.png?w=830",
       "publishedAt": "2026-01-04T22:40:42Z",
       "content": "CBS News‘ 60 Minutesis airing a new segment on Venezuelan leader Nicolás Maduro after his capture and detainment by the United States government. With the change, the report will take over a previous… [+2740 chars]",
-      "tags": [
-        "foreign_policy",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1767566442
     },
     {
@@ -1161,10 +1260,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/dicaprio.jpg?w=1024",
       "publishedAt": "2026-01-04T02:13:32Z",
       "content": "Leonardo DiCaprio, who is set to receive the 2026 Palm Springs Film Festival‘s Actor counterpart of the Desert Palm Achievement Award for his turn in Paul Thomas Anderson’s One Battle After Another, … [+2913 chars]",
-      "tags": [
-        "personal_family",
-        "travel"
-      ],
+      "tags": [],
       "publishedAtTs": 1767492812
     },
     {
@@ -1179,10 +1275,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/01/JFK-and-Jackie-515512700.jpg",
       "publishedAt": "2026-01-04T14:00:39Z",
       "content": "Its yet another cruel moment in a cruel presidency: Mere hours after Tatiana Schlossberg   daughter of former Ambassador to Australia and Japan Caroline Kennedy, granddaughter of President John F. Ke… [+16071 chars]",
-      "tags": [
-        "elections_politics",
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1767535239
     },
     {
@@ -1197,10 +1290,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2020/02/james-carville-0210201.jpg",
       "publishedAt": "2026-01-04T16:08:30Z",
       "content": "James Carville thinks the pundit class are trying too hard to make sense of President Donald Trumps stunning strike on Venezuela. The former Democratic Party strategist said the entire operation was … [+1857 chars]",
-      "tags": [
-        "elections_politics",
-        "foreign_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767542910
     },
     {
@@ -1215,10 +1305,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/01/GettyImages-2250625257.jpg",
       "publishedAt": "2026-01-04T20:25:34Z",
       "content": "A social media post by Katie Miller, a senior aide in the Trump administration and the wife of longtime Trump adviser and current Deputy Chief of Staff Stephen Miller, sparked international reaction … [+2343 chars]",
-      "tags": [
-        "foreign_policy",
-        "trump"
-      ],
+      "tags": [],
       "publishedAtTs": 1767558334
     },
     {
@@ -1233,10 +1320,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/01/GettyImages-2253615246.jpg",
       "publishedAt": "2026-01-04T17:47:36Z",
       "content": "At his MaraLago club in Palm Beach, Florida, President Donald Trump rang in the New Year by auctioning off a livepainted portrait of Jesus Christ that fetched $2.75 million, according to multiple rep… [+1687 chars]",
-      "tags": [
-        "personal_family",
-        "florida"
-      ],
+      "tags": [],
       "publishedAtTs": 1767548856
     },
     {
@@ -1251,11 +1335,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/08/marco-rubio-2223532443.jpg",
       "publishedAt": "2026-01-04T19:31:36Z",
       "content": "Speaking to the Sunday press shows after a surprise U.S. attack on Venezuela, Secretary of State Marco Rubio refused to rule out further strikes in the Caribbean.\r\nRubio, a Cuban American from Miami,… [+1588 chars]",
-      "tags": [
-        "foreign_policy",
-        "latin_america",
-        "military"
-      ],
+      "tags": [],
       "publishedAtTs": 1767555096
     },
     {
@@ -1285,9 +1365,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/01/top-gun-maverick-poster-wall-getty.jpg?w=1024",
       "publishedAt": "2026-01-04T03:48:56Z",
       "content": "Tom Cruise and Paramount are cleared for takeoff on more Top Gun thanks to a trio of federal judges.\r\nThree and a half years after the now David Ellison-owned studio was first buzzsawed by a Top Gun:… [+3165 chars]",
-      "tags": [
-        "legal_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1767498536
     },
     {
@@ -1317,10 +1395,7 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/Maduro_7c8eaf.jpg",
       "publishedAt": "2026-01-04T12:44:54Z",
       "content": "Early Saturday morning, the Venezuelan capital, woke up to a series of loud explosions. Months of confrontation between US President Donald Trump and his counterpart Nicolás Maduro over alleged narco… [+2684 chars]",
-      "tags": [
-        "foreign_policy",
-        "security_intelligence"
-      ],
+      "tags": [],
       "publishedAtTs": 1767530694
     },
     {
@@ -1335,10 +1410,7 @@
       "urlToImage": "https://images.indianexpress.com/2025/12/Trump-zelenskyy-2.jpg",
       "publishedAt": "2026-01-04T13:03:32Z",
       "content": "Ukrainian President Volodymyr Zelenskyy has reacted to the United States capture of Venezuelan President Nicolas Maduro and suggested that US President Donald Trumps administration knows what to do n… [+2051 chars]",
-      "tags": [
-        "foreign_policy",
-        "russia"
-      ],
+      "tags": [],
       "publishedAtTs": 1767531812
     },
     {
@@ -1368,9 +1440,7 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/maduro_20260104230443.jpg",
       "publishedAt": "2026-01-04T23:07:16Z",
       "content": "Congress general secretary and in-charge, communications, Jairam Ramesh said, The INC expresses very grave concern on US actions relating to Venezuela in the past 24 hours. Settled principles of inte… [+1681 chars]",
-      "tags": [
-        "foreign_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767568036
     },
     {
@@ -1385,9 +1455,7 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/A-photo-of-President-Nicolas-Maduro-on-board-the-USS-Iwo-Jima-shared-by-President-Trump-on-his-Truth-Social-account.jpg",
       "publishedAt": "2026-01-04T00:00:23Z",
       "content": "The announcement by President Donald Trump that the US had attacked Venezuela and captured its President Nicolas Maduro put India in a diplomatic spot Saturday: on the one side is Trumps unilateral m… [+5863 chars]",
-      "tags": [
-        "foreign_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767484823
     },
     {
@@ -1417,11 +1485,7 @@
       "urlToImage": "https://images.newrepublic.com/c88deca0b6121e388b2ace032d60645597b4ff50.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-01-04T15:06:42Z",
       "content": "Perhaps the most blatant of all the\r\nrecent acts is Trumps own declaration that the U.S. will take\r\ncontrol of Venezuela for a while to seize and exploit the oil resources of\r\nthe country. He will un… [+1345 chars]",
-      "tags": [
-        "foreign_policy",
-        "crisis_emergency",
-        "security_intelligence"
-      ],
+      "tags": [],
       "publishedAtTs": 1767539202
     },
     {
@@ -1436,10 +1500,7 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2026/01/gas-flares.jpg?quality=75&strip=all",
       "publishedAt": "2026-01-04T14:00:00Z",
       "content": "This story was originally published by The Guardian and is reproduced here as part of the Climate Desk collaboration.\r\nAs 2025 draws to a close, environmental advocates across the U.S. find themselve… [+6074 chars]",
-      "tags": [
-        "environment",
-        "policy_legislation"
-      ],
+      "tags": [],
       "publishedAtTs": 1767535200
     },
     {
@@ -1454,11 +1515,7 @@
       "urlToImage": null,
       "publishedAt": "2026-01-04T10:00:05Z",
       "content": "Conor here: It’s getting increasingly difficult to separate the trolling from the policy. This appears intended to strike fear into communities of color which are largely working class. Trumpwho is v… [+7216 chars]",
-      "tags": [
-        "social_issues",
-        "immigration",
-        "racial_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1767520805
     },
     {
@@ -1473,13 +1530,7 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Pandas-2.png",
       "publishedAt": "2026-01-04T11:55:59Z",
       "content": "A Shaolin kung fu master shows how its done.\r\npic.twitter.com/cNxmz9xKRr\r\n Science girl (@sciencegirl) January 3, 2026\r\nU.S. Delta Force Captures Venezuelan President Maduro During Major Assault on C… [+7599 chars]",
-      "tags": [
-        "foreign_policy",
-        "china",
-        "russia",
-        "iran",
-        "middle_east"
-      ],
+      "tags": [],
       "publishedAtTs": 1767527759
     },
     {
@@ -1539,9 +1590,7 @@
       "urlToImage": "https://biztoc.com/cdn/3f7a25fa116e6520_s.webp",
       "publishedAt": "2026-01-04T22:53:16Z",
       "content": "President Trump issued a warning to Venezuela's interim leader, Delcy Rodríguez, on Sunday after she railed against the U.S. following the capture of President Nicolás Maduro in the oil-rich South Am… [+140 chars]",
-      "tags": [
-        "foreign_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767567196
     },
     {
@@ -1556,10 +1605,7 @@
       "urlToImage": "https://biztoc.com/cdn/bfda592596afd55c_s.webp",
       "publishedAt": "2026-01-04T16:31:57Z",
       "content": "Ousted Venezuelan President Nicolás Maduro is behind bars in New York City, where he awaits trial on federal charges of ...\r\nThis story appeared on youtube.com, 2026-01-04 16:12:36.",
-      "tags": [
-        "foreign_policy",
-        "legal_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1767544317
     },
     {
@@ -1589,11 +1635,7 @@
       "urlToImage": "https://biztoc.com/cdn/647772065bdc1c4d_s.webp",
       "publishedAt": "2026-01-04T16:27:46Z",
       "content": "Venezuelas strongman Nicolás Maduro and his wife, Cilia Flores, were captured and flown out of the country on Saturday morning in an apparently flawless operation led by Delta Force, one of the Penta… [+141 chars]",
-      "tags": [
-        "security_intelligence",
-        "military",
-        "foreign_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767544066
     }
   ]

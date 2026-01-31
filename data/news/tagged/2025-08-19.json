@@ -33,7 +33,11 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/DSC08442.webp?quality=90&strip=all&crop=0,11.073590377392,100,77.852819245217",
       "publishedAt": "2025-08-19T18:02:51Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAt launch, Apples factories in India will produce all four new iPhone 17 variants for the first time, according to Bloomberg.\r\nAt launch, Apples factories in Ind… [+2419 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "economy_finance",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1755626571
     },
     {
@@ -641,7 +645,9 @@
       "urlToImage": "https://compote.slate.com/images/c55752bd-e16b-4b6f-8c6b-34cb0f1f41cf.jpeg?crop=2333%2C1556%2Cx0%2Cy1381&width=1560",
       "publishedAt": "2025-08-19T09:45:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nFor you, a hermit crabs lifespan is measured in months. Your kid picks on… [+22333 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1755596700
     },
     {
@@ -935,7 +941,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/oiJdUhT9v9UyZUB5oBsnLIY7G8Y=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_15_europe_mpg6/original.jpg",
       "publishedAt": "2025-08-19T11:00:00Z",
       "content": "American officials are waging a multifront attack on Europe’s approach to free speech. This month, a congressional delegation traveled to Dublin, Brussels, and London to probe and decry European regu… [+16636 chars]",
-      "tags": [],
+      "tags": [
+        "free_speech",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1755601200
     },
     {
@@ -986,7 +995,11 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/TSMC-chips-to-hit-1.4nm-in-2028-with-confusing-name-confirmed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-08-19T00:41:32Z",
       "content": "A few days ago, news broke that following a meeting with Intel CEO Lip-Bu Tan, the Trump administration was looking to take an unspecified stake in Intel. Now, Bloomberg says the number being discuss… [+2009 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1755564092
     },
     {
@@ -1057,7 +1070,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/536b1500d809347/original/sa0925McKe01b.jpg?m=1754930629.618&w=1200",
       "publishedAt": "2025-08-19T10:00:00Z",
       "content": "Anabelle Terry, a slender, self-possessed 13-year-old, has heard the peanut butter story her entire life. At two and a half she ate nuts for the first time. Her mother, Victoria, had made a little tr… [+32926 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "public_health",
+        "medical_research"
+      ],
       "publishedAtTs": 1755597600
     },
     {
@@ -1727,7 +1744,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/reuters_68a44d2f-1755598128_8b7cd1-1755607759.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2025-08-19T13:57:37Z",
       "content": "When United States President Donald Trump invited his Ukrainian counterpart Volodymyr Zelenskyy for talks at the White House on Monday, the European leaders rushed to Washington, DC to stand alongsid… [+7575 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "nato",
+        "russia"
+      ],
       "publishedAtTs": 1755611857
     },
     {

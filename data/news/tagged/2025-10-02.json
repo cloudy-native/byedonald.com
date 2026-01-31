@@ -949,7 +949,9 @@
       "urlToImage": "https://petapixel.com/assets/uploads/2025/08/Big-Ben-Westminster.jpg",
       "publishedAt": "2025-10-02T11:58:59Z",
       "content": "The UK government has issued a new order to Apple seeking access to encrypted iCloud backups of British citizens, according to a report from the Financial Times. The order, known as a technical capab… [+3103 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation"
+      ],
       "publishedAtTs": 1759406339
     },
     {
@@ -1610,7 +1612,9 @@
       "urlToImage": null,
       "publishedAt": "2025-10-02T17:16:37Z",
       "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1759425397
     },
     {
@@ -1662,7 +1666,12 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/10/GettyImages-2163797810-e1759344458960.jpg?fit=5145%2C2572&w=1200&h=800",
       "publishedAt": "2025-10-02T14:00:00Z",
       "content": "The youth-led climate activist group Sunrise Movement is expanding its mission to battle authoritarianism as the Trump administration targets left-leaning organizations and puts one of the groups maj… [+5406 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "climate_policy",
+        "protests",
+        "legal_justice"
+      ],
       "publishedAtTs": 1759413600
     },
     {
@@ -1677,7 +1686,12 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/10/Gov-Shutdown-Free-Speech.jpg?fit=2000%2C1000&w=1200&h=800",
       "publishedAt": "2025-10-02T22:00:00Z",
       "content": "The federal government shut down on Wednesday as President Donald Trump threatened mass federal layoffs. Republicans are blaming Democrats for the shutdown, while Democrats are refusing to support a … [+33039 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "protests",
+        "free_speech",
+        "government_administration"
+      ],
       "publishedAtTs": 1759442400
     },
     {
@@ -1730,7 +1744,11 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/10/American-Ammo.jpg?fit=2000%2C1200&w=1200&h=800",
       "publishedAt": "2025-10-02T21:00:00Z",
       "content": "EL GUAYABO, Michoacán, Mexico The armored vehicle, or what now remained of it, lay abandoned in the road where a landmine had blown it up. The bodies of the vehicle’s occupants, cartel sicarios who h… [+25510 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "mexico",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1759438800
     },
     {

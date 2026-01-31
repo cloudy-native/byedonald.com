@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 18,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-04-10T23:59:25Z",
       "content": "WASHINGTON — When President Donald Trump withdrew Rep. Elise Stefanik’s nomination to be U.S. ambassador to the United Nations, she was given private assurances that she would not only rejoin the House GOP leadership team, but also reclaim her covete... [6523 chars]",
       "tags": [
-        "government_administration",
         "elections_politics",
-        "political_endorsements"
+        "republican_party",
+        "congress"
       ],
       "publishedAtTs": 1744329565
     },
@@ -34,9 +34,8 @@
       "publishedAt": "2025-04-10T23:45:41Z",
       "content": "U.S. President Donald Trump on Thursday threatened Mexico with sanctions and tariffs in a dispute over water sharing between the two countries, accusing Mexico of breaking an 81-year-old treaty and “stealing the water from Texas Farmers.”\nUnder the 1... [3339 chars]",
       "tags": [
-        "foreign_policy",
-        "policy_legislation",
-        "economy_finance"
+        "mexico",
+        "trade"
       ],
       "publishedAtTs": 1744328741
     },
@@ -53,9 +52,8 @@
       "publishedAt": "2025-04-10T23:30:51Z",
       "content": "Submit your letter to the editor via this form. Read more Letters to the Editor.\nRallies prove Trump\nopponents aren’t alone\nRe: “Thousands rally in massive protests” (Page A1, April 6).\nI attended a rally Saturday in opposition to the nightmare that ... [3344 chars]",
       "tags": [
-        "media_communications",
-        "elections_politics",
-        "social_issues"
+        "protests",
+        "elections_politics"
       ],
       "publishedAtTs": 1744327851
     },
@@ -73,8 +71,7 @@
       "content": "WASHINGTON (AP) — The Supreme Court on Thursday said the Trump administration must work to bring back a Maryland man who was mistakenly deported to prison in El Salvador, rejecting the administration’s emergency appeal.\nThe court acted in the case of... [4184 chars]",
       "tags": [
         "legal_justice",
-        "immigration",
-        "government_administration"
+        "immigration"
       ],
       "publishedAtTs": 1744327704
     },
@@ -91,8 +88,9 @@
       "publishedAt": "2025-04-10T23:18:26Z",
       "content": "Jennifer Vasquez Sura, the wife of Kilmar Abrego Garcia of Maryland, who was mistakenly deported to El Salvador, speaks during a news conference at CASA's Multicultural Center in Hyattsville, Md., Friday, April 4, 2025. (AP Photo/Jose Luis Magana)\nWA... [1333 chars]",
       "tags": [
+        "immigration",
         "legal_justice",
-        "immigration"
+        "supreme_court"
       ],
       "publishedAtTs": 1744327106
     },
@@ -110,8 +108,7 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "legal_justice",
-        "foreign_policy",
-        "latin_america"
+        "immigration"
       ],
       "publishedAtTs": 1744326816
     },
@@ -129,10 +126,7 @@
       "content": "ADF Group Inc. DRX-T, a Canadian maker and designer of complex steel structures, saw its stock market value crash after it warned of lower sales and profit in coming months as U.S. tariffs drive up its business costs and undermine the certainty it ne... [3682 chars]",
       "tags": [
         "trade",
-        "taxes",
-        "economy_finance",
-        "small_business",
-        "canada"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744326444
     },
@@ -149,10 +143,8 @@
       "publishedAt": "2025-04-10T23:05:52Z",
       "content": "Shoppers stayed away from the UK high street in March, a situation retailers said could worsen if the economic gloom caused by Donald Trump’s tariff war hits consumer confidence.\nFootfall fell 5% in March to extend a downturn in February that retaile... [4317 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "small_business",
-        "regional_state"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744326352
     },
@@ -170,10 +162,176 @@
       "content": "The US supreme court upheld on Thursday a judge’s order requiring Donald Trump’s administration to facilitate the return to the United States of a Salvadoran man who the government has acknowledged was deported in error to El Salvador.\nUS district ju... [1132 chars]",
       "tags": [
         "legal_justice",
-        "immigration",
-        "foreign_policy"
+        "immigration"
       ],
       "publishedAtTs": 1744326301
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Supreme Court orders Trump administration to return mistakenly deported man from El Salvador",
+      "description": "The Supreme Court wrote in a brief decision that a lower court judge in Maryland was correct to order administration officials to \"facilitate\" Kilmar Abrego Garcia's return.",
+      "url": "https://www.washingtonexaminer.com/news/supreme-court/3377382/supreme-court-orders-trump-administration-return-mistakenly-deported-man-el-salvador/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/AP25095091783282.webp",
+      "publishedAt": "2025-04-10T23:03:47Z",
+      "content": "The Supreme Court ordered the Trump administration to return a man it mistakenly deported to a Salvadoran megaprison after the administration insisted to the high court that it had no ability to correct its error.\nThe Supreme Court wrote in a brief d... [3738 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1744326227
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Jump in US inflation expectations leaves Federal Reserve with a dilemma",
+      "description": "With households, businesses, and global investors adjusting fast to the implications of President Donald Trump's aggressive import tariff policies, Fed policymakers said the outlook has grown increasingly difficult to predic",
+      "url": "https://www.breakingnews.ie/world/jump-in-us-inflation-expectations-leaves-federal-reserve-with-a-dilemma-1751490.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjRcXFwvMDlcXFwvMTgxOTE1MTZcXFwvODg0ZThlODcxMjA0NDRmNTg2ZWUwYjMxYzMzOWM1ZDYuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2YTQ3NDg3ZjJjZmZhNjg5NGJiZWU1OTRhYTg3YWFkM2E4ZjBmZmUyIn0=/jump-in-us-inflation-expectations-leaves-federal-reserve-with-a-dilemma.jpg",
+      "publishedAt": "2025-04-10T23:00:00Z",
+      "content": "Soaring consumer inflation expectations, driven to a level not seen since the early 1980s, coupled with jittery markets and rising U.S. Treasury yields on Friday amplified the Federal Reserve's dilemma in determining whether the economy is facing a n... [5403 chars]",
+      "tags": [
+        "inflation",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1744326000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "S&P 500 jumps 1.8% as Wall Street closes a chaotic and historic week",
+      "description": "The falling value of the US dollar and swings in other markets suggest fear is still high over Donald Trump’s tariffs and trade war with China.",
+      "url": "https://www.breakingnews.ie/world/sp-500-jumps-1-8-as-wall-street-closes-a-chaotic-and-historic-week-1751496.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTEyMTU0MzhcXFwvYTQwOGEwYjY1ZTYwNGU1MWE1NTlhMzBkNDhmODIyMDMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwNGJjN2U2M2QxN2NkMTBkM2M0NWJhOWIyODgwODRlODJlYmIzZWU1In0=/s-amp-p-500-jumps-1-8-as-wall-street-closes-a-chaotic-and-historic-week.jpg",
+      "publishedAt": "2025-04-10T23:00:00Z",
+      "content": "US stocks jumped on Friday in another manic day on Wall Street, while the falling value of the US dollar and other swings in financial markets suggested fear is still high about escalations in President Donald Trump’s trade war with China.\nThe S&P 50... [6104 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
+      "publishedAtTs": 1744326000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "‘There isn’t an hour to lose’ - Harris says tariff pause vital for negotiations",
+      "description": "The Tánaiaste said it is important to ‘utilise’ US President Donald Trump’s 90-day tariffs pause.",
+      "url": "https://www.breakingnews.ie/ireland/there-isnt-an-hour-to-lose-harris-says-tariff-pause-vital-for-negotiations-1751434.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTExNzMxMDJcXFwvMi43OTYxMTE0Ni0yLWUxNzQ0Mzg5MTkwMTk2LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNzIwZmU2YzJjYzkwZDJhYTlmMDQ3ZWVlMDBmNWU5Y2Q2M2FjZmE1YiJ9/there-isn-t-an-hour-to-lose-harris-says-tariff-pause-vital-for-negotiations.jpg",
+      "publishedAt": "2025-04-10T23:00:00Z",
+      "content": "The Tánaiste has described this weekend’s negotiations between the EU and the US as “vital”, saying there “isn't an hour to lose”.\nThe European commissioner for trade and economic security, Maros Sefcovic, will travel to Washington on Sunday and hold... [5331 chars]",
+      "tags": [
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1744326000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "China hits US with 125% tariffs as trade war escalates",
+      "description": "China has increased its tariffs on US imports to 125%, hitting back against US President Donald Trump's decision to hike duties on Chinese goods and raising the stakes in a trade war that threatens to upend global supply chains.",
+      "url": "https://www.rte.ie/news/us/2025/0411/1507038-tariffs-us/",
+      "urlToImage": "https://img.rasset.ie/0022435c-1600.jpg",
+      "publishedAt": "2025-04-10T23:00:00Z",
+      "content": "China has increased its tariffs on US imports to 125%, hitting back against US President Donald Trump's decision to hike duties on Chinese goods and raising the stakes in a trade war that threatens to upend global supply chains.\nChina's retaliation i... [6070 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744326000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Ten trading days that shook financial markets",
+      "description": "The 10 trading days since US President Donald Trump hit car makers with tariffs have been the most convulsive since the pandemic panic of 2020, as prices of stocks to bonds, oil, gold and even the US dollar itself have swung wildly.",
+      "url": "https://www.rte.ie/news/business/2025/0411/1507143-ten-trading-days-that-shook-financial-markets/",
+      "urlToImage": "https://img.rasset.ie/00223960-1600.jpg",
+      "publishedAt": "2025-04-10T23:00:00Z",
+      "content": "The 10 trading days since US President Donald Trump hit car makers with tariffs have been the most convulsive since the pandemic panic of 2020, as prices of stocks to bonds, oil, gold and even the US dollar itself have swung wildly.\nSelling in US Tre... [5208 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "economy_finance",
+        "stock_market"
+      ],
+      "publishedAtTs": 1744326000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Why did Trump pause the tariffs? The bond market rebelled - here's what that means.",
+      "description": "President Trump had brushed off the stock market's plunge, but turmoil in the bond market got his administration's attention.",
+      "url": "https://www.cbsnews.com/news/trump-tariff-pause-bond-market-bond-yield-treasury-bill/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/10/46e8060a-e1da-442a-babc-279aa242b403/thumbnail/1200x630/c7c60fbc71318253a5b3a23a0a82caeb/cbsn-fusion-what-we-know-about-trumps-tariff-pause-timing-thumbnail.jpg?v=653dd6912cdd8596c9bfea812c355f95",
+      "publishedAt": "2025-04-10T22:45:25Z",
+      "content": "Even as stocks plunged in reaction to his administration's sweeping tariffs, President Trump expressed confidence in his trade policies, saying last week that \"markets are going to boom.\" But by Wednesday, a collective thumb's down to the tariffs by ... [5218 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744325125
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Trump understands China is on its way to global domination and must be stopped",
+      "description": "Determined to grow at any cost, China has been overproducing everything. It started with roads and rail lines, then moved to apartments and mansions, and now it’s cars, refrigerators and semiconductors.",
+      "url": "https://nypost.com/2025/04/10/opinion/trump-understands-china-is-on-its-way-to-global-domination-and-must-be-stopped/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/u-s-president-donald-trump-102298596_5c0d3d-e1744324783547.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-10T22:41:50Z",
+      "content": "President Trump is launching a tariff blitz on the world for one reason: China.\nChina’s economy is built on a system that distorts free trade.\nDetermined to grow at any cost, China has been overproducing everything. It started with roads and rail lin... [4308 chars]",
+      "tags": [
+        "trade",
+        "china"
+      ],
+      "publishedAtTs": 1744324910
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "States sue over Trump administration's sudden halt of pandemic relief aid for schools",
+      "description": "Public officials in 16 states and the District of Columbia sued the Trump administration Thursday to restore access to pandemic relief aid for schools, saying the Education Department's abrupt halt",
+      "url": "https://www.thestar.com/news/world/united-states/states-sue-over-trump-administrations-sudden-halt-of-pandemic-relief-aid-for-schools/article_ff4f8d64-e0aa-5dcb-b4eb-1ab2f38ccc4f.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=600%2C600",
+      "publishedAt": "2025-04-10T22:34:35Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "policy_legislation",
+        "education",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1744324475
     }
   ]
 }

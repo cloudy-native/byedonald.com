@@ -576,7 +576,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/468607b6-afba-47ce-9bb6-f96c62246cf8/250828_abc_social_whale_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-28T13:07:32Z",
       "content": "<ul><li>Urgent investigation after shooter opens fire at Minnesota Catholic school\r\n</li><li>Vigil overnight as new details emerge on the victims in Minneapolis shooting \r\n</li><li>Minneapolis Mayor … [+4574 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1756386452
     },
     {
@@ -779,7 +781,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Satellite-in-low-earth-orbit.jpg",
       "publishedAt": "2025-08-28T16:05:57Z",
       "content": "The world runs on data. As humanitys information gets increasingly digitized and artificial intelligence creeps its way into every aspect of life, data centers become more and more important.\r\nBut th… [+8162 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "space_policy",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1756397157
     },
     {
@@ -794,7 +800,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/IBPxnilsQFHBbwRdCwgFIluFpK8=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_27_russia_ukraine/original.jpg",
       "publishedAt": "2025-08-28T15:23:52Z",
       "content": "American and European officials thought they had a real opportunity to end the war in Ukraine. President Donald Trump’s envoy, Steve Witkoff, flew to Moscow to meet with Vladimir Putin believing that… [+11768 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
       "publishedAtTs": 1756394632
     },
     {
@@ -866,7 +876,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/08/main-Fed-Funds-1954-to-2008.jpg",
       "publishedAt": "2025-08-28T15:13:45Z",
       "content": "One of my most deeply held opinions about why everything is like this is zero interest rate policy (ZIRP). President Donald Trump could only be birthed from a distorted world where borrowing is free … [+10205 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "stock_market",
+        "inflation"
+      ],
       "publishedAtTs": 1756394025
     },
     {
@@ -1028,7 +1042,11 @@
       "urlToImage": "https://regmedia.co.uk/2017/03/24/drone_shutterstock.jpg",
       "publishedAt": "2025-08-28T20:05:11Z",
       "content": "The US Department of Homeland Security has revealed plans to spend more than $100 million on systems designed to take out hostile drones.  \r\nWhile not a formal announcement per se, DHS published a no… [+2769 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "national_security",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1756411511
     },
     {
@@ -1738,7 +1756,9 @@
       "urlToImage": null,
       "publishedAt": "2025-08-28T20:31:36Z",
       "content": "Oops. Our website is temporarily unavailable in your location. We are working hard to get it back online.",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1756413096
     },
     {

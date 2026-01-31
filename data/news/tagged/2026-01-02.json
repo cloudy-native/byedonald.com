@@ -49,9 +49,7 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Samsung-TVs-and-Displays-Freestyle-Samsung-Unveils-The-Freestyle-Ahead-of-CES-2026_Main1.jpg?quality=90&strip=all&crop=0,26.562652705061,100,69.808027923211",
       "publishedAt": "2026-01-02T08:30:17Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\n430 ISO lumens is greater than 550 lumens.\r\n430 ISO lumens is greater than 550 lumens.\r\nby\r\nThomas RickerClose\r\nThomas Ricker\r\nPosts from this author will be add… [+2745 chars]",
-      "tags": [
-        "technology_regulation"
-      ],
+      "tags": [],
       "publishedAtTs": 1767342617
     },
     {
@@ -66,7 +64,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2023/02/f9ae44aeb5ad115f2eb898c310add44d.jpg",
       "publishedAt": "2026-01-02T17:15:50Z",
       "content": "You might be noticing that ads on Instagram and Facebook are getting more personal, and thats because they probably are.\r\nMeta updated its privacy policy last month, adding that data it collects from… [+2817 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "social_media"
+      ],
       "publishedAtTs": 1767374150
     },
     {
@@ -83,8 +84,7 @@
       "content": "Did you spend the holidays engaging in quality time with your loved ones and catching up with friends and family, or (like a disturbing number of X users) did you spend it asking Grok to manipulate i… [+4596 chars]",
       "tags": [
         "technology_regulation",
-        "social_issues",
-        "media_communications"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1767382806
     },
@@ -120,9 +120,7 @@
       "content": "US President Donald Trump has warned Iran's authorities against killing peaceful protesters, saying Washington \"will come to their rescue\".\r\nIn a brief post on social media, he wrote: \"We are locked … [+3146 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
-        "protests",
-        "security_intelligence"
+        "iran"
       ],
       "publishedAtTs": 1767353249
     },
@@ -138,7 +136,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/63bc/live/103723b0-e77e-11f0-aae2-2191c0e48a3b.jpg",
       "publishedAt": "2026-01-02T02:34:11Z",
       "content": "Venezuelan President Nicolás Maduro said on Thursday he was open to talks with the US on drug trafficking and oil, after weeks of an escalating pressure campaign against his government.\r\nIn an interv… [+2505 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767321251
     },
     {
@@ -168,7 +168,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2814+0+31/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F8d%2Fbb58bbda47e3bef679dc87116da2%2Fap26002355356956.jpg",
       "publishedAt": "2026-01-02T13:43:39Z",
       "content": "DUBAI, United Arab Emirates U.S. President Donald Trump and top Iranian officials exchanged dueling threats Friday as widening economic protests swept across parts of the Islamic Republic, further es… [+2970 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "social_media"
+      ],
       "publishedAtTs": 1767361419
     },
     {
@@ -185,7 +189,7 @@
       "content": "The Department of Homeland Security is pausing the immigration applications from an additional 20 countries after an expansion of travel restrictions took effect Jan. 1.\r\nU.S. Citizenship and Immigra… [+2051 chars]",
       "tags": [
         "immigration",
-        "policy_legislation"
+        "border_security"
       ],
       "publishedAtTs": 1767380553
     },
@@ -201,7 +205,12 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
       "publishedAt": "2026-01-02T20:01:00Z",
       "content": "The ban, which is tucked inside the $900 billion defense policy law, was enacted in response to a ProPublica investigation this year that exposed how Microsoft used China-based engineers to service t… [+843 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "national_security",
+        "cybersecurity",
+        "china"
+      ],
       "publishedAtTs": 1767384060
     },
     {
@@ -216,7 +225,11 @@
       "urlToImage": "https://i.insider.com/69573d35832e0ef1ead70f4e?width=1200&format=jpeg",
       "publishedAt": "2026-01-02T05:54:17Z",
       "content": "Chinese leader Xi Jinping lauded his country's AI advancements in 2025.Yan Yan/Xinhua via Getty Images\r\n<ul><li>China's Xi Jinping lauded his country's AI wins in 2025 in his New Year's address from … [+2412 chars]",
-      "tags": [],
+      "tags": [
+        "china",
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1767333257
     },
     {
@@ -246,7 +259,10 @@
       "urlToImage": "https://media.zenfs.com/en/the_center_square_articles_912/06e05c52992c7299d6c131c7009e19b7",
       "publishedAt": "2026-01-02T13:58:00Z",
       "content": "(The Center Square) Following days of civil unrest in Iran, President Donald Trump issued a warning to the Iranian regime that the U.S. is prepared to take action if civilians are shot.\r\nTrump posted… [+2030 chars]",
-      "tags": [],
+      "tags": [
+        "iran",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767362280
     },
     {
@@ -263,8 +279,7 @@
       "content": "NEED TO KNOW\r\n<ul><li>The Trump administration has reportedly closed down NASAs largest research library\r\n</li><li>The Goddard Space Flight Center Library in Greenbelt, Md. shut down on Friday, accor… [+2955 chars]",
       "tags": [
         "government_administration",
-        "federal_agencies",
-        "space_policy"
+        "federal_agencies"
       ],
       "publishedAtTs": 1767372227
     },
@@ -282,7 +297,7 @@
       "content": "WEST PALM BEACH, Fla. (AP) President Donald Trump has spent much of his two-week vacation in Florida golfing. But when he gets back to the White House, there's a military golf course that he's never … [+6918 chars]",
       "tags": [
         "personal_family",
-        "trump"
+        "personal_business"
       ],
       "publishedAtTs": 1767359093
     },
@@ -298,7 +313,10 @@
       "urlToImage": "https://media.zenfs.com/en/thestreet_881/5d83df0a563f8b44adde9a7dcf6cc2af",
       "publishedAt": "2026-01-02T17:00:52Z",
       "content": "After President Donald Trump expanded the travel ban he put in place during his first term in the White House to 20 more countries and the Palestinian Authority last December, at least three other na… [+3222 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767373252
     },
     {
@@ -315,7 +333,7 @@
       "content": "The Trump administration is aiming to move a planned 90,000-square-foot White House ballroom through the federal government's review process at a rapid clip, with final approvals as soon as early Mar… [+5115 chars]",
       "tags": [
         "government_administration",
-        "executive_orders"
+        "personnel"
       ],
       "publishedAtTs": 1767317258
     },
@@ -351,7 +369,8 @@
       "content": "President Donald Trumps bold claims that his policies delivered an unprecedented jobs boom for American-born workers are at odds with data showing a weaker market than under his predecessor.\r\nTrump, … [+3550 chars]",
       "tags": [
         "economy_finance",
-        "labor"
+        "labor",
+        "trade"
       ],
       "publishedAtTs": 1767367642
     },
@@ -367,7 +386,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QoxloVeLpuzV5PGNF1PmlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/politico_453/03ae74d164bc1fa6e1c56af6bb06dd13",
       "publishedAt": "2026-01-02T15:00:00Z",
       "content": "Democrats are bullish that a laser-focus on the economy which helped deliver wins across the country in 2025 will buoy them in the midterms.\r\nBut in one of the first major races of 2026, some candida… [+8066 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "economy_finance"
+      ],
       "publishedAtTs": 1767366000
     },
     {
@@ -382,7 +405,10 @@
       "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/1fd8de6c866667b09ab186e87c422fe9",
       "publishedAt": "2026-01-02T20:06:19Z",
       "content": "The past year was remarkably notorious for the Supreme Court. Its conservative supermajority tore and tore into the very fabric of the Constitution, siding with the Trump administrationa count in Oct… [+956 chars]",
-      "tags": [],
+      "tags": [
+        "supreme_court",
+        "legal_justice"
+      ],
       "publishedAtTs": 1767384379
     },
     {
@@ -400,7 +426,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "energy"
+        "trade"
       ],
       "publishedAtTs": 1767316871
     },
@@ -433,9 +459,7 @@
       "content": "DIMONA, Israel (AP) During the two years he was held captive in Gaza, Segev Kalfon had a recurring dream: slowly walking through a supermarket, browsing each aisle for his favorite foods, taking in t… [+5878 chars]",
       "tags": [
         "gaza",
-        "israel",
-        "foreign_policy",
-        "crisis_emergency"
+        "israel"
       ],
       "publishedAtTs": 1767332783
     },
@@ -467,8 +491,8 @@
       "publishedAt": "2026-01-02T17:57:07Z",
       "content": "<ul><li>FBI says it thwarted potential New Year's terror attack 'directly inspired' by ISIS\r\n</li><li>Children who miss early vaccines more likely to not get the MMR shot by age 2: Study\r\n</li><li>Mo… [+4322 chars]",
       "tags": [
-        "natural_disasters",
-        "public_health_emergency"
+        "security_intelligence",
+        "natural_disasters"
       ],
       "publishedAtTs": 1767376627
     },
@@ -500,7 +524,8 @@
       "publishedAt": "2026-01-02T18:33:41Z",
       "content": "<ul><li>Seattle police arrest armed man during citys New Years Eve celebration\r\n</li><li>6.5 magnitude earthquake shakes Acapulco, Mexico\r\n</li><li>Sparklers may have led to deadly Swiss resort bar f… [+4308 chars]",
       "tags": [
-        "law_enforcement"
+        "law_enforcement",
+        "criminal_cases"
       ],
       "publishedAtTs": 1767378821
     },
@@ -546,7 +571,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/582d46dc-e83c-4f8c-8325-cd60545d2773/260101_abc_social_swiss_vigil_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-02T04:15:32Z",
       "content": "<ul><li>Around 40 killed, 115 hurt in Swiss resort bar blaze on New Year's Day, police say\r\n</li><li>Ohio police search for suspect after dentist, wife found murdered at home\r\n</li><li>Higher healthc… [+4250 chars]",
-      "tags": [],
+      "tags": [
+        "crisis_emergency",
+        "natural_disasters"
+      ],
       "publishedAtTs": 1767327332
     },
     {
@@ -627,8 +655,9 @@
       "publishedAt": "2026-01-02T21:50:10Z",
       "content": "Over the last year or so, Silicon Valley made an all-out push for employees to return to the office. Now that the industry has people back at their desks, it’s trying to figure out how to make them h… [+2922 chars]",
       "tags": [
+        "technology_regulation",
         "economy_finance",
-        "technology_regulation"
+        "labor"
       ],
       "publishedAtTs": 1767390610
     },
@@ -644,7 +673,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/sam-altman-and-elon-musk-1200x675.jpg",
       "publishedAt": "2026-01-02T15:35:00Z",
       "content": "2026 is already looking to be a special year for the tech industry, as the AI-loving market braces for three major tech IPOs.\r\nThree tech giants, SpaceX, Anthropic, and OpenAI, are reportedly eyeing … [+5993 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "stock_market"
+      ],
       "publishedAtTs": 1767368100
     },
     {
@@ -659,7 +692,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/uFtH03vGFS7PZ28yXJJus-Qa0ZI=/1x0:3994x2080/1200x625/media/img/mt/2026/01/2026_01_02_The_Daily_Trump_Cant_Stop_Intervening/original.jpg",
       "publishedAt": "2026-01-02T22:49:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Do… [+7321 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767394140
     },
     {
@@ -674,7 +709,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/Cb1HEDaXl-eJBxp2goEvEyelIm4=/1x85:3994x2165/1200x625/media/img/mt/2026/01/2026_01_02_Trumps_Operation_Iranian_Freedom/original.jpg",
       "publishedAt": "2026-01-02T19:17:08Z",
       "content": "Alone in the dead of night, a man can fall into bleak thoughts. In the wee, small hours of the morning, he might think about lost loves, mull over great regrets, or wrestle with the inevitability of … [+7163 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "military"
+      ],
       "publishedAtTs": 1767381428
     },
     {
@@ -689,7 +728,10 @@
       "urlToImage": "https://static.media.ccc.de/media/congress/2025/1357-f3ecee56-19f5-5c45-b5ec-799f710e0388_preview.jpg",
       "publishedAt": "2026-01-02T14:15:14Z",
       "content": "Matthias Monroy\r\nFuseEthics, Society &amp; Politics\r\nPlaylists:\r\n'39c3' videos starting here\r\n/\r\naudioThe USA is demanding from all 43 countries in the \"Visa Waiver Programme\" (VWP), which enables vi… [+2357 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "immigration"
+      ],
       "publishedAtTs": 1767363314
     },
     {
@@ -704,7 +746,10 @@
       "urlToImage": "https://regmedia.co.uk/2021/08/10/shutterstock_get_out_of_jail_free_card_editorial_only.jpg",
       "publishedAt": "2026-01-02T20:22:04Z",
       "content": "Ilya Lichtenstein, who pleaded guilty to money-laundering charges tied to the 2016 theft of about 120,000 bitcoins from the Bitfinex exchange and was sentenced to five years in prison, has been relea… [+1472 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1767385324
     },
     {
@@ -738,9 +783,8 @@
       "publishedAt": "2026-01-02T13:57:57Z",
       "content": "Your browser does not support the audio element.\r\nThis is not the first time we’ve observed it, but Tesla really isn’t a “car company” at this point. Elon Musk’s perpetual money machine has diversifi… [+6258 chars]",
       "tags": [
-        "automotive",
         "economy_finance",
-        "energy"
+        "automotive"
       ],
       "publishedAtTs": 1767362277
     },
@@ -756,7 +800,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/07/elon_musk_salute_grok_nazi.jpg",
       "publishedAt": "2026-01-02T13:45:43Z",
       "content": "Your browser does not support the audio element.\r\nGrok, X’s AI chatbot, produced child sexual abuse material (CSAM) on demand to users recently, writing an apology note on New Years Day that read I d… [+6921 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "social_media",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1767361543
     },
     {
@@ -772,8 +820,7 @@
       "publishedAt": "2026-01-02T15:16:17Z",
       "content": "×Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a\r\n membership to support the site and join the conversation, you can explore your option… [+341 chars]",
       "tags": [
-        "social_issues",
-        "elections_politics"
+        "social_issues"
       ],
       "publishedAtTs": 1767366977
     },
@@ -807,9 +854,7 @@
       "urlToImage": "https://imagez.tmz.com/image/54/16by9/2026/01/02/54a1e38a59ab4e8c97d27d9924ff2142_xl.jpg",
       "publishedAt": "2026-01-02T01:49:17Z",
       "content": "Rachel Uchitel, known for her headline making past with Tiger Woods, is now a married woman ... TMZ has confirmed.\r\nWedding guests tell TMZ ... the \"Miss Understood with Rachel Uchitel\" podcast host … [+963 chars]",
-      "tags": [
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1767318557
     },
     {
@@ -842,7 +887,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20251229__898C2RW__v2__HighRes__IranPoliticsEconomyDemo-1767346375.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T10:37:19Z",
       "content": "United States President Donald Trump has said Washington is locked and loaded to respond if Iran kills more protesters, after cost-of-living demonstrations in the country turned deadly.\r\nProtesters a… [+2857 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1767350239
     },
     {
@@ -875,7 +924,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25344772186399-1767328477.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T05:52:59Z",
       "content": "Venezuela is open to negotiating a deal with the United States to combat drug trafficking, President Nicolas Maduro has said, even as he remained silent on a reported CIA-led strike on his country la… [+3568 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767333179
     },
     {
@@ -891,9 +944,9 @@
       "publishedAt": "2026-01-02T09:22:29Z",
       "content": "Russia finished 2025 with what Ukraine described as an information operation designed to avoid engaging in peace talks and continue its war, despite suffering staggering casualties for meagre territo… [+7156 chars]",
       "tags": [
+        "foreign_policy",
         "russia",
-        "ukraine",
-        "foreign_policy"
+        "ukraine"
       ],
       "publishedAtTs": 1767345749
     },
@@ -909,11 +962,7 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_6958473c74f8-1767393084.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T23:16:49Z",
       "content": "Tesla has lost its place as the top global seller of electric vehicles to Chinese company BYD, capping a year defined by outrage over CEO Elon Musks political manoeuvring and the end of United States… [+2503 chars]",
-      "tags": [
-        "economy_finance",
-        "automotive",
-        "energy"
-      ],
+      "tags": [],
       "publishedAtTs": 1767395809
     },
     {
@@ -929,9 +978,9 @@
       "publishedAt": "2026-01-02T22:11:20Z",
       "content": "A federal judge in the United States has refused the pre-trial release of a man charged with planting two pipe bombs outside the headquarters of the Democratic and Republican national parties on the … [+3188 chars]",
       "tags": [
-        "legal_justice",
-        "terrorism",
-        "security_intelligence"
+        "criminal_cases",
+        "security_intelligence",
+        "legal_justice"
       ],
       "publishedAtTs": 1767391880
     },
@@ -964,7 +1013,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20251229__898K4ZR__v2__HighRes__IranPoliticsEconomyDemo-1767364417.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T17:19:44Z",
       "content": "Protests about the soaring cost of living in Iran have entered their sixth day after the rial plunged to a record low against the United States dollar in late December.\r\nAfter a number of deaths as a… [+6879 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "iran"
+      ],
       "publishedAtTs": 1767374384
     },
     {
@@ -980,9 +1032,9 @@
       "publishedAt": "2026-01-02T23:32:32Z",
       "content": "Here is where things stand on Saturday, January 3:\r\nFighting\r\n<ul><li>Two people were killed, including a three-year-old child, and at least 31 people were wounded in a Russian ballistic missile atta… [+3141 chars]",
       "tags": [
+        "foreign_policy",
         "russia",
-        "ukraine",
-        "foreign_policy"
+        "ukraine"
       ],
       "publishedAtTs": 1767396752
     },
@@ -1002,7 +1054,7 @@
         "foreign_policy",
         "middle_east",
         "israel",
-        "regional_state"
+        "gaza"
       ],
       "publishedAtTs": 1767389810
     },
@@ -1018,7 +1070,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26002653188023-1767378728.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T19:02:38Z",
       "content": "Federal authorities in the United States have accused an 18-year-old of plotting to carry out a potential terrorist attack on New Years Eve in the suburban town of Mint Hill, North Carolina, outside … [+4933 chars]",
-      "tags": [],
+      "tags": [
+        "terrorism",
+        "law_enforcement"
+      ],
       "publishedAtTs": 1767380558
     },
     {
@@ -1033,7 +1088,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-12-12T180639Z_1594391276_RC223DANB83A_RTRMADP_3_USA-HEALTH-MEASLES-1767384435.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-02T20:56:21Z",
       "content": "Officials in the United States have announced that the measles outbreak in the southern state of South Carolina has grown to 185 cases, up nine from earlier this week.\r\nIn Fridays update, state offic… [+4470 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "healthcare"
+      ],
       "publishedAtTs": 1767387381
     },
     {
@@ -1066,8 +1124,8 @@
       "publishedAt": "2026-01-02T11:49:38Z",
       "content": "NEW YORK (AP) Zohran Mamdani became mayor of New York City on Thursday, taking over one of the most unrelenting jobs in American politics with a promise to transform government on behalf of the citys… [+8908 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "elections_politics",
+        "government_administration"
       ],
       "publishedAtTs": 1767354578
     },
@@ -1085,7 +1143,7 @@
       "content": "Barron Trump, the 19-year-old son of President Donald Trump and First Lady Melania Trump, has found himself as the target of a renewed conspiracy theory after a brief New Year’s Eve clip spread acros… [+9107 chars]",
       "tags": [
         "personal_family",
-        "personal_activities"
+        "media_communications"
       ],
       "publishedAtTs": 1767371532
     },
@@ -1101,7 +1159,11 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2026/01/GettyImages-2254396011-e1767394913157.jpg?fit=8192%2C4096&w=1200&h=800",
       "publishedAt": "2026-01-02T23:46:47Z",
       "content": "The Israeli government and its allies are coming for the new Mayor of New York, Zohran Mamdani, over his decision to erase much of former Mayor Eric Adams tumultuous swan song, including two executiv… [+5031 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "legal_justice"
+      ],
       "publishedAtTs": 1767397607
     },
     {
@@ -1116,7 +1178,10 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/12/Karen-Hao.jpg?fit=2000%2C1000&w=1200&h=800",
       "publishedAt": "2026-01-02T11:00:00Z",
       "content": "After OpenAI CEO Sam Altman launched ChatGPT in 2022, the race for dominance in the field of artificial intelligence hit warp speed. Silicon Valley has poured billions of dollars into developing AI, … [+36411 chars]",
-      "tags": [],
+      "tags": [
+        "artificial_intelligence",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1767351600
     },
     {
@@ -1187,8 +1252,7 @@
       "tags": [
         "elections_politics",
         "2026_midterms",
-        "republican_party",
-        "trump"
+        "leadership"
       ],
       "publishedAtTs": 1767362454
     },
@@ -1206,7 +1270,8 @@
       "content": "Marjorie Taylor Greene really wants us to believe shes done with politics. Thats what the retiring Georgia GOP congresswoman told journalist Robert Draper for his lengthy end-of-year profile he wrote… [+8697 chars]",
       "tags": [
         "elections_politics",
-        "republican_party"
+        "republican_party",
+        "congress"
       ],
       "publishedAtTs": 1767353446
     },
@@ -1222,7 +1287,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2021/06/nick-fuentes-0628211.jpg",
       "publishedAt": "2026-01-02T11:00:10Z",
       "content": "Far-right activist Nick Fuentes continues to gain momentum.\r\nThe openly racist and antisemitic podcaster has emerged as an influential figure on the American political right. Recent profiles in The A… [+8229 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "racial_justice",
+        "elections_politics"
+      ],
       "publishedAtTs": 1767351610
     },
     {
@@ -1255,7 +1324,10 @@
       "urlToImage": "https://images.newrepublic.com/c6e9e6fb228862825147ebd39100b9c38f48931c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-01-02T13:44:12Z",
       "content": "As far as American citizens, the vast majority of American citizens, especially that the U.S. Border patrol has arrested, many of those citizens assaulted federal officers, assaulted border patrol ag… [+768 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
       "publishedAtTs": 1767361452
     },
     {
@@ -1307,8 +1379,9 @@
       "publishedAt": "2026-01-02T14:46:10Z",
       "content": "Good News! George and Amal Clooney, two of the worst political prognosticators of all time, have officially become citizens of France which is, sadly, in the midst of a major crime problem because of… [+1067 chars]",
       "tags": [
-        "elections_politics",
-        "personal_family"
+        "personal_family",
+        "media_communications",
+        "foreign_policy"
       ],
       "publishedAtTs": 1767365170
     },
@@ -1343,9 +1416,8 @@
       "publishedAt": "2026-01-02T19:21:27Z",
       "content": "Good News! George and Amal Clooney, two of the worst political prognosticators of all time, have officially become citizens of France which is, sadly, in the midst of a major crime problem because of… [+1067 chars]",
       "tags": [
-        "immigration",
-        "government_administration",
-        "federal_agencies"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1767381687
     },
@@ -1362,9 +1434,8 @@
       "publishedAt": "2026-01-02T17:40:48Z",
       "content": "Good News! George and Amal Clooney, two of the worst political prognosticators of all time, have officially become citizens of France which is, sadly, in the midst of a major crime problem because of… [+1067 chars]",
       "tags": [
-        "social_media",
-        "technology_regulation",
-        "public_health_emergency"
+        "ai_state_preemption",
+        "social_issues"
       ],
       "publishedAtTs": 1767375648
     },
@@ -1381,9 +1452,7 @@
       "publishedAt": "2026-01-02T11:00:00Z",
       "content": "The credit card companies countered by developing more secure chip and tap-to-pay features, and by loading credit cards onto cell phones. Adoption of the new technology was initially slow, but demand… [+2020 chars]",
       "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "social_issues"
+        "policy_legislation"
       ],
       "publishedAtTs": 1767351600
     },
@@ -1399,7 +1468,11 @@
       "urlToImage": "https://images.newrepublic.com/3e105d11127d1a51080ff7949fba987a9ab7991c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-01-02T11:00:00Z",
       "content": "Quite apart from such such agencies subservience to the current\r\nWhite House, screeds like Kavanaughs, against\r\nthe headless fourth branch leave out the landmark accountability regime that\r\nthe post-… [+1499 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "supreme_court",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1767351600
     },
     {
@@ -1429,7 +1502,11 @@
       "urlToImage": "https://i.cbc.ca/ais/8acfc4d9-22a6-4a61-9067-31e6ada300b8,1767364301647/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C476%2C6000%2C3375%29%3BResize%3D620",
       "publishedAt": "2026-01-02T15:01:43Z",
       "content": "Tesla lost its crown as the world's bestselling electric vehicle (EV) maker on Friday as a customer revolt over Elon Musk's right-wing politics and stiff overseas competition pushed sales down for a … [+905 chars]",
-      "tags": [],
+      "tags": [
+        "automotive",
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1767366103
     },
     {
@@ -1447,8 +1524,7 @@
       "tags": [
         "media_communications",
         "social_media",
-        "economy_finance",
-        "technology_regulation"
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1767330060
     },
@@ -1464,7 +1540,10 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/00-cia.jpg",
       "publishedAt": "2026-01-02T14:55:20Z",
       "content": "Yves here. Trump, showing his long-established tendency to believe the last person who spoke to him, has gone from accepting Vladimir Putin’s report that Ukraine attempted to assassinate him via over… [+5210 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767365720
     },
     {
@@ -1494,7 +1573,12 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/00-Africa.png",
       "publishedAt": "2026-01-02T10:55:24Z",
       "content": "On one of his YouTubes, Gonzalo Lira and I discussed what I called belief clusters, that those who held one set of views were assumed to subscribe to a related set of opinions. A noteworthy example i… [+20597 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "china",
+        "africa",
+        "trade"
+      ],
       "publishedAtTs": 1767351324
     },
     {
@@ -1509,7 +1593,10 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Captura-de-pantalla-2025-12-31-162245-300x136.png",
       "publishedAt": "2026-01-02T11:45:29Z",
       "content": "Yet more evidence that improving the lot of those at the very bottom of the income ladder does not necessarily produce unemployment or runaway inflation. \r\nJust under a month ago, Mexico’s President … [+13287 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "labor"
+      ],
       "publishedAtTs": 1767354329
     },
     {
@@ -1543,7 +1630,12 @@
       "urlToImage": "https://webapi.project-syndicate.org/library/47a70703779cd8efe58dee227cf8d383.2-1-super.1.jpg",
       "publishedAt": "2026-01-02T14:42:03Z",
       "content": "US President Donald Trump claims that Europeans are engaging in \"censorship\" when they require digital platforms to be transparent about their algorithms and to remove already illegal content. With t… [+7325 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "censorship",
+        "foreign_policy",
+        "europe"
+      ],
       "publishedAtTs": 1767364923
     },
     {
@@ -1558,7 +1650,10 @@
       "urlToImage": "https://webapi.project-syndicate.org/library/004b8d5fc8f68fe5a1055d89060c9270.2-1-super.1.jpg",
       "publishedAt": "2026-01-02T11:33:06Z",
       "content": "Last year will be remembered as one of global reckoning. The future of the international order remains unknown, but now we know which countries are best prepared to adapt to the loss of what came bef… [+5730 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "international_crisis"
+      ],
       "publishedAtTs": 1767353586
     },
     {
@@ -1575,8 +1670,7 @@
       "content": "AMYGOODMAN: This is Democracy Now!, democracynow.org, The War and Peace Report. I’m Amy Goodman, as we continue coverage of the historic inauguration of democratic socialist Zohran Mamdani as the may… [+5063 chars]",
       "tags": [
         "elections_politics",
-        "regional_state",
-        "new_york"
+        "social_issues"
       ],
       "publishedAtTs": 1767360140
     },
@@ -1592,7 +1686,11 @@
       "urlToImage": "https://www.democracynow.org/images/story/25/80425/full_hd/ZohranMamdaniBernieSandersRamaDuwaji-AmyGoodman.jpg",
       "publishedAt": "2026-01-02T13:39:37Z",
       "content": "AMYGOODMAN: This is Democracy Now!, democracynow.org. I’m Amy Goodman.\r\nWe continue our coverage of the New Year’s Day inauguration of the democratic socialist Zohran Mamdani as the mayor of New York… [+13980 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "elections_politics",
+        "democratic_party"
+      ],
       "publishedAtTs": 1767361177
     }
   ]

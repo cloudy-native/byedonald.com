@@ -89,7 +89,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0c70/live/2f0d5ba0-c0ba-11f0-8669-5560f5c90fbe.png",
       "publishedAt": "2025-11-13T17:50:40Z",
       "content": "The BBC was accused of a misleading edit of Donald Trump's 6 January 2021 speech two years before the Panorama sequence that led to the resignation of the director-general.\r\nThe clip aired on Newsnig… [+2406 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
       "publishedAtTs": 1763056240
     },
     {
@@ -104,7 +107,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/535a/live/63a05d40-c0ab-11f0-ae46-bd64331f0fd4.jpg",
       "publishedAt": "2025-11-13T20:30:25Z",
       "content": "The BBC has apologised to US President Donald Trump for a Panorama episode which spliced parts of a speech together, but rejected his demands for compensation.\r\nThe corporation also said it would not… [+1914 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
       "publishedAtTs": 1763065825
     },
     {
@@ -119,7 +125,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9783/live/2991bb80-c03d-11f0-ae46-bd64331f0fd4.jpg",
       "publishedAt": "2025-11-13T05:45:53Z",
       "content": "Sean Dilley,North America Correspondent, \r\nEd Campbell,BBC News Investigations and \r\nAndrew has always denied any wrongdoing and has not faced any charges.\r\nAndrew Mountbatten-Windsor told Jeffrey Ep… [+6993 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice"
+      ],
       "publishedAtTs": 1763012753
     },
     {
@@ -380,7 +388,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ByztOqQynldiHZBuXz3Mwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/ec5bce25c7cf282ea17bf7c9461cac12",
       "publishedAt": "2025-11-13T18:54:19Z",
       "content": "NEW YORK On the heels of a resounding rejection in the Nov. 4 elections, Republicans have found a silver lining: a new Democratic bogeyman in New York City Mayor-elect Zohran Mamdani.\r\nThe 34-year-ol… [+5324 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "republican_party",
+        "democratic_party"
+      ],
       "publishedAtTs": 1763060059
     },
     {
@@ -820,7 +833,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e73c8945-903d-4734-9955-65cdfbead441/251113_abc_social_leo_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-11-13T23:01:12Z",
       "content": "<ul><li>House Republican Greg Steube on why he voted against ending the government shutdown\r\n</li><li>$2,000 tariff dividend payment? 50-year mortgages? Here's the math\r\n</li><li>Sen. John Fetterman … [+4491 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1763074872
     },
     {
@@ -1041,7 +1056,10 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/11/Untitled-design-35.jpg",
       "publishedAt": "2025-11-13T14:06:39Z",
       "content": "If youve ever stopped yourself from applying to a job that feels out of your league, take one look at Kash Patel; it might be all the inspiration you need to shoot for the stars. \r\nIn the eleven mont… [+4216 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "legal_justice"
+      ],
       "publishedAtTs": 1763042799
     },
     {
@@ -1297,7 +1315,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-1154615740.jpg?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
       "publishedAt": "2025-11-13T18:25:10Z",
       "content": "Protesters hold up signs of Jeffrey Epstein and President Donald Trump in front of the New York City federal courthouse in 2019. | Stephanie Keith/Getty Images\r\n\n\n\nKey takeaways\r\n\n\n\n\n<ul>\n<li>Democra… [+9407 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
       "publishedAtTs": 1763058310
     },
     {
@@ -1386,7 +1407,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f5e/live/45fdfe10-c0e6-11f0-807e-b31d0d440dec.jpg",
       "publishedAt": "2025-11-13T23:21:04Z",
       "content": "Neil Robertson claimed a hard-fought 6-4 victory over John Higgins to reach the semi-finals of the Champion of Champions in Leicester.\r\nAustralia's Robertson knocked in breaks of 83 and 127, while Sc… [+806 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1763076064
     },
     {
@@ -1547,7 +1570,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/ap_6915b06054c25-1763029088.jpg?resize=1920%2C1440",
       "publishedAt": "2025-11-13T14:31:23Z",
       "content": "United States President Donald Trump signed a new government finance bill on Wednesday, ending a Republican-Democrat standoff over the bill and the longest government shutdown in US history.\r\nThe fed… [+11866 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "budget"
+      ],
       "publishedAtTs": 1763044283
     },
     {
@@ -1675,7 +1702,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/2025-11-12T150453Z_1569215274_RC2MTHAHXRMT_RTRMADP_3_BRITAIN-BBC-1763069787.jpg?resize=1920%2C1440",
       "publishedAt": "2025-11-13T23:06:31Z",
       "content": "Britains public broadcaster, the BBC, has apologised to Donald Trump for editing a speech to make it look like he had advocated violence, seeking to ward off the United States presidents threat of le… [+3867 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "legal_justice"
+      ],
       "publishedAtTs": 1763075191
     },
     {
@@ -1816,7 +1846,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25317151985835-1763043733.jpg?resize=1920%2C1440",
       "publishedAt": "2025-11-13T15:01:42Z",
       "content": "The approval rating for United States President Donald Trump remains at its lowest level since he began his second term in January, according to a new poll.\r\nBut Thursdays survey, conducted by the ne… [+2912 chars]",
-      "tags": [],
+      "tags": [
+        "polling",
+        "elections_politics",
+        "2026_midterms"
+      ],
       "publishedAtTs": 1763046102
     }
   ]

@@ -29,6 +29,7 @@
     "move-articles-to-correct-date": "ts-node scripts/move-articles-to-correct-date.ts",
     "prune-tagged-news": "ts-node scripts/prune-tagged-news.ts",
     "retag-untagged-articles": "ts-node scripts/retag-untagged-articles.ts",
+    "convert-worst-things-to-json": "ts-node scripts/convert-worst-things-to-json.ts",
     "biome:check": "biome check .",
     "biome:fix": "biome check --write .",
     "biome:format": "biome format .",

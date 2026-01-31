@@ -16,7 +16,7 @@
       "content": "For Juárez, the main factor behind digital disruption is disintermediation. Basically, that each of us is now our own media outlet. Thats what these platforms have sold us: You choose what to be info… [+4443 chars]",
       "tags": [
         "foreign_policy",
-        "latin_america",
+        "venezuela_intervention",
         "media_communications"
       ],
       "publishedAtTs": 1768125600
@@ -53,7 +53,7 @@
       "content": "NPR's Sacha Pfeiffer talks with Peter Krause of Boston College about the Trump Administration's willingness to act unilaterally against other countries and what this means for international relations.",
       "tags": [
         "foreign_policy",
-        "international_crisis"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1768136743
     },
@@ -69,7 +69,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2680x1508+0+140/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F68%2F351faf2245d6963e61860ebe819a%2Fap26010842324226.jpg",
       "publishedAt": "2026-01-11T07:46:38Z",
       "content": "DUBAI, United Arab Emirates Nationwide protests challenging Iran's theocracy saw protesters flood the streets in the country's capital and its second-largest city into Sunday, crossing the two-week m… [+5645 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1768117598
     },
     {
@@ -85,8 +89,8 @@
       "publishedAt": "2026-01-11T18:18:04Z",
       "content": "MINNEAPOLIS The Department of Homeland Security blocked federal lawmakers from visiting an immigration detention facility in Minneapolis this weekend under a new visitation policy from the head of th… [+2998 chars]",
       "tags": [
-        "government_administration",
-        "federal_agencies"
+        "immigration",
+        "government_administration"
       ],
       "publishedAtTs": 1768155484
     },
@@ -105,7 +109,7 @@
       "tags": [
         "protests",
         "immigration",
-        "social_issues"
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1768100821
     },
@@ -138,7 +142,10 @@
       "urlToImage": "https://i.insider.com/695d22f864858d02d217cee6?width=1200&format=jpeg",
       "publishedAt": "2026-01-11T10:44:01Z",
       "content": "Over 400 student-loan borrowers shared their repayment and debt relief stories.sengchoy/Getty Images\r\n<ul><li>In one month, over 400 student-loan borrowers shared their repayment experiences with Bus… [+6321 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "education"
+      ],
       "publishedAtTs": 1768128241
     },
     {
@@ -155,7 +162,7 @@
       "content": "Former White House Communications Director Anthony Scaramucci knows the real reason Trump wrenched Nicolás Maduro out of Venezuelaand it has nothing to do with narcoterrorism. I think Trump looks at … [+296 chars]",
       "tags": [
         "foreign_policy",
-        "trade"
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1768158610
     },
@@ -171,7 +178,10 @@
       "urlToImage": null,
       "publishedAt": "2026-01-11T16:31:17Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768149077
     },
     {
@@ -188,8 +198,7 @@
       "content": "WASHINGTON (AP) President Donald Trump's photo portrait display at the Smithsonian's National Portrait Gallery has had references to his two impeachments removed, the latest apparent change at the co… [+4828 chars]",
       "tags": [
         "legal_justice",
-        "impeachment",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1768157527
     },
@@ -205,7 +214,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lm57cicEr_NvXhaH5vgA_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/3d80e50f5a439e4748778ed77cb3ed82",
       "publishedAt": "2026-01-11T14:10:46Z",
       "content": "Prediction markets let people wager on anything from a basketball game to the outcome of a presidential election and recently, the downfall of former Venezuelan President Nicolás Maduro.\r\nThe latter … [+7316 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768140646
     },
     {
@@ -221,7 +232,7 @@
       "publishedAt": "2026-01-11T10:00:44Z",
       "content": "The holidays are over. The darkness is heavy. Basically, winters making things pretty drab right now.\r\nThis is all making plenty of people daydream about longer days and warmer weather. That being sa… [+1635 chars]",
       "tags": [
-        "policy_legislation"
+        "off_topic"
       ],
       "publishedAtTs": 1768125644
     },
@@ -238,8 +249,7 @@
       "publishedAt": "2026-01-11T14:12:12Z",
       "content": "<ul><li>In recent days, analysts at BMO Capital and Wells Fargo have revisited their views on Texas Roadhouse, maintaining cautious sector stances while expressing relatively more constructive opinio… [+3378 chars]",
       "tags": [
-        "economy_finance",
-        "automotive"
+        "economy_finance"
       ],
       "publishedAtTs": 1768140732
     },
@@ -256,10 +266,9 @@
       "publishedAt": "2026-01-11T16:35:29Z",
       "content": "Trumpy Sen. Markwayne Mullin contradicted himself on live television while defending a federal immigration agent who fatally shot a Minneapolis mother.\r\nDuring an appearance on CNNs State of the Unio… [+4381 chars]",
       "tags": [
+        "legal_justice",
         "immigration",
-        "law_enforcement",
-        "media_communications",
-        "social_issues"
+        "media_communications"
       ],
       "publishedAtTs": 1768149329
     },
@@ -277,7 +286,7 @@
       "content": "Minnesota Democratic Sen. Tina Smith said Sunday that the Trump administration was \"attempting to cover up what happened\" in the fatal shooting\r\n of Renee Good, a U.S. citizen and mother of three, by… [+2045 chars]",
       "tags": [
         "law_enforcement",
-        "security_intelligence",
+        "immigration",
         "social_issues"
       ],
       "publishedAtTs": 1768142936
@@ -295,7 +304,7 @@
       "publishedAt": "2026-01-11T18:10:17Z",
       "content": "<ul><li>Minnesota ACLU calls for federal agents to withdraw from the state \r\n</li><li>Outrage grows after fatal ICE shooting in Minneapolis\r\n</li><li>Anti-government protests escalate in Iran\r\n</li><… [+4315 chars]",
       "tags": [
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1768155017
     },
@@ -311,7 +320,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2708601327-1200x675.jpg",
       "publishedAt": "2026-01-11T22:14:08Z",
       "content": "The Trump administration is rapidly expanding an initiative to secure the global AI and tech supply chains.\r\nLed by the U.S., six countriesIsrael, Singapore, Japan, South Korea, Australia and the Uni… [+4471 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1768169648
     },
     {
@@ -326,7 +339,10 @@
       "urlToImage": "https://media.newyorker.com/photos/69617648b707d44b04fedf2b/16:9/w_1280,c_limit/r47637_rd.png",
       "publishedAt": "2026-01-11T11:00:00Z",
       "content": "When the King visited Greenland in Aprillooking jaunty and at ease while cruising on a fjord with the Prime Minister, and taking a coffee-and-cake break with locals at a cultural center in Nuukthe co… [+4056 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "greenland_acquisition"
+      ],
       "publishedAtTs": 1768129200
     },
     {
@@ -341,7 +357,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/x899noA28NJKIWyHkSSNYLd0CuA=/0x27:1248x677/1200x625/media/img/2026/01/PurgedHP/original.gif",
       "publishedAt": "2026-01-11T19:00:00Z",
       "content": "Photographs by Dina LitovskyThe purge began late Friday night, four days after Donald Trump returned to the White House. Seventeen inspectors general—internal watchdogs embedded throughout the federa… [+58333 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
       "publishedAtTs": 1768158000
     },
     {
@@ -358,8 +377,8 @@
       "content": "Shayan Sardarizadeh &amp; Richard Irvine-Brown,BBC Verifyand\r\nWatch: Protesters and security forces clash in Iran protests\r\nProtesters in Iran defied a deadly government crackdown on Saturday night, … [+7205 chars]",
       "tags": [
         "protests",
-        "iran",
-        "security_incidents"
+        "foreign_policy",
+        "iran"
       ],
       "publishedAtTs": 1768110296
     },
@@ -375,7 +394,10 @@
       "urlToImage": "https://substackcdn.com/image/fetch/$s_!1MdV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb98ad234-46fd-4b58-91d2-e5f81efe1769_1214x812.png",
       "publishedAt": "2026-01-11T15:54:37Z",
       "content": "The Image above proves the ICE Officer was justified in his decision to use deadly force. He had no obligation to step out of the way that would benefit her or subject him to prosecution. He had no o… [+32178 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "law_enforcement"
+      ],
       "publishedAtTs": 1768146877
     },
     {
@@ -392,8 +414,7 @@
       "content": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures:Stop, Shop, and Scroll: Behind every influencer is an army of the influenced, many adrift in debt and mass-prod… [+3350 chars]",
       "tags": [
         "social_issues",
-        "economy_finance",
-        "personal_family"
+        "economy_finance"
       ],
       "publishedAtTs": 1768131000
     },
@@ -410,8 +431,7 @@
       "publishedAt": "2026-01-11T20:30:00Z",
       "content": "from the so-you-say dept\r\nThis week, our first place winner on the insightful side is David with a comment about the murder of Renee Good by ICE:\r\nKristi Noem is right about one thing:\r\nIt was an act… [+3706 chars]",
       "tags": [
-        "social_issues",
-        "immigration"
+        "off_topic"
       ],
       "publishedAtTs": 1768163400
     },
@@ -429,8 +449,8 @@
       "content": "When Donald Trump called himself “the peace president” during his 2024 campaign, it was not just a slogan that my fellow Gen Z men and I took seriously, but also a promise we took personally. For a g… [+4323 chars]",
       "tags": [
         "elections_politics",
-        "2024_presidential",
-        "social_issues"
+        "foreign_policy",
+        "venezuela_intervention"
       ],
       "publishedAtTs": 1768143600
     },
@@ -446,7 +466,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce3c/live/3473a5a0-ef03-11f0-bff1-0379204eb6d3.jpg",
       "publishedAt": "2026-01-11T16:21:39Z",
       "content": "Reigning Masters champion Shaun Murphy was eliminated on day one of the 2026 event, losing 6-2 to China's Wu Yize in the first round.\r\nMurphy, who beat Kyren Wilson to win the Triple Crown event for … [+614 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768148499
     },
     {
@@ -461,7 +483,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_695ff390d1b3b-1767895952.jpg?resize=1200%2C675",
       "publishedAt": "2026-01-11T10:03:49Z",
       "content": "Irans state media says dozens of security forces have been killed during protests in the sanctions-hit country against a severe economic crisis, as the parliament speaker warned the United States and… [+4145 chars]",
-      "tags": [],
+      "tags": [
+        "iran",
+        "protests",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768125829
     },
     {
@@ -476,7 +502,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25269782846491-1768106317.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-11T11:27:15Z",
       "content": "After President Donald Trumps unilateral decision to use the United States military to capture Venezuelan leader Nicolas Maduro, some lawmakers criticised him for ordering it without any authorisatio… [+2977 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "legal_justice",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1768130835
     },
     {
@@ -491,7 +521,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP22137704722736-1710775477-1768149821.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2026-01-11T17:22:04Z",
       "content": "United States President Donald Trump says no more Venezuelan oil or money will go to Cuba, and he has suggested the communist-run island should strike a deal with Washington, ramping up pressure on t… [+3624 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "trade"
+      ],
       "publishedAtTs": 1768152124
     },
     {
@@ -506,7 +540,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20260110__92B996P__v1__HighRes__UsImmigrationOfficerKillsWomanInMinneapolis-1768120910.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-11T09:38:30Z",
       "content": "Demonstrators took to the streets of Minneapolis, chanting the name of the woman killed by a federal agent in the city of the midwestern US state of Minnesota, amid widespread anger at the use of for… [+2029 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "immigration",
+        "law_enforcement",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1768124310
     },
     {
@@ -524,9 +563,7 @@
       "tags": [
         "foreign_policy",
         "china",
-        "russia",
-        "iran",
-        "regional_state"
+        "russia"
       ],
       "publishedAtTs": 1768134447
     },
@@ -543,10 +580,8 @@
       "publishedAt": "2026-01-11T12:56:22Z",
       "content": "NewsFeed\r\nTehran has warned it will retaliate against US military bases and Israel if Iran is attacked. Irans parliamentary speaker was addressing US President Donald Trump, who has threatened Irans … [+47 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "security_intelligence",
-        "military"
+        "foreign_policy"
       ],
       "publishedAtTs": 1768136182
     },
@@ -562,7 +597,9 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1768159076.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-11T19:18:04Z",
       "content": "America First foreign policy means that the United States is becoming a country that opposes the rule of law, free trade and collective security, argues Ian Bremmer, president of the risk analysis fi… [+432 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768159084
     },
     {
@@ -578,10 +615,10 @@
       "publishedAt": "2026-01-11T11:24:29Z",
       "content": "United States Homeland Security Secretary Kristi Noem has described the actions of Renee Nicole Good, a Minneapolis woman killed by an Immigration and Customs Enforcement (ICE) officer on Wednesday, … [+7917 chars]",
       "tags": [
-        "law_enforcement",
-        "security_intelligence",
+        "legal_justice",
         "immigration",
-        "social_issues"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1768130669
     },
@@ -600,8 +637,7 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "protests",
-        "economy_finance"
+        "protests"
       ],
       "publishedAtTs": 1768136990
     },
@@ -617,7 +653,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_6963c2306ea3-1768145456.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-11T18:13:14Z",
       "content": "Amid intensifying protests in Iran, the worlds richest man has weighed in.\r\nOn January 4, Elon Musk, the multi-billionaire owner of social media platform X, responded to a post by Irans Supreme Leade… [+6984 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "social_media"
+      ],
       "publishedAtTs": 1768155194
     },
     {
@@ -633,10 +673,9 @@
       "publishedAt": "2026-01-11T01:32:44Z",
       "content": "Here is where things stand on Sunday, January 11:\r\nFighting:\r\n<ul><li>Russian forces launched artillery and drone attacks on Ukraines Dnipropetrovsk region on Saturday, killing a 68-year-old man, wou… [+4758 chars]",
       "tags": [
-        "russia",
-        "ukraine",
         "foreign_policy",
-        "nato"
+        "russia",
+        "ukraine"
       ],
       "publishedAtTs": 1768095164
     },
@@ -653,8 +692,8 @@
       "publishedAt": "2026-01-11T12:49:36Z",
       "content": "I’ve seen some comments that whatever the hideousness of it, President Trump’s and the GOP’s insistent defense of Minneapolis shooting is actually good politics the thinking being that it pulls the p… [+2932 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "social_issues",
+        "legal_justice"
       ],
       "publishedAtTs": 1768135776
     },
@@ -671,9 +710,9 @@
       "publishedAt": "2026-01-11T18:13:38Z",
       "content": "The old airstrip in Maicao is a place where no one chooses to live. Yet over the past decade thousands of Venezuelan refugees have settled here, crossing the border eight miles away and putting down … [+8433 chars]",
       "tags": [
+        "venezuela_intervention",
         "foreign_policy",
-        "immigration",
-        "crisis_emergency"
+        "immigration"
       ],
       "publishedAtTs": 1768155218
     },
@@ -707,7 +746,11 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2026/01/AP25143400993062-e1768093229446.jpg?fit=4000%2C2000&w=1200&h=800",
       "publishedAt": "2026-01-11T11:00:00Z",
       "content": "The U.S. attack on Venezuela and abduction of its president Nicolás Maduro was proof that after months of threats, the Trump administrations talk of hemispheric hegemony isnt just bluster. The admini… [+12257 chars]",
-      "tags": [],
+      "tags": [
+        "africa",
+        "foreign_policy",
+        "military"
+      ],
       "publishedAtTs": 1768129200
     },
     {
@@ -723,10 +766,9 @@
       "publishedAt": "2026-01-11T12:00:00Z",
       "content": "Ahmed Bin Hassan was keeping to himself, sitting in the car he was driving for Uber at the airport in Minneapolis. A few hours earlier, elsewhere in the city, an officer with U.S. Immigration and Cus… [+7067 chars]",
       "tags": [
-        "immigration",
         "civil_rights",
-        "law_enforcement",
-        "personal_family"
+        "immigration",
+        "law_enforcement"
       ],
       "publishedAtTs": 1768132800
     },
@@ -744,9 +786,8 @@
       "content": "As the nation reels from last week’s fatal ICE shooting of Renee Good, the stars at Sunday’s 83rd Golden Globe Awards used the red carpet to protest the government agency.\r\nMark Ruffalo and Wanda Syk… [+2451 chars]",
       "tags": [
         "social_issues",
-        "protests",
-        "government_administration",
-        "immigration"
+        "immigration",
+        "media_communications"
       ],
       "publishedAtTs": 1768174429
     },
@@ -799,8 +840,7 @@
       "publishedAt": "2026-01-11T15:22:19Z",
       "content": "Late night legend David Letterman was an anchor of the CBS lineup for over two decades, and he cant keep quiet about what hes seeing from the networks news division.\r\nDuring a visit to The Barbara Ga… [+1380 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "media_communications"
       ],
       "publishedAtTs": 1768144939
     },
@@ -816,7 +856,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/01/Ranked-Choice-Voting-2228885302.jpg",
       "publishedAt": "2026-01-11T11:30:51Z",
       "content": "New York Citys hottest club is the Democratic primary for the 12th congressional district. This race has everything. Never Trump poster-boy George Conway has joined a famous legal pundit, a big-time … [+6491 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "campaign_events"
+      ],
       "publishedAtTs": 1768131051
     },
     {
@@ -831,7 +875,11 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/trump-nyt-3.jpg",
       "publishedAt": "2026-01-11T11:26:13Z",
       "content": "President Donald Trump has been briefed in recent days on new options for military strikes in Iran as he considers following through on his threat to attack the country for cracking down on protester… [+5318 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768130773
     },
     {
@@ -846,7 +894,11 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/CHINA-LATAM-1600.jpg",
       "publishedAt": "2026-01-11T14:14:01Z",
       "content": "For China, US President Donald Trumps power grab in Venezuela is a frontal attack on a long-standing source of oil, cultivated through billions of dollars in loans and years of political courtship. B… [+7166 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "china",
+        "latin_america"
+      ],
       "publishedAtTs": 1768140841
     },
     {
@@ -861,7 +913,9 @@
       "urlToImage": "https://images.indianexpress.com/2026/01/UPSC-Key-Somnath-Temple-‘Romeo-Juliet-clause-and-Shadow-fleet.jpg",
       "publishedAt": "2026-01-11T12:45:47Z",
       "content": "Preliminary Examination: History of India.\r\nMains Examination: General Studies-I: Indian culture will cover the salient aspects of Art Forms, literature and Architecture from ancient to modern times.… [+26924 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768135547
     },
     {
@@ -877,11 +931,7 @@
       "publishedAt": "2026-01-11T11:55:21Z",
       "content": "A master chef transform simple ingredients into an elaborate desserthttps://t.co/xns2lKmoLu\r\n Massimo (@Rainmaker1973) January 10, 2026\r\nA Disrupted Body Clock Is Linked to Higher Dementia Risk SciTe… [+7225 chars]",
       "tags": [
-        "social_issues",
-        "climate_policy",
-        "foreign_policy",
-        "technology_regulation",
-        "public_health_emergency"
+        "off_topic"
       ],
       "publishedAtTs": 1768132521
     },
@@ -897,7 +947,12 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Screenshot-2026-01-10-at-2.48.09 PM-1024x1020.png",
       "publishedAt": "2026-01-11T10:00:18Z",
       "content": "Conor here: Im not sure why anyone would expect anything else.\r\nThe Democrats are just as responsible for the masked agents terrorizing American streets as the other side. To briefly recap.\r\nObama\r\nA… [+7579 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "law_enforcement",
+        "political_endorsements",
+        "congress"
+      ],
       "publishedAtTs": 1768125618
     },
     {
@@ -912,7 +967,9 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bgRzkYzAkrHCi3fzaHngkS-2560-80.jpg",
       "publishedAt": "2026-01-11T08:00:00Z",
       "content": "The 2026 Masters snooker live stream is about to get underway at Alexandra Palace in London, the home of the event since 2012. The tournament will see the top 16 ranked players compete for £350,000 i… [+4345 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768118400
     },
     {
@@ -927,7 +984,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/GJb9hjBdUwmRxUthnMr93c-1920-80.jpg",
       "publishedAt": "2026-01-11T17:30:00Z",
       "content": "<ul><li>SpaceX can launch another 7,500 Starlink satellites</li><li>It means 15,000 Gen2 models will be in orbit</li><li>The satellites must all be in the sky by December 2031</li></ul>\r\nSpaceX alrea… [+2636 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1768152600
     },
     {
@@ -979,6 +1039,7 @@
       "content": "WASHINGTON, 11 gennaio (Reuters) - Tra i molti obiettivi delloperazione militare statunitense della scorsa settimana che ha catturato il presidente venezuelano Nicolas Maduro cè stato quello di invia… [+7332 chars]",
       "tags": [
         "foreign_policy",
+        "venezuela_intervention",
         "china"
       ],
       "publishedAtTs": 1768133336
@@ -996,7 +1057,8 @@
       "publishedAt": "2026-01-11T12:10:40Z",
       "content": "Salen, Svezia, 11 gennaio (Reuters) - La Svezia è molto critica nei confronti della retorica minacciosa contro la Groenlandia e la Danimarca da parte dellamministrazione del presidente degli Stati Un… [+1027 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768133440
     },
@@ -1012,7 +1074,10 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/11/325404-sd.jpeg",
       "publishedAt": "2026-01-11T18:24:44Z",
       "content": "di Matt Tracy\r\n11 gennaio (Reuters) - Alcuni legislatori statunitensi di entrambi i principali partiti domenica hanno messo in dubbio che unazione militare contro lIran sia lapproccio migliore per gl… [+2701 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
       "publishedAtTs": 1768155884
     },
     {
@@ -1027,7 +1092,11 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/11/325439-sd.jpeg",
       "publishedAt": "2026-01-11T19:14:19Z",
       "content": "Di Parisa Hafezi, Rami Ayyub e Maayan Lubell\r\nDUBAI/JERUSALEM, 11 gennaio (Reuters) - I disordini in Iran hanno ucciso più di 500 persone, ha detto domenica un gruppo per i diritti, mentre Teheran ha… [+8691 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "foreign_policy",
+        "iran"
+      ],
       "publishedAtTs": 1768158859
     },
     {
@@ -1060,7 +1129,11 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/11/325321-sd.jpeg",
       "publishedAt": "2026-01-11T09:33:23Z",
       "content": "Di Parisa Hafezi, Rami Ayyub e Maayan Lubell\r\nDUBAI/GERUSALEMME, 11 gennaio (Reuters) - Teheran ha minacciato domenica di compiere ritorsioni contro Israele e le basi militari statunitensi in caso di… [+5263 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1768124003
     },
     {
@@ -1130,7 +1203,11 @@
       "urlToImage": "https://s.yimg.com/os/en/insidermonkey.com/cef11e3f3d20b7c8b4627c6969af45cf",
       "publishedAt": "2026-01-11T22:15:50Z",
       "content": "Walmart Inc. (NASDAQ:WMT) is included among the 13 Best Consumer Staples Dividend Stocks to Invest in Now.\r\nBernstein Raises Walmart (WMT) Price Target on 2026 Consumer Spending Expectations\r\nNiloo /… [+2346 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "stock_market"
+      ],
       "publishedAtTs": 1768169750
     },
     {
@@ -1199,7 +1276,11 @@
       "urlToImage": "https://s.yimg.com/os/en/oilprice.com/49d9d4c9ed9b5b961cf7e9ab8c8fd9fb",
       "publishedAt": "2026-01-11T22:00:00Z",
       "content": "Traders are betting record amounts of money on China’s metals markets, expecting a continued rally in the prices of base metals and lithium.\r\nAt the end of 2025 and the start of 2026, speculators hel… [+4552 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
       "publishedAtTs": 1768168800
     },
     {
@@ -1214,7 +1295,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ckXWY1NvqoC_WbvrfehSbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/b3522200-ef28-11f0-beba-c04e5eb951e1",
       "publishedAt": "2026-01-11T19:29:55Z",
       "content": "(Bloomberg) -- Coinbase Global Inc. is escalating pressure on US lawmakers to preserve its ability to offer rewards to customers who hold stablecoins an offering the company sees at risk if certain r… [+6481 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1768159795
     },
     {
@@ -1231,7 +1315,7 @@
       "content": "Claim:\r\nU.S. President Donald Trump and first lady Melania Trump spent New Year's Day at an orphanage in Pennsylvania in 2026.\r\nIn early January 2026, social media users shared a feel-good story that… [+4276 chars]",
       "tags": [
         "personal_family",
-        "social_issues"
+        "personal_activities"
       ],
       "publishedAtTs": 1768100400
     },
@@ -1248,8 +1332,7 @@
       "publishedAt": "2026-01-11T19:00:00Z",
       "content": "\"CIA behind Strike at Venezuelan Dock That Trump Claims Was Used by Drug Smugglers, AP Sources Say.\" AP News, 31 Dec. 2025, https://apnews.com/article/trump-venezuela-cia-drone-strike-94d01342b7db67b… [+103 chars]",
       "tags": [
-        "intelligence",
-        "security_intelligence"
+        "intelligence"
       ],
       "publishedAtTs": 1768158000
     },
@@ -1266,6 +1349,7 @@
       "publishedAt": "2026-01-11T00:00:00Z",
       "content": "Claim:\r\nIn January 2026, former President George W. Bush said he was celebrating \"no longer having started the dumbest war in U.S. history.\"\r\nIn January 2026, a claim that former President George W. … [+4178 chars]",
       "tags": [
+        "personal_activities",
         "foreign_policy"
       ],
       "publishedAtTs": 1768089600
@@ -1283,7 +1367,7 @@
       "publishedAt": "2026-01-11T14:00:00Z",
       "content": "Claim:\r\nA video from November 2025 that circulated online in early January 2026 correctly stated that the Free Application for Federal Student Aid asks white applicants to further specify what ethnic… [+9585 chars]",
       "tags": [
-        "social_issues",
+        "civil_rights",
         "education"
       ],
       "publishedAtTs": 1768140000
@@ -1300,7 +1384,11 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/26/01/cnn_01-09-2026_07.39.37.png",
       "publishedAt": "2026-01-11T15:52:57Z",
       "content": "President Trump on Thursday laid into Sen. Susan Collins (R-Maine) with a profanity-laced phone call after she supported a Democratic-led war powers resolution over his actions in Venezuela.\r\nAccordi… [+1036 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768146777
     },
     {
@@ -1318,8 +1406,7 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "protests",
-        "elections_politics"
+        "protests"
       ],
       "publishedAtTs": 1768155842
     },
@@ -1336,8 +1423,7 @@
       "publishedAt": "2026-01-11T20:26:29Z",
       "content": "Former Border Patrol officer Jenn Budd used to write some really powerful and perceptive stuff for us, and now that I look back at her work, I wish more people in the media read blogs. If you listen … [+1522 chars]",
       "tags": [
-        "immigration",
-        "border_security"
+        "immigration"
       ],
       "publishedAtTs": 1768163189
     },
@@ -1355,8 +1441,7 @@
       "content": "Good morning, happy second week of January! I'd say that it can't be worse than the first week, but I feel like that's inviting some kind of disaster or more murders from our current \"administration.… [+982 chars]",
       "tags": [
         "social_issues",
-        "protests",
-        "personal_family"
+        "protests"
       ],
       "publishedAtTs": 1768136401
     },
@@ -1373,10 +1458,9 @@
       "publishedAt": "2026-01-11T17:04:34Z",
       "content": "Trump's border czar, Tom Homan, joined Kristen Welker on Meet the Press to continue the right-wing talking points following the jaw-dropping fatal shooting of 37-year-old mother of three Renee Good b… [+1418 chars]",
       "tags": [
-        "immigration",
-        "border_security",
-        "legal_justice",
-        "media_communications"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1768151074
     },
@@ -1394,7 +1478,8 @@
       "content": "Fox's Jessica Tarlov hit her counterparts on The Five on their ridiculous whining about the rhetoric coming from the left after the shooting of Renee Good by Trump's ICE thugs in Minneapolis.Tarlov w… [+3939 chars]",
       "tags": [
         "media_communications",
-        "social_issues"
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1768138735
     },
@@ -1412,8 +1497,7 @@
       "content": "11 gennaio (Reuters) - Un gruppo di paesi europei, guidati da Gran Bretagna e Germania, sta discutendo piani per aumentare la loro presenza militare in Groenlandia per mostrare al presidente degli St… [+606 chars]",
       "tags": [
         "foreign_policy",
-        "nato",
-        "international_crisis"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768150165
     },
@@ -1450,8 +1534,9 @@
       "content": "11 gennaio (Reuters) - I diplomatici nordici hanno respinto le affermazioni del presidente americano Donald Trump circa la presenza di navi russe e cinesi nei pressi della Groenlandia, ha riferito do… [+1953 chars]",
       "tags": [
         "foreign_policy",
-        "china",
-        "russia"
+        "greenland_acquisition",
+        "russia",
+        "china"
       ],
       "publishedAtTs": 1768132237
     },
@@ -1470,7 +1555,7 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "crisis_emergency"
+        "middle_east"
       ],
       "publishedAtTs": 1768108081
     },
@@ -1486,7 +1571,11 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/12/325503-sd.jpeg",
       "publishedAt": "2026-01-11T23:04:02Z",
       "content": "Di Laurie Chen, Emma Farge e Michael Martina\r\nBEIJING/GENEVA/WASHINGTON, 12 gennaio (Reuters) - Quando il Segretario al Tesoro americano Scott Bessent ha definito il principale negoziatore commercial… [+9527 chars]",
-      "tags": [],
+      "tags": [
+        "china",
+        "trade",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768172642
     },
     {
@@ -1501,7 +1590,11 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/11/325407-sd.jpeg",
       "publishedAt": "2026-01-11T18:27:42Z",
       "content": "By Lili Bayer\r\nBRUSSELS, Jan 11 (Reuters) - NATO should launch an operation in the Arctic to address U.S. security concerns, Belgiums defence minister told Reuters on Sunday, urging transatlantic uni… [+1431 chars]",
-      "tags": [],
+      "tags": [
+        "arctic",
+        "foreign_policy",
+        "nato"
+      ],
       "publishedAtTs": 1768156062
     },
     {
@@ -1517,9 +1610,9 @@
       "publishedAt": "2026-01-11T10:08:13Z",
       "content": "By Andrea Shalal\r\nWASHINGTON, Jan 11 (Reuters) - U.S. Treasury Secretary Scott Bessent will urge Group of Seven nations and others to step up their efforts to reduce reliance on critical minerals fro… [+3354 chars]",
       "tags": [
-        "foreign_policy",
         "trade",
-        "energy"
+        "energy",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768126093
     },
@@ -1537,9 +1630,7 @@
       "content": "Di Jessie Pang e James Pomfret\r\nHONG KONG, 12 gennaio (Reuters) - Lunedì lAlta Corte di Hong Kong ascolterà lappello alle attenuanti del magnate pro-democrazia Jimmy Lai, lultimo passo prima della se… [+2870 chars]",
       "tags": [
         "foreign_policy",
-        "china",
-        "legal_justice",
-        "criminal_cases"
+        "legal_justice"
       ],
       "publishedAtTs": 1768165450
     },
@@ -1555,7 +1646,10 @@
       "urlToImage": "https://media.internazionale.it/images/2026/01/11/325324-sd.jpeg",
       "publishedAt": "2026-01-11T09:54:38Z",
       "content": "L11 gennaio (Reuters) - In una nazione in cui lopposizione a quasi mezzo secolo di governo clericale è stata a lungo frammentata, il figlio dellultimo scià dellIran è diventato una voce di spicco che… [+5907 chars]",
-      "tags": [],
+      "tags": [
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768125278
     },
     {
@@ -1570,7 +1664,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7e8/live/ef5e1660-ed51-11f0-b5f7-49f0357294ff.jpg",
       "publishedAt": "2026-01-11T01:58:29Z",
       "content": "Danielle KayeBusiness reporter\r\nKristy Hallowell was left without electricity at her home in Greenwood Lake, New York for half of 2025\r\nKristy Hallowell had just lost her job when her energy bill une… [+7350 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "energy",
+        "prices"
+      ],
       "publishedAtTs": 1768096709
     },
     {
@@ -1585,7 +1683,11 @@
       "urlToImage": "https://media.juancole.com/images/2026/01/minnesota2.jpg",
       "publishedAt": "2026-01-11T05:04:23Z",
       "content": "by Alyssa Chen, Minnesota Reformer\r\nThousands peacefully protested in Minneapolis Saturday against the Trump administrations immigration crackdown following the shooting and killing of a woman by an … [+3303 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "immigration",
+        "law_enforcement"
+      ],
       "publishedAtTs": 1768107863
     },
     {
@@ -1600,7 +1702,12 @@
       "urlToImage": "https://pyxis.nymag.com/v1/imgs/469/1b4/07cec2c4cc04c4820e8905683c43276fdc-GettyImages-2251913307.1x.rsocial.w1200.jpg",
       "publishedAt": "2026-01-11T10:00:34Z",
       "content": "One of the big political stories of 2025 was the Democrats search for a message that could bring their party back from its calamitous 2024 losses. They began with a lot of confusion and divisions. So… [+6832 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "trade_negotiations_truces",
+        "mass_deportation_operation",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1768125634
     },
     {

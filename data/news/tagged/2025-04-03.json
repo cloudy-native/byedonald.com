@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 656,
+  "totalResults": 22,
   "articles": [
     {
       "source": {
@@ -16,10 +16,7 @@
       "content": "Open this photo in gallery: Liberal Leader Mark Carney and Conservative Leader Pierre Poilievre both say they would launch negotiations with the U.S. immediately after the coming election.The Canadian Press/ Getty Images\nEvery political leader in Can... [4467 chars]",
       "tags": [
         "foreign_policy",
-        "elections_politics",
-        "economy_finance",
-        "policy_legislation",
-        "regional_state"
+        "canada"
       ],
       "publishedAtTs": 1743724646
     },
@@ -36,9 +33,9 @@
       "publishedAt": "2025-04-03T23:56:13Z",
       "content": "Dozens of progressive groups are sounding the alarm over what they’re calling an “unprecedented constitutional danger” presented by the Trump administration and Congress' attacks on the judiciary as they work to implement a unified agenda.\n“We are pr... [2277 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
-        "policy_legislation"
+        "trade_negotiations_truces",
+        "policy_legislation",
+        "legal_justice"
       ],
       "publishedAtTs": 1743724573
     },
@@ -56,10 +53,8 @@
       "content": "President Donald Trump offered a rosy assessment after the stock market dropped sharply Thursday over his tariffs, saying, “I think it’s going very well.”\n“The markets are going to boom, the stock is going to boom, the country is going to boom,” he s... [1800 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "trade",
-        "government_administration",
-        "policy_legislation"
+        "tariff_impact_economy",
+        "stock_market"
       ],
       "publishedAtTs": 1743723583
     },
@@ -76,9 +71,8 @@
       "publishedAt": "2025-04-03T23:38:57Z",
       "content": "Getty Images; Alyssa Powell/BI\nThe retail investing crowd is freaking over over Trump's latest tariffs.\nUS stocks sank after the president imposed new duties on US imports, including reciprocal tariffs.\nTraders took to the internet to lament their lo... [2415 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "stock_market"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743723537
     },
@@ -95,11 +89,9 @@
       "publishedAt": "2025-04-03T23:37:24Z",
       "content": "Trump called his global tariff announcement 'Liberation Day.' But in effect, he’s pinning down the world and shackling us all to a global trade war which nobody will win.\nJust as expected, US President Donald Trump doubled down on his protectionist t... [11131 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy",
-        "policy_legislation",
-        "crisis_emergency"
+        "liberation_day_tariffs",
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743723444
     },
@@ -116,10 +108,8 @@
       "publishedAt": "2025-04-03T23:34:00Z",
       "content": "Tony Burke: If supermarkets engage in collusion-for example if Australia's two major operators agree not to undercut each other on specific products-the mandatory code of conduct will allow regulators to detect and address this quickly. Beyond that, ... [753 chars]",
       "tags": [
-        "policy_legislation",
         "elections_politics",
-        "security_intelligence",
-        "regional_state"
+        "foreign_policy"
       ],
       "publishedAtTs": 1743723240
     },
@@ -136,11 +126,9 @@
       "publishedAt": "2025-04-03T23:23:57Z",
       "content": "Democratic officials in 19 states filed a lawsuit Thursday against President Donald Trump’s attempt to reshape elections across the U.S., calling it an unconstitutional invasion of states’ clear authority to run their own elections.\nThe lawsuit is th... [4715 chars]",
       "tags": [
-        "elections_politics",
-        "voting_rights",
-        "government_administration",
         "legal_justice",
-        "policy_legislation"
+        "elections_politics",
+        "voting_rights"
       ],
       "publishedAtTs": 1743722637
     },
@@ -157,9 +145,9 @@
       "publishedAt": "2025-04-03T23:17:27Z",
       "content": "Aussie investors are in for another horror day on the local share market, with the leading index opening sharply lower following a tariff-induced bloodbath in the US overnight.\nThe second day of the selloff on Australia’s S&P-ASX200 was sparked by th... [3971 chars]",
       "tags": [
+        "trade",
         "economy_finance",
-        "stock_market",
-        "trade"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743722247
     },
@@ -176,11 +164,9 @@
       "publishedAt": "2025-04-03T23:05:59Z",
       "content": "In late March 2025, an audio clip purportedly featuring the voices of tech billionaire Elon Musk and U.S. President Donald Trump circulated widely on social media.\nThe allegedly leaked clip appeared to show Musk expressing concern over Tesla motors f... [5890 chars]",
       "tags": [
-        "media_communications",
-        "personal_business",
-        "security_intelligence",
-        "elections_politics",
-        "foreign_policy"
+        "personal_family",
+        "economy_finance",
+        "media_communications"
       ],
       "publishedAtTs": 1743721559
     },
@@ -197,11 +183,234 @@
       "publishedAt": "2025-04-03T23:02:00Z",
       "content": "Sir, – Any EU instinct to retaliate against President Trump’s tariffs would be understandable but disastrously wrong-headed. Instead of indulging in tit-for-tat economic nationalism, Europe should do something far braver: eliminate its own tariffs an... [12812 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
         "foreign_policy"
       ],
       "publishedAtTs": 1743721320
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Impact of tariffs on Irish businesses felt as early as this weekend - Ibec warns",
+      "description": "Danny McCoy said US president Donald Trump has let ‘genie is out of the bottle’ by ‘starting something that he might not be able to control’.",
+      "url": "https://www.breakingnews.ie/ireland/impact-of-tariffs-on-irish-businesses-felt-as-early-as-this-weekend-ibec-warns-1748670.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDQxNjM4MjdcXFwvMi42NDUyMDg4Ny1lMTc0Mzc4MTIyMzExNC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjdmZjU3NzYyMzM5YjgxMzUzNTJiYjQ2YjdiZjYwMjBiYjg2MTdlNGUifQ==/impact-of-tariffs-on-irish-businesses-felt-as-early-as-this-weekend-ibec-warns.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "The impact on Irish businesses and jobs from US tariffs will be felt immediately, including as early as this weekend, Ibec chief executive Danny McCoy has warned.\nAccording to Mr McCoy, demand for some Irish products will “drop quite substantially” f... [3028 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "TikTok given additional 75-day reprieve from US ban",
+      "description": "US President Donald Trump has said he is signing an executive order to keep TikTok up and running in the United States for an additional 75 days.",
+      "url": "https://www.rte.ie/news/business/2025/0404/1505816-tiktok-must-find-non-chinese-owner-by-avert-us-ban/",
+      "urlToImage": "https://img.rasset.ie/0021b866-1600.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "US President Donald Trump has said he is signing an executive order to keep TikTok up and running in the United States for an additional 75 days.\nIt comes hours before a deadline for the video-sharing platform to find a non-Chinese owner or face a ba... [3221 chars]",
+      "tags": [
+        "executive_orders",
+        "social_media"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Mark Carney hits back at Donald Trump’s tariffs",
+      "description": "Prime Minister Mark Carney said the Trump tariffs \"will rupture the global economy and adversely affect global economic growth\" likely causing a recession in the U.S. which could bleed into",
+      "url": "https://www.thestar.com/politics/mark-carney-hits-back-at-donald-trumps-tariffs-targetting-35b-worth-of-u-s-vehicles/article_c9340e9f-7b1f-41db-beda-023cf33dab11.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/d9/ed989be8-419d-5757-8176-a23257bc1a1b/67ee7a9d320fb.image.jpg?crop=1693%2C889%2C0%2C167&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Man and woman arrested over damage to Donald Trump’s Scottish golf course",
+      "description": "Red paint was sprayed on the clubhouse at the 800-acre resort and damage was also caused to the greens last month.",
+      "url": "https://www.breakingnews.ie/world/man-and-woman-arrested-over-damage-to-donald-trumps-turnberry-golf-course-1748776.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDQyMDIwMjNcXFwvMi43OTMxNDU1Mi1lMTc0Mzc5NTA4MjM1NS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjQyYzE2NjkzNDYwZTIzZGJlODEwMTY3MDc5OGIxYjNkNWY5YzhjMjgifQ==/man-and-woman-arrested-over-damage-to-donald-trump-s-scottish-golf-course.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "A 33-year-old man and a 55-year-old woman have been arrested in connection with damage caused to one of US President Donald Trump’s Scottish golf courses in March.\nThe woman was arrested in Leeds and the man in Wakefield on Friday.\nAdvertisement\nIt c... [763 chars]",
+      "tags": [
+        "personal_business"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump tariffs likely to raise inflation and slow US economic growth - Fed chief",
+      "description": "Federal Reserve chairman Jerome Powell said the impact on the economy and inflation are ‘significantly larger than expected’.",
+      "url": "https://www.breakingnews.ie/world/trump-tariffs-likely-to-raise-inflation-and-slow-us-economic-growth-fed-chief-1748680.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDQxNzAwNDlcXFwvOTE2YTVmZjI4MGRjNDg3NmJiZjk5OWRlMTI2NzkwNjUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI4YWIzYjcwMzEwNDZhYzVjZTQ5MzY4ZTJhNmI5YzBjMzY0NmQzZmQ4In0=/trump-tariffs-likely-to-raise-inflation-and-slow-us-economic-growth-fed-chief.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "The Trump administration’s expansive new tariffs will likely lead to higher inflation and slower growth, and the Federal Reserve will focus on keeping price increases temporary, Fed chairman Jerome Powell has said.\nMr Powell said in written remarks t... [2455 chars]",
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Pharma gets a reprieve amid tariffs but not for long",
+      "description": "There have been some suggestions that the big pharma companies may have \"got to\" Donald Trump and warned him of the potential downsides of hitting drug manufactures with tariffs, writes David Murphy.",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2025/0404/1505782-tariffs-analysis/",
+      "urlToImage": "https://img.rasset.ie/00222ef6-1600.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "There has been speculation for weeks about what would happen to pharmaceuticals as part of Donald Trump's massive tariff policy shift.\nBut drug products were unexpectedly excluded from the 20% taxes which will be imposed on exports from the EU to the... [1957 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SooToday"
+      },
+      "author": "SooToday",
+      "title": "VIDEO: Blood-sucking ‘vampire fish’ thriving in the Great Lakes? Blame Elon Musk",
+      "description": "Tonight on 'Closer Look': Donald Trump's Department of Government Efficiency (DOGE) is jeopardizing longstanding efforts between Canada and the United States to fight invasive sea lampreys",
+      "url": "https://www.sootoday.com/closer-look/video-blood-sucking-vampire-fish-thriving-in-the-great-lakes-blame-elon-musk-10472847",
+      "urlToImage": "https://www.vmcdn.ca/f/files/local2/videos/closer-look/2025-closer-look/042025/april-stills/apr3cl.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "Tonight on 'Closer Look': Donald Trump's Department of Government Efficiency (DOGE) is jeopardizing longstanding efforts between Canada and the United States to fight invasive sea lampreys\nIn cities and towns across Ontario — and at Queen’s Park and ... [1323 chars]",
+      "tags": [
+        "policy_legislation",
+        "environment"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump defiant as tariffs send world markets into panic",
+      "description": "Markets extended a global sell-off as countries around the world reeled from US President Donald Trump's trade war, but the White House insisted the American economy will emerge victorious.",
+      "url": "https://www.rte.ie/news/us/2025/0404/1505800-us-tariffs/",
+      "urlToImage": "https://img.rasset.ie/00223808-1600.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "Markets extended a global sell-off as countries around the world reeled from US President Donald Trump's trade war, but the White House insisted the American economy will emerge victorious.\nShockwaves tore through markets in the United States, Europe... [4359 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Donald Trump says he is giving TikTok another 75 days to find a US buyer",
+      "description": "The president has recently entertained an array of offers from US businesses seeking to buy a share of the popular social media site.",
+      "url": "https://www.breakingnews.ie/world/donald-trump-says-he-is-giving-tiktok-another-75-days-to-find-a-us-buyer-1748768.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDQxOTAzMzdcXFwvZmRmZmMwNTFjZDYwNDBmN2I2M2Q3MzhkODUzNTQxZDUtMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImI2NjcyZjUxNjc1OTRkYzQ4ZGIwOTVkYWY3NmI0ODA4YTQyNTE2ZGYifQ==/donald-trump-says-he-is-giving-tiktok-another-75-days-to-find-a-us-buyer.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "President Donald Trump has said he is signing an executive order to keep TikTok running in the US for another 75 days to give his administration more time to broker a deal to bring the social media platform under American ownership.\nCongress had mand... [1288 chars]",
+      "tags": [
+        "media_communications",
+        "trade_negotiations_truces",
+        "social_media"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Wall Street stocks plunge deeper after worst trading day since pandemic",
+      "description": "Trading has been hammered in the aftermath of President Donald Trump unveiling his full range of import taxes on countries around the world.",
+      "url": "https://www.breakingnews.ie/business/wall-street-stocks-plunge-deeper-after-worst-trading-day-since-pandemic-1748645.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDQxNjIxNTFcXFwvMi42NzAzODEzLWUxNzQzNzgwMTg0ODMyLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMjRhYWMwZjk5ZGFmNDNkNzgyZjhmNTQ5NWRiZjdlZTIwMjY4MzJjNiJ9/wall-street-stocks-plunge-deeper-after-worst-trading-day-since-pandemic.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "Wall Street has opened to another punishing day of trading after China moved to retaliate against US tariffs, stoking fears of an escalating trade war.\nUS stocks were tumbling again on Friday after both the S&P 500 and Dow Jones indexes suffered thei... [1777 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Shares sink as Trump tariffs unleash recession fears",
+      "description": "European shares have slumped as China hit back with steep tariffs days after US President Donald Trump announced sweeping levies, intensifying fears of a global recession triggered by the trade war.",
+      "url": "https://www.rte.ie/news/business/2025/0404/1505812-world-markets-falling/",
+      "urlToImage": "https://img.rasset.ie/00223960-1600.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "European shares have slumped as China hit back with steep tariffs days after US President Donald Trump announced sweeping levies, intensifying fears of a global recession triggered by the trade war.\nThe CAC in Paris dropped over 4% to close at 7,274,... [3153 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743721200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "US tariff threats won't derail Irish economy - Davy",
+      "description": "A new report from stockbrokers Davy said the Irish economy is well placed to navigate the latest external shock to hit the country - the imposition of US President Donald Trump's tariffs.",
+      "url": "https://www.rte.ie/news/business/2025/0404/1505853-davy-on-us-tariffs/",
+      "urlToImage": "https://img.rasset.ie/0016517d-1600.jpg",
+      "publishedAt": "2025-04-03T23:00:00Z",
+      "content": "A new report from stockbrokers Davy said the Irish economy is well placed to navigate the latest external shock to hit the country - the imposition of US President Donald Trump's tariffs.\nDavy's report notes that Trump's tariff agenda has disrupted g... [3499 chars]",
+      "tags": [
+        "trade",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1743721200
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 6,
+  "totalResults": 19,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-05-01T23:45:50Z",
       "content": "President Trump downplayed the significance of potentially empty store shelves at his Wednesday Cabinet meeting.\nHe said of goods from China that might go missing in the trade war, “much of it we don’t need.”\nThen, he elaborated the point: “Well, may... [3856 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "media_communications"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1746143150
     },
@@ -35,9 +35,8 @@
       "content": "President Trump on Thursday threatened to slap secondary sanctions and cut off business with foreign countries that purchase Iranian oil products, hours after planned nuclear talks with Tehran were postponed.\nAlthough he did not mention any country s... [3775 chars]",
       "tags": [
         "foreign_policy",
-        "iran",
         "sanctions",
-        "economy_finance"
+        "iran"
       ],
       "publishedAtTs": 1746142781
     },
@@ -55,10 +54,7 @@
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
         "lgbtq_rights",
-        "regional_state",
-        "media_communications",
-        "social_issues",
-        "crisis_emergency"
+        "social_issues"
       ],
       "publishedAtTs": 1746141960
     },
@@ -76,10 +72,8 @@
       "content": "President Trump has just struck one big, beautiful deal with Ukraine — and its impact could reach far beyond rare earth minerals.\nUnveiled yesterday by Treasury Secretary Scott Bessent, the agreement does more than open Ukraine’s vast mineral reserve... [4736 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "ukraine",
-        "economy_finance",
-        "trade"
+        "trade",
+        "energy"
       ],
       "publishedAtTs": 1746141724
     },
@@ -96,32 +90,263 @@
       "publishedAt": "2025-05-01T23:15:47Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "military",
-        "government_administration",
         "security_intelligence",
-        "regional_state",
-        "washington_dc"
+        "military"
       ],
       "publishedAtTs": 1746141347
     },
     {
       "source": {
         "id": null,
-        "name": "ElliotLakeToday.com"
+        "name": "GuelphToday"
       },
-      "author": "ElliotLakeToday.com",
+      "author": "GuelphToday",
       "title": "Trade war injects note of uncertainty into CN Rail outlook, as profits climb",
       "description": "MONTREAL — Canadian National Railway Co. saw a rise in both profits and uncertainty in its latest quarter as the country's biggest railroad operator worked through a trade war set off by U.S. President Donald Trump.",
-      "url": "https://www.elliotlaketoday.com/national-business/trade-war-injects-note-of-uncertainty-into-cn-rail-outlook-as-profits-climb-10601774",
+      "url": "https://www.guelphtoday.com/national-business/trade-war-injects-note-of-uncertainty-into-cn-rail-outlook-as-profits-climb-10601774",
       "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/aa2ac8090ae86e4893b730f2b99bed213afeb78c1402a122b47567f2971af277.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-05-01T23:13:57Z",
       "content": "MONTREAL — Canadian National Railway Co. saw a rise in both profits and uncertainty in its latest quarter as the country's biggest railroad operator worked through a trade war set off by U.S. President Donald Trump.\nDespite the tariff turmoil, the co... [3501 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
+        "economy_finance"
       ],
       "publishedAtTs": 1746141237
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US Forest Service evicts dozens of homeless people living in Oregon woods",
+      "description": "Action in Deschutes national forest for wildfire prevention plan follows Trump order to increase timber production",
+      "url": "https://www.theguardian.com/us-news/2025/may/01/homeless-evicted-forest-service-oregon-deschutes",
+      "urlToImage": "https://i.guim.co.uk/img/media/563c2ee1635999ecebd3b0f7066b663dc071a2ec/0_66_2350_1410/master/2350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de6f10f32a1a10a0b7b8fd7995fa7442",
+      "publishedAt": "2025-05-01T23:05:44Z",
+      "content": "Dozens of homeless people who have been living in a national forest in central Oregon for years were being evicted on Thursday by the US Forest Service, as it closed the area for a wildfire prevention project that will involve removing smaller trees,... [5231 chars]",
+      "tags": [
+        "social_issues",
+        "housing"
+      ],
+      "publishedAtTs": 1746140744
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump's golf buddy wants Irish ambassador gig",
+      "description": "Currently Irish-American Edward Walsh, who is a member of Trump National Golf Club in Bedminster is the front-runner to be the next Ambassador to Ireland, but what is expected of him?",
+      "url": "https://www.rte.ie/news/2025/0502/1510844-podcast-trumps-golf-buddy-wants-irish-ambassador-gig/",
+      "urlToImage": "https://img.rasset.ie/00226c64-1600.jpg",
+      "publishedAt": "2025-05-01T23:00:00Z",
+      "content": "In the latest episode of RTÉ Behind the Story podcast, Jackie fox joins Fran McNulty and Katie Hannon as the spotlight is on the US as it is in the process of picking its next Ambassador to Ireland.\nCurrently Irish-American Edward Walsh, who is a mem... [1314 chars]",
+      "tags": [
+        "personnel"
+      ],
+      "publishedAtTs": 1746140400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Army plans for a potential parade on Trump’s birthday call for 6,600 soldiers",
+      "description": "The US Army’s 250th anniversary coincides with the president’s birthday on June 14.",
+      "url": "https://www.breakingnews.ie/world/army-plans-for-a-potential-parade-on-trumps-birthday-call-for-6600-soldiers-1758671.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDIwMzIxMjhcXFwvOGJhYTYxYWI4N2E0NGM1MTlkZWJjNWQxNGFlNmQ5ZjYuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5M2EwOTRmZDIwY2E3Y2VhZDhmMjUyMTY1YTg4YWI4ODc0ZjZlNDU5In0=/army-plans-for-a-potential-parade-on-trump-s-birthday-call-for-6-600-soldiers.jpg",
+      "publishedAt": "2025-05-01T23:00:00Z",
+      "content": "Detailed army plans for a potential military parade on US President Donald Trump’s birthday in June call for more than 6,600 soldiers, at least 150 vehicles, 50 helicopters, seven bands and possibly a couple thousand civilians.\nThe planning documents... [3933 chars]",
+      "tags": [
+        "military",
+        "government_administration"
+      ],
+      "publishedAtTs": 1746140400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Ryanair threatens to cancel huge Boeing order if Trump tariffs raise prices",
+      "description": "Ryanair said it could look at alternative suppliers, including Chinese planemaker COMAC.",
+      "url": "https://www.breakingnews.ie/business/ryanair-threatens-to-cancel-huge-boeing-order-if-trump-tariffs-raise-prices-1758704.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDFcXFwvMjkxNTAyNDVcXFwvMi43NTQ4NjgyNS1lMTczODE2MzE2MjYwOS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY0MGMwNTljNjYwOGE2OTdhYTc4YzQzNTlmYmI5Y2U1NGE5MGRiYTcifQ==/ryanair-threatens-to-cancel-huge-boeing-order-if-trump-tariffs-raise-prices.jpg",
+      "publishedAt": "2025-05-01T23:00:00Z",
+      "content": "Ryanair has threatened to cancel orders for hundreds of Boeing aircraft if a US-led tariff war leads to materially higher prices, and said it could look at alternative suppliers, including Chinese planemaker COMAC.\nThe threat by Europe's largest low-... [3825 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746140400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump signs executive order cutting federal funding to broadcasters",
+      "description": "The order further requires agencies work to root out indirect sources of public financing for the news organisations.",
+      "url": "https://www.breakingnews.ie/world/trump-signs-executive-order-cutting-federal-funding-to-broadcasters-1758680.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMDIwNTUzMDBcXFwvYzNmZTFkM2ZhMzI3NGQzZjliMmY4ZmM3YjU4N2ZiMjEtMS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjA0NjI5Mjk3OGMxZDA5Mzk4MWM0YzJiYmYwNTBhMWYwZTgyOGE1ODAifQ==/trump-signs-executive-order-cutting-federal-funding-to-broadcasters.jpg",
+      "publishedAt": "2025-05-01T23:00:00Z",
+      "content": "US President Donald Trump on Thursday signed an executive order aiming to slash public subsidies to PBS and NPR as he alleged “bias” in the broadcasters’ reporting.\nThe order instructs the Corporation for Public Broadcasting and other federal agencie... [3091 chars]",
+      "tags": [
+        "executive_orders",
+        "government_administration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1746140400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "AIB to decide whether to proceed with buyback after shareholder approval",
+      "description": "AIB's share price has fallen due to a global stock market rout unleashed by US president Donald Trump's tariffs",
+      "url": "https://www.breakingnews.ie/business/aib-to-decide-whether-to-proceed-with-buyback-after-shareholder-approval-1758705.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjJcXFwvMDdcXFwvMjIxMTMwMzlcXFwvQ0MtQUlCLUhlYWRxdWFydGVyczAwMS1lMTY1ODQ4OTE4MDU0MC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijg2NjBhYWZjZmVlY2Q0OWFjZWNmZDQ3ODlhZmRjMjkxNDljMGI0YzkifQ==/aib-to-decide-whether-to-proceed-with-buyback-after-shareholder-approval.jpg",
+      "publishedAt": "2025-05-01T23:00:00Z",
+      "content": "AIB's board will decide over the coming week whether a proposed direct share buyback from the State should proceed after it was approved by shareholders on Thursday amid a drop in its share price since the plan was announced on March 5th.\nAIB announc... [1756 chars]",
+      "tags": [
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746140400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Judd Trump leads Mark Williams with O’Sullivan held in World Snooker semis",
+      "description": "Judd Trump punished a series of costly errors from Mark Williams to build a 5-3 lead while Ronnie O’Sullivan and Zhao Xintong are level at 4-4 in the World Snooker Championship semi-finals",
+      "url": "https://www.theguardian.com/sport/2025/may/01/ronnie-osullivan-zhao-xintong-judd-trump-mark-williams-world-snooker-championship-semi-finals",
+      "urlToImage": "https://i.guim.co.uk/img/media/29f823ca9e2f8d9cd9894d44b3882f9d5d91b158/0_233_4076_2446/master/4076.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f6fc042319774cf6b99ca902602c08c",
+      "publishedAt": "2025-05-01T22:46:30Z",
+      "content": "Judd Trump punished a series of costly errors from Mark Williams to build a 5-3 lead while Ronnie O’Sullivan and Zhao Xintong are level at 4-4, as the World Snooker Championship semi-finals got under way at the Crucible.\nAfter an intriguing afternoon... [3791 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1746139590
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Yet another woke judge goes lawless in move against Trump",
+      "description": "Owen McIntire stands charged with firebombing a Tesla dealership, causing hundreds of thousands of dollars in damage — yet a Massachusetts judge let him out of jail to supervised home release ahead of his trial.",
+      "url": "https://nypost.com/2025/05/01/opinion/yet-another-woke-judge-goes-lawless-in-move-against-trump/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-atrjl5mog-1746139229672.jpg?quality=75&strip=all&1746124910&w=1024",
+      "publishedAt": "2025-05-01T22:42:07Z",
+      "content": "Talk about privilege: Owen McIntire stands charged with firebombing a Tesla dealership, causing hundreds of thousands of dollars in damage — yet a Massachusetts judge let him out of jail to supervised home release ahead of his trial, to ensure he can... [1570 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1746139327
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Chamber of Commerce asks Trump administration for tariff exclusions to \"stave off a recession\"",
+      "description": "The Chamber of Commerce warns that U.S. small businesses do not have the capitol reserves to survive tariffs on foreign imports.",
+      "url": "https://www.cbsnews.com/news/chamber-of-commerce-tariff-exclusions-recession/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/05/01/5dec6334-743f-4dc8-a672-2ee4c3838225/thumbnail/1200x630/0e47b02d5e16fd1e8499e6ca2fe52f66/gettyimages-2208186491-594x594.jpg?v=7c5acc180b39394767372ab4e02619ce",
+      "publishedAt": "2025-05-01T22:40:50Z",
+      "content": "As Small Business Month kicks off, the Chamber of Commerce is speaking out against the Trump administration's trade policy, saying recently imposed tariffs could do serious damage to America's Main Street.\nIn a letter sent to the Treasury Secretary S... [2650 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1746139250
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "CUSMA-compliant auto parts won't be hit with tariffs",
+      "description": "U.S. Customs and Border Protection guidance released today says automobile parts compliant with the Canada-U.S.-Mexico Agreement (CUSMA) on trade will not be hit with U.S. President Donald Trump's tariffs.",
+      "url": "https://www.cbc.ca/news/world/us-cbp-cusma-auto-parts-tariffs-1.7524359",
+      "urlToImage": "https://i.cbc.ca/1.7524373.1746137395!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/employees-at-work-on-the-production-line-at-an-auto-parts-manufacturing-plant-in-ontario.jpg?im=Resize%3D620",
+      "publishedAt": "2025-05-01T22:32:15Z",
+      "content": "U.S. Customs and Border Protection guidance released today says automobile parts compliant with the Canada-U.S.-Mexico Agreement (CUSMA) on trade will not be hit with U.S. President Donald Trump's tariffs.\nThe 25 per cent auto part duties were set to... [644 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1746138735
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Trump believes Waltz will 'make a better UN ambassador': JD Vance",
+      "description": "\"I think you can make a good argument that it's a promotion,\" the veep added.",
+      "url": "https://nypost.com/2025/05/01/us-news/trump-believes-waltz-will-make-a-better-un-ambassador-jd-vance/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/Vance-Waltz-01.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-01T22:21:40Z",
+      "content": "President Trump removed Mike Waltz as national security adviser because the Floridian would be a “better UN ambassador,” Vice President JD Vance said Thursday — arguing that the former congressman’s nomination to rep the US in Turtle Bay could be con... [3224 chars]",
+      "tags": [
+        "government_administration",
+        "personnel",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1746138100
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Mike Waltz's 'Signalgate' mistake weakened Trump - so why isn't Pete Hegseth also getting fired?",
+      "description": "Sharing sensitive military information on a group chat was a reckless error of judgement and raised questions over the president's decision to appoint him.",
+      "url": "https://news.sky.com/story/waltzs-signalgate-mistake-weakened-trump-so-why-isnt-pete-hegseth-also-getting-fired-13359388",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-mike-waltz-national-security_6902868.jpg?20250501190450",
+      "publishedAt": "2025-05-01T22:15:00Z",
+      "content": "Timing's everything for Donald Trump.\nThe time for sacking Mike Waltz was, clearly, not before the 100-day milestone - the measure of his performance in office.\nThe national security adviser had his card marked from the day the 'Signalgate' scandal b... [2371 chars]",
+      "tags": [
+        "security_intelligence",
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1746137700
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Canadian automobile parts won't be hit with Trump's tariffs",
+      "description": "WASHINGTON — U.S. Customs and Border Protection guidance released today says automobile parts compliant with the Canada-U.S.-Mexico Agreement on trade will not be hit with President Donald Trump's tariffs.",
+      "url": "https://www.vancouverisawesome.com/national-news/canadian-automobile-parts-wont-be-hit-with-trumps-tariffs-10602165",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/05/2687d8735600f0002b4644477babfc1f4b8095008dc1aae27ae3f5d2d25002fb.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-05-01T22:13:22Z",
+      "content": "WASHINGTON — U.S. Customs and Border Protection guidance released today says automobile parts compliant with the Canada-U.S.-Mexico Agreement on trade will not be hit with President Donald Trump's tariffs.\nWASHINGTON — U.S. Customs and Border Protect... [954 chars]",
+      "tags": [
+        "trade",
+        "trump"
+      ],
+      "publishedAtTs": 1746137602
     }
   ]
 }

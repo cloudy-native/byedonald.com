@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -15,10 +15,8 @@
       "publishedAt": "2025-05-25T23:59:27Z",
       "content": "The euro and U.S. dollar surged against the yen and Swiss franc as President Trump set a deadline for finalizing a trade deal with the EU, retracting a 50% tariff threat slated for June.\nThe decision, disclosed to reporters after discussions with EU ... [268 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "foreign_policy",
-        "europe"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748217567
     },
@@ -36,10 +34,10 @@
       "content": "The father of nine children killed in an Israeli strike on Gaza remains in intensive care. Hamdi Al-Najjar, whose family suffered this devastating loss, is receiving treatment at Nasser Hospital.\nTurkish President Erdogan and Pakistan's PM Sharif dis... [338 chars]",
       "tags": [
         "foreign_policy",
+        "israel",
+        "gaza",
         "middle_east",
-        "crisis_emergency",
-        "security_intelligence",
-        "international_crisis"
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1748217237
     },
@@ -56,9 +54,8 @@
       "publishedAt": "2025-05-25T23:52:00Z",
       "content": "Donald Trump says he will delay the imposition of 50% tariffs on goods entering the United States from the European Union until July, as the two sides attempt to negotiate a trade deal.\nIt comes after the president of the European Commission, Ursula ... [2481 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "trade"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748217120
     },
@@ -75,9 +72,7 @@
       "publishedAt": "2025-05-25T23:34:48Z",
       "content": "US President Donald Trump says he's agreed to extend a deadline for trade talks with the European Union after the head of the EU said the bloc needs more time to \"reach a good deal\".\nSpeaking to reporters before boarding Air Force One in New Jersey, ... [1780 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1748216088
     },
@@ -94,9 +89,8 @@
       "publishedAt": "2025-05-25T23:14:55Z",
       "content": "Open this photo in gallery: President Donald Trump speaks to reporters before boarding Air Force One at Morristown Municipal Airport in Morristown, N.J. on May 25.Manuel Balce Ceneta/The Associated Press\nU.S. President Donald Trump said Sunday that t... [1396 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748214895
     },
@@ -115,9 +109,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "security_intelligence",
-        "national_security"
+        "ukraine"
       ],
       "publishedAtTs": 1748214720
     },
@@ -136,9 +128,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "security_intelligence",
-        "national_security"
+        "ukraine"
       ],
       "publishedAtTs": 1748214559
     },
@@ -155,9 +145,8 @@
       "publishedAt": "2025-05-25T23:05:39Z",
       "content": "President Trump said on Sunday that he would delay imposing 50 percent tariffs on all imports from the European Union until July 9 to allow more time for trade negotiations.\nIn a post on Truth Social, Mr. Trump said that he had spoken to Ursula von d... [759 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "trade"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748214339
     },
@@ -174,11 +163,284 @@
       "publishedAt": "2025-05-25T23:03:10Z",
       "content": "President Donald Trump speaks to reporters before boarding Air Force One at Morristown Municipal Airport in Morristown, N.J., Sunday, May 25, 2025. (AP Photo/Manuel Balce Ceneta)\nWASHINGTON — WASHINGTON (AP) — President Donald Trump said Sunday that ... [1436 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "government_administration"
+        "trade_negotiations_truces",
+        "liberation_day_tariffs"
       ],
       "publishedAtTs": 1748214190
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump hints at an announcement in the ‘next two days’ on Iran nuclear talks",
+      "description": "The president was notably more upbeat than the Omani mediator of the talks between the United States and Iran.",
+      "url": "https://www.breakingnews.ie/world/trump-hints-at-an-announcement-in-the-next-two-days-on-iran-nuclear-talks-1766517.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjYwMzE1MzJcXFwvYzU1NmU2YWIxZGIyNDE2ODg2ZWE5Y2E4MWNjMjM4NTEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyMGYzMzgzYmM2YTU2Y2Q0ZmI2OGZjMGJlZmUxYWNjZmM2NDkyNzdhIn0=/trump-hints-at-an-announcement-in-the-next-two-days-on-iran-nuclear-talks.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "President Donald Trump on Sunday indicated there was progress with Iran on its nuclear programme and hinted that an announcement could come in the “next two days”.\nHe was notably more upbeat than the Omani mediator of the talks between the United Sta... [1017 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Public expressed outrage at Conor McGregor's meeting with Donald Trump",
+      "description": "The vast majority of messages were critical of 'that scumbag' McGregor, with many accusing the UFC fighter of 'hijacking our identity'",
+      "url": "https://www.breakingnews.ie/ireland/public-expressed-outrage-at-conor-mcgregors-meeting-with-donald-trump-1766501.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDNcXFwvMTgxOTM3MjBcXFwvTWNHcmVnb3JUcnVtcC1lMTc0MjMyNjY2MzM5Mi5wbmdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImIwNGQ3YzliNjFkMTA1ZjY5ZjY4MjcxNGI2NTFlYTZjYjBhZTcwN2UifQ==/public-expressed-outrage-at-conor-mcgregor-s-meeting-with-donald-trump.png",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "Members of the public expressed their anger at Conor McGregor's St Patrick's Day meeting with US president Donald Trump in messages to Taoiseach Micheál Martin.\nThe vast majority of messages were critical of McGregor, with many accusing the UFC fight... [5600 chars]",
+      "tags": [
+        "social_issues",
+        "personal_family"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "US futures jump while Asian shares slip after Trump delays tariffs on the EU",
+      "description": "The US president announced the decision after a call on Sunday with Ursula von der Leyen.",
+      "url": "https://www.breakingnews.ie/world/us-futures-jump-while-asian-shares-slip-after-trump-delays-tariffs-on-the-eu-1766520.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjYwNTM2MzRcXFwvZWNlYTRkMzVjMzAzNDNlYmE5ZWFlMWRhYjZmMDA3NWMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI5M2VhMWJmNTc1NzlmODMxNzE4MDg0YzRkNThkM2FiOTQyN2VjMDAwIn0=/us-futures-jump-while-asian-shares-slip-after-trump-delays-tariffs-on-the-eu.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "US futures jumped and Asian shares mostly fell on Monday after US President Donald Trump said he would delay a threatened 50% tariff on goods from the European Union to July 9 from June 1.\nMr Trump announced the decision after a call on Sunday with U... [3621 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "Trump extends EU tariff deadline until 9 July",
+      "description": "US President Donald Trump said that he would pause his threatened 50% tariffs on the European Union until 9 July, after a \"very nice call\" with EU chief Ursula von der Leyen.",
+      "url": "https://www.rte.ie/news/world/2025/0526/1514923-trump-eu-tariffs/",
+      "urlToImage": "https://www.rte.ie/images/00228165-1600.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "US President Donald Trump said that he would pause his threatened 50% tariffs on the European Union until 9 July, after a \"very nice call\" with EU chief Ursula von der Leyen.\nMr Trump had threatened on Friday to invoke the steep tariffs as soon as 1 ... [2425 chars]",
+      "tags": [
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Southeast Asian nations to discuss US tariffs as a unified bloc - Malaysia PM",
+      "description": "The Malaysian leader said he is seeking a unified bloc meeting with US President Donald Trump to discuss the tariffs.",
+      "url": "https://www.breakingnews.ie/world/southeast-asian-nations-to-discuss-us-tariffs-as-a-unified-bloc-malaysia-pm-1766522.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjYwNTQ1MjlcXFwvNjdlZDYzYzBmNmMzNDVkYzlhNzcwNDI5OTgyMGNlZjcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2M2QwY2U1YzQ3YmE2NDc4N2JiMDA0MDMzNDRlNjJhODQyMzMzNzY4In0=/southeast-asian-nations-to-discuss-us-tariffs-as-a-unified-bloc-malaysia-pm.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "Southeast Asian nations will forge a common front to face challenges, including economic headwinds from US tariffs and a four-year civil war in Myanmar, Malaysian Prime Minister Anwar Ibrahim said on Monday.\nOpening an annual summit of the Associatio... [3756 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "President Donald Trump says Vladimir Putin ‘has gone absolutely crazy’",
+      "description": "Mr Trump and Mr Putin spoke on the phone this past week.",
+      "url": "https://www.breakingnews.ie/world/president-donald-trump-says-vladimir-putin-has-gone-absolutely-crazy-1766515.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMjYwMjU3MjlcXFwvOTU0M2IxODRlZDYwNGI2NWJiOWVkYmM4YzRhNTg4ZDEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1ZTJjYWNkZmNkNDJiYTE5ZDk1NDEyOWFhZTUwZmZlNzkwM2RiOTk3In0=/president-donald-trump-says-vladimir-putin-has-gone-absolutely-crazy.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "President Donald Trump made it clear he is losing patience with Vladimir Putin, levelling some of his sharpest criticism at the Russian leader as Moscow pounded Kyiv and other Ukrainian cities with drones and missiles for a third-straight night.\n“I’v... [2565 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "EU and US to fast track trade talks after phone call",
+      "description": "The European Commission has said that President Ursula Von der Leyen and US President Donald Trump have agreed to fast track trade negotiations and to stay in close contact following last night's phone call.",
+      "url": "https://www.rte.ie/news/world/2025/0526/1514923-us-tariffs/",
+      "urlToImage": "https://www.rte.ie/images/00229a66-1600.jpg",
+      "publishedAt": "2025-05-25T23:00:00Z",
+      "content": "The European Commission has said that President Ursula Von der Leyen and US President Donald Trump have agreed to fast track trade negotiations and to stay in close contact following last night's phone call.\nMr Trump has said he would pause his threa... [4894 chars]",
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748214000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump Hints at Breakthrough in U.S.-Iran Nuclear Negotiations",
+      "description": "President Donald Trump reported positive developments in nuclear negotiations with Iran. Talks led by U.S. envoy Steve Witkoff took place in Rome. Trump hinted at potential good news without detailing the progress. His comments came as he returned from a weekend at his New Jersey golf club.",
+      "url": "https://www.devdiscourse.com/article/law-order/3424722-trump-hints-at-breakthrough-in-us-iran-nuclear-negotiations",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_21_31_42_5852248.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-25T22:51:29Z",
+      "content": "In a promising turn of events, President Donald Trump announced on Sunday that U.S. negotiators engaged in \"very good\" discussions with Iran over the weekend. The talks, aimed at preventing the development of nuclear weapons by Tehran, took place as ... [557 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1748213489
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cable News Network"
+      },
+      "author": "Cable News Network",
+      "title": "Trump says Putin ‘has gone absolutely crazy’ after major Russian attacks on Ukraine",
+      "description": "President Donald Trump said Sunday that Vladimir Putin “has gone absolutely CRAZY,” after the Russian leader launched the largest aerial attack of Moscow’s three-year full-scale war on Ukraine.",
+      "url": "https://edition.cnn.com/2025/05/25/politics/trump-putin-ukraine-airstrikes",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/trump-putin-comments-thumb.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-05-25T22:46:29Z",
+      "content": "CNN —\nPresident Donald Trump said Sunday that Vladimir Putin “has gone absolutely CRAZY,” after the Russian leader launched the largest aerial attack of Moscow’s three-year full-scale war on Ukraine.\n“I’ve always had a very good relationship with Vla... [5155 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1748213189
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Salon",
+      "title": "\"Emperor has no clothes!\": Paul's problems with Trump's \"Beautiful\" bill may spell trouble in Senate",
+      "description": "The senator from Kentucky says Trump's cost-cutting bill will actually supercharge the deficit.",
+      "url": "https://www.salon.com/2025/05/25/emperor-has-no-clothes-pauls-problems-with-beautiful-bill-may-spell-trouble-in-senate/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/04/gettyimages-1231889527.jpg",
+      "publishedAt": "2025-05-25T22:40:28Z",
+      "content": "House Speaker Mike Johnson barely whipped together the votes to push President Donald Trump's \"big beautiful\" bill through the lower chamber. On Sunday, Sen. Rand Paul foresaw a similar fight in the Senate.\nSpeaking to \"Fox News Sunday\" host Shannon ... [1406 chars]",
+      "tags": [
+        "policy_legislation",
+        "budget",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1748212828
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump Condemns Russia's Aggression in Ukraine",
+      "description": "U.S. President Donald Trump expressed strong disapproval of Russia's recent bombing of Ukraine, particularly targeting President Vladimir Putin for the aggressive attacks. Trump revealed he is considering additional sanctions on Russia, describing the situation as unacceptable and highlighting concerns over the rising casualties and destruction.",
+      "url": "https://www.devdiscourse.com/article/politics/3424720-trump-condemns-russias-aggression-in-ukraine",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2025_18_33_00_8426813.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-25T22:38:49Z",
+      "content": "In a candid address, President Donald Trump condemned Russia's latest aggressive military actions in Ukraine, particularly criticizing President Vladimir Putin's role in the conflict. Trump's remarks surfaced following a weekend of intensive drone an... [788 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1748212729
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Donald Trump says US and EU have agreed to postpone tariffs",
+      "description": "Donald Trump says the US and the EU have agreed to postpone the imposition of tariffs until July, as they attempt to negotiate a trade deal.",
+      "url": "https://news.sky.com/story/donald-trump-says-us-and-eu-have-agreed-to-postpone-tariffs-13374764",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-breaking-news-breaking_6875336.png?20250406142724",
+      "publishedAt": "2025-05-25T22:34:00Z",
+      "content": "Donald Trump says the US and the EU have agreed to postpone the imposition of tariffs until July, as they attempt to negotiate a trade deal.\nIt comes after the president of the European Commission, Ursula von der Leyen, said in a post on social media... [968 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748212440
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Diplomatic Breakthrough: U.S. and Iran in Positive Talks",
+      "description": "U.S. President Donald Trump remarked on the productive negotiations between U.S. and Iranian representatives aimed at curbing Tehran's nuclear ambitions. Trump hinted at potential positive developments following the discussions held over the weekend at his Bedminster golf club.",
+      "url": "https://www.devdiscourse.com/article/headlines/3424718-diplomatic-breakthrough-us-and-iran-in-positive-talks",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2025_18_33_00_8426813.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-25T22:25:34Z",
+      "content": "In a surprising diplomatic development, President Donald Trump announced that U.S. negotiators engaged in 'very good' discussions with an Iranian delegation over the past weekend. These talks focus on reaching an agreement to prevent Iran from develo... [572 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1748211934
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Donald Trump Blasts Putin-'What the Hell Happened to Him?'",
+      "description": "President Donald Trump spoke with reporters on the tarmac at Morristown, New Jersey before boarding Air Force One to return to Washington, D.C.",
+      "url": "https://www.newsweek.com/donald-trump-blasts-putin-hell-happened-him-2076929",
+      "urlToImage": "https://d.newsweek.com/en/full/2651378/donald-trump-morristown-memorial-day.jpg",
+      "publishedAt": "2025-05-25T22:25:21Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nPresident Donald Trump lashed out at Russian President Vladimir Putin for continuing to attack Ukraine while talks are ongoin... [6976 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1748211921
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Ukraine war latest: Trump says he's 'not happy' with Putin and he's considering further sanctions against Russia",
+      "description": "Russia launched almost 300 drones and 69 missiles overnight in one of the largest aerial attacks since the war began, Ukraine said, with three siblings among 12 people killed. This latest onslaught has prompted Donald Trump's envoy to call for a ceasefire \"now\".",
+      "url": "https://news.sky.com/story/ukraine-war-latest-peace-talks-zelenskyy-putin-istanbul-crimea-baltic-nato-jet-clarke-frontline-turkey-erdogan-12541713",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-donald-trump-vladimir-putin_6921976.jpg?20250520080739",
+      "publishedAt": "2025-05-25T22:22:00Z",
+      "content": "Trump 'not happy' with Putin - 'I don't know what the hell happened to him'\nWe're just hearing from Donald Trump now.\nHe says he is \"not happy\" with what Vladimir Putin is doing - \"killing a lot of people\".\n\"I don't know what the hell happened to Put... [355 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1748211720
     }
   ]
 }

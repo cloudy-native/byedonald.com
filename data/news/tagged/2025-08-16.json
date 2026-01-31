@@ -296,7 +296,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/XbteAg5xa-b8oBsmEhtKQBNXFKM=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_8_16_Trump_Has_No_Cards/original.jpg",
       "publishedAt": "2025-08-16T14:50:00Z",
       "content": "President Donald Trump berated President Volodymyr Zelensky in the Oval Office. He allowed the Pentagon twice to halt prearranged military shipments to Ukraine. He promised that when the current tran… [+3994 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
       "publishedAtTs": 1755355800
     },
     {
@@ -764,7 +768,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/20250816_HARING_H-1755334554.png?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-08-16T08:56:27Z",
       "content": "Toggle Play\r\n\"Expectations were low and nothing came out\" of Trump-Putin talks",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
       "publishedAtTs": 1755334587
     },
     {
@@ -895,7 +902,11 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/05/usaid-2204313369.jpg",
       "publishedAt": "2025-08-16T10:00:31Z",
       "content": "The totalitarian playbook that Donald Trump seems to follow lacks a chapter. Power-crazed the president may be, but he fails to grasp soft power. Wise military and diplomatic minds understand it well… [+17268 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "health_science",
+        "social_issues"
+      ],
       "publishedAtTs": 1755338431
     },
     {
@@ -1040,7 +1051,11 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/08/Evchargingstation.jpg?quality=75&strip=all",
       "publishedAt": "2025-08-16T13:00:00Z",
       "content": "This story was originally published by Canary Media.\r\nThe Trump administration appears to be backing away from its fiercely contested efforts to freeze a $5 billion federal funding program for electr… [+7596 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "transportation",
+        "economy_finance"
+      ],
       "publishedAtTs": 1755349200
     },
     {
@@ -1308,7 +1323,10 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67eb4d294eb95c5bdc892e43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2025-08-16T13:27:44Z",
       "content": "Bitcoin mining hardware (Photo by VALERIA MONGELLI/AFP via Getty Images)\r\nAFP via Getty Images\r\nThe U.S. bitcoin mining industry just got its most disruptive upgrade yet.\r\nOn August 14, 2025, Block u… [+6883 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1755350864
     },
     {

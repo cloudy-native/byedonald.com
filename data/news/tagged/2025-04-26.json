@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -16,8 +16,8 @@
       "content": "In a series of escalating disputes, U.S. universities are advising foreign students on how to endure President Donald Trump's immigration policies. These measures have already led to the detainment and deportation of students involved in political pr... [629 chars]",
       "tags": [
         "immigration",
-        "education",
-        "foreign_policy",
+        "social_issues",
+        "economy_finance",
         "legal_justice",
         "media_communications"
       ],
@@ -36,11 +36,9 @@
       "publishedAt": "2025-04-26T23:00:00Z",
       "content": "Russia launched a sweeping drone assault across Ukraine overnight into Sunday, targeting multiple regions, after US President Donald Trump cast doubt over Russian President Vladimir Putin’s willingness to end the war.\nOne person was killed and a 14-y... [2084 chars]",
       "tags": [
-        "foreign_policy",
         "russia",
         "ukraine",
-        "security_intelligence",
-        "national_security"
+        "foreign_policy"
       ],
       "publishedAtTs": 1745708400
     },
@@ -57,9 +55,7 @@
       "publishedAt": "2025-04-26T23:00:00Z",
       "content": "New Greenlandic Prime Minister Jens-Frederik Nielsen said on Sunday that US statements about the mineral-rich Arctic island have been disrespectful and that Greenland “will never, ever be a piece of property that can be bought by just anyone”.\nMr Nie... [1953 chars]",
       "tags": [
-        "foreign_policy",
-        "government_administration",
-        "regional_state"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1745708400
     },
@@ -77,10 +73,10 @@
       "content": "He has launched an unprecedented global tariff war and slashed US foreign aid.\nHe has disparaged Nato allies and embraced Russia's narrative about its invasion of Ukraine. And he has spoken about annexing Greenland, retaking the Panama Canal and maki... [9704 chars]",
       "tags": [
         "foreign_policy",
-        "policy_legislation",
-        "security_intelligence",
-        "economy_finance",
-        "government_administration"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "greenland_acquisition",
+        "mass_deportation_operation"
       ],
       "publishedAtTs": 1745708400
     },
@@ -98,8 +94,7 @@
       "content": "There was no president or comedian, but what remained at the White House Correspondents’ Association’s annual dinner were the journalists and the First Amendment.\nThe stripped-down festivities were a reflection of the somber tone in Washington at the... [3090 chars]",
       "tags": [
         "media_communications",
-        "legal_justice",
-        "government_administration"
+        "personal_family"
       ],
       "publishedAtTs": 1745708400
     },
@@ -117,10 +112,8 @@
       "content": "A peace proposal by the Trump administration that includes recognising Russian authority over Crimea shocked Ukrainian officials, who say they will not accept any formal surrender of the peninsula – even though they expect to concede the territory to... [5595 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "russia",
-        "middle_east",
-        "ukraine"
+        "ukraine",
+        "russia"
       ],
       "publishedAtTs": 1745708400
     },
@@ -137,9 +130,7 @@
       "publishedAt": "2025-04-26T22:06:22Z",
       "content": "Melania's four whispered words to Donald Trump at Pope's funeral that changed it\nA lip reader revealed what Donald Trump's wife Melania said to him as he was seen standing still as other world leaders approached each other to shake hands\nUS President... [1926 chars]",
       "tags": [
-        "personal_family",
-        "media_communications",
-        "foreign_policy"
+        "personal_family"
       ],
       "publishedAtTs": 1745705182
     },
@@ -156,9 +147,8 @@
       "publishedAt": "2025-04-26T21:33:47Z",
       "content": "“Real Time” host Bill Maher suggested those who voted for President Donald Trump are actually “disappointed” by his first 100 days in office, even if they don’t “say it out loud.”\n“I think for liberals, it’s worse than they even thought when they pro... [2697 chars]",
       "tags": [
-        "media_communications",
         "elections_politics",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1745703227
     },
@@ -176,10 +166,7 @@
       "content": "US President Donald Trump and Ukrainian leader Volodymyr Zelensky, in Rome for the funeral of Pope Francis, have met one-on-one in a marble-lined Vatican basilica to try to revive faltering efforts to end Russia’s war with Ukraine.\nZelensky said the ... [3971 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
-        "middle_east",
-        "europe",
-        "crisis_emergency"
+        "ukraine"
       ],
       "publishedAtTs": 1745702949
     },
@@ -197,10 +184,263 @@
       "content": "Cargo ships wait in the anchor zone to cross the Panama Canal from the Pacific entrance near Panama City. Photographer: Walter Hurtado/Bloomberg\nWASHINGTON — U.S. President Donald Trump said on Saturday that American military and commercial ships sho... [901 chars]",
       "tags": [
         "foreign_policy",
-        "economy_finance",
-        "transportation"
+        "trade"
       ],
       "publishedAtTs": 1745702553
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Where Trump, other world leaders were sitting at Pope Francis' funeral",
+      "description": "With delegations from about 130 countries present at Pope Francis' funeral, the seating chart needed to be organized accordingly.",
+      "url": "https://www.cbsnews.com/news/where-trump-world-leaders-seated-pope-francis-funeral/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/04/26/e00af7a2-507d-4e80-b77a-f6940d0eb2c5/thumbnail/1200x630/8ab8c5b743437aafdd049ebf9d5fe0b8/gettyimages-2212069138.jpg?v=8e9dede207b29c97b32974c53e32aabc",
+      "publishedAt": "2025-04-26T21:19:27Z",
+      "content": "Around 250,000 mourners flooded the streets of Rome to bid farewell to Pope Francis, widely known as the \"People's Pope,\" at his funeral in St. Peter's Square on Saturday morning. Dignitaries, heads of state and reigning monarchs were among those wit... [4219 chars]",
+      "tags": [
+        "foreign_policy",
+        "leadership"
+      ],
+      "publishedAtTs": 1745702367
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump's Canal Ambition: Free Passage for American Ships",
+      "description": "Former U.S. President Donald Trump pushed for free passage of American ships through the Panama and Suez Canals, tasking Secretary of State Marco Rubio to address the matter. He reiterated his desire to 'take back' the Panama Canal, hinting at potential economic or military measures to achieve this.",
+      "url": "https://www.devdiscourse.com/article/politics/3360832-trumps-canal-ambition-free-passage-for-american-ships",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_06_25_30_5817229.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-26T21:05:18Z",
+      "content": "Former U.S. President Donald Trump announced on Saturday his ambition for American military and commercial ships to travel through the Panama and Suez Canals without incurring charges. In a statement on Truth Social, Trump revealed he's directed Secr... [669 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1745701518
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Trump Demands Free Passage for U.S. Ships Through Key Canals",
+      "description": "Former U.S. President Donald Trump declared that American military and commercial ships should have free passage through the Panama and Suez Canals. He instructed Secretary of State Marco Rubio to address and document the request. The message was shared on Trump's Truth Social account.",
+      "url": "https://www.devdiscourse.com/article/politics/3360827-trump-demands-free-passage-for-us-ships-through-key-canals",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_04_2025_07_38_05_4196422.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-04-26T20:43:53Z",
+      "content": "In a bold statement on Saturday, former U.S. President Donald Trump called for American military and commercial vessels to be granted free passage through the Panama and Suez Canals.\nTrump announced on his Truth Social media platform that he has dire... [281 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade"
+      ],
+      "publishedAtTs": 1745700233
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Trump and Zelensky Meet on Sidelines of Pope Francis’ Funeral, White House Says",
+      "description": "During his whirlwind trip to Italy, President Trump’s interactions with world leaders, as they paid their respects to Francis, were being watched closely.",
+      "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-facebookJumbo.jpg",
+      "publishedAt": "2025-04-26T20:43:11Z",
+      "content": "President Trump flew briefly this weekend into a European continent he has thrown into chaos in recent months, paying respects to Pope Francis at his funeral, but also meeting with President Volodymyr Zelensky of Ukraine at a critical moment that may... [731 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "leadership"
+      ],
+      "publishedAtTs": 1745700191
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "Donald Trump Dealt Double Polling Blow on the Economy",
+      "description": "The president's handling of the economy is being viewed unfavorably by majority of Americans, two recent polls found.",
+      "url": "https://www.newsweek.com/donald-trump-dealt-double-polling-blow-economy-2064617",
+      "urlToImage": "https://d.newsweek.com/en/full/2633948/donald-trump.jpg",
+      "publishedAt": "2025-04-26T20:25:34Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nPresident Donald Trump is... [6381 chars]",
+      "tags": [
+        "economy_finance",
+        "polling"
+      ],
+      "publishedAtTs": 1745699134
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Inquisitr"
+      },
+      "author": "The Inquisitr",
+      "title": "TSA Won’t Tell You-But You Can Say No to Facial Scans and Experts Say You Should",
+      "description": "TSA face scans are optional and privacy experts say you should decline, especially under Trump’s administration. Here’s why opting out matters.",
+      "url": "https://www.inquisitr.com/tsa-wont-tell-you-but-you-can-say-no-to-facial-scans-and-experts-say-you-should",
+      "urlToImage": "https://www.inquisitr.com/wp-content/uploads/2025/04/TSA-Facial-Recognition.jpg",
+      "publishedAt": "2025-04-26T20:21:13Z",
+      "content": "A strange thing happened at U.S. airports today. Travelers were asked to undergo facial scans during security checks before boarding their flights. But here’s the funny part; you can actually say no to this, and most people don’t even realize it. Exp... [3031 chars]",
+      "tags": [
+        "security_intelligence",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1745698873
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump mega-donor’s paper savages his pardon of Las Vegas Republican",
+      "description": "Las Vegas Review-Journal, owned by billionaire Miriam Adelson, condemns pardon of ex-lawmaker Michele Fiore",
+      "url": "https://www.theguardian.com/us-news/2025/apr/26/trump-miriam-adelson-las-vegas-review-journal",
+      "urlToImage": "https://i.guim.co.uk/img/media/5c4423b70560b7c8b4f4895b476b5a90c3c70a6f/1300_172_2700_1620/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a31039ce555647556003d83eea36f467",
+      "publishedAt": "2025-04-26T20:08:45Z",
+      "content": "A Nevada newspaper owned by a Donald Trump mega-donor has savaged the US president’s decision to pardon a Republican councilwoman who was convicted of using donations intended to fund a statue of a police officer to pay for cosmetic surgery.\nThe Las ... [2518 chars]",
+      "tags": [
+        "legal_justice",
+        "republican_party",
+        "media_communications"
+      ],
+      "publishedAtTs": 1745698125
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Georgia Democrat Jon Ossoff says Trump's 'chaos and uncertainty' cripples the economy",
+      "description": "MARIETTA, Ga. (AP) — Democratic Sen. Jon Ossoff of Georgia said Saturday that President Donald Trump's unsettled economic policy is the biggest problem facing his state, saying the “chaos and",
+      "url": "https://www.thestar.com/news/world/united-states/georgia-democrat-jon-ossoff-says-trumps-chaos-and-uncertainty-cripples-the-economy/article_c55d4eee-0d30-5371-bddf-ffee53ae1699.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/0e/c0e76dc0-156b-5dae-8486-b56ad609cec7/680d3b412e158.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-26T19:56:28Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "economy_finance",
+        "elections_politics",
+        "2024_presidential"
+      ],
+      "publishedAtTs": 1745697388
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Americans, including Republicans, losing faith in Trump, new polls reveal",
+      "description": "Trump scores poorly on economy and immigration as some fear he is ‘exceeding powers’ and focussed on wrong issues",
+      "url": "https://www.theguardian.com/us-news/2025/apr/26/americans-republicans-trump-ratings-poll",
+      "urlToImage": "https://i.guim.co.uk/img/media/2cb9ed57e2b0474c89267c696e2a4231fa2a80a2/86_317_3898_2339/master/3898.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=477f032f463113c29bb9ffa510f8bc7d",
+      "publishedAt": "2025-04-26T19:54:03Z",
+      "content": "Americans, including some Republicans, are losing faith in Donald Trump across a range of key issues, according to polling released this week. One survey found a majority describing the president’s second stint in the White House so far as “scary”.\nA... [4640 chars]",
+      "tags": [
+        "elections_politics",
+        "polling",
+        "trump"
+      ],
+      "publishedAtTs": 1745697243
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Amid plea to build bridges at papal funeral, Trump has a revelation - about Russia",
+      "description": "US president’s epiphany that Putin may not want to stop Ukraine war follows ‘symbolic’ talk with Zelenskyy in St Peter’s Basilica",
+      "url": "https://www.theguardian.com/us-news/2025/apr/26/amid-plea-to-build-bridges-at-papal-funeral-trump-has-a-revelation-about-russia",
+      "urlToImage": "https://i.guim.co.uk/img/media/876c0e1583f66639096373d4b456bf8b1211b978/487_499_3182_1909/master/3182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fba24bbae43483bd6e852da88cec9d1b",
+      "publishedAt": "2025-04-26T19:53:13Z",
+      "content": "It was a fitting moment for an epiphany, if that’s what this was. Donald Trump sat in the morning light in St Peter’s Basilica hunched over in conversation with Volodymyr Zelenskyy, as the assembled royalty and foreign leaders, the cardinals and bish... [3861 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia"
+      ],
+      "publishedAtTs": 1745697193
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Pahalgam Terror Attack: ‘They’ve had that fight for 1,000 years... both will figure out one way or other’",
+      "description": "Trump India Pakistan tension | US-India-Pakistan relations: Delhi reads the statement with a sense of relief, since he has not articulated any desire to mediate. The Kashmir dispute has been unresolved between India and Pakistan since 1947.",
+      "url": "https://indianexpress.com/article/india/donald-trump-india-pakistan-tension-pahalgam-attack-9966822/",
+      "urlToImage": "https://images.indianexpress.com/2025/04/Trump-Air-Force-One.jpg",
+      "publishedAt": "2025-04-26T19:47:31Z",
+      "content": "Days after US President Donald Trump said that the US stands strong with India against terrorism after the Pahalgam attack, he said Friday that India and Pakistan will figure a way out of the current crisis between themselves “one way or the other”.\n... [2644 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1745696851
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "TheJournal.ie",
+      "title": "6am sprints and rooftop communion: Behind the scenes of the papal funeral",
+      "description": "A 6am, around 30 people suddenly sprinted out of the courtyard and towards St Peter’s Square. The rumour mill began – has Trump arrived?",
+      "url": "https://www.thejournal.ie/pope-francis-funeral-rome-the-vatican-6688211-Apr2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6688211/river/?height=400&version=6688867",
+      "publishedAt": "2025-04-26T19:20:34Z",
+      "content": "PEOPLE OFTEN SAY that the Catholic Church moves slowly, and so it is with the Vatican’s press office too.\nThe Journal faced a wait of close to three hours to receive its accreditation for Pope Francis’ funeral, but were among the lucky outlets.\nOther... [9702 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1745695234
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Sun"
+      },
+      "author": "The Irish Sun",
+      "title": "Lip reader reveals 'the four words Melania said to Trump to avoid awkward moment at Pope Francis' funeral'",
+      "description": "THE four golden words that First Lady Melania may have whispered into Donald Trump's ears to avoid an awkward moment at Pope Francis' funeral have now",
+      "url": "https://www.thesun.ie/news/15113190/melania-trump-pope-francis-funeral/",
+      "urlToImage": "https://www.thesun.ie/wp-content/uploads/sites/3/2025/04/newspress-collage-mc5d6n06p-1745694379793.jpg?1745698745&strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2025-04-26T19:16:19Z",
+      "content": "THE four golden words that First Lady Melania may have whispered into Donald Trump's ears to avoid an awkward moment at Pope Francis' funeral have now been revealed.\nTop world leaders set foot in Rome today to join thousands of Catholic mourners at t... [5502 chars]",
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1745694979
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "City of Hamilton concerned with tariffs going into federal election",
+      "description": "As Canadians gear up to head to the polls to elect a new federal government on Monday, top of mind for many is U.S. President Donald Trump’s tariffs and their impact on Canada’s economy.",
+      "url": "https://www.cp24.com/federal-election-2025/2025/04/26/us-tariffs-on-steel-top-of-mind-for-hamilton-as-federal-election-closes-in/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/PTMWO2UGUZAXLEXTRMJBCDFQDE.png?smart=true&auth=bc47b2168ffc3a1a974c1d30cf1b737a6c26b2f27f1fb7ba164ffa2742adb6a6&width=1200&height=630",
+      "publishedAt": "2025-04-26T19:07:03Z",
+      "content": "An Elections Canada sign is seen on Friday, April 18, 2025 (L). A steel worker works at the ArcelorMittal Dofasco steel plant in Hamilton, Ont (R).\nAs Canadians gear up to head to the polls to elect a new federal government on Monday, top of mind for... [5338 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1745694423
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -16,10 +16,7 @@
       "content": "The Trump administration has reversed its decision to revoke the legal status of a four-year-old girl, receiving ongoing life-saving treatment in the US, and her family after a national outcry.\nDeysi Vargas, her husband and their daughter – whom lawy... [2116 chars]",
       "tags": [
         "immigration",
-        "healthcare",
-        "legal_justice",
-        "personal_family",
-        "crisis_emergency"
+        "social_issues"
       ],
       "publishedAtTs": 1748995019
     },
@@ -36,9 +33,8 @@
       "publishedAt": "2025-06-03T23:09:50Z",
       "content": "is a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget.\nLast week, Elon Musk’s media tour included telling CBS Sunday Morning he was “disappointed” ... [1662 chars]",
       "tags": [
-        "economy_finance",
-        "media_communications",
-        "policy_legislation"
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1748992190
     },
@@ -55,11 +51,8 @@
       "publishedAt": "2025-06-03T23:01:49Z",
       "content": "For weeks, Subash Devatwal’s phone has not stopped ringing. Some of the calls have been from distressed students, at other times it is their panicked parents, but all have the same question – is their dream of studying in the US still possible?\nDevat... [6770 chars]",
       "tags": [
-        "foreign_policy",
-        "education",
-        "policy_legislation",
         "immigration",
-        "personal_family"
+        "education"
       ],
       "publishedAtTs": 1748991709
     },
@@ -76,11 +69,8 @@
       "publishedAt": "2025-06-03T23:00:00Z",
       "content": "Billionaire Elon Musk plunged on Tuesday into the congressional debate over US president Donald Trump's sweeping tax and spending bill, calling it a \"disgusting abomination\" that will increase the federal deficit.\nSeveral fiscally conservative Republ... [5270 chars]",
       "tags": [
-        "taxes",
-        "budget",
         "economy_finance",
-        "media_communications",
-        "policy_legislation"
+        "taxes"
       ],
       "publishedAtTs": 1748991600
     },
@@ -98,8 +88,8 @@
       "content": "The United States has doubled steel and aluminum tariffs as US President Donald Trump's intensifying trade war weighs on the world economy.\nThe move, which Mr Trump earlier said was aimed at protecting domestic steel and aluminum industries, takes hi... [3556 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "foreign_policy"
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1748991600
     },
@@ -116,11 +106,8 @@
       "publishedAt": "2025-06-03T22:37:00Z",
       "content": "A 23-year-old man was nabbed by Secret Service agents early Wednesday after hopping the wall around President Trump’s Mar-a-Lago resort, telling officers he wanted to “spread the gospel” to Trump and wed his 18-year-old granddaughter, Kai.\nAnthony Th... [990 chars]",
       "tags": [
-        "personal_legal",
-        "security_incidents",
-        "regional_state",
-        "legal_justice",
-        "security_intelligence"
+        "security_intelligence",
+        "personal_family"
       ],
       "publishedAtTs": 1748990220
     },
@@ -137,9 +124,8 @@
       "publishedAt": "2025-06-03T22:35:43Z",
       "content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\nThe Trump family's crypto-related moves have continued to dominate the airwaves today. First, news emerged that... [2327 chars]",
       "tags": [
-        "economy_finance",
-        "media_communications",
-        "personal_family"
+        "cryptocurrency",
+        "economy_finance"
       ],
       "publishedAtTs": 1748990143
     },
@@ -156,11 +142,8 @@
       "publishedAt": "2025-06-03T22:23:30Z",
       "content": "Open this photo in gallery: The move has prompted concerns from some doctors and abortion rights advocates that women will not get emergency abortions in states with strict bans.Kevin Lamarque/Reuters\nThe Trump administration announced on Tuesday tha... [3491 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "legal_justice",
-        "social_issues",
-        "health_science"
+        "abortion",
+        "healthcare"
       ],
       "publishedAtTs": 1748989410
     },
@@ -177,11 +160,8 @@
       "publishedAt": "2025-06-03T22:16:51Z",
       "content": "President Donald Trump talks to workers as he tours U.S. Steel Corporation's Mon Valley Works-Irvin plant, Friday, May 30, 2025, in West Mifflin, Pa. (AP Photo/Julia Demaree Nikhinson)\nNEW YORK – U.S. President Donald Trump has promised to hike nearl... [6728 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "policy_legislation",
-        "government_administration",
-        "legal_justice"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748989011
     },
@@ -200,10 +180,268 @@
       "tags": [
         "economy_finance",
         "budget",
-        "media_communications",
-        "government_administration"
+        "trade"
       ],
       "publishedAtTs": 1748988979
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBC.ca"
+      },
+      "author": "CBC.ca",
+      "title": "Trump signs order to double steel and aluminum tariffs at midnight",
+      "description": "U.S. President Donald Trump signed an executive order on Tuesday doubling the tariffs on steel and aluminum imports to 50 per cent, a move one Canadian industry official warned would have \"unrecoverable consequences.\"",
+      "url": "https://www.cbc.ca/news/world/trump-canada-steel-tariffs-executive-order-signed-1.7551398",
+      "urlToImage": "https://i.cbc.ca/1.7551399.1748987084!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_1180/usa-trump-judiciary-nominees.JPG?im=Resize%3D620",
+      "publishedAt": "2025-06-03T22:12:59Z",
+      "content": "U.S. President Donald Trump signed an executive order on Tuesday doubling the tariffs on steel and aluminum imports to 50 per cent, a move one Canadian industry official warned would have \"unrecoverable consequences.\"\nThe new rate will take effect at... [2605 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748988779
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US judge rules prisons must provide gender-affirming care for trans people",
+      "description": "Ruling in Washington comes despite executive order signed by Donald Trump that targeted funding for such care",
+      "url": "https://www.theguardian.com/us-news/2025/jun/03/us-judge-trans-care-prisons",
+      "urlToImage": "https://i.guim.co.uk/img/media/57f04602c3e3eeb55ab03ec12b13a0e13ff9d3f0/203_0_4499_3600/master/4499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95df0f8ec97a938c30a1a8004e2343d7",
+      "publishedAt": "2025-06-03T22:11:09Z",
+      "content": "A US judge on Tuesday ruled the US Bureau of Prisons must keep providing transgender inmates gender-affirming care, despite an executive order Donald Trump signed on his first day back in office to halt funding for such care.\nUS district judge Royce ... [3260 chars]",
+      "tags": [
+        "civil_rights",
+        "lgbtq_rights",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748988669
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox.com"
+      },
+      "author": "Vox.com",
+      "title": "Trump-Musk breakup: What to know",
+      "description": "Does Elon Musk’s opinion still matter?",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/415384/elon-musk-trump-relationship-doge-big-beautiful-bill",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/06/gettyimages-2217852566.jpg?quality=90&strip=all&crop=0%2C10.728016928778%2C100%2C78.543966142444&w=1200",
+      "publishedAt": "2025-06-03T22:05:00Z",
+      "content": "Tesla CEO Elon Musk and President Donald Trump in the Oval Office of the White House on May 30, 2025, in Washington, DC.﻿ Kevin Dietsch/Getty Images\nThis story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump ad... [2338 chars]",
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1748988300
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Trump to host thousands of admin officials for one of the largest events ever on White House lawn",
+      "description": "President Donald Trump on Wednesday evening is hosting the more than 3,000 political appointees in his administration for one of the largest events ever held on the White House lawn to celebrate their work.",
+      "url": "https://nypost.com/2025/06/03/us-news/trump-to-host-thousands-of-admin-officials-for-one-of-the-largest-events-ever-on-white-house-lawn/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/06/105813874.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-06-03T22:04:27Z",
+      "content": "President Donald Trump on Wednesday evening is hosting the more than 3,000 political appointees in his administration for one of the largest events ever held on the White House lawn to celebrate their work, Fox News Digital has learned.\nThe event wil... [2980 chars]",
+      "tags": [
+        "government_administration",
+        "personnel",
+        "leadership"
+      ],
+      "publishedAtTs": 1748988267
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Trump pardons 2 divers who freed 19 sharks off the coast of Florida",
+      "description": "Two South Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore have been pardoned by President Donald Trump.",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-pardons-2-divers-freed-19-sharks-coast-florida-rcna210792",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250531-trump-ch-1635-1e2515.jpg",
+      "publishedAt": "2025-06-03T22:03:33Z",
+      "content": "MIAMI — Two South Florida shark divers convicted of theft for freeing 19 sharks and a giant grouper from a fisherman’s longline several miles from shore have been pardoned by President Donald Trump.\nPardons for Tanner Mansell and John Moore Jr. were ... [2077 chars]",
+      "tags": [
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748988213
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Musk calls Trump's big tax break bill a 'disgusting abomination,' testing his influence over the GOP",
+      "description": "WASHINGTON (AP) — Elon Musk blasted President Donald Trump's“big, beautiful bill\" of tax breaks and spending cuts as a “disgusting abomination\" on Tuesday, testing the limits of his political influence",
+      "url": "https://www.thestar.com/news/world/united-states/musk-calls-trumps-big-tax-break-bill-a-disgusting-abomination-testing-his-influence-over-the/article_90c367ce-1b28-52cb-ab16-b53501232357.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/e4/ae49c820-3cbc-5a08-86eb-029a1a1e164a/683d474155e7c.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-06-03T21:53:00Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "economy_finance",
+        "trump"
+      ],
+      "publishedAtTs": 1748987580
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump issues proclamation doubling steel and aluminum tariffs",
+      "description": "U.S. President Donald Trump issued a proclamation Tuesday, doubling tariffs on steel and aluminum imports from all countries, including Canada.",
+      "url": "https://www.cp24.com/news/money/2025/06/03/trump-issues-proclamation-doubling-steel-and-aluminum-tariffs/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/PQPSAZQQROWOXK77RXUKRWII24.jpg?smart=true&auth=b29f87685f245fe094fa5b49d3af5aeeda115f8ca094bb6147101cbe03a43889&width=1200&height=630",
+      "publishedAt": "2025-06-03T21:48:38Z",
+      "content": "U.S. President Donald Trump issued a proclamation Tuesday, doubling tariffs on steel and aluminum imports from all countries, including Canada.\nAccording to the proclamation, Trump says, “the increased tariffs will more effectively counter foreign co... [4379 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748987318
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Trump Pressures Divided G.O.P. To Back Policy Bill",
+      "description": "The president is pressing Republicans in the Senate to unite quickly behind sprawling legislation that carries his domestic agenda, but the measure’s opponents have a powerful new ally: Elon Musk.",
+      "url": "https://www.nytimes.com/2025/06/03/us/politics/trump-rand-paul-republicans-policy-bill.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/03/multimedia/03trump-news-trump-bill-topart-fcvp/03trump-news-trump-bill-topart-fcvp-facebookJumbo.jpg",
+      "publishedAt": "2025-06-03T21:41:39Z",
+      "content": "President Trump on Tuesday ratcheted up pressure on Senate Republicans to quickly embrace and pass legislation carrying his domestic agenda, intensifying a battle inside the G.O.P. about what should be in the measure and how much it should cost.\nThe ... [1075 chars]",
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1748986899
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Daily News"
+      },
+      "author": "New York Daily News",
+      "title": "Zohran Mamdani rips NYC Councilwoman Vickie Paladino's 'extremist' call for his deportation",
+      "description": "Zohran Mamdani, a leading progressive candidate for mayor, ripped conservative City Councilwoman Vickie Paladino on Tuesday for suggesting he should be deported from the U.S. for his political views, calling her comment \"a reflection\" of how Donald Trump has emboldened \"extremists.\"",
+      "url": "https://www.nydailynews.com/2025/06/03/zohran-mamdani-rips-nyc-councilwoman-vickie-paladinos-extremist-call-for-his-deportation/",
+      "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2025/06/duo.jpg?w=1024&h=628",
+      "publishedAt": "2025-06-03T21:39:30Z",
+      "content": "Zohran Mamdani, a leading progressive candidate for NYC mayor, ripped conservative City Councilwoman Vickie Paladino on Tuesday for suggesting he should be deported from the U.S. for his political views, calling her comment “a reflection” of how Pres... [2225 chars]",
+      "tags": [
+        "immigration",
+        "social_issues",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1748986770
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Trump's ambitious push for trade deals is hitting some snags",
+      "description": "President Donald Trump’s ambitious plan to broker dozens of trade deals with some of the United States’ closest trading partners has begun to show cracks as the clock on his 90-day pause for most country-specific tariffs winds down to just over one month.",
+      "url": "https://www.nbcnews.com/business/economy/trump-tariff-trade-deals-where-negotiations-stand-now-what-to-know-rcna210051",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/250603-port-los-angeles-mb-1158-7f1f56.jpg",
+      "publishedAt": "2025-06-03T21:36:27Z",
+      "content": "“It’s going to be a long, drawn-out negotiation,” said Warren Maruyama, who worked on trade deals during the George W. Bush administration as general counsel for the Office of the U.S. Trade Representative. “You could hope that your trading partner i... [6572 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748986587
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "U.S. Proposal in Iran Nuclear Talks Allows Some Enrichment of Uranium",
+      "description": "An outline by the Trump administration would allow Iran to continue enriching uranium at low levels while a broader arrangement is worked out that would block the country’s path to a nuclear weapon.",
+      "url": "https://www.nytimes.com/2025/06/03/us/politics/iran-nuclear-deal-proposal.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/03/multimedia/03dc-iran1-lhqf/03dc-iran1-lhqf-facebookJumbo.jpg",
+      "publishedAt": "2025-06-03T21:32:58Z",
+      "content": "The Trump administration is proposing an arrangement that would allow Iran to continue enriching uranium at low levels while the United States and other countries work out a more detailed plan intended to block Iran’s path to a nuclear weapon but giv... [895 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1748986378
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Elon Musk calls Donald Trump-backed tax bill a 'disgusting abomination'",
+      "description": "Elon Musk's comments come days after he abruptly left his government role in the White House.",
+      "url": "https://news.sky.com/story/elon-musk-calls-donald-trump-backed-tax-bill-a-disgusting-abomination-13378858",
+      "urlToImage": "https://e3.365dm.com/25/05/1600x900/skynews-elon-musk-donald-trump_6931734.jpg?20250531020338",
+      "publishedAt": "2025-06-03T21:32:00Z",
+      "content": "Elon Musk has criticised US President Donald Trump's tax and spending bill, calling it \"outrageous\" and a \"disgusting abomination\".\nThe bill, which includes multi-trillion-dollar tax breaks, was passed by the House Republicans in May, and has been de... [1180 chars]",
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "taxes"
+      ],
+      "publishedAtTs": 1748986320
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Denouncing Antisemitism, Trump Also Fans Its Flames",
+      "description": "President Trump’s effort to punish Harvard over antisemitism is complicated by his extensive history of amplifying white supremacist figures and symbols.",
+      "url": "https://www.nytimes.com/2025/06/03/us/politics/trump-antisemitism.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/06/02/multimedia/dc-trump-antisemitism-bmlw/dc-trump-antisemitism-bmlw-facebookJumbo.jpg",
+      "publishedAt": "2025-06-03T21:30:52Z",
+      "content": "In the Oval Office one day last week, President Trump renewed his no-holds-barred attack on the nation’s oldest university. “They’re totally antisemitic at Harvard,” he declared.\nJust 10 hours later, he posted an image of himself striding down a stre... [960 chars]",
+      "tags": [
+        "social_issues",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1748986252
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Salon",
+      "title": "Hungrier kids, missed check-ups: Trump's cuts to childcare make it a lot harder to be a parent",
+      "description": "Efforts to slash childcare and other social spending will compound the difficulties of raising young kids",
+      "url": "https://www.salon.com/2025/06/03/hungrier-kids-missed-ups-cuts-to-childcare-make-it-a-lot-harder-to-be-a-parent/",
+      "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2025/06/daycare-2188869227.jpg",
+      "publishedAt": "2025-06-03T21:30:06Z",
+      "content": "“People don't think about those parents,” Angelique Marshall, a Washington, D.C.-based at-home childcare provider, told Salon. Most of the parents the 56-year-old serves have children with disabilities and don't have much flexibility in their schedul... [10435 chars]",
+      "tags": [
+        "social_issues",
+        "healthcare",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748986206
     }
   ]
 }

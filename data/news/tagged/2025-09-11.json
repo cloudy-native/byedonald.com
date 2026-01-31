@@ -330,7 +330,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2136x1202+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fe6%2Ffd8b78e84336bc0d60caa3e43f44%2Fdiscordant-couples.jpg",
       "publishedAt": "2025-09-11T10:56:59Z",
       "content": "Let's say you fall in love with someone harboring a deadly -- and highly infectious -- virus. And you think is it crazy to get married?\r\nSometimes love conquers all with the help of modern medicine.\r… [+7094 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "public_health"
+      ],
       "publishedAtTs": 1757588219
     },
     {
@@ -417,7 +420,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5651x3179+0+294/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9c%2Fbd%2F5462510242408a28a39e27e04633%2Fgettyimages-2147732007.jpg",
       "publishedAt": "2025-09-11T15:09:43Z",
       "content": "\"As long as you breathe, you are at risk anywhere in the world,\" says physician Lucicia Ditiu.\r\nThe risk she's referring to is catching tuberculosis. While it may seem like a disease from the past, t… [+6820 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "healthcare"
+      ],
       "publishedAtTs": 1757603383
     },
     {
@@ -432,7 +438,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4240x2385+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2F86%2F4ad2d41046d8b1f22002d837fbe0%2Fcovid-triptych-color-16x9.jpg",
       "publishedAt": "2025-09-11T23:33:05Z",
       "content": "Jason Mitton wanted one of the new COVID-19 vaccines before leaving on a business trip. But the pharmacists at a drug store near his home in Austin, Texas, refused.\r\n\"He's like: 'Do you have a doctor… [+8410 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "healthcare"
+      ],
       "publishedAtTs": 1757633585
     },
     {
@@ -502,7 +511,10 @@
       "urlToImage": "https://i.insider.com/68b9575a57d362d375e77c8d?width=1200&format=jpeg",
       "publishedAt": "2025-09-11T07:00:03Z",
       "content": "The cooling towers of a nuclear power plantWlad74/Getty Images\r\n<ul><li>Nuclear startups Terra Innovatum, Terrestrial Energy, and Eagle Energy Metals are planning SPAC listings.</li><li>SPACs, once p… [+6088 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "economy_finance"
+      ],
       "publishedAtTs": 1757574003
     },
     {
@@ -851,7 +863,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/Larry-and-David-Ellison-1200x675.jpg",
       "publishedAt": "2025-09-11T20:15:45Z",
       "content": "Last month, Skydance Media, the entertainment giant, completed an $8 billion acquisition of one of Hollywood’s most prestigious studios, Paramount. Skydance, owned by David Ellison, son of Oracle bil… [+2453 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "personal_family"
+      ],
       "publishedAtTs": 1757621745
     },
     {
@@ -1036,7 +1052,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b857/live/0643dc50-8f58-11f0-84c8-99de564f0440.jpg",
       "publishedAt": "2025-09-11T23:02:49Z",
       "content": "Justin RowlattClimate Editor\r\nUS Energy Secretary Chris Wright spoke to BBC Climate Editor Justin Rowlatt dureing an interview in Brussels\r\nDon't worry too much about planet-warming emissions, the US… [+5747 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1757631769
     },
     {

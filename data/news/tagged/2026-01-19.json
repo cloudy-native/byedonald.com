@@ -14,7 +14,10 @@
       "urlToImage": "https://media.wired.com/photos/696af5f8760211e43e025ef8/191:100/w_1280,c_limit/DeepSeek-Europe-Race-Business-2196250439.jpg",
       "publishedAt": "2026-01-19T07:00:00Z",
       "content": "Against that backdrop, Europes reliance on American-made AI begins to look more and more like a liability. In a worst case scenario, though experts consider the possibility remote, the US could choos… [+3464 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1768806000
     },
     {
@@ -29,7 +32,12 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268257_Minneapolis_ICE_SGarcia_0039.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-01-19T20:58:10Z",
       "content": "<ul><li></li><li></li></ul>\r\nAs Homeland Securitys siege on Minneapolis enters its third week, locals are volunteering for patrol shifts, protesting in the streets, and keeping one another up to date… [+9159 chars]",
-      "tags": [],
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "social_issues",
+        "protests"
+      ],
       "publishedAtTs": 1768856290
     },
     {
@@ -44,7 +52,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
       "publishedAt": "2026-01-19T21:01:00Z",
       "content": "Available for over a year\r\nPresident Trump has said he no longer feels an obligation to think purely of peace after not being awarded the Nobel Peace Prize. His comments came via text message to the … [+1342 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
       "publishedAtTs": 1768856460
     },
     {
@@ -59,7 +70,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5447/live/b82260c0-f4a4-11f0-b5f7-49f0357294ff.jpg",
       "publishedAt": "2026-01-19T06:17:06Z",
       "content": "Anna FosterPresenter, Today programme\r\nAntonio Guterres told the BBC some believe \"the power of law should be replaced by the law of power\"\r\nThe US is acting with impunity and believes its power matt… [+5044 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768803426
     },
     {
@@ -74,7 +87,11 @@
       "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "publishedAt": "2026-01-19T10:01:04Z",
       "content": "Hundreds of active-duty troops on are standby to deploy to Minnesota, Trump escalates tensions across Europe with new threats over Greenland, Israel raises objections over Trump's Board of Peace.",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "regional_state"
+      ],
       "publishedAtTs": 1768816864
     },
     {
@@ -89,7 +106,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8660x4871+0+451/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F0a%2F50deabe1470ca546c98fc9ddf52e%2Fgettyimages-2255937526.jpg",
       "publishedAt": "2026-01-19T10:00:00Z",
       "content": "President Trump escalated his crusade for the U.S. to acquire Greenland this weekend, just as a congressional delegation wrapped up a trip to Denmark to try to turn the temperature down.\r\nOn Saturday… [+5446 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "trade_negotiations_truces",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768816800
     },
     {
@@ -104,7 +125,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/612x344+0+32/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fdf%2F503fd6b64529bee44bc516bf30bd%2Fgettyimages-2255277403-612x612.jpg",
       "publishedAt": "2026-01-19T10:00:00Z",
       "content": "President Trump once insisted he had \"nothing to do with Project 2025,\" the right-wing policy plan that became a key flashpoint during the presidential campaign.\r\nThe Democrats tried to turn the 900-… [+4798 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "immigration",
+        "education"
+      ],
       "publishedAtTs": 1768816800
     },
     {
@@ -119,7 +144,11 @@
       "urlToImage": "https://i.insider.com/696ab0f4c58df2ecd5ccb93c?width=1200&format=jpeg",
       "publishedAt": "2026-01-19T11:39:25Z",
       "content": "The Swiss resort town of Davos hosts the World Economic Forum each January, bringing together politicians, policymakers, and business executives.Christian Hartmann/Reuters\r\n<ul><li>This post original… [+2496 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1768822765
     },
     {
@@ -136,7 +165,7 @@
       "content": "Evelyn Hockstein/REUTERS\r\n<ul><li>President Donald Trump appears to have walked back his promise of $2,000 tariff rebate checks.</li><li>Trump previously proposed payouts funded by tariff revenue ami… [+2828 chars]",
       "tags": [
         "economy_finance",
-        "trade"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1768840801
     },
@@ -153,8 +182,7 @@
       "publishedAt": "2026-01-19T19:06:46Z",
       "content": "One version of the red hats opposing Donald Trump's threats to take over Greenland.Thomas Traasdahl/Reuters\r\n<ul><li>Online sellers are offering red hats printed with \"Make America Go Away.\"</li><li>… [+2074 chars]",
       "tags": [
-        "foreign_policy",
-        "trump"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768849606
     },
@@ -171,9 +199,7 @@
       "publishedAt": "2026-01-19T09:13:01Z",
       "content": "\"There's enormous issues for our economy and for our democracy that have got to be dealt with,\" Sanders said. \"And I feel we're not ready to do that.\"Nathan Posner/Anadolu via Getty Images\r\n<ul><li>B… [+3820 chars]",
       "tags": [
-        "artificial_intelligence",
-        "policy_legislation",
-        "economy_finance"
+        "ai_state_preemption"
       ],
       "publishedAtTs": 1768813981
     },
@@ -189,7 +215,11 @@
       "urlToImage": "https://i.insider.com/6969637d64858d02d2187433?width=1200&format=jpeg",
       "publishedAt": "2026-01-19T09:16:01Z",
       "content": "Rural hospital closures limit healthcare for millions of Americans.Thomas Northcut/Getty Images\r\n<ul><li>Over `100 rural hospitals have closed since 2005, making it hard for millions to access health… [+4178 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "economy_finance",
+        "social_issues"
+      ],
       "publishedAtTs": 1768814161
     },
     {
@@ -204,7 +234,9 @@
       "urlToImage": "https://i.insider.com/696e4bc1a645d118818795dd?width=1200&format=jpeg",
       "publishedAt": "2026-01-19T15:27:38Z",
       "content": "Kim Last starts Davos with a nearly $170 blowout, and she feels it's worth every penny for the hair, the coffee, and the networking opportunities.Thomas Oswald for BI\r\n<ul><li>Kopps Coiffure, a salon… [+4277 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768836458
     },
     {
@@ -237,7 +269,9 @@
       "urlToImage": "https://boingboing.net/wp-content/uploads/2022/11/1200px-Gorillaz_@_Barclays_Center_Brooklyn_10-13-2018.2.jpg",
       "publishedAt": "2026-01-19T20:22:07Z",
       "content": "It may be more appropriate to call this a double, given that it's actually two songs in one.\r\nI don't mean to harp on Gorillaz lately, but every single from the virtual band's upcoming concept album … [+1058 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768854127
     },
     {
@@ -270,7 +304,11 @@
       "urlToImage": "https://s.yimg.com/os/en/the_center_square_articles_912/47dcae7ca2a6245a38aba61f62238684",
       "publishedAt": "2026-01-19T15:27:00Z",
       "content": "In the wake of escalating protests against U.S. Immigration and Customs Enforcement operations in Minnesota, anti-borders politicians like Gov. Tim Walz, Illinois Gov. J.B. Pritzker and U.S. Rep. Ilh… [+4569 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "immigration",
+        "legal_justice"
+      ],
       "publishedAtTs": 1768836420
     },
     {
@@ -285,7 +323,11 @@
       "urlToImage": null,
       "publishedAt": "2026-01-19T21:34:43Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "protests",
+        "social_issues"
+      ],
       "publishedAtTs": 1768858483
     },
     {
@@ -318,7 +360,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mCMUIzfFFVZ3240cGUTrLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/2c86438e0201113924f8447544ad63a8",
       "publishedAt": "2026-01-19T06:42:19Z",
       "content": "BANGKOK (AP) U.S. stock futures skidded Monday after U.S. President Donald Trump threatened to slap a 10% extra tariff on imports from eight European countries due to their opposition to his desire t… [+3982 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768804939
     },
     {
@@ -333,7 +379,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ANqCA_sUcyr9cNFNY7hPqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ad35d5a4059ee617080ac869c81851d9",
       "publishedAt": "2026-01-19T23:10:16Z",
       "content": "WASHINGTON (AP) A federal judge refused Monday to temporarily block the Trump administration from enforcing a new policy requiring a week's notice before members of Congress can visit immigration det… [+4120 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
       "publishedAtTs": 1768864216
     },
     {
@@ -350,6 +399,7 @@
       "content": "(Corrects to remove Danish Presidency in the European Union from disclaimer, as Denmark is no longer holding the presidency, in paragraph 3)\r\nJan 18 (Reuters) - U.S. President Donald Trump said on Su… [+1231 chars]",
       "tags": [
         "foreign_policy",
+        "greenland_acquisition",
         "russia"
       ],
       "publishedAtTs": 1768803468
@@ -366,7 +416,9 @@
       "urlToImage": "https://s.yimg.com/os/en/reuters.com/7d7b39a9b19b95c2e8548e05354f733c",
       "publishedAt": "2026-01-19T07:31:47Z",
       "content": "By Tamara Vaal\r\nASTANA, Jan 19 (Reuters) - Kazakh President Kassym-Jomart Tokayev will join the \"Board of Peace\" proposed by U.S. President Donald Trump after accepting an invitation to do so and wan… [+1082 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768807907
     },
     {
@@ -383,8 +435,7 @@
       "content": "MEXICO CITY (AP) Mexican President Claudia Sheinbaum quelled concerns on Monday about two recent movements of the U.S. military in the vicinity of Mexico that have the country on edge since the attac… [+2431 chars]",
       "tags": [
         "foreign_policy",
-        "mexico",
-        "security_intelligence"
+        "mexico"
       ],
       "publishedAtTs": 1768849361
     },
@@ -401,8 +452,8 @@
       "publishedAt": "2026-01-19T13:57:44Z",
       "content": "COPENHAGEN, Denmark (AP) Red baseball caps spoofing Donald Trumps iconic MAGA hats have become a symbol of Danish and Greenlandic defiance against the U.S. president's threat to seize the frozen terr… [+2209 chars]",
       "tags": [
+        "greenland_acquisition",
         "foreign_policy",
-        "trump",
         "protests"
       ],
       "publishedAtTs": 1768831064
@@ -419,7 +470,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/98dOe.iIvtDNJTkTKaIU5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/nj_com_articles_950/146f97b74b8621c9779da67cdf7e446d",
       "publishedAt": "2026-01-19T20:12:01Z",
       "content": "Do Democrats have a chance at winning the midterm elections as a result of President Donald Trumps low approval ratings?\r\nDemocrats are clearly motivated ahead of the 2026 midterm elections despite h… [+2146 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "polling"
+      ],
       "publishedAtTs": 1768853521
     },
     {
@@ -434,7 +489,9 @@
       "urlToImage": "https://s.yimg.com/os/en/the_conversation_us_articles_815/8f5c764581ff115556a6ac699f19885d",
       "publishedAt": "2026-01-19T18:32:18Z",
       "content": "Make Denmark angry. Make Norway angry. Make NATOs leaders angry.\r\nPresident Donald Trumps relentless and escalating drive to acquire Greenland from Denmark, whose government along with that of Greenl… [+9062 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition"
+      ],
       "publishedAtTs": 1768847538
     },
     {
@@ -451,8 +508,8 @@
       "content": "BEIJING/SHANGHAI, Jan 19 (Reuters) - Tesla (TSLA) is poised to be one of the first automakers to benefit from Canada's move to remove 100% tariffs on Chinese-made EVs, thanks to its early efforts to … [+3740 chars]",
       "tags": [
         "trade",
-        "energy",
-        "automotive"
+        "automotive",
+        "energy"
       ],
       "publishedAtTs": 1768804686
     },
@@ -468,7 +525,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iV8K2YEPpWycqDS46rdvjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/slash_gear_112/fb27588b0154e38299b659a7f0caee80",
       "publishedAt": "2026-01-19T13:15:00Z",
       "content": "Elon Musk talking to Peter Diamandis on the Moonshots podcast. - Peter H. Diamandis/YouTube\r\nOn the Peter R. Diamandis podcast on YouTube, Elon Musk said, \"It seems like China listens to everything I… [+3774 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "trade",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1768828500
     },
     {
@@ -484,9 +545,9 @@
       "publishedAt": "2026-01-19T18:05:23Z",
       "content": "New electronic bracelets have been so far ineffective\r\nThe IDF on Monday admitted that it failed in 2025 to sufficiently reduce the volume of Jewish extremist violence against West Bank Palestinians\r… [+5935 chars]",
       "tags": [
-        "foreign_policy",
         "israel",
-        "security_intelligence"
+        "gaza",
+        "military"
       ],
       "publishedAtTs": 1768845923
     },
@@ -502,7 +563,11 @@
       "urlToImage": "https://s.yimg.com/os/en/reuters.com/cfbcb029a7ca38430441ee6de9acabde",
       "publishedAt": "2026-01-19T05:42:24Z",
       "content": "By Jaspreet Kalra and Nikunj Ohri\r\nMUMBAI/NEW DELHI, Jan 19 (Reuters) - India's central bank has proposed that BRICS countries link their official digital currencies to make cross-border trade and to… [+4771 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1768801344
     },
     {
@@ -517,7 +582,9 @@
       "urlToImage": "https://s.yimg.com/os/en/cnn_articles_875/6f5f37dcbd84abfcec92bd15ce8464e8",
       "publishedAt": "2026-01-19T01:09:17Z",
       "content": "Iraqs government on Sunday said US forces had completed a full withdrawal from military facilities within the countrys federal territory, which excludes the semi-autonomous Kurdistan Region where US … [+4089 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768784957
     },
     {
@@ -552,8 +619,7 @@
       "content": "I just received an email from my friends at The Secret Handshake, letting us all know that a 10-foot version of Trump's birthday card to \"terrific guy\" and good pal Jeffrey Epstein has been placed in… [+734 chars]",
       "tags": [
         "personal_family",
-        "legal_justice",
-        "media_communications"
+        "social_issues"
       ],
       "publishedAtTs": 1768846623
     },
@@ -569,7 +635,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bc0db5f0-a58e-4f35-a027-621661bd5d00/gaza-1-ap-gmh-260119_1768856078086_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-19T23:01:17Z",
       "content": "President Donald Trump is expected to hold a formal signing ceremony to constitute his highly anticipated Gaza Board of Peace as early as Thursday while he attends the World Economic Forum in Davos, … [+1362 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "gaza"
+      ],
       "publishedAtTs": 1768863677
     },
     {
@@ -584,7 +653,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a97a5a64-fd61-4829-b4af-d7f9e53fd763/Greenland-soldiers-DB-260119_1768812437737_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-19T10:17:05Z",
       "content": "LONDON -- The leaders of all 27 European Union nations will meet for an \"extraordinary meeting\" later this week, European Council President Antonio Costa said on Sunday, in response to U.S. President… [+3654 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy",
+        "europe"
+      ],
       "publishedAtTs": 1768817825
     },
     {
@@ -600,9 +673,7 @@
       "publishedAt": "2026-01-19T16:11:47Z",
       "content": "Government offices, the stock market and many schools are closed Monday in observance of Martin Luther King Jr. Day, but most businesses are open. \r\nNational Parks are still open on MLK Day although … [+892 chars]",
       "tags": [
-        "government_administration",
-        "economy_finance",
-        "education"
+        "off_topic"
       ],
       "publishedAtTs": 1768839107
     },
@@ -636,7 +707,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/597c15a7-dc5b-40c3-b62b-dc9cad9c5798/260118_wn_ender1_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-19T01:44:59Z",
       "content": "<ul><li>Growing concerns about measles outbreak\r\n</li><li>Remembering Martin Luther King Jr.s legacy \r\n</li><li>EU holds emergency meeting on Greenland\r\n</li><li>Trump announces tariffs on NATO allie… [+4317 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768787099
     },
     {
@@ -651,7 +724,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c99dabfb-f7db-48ac-8aa7-29a31b518ea8/260119_abc_social_michigan_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-19T21:00:28Z",
       "content": "<ul><li>Trump links Greenland push to Nobel Peace Prize snub\r\n</li><li>DOJ investigating disruption at Minnesota church\r\n</li><li>What are the legal implications of ICE actions in Minnesota? \r\n</li><… [+4315 chars]",
-      "tags": [],
+      "tags": [
+        "crisis_emergency",
+        "natural_disasters"
+      ],
       "publishedAtTs": 1768856428
     },
     {
@@ -667,9 +743,8 @@
       "publishedAt": "2026-01-19T18:44:48Z",
       "content": "<ul><li>Trump links Greenland push to Nobel Peace Prize snub\r\n</li><li>DOJ investigating disruption at Minnesota church\r\n</li><li>Woman who was arrested, shackled and detained at ICE center shares he… [+4343 chars]",
       "tags": [
-        "immigration",
-        "legal_justice",
-        "personal_family"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1768848288
     },
@@ -686,9 +761,7 @@
       "publishedAt": "2026-01-19T20:16:49Z",
       "content": "<ul><li>Trump links Greenland push to Nobel Peace Prize snub\r\n</li><li>DOJ investigating disruption at Minnesota church\r\n</li><li>What are the legal limits of the Insurrection Act?\r\n</li><li>Woman wh… [+4289 chars]",
       "tags": [
-        "foreign_policy",
-        "protests",
-        "regional_state"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768853809
     },
@@ -704,7 +777,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/2d93ef20-1fa7-426a-ac38-c17a05203124/260119_abc_social_moose_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-19T21:00:18Z",
       "content": "<ul><li>Trump links Greenland push to Nobel Peace Prize snub\r\n</li><li>DOJ investigating disruption at Minnesota church\r\n</li><li>What are the legal implications of ICE actions in Minnesota? \r\n</li><… [+4315 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768856418
     },
     {
@@ -719,7 +794,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6aa4293b-956a-496a-aafa-dd80e05996db/260119_gma_jarvis_paperwork_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-19T13:39:26Z",
       "content": "<ul><li>Allies push back after Trump threatens new tariffs over Greenland\r\n</li><li>2 battalions put on alert for possible Minneapolis deployment\r\n</li><li>Powerful winter storm slams I-95 corridor a… [+4287 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768829966
     },
     {
@@ -734,7 +811,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/7be90747-97ef-4a8f-91d3-f123543e7a97/260119_gma_play_corgi3_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-19T14:09:39Z",
       "content": "<ul><li>Allies push back after Trump threatens new tariffs over Greenland\r\n</li><li>2 battalions put on alert for possible Minneapolis deployment\r\n</li><li>Powerful winter storm slams I-95 corridor a… [+4253 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1768831779
     },
     {
@@ -749,7 +828,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9499b6db-9b69-4158-80f4-71772ffa9110/Minnesota-main_1768819384027_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-19T18:37:34Z",
       "content": "Attorney General Pam Bondi and other top administration officials said that the Justice Department is investigating an apparent disruption that occurred at a church in St. Paul, Minnesota, on Sunday … [+2569 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "immigration"
+      ],
       "publishedAtTs": 1768847854
     },
     {
@@ -764,7 +847,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/5344d484-d15a-4694-8119-b1bc389f2b62/ImmigrationEnforcementMinnesota_1768703358883_hpMain_2_16x9.jpg?w=1600",
       "publishedAt": "2026-01-19T01:22:27Z",
       "content": "Thousands of people have been arrested during ICE operations in Minneapolis over the past two weeks. Multiple attorneys allege that for some of those detained, including at least one U.S. citizen, th… [+5535 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "mass_deportation_operation"
+      ],
       "publishedAtTs": 1768785747
     },
     {
@@ -780,9 +867,7 @@
       "publishedAt": "2026-01-19T17:48:46Z",
       "content": "Donald Trump, in a message (I wouldn’t call it a letter) sent to Norwegian Prime Minister Jonas Gahr Støre, confirmed by several news organizations:\n\n\n Dear Jonas: Considering your Country decided no… [+3944 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1768844926
     },
@@ -798,7 +883,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/tether-venezuela-1200x675.jpg",
       "publishedAt": "2026-01-19T10:00:37Z",
       "content": "The U.S. Department of Justice (DOJ) has charged a Venezuelan national, 59-year old Jorge Figueira, with laundering around $1 billion of illicit funds on behalf of criminals. Figueira is alleged to h… [+3854 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1768816837
     },
     {
@@ -813,7 +901,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/warner-bros-logo-1200x675.jpg",
       "publishedAt": "2026-01-19T23:00:49Z",
       "content": "Ever since Disney got the green light to acquire Fox, every corporation’s decided it’d like to do the same thing. What was once a thing that frankly shouldn’t have happened and hasn’t tangibly benefi… [+4219 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1768863649
     },
     {
@@ -848,8 +939,7 @@
       "content": "Pennsylvania Governor Josh Shapiro was already irritated by what he describes as “unnecessarily contentious” questions from the team vetting him to be Kamala Harris’s running-mate, when a senior aide… [+11404 chars]",
       "tags": [
         "elections_politics",
-        "campaign_events",
-        "personal_family"
+        "personnel"
       ],
       "publishedAtTs": 1768781975
     },
@@ -865,7 +955,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/O6TTkLx9EuOikQSItQ3qDMtO7jE=/7x254:5974x3362/1200x625/media/img/mt/2026/01/2026_1_16_The_Legacy_Sites_in_Montgomery/original.png",
       "publishedAt": "2026-01-19T13:00:00Z",
       "content": "Belzoni, Mississippi, a town of about 2,000 people, is known as the “Catfish Capital of the World”; it is also known as the site of one of the first civil-rights-era lynchings. On May 7, 1955, two me… [+15868 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "civil_rights"
+      ],
       "publishedAtTs": 1768827600
     },
     {
@@ -880,7 +973,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98c1/live/4e0dab90-f521-11f0-ba9e-6162a5db7583.jpg",
       "publishedAt": "2026-01-19T11:38:56Z",
       "content": "US President Donald Trump has said he no longer feels obliged to think only of peace after he did not receive the Nobel Peace Prize, as he again repeated his demand for control of Greenland.\r\nIn a me… [+3527 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "personal_family"
+      ],
       "publishedAtTs": 1768822736
     },
     {
@@ -895,7 +991,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/65f7/live/cea87290-f575-11f0-b385-5f48925de19a.png",
       "publishedAt": "2026-01-19T21:46:09Z",
       "content": "Kaja Kallas, the EU's foreign policy chief, said the bloc has \"no interest to pick a fight, but we will hold our ground\".\r\nDonald Trump has vowed to \"100%\" follow through on his threat to impose tari… [+3417 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "trade_negotiations_truces",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768859169
     },
     {
@@ -928,7 +1028,10 @@
       "urlToImage": "https://corporateeurope.org/sites/default/files/styles/facebook/public/2026-01/IMG_0198%281%29.jpeg?itok=fDlqq4iS",
       "publishedAt": "2026-01-19T12:53:28Z",
       "content": "At the end of November 2025, Ursula von der Leyen gave Trump and his tech oligarchs an early Christmas present: an unprecedented attack on digital rights. In its so-called Digital Omnibus, the Europe… [+2472 chars]",
-      "tags": [],
+      "tags": [
+        "trade_negotiations_truces",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1768827208
     },
     {
@@ -945,9 +1048,7 @@
       "content": "A protest at the US consulate in Nuuk, Greenland, on 17 January\r\nEvgeniy Maloletka/AP/Alamy\r\nWith US President Donald Trump continuing to demand that Greenland be placed under his country’s control, … [+4234 chars]",
       "tags": [
         "foreign_policy",
-        "nato",
-        "europe",
-        "trade"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768831507
     },
@@ -963,7 +1064,10 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00186-8/d41586-026-00186-8_51947852.jpg",
       "publishedAt": "2026-01-19T00:00:00Z",
       "content": "The Great Global Transformation: National Market Liberalism in a Multipolar WorldBranko Milanovic Allen Lane (2025)\r\nIn the past decade or so, the realignment of global markets by politicians has tra… [+4761 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "economy_finance"
+      ],
       "publishedAtTs": 1768780800
     },
     {
@@ -979,8 +1083,8 @@
       "publishedAt": "2026-01-19T03:20:29Z",
       "content": "Last night (January 17), Bruce Springsteen made an unannounced appearance at New Jerseys Light of Day WinterFest a regular haunt, as far as his surprise performances go. While joining headliners Joe … [+2509 chars]",
       "tags": [
-        "social_issues",
-        "protests"
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1768792829
     },
@@ -998,7 +1102,7 @@
       "content": "Welcome back to Monday Barf Bag.\r\nIn the latest chapter of Bari Weiss running CBS News into the ground, the New York Times on Saturday revealed the details of a conversation between White House \r\nPro… [+4438 chars]",
       "tags": [
         "media_communications",
-        "legal_justice"
+        "press_relations"
       ],
       "publishedAtTs": 1768831560
     },
@@ -1014,7 +1118,10 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/uploads/2026/01/19110343/6CF71109-AEC1-4415-9725-430A7F47B2D3.jpeg",
       "publishedAt": "2026-01-19T11:09:32Z",
       "content": "Man, its always great when a beloved rockstar is actually, you know, a decent, good person. Rare, but great. I thank my lucky stars every day that Bruce Springsteen is one of them. The Boss, indeed.\r… [+3519 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "social_issues"
+      ],
       "publishedAtTs": 1768820972
     },
     {
@@ -1066,7 +1173,7 @@
       "publishedAt": "2026-01-19T00:50:00Z",
       "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nQuick Answer: Watch new episodes of 60 Minutes with a l… [+3596 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1768783800
     },
@@ -1082,7 +1189,11 @@
       "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/hateaid_new4f.jpg?resize=1200,600",
       "publishedAt": "2026-01-19T13:39:00Z",
       "content": "EU officials, freedom of speech experts, and the five people targeted all flatly reject these accusations. Ballon told us that their work is fundamentally about making people feel safer online. But t… [+1359 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "technology_regulation",
+        "free_speech"
+      ],
       "publishedAtTs": 1768829940
     },
     {
@@ -1099,8 +1210,7 @@
       "content": "Ahmed, Melford, Breton, and their respective organizations also made their own statements denouncing the entry bans. Ahmed, the only one of the five based in the United States, also successfully file… [+2913 chars]",
       "tags": [
         "immigration",
-        "security_intelligence",
-        "personal_family"
+        "legal_justice"
       ],
       "publishedAtTs": 1768816800
     },
@@ -1117,7 +1227,7 @@
       "publishedAt": "2026-01-19T11:22:34Z",
       "content": "Green Day, who are vocal critics of United States President Donald Trump, will perform at the Super Bowl opening ceremony next month.\r\nMembers of the American band have criticised Trump on several oc… [+1312 chars]",
       "tags": [
-        "elections_politics",
+        "media_communications",
         "personal_family"
       ],
       "publishedAtTs": 1768821754
@@ -1154,8 +1264,7 @@
       "content": "NewsFeed\r\nUS President Donald Trump has unveiled a proposed Board of Peace initially aimed at rebuilding Gaza but now pitched as a global conflict body. Critics see a wide gap between its lofty promi… [+131 chars]",
       "tags": [
         "foreign_policy",
-        "gaza",
-        "middle_east"
+        "gaza"
       ],
       "publishedAtTs": 1768854487
     },
@@ -1173,7 +1282,7 @@
       "content": "NewsFeed\r\nNorway PM Jonas Gahr Store rebuked US President Trump after Trump texted that since Norway decided not to give him the Nobel Peace Prize, hes no longer obliged to think purely of Peace and … [+104 chars]",
       "tags": [
         "foreign_policy",
-        "trump"
+        "greenland_acquisition"
       ],
       "publishedAtTs": 1768855925
     },
@@ -1189,7 +1298,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AFP__20250402__38VV29M__v1__HighRes__TrumpDeliversRemarksOnReciprocalTariffs-1743666014-1768802881.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2026-01-19T16:51:42Z",
       "content": "Over the past year, United States President Donald Trump has unleashed a slew of policies that have upended businesses, supply chains and jobs.\r\nYet the US economy seems to be growing at a healthy cl… [+4007 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
       "publishedAtTs": 1768841502
     },
     {
@@ -1204,7 +1316,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/000_937Q7G3-1768819134.jpg?resize=1200%2C675",
       "publishedAt": "2026-01-19T11:55:31Z",
       "content": "United States President Donald Trumps simmering resentment in the wake of failing to win the Nobel Peace Prize has surfaced again when he told Norways prime minister that he no longer feels obliged t… [+3741 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768823731
     },
     {
@@ -1222,9 +1337,7 @@
       "tags": [
         "foreign_policy",
         "ukraine",
-        "russia",
-        "gaza",
-        "middle_east"
+        "gaza"
       ],
       "publishedAtTs": 1768829908
     },
@@ -1240,7 +1353,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP25344727382720-1768179982_8b494f-1768186684.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2026-01-19T20:03:18Z",
       "content": "United States Federal Reserve Chair Jerome Powell will attend the Supreme Courts oral argument in a case involving the attempted firing of Fed governor Lisa Cook, an unusual show of support by the ce… [+1692 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
       "publishedAtTs": 1768852998
     },
     {
@@ -1255,7 +1371,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_696da9a40bdaa-1768794532.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T05:02:18Z",
       "content": "United States Deputy Attorney General Todd Blanche has said that the Department of Justice (DOJ) will not be investigating the Immigration and Customs Enforcement (ICE) agent who killed Renee Nicole … [+3803 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "immigration"
+      ],
       "publishedAtTs": 1768798938
     },
     {
@@ -1273,7 +1393,7 @@
       "tags": [
         "foreign_policy",
         "trade",
-        "international_crisis"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1768792502
     },
@@ -1289,7 +1409,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_696d36aac2b2a-1768765098.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T08:02:02Z",
       "content": "Tehran, Iran  Supreme Leader Ayatollah Ali Khamenei has acknowledged that several thousands of Iranians have been killed since protests started in late December among shopkeepers in downtown Tehran, … [+5585 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "protests"
+      ],
       "publishedAtTs": 1768809722
     },
     {
@@ -1304,7 +1428,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-26T113137Z_1338798175_RC2BAFABW2LM_RTRMADP_3_IRAN-NUCLEAR-1750950897.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T14:35:19Z",
       "content": "In the nuclear age, the United States has to refrain from all-out war since it can easily lead to nuclear escalation. Instead, it wages hybrid wars.\r\nIn recent weeks, we have witnessed two such confl… [+6436 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "military"
+      ],
       "publishedAtTs": 1768833319
     },
     {
@@ -1319,7 +1447,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/ap_696d736300e90-1768780643.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T02:46:16Z",
       "content": "The Pentagon in the United States has ordered some 1,500 active duty soldiers in Alaska to be ready to be deployed to Minnesota, where large protests have been taking place against federal immigratio… [+4476 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "protests",
+        "military"
+      ],
       "publishedAtTs": 1768790776
     },
     {
@@ -1334,7 +1466,12 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2025-11-13T220903Z_447849461_RC2OVHAK8BZL_RTRMADP_3_GERMANY-DEFENCE-BUNDESWEHR-1768769713.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T08:56:59Z",
       "content": "At the beginning of the year, German men aged 18 began to receive a compulsory questionnaire registering their fitness for army service under a law passed last month.\r\nJoining the army is voluntary f… [+7777 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "nato",
+        "europe",
+        "military"
+      ],
       "publishedAtTs": 1768813019
     },
     {
@@ -1349,7 +1486,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26019636222297-1768846802.jpg?resize=1200%2C675",
       "publishedAt": "2026-01-19T19:07:07Z",
       "content": "Bulgarian President Rumen Radev has said that he will resign, stoking speculation that he will form his own political party ahead of snap elections expected to take place in the months ahead.\r\nRadev … [+2572 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "regional_state"
+      ],
       "publishedAtTs": 1768849627
     },
     {
@@ -1365,9 +1505,8 @@
       "publishedAt": "2026-01-19T05:35:07Z",
       "content": "Guatemalas president has declared a state of emergency following a weekend eruption of violence during which gang members took dozens of hostages across three prisons and killed at least seven police… [+2720 chars]",
       "tags": [
-        "crisis_emergency",
-        "security_incidents",
-        "regional_state"
+        "foreign_policy",
+        "crisis_emergency"
       ],
       "publishedAtTs": 1768800907
     },
@@ -1383,7 +1522,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_696db9de-1768798686.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T06:22:48Z",
       "content": "International aid organisation Oxfam has released its annual report on rising inequality, expressing concern that billionaires are not only wealthier than ever but are also cementing their control ov… [+3390 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "social_issues"
+      ],
       "publishedAtTs": 1768803768
     },
     {
@@ -1415,7 +1557,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26007758951491-1768280045.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-19T07:08:48Z",
       "content": "The home of every Ugandan president, State House, is nestled in the hilly uptown Nasakero area of the capital city, Kampala.\r\nFor four decades, it has been home to just one president Yoweri Museveni,… [+14880 chars]",
-      "tags": [],
+      "tags": [
+        "africa",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1768806528
     }
   ]

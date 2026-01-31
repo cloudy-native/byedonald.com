@@ -52,7 +52,10 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
       "publishedAt": "2025-11-24T12:06:18Z",
       "content": "Ankit Khanal gets his news from News Daddy. More than 20 times a day, Khanal, a sophomore at George Mason University, opens TikTok to have the biggest stories of the day delivered to him by a bleach-… [+20326 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
       "publishedAtTs": 1763985978
     },
     {
@@ -87,7 +90,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e3fc/live/5273a250-c701-11f0-99c3-7dce999e48af.jpg",
       "publishedAt": "2025-11-24T00:13:05Z",
       "content": "Annabel Rackham,Culture reporter and \r\nIan Youngs,Culture reporter\r\nSenior figures involved in the BBC's recent troubles will be questioned by MPs on Monday.\r\nMichael Prescott - a former editorial ad… [+3697 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1763943185
     },
     {
@@ -121,7 +127,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e7f8/live/c6a6ff90-c982-11f0-a892-01d657345866.jpg",
       "publishedAt": "2025-11-24T22:09:36Z",
       "content": "Ian YoungsCulture reporter\r\n'Most important job right now is to recruit a DG': BBC chair\r\nThe chair of the BBC has said he is \"not someone who walks away\" after criticism of his handling of the recen… [+6575 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1764022176
     },
     {
@@ -136,7 +144,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0aee/live/7be5d510-c94d-11f0-abcf-97df5562f205.jpg",
       "publishedAt": "2025-11-24T19:23:14Z",
       "content": "Sarah RainsfordSouthern and Eastern Europe correspondent , Geneva \r\nDonald Trump wants a peace deal in Ukraine very badly.\r\nKyiv wants peace even more, just not at any cost.\r\nThat's why when the US b… [+4210 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
       "publishedAtTs": 1764012194
     },
     {
@@ -246,7 +257,12 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F46%2F5b75a2a447bcaab971dbdff16010%2Fgettyimages-2247571335.jpg",
       "publishedAt": "2025-11-24T12:10:06Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5927 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "elections_politics",
+        "republican_party"
+      ],
       "publishedAtTs": 1763986206
     },
     {
@@ -280,7 +296,11 @@
       "urlToImage": "https://a.fsdn.com/sd/topics/topicgoogle_fb.gif",
       "publishedAt": "2025-11-24T17:21:00Z",
       "content": "The Chocolate Factory will support the military alliance's Joint Analysis, Training, and Education Centre (JATEC) in a move designed to improve its digital infrastructure and strengthen its data gove… [+873 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1764004860
     },
     {
@@ -388,7 +408,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/60hucTcQn4K6S.UMf2MD_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/thedailybeast.com/e92e5ccde9eb088186e4610c7be6249a",
       "publishedAt": "2025-11-24T11:29:28Z",
       "content": "Photo Illustration by Elizabeth Brockway/The Daily Beast/Getty\r\nThe Trump family fortune has plummeted by a billion dollars in just a few months due to losses in the volatile cryptocurrency market.\r\n… [+3465 chars]",
-      "tags": [],
+      "tags": [
+        "cryptocurrency",
+        "economy_finance"
+      ],
       "publishedAtTs": 1763983768
     },
     {
@@ -496,7 +519,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/slaLuKELoYFdFMblI9L1PQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/709a17265c28e6815bb49b628da7d451",
       "publishedAt": "2025-11-24T15:40:56Z",
       "content": "WASHINGTON (AP) President Donald Trump and Chinese President Xi Jinping spoke by phone on Monday to discuss trade, Taiwan and Ukraine, according to the White House and Chinese officials, nearly one m… [+2321 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "ukraine",
+        "china"
+      ],
       "publishedAtTs": 1763998856
     },
     {
@@ -549,7 +577,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lKh1o588n.Mo87Vdp49TeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/fortune_175/00ef5a7210b1d7d5fa24a466e2d729f1",
       "publishedAt": "2025-11-24T20:04:35Z",
       "content": "As millions of Americans brace for dramatically higher health care costs come January 2026, after enhanced Affordable Care Act (ACA) subsidies expire, the White House is expected to propose a two-yea… [+2738 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "healthcare",
+        "budget"
+      ],
       "publishedAtTs": 1764014675
     },
     {
@@ -787,7 +819,10 @@
       "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "publishedAt": "2025-11-24T18:15:42Z",
       "content": "COLUMBUS, Ohio (AP) Vice President JD Vance's memoir, Hillbilly Elegy, has a storied history as a New York Times bestseller, as the then-31-year-old's introduction to the nation as a Trump whisperer,… [+1135 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "personal_business"
+      ],
       "publishedAtTs": 1764008142
     },
     {
@@ -1100,7 +1135,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3b248bd0-47e0-45fb-acdd-0367e65841f1/251124_abc_social_jimmy_cliff_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-11-24T19:34:49Z",
       "content": "<ul><li>Judge dismisses criminal cases against James Comey, Letitia James\r\n</li><li>Pentagon says it's launching 'thorough review' into Democratic Sen. Mark Kelly\r\n</li><li>NBA coach Chauncey Billups… [+4273 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1764012889
     },
     {
@@ -1170,7 +1207,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e6420171-897d-4506-b4f0-1fedef2800c7/251124_abc_social_turkey_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-11-24T23:19:30Z",
       "content": "<ul><li>Judge dismisses criminal cases against James Comey, Letitia James\r\n</li><li>Pentagon says it's launching 'thorough review' into Democratic Sen. Mark Kelly\r\n</li><li>NBA coach Chauncey Billups… [+4273 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family"
+      ],
       "publishedAtTs": 1764026370
     },
     {
@@ -1333,7 +1372,9 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/38423061710f2324/original/2511_SQ_MON_NOV_24_thumbnail.png?m=1763759570.094&w=1200",
       "publishedAt": "2025-11-24T11:00:00Z",
       "content": "Kendra Pierre-Louis: For Scientific American’s Science Quickly, I’m Kendra Pierre-Louis, in for Rachel Feltman. You’re listening to our weekly science news roundup.\r\nLet’s kick things off with some c… [+9096 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1763982000
     },
     {
@@ -1386,7 +1427,10 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/09/Donald_Trump_state_visit_to_Qatar_2025-05-14_P20250515DT-0538.jpg",
       "publishedAt": "2025-11-24T11:48:33Z",
       "content": "It can be difficult to conceive of the American voter who spent most of the last year sitting resolutely on their hands, or perhaps with their fingers in their ears, ignoring everything going on in t… [+6377 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "polling"
+      ],
       "publishedAtTs": 1763984913
     },
     {

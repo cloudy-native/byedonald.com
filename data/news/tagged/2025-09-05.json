@@ -390,7 +390,10 @@
       "urlToImage": "https://i.insider.com/68b98f8e32af4d666ef737f3?width=1200&format=jpeg",
       "publishedAt": "2025-09-05T07:54:01Z",
       "content": "President Donald Trump is pushing for education-related policy changes in the coming year.Thomas Barwick/Getty Images\r\n<ul><li>Students are returning to school, and President Trump is pushing for cha… [+7246 chars]",
-      "tags": [],
+      "tags": [
+        "education",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1757058841
     },
     {
@@ -423,7 +426,11 @@
       "urlToImage": "https://i.insider.com/68ba3a4e57d362d375e79144?width=1200&format=jpeg",
       "publishedAt": "2025-09-05T03:27:44Z",
       "content": "President Donald Trump hosted a who's who dinner for some of the biggest names in tech and the CEOs had glowng remarks for the president.\r\nThe dinner guest list includes Microsoft cofounder Bill Gate… [+6562 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "technology_regulation",
+        "artificial_intelligence"
+      ],
       "publishedAtTs": 1757042864
     },
     {
@@ -734,7 +741,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9e10ce2e-8e4e-4f4e-9c62-11724280189b/construction-worker-02-gty-jt-250904_1757015947196_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2025-09-05T09:16:30Z",
       "content": "Fresh jobs data to be unveiled on Friday will mark the first such release since a dismal jobs report last month prompted President Donald Trump to fire the top official tasked with compiling labor st… [+2885 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "labor"
+      ],
       "publishedAtTs": 1757063790
     },
     {
@@ -968,7 +978,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/fgGYww9bGf0LxDyRFkRB3q0jE3M=/0x85:3994x2165/1200x625/media/img/mt/2025/09/2025_09_04_Trump_Long_game/original.jpg",
       "publishedAt": "2025-09-05T14:00:22Z",
       "content": "The leaders of Russia, China, and North Korea are not good men. They preside over brutal autocracies replete with secret police and prison camps. But they are, nevertheless, serious men, and they kno… [+7047 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "china"
+      ],
       "publishedAtTs": 1757080822
     },
     {
@@ -1076,7 +1090,10 @@
       "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/04/tim-cook-trump.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2025-09-05T03:02:50Z",
       "content": "Yesterday, news broke that Apple CEO Tim Cook was one of many tech CEOs who had been invited for a White House event on AI hosted by first lady Melania Trump. Now, The Wall Street Journal has a few d… [+1781 chars]",
-      "tags": [],
+      "tags": [
+        "media_communications",
+        "artificial_intelligence"
+      ],
       "publishedAtTs": 1757041370
     },
     {
@@ -1532,7 +1549,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2fb2/live/13964750-8a83-11f0-b391-6936825093bd.jpg",
       "publishedAt": "2025-09-05T18:38:25Z",
       "content": "\"The names of the members of the working group will remain confidential for now to protect the integrity of the group and its work.\"\r\nThe IOC has previously left gender regulations to the governing b… [+1396 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues"
+      ],
       "publishedAtTs": 1757097505
     },
     {

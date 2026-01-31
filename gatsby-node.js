@@ -1,6 +1,9 @@
 const path = require("path");
 const { slugify } = require("./utils/slugify");
 
+const isOffTopicArticle = (article) =>
+  Array.isArray(article?.tags) && article.tags.includes("off_topic");
+
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions;
 
@@ -55,13 +58,17 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       const date = node.parent.name;
       const pagePath = `/news/${date}/`;
 
+      const articles = Array.isArray(node.articles)
+        ? node.articles.filter((a) => !isOffTopicArticle(a))
+        : [];
+
       reporter.info(`Creating news page: ${pagePath}`);
       createPage({
         path: pagePath,
         component: newsDayTemplate,
         context: {
           date: date,
-          articles: node.articles,
+          articles,
         },
       });
     });
@@ -165,6 +172,7 @@ exports.onCreateNode = ({
 
   if (node.internal.type === "TaggedJson" && node.articles) {
     node.articles.forEach((article) => {
+      if (isOffTopicArticle(article)) return;
       const nodeId = createNodeId(`article-${article.url}`);
       const nodeContent = JSON.stringify(article);
       const nodeData = {

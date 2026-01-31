@@ -51,7 +51,12 @@ async function retagMissingArticles() {
             !article.tags ||
             article.tags.length === 0 ||
             (article.tags.length === 1 && article.tags[0] === "untagged");
+          const isOffTopic =
+            Array.isArray(article.tags) &&
+            article.tags.length === 1 &&
+            article.tags[0] === "off_topic";
           if (needsRetagging) {
+            if (isOffTopic) continue;
             console.log(
               `- Retagging article in ${fileName}: "${article.title}"`,
             );

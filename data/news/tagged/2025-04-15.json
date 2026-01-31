@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 259,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -16,8 +16,8 @@
       "content": "WASHINGTON (AP) — The two attorneys representing Harvard University in a pitched fight with the Trump administration are no strangers to the spotlight or to Washington investigations that reach into the White House.\nOne of them, Robert Hur, was a sen... [7383 chars]",
       "tags": [
         "legal_justice",
-        "government_administration",
-        "personal_family"
+        "law_enforcement",
+        "government_administration"
       ],
       "publishedAtTs": 1744761469
     },
@@ -34,9 +34,8 @@
       "publishedAt": "2025-04-15T23:48:49Z",
       "content": "CNN —\nInstead of restoring access to The Associated Press newswire, as required by a federal judge, the Trump administration is removing the wire position in the daily press corps rotation altogether.\nThe change appears designed to withstand legal sc... [4284 chars]",
       "tags": [
-        "government_operations",
         "media_communications",
-        "legal_justice"
+        "press_relations"
       ],
       "publishedAtTs": 1744760929
     },
@@ -54,8 +53,8 @@
       "content": "WASHINGTON — New York Attorney General Letitia James was hit with a federal criminal referral for instances of alleged mortgage fraud on Tuesday, according to a letter obtained by The Post.\nFederal Housing Finance Agency (FHFA) Director William Pulte... [4023 chars]",
       "tags": [
         "legal_justice",
-        "government_administration",
-        "federal_agencies"
+        "criminal_cases",
+        "government_administration"
       ],
       "publishedAtTs": 1744760707
     },
@@ -72,9 +71,8 @@
       "publishedAt": "2025-04-15T23:44:54Z",
       "content": "A judge in the United States has slammed the Trump administration for doing \"nothing\" to facilitate the return of a man it wrongly deported to El Salvador last month.\nKilmar Abrego Garcia has now spent exactly one month in a notorious El Salvador pri... [5981 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
-        "security_intelligence"
+        "immigration",
+        "legal_justice"
       ],
       "publishedAtTs": 1744760694
     },
@@ -91,9 +89,43 @@
       "publishedAt": "2025-04-15T23:00:00Z",
       "content": "Irish singer Hozier has been named `a titan of 2025' along with Donald Trump, Ed Sheeran and Facebook founder Mark Zuckerberg on Time magazine’s list of the most influential people.\nWicklow-born Hozier, whose full name is Andrew John Hozier-Byrne, is... [2508 chars]",
       "tags": [
-        "personal_family",
-        "media_communications",
-        "elections_politics"
+        "off_topic"
+      ],
+      "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Hozier joins Trump and Hollywood stars on Time influence list",
+      "description": "The list was introduced to spotlight the most influential people in the world to help readers understand ‘the forces shaping our lives’.",
+      "url": "https://www.breakingnews.ie/entertainment/british-biologist-joins-trump-pm-and-hollywood-stars-on-time-influence-list-1752982.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMDdcXFwvMDcxMDU5NDBcXFwvaG96aWVyLWUxNjg4NzI0MDE3NTgyLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYTNmMjA1M2YxMDhkYTM4OTY5NDU0ZmE4NGYyYjkxYzExN2VhOTdjOCJ9/hozier-joins-trump-and-hollywood-stars-on-time-influence-list.jpg",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "Irish musician Hozier has been named a titan of 2025 along with Facebook founder Mark Zuckerberg as British prime minister Keir Starmer, US president Donald J Trump and a scientist make Time Magazine’s list of the most influential people.\nSinger Ed S... [3219 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Suspect in Trump assassination attempt can hire expert to examine rifle",
+      "description": "US District Judge Aileen Cannon limited the testing to just its operability.",
+      "url": "https://www.breakingnews.ie/world/suspect-in-trump-assassination-attempt-can-hire-expert-to-examine-rifle-1752605.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTYwMjIxMTlcXFwvODZiMmIyYmU5MjRlNDVjZDk3YjZhOTQ3YjljZDZhN2QuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyZGY5NTZiODk2ZTU2MjkyM2U4MWNlYTM4ZjYxZjVjYzllZDE3YzMwIn0=/suspect-in-trump-assassination-attempt-can-hire-expert-to-examine-rifle.jpg",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "A suspect accused of attempting to assassinate US President Donald Trump in South Florida can hire an expert to examine the rifle recovered from the scene, but only to determine its operability, a federal judge has said.\nRyan Wesley Routh’s lawyers h... [1008 chars]",
+      "tags": [
+        "criminal_cases",
+        "legal_justice",
+        "presidential_security"
       ],
       "publishedAtTs": 1744758000
     },
@@ -110,9 +142,9 @@
       "publishedAt": "2025-04-15T23:00:00Z",
       "content": "Joe Biden has warned that US President Donald Trump has “taken a hatchet” to Social Security, weighing in on a critical issue for millions of Americans as the 82-year-old Democrat briefly returned to the national stage.\nMr Biden, who has largely avoi... [2388 chars]",
       "tags": [
-        "government_administration",
+        "social_security",
         "policy_legislation",
-        "economy_finance"
+        "elections_politics"
       ],
       "publishedAtTs": 1744758000
     },
@@ -129,9 +161,26 @@
       "publishedAt": "2025-04-15T23:00:00Z",
       "content": "Former US president Joe Biden has railed against his successor Donald Trump's frenetic government overhaul, claiming the \"hatchet\" effort put Americans' retirement benefits at risk.\nMr Biden's address to disability advocates in Chicago, his first maj... [3351 chars]",
       "tags": [
-        "government_administration",
+        "social_security",
         "policy_legislation",
-        "social_issues"
+        "elections_politics"
+      ],
+      "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Pensioners in court accused of malicious damage at Trump golf resort",
+      "description": "Geoffrey Bush, 75, and Elizabeth Crerar-Brown, 66, both from Oban, Argyll and Bute, faced Ayr Sheriff Court on Wednesday.",
+      "url": "https://www.breakingnews.ie/world/pair-in-court-accused-of-malicious-damage-at-trump-golf-resort-1752907.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTYxNzA5MzNcXFwvOGM4MGNlYjctMzBmOC00Mjg1LWJhODktNzViNDNkNWQyMWJlLWUxNzQ0ODE5ODgzNTE3LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2ltYWdlc1xcXC9uby1pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiODQxN2UzODQ0ZjQxZjA1MDg2NTY5OGQ4YTdlN2I0MGM5ODE5ODhmZiJ9/pensioners-in-court-accused-of-malicious-damage-at-trump-golf-resort.jpg",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "A 75-year-old man and a 66-year-old woman have appeared in court charged with causing malicious damage at US President Donald Trump’s Turnberry golf course in Scotland.\nGeoffrey Bush and Elizabeth Crerar-Brown, both from Oban in Scotland, faced Ayr S... [1030 chars]",
+      "tags": [
+        "legal_justice"
       ],
       "publishedAtTs": 1744758000
     },
@@ -149,9 +198,26 @@
       "content": "US Secretary of State Marco Rubio and Steve Witkoff, President Donald Trump’s special envoy, will travel to Paris this week for talks with European allies on US efforts to negotiate a peace deal between Russia and Ukraine.\nThe US State Department sai... [2323 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "russia",
-        "middle_east"
+        "ukraine",
+        "europe"
+      ],
+      "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "How US tariffs will affect price you pay for petrol & electricity",
+      "description": "The disruption and confusion caused by Trump's on-off tariffs have already impacted worldwide energy prices",
+      "url": "https://www.rte.ie/brainstorm/2025/0416/1507806-us-tariffs-energy-prices-petrol-electricity-gas-ireland-europe/",
+      "urlToImage": "https://img.rasset.ie/0021a3b3-1600.jpg",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "Analysis: The disruption and confusion caused by Trump's on-off tariffs have already impacted worldwide energy prices\nUS president Donald Trump's 'Liberation Day' tariffs caused havoc in international markets. The disruption has also impacted energy ... [6328 chars]",
+      "tags": [
+        "liberation_day_tariffs",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744758000
     },
@@ -169,9 +235,25 @@
       "content": "A federal judge has said she will order sworn testimony by Trump administration officials to determine if they complied with her orders to facilitate the return of Kilmar Abrego Garcia, who was mistakenly deported to a notorious El Salvador prison.\nU... [4327 chars]",
       "tags": [
         "legal_justice",
-        "immigration",
-        "foreign_policy",
-        "government_administration"
+        "immigration"
+      ],
+      "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Judge finds probable cause to hold Trump administration in contempt on deportees",
+      "description": "Judge James E Boasberg warned he could refer the matter for prosecution if the administration does not ‘purge’ its contempt.",
+      "url": "https://www.breakingnews.ie/world/judge-finds-probable-cause-to-hold-trump-administration-in-contempt-on-deportees-1752956.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMTYxODQyMjZcXFwvYmQ2NzUxN2VhZTNhNDViZWJlODk3MmUxNTUzODBmNWYuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiN2Y3NTFiNjhkYmQ1MThkYWRiZTJiZDViMjkyYWJlNjYzYjFjZjliIn0=/judge-finds-probable-cause-to-hold-trump-administration-in-contempt-on-deportees.jpg",
+      "publishedAt": "2025-04-15T23:00:00Z",
+      "content": "A US federal judge has said he has found probable cause to hold the Trump administration in criminal contempt of court for violating his orders to turn around planes carrying deportees to El Salvador.\nUS District Judge James E Boasberg warned he coul... [2633 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1744758000
     },
@@ -188,11 +270,193 @@
       "publishedAt": "2025-04-15T23:00:00Z",
       "content": "Tucker Carlson was in Dublin this week, where he was hosted by Conor McGregor at his Black Forge Inn pub in Crumlin.\nMcGregor, who is appealing a High Court civil jury’s finding that he raped a woman in a Dublin hotel, was interviewed by the controve... [3388 chars]",
       "tags": [
-        "media_communications",
-        "personal_family",
-        "legal_justice"
+        "media_communications"
       ],
       "publishedAtTs": 1744758000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "House Democrats push for congressional trip to El Salvador to visit Trump deportees",
+      "description": "Reps. Robert Garcia (D-CA) and Maxwell Frost (D-FL) requested authorization on Tuesday to send the delegation to the Central American nation.",
+      "url": "https://www.washingtonexaminer.com/news/house/3381559/house-democrats-congressional-trip-el-salvador-visit-trump-deportees/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/03/AP23164740619417.jpg.optimal.jpg",
+      "publishedAt": "2025-04-15T22:58:02Z",
+      "content": "House Democrats are pushing to organize a congressional delegation to the megaprison in El Salvador where the Trump administration is sending hundreds of deportees.\nLawmakers have the ability to travel to El Salvador on their own but would have to se... [2560 chars]",
+      "tags": [
+        "immigration",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1744757882
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Judge rebukes Trump officials for not securing return of wrongly deported man",
+      "description": "Administration will have to share under oath how it’s trying to get Kilmar Ábrego García back to US, says district judge",
+      "url": "https://www.theguardian.com/us-news/2025/apr/15/trump-administration-kilmar-abrego-garcia-deportation",
+      "urlToImage": "https://i.guim.co.uk/img/media/4f8eba8227b33cf433ad1c7a1c66749cdb8680b5/0_252_5913_3548/master/5913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e603177b8e2e6117039d160053af9abb",
+      "publishedAt": "2025-04-15T22:47:38Z",
+      "content": "A federal judge sharply rebuked the Trump administration and scolded officials on Tuesday for taking no steps to secure the return of a man wrongly deported to a notorious prison in El Salvador, as the US supreme court had ordered in a contentious ru... [4134 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1744757258
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "How Harvard's challenge to Trump administration tests limits",
+      "description": "On one side is Harvard, the nation’s oldest and wealthiest university, with a brand so powerful that its name is synonymous with prestige. On the other side is the Trump administration, determined to go further than any other White House to reshape American higher education.",
+      "url": "https://www.cp24.com/news/world/2025/04/15/harvards-challenge-to-trump-administration-could-test-limits-of-government-power/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/AVISMVLJA6MRHPZN4XSWXYB7QY.jpg?smart=true&auth=973b70a930cae6e9119f0baef3d18e8e30ad0fa7a826ef65a238e572913e76ff&width=1200&height=630",
+      "publishedAt": "2025-04-15T22:45:08Z",
+      "content": "Visitors stop at the statue of John Harvard in Harvard Yard at Harvard University, Tuesday, April 15, 2025, in Cambridge, Mass. (AP Photo/Charles Krupa)\nOn one side is Harvard, the nation’s oldest and wealthiest university, with a brand so powerful t... [7410 chars]",
+      "tags": [
+        "education",
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1744757108
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "Judge presses Trump administration on refusal to return mistakenly deported man",
+      "description": "A federal judge says she will order sworn testimony by Trump administration officials to determine if they complied with her orders to facilitate the return of Kilmar Abrego Garcia.",
+      "url": "https://apnews.com/article/kilmar-abrego-garcia-el-salvador-trump-deported-e537cfb69a9840046b5d3e512509e9a8",
+      "urlToImage": "https://dims.apnews.com/dims4/default/0aca7d1/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2F26%2F51840e5ed136828d2845c3974d63%2Fa76685c0ca494bb3be86899cd908c3e3",
+      "publishedAt": "2025-04-15T22:36:55Z",
+      "content": "GREENBELT, Md. (AP) — A federal judge said Tuesday that she will order sworn testimony by Trump administration officials to determine if they complied with her orders to facilitate the return of Kilmar Abrego Garcia, who was mistakenly deported to a ... [6611 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1744756615
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Trump signs healthcare order that includes a win for pharma companies",
+      "description": "Order instructs health department to work with Congress on changing law that allows Medicare to negotiate drug prices",
+      "url": "https://www.theguardian.com/us-news/2025/apr/15/trump-healthcare-executive-order",
+      "urlToImage": "https://i.guim.co.uk/img/media/3809c85538eac29a46ed3dcdeeb772224fad44cc/0_54_1570_942/master/1570.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=93e59158fb936e033f355f26fa252093",
+      "publishedAt": "2025-04-15T22:30:11Z",
+      "content": "Donald Trump directed his health department on Tuesday to work with Congress on revamping a law that allows Medicare to negotiate prescription drug prices, seeking to introduce a change the pharmaceutical industry has lobbied for.\nDrugmakers have bee... [2795 chars]",
+      "tags": [
+        "healthcare",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1744756211
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "TheJournal.ie",
+      "title": "Trump says 'ball is in China's court' to find resolution to tariffs war",
+      "description": "Trump has imposed steep duties on imports from China, leading China to retaliate with levies of its own on the US.",
+      "url": "https://www.thejournal.ie/trump-says-ball-is-in-chinas-court-to-find-resolution-to-tariffs-war-6679308-Apr2025/",
+      "urlToImage": "https://img2.thejournal.ie/article/6679308/river/?height=400&version=6679336",
+      "publishedAt": "2025-04-15T22:08:01Z",
+      "content": "US PRESIDENT DONALD Trump has said he believes it is up to China, not the United States, to come to the negotiating table on trade.\nSince the start of the year, Trump has imposed steep duties on imports from China, alongside a 10% “baseline” tariff o... [1955 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "china"
+      ],
+      "publishedAtTs": 1744754881
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Toronto Star",
+      "title": "Trump says he wants to give money and airplane tickets to immigrants who 'self-deport'",
+      "description": "WASHINGTON (AP) — President Donald Trump said he wants to give money and an airplane ticket to any immigrant who is in the country illegally who chooses to “self-deport,” and",
+      "url": "https://www.thestar.com/news/world/united-states/trump-says-he-wants-to-give-money-and-airplane-tickets-to-immigrants-who-self-deport/article_b02ad8a9-2795-5fd2-8ed3-4c1430a5135d.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/7d/d7d5a6bd-e518-578d-9a1b-dff09f897cc2/67fed6e09977e.image.jpg?crop=1615%2C848%2C0%2C116&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2025-04-15T21:54:43Z",
+      "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration"
+      ],
+      "publishedAtTs": 1744754083
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "9 foods that can help with rosacea",
+      "description": "Dermatologist Dr. Alicia Zalka shares a list of gut-friendly foods to combat rosacea — a skin condition that President Trump and Sofia Vergara share.",
+      "url": "https://nypost.com/2025/04/15/health/9-foods-can-help-rosacea-president-trumps-skin-condition/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/04/102783634.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-04-15T21:49:11Z",
+      "content": "An estimated 16 million Americans have rosacea — a common skin condition that causes the face to appear red or flushed.\nWhile the ailment typically affects middle-aged women, President Trump’s most recent health memo noted that he has “well-managed r... [4611 chars]",
+      "tags": [
+        "health_science",
+        "personal_family"
+      ],
+      "publishedAtTs": 1744753751
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Why colleges like Harvard can't easily use endowments to replace federal funding",
+      "description": "After the Trump administration announced a $2.2 billion freeze on grants to Harvard, some critics have questioned why it can’t just make up for federal funding with endowments.",
+      "url": "https://www.nbcnews.com/news/asian-america/harvard-federal-funding-freeze-trump-endowments-rcna201327",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250415-harvard-ch-1125-c18cbf.jpg",
+      "publishedAt": "2025-04-15T21:44:21Z",
+      "content": "So why can’t Harvard just dip further into its famously steep endowment?\nAs the Trump administration announced a $2.2 billion freeze in grants to the university this week after the school rejected its demands, some critics have questioned why the Ivy... [5429 chars]",
+      "tags": [
+        "education",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1744753461
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WDIV ClickOnDetroit"
+      },
+      "author": "WDIV ClickOnDetroit",
+      "title": "In their words: What judges and Trump's government say about Abrego Garcia's mistaken deportation",
+      "description": "President Donald Trump’s administration has dug in on its contention that his government should not have to repatriate Kilmar Abrego Garcia, despite U.S. Supreme Court and lower court rulings that he was wrongly deported and should be returned to the United States.",
+      "url": "https://www.clickondetroit.com/news/politics/2025/04/15/in-their-words-what-judges-and-trumps-government-say-about-abrego-garcias-mistaken-deportation/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/LRX3LPROMJAVVJ35UGEINDZZAY.jpg?_a=DATAdtccZAA0",
+      "publishedAt": "2025-04-15T21:44:05Z",
+      "content": "President Donald Trump's administration has dug in on its contention that the government should not have to repatriate Kilmar Abrego Garcia, despite U.S. Supreme Court and lower court rulings that he was wrongly deported and should be returned to the... [7830 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "trump"
+      ],
+      "publishedAtTs": 1744753445
     }
   ]
 }

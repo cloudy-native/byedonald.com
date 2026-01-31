@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 8,
+  "totalResults": 15,
   "articles": [
     {
       "source": {
@@ -16,7 +16,8 @@
       "content": "Republican Randy Fine won a special election Tuesday for a House seat in Florida vacated by Donald Trump’s national security adviser, Mike Waltz, although Democrats are likely to perform better in the Republican district than they did in November.\nDe... [3504 chars]",
       "tags": [
         "elections_politics",
-        "regional_state",
+        "2024_presidential",
+        "republican_party",
         "florida"
       ],
       "publishedAtTs": 1743551836
@@ -35,8 +36,8 @@
       "content": "Two pivotal special elections in Florida on Tuesday are anticipated to reinforce the Republicans' narrow 218-213 lead in the U.S. House of Representatives. These elections fill vacancies left by President Donald Trump's cabinet appointments.\nFlorida'... [632 chars]",
       "tags": [
         "elections_politics",
-        "regional_state",
-        "government_administration"
+        "republican_party",
+        "florida"
       ],
       "publishedAtTs": 1743551750
     },
@@ -55,8 +56,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "international_organizations",
-        "national_security"
+        "ukraine"
       ],
       "publishedAtTs": 1743551557
     },
@@ -73,11 +73,11 @@
       "publishedAt": "2025-04-01T23:52:01Z",
       "content": "In the United States, recent developments mark significant political and legal shifts, with massive implications across various sectors. A contentious judicial race in Wisconsin has seen unprecedented spending, eclipsing $90 million, as Elon Musk and... [1069 chars]",
       "tags": [
-        "legal_justice",
-        "economy_finance",
-        "government_administration",
         "elections_politics",
-        "media_communications"
+        "legal_justice",
+        "government_administration",
+        "trade_negotiations_truces",
+        "mass_deportation_operation"
       ],
       "publishedAtTs": 1743551521
     },
@@ -95,10 +95,7 @@
       "content": "In a surprising turn of events, former Costa Rican President and Nobel laureate Oscar Arias revealed this Tuesday that the United States has rescinded his entry visa. This development comes on the heels of Arias' scathing critique of U.S. President D... [799 chars]",
       "tags": [
         "foreign_policy",
-        "latin_america",
-        "political_endorsements",
-        "press_relations",
-        "security_intelligence"
+        "immigration"
       ],
       "publishedAtTs": 1743551327
     },
@@ -116,10 +113,7 @@
       "content": "In a surprising development, former Costa Rican President and Nobel Peace Prize recipient Oscar Arias announced that the United States had rescinded his visa. The action came weeks after Arias had openly criticized President Donald Trump, accusing hi... [704 chars]",
       "tags": [
         "foreign_policy",
-        "latin_america",
-        "legal_justice",
-        "media_communications",
-        "political_endorsements"
+        "immigration"
       ],
       "publishedAtTs": 1743551206
     },
@@ -136,30 +130,159 @@
       "publishedAt": "2025-04-01T23:40:36Z",
       "content": "Republican state Sen. Randy Fine emerged victorious in the highly contested special election to represent Florida's 6th Congressional District, overcoming the well-financed challenge from Democrat Josh Weil. This electoral win came despite significan... [703 chars]",
       "tags": [
-        "regional_state",
         "elections_politics",
-        "government_administration"
+        "2024_presidential",
+        "republican_party",
+        "florida"
       ],
       "publishedAtTs": 1743550836
     },
     {
       "source": {
         "id": null,
-        "name": "BradfordToday"
+        "name": "ElliotLakeToday.com"
       },
-      "author": "BradfordToday",
+      "author": "ElliotLakeToday.com",
       "title": "Canadian leaders promise to retaliate against Trump's 'Liberation Day' tariffs",
       "description": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday",
-      "url": "https://www.bradfordtoday.ca/2025-federal-election-news/canadian-leaders-promise-to-retaliate-against-trumps-liberation-day-tariffs-10461902",
+      "url": "https://www.elliotlaketoday.com/2025-federal-election-news/canadian-leaders-promise-to-retaliate-against-trumps-liberation-day-tariffs-10461902",
       "urlToImage": "https://www.vmcdn.ca/f/files/trillium/images/cp174332009.jpg;w=1200;h=800;mode=crop",
       "publishedAt": "2025-04-01T23:30:00Z",
       "content": "The U.S. president is scheduled to unveil a new round of tariffs at 4 p.m. Wednesday\nEditor's note: This article originally appeared on ParliamentToday, a Village Media newsletter devoted exclusively to covering federal politics.\nU.S. President Donal... [3669 chars]",
       "tags": [
-        "trade",
-        "canada",
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
         "foreign_policy"
       ],
       "publishedAtTs": 1743550200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Democrat Cory Booker rails against Trump and Musk in record-breaking Senate speech lasting more than 24 hours",
+      "description": "Cory Booker, a New Jersey senator, said last night he intends to disrupt the \"normal business of the United States Senate for as long as I am physically able\".",
+      "url": "https://news.sky.com/story/democrat-cory-booker-rails-against-trump-and-musk-in-record-breaking-senate-speech-lasting-more-than-24-hours-13339860",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-cory-booker-senate_6873105.jpg?20250401164504",
+      "publishedAt": "2025-04-01T23:23:00Z",
+      "content": "A senior Democrat has broken records with a marathon speech on the Senate floor against US President Donald Trump.\nCory Booker, a New Jersey senator, began speaking around 7pm on Monday (just after midnight on Tuesday in the UK) and said he intended ... [2812 chars]",
+      "tags": [
+        "elections_politics",
+        "campaign_events",
+        "social_issues"
+      ],
+      "publishedAtTs": 1743549780
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Landmark Legal Deal: Willkie Farr's $100 Million Agreement with Trump Administration",
+      "description": "Willkie Farr & Gallagher, where Kamala Harris's husband Doug Emhoff is a partner, made a $100 million pro bono deal with the Trump administration, ending diversity hiring practices to prevent business curtailment. This decision faced internal dissent, though other firms have challenged the administration legally.",
+      "url": "https://www.devdiscourse.com/article/politics/3330726-landmark-legal-deal-willkie-farrs-100-million-agreement-with-trump-administration",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2024_10_07_06_4784977.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-01T23:21:50Z",
+      "content": "Willkie Farr & Gallagher, the law firm that counts former Vice President Kamala Harris's husband, Doug Emhoff, among its partners, struck a $100 million deal with the Trump administration. The agreement, which provides free legal services, is intende... [566 chars]",
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "personnel"
+      ],
+      "publishedAtTs": 1743549710
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Record Low: Migrant Arrests at U.S.-Mexico Border Drop to Historic Levels",
+      "description": "Migrants caught illegally crossing the U.S.-Mexico border fell to 7,180 in March, the lowest monthly total ever recorded. This is a sharp decrease from the average monthly arrests of 155,000 over the past four years, credited to measures implemented under President Trump's renewed border policies.",
+      "url": "https://www.devdiscourse.com/article/politics/3330724-record-low-migrant-arrests-at-us-mexico-border-drop-to-historic-levels",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_03_2025_12_21_26_9224241.png?width=920&format=jpeg",
+      "publishedAt": "2025-04-01T23:09:36Z",
+      "content": "The U.S.-Mexico border saw a historic low in illegal crossings with only 7,180 migrants arrested in March, according to initial figures by U.S. Customs and Border Protection (CBP). This marks the lowest monthly total ever recorded, highlighting the d... [718 chars]",
+      "tags": [
+        "immigration",
+        "border_security"
+      ],
+      "publishedAtTs": 1743548976
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GuelphToday"
+      },
+      "author": "GuelphToday",
+      "title": "Mark Carney suspending campaign to hold meetings on Trump tariffs",
+      "description": "OTTAWA — Liberal Leader Mark Carney is pausing his federal election campaign and returning to Ottawa for meetings ahead of Wednesday's announcement by U.S. President Donald Trump on tariffs.",
+      "url": "https://www.guelphtoday.com/national-news/mark-carney-suspending-campaign-to-hold-meetings-on-trump-tariffs-10457581",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/4d238df590e36b5826b64855bdcc76bce0212a510a0ac51ec7ce302ec70470d9.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-01T23:09:22Z",
+      "content": "OTTAWA — Liberal Leader Mark Carney is pausing his federal election campaign and returning to Ottawa for meetings ahead of Wednesday's announcement by U.S. President Donald Trump on tariffs.\nTrump is expected to hit multiple countries with \"reciproca... [562 chars]",
+      "tags": [
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743548962
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "US senator smashes record with 25-hour anti-Trump speech",
+      "description": "A Democratic US Senator shattered a record for the longest speech in Senate history, staying on his feet for more than 25 hours to deliver a fiery protest against President Donald Trump's \"unconstitutional\" actions.",
+      "url": "https://www.rte.ie/news/newslens/2025/0402/1505364-senator-speech-record/",
+      "urlToImage": "https://img.rasset.ie/0022319d-1600.jpg",
+      "publishedAt": "2025-04-01T23:00:00Z",
+      "content": "A Democratic US Senator shattered a record for the longest speech in Senate history, staying on his feet for more than 25 hours to deliver a fiery protest against President Donald Trump's \"unconstitutional\" actions.\nSenator Cory Booker's display of e... [4126 chars]",
+      "tags": [
+        "elections_politics",
+        "trump"
+      ],
+      "publishedAtTs": 1743548400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "5 things to know about Donald Trump's tariffs plan",
+      "description": "David Murphy takes a look at how US President Donald Trump's tariffs plan could impact Ireland and Europe and for how long.",
+      "url": "https://www.rte.ie/news/business/2025/0402/1505305-five-things-you-need-to-know-about-trumps-tariffs-plan/",
+      "urlToImage": "https://img.rasset.ie/00222e7d-1600.jpg",
+      "publishedAt": "2025-04-01T23:00:00Z",
+      "content": "The Trump administration is due to announce its plans for tariffs on goods imported by the US late this evening with new duties taking effect tomorrow.\nDavid Murphy takes a look at how Donald Trump's tariffs plan could impact Ireland and Europe and f... [3118 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1743548400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "FACTBOX - Trump's tariffs and threatened trade actions",
+      "description": "US President Donald Trump has made numerous tariff threats since returning to office on January 20, ranging from a universal duty on imports to targeted tariffs on specific sectors or countries, in a bid to get others to meet his policy demands.",
+      "url": "https://www.rte.ie/news/business/2025/0402/1505450-trumps-tariffs-threatened-trade-actions/",
+      "urlToImage": "https://img.rasset.ie/00223280-1600.jpg",
+      "publishedAt": "2025-04-01T23:00:00Z",
+      "content": "US President Donald Trump has made numerous tariff threats since returning to office on January 20, ranging from a universal duty on imports to targeted tariffs on specific sectors or countries, in a bid to get others to meet his policy demands.\nTrum... [7046 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743548400
     }
   ]
 }

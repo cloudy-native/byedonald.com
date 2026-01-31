@@ -296,7 +296,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/563b03af-7837-43e8-92d5-4f58f6713d44/251012_abc_social_airlift_dog_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-10-12T20:36:33Z",
       "content": "<ul><li>All eyes are on Sharm El-Sheikh tomorrow for peace summit \r\n</li><li>Egypt says Trump will co-chair summit in Egypt\r\n</li><li>Hamas set to release hostages as ceasefire begins\r\n</li><li>Despi… [+4484 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1760301393
     },
     {
@@ -894,7 +896,10 @@
       "urlToImage": "https://www.salon.com/app/uploads/2025/10/Mike-Johnson-2239742184.jpg",
       "publishedAt": "2025-10-12T10:45:16Z",
       "content": "Shortly after he was unexpectedly elected speaker of the House in October 2023, Louisiana Republican Mike Johnson appeared before the awards gala of the National Association of Christian Lawmakers, a… [+7186 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "congress"
+      ],
       "publishedAtTs": 1760265916
     },
     {
@@ -998,7 +1003,10 @@
       "urlToImage": "https://grist.org/wp-content/uploads/2025/10/MerrimackStation.jpg?quality=75&strip=all",
       "publishedAt": "2025-10-12T13:00:00Z",
       "content": "This story was originally published by Canary Media and is reproduced here as part of the Climate Desk collaboration.\r\nEven as the federal government attempts to prop up the waning coal industry, New… [+4015 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "environment"
+      ],
       "publishedAtTs": 1760274000
     },
     {
@@ -1557,7 +1565,10 @@
       "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/4ff5f681ac4a70928a18a2ca027950c77236dea6-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "publishedAt": "2025-10-12T16:42:58Z",
       "content": "A modest reversal from Friday evening's carnage in crypto markets is underway after some calming trade war-related remarks from both Beijing and Washington.\r\nThe walk-backs began late Saturday when C… [+1298 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1760287378
     },
     {

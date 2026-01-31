@@ -15,8 +15,8 @@
       "publishedAt": "2026-01-26T19:57:08Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGreg Brockman said he started getting involved politically in 2025.\r\nGreg Brockman said he started getting involved politically in 2025.\r\nby\r\nHayden FieldClose\r\n… [+4663 chars]",
       "tags": [
-        "campaign_finance",
-        "trump"
+        "elections_politics",
+        "campaign_finance"
       ],
       "publishedAtTs": 1769457428
     },
@@ -33,8 +33,8 @@
       "publishedAt": "2026-01-26T16:20:32Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new owners of US TikTok have an explanation for this weekends problems, and say theyre working to get things back online.\r\nThe new owners of US TikTok have a… [+2854 chars]",
       "tags": [
-        "technology_regulation",
-        "social_media"
+        "social_media",
+        "technology_regulation"
       ],
       "publishedAtTs": 1769444432
     },
@@ -50,7 +50,10 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "publishedAt": "2026-01-26T10:10:13Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWidespread issues have raised fears of censorship but could just be teething pains.\r\nWidespread issues have raised fears of censorship but could just be teething… [+3668 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769422213
     },
     {
@@ -66,9 +69,9 @@
       "publishedAt": "2026-01-26T16:32:17Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe finance industry is afraid of Elon Musk, Grok edition\r\nThe finance industry is afraid of Elon Musk, Grok edition\r\nby\r\nElizabeth LopattoClose\r\nPosts from this… [+10325 chars]",
       "tags": [
-        "technology_regulation",
-        "social_issues",
-        "media_communications"
+        "social_media",
+        "free_speech",
+        "technology_regulation"
       ],
       "publishedAtTs": 1769445137
     },
@@ -84,7 +87,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Trump-AI-write-transportation-laws-1200x675.jpg",
       "publishedAt": "2026-01-26T15:35:21Z",
       "content": "This story was originally published by ProPublica.\r\nThe Trump administration is planning to use artificial intelligence to write federal transportation regulations, according to U.S. Department of Tr… [+9921 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769441721
     },
     {
@@ -100,8 +106,7 @@
       "publishedAt": "2026-01-26T19:20:01Z",
       "content": "Elon Musks controversial Grokipedia has begun creeping into ChatGPT and other chatbots responses as a cited source, giving us a glimpse of the dead internet that’s just around the corner.\r\nThe Guardi… [+4296 chars]",
       "tags": [
-        "artificial_intelligence",
-        "technology_regulation"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1769455201
     },
@@ -132,7 +137,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c367/live/ac3645c0-fae8-11f0-adda-0755af0bac4f.jpg",
       "publishedAt": "2026-01-26T18:58:11Z",
       "content": "Richard WheelerPolitical reporter\r\nThe UK government said it \"remains confident\" a deal to give the Chagos Islands to Mauritius is the \"best way forward\", despite criticism from US President Donald T… [+4235 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769453891
     },
     {
@@ -148,7 +155,8 @@
       "publishedAt": "2026-01-26T03:50:14Z",
       "content": "Volunteers and church staff handed out coffee, snacks and hand warmers at this church in Minneapolis on Sunday\r\nAt the Calvary Baptist Church in Minneapolis, the doors swung open and shut as locals s… [+6158 chars]",
       "tags": [
-        "security_intelligence"
+        "social_issues",
+        "law_enforcement"
       ],
       "publishedAtTs": 1769399414
     },
@@ -164,7 +172,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/291c/live/2107fc40-f940-11f0-a422-4ba8a094a8fa.jpg",
       "publishedAt": "2026-01-26T00:43:21Z",
       "content": "The new project could link offshore wind farms in the North Sea to more than one country via 'interconnectors'\r\nThe UK is set to back a vast new fleet of offshore wind projects in the North Sea along… [+4322 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "environment"
+      ],
       "publishedAtTs": 1769388201
     },
     {
@@ -179,7 +190,10 @@
       "urlToImage": "https://images.macrumors.com/t/Sha2jKKOVpI78kyHSHEmn0Fegek=/1600x/article-new/2026/01/melania-film-trump.jpg",
       "publishedAt": "2026-01-26T22:23:20Z",
       "content": "Apple CEO Tim Cook visited President Donald Trump at the White House over the weekend to attend the premier of \"Melania,\" a documentary that's set to be released in the near future.\r\nAccording to The… [+1878 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
       "publishedAtTs": 1769466200
     },
     {
@@ -194,7 +208,11 @@
       "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
       "publishedAt": "2026-01-26T20:53:01Z",
       "content": "Gov. Josh Shapiro has dealt with plenty of weighty topics. He's investigated abuse in the Catholic Church as Pennsylvania's attorney general. He and his family were the victims of an arson attack in … [+953 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "immigration",
+        "personal_family"
+      ],
       "publishedAtTs": 1769460781
     },
     {
@@ -209,7 +227,11 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1858x1045+0+97/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F09%2Fd21083ad47258f639bd7ba1fd0d6%2Fgettyimages-2257614840.jpg",
       "publishedAt": "2026-01-26T12:31:34Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5830 chars]",
-      "tags": [],
+      "tags": [
+        "mass_deportation_operation",
+        "protests",
+        "crisis_emergency"
+      ],
       "publishedAtTs": 1769430694
     },
     {
@@ -226,9 +248,8 @@
       "content": "NAHARIYA, Israel Israel said Sunday its military was conducting a \"large-scale operation\" to locate the last hostage in Gaza, as Washington and other mediators pressure Israel and Hamas to move into … [+3801 chars]",
       "tags": [
         "foreign_policy",
-        "israel",
         "gaza",
-        "middle_east"
+        "israel"
       ],
       "publishedAtTs": 1769409574
     },
@@ -262,7 +283,10 @@
       "urlToImage": "https://i.insider.com/6977967ba645d1188187fb09?width=1200&format=jpeg",
       "publishedAt": "2026-01-26T17:44:59Z",
       "content": "Melania Trump grew up in Sevnica, Slovenia.Chip Somodevilla/Getty Images ; Jure Makovec/AFP via Getty Images\r\n<ul><li>Melania Trump grew up in Sevnica, Slovenia, a small town of around 17,670 people.… [+10094 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "family_activities"
+      ],
       "publishedAtTs": 1769449499
     },
     {
@@ -279,8 +303,7 @@
       "content": "A still from a video showing federal agents holding down protestor Alex Pretti in Minneapolis on Saturday, January 24, moments before they shot and killed him.VIDEO OBTAINED BY REUTERS/Reuters\r\n<ul><… [+3200 chars]",
       "tags": [
         "social_issues",
-        "protests",
-        "law_enforcement"
+        "protests"
       ],
       "publishedAtTs": 1769453878
     },
@@ -296,7 +319,10 @@
       "urlToImage": null,
       "publishedAt": "2026-01-26T00:28:31Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
       "publishedAtTs": 1769387311
     },
     {
@@ -312,9 +338,9 @@
       "publishedAt": "2026-01-26T18:17:29Z",
       "content": "The immigration crackdown in Minnesota is bringing a new level of scrutiny to the Trump administrations tactics and its social media. CNNs Chief Media Analyst Brian Stelter points out a pattern of wh… [+64 chars]",
       "tags": [
-        "immigration",
-        "social_media",
-        "media_communications"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1769451449
     },
@@ -330,7 +356,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/haE5WlbGEgy22_e0zYaZ0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/c7ecc8c95956bac378f0af7d61b0709d",
       "publishedAt": "2026-01-26T08:51:22Z",
       "content": "DUBAI, United Arab Emirates (AP) Two Iranian-backed militias in the Mideast are signaling their willingness to launch new attacks, likely trying to back Iran on Monday as it worried about an approach… [+5786 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
       "publishedAtTs": 1769417482
     },
     {
@@ -345,7 +375,11 @@
       "urlToImage": "https://compote.slate.com/images/0c01cac2-6923-4452-a2c9-c43ad94d8dd9.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
       "publishedAt": "2026-01-26T00:34:54Z",
       "content": "Once again, federal agents have shot and killed a legal observer in Minneapolis. Once again, the shooting is on video. And once again, the Trump Administration has closed ranks around the officers. B… [+586 chars]",
-      "tags": [],
+      "tags": [
+        "law_enforcement",
+        "criminal_cases",
+        "social_issues"
+      ],
       "publishedAtTs": 1769387694
     },
     {
@@ -362,7 +396,7 @@
       "content": "<ul><li>Gov. Walz wants to 'work together,' Trump says\r\n</li><li>Former ICE official: Agents need to prepare for states that allow concealed carry\r\n</li><li>Oklahoma City mayor: Snow not as bad as we… [+4259 chars]",
       "tags": [
         "legal_justice",
-        "security_intelligence"
+        "law_enforcement"
       ],
       "publishedAtTs": 1769458295
     },
@@ -381,7 +415,7 @@
       "tags": [
         "protests",
         "immigration",
-        "security_intelligence"
+        "law_enforcement"
       ],
       "publishedAtTs": 1769464570
     },
@@ -398,8 +432,7 @@
       "publishedAt": "2026-01-26T12:34:07Z",
       "content": "<ul><li>Outrage after federal agents fatally shoots Minneapolis protester\r\n</li><li>Witness videos of the fatal shooting of Alex Pretti\r\n</li><li>Trump reacts to Pretti killing\r\n</li><li>Growing call… [+4114 chars]",
       "tags": [
-        "security_intelligence",
-        "protests"
+        "off_topic"
       ],
       "publishedAtTs": 1769430847
     },
@@ -416,9 +449,7 @@
       "publishedAt": "2026-01-26T14:44:15Z",
       "content": "<ul><li>Outrage after Minneapolis protester fatally shot amid altercation with federal agents\r\n</li><li>Witness videos of the fatal shooting of Alex Pretti\r\n</li><li>Trump reacts to Pretti killing\r\n<… [+4242 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
-        "new_york"
+        "off_topic"
       ],
       "publishedAtTs": 1769438655
     },
@@ -435,7 +466,7 @@
       "publishedAt": "2026-01-26T15:56:19Z",
       "content": "<ul><li>Alex Pretti was 'lawfully permitted' to be armed: Minneapolis police chief\r\n</li><li>Federal response to Pretti shooting 'highly irresponsible': Former ICE director\r\n</li><li>Dems, GOP at odd… [+4250 chars]",
       "tags": [
-        "transportation"
+        "off_topic"
       ],
       "publishedAtTs": 1769442979
     },
@@ -452,8 +483,7 @@
       "publishedAt": "2026-01-26T02:08:54Z",
       "content": "<ul><li>Outrage after federal agents fatally shoots Minneapolis protester\r\n</li><li>Witness videos of the fatal shooting of Alex Pretti\r\n</li><li>Trump reacts to Pretti killing\r\n</li><li>Growing call… [+4114 chars]",
       "tags": [
-        "personal_family",
-        "personal_activities"
+        "off_topic"
       ],
       "publishedAtTs": 1769393334
     },
@@ -469,7 +499,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c59b0f54-fd4e-4518-a441-b2b501049e8b/260125_abc_social_austin_ski4_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-26T02:30:13Z",
       "content": "<ul><li>Tensions high in Minnesota following deadly shooting\r\n</li><li>Massive cross-country storm now taking aim at East Coast\r\n</li><li>Minnesota Senate majority leader on ongoing tensions in Minne… [+4462 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769394613
     },
     {
@@ -484,7 +516,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b7f3f831-8d7d-4655-8448-92728c9e0304/260126_gma_digital_bald_eagle_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-26T18:51:19Z",
       "content": "<ul><li>Alex Pretti was 'lawfully permitted' to be armed: Minneapolis police chief\r\n</li><li>Federal response to Pretti shooting 'highly irresponsible': Former ICE director\r\n</li><li>Dems, GOP at odd… [+4250 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769453479
     },
     {
@@ -499,7 +533,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/61428686-71a7-4e3d-84c5-9d4184161202/ran-Gvili-1-ap-gmh-260126_1769444656849_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-26T20:34:23Z",
       "content": "The final deceased Israeli hostage in Gaza taken during the Oct. 7, 2023, attack has returned to Israel following a military operation to retrieve the body, Israeli officials said.\r\nRani Gvili, who s… [+3163 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "israel"
+      ],
       "publishedAtTs": 1769459663
     },
     {
@@ -514,7 +552,11 @@
       "urlToImage": "https://media.newyorker.com/photos/69725187b88729c5a5628eab/16:9/w_1280,c_limit/r47705.jpg",
       "publishedAt": "2026-01-26T11:00:00Z",
       "content": "At pride marches in Chicago, New York, and Washington, D.C., organizers have refused or ejected participants because they were carrying rainbow flags with a Star of David. At a Cincinnati anti-white-… [+3493 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "democratic_party"
+      ],
       "publishedAtTs": 1769425200
     },
     {
@@ -529,7 +571,11 @@
       "urlToImage": "https://media.newyorker.com/photos/69729a6bd9e4ffb286d8ffd2/16:9/w_1280,c_limit/McKibben-GettyImages-2257016175.jpg",
       "publishedAt": "2026-01-26T11:00:00Z",
       "content": "It may well have been a bargain worth making for countries such as Canada. But now, since the U.S. has decided to dispense with even the veneer of equality, and instead has committed itself to the pr… [+5290 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1769425200
     },
     {
@@ -544,7 +590,9 @@
       "urlToImage": "https://media.newyorker.com/photos/69727a42bbe892105a4dffc9/16:9/w_1280,c_limit/r48514.jpg",
       "publishedAt": "2026-01-26T11:00:00Z",
       "content": "The trial went on for six weeks. In November, Yamagamis mother and sister testified from behind a screen, to protect their identities. His mother apologized to Abes familyshe noted that his ghost was… [+5584 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues"
+      ],
       "publishedAtTs": 1769425200
     },
     {
@@ -560,7 +608,8 @@
       "publishedAt": "2026-01-26T19:55:29Z",
       "content": "Hundreds of tech industry workers are asking their CEOs to stand up to the Trump administration’s weaponization of immigration forces and the subsequent violence that’s ensued.\r\nIn a letter signed by… [+3061 chars]",
       "tags": [
-        "immigration"
+        "immigration",
+        "protests"
       ],
       "publishedAtTs": 1769457329
     },
@@ -576,7 +625,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/05/TikTok-Bans-and-Restrictions-e1766157892387-1200x675.jpg",
       "publishedAt": "2026-01-26T21:55:05Z",
       "content": "TikTok was hit with outage issues in the U.S. just days after a major ownership shakeup, and users are nervous about what it means for the future of the short-form video platform.\r\nAcross the U.S., u… [+3197 chars]",
-      "tags": [],
+      "tags": [
+        "social_media",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1769464505
     },
     {
@@ -610,7 +662,6 @@
       "publishedAt": "2026-01-26T13:00:00Z",
       "content": "Pity Chris Summerlin, the dean of students at the University of Florida. He’s being sued by an anti-Semite, and that’s not the worst of his predicament. So far, judges who have ruled on the case have… [+15954 chars]",
       "tags": [
-        "social_issues",
         "civil_rights",
         "education"
       ],
@@ -628,7 +679,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/GphwFJM0qYV-_xWCflIeGXtk4Ys=/0x61:2876x1559/1200x625/media/img/mt/2026/01/20260126_conceal_carry/original.jpg",
       "publishedAt": "2026-01-26T18:40:00Z",
       "content": "Carrying a concealed handgun in public is now commonplace in much of the country. For many, this is not only a prudent act of personal safety, but an expression of liberty and a bulwark against gover… [+6665 chars]",
-      "tags": [],
+      "tags": [
+        "gun_policy",
+        "social_issues",
+        "protests"
+      ],
       "publishedAtTs": 1769452800
     },
     {
@@ -643,7 +698,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/APGYcsM5ztOeSmT_qdcqZDz7HhA=/0x175:8243x4468/1200x625/media/img/mt/2026/01/Minneapolis_ICE_Story_Atlantic_140-1/original.jpg",
       "publishedAt": "2026-01-26T01:42:51Z",
       "content": "Photographs by Jack CalifanoThe six-car ICE convoy came to a stop and instantly dozens of people swarmed it, cellphones in hand, while others ran out of nearby houses—I saw a woman in gym shorts in t… [+18799 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "protests"
+      ],
       "publishedAtTs": 1769391771
     },
     {
@@ -660,8 +718,7 @@
       "content": "Anthony ZurcherNorth America correspondent\r\nPresident Trump talks to reporters on Air Force One on Saturday\r\nThe Trump administration has quickly abandoned its familiar \"deny and attack\" playbook aft… [+8069 chars]",
       "tags": [
         "legal_justice",
-        "social_issues",
-        "elections_politics"
+        "social_issues"
       ],
       "publishedAtTs": 1769458929
     },
@@ -677,7 +734,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a024/live/92a4fce0-fa71-11f0-a038-897092faef25.jpg",
       "publishedAt": "2026-01-26T04:52:49Z",
       "content": "Protests continued in Minneapolis and other US cities on Sunday, as Minnesota Governor Tim Walz said America was at an \"inflection point\" and repeated calls for US President Donald Trump to remove fe… [+7796 chars]",
-      "tags": [],
+      "tags": [
+        "protests",
+        "immigration",
+        "law_enforcement",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1769403169
     },
     {
@@ -693,10 +755,8 @@
       "publishedAt": "2026-01-26T11:30:35Z",
       "content": "Yesterday the Trump Administration announced a proposed change in policy for travellers to the U.S. It applies to the powers of data collection by the Customs and Border Police (CBP).\r\nIf the propose… [+7032 chars]",
       "tags": [
-        "government_administration",
         "border_security",
-        "personal_business",
-        "security_intelligence"
+        "immigration"
       ],
       "publishedAtTs": 1769427035
     },
@@ -713,8 +773,7 @@
       "publishedAt": "2026-01-26T21:27:15Z",
       "content": "Ive completely stopped using Twitter (now called X) and I wanted to post something explaining why.\r\nI stopped posting or reading the feeds quite a while ago, but despite most people I know agreeing i… [+8139 chars]",
       "tags": [
-        "social_media",
-        "media_communications"
+        "social_media"
       ],
       "publishedAtTs": 1769462835
     },
@@ -730,7 +789,11 @@
       "urlToImage": "https://bayesianpersuasion.com/static/social-images/content-posts-ice-constitutional-guardrails-index.md.webp",
       "publishedAt": "2026-01-26T18:44:58Z",
       "content": "A Framework for Understanding the Erosion of Democratic Immigration Enforcement\r\nIntroduction\r\nIve heard the comparisons. You probably have too. This is just like Hitler. ICE is the modern Gestapo. T… [+29931 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "social_issues"
+      ],
       "publishedAtTs": 1769453098
     },
     {
@@ -763,7 +826,10 @@
       "urlToImage": "https://static.dezeen.com/uploads/2026/01/samara-adu-la-fire-rebuild-install_dezeen_2364_sq.jpg",
       "publishedAt": "2026-01-26T18:00:50Z",
       "content": "Samara, the factory-built ADU company co-founded by US chief design officer Joe Gebbia, has installed the first of a series of units in Los Angeles on the site of a home that burned down in the 2025 … [+3700 chars]",
-      "tags": [],
+      "tags": [
+        "housing",
+        "la_wildfire_rebuilding"
+      ],
       "publishedAtTs": 1769450450
     },
     {
@@ -779,7 +845,7 @@
       "publishedAt": "2026-01-26T13:17:20Z",
       "content": "In 2023, most of the family’s wealth, about 79% of it, was tied to real estate. These days, a growing portion belongs to cryptocurrency endeavors. For Bloomberg, Annie Massa and Tom Maloney report on… [+600 chars]",
       "tags": [
-        "economy_finance",
+        "personal_business",
         "cryptocurrency"
       ],
       "publishedAtTs": 1769433440
@@ -798,7 +864,7 @@
       "content": "Above, Scott Gal­loway and Kara Swish­er explain how every­day Amer­i­cans can push back against gov­ern­ment overreachby focus­ing on the eco­nom­ic deci­sions they make each day. Trump does not res… [+1791 chars]",
       "tags": [
         "economy_finance",
-        "personal_business"
+        "personal_activities"
       ],
       "publishedAtTs": 1769469654
     },
@@ -869,7 +935,11 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/Untitled-design-3.jpg",
       "publishedAt": "2026-01-26T15:25:50Z",
       "content": "One of the top Republican candidates for governor in Minnesotawho just two weeks ago provided legal counsel to the ICE agent who shot and killed Renee Nicole Goodhas dropped out of the race, saying h… [+2161 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "personal_activities"
+      ],
       "publishedAtTs": 1769441150
     },
     {
@@ -902,7 +972,10 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2025/05/mib_2025.png",
       "publishedAt": "2026-01-26T15:30:07Z",
       "content": "The transcript from this weeks MiB: Zach Buchwald, Russell Investments CEO and Chairman, is below.\r\nYou can stream and download our full conversation, including any podcast extras, on Apple Podcasts,… [+65569 chars]",
-      "tags": [],
+      "tags": [
+        "personal_family",
+        "economy_finance"
+      ],
       "publishedAtTs": 1769441407
     },
     {
@@ -918,7 +991,8 @@
       "publishedAt": "2026-01-26T13:32:58Z",
       "content": "from the grift-upon-grift dept\r\nLast year the fraud-prone Trump organization announced a half-assed wireless phone company. As we noted at the time, calling this a phone company is generous; it was j… [+2615 chars]",
       "tags": [
-        "personal_business"
+        "personal_business",
+        "legal_justice"
       ],
       "publishedAtTs": 1769434378
     },
@@ -935,10 +1009,8 @@
       "publishedAt": "2026-01-26T17:29:39Z",
       "content": "from the the-land-of-the-free,-home-of-the-brave dept\r\nTwo weeks ago, ICE agent Jonathan Ross murdered Nicole Good in cold blood. I said then that we had to abolish ICE and impeach Trump &amp; Noem b… [+5904 chars]",
       "tags": [
-        "criminal_cases",
-        "immigration",
         "legal_justice",
-        "social_issues"
+        "immigration"
       ],
       "publishedAtTs": 1769448579
     },
@@ -992,7 +1064,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2249021900.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2026-01-26T22:57:16Z",
       "content": "Attorney General Pam Bondi is seen at a Cabinet meeting at the White House on December 2, 2025. | Yuri Gripas/CNP/Bloomberg via Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter t… [+2685 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "government_administration"
+      ],
       "publishedAtTs": 1769468236
     },
     {
@@ -1009,8 +1084,8 @@
       "content": "A rosary adorns a framed photo of Alex Pretti that was left at a makeshift memorial in the area where he was shot and killed a day earlier by federal immigration agents in Minneapolis. | Roberto Schm… [+9601 chars]",
       "tags": [
         "gun_policy",
-        "law_enforcement",
-        "social_issues"
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1769460228
     },
@@ -1027,8 +1102,9 @@
       "publishedAt": "2026-01-26T19:42:47Z",
       "content": "Mourners gather at a makeshift memorial in the area where Alex Pretti was shot dead a day earlier by federal immigration agents in Minneapolis on January 25, 2026. | Octavio Jones/AFP via Getty Image… [+2512 chars]",
       "tags": [
-        "immigration",
-        "security_intelligence"
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
       ],
       "publishedAtTs": 1769456567
     },
@@ -1044,7 +1120,13 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2258017383.jpg?quality=90&strip=all&crop=0%2C9.8291399418862%2C100%2C80.341720116228&w=1200",
       "publishedAt": "2026-01-26T21:39:00Z",
       "content": "ICE officers and federal agents in Minneapolis after Alex Pretti was fatally shot by federal agents in the area. | Richard Tsong-Taatarii/The Minnesota Star Tribune via Getty Images\r\n\n\nFederal agents… [+7205 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "law_enforcement",
+        "criminal_cases",
+        "protests",
+        "civil_rights"
+      ],
       "publishedAtTs": 1769463540
     },
     {
@@ -1059,7 +1141,10 @@
       "urlToImage": "https://imagez.tmz.com/image/b3/16by9/2025/07/16/b3f9692e71b744b98a90607102c72a32_xl.jpg",
       "publishedAt": "2026-01-26T12:21:11Z",
       "content": "President Trump is chiming in again on the fatal shooting of Alex Pretti by a federal Border Patrol agent in Minnesota, saying his administration is looking into the matter while also criticizing Pre… [+1573 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1769430071
     },
     {
@@ -1075,9 +1160,8 @@
       "publishedAt": "2026-01-26T21:31:46Z",
       "content": "Dean Cain is swooping in to defend the federal immigration agents who killed Alex Pretti ... like Superman coming to rescue Lois Lane.\r\nThe 'Lois &amp; Clark' star joined us on \"TMZ Live\" Monday, and… [+1031 chars]",
       "tags": [
-        "law_enforcement",
-        "criminal_cases",
-        "media_communications"
+        "legal_justice",
+        "immigration"
       ],
       "publishedAtTs": 1769463106
     },
@@ -1093,7 +1177,10 @@
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcilIguxvzDODT4rcvO6MxiCqaxrO-__efMroo0PnuIHh189dVEamSzAvGqVGDycJAHQj_Mq1wlskwsKomv4UIwShUlyl6wlOuyXxWp4sqeNWK-xn3cwrTpXYTD-cZSBW6cRV5WGjKv_K534pbFIBJA5cjvqm3cYh5JE5ZpFwiYGsautuvOmcbOnowEbP4/s1700-e365/jan-recap.jpg",
       "publishedAt": "2026-01-26T11:55:00Z",
       "content": "Security failures rarely arrive loudly. They slip in through trusted tools, half-fixed problems, and habits people stop questioning. This week's recap shows that pattern clearly.\r\nAttackers are movin… [+29556 chars]",
-      "tags": [],
+      "tags": [
+        "security_intelligence",
+        "cybersecurity"
+      ],
       "publishedAtTs": 1769428500
     },
     {
@@ -1109,10 +1196,9 @@
       "publishedAt": "2026-01-26T21:27:39Z",
       "content": "Donald Trump’s administration is trying and failing to sell the public on its justifications for the killing of 37-year-old Minneapolis resident Alex Pretti by federal immigration agents. \r\nPretti, a… [+7540 chars]",
       "tags": [
-        "immigration",
-        "law_enforcement",
         "legal_justice",
-        "government_administration"
+        "immigration",
+        "law_enforcement"
       ],
       "publishedAtTs": 1769462859
     },
@@ -1129,8 +1215,8 @@
       "publishedAt": "2026-01-26T21:35:51Z",
       "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nPresident Trump is standing by his First Lady as Melani… [+2380 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "personal_family",
+        "media_communications"
       ],
       "publishedAtTs": 1769463351
     },
@@ -1164,7 +1250,10 @@
       "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/260122_algo_hero.jpg?resize=1200,600",
       "publishedAt": "2026-01-26T17:05:00Z",
       "content": "This question has taken on new urgency recently thanks to growing concern about the dangers that can arise when children talk to AI chatbots. For years Big Tech asked for birthdays (that one could ma… [+2720 chars]",
-      "tags": [],
+      "tags": [
+        "technology_regulation",
+        "ai_state_preemption"
+      ],
       "publishedAtTs": 1769447100
     },
     {
@@ -1198,8 +1287,9 @@
       "publishedAt": "2026-01-26T18:47:03Z",
       "content": "There has been a second fatal shooting in the US state of Minnesota this month.As soon as Donald Trump made his comeback to the White House early last year, he rushed to step up his crackdown on thos… [+987 chars]",
       "tags": [
+        "mass_deportation_operation",
         "immigration",
-        "security_intelligence"
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1769453223
     },
@@ -1215,7 +1305,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-09T014223Z_675799395_RC26XIAIEDC4_RTRMADP_3_USA-VENEZUELA-VICTIMS-TRIBUTE-1769424539.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T13:02:31Z",
       "content": "Venezuelas defence minister has accused the United States of using the country as a weapons laboratory during the abduction of President Nicolas Maduro and his wife, Cilia Flores, on January 3.\r\nVlad… [+11293 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1769432551
     },
     {
@@ -1230,7 +1323,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-25T160905Z_743706685_RC2F8JAZMFGZ_RTRMADP_3_USA-TRUMP-MINNESOTA-1769403654.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T07:23:59Z",
       "content": "US President Donald Trumps administration and his (Make America Great Again) MAGA allies have disseminated a flurry of misinformation about the fatal shooting of Alex Pretti in the US city of Minneap… [+4443 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1769412239
     },
     {
@@ -1245,7 +1341,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2019-12-13T000000Z_947525100_RC2IUD9I93JK_RTRMADP_3_USA-ELECTION-SANDERS.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T14:30:03Z",
       "content": "United States President Donald Trump has announced that his Justice Department is investigating the wealth of Democratic Congresswoman Ilhan Omar as his administration grapples with the fallout from … [+1365 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "elections_politics"
+      ],
       "publishedAtTs": 1769437803
     },
     {
@@ -1260,7 +1360,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_6977b301-1769452289.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T19:11:57Z",
       "content": "Brazilian President Luiz Inacio Lula da Silva has held a phone call with his US counterpart Donald Trump and agreed to visit Washington soon, the Brazilian government said in a statement.\r\nThe two le… [+2604 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "brazil",
+        "trump"
+      ],
       "publishedAtTs": 1769454717
     },
     {
@@ -1277,8 +1381,7 @@
       "content": "Marc Lamont Hill sits down with The Nations Katrina vanden Heuvel to unpack the first year of Trumps second term.One year into his second term, United States President Donald Trump is testing the out… [+876 chars]",
       "tags": [
         "elections_politics",
-        "2024_presidential",
-        "trump"
+        "government_administration"
       ],
       "publishedAtTs": 1769443177
     },
@@ -1294,7 +1397,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2015/08/5de099cfb5a04e6dab9bfebac7e85e81_18.jpeg?resize=1200%2C675",
       "publishedAt": "2026-01-26T10:29:40Z",
       "content": "Gold prices have surged to a record high of more than $5,100 an ounce, extending a historic rally as investors piled into the safe-haven asset amid rising geopolitical uncertainties.\r\nSpot gold was u… [+2228 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "trade"
+      ],
       "publishedAtTs": 1769423380
     },
     {
@@ -1312,8 +1419,8 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "security_intelligence",
-        "crisis_emergency"
+        "middle_east",
+        "security_intelligence"
       ],
       "publishedAtTs": 1769424986
     },
@@ -1329,7 +1436,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-19T234858Z_1106920932_MT1USATODAY28041091_RTRMADP_3_NCAA-FOOTBALL-CFP-NATIONAL-CHAMPIONSHIP-MIAMI-VS-INDIANA-1769418467.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T08:40:56Z",
       "content": "US Secretary of State Marco Rubio has spoken with Iraqi Prime Minister Mohammed Shia al-Sudani, following the transfer of ISIL (ISIS)-linked detainees from Syria to Iraq, as he encouraged Baghdad to … [+3446 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
       "publishedAtTs": 1769416856
     },
     {
@@ -1362,7 +1473,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-20T155459Z_1083991834_RC235JAMDW7H_RTRMADP_3_DAVOS-MEETING-1768984723.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T21:14:44Z",
       "content": "Canadian Prime Minister Mark Carney has announced a multibillion-dollar package as part of a series of measures aimed at lowering the costs of food and other essentials for low-income families.\r\nOn M… [+2731 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "agriculture"
+      ],
       "publishedAtTs": 1769462084
     },
     {
@@ -1377,7 +1492,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-19T091807Z_1050258654_RC294JAX0EJB_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1769411504.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T08:05:14Z",
       "content": "Kyiv, Ukraine In early January, leaders from more than 30 Western countries gathered in Paris, France, to sketch out a new framework of security guarantees for Ukraine that would take effect if a cea… [+5525 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1769414714
     },
     {
@@ -1392,7 +1511,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/Petro-v2-1769347284.png?resize=1920%2C1440",
       "publishedAt": "2026-01-26T14:41:12Z",
       "content": "In 2007, Gustavo Petro was visiting Washington, DC, when he made an unusual request: to accompany his hosts friend on a school pickup run.\r\nAt the time, Petro was a rising star in the Colombian Senat… [+30757 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "latin_america"
+      ],
       "publishedAtTs": 1769438472
     },
     {
@@ -1407,7 +1529,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_69769f9571ac-1769381781.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T08:31:00Z",
       "content": "Recent fighting between the Syrian military and the Syrian Democratic Forces (SDF), the Kurdish-led group controlling most of northeastern Syria, ended with the government significantly expanding the… [+5716 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "middle_east"
+      ],
       "publishedAtTs": 1769416260
     },
     {
@@ -1422,7 +1547,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-10-13T130202Z_1144196740_RC20BHA6DWV6_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1760398602.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-26T19:40:06Z",
       "content": "Israeli authorities have said that there are no remaining captives left in Gaza after they received the remains of police officer Ran Gvili, fulfilling a key component of a ceasefire deal between Isr… [+5988 chars]",
-      "tags": [],
+      "tags": [
+        "israel",
+        "gaza"
+      ],
       "publishedAtTs": 1769456406
     },
     {
@@ -1437,7 +1565,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2024-10-24T085608Z_1267513639_RC2WQAAHBQLE_RTRMADP_3_RUSSIA-BRICS-SUMMIT-1769326763_cdcdbf-1769403833.jpg?resize=1200%2C630&quality=80",
       "publishedAt": "2026-01-26T05:08:08Z",
       "content": "Amid rapidly accelerating international shifts, Chinas foreign policy has become a complex equation. From the Middle East to Latin America, from the Asia Pacific to the Arctic Circle, Beijing is movi… [+6511 chars]",
-      "tags": [],
+      "tags": [
+        "china",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769404088
     },
     {
@@ -1455,8 +1586,7 @@
       "tags": [
         "foreign_policy",
         "iran",
-        "security_intelligence",
-        "crisis_emergency"
+        "security_intelligence"
       ],
       "publishedAtTs": 1769444389
     }

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 265,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -15,9 +15,8 @@
       "publishedAt": "2025-04-05T23:57:48Z",
       "content": "Demonstrators hold up signs during a \"Hands Off!\" protest against President Donald Trump at the Washington Monument in Washington. (AP Photo/Jose Luis Magana)\nMillions of people protested in multiple cities across the United States on Saturday agains... [565 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues",
-        "crisis_emergency"
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1743897468
     },
@@ -37,8 +36,7 @@
         "legal_justice",
         "immigration",
         "government_administration",
-        "policy_legislation",
-        "foreign_policy"
+        "trade_negotiations_truces"
       ],
       "publishedAtTs": 1743897346
     },
@@ -55,10 +53,9 @@
       "publishedAt": "2025-04-05T23:55:28Z",
       "content": "Across European cities, hundreds of people protested against U.S. President Donald Trump and his adviser Elon Musk. The demonstrations followed turbulent financial market responses to Trump's announcement of broad global tariffs, including a protest ... [607 chars]",
       "tags": [
-        "economy_finance",
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
         "foreign_policy",
-        "trade",
-        "media_communications",
         "protests"
       ],
       "publishedAtTs": 1743897328
@@ -77,8 +74,8 @@
       "content": "The Democratic senator Cory Booker took a version of his record-breaking Senate floor speech on the road Saturday to a town hall meeting in a New Jersey gymnasium, calling on people to find out what they can do to push back against Donald Trump’s age... [3523 chars]",
       "tags": [
         "elections_politics",
-        "social_issues",
-        "media_communications"
+        "democratic_party",
+        "trump"
       ],
       "publishedAtTs": 1743896692
     },
@@ -95,11 +92,9 @@
       "publishedAt": "2025-04-05T23:42:32Z",
       "content": "A U.S. judge has mandated the return of Kilmar Abrego Garcia, a Maryland man mistakenly deported to El Salvador, marking another legal hurdle for the Trump administration's deportation policies. Despite acknowledging the error, the administration arg... [695 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "doj_actions",
-        "congressional_investigations",
-        "policy_legislation"
+        "legal_justice",
+        "criminal_cases"
       ],
       "publishedAtTs": 1743896552
     },
@@ -116,9 +111,9 @@
       "publishedAt": "2025-04-05T23:41:56Z",
       "content": "When Liz Gabbitas joined thousands of fellow protesters Saturday in the US capital, she thought her message to the Trump administration would be best delivered through her homemade sign: a cardboard guillotine.\nThe 34-year-old librarian made clear sh... [3353 chars]",
       "tags": [
-        "elections_politics",
+        "protests",
         "social_issues",
-        "protests"
+        "elections_politics"
       ],
       "publishedAtTs": 1743896516
     },
@@ -135,11 +130,10 @@
       "publishedAt": "2025-04-05T23:14:35Z",
       "content": "Demonstrators estimated to be in the tens of thousands gathered in Washington on Saturday in a display of mass dissent against Donald Trump’s policies that organizers hoped would snowball into a rolling cycle of protests that could eventually stymie ... [6181 chars]",
       "tags": [
-        "elections_politics",
         "social_issues",
-        "media_communications",
-        "campaign_events",
-        "political_endorsements"
+        "protests",
+        "elections_politics",
+        "trump"
       ],
       "publishedAtTs": 1743894875
     },
@@ -157,12 +151,102 @@
       "content": "Open this photo in gallery: In an aerial view, logs are stacked at Gorman Brothers Lumber sawmill, in West Kelowna, B.C., on April 4.DARRYL DYCK/The Canadian Press\nBritish Columbia Premier David Eby says he will meet with Prime Minister Mark Carney o... [1829 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "regional_state",
-        "foreign_policy",
-        "government_administration"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1743894282
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Irish people travelling to US told to delete comments criticising Trump to avoid detention",
+      "description": "Deleting social media apps completely and leaving phones or other devices at home are other tips being recommended.",
+      "url": "https://www.breakingnews.ie/ireland/irish-people-travelling-to-us-told-to-delete-comments-criticising-trump-to-avoid-detention-1749132.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDNcXFwvMjIxNTQ5MjJcXFwvR2V0dHlJbWFnZXMtMjIwNTU4NTQ2OS1lMTc0MjY1ODU4NDI5NC5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQ1ZTBkZjBlOGVmYWE0ZGQ1ZjM3MTk4MzZmNWUxMWNlNmUwNDI4MjcifQ==/irish-people-travelling-to-us-told-to-delete-comments-criticising-trump-to-avoid-detention.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "Irish people travelling to the US are being warned to delete any social media comments criticising Donald Trump, to avoid detention.\nThe warning from cybersecurity experts comes after President Trump's executive order to \"enhance vetting\", which has ... [1421 chars]",
+      "tags": [
+        "social_media",
+        "security_intelligence",
+        "immigration"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Finance minister rules out wage subsidy scheme for firms affected by tariffs",
+      "description": "It comes as government ministers and businesses grapple with the 20 per cent tariffs imposed by US President Donald Trump.",
+      "url": "https://www.breakingnews.ie/ireland/finance-minister-rules-out-wage-subsidy-scheme-for-firms-affected-by-tariffs-1749192.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDYxNjI0MzdcXFwvMi43OTYxMTE0NC1lMTc0Mzk1MzE3MjEwMy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6Ijg2N2Y2OGZjYTFiMjA2NDM1YTMzMGJmYzRlNGExNmZhN2QzMzUzOWQifQ==/finance-minister-rules-out-wage-subsidy-scheme-for-firms-affected-by-tariffs.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "The Minister for Finance has ruled out a wage subsidy scheme for sectors affected by US tariffs, saying it is not appropriate now.\nPaschal Donohoe said he is not aiming to bring forward a proposal that would introduce supports similar to those brough... [4865 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Painter says Trump portrait accusations put her business in danger",
+      "description": "Artist Sarah Boardman created the painting of the US president, which was recently taken down.",
+      "url": "https://www.breakingnews.ie/world/british-painter-says-trump-portrait-accusations-put-her-business-in-danger-1749142.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDYxNDUzMjNcXFwvMzY1YWNkYzA4Y2Y3NDk4MGE1MGIxMWU4NjBlN2E4ZjctZTE3NDM5NDc3NTg1NzIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2M2QxM2NiOTExYmE2Y2Y5YzUxMzBkZjE2Yjk3MzEwZmM3OGUyZjFhIn0=/painter-says-trump-portrait-accusations-put-her-business-in-danger.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "A British-born painter has said that Donald Trump’s accusations that his portrait was distorted have put her business in “danger”.\nArtist Sarah Boardman’s painting of the US president has been hanging in the Colorado State Capitol Building Rotunda in... [3153 chars]",
+      "tags": [
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "US far-right activist raises loyalty test that could deepen purge of security agencies",
+      "description": "Laura Loomer met with Mr Trump at the White House a day before Mr Haugh's dismissal",
+      "url": "https://www.breakingnews.ie/world/us-far-right-activist-raises-loyalty-test-that-could-deepen-purge-of-security-agencies-1749113.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDYxMjUzMzlcXFwvR2V0dHlJbWFnZXMtMTcxOTE3NTI0MC1lMTc0Mzk0MDQ1NzYyNi5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQyZTYwMzJkN2JiNmZlZWM0MTcyZjZhZWQ3ZDQ1ODQzMzFmZDJhY2EifQ==/us-far-right-activist-raises-loyalty-test-that-could-deepen-purge-of-security-agencies.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "While National Security Agency chief general Timothy Haugh apparently was not told why he was abruptly fired this week, a far-right activist who urged US president Donald Trump to dismiss him offered one explanation: his alleged ties to retired Army ... [4039 chars]",
+      "tags": [
+        "security_intelligence",
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Yemen’s Houthi rebels acknowledge deaths in latest US air strikes",
+      "description": "Footage released by President Donald Trump suggests the death toll could be even higher.",
+      "url": "https://www.breakingnews.ie/world/yemens-houthi-rebels-acknowledge-deaths-in-latest-us-air-strikes-1749053.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDYwNzIxMzBcXFwvNDU0OTViMTY0MTk4NGZmOGE4MWZkZDdlMzZkMzdhOTkuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwY2RjYmJlNWUzOTI3YjYwN2I4ZTEyMGQ5OTg4ZTVmZTBmNmU1YmI0In0=/yemen-s-houthi-rebels-acknowledge-deaths-in-latest-us-air-strikes.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "Suspected US air strikes killed at least two people overnight in a stronghold of Yemen’s Houthi rebels, the group said, as a bombing video posted by US President Donald Trump suggested casualties in the campaign may be higher than the rebels acknowle... [4583 chars]",
+      "tags": [
+        "foreign_policy",
+        "military"
+      ],
+      "publishedAtTs": 1743894000
     },
     {
       "source": {
@@ -177,11 +261,83 @@
       "publishedAt": "2025-04-05T23:00:00Z",
       "content": "More than 50 nations have reached out to the White House to begin trade talks since U.S. President Donald Trump rolled out sweeping new tariffs, top officials said on Sunday as they defended levies that wiped out nearly $6 trillion (€5.5 trillion) in... [4689 chars]",
       "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Sinn Féin calls for Taoiseach to convene all party leaders to discuss Trump tariff impacts",
+      "description": "European Union countries will seek to present a united front in the coming days against Trump's tariffs",
+      "url": "https://www.breakingnews.ie/ireland/sinn-fein-calls-for-taoiseach-to-convene-all-party-leaders-to-discuss-trump-tariff-impacts-1749263.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDNcXFwvMjUxNDIxMzhcXFwvYWE1N2MxODBlZGE1NDBmM2JlMWIxNmMzMDk1ODQ1MTEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1M2M4YmQxM2VjMjgzNDQyNjkwNmQ1OGQyZWNlNjAyZmVjNDFiNzc4In0=/sinn-fein-calls-for-taoiseach-to-convene-all-party-leaders-to-discuss-trump-tariff-impacts.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "Sinn Féin is calling for Taoiseach Micheál Martin to convene all party leaders to discuss the potential impacts of US President Donald Trump's tariffs.\nThe EU is due to sign off on a list of countermeasures on Monday.\nAdvertisement\nAccording to Reute... [1920 chars]",
+      "tags": [
         "trade",
-        "economy_finance",
-        "foreign_policy",
-        "government_administration",
-        "policy_legislation"
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump advisers say 50-plus countries have reached out for tariff talks",
+      "description": "The import taxes announced last week have sent financial markets reeling.",
+      "url": "https://www.breakingnews.ie/world/trump-advisers-say-50-plus-countries-have-reached-out-for-tariff-talks-1749279.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDYyMjAwMzJcXFwvMzUwOTEwMGViMTkxNDZkMDkwZDRiMmVlYWNlNTFmN2MuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJjN2NlMzhkNTllYjdmOThjNjc4MDA2NGI0ODZiNjBhNDhmMjY3YTIzIn0=/trump-advisers-say-50-plus-countries-have-reached-out-for-tariff-talks.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "Top US administration officials said on Sunday that more than 50 countries targeted by President Donald Trump’s new tariffs have reached out to begin negotiations over the sweeping import taxes that have sent financial markets reeling and upended the... [5810 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "50 nations want US trade talks amid tariffs",
+      "description": "More than 50 nations have reached out to the White House to begin trade talks since US President Donald Trump rolled out sweeping new tariffs, his economic advisers have said.",
+      "url": "https://www.rte.ie/news/2025/0406/1506134-tariffs-america/",
+      "urlToImage": "https://img.rasset.ie/00221562-1600.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "More than 50 nations have reached out to the White House to begin trade talks since US President Donald Trump rolled out sweeping new tariffs, his economic advisers have said.\nRepresentatives of the Trump administration have sought to defend levies t... [7929 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RTE.ie"
+      },
+      "author": "RTE.ie",
+      "title": "'We are a primary target,' says Irish lawyer priest in US",
+      "description": "Monsignor James Kelly from Co Limerick has been helping immigrants become US citizens for 65 years. But as President Donald Trump cracks down on immigration, he believes services like his could be a target.",
+      "url": "https://www.rte.ie/news/us/2025/0406/1506053-we-are-a-primary-target-says-irish-lawyer-priest-in-us/",
+      "urlToImage": "https://img.rasset.ie/00223a01-1600.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "\"We are a primary target, whether we like it or not,\" said 87-year-old Monsignor James Kelly about his work helping immigrants, as the Trump administration vows mass deportations.\nWe met at District 3 Immigration Services - a small office on a lively... [6378 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration"
       ],
       "publishedAtTs": 1743894000
     },
@@ -198,11 +354,124 @@
       "publishedAt": "2025-04-05T23:00:00Z",
       "content": "Tens of thousands of protesters have flooded the streets of major US cities to oppose the divisive policies of President Donald Trump, in the largest demonstrations since his return to the White House.\nOpponents of the Republican president's policies... [3507 chars]",
       "tags": [
-        "elections_politics",
+        "protests",
         "social_issues",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Poll: Should the EU implement countermeasures to US tariffs?",
+      "description": "Should the EU retaliate with countermeasures in the face of US tariffs, despite the risk of a trade war and higher tariffs from Trump? Let us know by taking our poll!",
+      "url": "https://www.breakingnews.ie/ireland/poll-should-the-eu-implement-countermeasures-to-us-tariffs-1748911.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMDUxNDU4MTlcXFwvMjAtMjAtMjAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIxOTQxMjI5YmZiMjRmY2U3OTc1MmE0NGRkZmQ4NDc5NzA5ZWViZGI0In0=/poll-should-the-eu-implement-countermeasures-to-us-tariffs.jpg",
+      "publishedAt": "2025-04-05T23:00:00Z",
+      "content": "Unless you have been living under a rock, you're likely to have heard about US President Donald Trump's tariff plans.\nOn April 2nd, Taoiseach Micheál Martin said he deeply regretted the US decision to impose 20 per cent tariffs on imports from across... [987 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1743894000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "UK PM ready to 'shelter' businesses from tariff storm",
+      "description": "As Trump's tariffs begin Jaguar Land Rover has suspended shipments of its cars to the US and the UK prime minister flags he's ready to help British industries.",
+      "url": "https://www.perthnow.com.au/business/uk-pm-ready-to-shelter-businesses-from-tariff-storm-c-18279648",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18279648/1d91f4ce1f896ec7dbca1a3c8329a84901834751-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2025-04-05T22:54:05Z",
+      "content": "British Prime Minister Keir Starmer says he's ready to step in to help \"shelter\" the country's businesses from the fallout from US President Donald Trump's new tariff policies, mooting state intervention for the worst-affected industries.\n\"We stand r... [1727 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743893645
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "U.S. starts collecting Trump’s new 10% tariff",
+      "description": "U.S. customs agents began collecting U.S. President Donald Trump’s unilateral 10 per cent tariff on all imports from many countries on Saturday, with higher levies on goods from 57 larger trading partners due to start next week.",
+      "url": "https://www.cp24.com/news/world/2025/04/05/us-starts-collecting-trumps-new-10-tariff-smashing-global-trade-norms/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/UDLZZYJSIV27YSRQZHZT4SFWPE.jpg?smart=true&auth=de4eaf3532ae8f22d6d287582d9835974b579ee43ae30f331e3cfe0452641095&width=1200&height=630",
+      "publishedAt": "2025-04-05T22:23:49Z",
+      "content": "WASHINGTON/JUPITER, Fla. — U.S. customs agents began collecting President Donald Trump’s unilateral 10% tariff on all imports from many countries on Saturday, with higher levies on goods from 57 larger trading partners due to start next week.\nThe ini... [4794 chars]",
+      "tags": [
+        "liberation_day_tariffs",
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743891829
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Mahmoud Khalil says his arrest was part of ‘Columbia’s repression playbook’",
+      "description": "Green-card holder and activist led campus pro-Palestinian rallies and is now fighting Trump effort to deport him",
+      "url": "https://www.theguardian.com/us-news/2025/apr/05/mahmoud-khalil-columbia-university",
+      "urlToImage": "https://i.guim.co.uk/img/media/e976a1de38e8d5d36607c3a4a782b820e22ff7ea/0_62_2346_1407/master/2346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f280db9baaa5cfc264e5591c61aee36b",
+      "publishedAt": "2025-04-05T22:17:19Z",
+      "content": "Mahmoud Khalil, the Columbia University student activist who led campus pro-Palestinian rallies and is now resisting the Trump administration’s deportation efforts, has accused the university of laying “the groundwork for my abduction” and called on ... [3310 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1743891439
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Thousands protest against Donald Trump and Elon Musk at rallies in all 50 US states",
+      "description": "The \"Hands Off!\" protests were against the Trump administration's handling of government downsizing, human rights and the economy, among other issues.",
+      "url": "https://news.sky.com/story/thousands-protest-against-donald-trump-and-elon-musk-at-rallies-in-all-50-us-states-13343002",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-washington-trump-protest_6877496.jpg?20250405220504",
+      "publishedAt": "2025-04-05T22:14:00Z",
+      "content": "Thousands of people gathered in various cities across the US as protests against Donald Trump and Elon Musk took place in all 50 states on Saturday.\nAround 1,200 demonstrations were planned in locations including Washington DC, New York City and West... [4830 chars]",
+      "tags": [
+        "social_issues",
+        "protests",
+        "elections_politics",
+        "trump"
+      ],
+      "publishedAtTs": 1743891240
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "US starts collecting Trump’s 10pc tariff, smashing trade norms",
+      "description": "The initial 10 per cent “baseline” levy paid by American importers took effect at seaports, airports and customs warehouses on Saturday.",
+      "url": "https://www.afr.com/world/north-america/us-starts-collecting-trump-s-10pc-tariff-smashing-global-trade-norms-20250406-p5lphc",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.6349%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_7/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/379261e677c6b7496ea1b5261a769d5d5935f3d9",
+      "publishedAt": "2025-04-05T22:10:29Z",
+      "content": "Washington | US customs agents began collecting President Donald Trump’s unilateral 10 per cent tariff on all imports from many countries on Saturday, with higher levies on goods from 57 larger trading partners due to start this week.\nThe initial 10 ... [271 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1743891029
     }
   ]
 }

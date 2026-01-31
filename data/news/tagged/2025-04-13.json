@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 158,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -15,9 +15,8 @@
       "publishedAt": "2025-04-13T23:48:35Z",
       "content": "Secretary of Commerce Howard Lutnick speaks with reporters outside the White House in Washington, DC, in March. Lutnick said Sunday that trade tariffs 'are not up for negotiation.' Photo by Yuri Gripas/UPI | License Photo\nApril 13 (UPI) -- A Trump ad... [1818 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "government_administration"
+        "trade",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744588115
     },
@@ -35,8 +34,7 @@
       "content": "Pete Marocco, the Trump administration official who played a major role in dismantling the US Agency for International Development (USAID), has left the state department, a US official said on Sunday.\nDonald Trump’s administration has moved to fire n... [1785 chars]",
       "tags": [
         "government_administration",
-        "policy_legislation",
-        "foreign_policy"
+        "personnel"
       ],
       "publishedAtTs": 1744587764
     },
@@ -53,9 +51,8 @@
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "Donald Trump has suggested that he might temporarily exempt the motor industry from tariffs he previously imposed on the sector, to give car makers time to adjust their supply chains.\n“I’m looking at something to help some of the car companies with i... [1966 chars]",
       "tags": [
-        "economy_finance",
-        "policy_legislation",
-        "foreign_policy"
+        "trade",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744585200
     },
@@ -72,9 +69,8 @@
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "US president Donald Trump has said he is considering imposing tariffs on pharmaceutical imports in the \"not too distant future\".\nSpeaking in the Oval Office, he suggested they would be similar to the 25 per cent rate imposed on the motor industry and... [1451 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "health_science"
+        "trade",
+        "economy_finance"
       ],
       "publishedAtTs": 1744585200
     },
@@ -92,8 +88,7 @@
       "content": "Ukrainian President Volodymyr Zelensky urged US counterpart Donald Trump to visit his country to better understand the devastation wrought by Russia's invasion.\n\"Please, before any kind of decisions, any kind of forms of negotiations, come to see peo... [3349 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
-        "middle_east"
+        "ukraine"
       ],
       "publishedAtTs": 1744585200
     },
@@ -110,11 +105,9 @@
       "publishedAt": "2025-04-13T23:00:00Z",
       "content": "China’s leader, Xi Jinping, started a week of diplomacy in Southeast Asia with a visit to Vietnam.\nMonday’s move signalled China’s commitment to global trade just after US President Donald Trump upended the global economy with his latest tariff moves... [3441 chars]",
       "tags": [
-        "foreign_policy",
-        "china",
-        "trade",
-        "economy_finance",
-        "international_organizations"
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "china"
       ],
       "publishedAtTs": 1744585200
     },
@@ -132,7 +125,6 @@
       "content": "US President Donald Trump bitterly attacked 60 Minutes shortly after the CBS programme broadcast stories on Ukraine and Greenland.\nHe said the network was out of control and should “pay a big price” for going after him on Sunday.\nAdvertisement\n“Almos... [2064 chars]",
       "tags": [
         "media_communications",
-        "government_administration",
         "legal_justice"
       ],
       "publishedAtTs": 1744585200
@@ -150,9 +142,9 @@
       "publishedAt": "2025-04-13T22:57:42Z",
       "content": "President Donald Trump speaks to the reporters on board Air Force One on the way to Miami, Saturday, April 12, 2025. (Pool via AP)\nU.S. President Donald Trump warned Sunday that no country would be getting “off the hook” on tariffs despite a 90-day r... [3737 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "foreign_policy"
+        "trade_negotiations_truces",
+        "liberation_day_tariffs",
+        "economy_finance"
       ],
       "publishedAtTs": 1744585062
     },
@@ -170,8 +162,7 @@
       "content": "CNN —\nStock futures rose Sunday after a temporary reprieve from tariffs on electronic imports from China by the Trump administration.\nDow futures were up 0.5%, or 212 points. The S&P 500 futures rose 0.75%, while the tech-heavy Nasdaq Composite futur... [2340 chars]",
       "tags": [
         "economy_finance",
-        "trade",
-        "stock_market"
+        "trade"
       ],
       "publishedAtTs": 1744583912
     },
@@ -189,10 +180,286 @@
       "content": "Billionaire investor Ray Dalio said that he is worried the US will experience “something worse than a recession” as a result of Donald Trump’s trade policies.\nSpeaking to NBC’s Meet the Press on Sunday, the 75-year-old hedge fund manager said: “I thi... [3106 chars]",
       "tags": [
         "economy_finance",
-        "foreign_policy",
-        "crisis_emergency"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1744582847
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Viktor Shvets fears ‘Lehman Bros moment’ amid fresh tariff chaos",
+      "description": "Has Donald Trump backed down on tech levies or not? As markets deal with confusion, this Macquarie expert is worried about something breaking in the shadows.",
+      "url": "https://www.afr.com/chanticleer/viktor-shvets-fears-lehman-bros-moment-amid-fresh-tariff-chaos-20250413-p5lrg0",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_82/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/a596af547b72e05f7ce59d5921293dc466aca5b5",
+      "publishedAt": "2025-04-13T22:20:41Z",
+      "content": "Did Donald Trump just cancel the latest relief rally on global sharemarkets before it even began?\nThe US president’s decision on Friday night to exclude smartphones, computer chips and other selected electronics from his monster 145 per cent tariffs ... [272 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744582841
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Trump suggests separate set of tariffs on electronics could come this week",
+      "description": "The U.S. President says that the entire electronics supply chain could be subject to tariffs imposed under national-security legislation",
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-suggests-separate-set-of-tariffs-on-electronics-could-come-this/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/FR2P3EXWYVAZXGMISEWPQ25UIY.jpg?auth=fe5c81d0787968590efd1aadaf76c48f11c9a0d08c3fe59897694f98ad5a6adc&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-04-13T22:06:31Z",
+      "content": "Open this photo in gallery: A man tests a laptop inside a Huawei store at a shopping mall in Beijing on April 13.PEDRO PARDO/AFP/Getty Images\nU.S. President Donald Trump is suggesting a separate set of tariffs on Chinese-made smartphones and other el... [5307 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744581991
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "Ukraine war latest: Russian attack is 'signal' to US and Ukraine - as 34 killed and dozens injured",
+      "description": "At least 34 people have been killed in a Russian missile strike on Ukraine's northeastern city of Sumy. That comes less than 48 hours after Donald Trump's envoy met Vladimir Putin in Russia for more talks on ending the war. Follow the latest below.",
+      "url": "https://news.sky.com/story/ukraine-war-zelenskyy-putin-russia-latest-chinese-soldiers-12541713",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-sumy-ukraine_6885782.jpg?20250413200647",
+      "publishedAt": "2025-04-13T21:34:00Z",
+      "content": "Meeting scheduled in Turkey to discuss end to war, Ankara says\nLooking now at the week ahead, Turkey's defence ministry has said military representatives will meet in the country on Tuesday and Wednesday to discuss an end to the war.\nIt isn't clear w... [339 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
+      "publishedAtTs": 1744580040
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "‘Nobody is off the hook’: Trump says electronics exemption temporary",
+      "description": "The reprieve exempting popular electronics from the 125 per cent tariffs on China is part of the longstanding plan to apply a different, specific levy to the sector.",
+      "url": "https://www.afr.com/world/north-america/nobody-is-off-the-hook-trump-says-electronics-exemption-temporary-20250414-p5lrgp",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2829%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_50/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/4dab83ec290b0ac4db0511824c3394e0875830fc",
+      "publishedAt": "2025-04-13T21:30:56Z",
+      "content": "Washington | President Donald Trump pledged he would still apply tariffs to phones, computers and popular consumer electronics, downplaying a weekend exemption as a procedural step in his overall push to remake US trade.\nThe late-Friday (Saturday AES... [296 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744579856
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US deports 10 more alleged gang members to El Salvador, says Rubio",
+      "description": "Secretary of state says ‘criminals’ were taken to country thanks to alliance between Trump and Nayib Bukele",
+      "url": "https://www.theguardian.com/us-news/2025/apr/13/us-deportations-el-salvador-marco-rubio",
+      "urlToImage": "https://i.guim.co.uk/img/media/fb96a73a15be00a25c94271d90291332e0136629/0_329_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95dd87d0e4f254fde50b63e9340b5490",
+      "publishedAt": "2025-04-13T21:24:34Z",
+      "content": "The US has deported another 10 people that it alleges are gang members to El Salvador, secretary of state Marco Rubio said on Sunday, a day before that country’s president is due to visit the White House.\n“Last night, another 10 criminals from the MS... [2312 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "immigration"
+      ],
+      "publishedAtTs": 1744579474
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump team tries to project confidence as tariffs rattle markets",
+      "description": "Trump administration officials were out in force across the television networks Sunday defending President Donald Trump’s economic policies after another week of reeling markets that saw the Republican administration reverse course on some of its steepest tariffs.",
+      "url": "https://www.cp24.com/news/world/2025/04/13/trump-team-tries-to-project-confidence-and-calm-after-his-tariff-moves-rattled-markets/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/WOVP2SA2VQQPSV464ACDKLFSWQ.jpg?smart=true&auth=75ce4c69f8eb3f66c0dee6e272bba73b2f9f0aca208b64a1a18d9fde70be1815&width=1200&height=630",
+      "publishedAt": "2025-04-13T21:10:34Z",
+      "content": "White House trade adviser Peter Navarro is pictured before participating in an interview outside the White House, Thursday, April 10, 2025, in Washington. (AP Photo/Alex Brandon)\nATLANTA — Trump administration officials were out in force across the t... [6343 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744578634
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Warren claims every Democrat at the ready to fight tariffs",
+      "description": "Trump announced a 90-day pause on most tariffs, which have leveled to 10%. The only standouts are Mexico, Canada, and China.",
+      "url": "https://www.washingtonexaminer.com/news/senate/3379017/elizabeth-warren-every-democrat-ready-fight-tariffs/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2024/11/Elizabeth-Warren-ggv2.webp",
+      "publishedAt": "2025-04-13T21:06:23Z",
+      "content": "Sen. Elizabeth Warren (D-MA) suggested that senators “don’t have to wait for the courts to step in” to stop President Donald Trump’s tariffs.\nTrump announced a 90-day pause on the majority of foreign tariffs, which have leveled to 10%. The only stand... [1880 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "trade_negotiations_truces",
+        "policy_legislation",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1744578383
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Huffington Post"
+      },
+      "author": "The Huffington Post",
+      "title": "Trump Admin Walks Back Tariff Exemption On Electronics",
+      "description": "U.S. Customs and Border Protection claimed late on Friday that imported electronics, such as smartphones, laptops and more, would be exempt from Trump’s tariffs.",
+      "url": "https://www.huffpost.com/entry/trump-admin-walks-back-tariff-exemption-on-electronics_n_67fbf396e4b06646ea60b482",
+      "urlToImage": "https://img.huffingtonpost.com/asset/67fc0cd11700002600e1c4ad.jpeg?cache=3lXSaQ70C3&ops=1200_630",
+      "publishedAt": "2025-04-13T20:50:08Z",
+      "content": "LOADING ERROR LOADING\nPresident Donald Trump and White House officials walked back a Friday announcement that there would be tariff exemptions on imported electronics.\nIn a Truth Social post on Sunday, Trump directly denied the tariff exemption annou... [5156 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744577408
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Examiner"
+      },
+      "author": "Washington Examiner",
+      "title": "Trump says there are no exemptions from new tariffs",
+      "description": "Trump said those tech products — which include smartphones, electronic parts, and computer monitors — have merely moved to a \"different Tariff 'bucket.'\"",
+      "url": "https://www.washingtonexaminer.com/news/white-house/3379024/trump-no-exemptions-from-new-tariffs/",
+      "urlToImage": "https://www.washingtonexaminer.com/wp-content/uploads/2025/04/trump-tariffs-no-exemptions.webp",
+      "publishedAt": "2025-04-13T20:47:27Z",
+      "content": "President Donald Trump clarified that no products are exempt from his new increased tariffs on China even after Customs and Border Protection announced exemptions for various tech products just last week.\nIn a Truth Social post on Sunday, Trump said ... [1587 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744577247
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston.com"
+      },
+      "author": "Boston.com",
+      "title": "Trump team tries to project confidence and calm after his tariff moves rattled markets",
+      "description": "ATLANTA (AP) — Trump administration officials were out in force across the television networks Sunday defending President Donald Trump’s economic policies after another week",
+      "url": "https://www.boston.com/news/politics/2025/04/13/trump-team-tries-to-project-confidence-and-calm-after-his-tariff-moves-rattled-markets/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/04/Trump_93021-67fc1382d4770-768x432.jpg",
+      "publishedAt": "2025-04-13T20:47:25Z",
+      "content": "Politics Trump team tries to project confidence and calm after his tariff moves rattled markets White House advisers and Cabinet members tried to project confidence and calm amid Trump’s on-again, off-again approach to tariffs on imported goods from ... [5719 chars]",
+      "tags": [
+        "economy_finance",
+        "tariff_impact_economy",
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1744577245
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "‘Too early to call the bottom’: ASX could fall further on Trump tariffs",
+      "description": "The Australian sharemarket market will likely remain volatile even after the ASX saw a $116bn rise in one day.",
+      "url": "https://www.perthnow.com.au/business/markets/too-early-to-call-the-bottom-asx-could-fall-further-on-trump-tariffs-c-18363897",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18363897/e23a500056c5645a4565a33f21bf4da1e4b2ec1d-16x9-x0y0w2048h1152.jpg?imwidth=1200",
+      "publishedAt": "2025-04-13T20:44:25Z",
+      "content": "The Australian sharemarket has likely not hit rock bottom, despite markets surging late last week, an industry expert has warned.\nShare markets had a roller coaster ride over the past week, plunging on the back of ongoing worries about US President D... [3604 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1744577065
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Newser",
+      "title": "Doctor Decrees Trump 'Fully Fit'",
+      "description": "The oldest American to be elected president is \"fully fit\" to handle the job, his physician says in a report on President Trump's physical exam released Sunday....",
+      "url": "https://www.newser.com/story/367081/after-physical-doctor-pronounces-trump-fully-fit.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1604212-12-20250413110202.jpeg",
+      "publishedAt": "2025-04-13T20:30:00Z",
+      "content": "The oldest American to be elected president is \"fully fit\" to handle the job, his physician says in a report on President Trump's physical exam released Sunday. Navy Capt. Sean Barbabella credited his patient's \"active lifestyle,\" saying it \"continue... [3089 chars]",
+      "tags": [
+        "personal_family",
+        "health"
+      ],
+      "publishedAtTs": 1744576200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "Trump denies tariff ‘exemption’ for electronics supply chain",
+      "description": "Donald Trump says chips and electronics are still subject to the existing tariffs of 20 per cent. Follow live updates.",
+      "url": "https://www.afr.com/politics/federal/trump-looking-at-tariffs-on-chips-electronics-supply-chain-20250414-p5lrgd",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.1662%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/49b06735ff846817a43abef2423a680c63b1f850",
+      "publishedAt": "2025-04-13T20:27:00Z",
+      "content": "President Donald Trump denies that there was a tariff “exception” for certain electronics announced on Friday (Saturday AEST), saying in a post on Truth Social that these products are still subject to existing tariffs of 20 per cent and that the admi... [703 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1744576020
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston.com"
+      },
+      "author": "Boston.com",
+      "title": "Wisconsin teen charged in parents' deaths is accused of plotting to kill Trump",
+      "description": "MILWAUKEE (AP) — A Wisconsin teenager charged in the deaths of his parents faces wider allegations that he killed them to “obtain the financial means” to assassinate Presi",
+      "url": "https://www.boston.com/news/crime/2025/04/13/wisconsin-teen-charged-in-parents-deaths-is-accused-of-plotting-to-kill-trump/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/04/Trump_23048-67fc1ce25c0d2-768x432.jpg",
+      "publishedAt": "2025-04-13T20:26:38Z",
+      "content": "Crime Wisconsin teen charged in parents’ deaths is accused of plotting to kill Trump “Casap appears to have written a manifest calling for the assassination of the President of the United States. He was in touch with other parties about his plan to k... [3420 chars]",
+      "tags": [
+        "criminal_cases",
+        "terrorism"
+      ],
+      "publishedAtTs": 1744575998
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston.com"
+      },
+      "author": "Boston.com",
+      "title": "Trump is 'fully fit' to serve as commander in chief, his doctor says after recent physical",
+      "description": "WEST PALM BEACH, Fla. (AP) — Donald Trump’s doctor says the oldest man elected president is “fully fit” to serve as commander in chief as the White House released result",
+      "url": "https://www.boston.com/news/politics/2025/04/13/trump-is-fully-fit-to-serve-as-commander-in-chief-his-doctor-says-after-recent-physical/",
+      "urlToImage": "https://bdc2020.o0bc.com/wp-content/uploads/2025/04/Trump_Physical_42057-67fc1ac53bc6b-768x432.jpg",
+      "publishedAt": "2025-04-13T20:17:18Z",
+      "content": "Politics Trump is ‘fully fit’ to serve as commander in chief, his doctor says after recent physical His physician, Navy Capt. Sean Barbabella, cited an “active lifestyle” that \"continues to contribute significantly” to the president's well-being. The... [6162 chars]",
+      "tags": [
+        "personal_family",
+        "health"
+      ],
+      "publishedAtTs": 1744575438
     }
   ]
 }

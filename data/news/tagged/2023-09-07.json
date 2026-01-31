@@ -412,7 +412,9 @@
       "urlToImage": "https://content.api.news/v3/images/bin/a0fafe3f115ef1ec7e49d2da4d7ca005",
       "publishedAt": "2023-09-07T20:57:00Z",
       "content": "Concussion substitute Marnus Labuschagne played a match-winning innings for Australia to trump an unbeaten century by South African captain Temba Bavuma in the first one-day international at the Mangaung Oval on Thursday.\nBavuma carried his bat for a... [2071 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1694120220
     },
     {

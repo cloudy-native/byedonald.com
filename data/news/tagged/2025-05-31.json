@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -16,10 +16,8 @@
       "content": "The White House unexpectedly pulled its nominee for NASA administrator, Jared Isaacman, on Saturday, removing a close ally of Elon Musk from consideration. President Donald Trump is expected to announce a new nominee soon, according to White House sp... [660 chars]",
       "tags": [
         "government_administration",
-        "space_policy",
-        "security_intelligence",
-        "foreign_policy",
-        "media_communications"
+        "cabinet",
+        "space_policy"
       ],
       "publishedAtTs": 1748735615
     },
@@ -36,9 +34,9 @@
       "publishedAt": "2025-05-31T23:15:41Z",
       "content": "NEW YORK (AP) — President Donald Trump’s doubling of tariffs on foreign steel and aluminum could hit Americans in an unexpected place: grocery aisles.\nThe staggering 50% levies on those imports took effect Wednesday, stoking fear that big-ticket purc... [4211 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "policy_legislation"
+        "economy_finance",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748733341
     },
@@ -56,9 +54,7 @@
       "content": "White House officials said Saturday that President Trump is withdrawing the nomination of tech billionaire Jared Isaacman, a close ally of Elon Musk, to run NASA. Trump made the decision after learning that Isaacman had made political donations to pr... [932 chars]",
       "tags": [
         "government_administration",
-        "government_operations",
-        "ethics",
-        "political_endorsements"
+        "personnel"
       ],
       "publishedAtTs": 1748731500
     },
@@ -75,9 +71,7 @@
       "publishedAt": "2025-05-31T22:40:13Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
       "tags": [
-        "government_administration",
-        "security_intelligence",
-        "foreign_policy"
+        "personnel"
       ],
       "publishedAtTs": 1748731213
     },
@@ -95,8 +89,7 @@
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
       "tags": [
         "government_administration",
-        "security_intelligence",
-        "personal_family"
+        "personnel"
       ],
       "publishedAtTs": 1748731213
     },
@@ -113,9 +106,7 @@
       "publishedAt": "2025-05-31T22:40:13Z",
       "content": "State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada N... [719 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
-        "federal_agencies"
+        "personnel"
       ],
       "publishedAtTs": 1748731213
     },
@@ -133,8 +124,7 @@
       "content": "The White House said Saturday it will announce a replacement candidate to serve as U.S. President Donald Trump’s pick to lead NASA, indicating it will withdraw the nomination of tech billionaire Jared Isaacman.\n“The Administrator of NASA will help le... [2757 chars]",
       "tags": [
         "government_administration",
-        "space_policy",
-        "security_intelligence"
+        "cabinet"
       ],
       "publishedAtTs": 1748729927
     },
@@ -151,9 +141,8 @@
       "publishedAt": "2025-05-31T22:09:17Z",
       "content": "A federal judge in San Francisco has blocked the Trump administration's attempt to rescind work permits and lawful status documents for roughly 5,000 Venezuelans. This decision comes after the U.S. Supreme Court allowed the termination of Temporary P... [780 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice",
-        "immigration"
+        "immigration",
+        "legal_justice"
       ],
       "publishedAtTs": 1748729357
     },
@@ -171,10 +160,7 @@
       "content": "Jared Isaacman won't be NASA's next chief after all.\nSemafor reported on Saturday (May 31) that President Donald Trump is pulling the nomination of Isaacman, a billionaire tech entrepreneur and private astronaut who has commanded and funded two Space... [3409 chars]",
       "tags": [
         "government_administration",
-        "government_operations",
-        "security_clearances",
-        "space_policy",
-        "executive_orders"
+        "personnel"
       ],
       "publishedAtTs": 1748728549
     },
@@ -191,11 +177,270 @@
       "publishedAt": "2025-05-31T21:22:00Z",
       "content": "Bono has criticised cuts to the US Agency for International Development (USAid) budget in a lengthy interview with influential US podcaster Joe Rogan.\nHe cited academic research by Brooke Nichols, a mathematician and professor of infectious diseases ... [2224 chars]",
       "tags": [
-        "foreign_policy",
         "policy_legislation",
-        "health_science"
+        "foreign_policy"
       ],
       "publishedAtTs": 1748726520
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "Judge blocks Trump administration from revoking protected status for thousands of Venezuelans",
+      "description": "A federal judge on Friday blocked the Trump administration from revoking the temporary protected status of roughly 5,000 Venezuelans who are in the U.S.",
+      "url": "https://www.nbcnews.com/politics/immigration/judge-blocks-trump-revoking-protected-status-thousands-venezuelans-rcna210153",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250421-kristi-noem-ew-1241p-6f7f96.jpg",
+      "publishedAt": "2025-05-31T21:11:10Z",
+      "content": "Create your free profile or log in to save this article\nCreate your free profile or log in to save this article\nA federal judge on Friday blocked the Trump administration from revoking the temporary protected status of roughly 5,000 Venezuelans who a... [2406 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748725870
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Musk's Bold Mars Mission: Uncrewed Starship Aiming for 2026",
+      "description": "Elon Musk plans to send an uncrewed Starship to Mars by the end of 2026. Despite recent test-flight setbacks, SpaceX's timeline remains ambitious. Musk shared these plans in a video presentation, shortly after announcing his departure from a campaign role in the Trump administration.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3442838-musks-bold-mars-mission-uncrewed-starship-aiming-for-2026",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/22_05_2025_15_46_52_3580973.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-31T21:00:26Z",
+      "content": "SpaceX CEO Elon Musk is undeterred by recent test-flight setbacks and aims to send an uncrewed Starship to Mars by the end of 2026. This ambitious plan was revealed just two days after the latest testing hurdle for the advanced spacecraft.\nIn a compr... [528 chars]",
+      "tags": [
+        "space_policy",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1748725226
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "50pc steel tariff to start on Wednesday",
+      "description": "US Defence Secretary Pete Hegseth warns urgency is needed to prepare for a potential Chinese invasion of Taiwan; Trade Minister Don Farrell lashes Donald Trump’s doubling of tariffs on steel. Follow updates live.",
+      "url": "https://www.afr.com/politics/federal/50pc-steel-tariff-to-start-on-wednesday-20250530-p5m3j2",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.273%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_133%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/da73f5de8e9cf57b1c23c9f567d7cd082eef8729",
+      "publishedAt": "2025-05-31T20:48:05Z",
+      "content": "US Defence Secretary Pete Hegseth pressed US partners in Asia to boost defence spending toward 5 per cent of gross domestic product, warning that more urgency is needed to prepare for a potential Chinese invasion of Taiwan.\nSpeaking in Singapore, Heg... [1458 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748724485
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "The Threat That Wasn't: Unraveling a Presidential Kill Plot",
+      "description": "Homeland Security Secretary Kristi Noem's claim about an immigrant threatening President Trump is falling apart. Investigations suggest Ramon Morales Reyes is being framed to prevent his testimony in an assault trial. Despite the dubious letter, Morales remains in custody amid ongoing legal proceedings.",
+      "url": "https://www.devdiscourse.com/article/law-order/3442831-the-threat-that-wasnt-unraveling-a-presidential-kill-plot",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2025_11_42_35_2998694.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-31T20:18:49Z",
+      "content": "Homeland Security Secretary Kristi Noem's dramatic announcement has come under scrutiny as her claim of an immigrant threatening President Donald Trump begins to disintegrate. Noem initially revealed the arrest of a 54-year-old man for threatening Tr... [819 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1748722729
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chicago Tribune"
+      },
+      "author": "Chicago Tribune",
+      "title": "Steel tariffs could hurt Trump's promise of lower grocery prices",
+      "description": "President Donald Trump’s doubling of tariffs on foreign steel and aluminum could hit Americans in an unexpected place: grocery aisles.",
+      "url": "https://www.chicagotribune.com/2025/05/31/tariffs-trump-lower-grocery-prices/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/05/Trump_Tariffs-Business_Response_40151_e03644.jpg?w=1024&h=682",
+      "publishedAt": "2025-05-31T20:16:25Z",
+      "content": "NEW YORK — President Donald Trump’s doubling of tariffs on foreign steel and aluminum could hit Americans in an unexpected place: grocery aisles.\nThe announcement Friday of a staggering 50% levy on those imports stoked fear that big-ticket purchases ... [4168 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748722585
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "Trump doubles steel, aluminium tariffs to 50% from June 4, exporters say ‘complicates trade talks’",
+      "description": "Trump steel tariffs 2025 | US aluminium tariffs news: This fresh tariff hike follows a similar increase earlier this year, when Trump raised tariffs on aluminium and steel to 25 per cent.",
+      "url": "https://indianexpress.com/article/business/trump-tells-us-steelworkers-he-will-double-tariffs-on-foreign-steel-to-50-per-cent-10039649/",
+      "urlToImage": "https://images.indianexpress.com/2025/05/Trump-Steel.jpg",
+      "publishedAt": "2025-05-31T20:04:42Z",
+      "content": "US steel tariffs update: US PRESIDENT Donald Trump Friday announced he would double import tariffs on steel to 50 per cent, a move that was termed “unfortunate” by India’s exporters, who said this made trade talks “much more difficult and complicated... [4225 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748721882
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "The Indian Express",
+      "title": "‘Totally unacceptable’: Trump envoy Steve Witkoff rejects Hamas response to US ceasefire proposal",
+      "description": "Hamas said in a statement that under the deal, it will release 10 living hostages and 18 bodies in return for Israel’s release of a number of Palestinian prisoners.",
+      "url": "https://indianexpress.com/article/world/hamas-ceasefire-response-trump-middle-east-envoy-us-ceasefire-proposal-10041029/",
+      "urlToImage": "https://images.indianexpress.com/2025/02/Steve-Witkoff-white-house.jpg",
+      "publishedAt": "2025-05-31T19:59:50Z",
+      "content": "Hours after Hamas said it has submitted its response on a ceasefire proposal presented by US to mediators, Donald Trump’s Middle East envoy, Steve Witkoff slammed the Palestinian group terming the response as “totally unacceptable and only takes us b... [460 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "gaza"
+      ],
+      "publishedAtTs": 1748721590
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "White House Set to Announce New NASA Administrator Nominee",
+      "description": "President Donald Trump is expected to announce a new nominee for NASA administrator after withdrawing support for the initial choice, Jared Isaacman. The White House has emphasized the importance of the nominee aligning with President Trump's America First agenda, with further details to follow.",
+      "url": "https://www.devdiscourse.com/article/politics/3442827-white-house-set-to-announce-new-nasa-administrator-nominee",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_12_10_51_4304562.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-31T19:48:45Z",
+      "content": "The White House disclosed that U.S. President Donald Trump is preparing to introduce a new candidate for the position of NASA administrator following the withdrawal of Jared Isaacman's nomination. The official announcement came on Saturday, sparking ... [589 chars]",
+      "tags": [
+        "government_administration",
+        "cabinet",
+        "federal_agencies"
+      ],
+      "publishedAtTs": 1748720925
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Hamas Rejects U.S. Ceasefire Proposal Amidst Ongoing Conflict",
+      "description": "Israeli Prime Minister Benjamin Netanyahu announced that Hamas has rejected U.S. President Donald Trump's envoy Steve Witkoff's proposal for a ceasefire in Gaza. Netanyahu emphasized Israel's commitment to ongoing military actions aimed at retrieving hostages and defeating Hamas forces in the region.",
+      "url": "https://www.devdiscourse.com/article/politics/3442826-hamas-rejects-us-ceasefire-proposal-amidst-ongoing-conflict",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_21_31_42_5852248.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-31T19:46:01Z",
+      "content": "Israeli Prime Minister Benjamin Netanyahu stated on Saturday that Hamas has turned down a ceasefire proposal put forth by U.S. President Donald Trump's Middle East envoy, Steve Witkoff.\nAs tensions remain high, Netanyahu reiterated Israel's determina... [366 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "gaza"
+      ],
+      "publishedAtTs": 1748720761
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Elon Musk lashes out in Oval Office when asked about report on ketamine use",
+      "description": "In an Oval Office send-off capping off his role with the Trump administration, Elon Musk did not respond when asked about a New York Times report alleging he's a near-daily user of ketamine.",
+      "url": "https://www.cbsnews.com/news/elon-musk-lashes-out-in-oval-office-when-asked-about-report-on-his-ketamine-use/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/05/31/6f93ca86-01b4-46ac-bc4c-cece9dd735a6/thumbnail/1200x630/86e37955dd05d96b34d18ac59fc4c4c2/ap25150694253695.jpg?v=15603985a4508c8e7bc83d8e4e73c5d0",
+      "publishedAt": "2025-05-31T19:39:51Z",
+      "content": "Trump says Musk is \"not really leaving\" as DOGE savings lag behind projections\nDuring an Oval Office send-off Friday marking the end of his formal role with the Trump administration, Elon Musk lashed out when asked about a New York Times report alleg... [3869 chars]",
+      "tags": [
+        "personal_family",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1748720391
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "German leader Friedrich Merz will meet Trump at the White House next week",
+      "description": "German Chancellor Friedrich Merz will travel to Washington next week to meet U.S. President Donald Trump, with the war in Ukraine and trade tensions among the items on the agenda.",
+      "url": "https://apnews.com/article/germany-merz-trump-washington-visit-560029c16d859d6ff6c11146937ac35a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d2413f6/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0a%2F5c%2F2f9df9c51aab91bd2bd5eefe516f%2F5b559d99ab814146bb03de4bdc821b8f",
+      "publishedAt": "2025-05-31T19:37:02Z",
+      "content": "BERLIN (AP) — German Chancellor Friedrich Merz will travel to Washington next week to meet U.S. President Donald Trump, with the war in Ukraine and trade tensions among the items on the agenda, the German government said Saturday.\nMerz’s office said ... [812 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "ukraine"
+      ],
+      "publishedAtTs": 1748720222
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC News"
+      },
+      "author": "NBC News",
+      "title": "U.S. envoy rejects Hamas ceasefire proposal as 'unacceptable'",
+      "description": "Hamas leaders said they were reviewing a ceasefire deal proposed by the Trump administration that had already received Israel's stamp of approval.",
+      "url": "https://www.nbcnews.com/world/middle-east/hamas-gaza-reviewing-us-ceasefire-deal-backed-israel-trump-rcna209907",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250530-Gaza-RS-b5a4f1.jpg",
+      "publishedAt": "2025-05-31T19:32:00Z",
+      "content": "U.S. special envoy to the Middle East Steve Witkoff on Saturday rejected a Hamas response to a ceasefire proposal as “totally unacceptable” and said the militant group should accept the proposal he has put forward.\nThe rejection, issued in a statemen... [2118 chars]",
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "gaza"
+      ],
+      "publishedAtTs": 1748719920
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Raw Story",
+      "title": "Watch: Dem lawmaker's aide handcuffed by Trump agency cops in 'chaotic' moment",
+      "description": "Rep. Jerry Nadler (D-NY)'s aide was arrested and video of the \"dramatic\" and \"chaotic\" incident was published online.\n\tThe Gothamist recently reported that U.S. Department of Homeland Security police had handcuffed one of Rep. Jerry Nadler aides in the congressmember's Manhattan office, \"which is...",
+      "url": "https://www.rawstory.com/nadler-aide-detained-by-trump/",
+      "urlToImage": "https://www.rawstory.com/media-library/new-york-ny-september-7-2020-congressman-jerry-nadler-speaks-at-us-senator-chuck-schumer-and-members-of-ny-house-delegation.jpg?id=60350069&width=1200&height=600&coordinates=0%2C83%2C0%2C84",
+      "publishedAt": "2025-05-31T19:26:16Z",
+      "content": "Rep. Jerry Nadler (D-NY)'s aide was arrested and video of the \"dramatic\" and \"chaotic\" incident was published online.\nThe Gothamist recently reported that U.S. Department of Homeland Security police had handcuffed one of Rep. Jerry Nadler aides in th... [1709 chars]",
+      "tags": [
+        "law_enforcement",
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1748719576
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Revolutionary COVID-19 Vaccine: Moderna's mNexspike Approved",
+      "description": "The US FDA approved Moderna's next-generation COVID-19 vaccine, mNexspike, for adults 65+ and at-risk individuals aged 12-64. This low-dose option enhances immunity with fewer restrictions compared to previous vaccines. The decision followed a study affirming its safety and effectiveness, despite financial hurdles from the Trump administration.",
+      "url": "https://www.devdiscourse.com/article/health/3442824-revolutionary-covid-19-vaccine-modernas-mnexspike-approved",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2025_05_17_21_6508859.png?width=920&format=jpeg",
+      "publishedAt": "2025-05-31T19:24:49Z",
+      "content": "In a significant development, the United States Food and Drug Administration (FDA) has granted approval to Moderna's latest COVID-19 vaccine, mNexspike. This marks a vital advancement in the fight against the coronavirus, providing a new low-dose opt... [739 chars]",
+      "tags": [
+        "health_science",
+        "public_health",
+        "medical_research"
+      ],
+      "publishedAtTs": 1748719489
     }
   ]
 }

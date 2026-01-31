@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 18,
   "articles": [
     {
       "source": {
@@ -15,9 +15,8 @@
       "publishedAt": "2025-04-25T23:55:50Z",
       "content": "In a way, Donald Trump has taught us a valuable lesson.\nHis assault on American democracy has shown how fragile and precious democratic institutions are. His contempt for our system of alliances has shown us how vulnerable we would be if that shield ... [3555 chars]",
       "tags": [
-        "foreign_policy",
-        "trade",
-        "policy_legislation"
+        "social_issues",
+        "elections_politics"
       ],
       "publishedAtTs": 1745625350
     },
@@ -36,9 +35,7 @@
       "tags": [
         "government_administration",
         "legal_justice",
-        "foreign_policy",
-        "regional_state",
-        "personal_family"
+        "foreign_policy"
       ],
       "publishedAtTs": 1745624799
     },
@@ -56,8 +53,7 @@
       "content": "More than half of voters described President Trump’s second term in office as “chaotic” and “scary” in a new poll released Friday.\nThe New York Times/Siena College poll found 66% of registered US voters felt the term “chaotic” described Trump’s secon... [1706 chars]",
       "tags": [
         "elections_politics",
-        "personal_family",
-        "crisis_emergency"
+        "polling"
       ],
       "publishedAtTs": 1745624717
     },
@@ -76,9 +72,7 @@
       "tags": [
         "government_administration",
         "legal_justice",
-        "elections_politics",
-        "media_communications",
-        "security_intelligence"
+        "elections_politics"
       ],
       "publishedAtTs": 1745623878
     },
@@ -95,11 +89,9 @@
       "publishedAt": "2025-04-25T23:28:32Z",
       "content": "The Trump administration launched an investigation into the University of California, Berkeley, on Friday centered on foreign funding, making it the latest university to be targeted by the federal government.\nThe investigation revives criticism from ... [3184 chars]",
       "tags": [
-        "federal_agencies",
-        "education",
-        "foreign_policy",
-        "china",
-        "security_clearances"
+        "government_administration",
+        "legal_justice",
+        "foreign_policy"
       ],
       "publishedAtTs": 1745623712
     },
@@ -116,12 +108,28 @@
       "publishedAt": "2025-04-25T23:07:50Z",
       "content": "Country\nUnited States of America US Virgin Islands United States Minor Outlying Islands Canada Mexico, United Mexican States Bahamas, Commonwealth of the Cuba, Republic of Dominican Republic Haiti, Republic of Jamaica Afghanistan Albania, People's So... [4996 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "legal_justice",
-        "regional_state"
+        "education",
+        "civil_rights"
       ],
       "publishedAtTs": 1745622470
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BradfordToday"
+      },
+      "author": "BradfordToday",
+      "title": "WATCH: As election day looms, Mark Carney joins our podcast for an exclusive chat",
+      "description": "Liberal Leader talks to Village Media's 'Inside the Village' podcast about Donald Trump, tariffs, stopping pucks — and his promise to never sneak the consumer carbon tax back into existence",
+      "url": "https://www.bradfordtoday.ca/closer-look/watch-as-election-day-looms-mark-carney-joins-our-podcast-for-an-exclusive-chat-10573010",
+      "urlToImage": "https://www.vmcdn.ca/f/files/local2/videos/inside-the-village/season4/s4-stills/itv_2000x1333_113.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-25T23:00:00Z",
+      "content": "Liberal Leader talks to Village Media's 'Inside the Village' podcast about Donald Trump, tariffs, stopping pucks — and his promise to never sneak the consumer carbon tax back into existence\nOn Monday, Canadians will cast their ballots in what many ar... [1230 chars]",
+      "tags": [
+        "elections_politics",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1745622000
     },
     {
       "source": {
@@ -138,7 +146,6 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "europe",
         "ukraine"
       ],
       "publishedAtTs": 1745622000
@@ -156,11 +163,27 @@
       "publishedAt": "2025-04-25T23:00:00Z",
       "content": "In front of hundreds of world leaders attending the funeral of Pope Francis on Saturday, Italian Cardinal Giovanni Battista Re called for care for migrants, an end to wars, and action on global climate change - Francis' favourite political themes.\nCa... [3397 chars]",
       "tags": [
-        "foreign_policy",
         "social_issues",
-        "health_science",
-        "government_administration",
-        "media_communications"
+        "immigration",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1745622000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Ukraine peace deal ‘very close’ Trump says as he meets world leaders in Rome",
+      "description": "Russia and Ukraine should meet at a ‘very high level’ in order to agree a peace deal, Donald Trump said as he gathered with world leaders.",
+      "url": "https://www.breakingnews.ie/world/ukraine-peace-deal-very-close-trump-says-as-he-meets-world-leaders-in-rome-1756130.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMjYwODEzMDlcXFwvZWRmMmEwOTU2NjQ4NDdmZmI5NmQ0MThmOGIwNDBkMjMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI3MWIwZWRiYjVkNjFjZTk4NTcwYWVmMzIzZDg4OTViMWY1ZGU0MWQ2In0=/ukraine-peace-deal-very-close-trump-says-as-he-meets-world-leaders-in-rome.jpg",
+      "publishedAt": "2025-04-25T23:00:00Z",
+      "content": "Russia and Ukraine are “very close” to a peace deal and should meet at a “very high level”, Donald Trump has said, as his administration continues to push for Kyiv to give away territory.\nThe US President will join Sir Keir Starmer and other world le... [2502 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine"
       ],
       "publishedAtTs": 1745622000
     },
@@ -178,9 +201,8 @@
       "content": "Ukrainian President Volodymyr Zelensky has said his meeting at the Vatican with US President Donald Trump could prove historic if the peaceful end to Ukraine's war with Russia that they discussed is achieved.\nThe meeting lasted about 15 minutes and t... [6950 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "russia",
-        "middle_east"
+        "ukraine",
+        "trump"
       ],
       "publishedAtTs": 1745622000
     },
@@ -198,10 +220,120 @@
       "content": "US President Donald Trump and Ukrainian leader Volodymyr Zelenskiy had a \"very productive\" meeting on Saturday in Rome, a White House official said, as both leaders attended the funeral of Pope Francis.\nA spokesman for Zelenskiy's office said the two... [3493 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
         "ukraine"
       ],
       "publishedAtTs": 1745622000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Russia says all Ukrainian troops have left Kursk region as Zelensky meets Trump",
+      "description": "US President Donald Trump and Ukrainian President Volodymyr Zelensky met in Vatican City on the sidelines of Pope Francis’s funeral.",
+      "url": "https://www.breakingnews.ie/world/russia-says-all-ukrainian-troops-have-left-kursk-region-as-zelensky-meets-trump-1756270.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMjYxMjAwMjNcXFwvOWJjMzNjMTM3YjJiNDQ2YjhmZWExMjA5ZWU2OGUwYjMuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJmNjIxNGU5MWIzN2MyMjg5YjRmZTI5OGRlMmY1MjJiNzk4NzIxMTZlIn0=/russia-says-all-ukrainian-troops-have-left-kursk-region-as-zelensky-meets-trump.jpg",
+      "publishedAt": "2025-04-25T23:00:00Z",
+      "content": "All Ukrainian troops have been forced from Russia’s Kursk region, Kremlin spokesperson Dmitry Peskov said.\nValery Gerasimov, chief of the general staff for Russia’s armed forces, gave Russian President Vladimir Putin the news in a meeting on Saturday... [2970 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1745622000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Zelenskiy says Vatican meeting with Trump could prove historic",
+      "description": "Zelenskiy says Vatican meeting with Trump could prove historic",
+      "url": "https://www.breakingnews.ie/world/zelenskiy-says-vatican-meeting-with-trump-could-prove-historic-1756356.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDRcXFwvMjYxNDU3MTZcXFwvR2V0dHlJbWFnZXMtMjIxMTQ0MzU5Ni1lMTc0NTY3NTg2OTU4MS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImMwNjFiYmVjMmQ4NWFmNjk2NTFmYjA0MDNiOGNiMWUwNzdlNDM1MGQifQ==/zelenskiy-says-vatican-meeting-with-trump-could-prove-historic.jpg",
+      "publishedAt": "2025-04-25T23:00:00Z",
+      "content": "Ukrainian president Volodymyr Zelenskiy said on Saturday his meeting at the Vatican with US president Donald Trump could prove historic if the peaceful end to Ukraine's war with Russia that they discussed is achieved.\n\"Good meeting. One-on-one, we ma... [509 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine"
+      ],
+      "publishedAtTs": 1745622000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky News"
+      },
+      "author": "Sky News",
+      "title": "FBI arrests US judge accused of helping man evade immigration authorities",
+      "description": "Judge Hannah Dugan has been accused of escorting a man and his lawyer out of her courtroom through the jury door, escalating tensions between the Trump administration and the US judiciary over the president's sweeping immigration crackdown.",
+      "url": "https://news.sky.com/story/fbi-arrests-us-judge-accused-of-helping-man-evade-immigration-authorities-13355660",
+      "urlToImage": "https://e3.365dm.com/25/04/1600x900/skynews-judge-hannah-dugan_6896780.jpg?20250425210505",
+      "publishedAt": "2025-04-25T22:47:00Z",
+      "content": "The FBI has arrested a US judge who is accused of helping a man evade immigration authorities.\nJudge Hannah Dugan allegedly escorted a man and his lawyer out of her Milwaukee courtroom through the jury door last week after learning that officials wer... [3372 chars]",
+      "tags": [
+        "law_enforcement",
+        "immigration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1745621220
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Sport Australia"
+      },
+      "author": "Yahoo Sport Australia",
+      "title": "2025 NFL Draft: Shedeur Sanders gets endorsement from President Trump after going unselected in first round",
+      "description": "\"What is wrong with NFL owners, are they STUPID?\"",
+      "url": "https://au.sports.yahoo.com/2025-nfl-draft-shedeur-sanders-gets-endorsement-from-president-trump-after-going-unselected-in-first-round-224335031.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4MBVfLBdCleyi1zWv48l_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://s.yimg.com/os/creatr-uploaded-images/2025-01/e5e0a490-debb-11ef-b7f7-21a4345e7dfa",
+      "publishedAt": "2025-04-25T22:43:36Z",
+      "content": "Shedeur Sanders going unselected in the first round was one of the biggest surprises of the 2025 NFL Draft Thursday night. And now it's turned into a bipartisan political issue.\nPresident Donald Trump posted a firm endorsement of the Colorado quarter... [4065 chars]",
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1745621016
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Verge"
+      },
+      "author": "The Verge",
+      "title": "Trump DOJ goon threatens Wikipedia",
+      "description": "Ed Martin, interim US attorney for DC, has written a letter to the Wikimedia Foundation, threatening its status as a nonprofit entity.",
+      "url": "https://www.theverge.com/news/656720/ed-martin-dc-attorney-wikipedia-nonprofit-threat",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK013_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-04-25T22:33:20Z",
+      "content": "is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\nInterim DC attorney Ed Martin has written a letter to the Wikimedia Foundation — the organization behi... [2326 chars]",
+      "tags": [
+        "legal_justice",
+        "media_communications"
+      ],
+      "publishedAtTs": 1745620400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vancouver Is Awesome"
+      },
+      "author": "Vancouver Is Awesome",
+      "title": "Trump calls for Ukraine and Russia to meet for 'very high level' talks, says they are close to deal",
+      "description": "ROME (AP) — President Donald Trump on Friday called for Ukraine and Russia to meet for “very high level talks,” saying they are “very close to a deal” on ending the bloody three-year war.",
+      "url": "https://www.vancouverisawesome.com/world-news/trump-calls-for-ukraine-and-russia-to-meet-for-very-high-level-talks-says-they-are-close-to-deal-10569517",
+      "urlToImage": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2025/04/06229ac57dd3937b87fcb6da2718c5222b78a786d3f47f8b3f8405f028e12213.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2025-04-25T22:30:07Z",
+      "content": "ROME (AP) — President Donald Trump on Friday called for Ukraine and Russia to meet for “very high level talks,” saying they are “very close to a deal” on ending the bloody three-year war.\nROME (AP) — President Donald Trump on Friday called for Ukrain... [6665 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "russia"
+      ],
+      "publishedAtTs": 1745620207
     }
   ]
 }

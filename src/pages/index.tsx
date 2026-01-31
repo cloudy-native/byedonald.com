@@ -94,16 +94,27 @@ const MonthView: React.FC<MonthViewProps> = ({
       variant = "solid";
     }
 
-    const dayButton = (
+    const dayButton = hasNews ? (
       <Button
-        as={hasNews ? Link : "button"}
-        to={hasNews ? `/news/${dateString}/` : undefined}
+        as={Link}
+        to={`/news/${dateString}/`}
         key={day}
         borderRadius="full"
         size="sm"
         variant={variant}
         colorScheme={colorScheme}
-        isDisabled={!hasNews}
+      >
+        {day}
+      </Button>
+    ) : (
+      <Button
+        as="button"
+        key={day}
+        borderRadius="full"
+        size="sm"
+        variant={variant}
+        colorScheme={colorScheme}
+        isDisabled
       >
         {day}
       </Button>
@@ -279,7 +290,7 @@ const IndexPage: React.FC<PageProps> = () => {
     }
   `);
 
-  const newsDates = new Set(
+  const newsDates = new Set<string>(
     data.allFile.nodes.map((node: { name: string }) => node.name),
   );
 

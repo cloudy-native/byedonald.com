@@ -129,7 +129,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/09/shutterstock_2572390491-1200x675.jpg",
       "publishedAt": "2025-09-18T14:10:23Z",
       "content": "Nvidia became one of competitor Intel’s largest shareholders on Thursday with a $5 billion stake. The two companies will collaborate to jointly develop PC chips and data centers.\r\nOnce the dominant n… [+3580 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1758204623
     },
     {
@@ -199,7 +202,12 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/04ce/live/42f0c840-94ab-11f0-a170-65cdc956211e.png",
       "publishedAt": "2025-09-18T17:09:08Z",
       "content": "Sir Keir Starmer and Donald Trump have delivered a joint press conference at the end of the US president's second state visit to the UK.\r\nThe press conference at the PM's country residence Chequers, … [+4695 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "immigration",
+        "legal_justice",
+        "media_communications"
+      ],
       "publishedAtTs": 1758215348
     },
     {
@@ -530,7 +538,10 @@
       "urlToImage": "https://i.insider.com/68cc3a5a57d362d375e86df2?width=1024&format=jpeg",
       "publishedAt": "2025-09-18T18:10:42Z",
       "content": "An Afghan National Army helicopter takes off inside Bagram Air Base following the departure of US forcesWakil Kohsar/AFP via Getty Images\r\n<ul><li>President Trump said again that the US wants to reop… [+3536 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "china"
+      ],
       "publishedAtTs": 1758219042
     },
     {
@@ -1600,7 +1611,9 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2236147439.jpg?quality=90&strip=all&crop=0%2C9.0321115948822%2C100%2C81.935776810236&w=1200",
       "publishedAt": "2025-09-18T22:55:05Z",
       "content": "People gather outside the El Capitan Entertainment Centre in Hollywood, where the Jimmy Kimmel Live! show is performed, on September 18, 2025.﻿ | Mario Tama/Getty Images\r\n\n\nThis story appeared in The… [+2548 chars]",
-      "tags": [],
+      "tags": [
+        "free_speech"
+      ],
       "publishedAtTs": 1758236105
     },
     {
@@ -1671,7 +1684,11 @@
       "urlToImage": "https://imagez.tmz.com/image/a7/16by9/2025/09/18/a7249ca41c864d58ad876b2fd8e72495_xl.jpg",
       "publishedAt": "2025-09-18T15:59:35Z",
       "content": "Barack Obama is coming out swinging in defense of the First Amendment in the wake of Jimmy Kimmel's TV show suspension ... accusing the Trump administration of trying to silence its critics.\r\nAfter i… [+1988 chars]",
-      "tags": [],
+      "tags": [
+        "free_speech",
+        "media_communications",
+        "trump"
+      ],
       "publishedAtTs": 1758211175
     },
     {
@@ -1816,7 +1833,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f39/live/cdfc62f0-94b0-11f0-9cf6-cbf3e73ce2b9.png",
       "publishedAt": "2025-09-18T17:17:14Z",
       "content": "World number one Judd Trump slipped to a 4-3 defeat against Elliot Slessor, while Shaun Murphy lost by the same score to Jackson Page in the fifth round of the English Open. \r\nSlessor, ranked 23rd in… [+793 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1758215834
     }
   ]

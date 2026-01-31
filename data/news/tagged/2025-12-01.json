@@ -14,7 +14,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/11/david-sacks-1200x675.jpg",
       "publishedAt": "2025-12-01T10:00:10Z",
       "content": "A new report from the New York Times digs into the financial disclosures of President Trumps AI and crypto czar, PayPal Mafia founding member David Sacks, and finds ample reason to doubt that he coul… [+4906 chars]",
-      "tags": [],
+      "tags": [
+        "ethics",
+        "government_administration"
+      ],
       "publishedAtTs": 1764583210
     },
     {
@@ -48,7 +51,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/12/crypto_mixer-1200x675.jpg",
       "publishedAt": "2025-12-01T18:35:39Z",
       "content": "European law enforcement struck a blow against those seeking increased privacy for their bitcoin, dismantling the CryptoMixer service in a coordinated operation that netted over 25 million in seized … [+4623 chars]",
-      "tags": [],
+      "tags": [
+        "cybersecurity",
+        "cryptocurrency"
+      ],
       "publishedAtTs": 1764614139
     },
     {
@@ -569,7 +575,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0DZZis84rCSvB7M1Z3n72Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the-tennessean/361ac5779f1e7b3ac8ebe46635908297",
       "publishedAt": "2025-12-01T18:28:26Z",
       "content": "With less than 24 hours to go before polls open in Tennessees special congressional election, U.S. House Speaker Mike Johnson walked on stage inside billionaire Willis Johnsons vintage car barn in Fr… [+8865 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "congress"
+      ],
       "publishedAtTs": 1764613706
     },
     {
@@ -1063,7 +1073,11 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03902-y/d41586-025-03902-y_51767196.jpg",
       "publishedAt": "2025-12-01T00:00:00Z",
       "content": "Chinese president Xi Jinping speaking at the 2025 Asia-Pacific Economic Cooperation meeting in Gyeongju, South Korea.Credit: Yonhap via AP/Alamy\r\nDespite risks ranging from exacerbating inequality to… [+5883 chars]",
-      "tags": [],
+      "tags": [
+        "ai_state_preemption",
+        "foreign_policy",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1764547200
     },
     {
@@ -1486,7 +1500,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP111217112403-1753854434.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-01T05:32:47Z",
       "content": "Work-related migration to wealthy countries fell by more than one-fifth last year, as labour markets weakened and countries including Australia and the United Kingdom tightened visa rules, according … [+6318 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "economy_finance"
+      ],
       "publishedAtTs": 1764567167
     },
     {
@@ -1539,7 +1556,10 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247836355-20251126153605878.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-12-01T16:01:37Z",
       "content": "President Donald Trump will hold a meeting at the White House on Monday evening about next steps on Venezuela, sources familiar with the matter told CNN, as the administration intensifies its pressur… [+2714 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1764604897
     },
     {
@@ -1574,7 +1594,11 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25332038588692.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2025-12-01T14:43:48Z",
       "content": "Intensifying US threats against Venezuela are raising expectations of imminent military action as President Donald Trump heaps pressure on the Caracas regime and flexes power in the Western Hemispher… [+10608 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1764600228
     },
     {
@@ -1646,7 +1670,10 @@
       "urlToImage": "https://theintercept.com/wp-content/uploads/2025/11/AP25050359924292.jpg?fit=5472%2C3648&w=1200&h=800",
       "publishedAt": "2025-12-01T14:32:01Z",
       "content": "A woman holds her HIV medication and a hospital records book at her home in Harare, Zimbabwe, on Feb. 7, 2025.  Photo: Aaron Ufumeli/AP Photo\r\nOn World AIDS Day 2025, humanity should be celebrating t… [+12723 chars]",
-      "tags": [],
+      "tags": [
+        "social_issues",
+        "health_science"
+      ],
       "publishedAtTs": 1764599521
     },
     {
@@ -1701,7 +1728,10 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2025/11/Gavin-Newsom.jpg?w=1024",
       "publishedAt": "2025-12-01T15:15:00Z",
       "content": "EXCLUSIVE: Later this week, Gavin Newsom will once again command a portion of the national spotlight.\r\nSet as the marquee interview for the New York Times‘ annual DealBook Summit, the California gove… [+9148 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics",
+        "2028_presidential"
+      ],
       "publishedAtTs": 1764602100
     },
     {

@@ -257,7 +257,6 @@ const TagTemplate: React.FC<PageProps<TagPageData, TagPageContext>> = ({
             );
           })}
         </SimpleGrid>
-        <PaginationControls />
       </VStack>
     </Box>
   );

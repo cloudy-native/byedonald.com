@@ -430,7 +430,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/08e347dc-0646-47d7-89c4-ee1b618b1550/251015_abc_social_erika_hpMain_16x9.jpg?w=992",
       "publishedAt": "2025-10-15T12:18:29Z",
       "content": "<ul><li>Air traffic controllers warn of travel impacts from government shutdown\r\n</li><li>Rising tensions over immigration raids\r\n</li><li>Trump says Hamas must disarm or we will disarm them\r\n</li><l… [+4611 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "social_issues"
+      ],
       "publishedAtTs": 1760530709
     },
     {
@@ -445,7 +449,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/d2d0b2fa-e358-4281-808e-86cfd69d6d8a/251015_abc_social_kirk_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-10-15T12:18:02Z",
       "content": "<ul><li>Air traffic controllers warn of travel impacts from government shutdown\r\n</li><li>Rising tensions over immigration raids\r\n</li><li>Trump says Hamas must disarm or we will disarm them\r\n</li><l… [+4611 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "personnel",
+        "legal_justice"
+      ],
       "publishedAtTs": 1760530682
     },
     {
@@ -573,7 +581,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/10/data-center-1200x675.jpg",
       "publishedAt": "2025-10-15T13:20:15Z",
       "content": "The data center industry is exploding, and server farms are popping up all over the world. As you might’ve guessed, much of the industry’s boom is built around the blossoming generative AI industry, … [+3417 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "technology_regulation",
+        "economy_finance"
+      ],
       "publishedAtTs": 1760534415
     },
     {
@@ -795,7 +807,11 @@
       "urlToImage": "https://media.zenfs.com/en/thedailybeast.com/34c1e9735b540ecf6c693eae967330eb",
       "publishedAt": "2025-10-15T10:47:36Z",
       "content": "MAGA Sen. Tim Sheehy froze after CNNs Kaitlan Collins fact-checked his defense of the Trump administrations decision to yank $1 billion in clean-energy funding from his own state.\r\nThe Montana Republ… [+2761 chars]",
-      "tags": [],
+      "tags": [
+        "policy_legislation",
+        "energy",
+        "government_administration"
+      ],
       "publishedAtTs": 1760525256
     },
     {
@@ -1303,7 +1319,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/AP25288740495663-1760566840.jpg?resize=1920%2C1440",
       "publishedAt": "2025-10-15T22:50:55Z",
       "content": "United States President Donald Trump has appeared to confirm a New York Times report that his administration authorised the Central Intelligence Agency (CIA) to carry out covert operations in Venezue… [+5379 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "venezuela_intervention"
+      ],
       "publishedAtTs": 1760568655
     },
     {
@@ -1393,7 +1412,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/10/GettyImages-495688274-1760524497.jpg?resize=1920%2C1440",
       "publishedAt": "2025-10-15T14:14:12Z",
       "content": "Ashley Tellis, a United States government adviser and expert on India-US relations, has been arrested and charged with unlawfully retaining national defence information and allegedly meeting with Chi… [+9515 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice",
+        "foreign_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1760537652
     },
     {
@@ -1619,7 +1642,9 @@
       "urlToImage": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
       "publishedAt": "2025-10-15T22:48:00Z",
       "content": "The top stories and football transfer rumours from Thursday's newspapers...\r\nManchester City are plotting a £75m bid for Nottingham Forest midfielder Elliot Anderson next summer but are likely to fac… [+3809 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1760568480
     },
     {

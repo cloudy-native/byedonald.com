@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-05-18T23:58:25Z",
       "content": "A MAGA influencer who has the president's ear is spreading conspiracy theories following former President Joe Biden's recent cancer announcement.\nLaura Loomer, who has been credited for getting certain White House officials fired because of her influ... [1501 chars]",
       "tags": [
-        "personal_business",
-        "media_communications",
-        "security_intelligence"
+        "social_issues",
+        "elections_politics",
+        "media_communications"
       ],
       "publishedAtTs": 1747612705
     },
@@ -34,10 +34,8 @@
       "publishedAt": "2025-05-18T23:26:42Z",
       "content": "Our community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time. More info\nFormer US President Joe Biden has been diagnosed with an \"aggressive\" form of prostate cancer, which doctor... [5009 chars]",
       "tags": [
-        "social_media",
-        "media_communications",
-        "elections_politics",
-        "crisis_emergency"
+        "social_issues",
+        "personal_family"
       ],
       "publishedAtTs": 1747610802
     },
@@ -54,9 +52,11 @@
       "publishedAt": "2025-05-18T23:20:57Z",
       "content": "In an unexpected turn of events, Republicans are working diligently to revive a major tax cut and border security package following an initial setback. Speaker Mike Johnson is leading the effort after the measure was blocked during a committee vote.\n... [564 chars]",
       "tags": [
+        "taxes",
         "policy_legislation",
-        "economy_finance",
-        "government_administration"
+        "immigration",
+        "budget",
+        "leadership"
       ],
       "publishedAtTs": 1747610457
     },
@@ -73,9 +73,8 @@
       "publishedAt": "2025-05-18T23:12:46Z",
       "content": "Marjorie Taylor Greene said Sunday she isn't satisfied with what Donald Trump's administration has so far been able to accomplish.\nAfter commenting on former President Joe Biden's cancer diagnosis, the MAGA ally turned to X to talk about how little T... [1000 chars]",
       "tags": [
-        "government_administration",
-        "elections_politics",
-        "media_communications"
+        "republican_party",
+        "trump"
       ],
       "publishedAtTs": 1747609966
     },
@@ -93,7 +92,6 @@
       "content": "Brussels and London will be largely satisfied with the Brexit reset deal, announced with some fanfare at Lancaster House, and the direction of travel towards a closer relationship is now clear.\nThe election of a Labour government was always going to ... [12527 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
         "nato"
       ],
       "publishedAtTs": 1747609200
@@ -112,10 +110,7 @@
       "content": "Britain has agreed the most significant reset of defence and trade ties with the European Union since Brexit after US President Donald Trump's upending of the global order pushed the two sides to move on from their acrimonious divorce.\nNearly nine ye... [4744 chars]",
       "tags": [
         "foreign_policy",
-        "europe",
-        "nato",
-        "trade",
-        "economy_finance"
+        "trade"
       ],
       "publishedAtTs": 1747609200
     },
@@ -132,10 +127,8 @@
       "publishedAt": "2025-05-18T22:32:59Z",
       "content": "GREENVILLE, S.C. (FOX Carolina) - Officials announced that Former President Joe Biden has been diagnosed with prostate cancer.\nThe announcement was released on Sunday.\nMultiple government officials have spoken out after the announcement, including Pr... [1532 chars]",
       "tags": [
-        "health",
-        "government_administration",
-        "legal_justice",
-        "security_intelligence"
+        "personal_family",
+        "health"
       ],
       "publishedAtTs": 1747607579
     },
@@ -152,11 +145,8 @@
       "publishedAt": "2025-05-18T22:31:50Z",
       "content": "A medical scholar and physician known for mocking Republicans is asking questions about former President Joe Biden's cancer diagnosis.\nIt was announced on Sunday that Biden had been diagnosed with an \"aggressive\" form of prostate cancer. Donald Trump... [1531 chars]",
       "tags": [
-        "health",
-        "personal_legal",
-        "media_communications",
-        "legal_justice",
-        "elections_politics"
+        "personal_family",
+        "health_science"
       ],
       "publishedAtTs": 1747607510
     },
@@ -173,8 +163,8 @@
       "publishedAt": "2025-05-18T22:26:23Z",
       "content": "President Donald Trump expressed his sympathies to former President Joe Biden regarding the news of his prostate cancer diagnosis. He wished for Biden to have a speedy recovery.\nTrump made the comments in a social media post on his Truth Social accou... [1413 chars]",
       "tags": [
-        "statements",
-        "social_media"
+        "personal_family",
+        "health"
       ],
       "publishedAtTs": 1747607183
     },
@@ -192,10 +182,284 @@
       "content": "In a setback for Europe’s surging nationalist forces, Nicusor Dan, a centrist mayor and former mathematics professor, on Sunday won the presidential election in Romania, defeating a hard-right candidate who is aligned with President Trump and has opp... [931 chars]",
       "tags": [
         "elections_politics",
-        "foreign_policy",
-        "europe"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747607004
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Raw Story",
+      "title": "'Neocon traitor': MAGA erupts at Mike Pence over criticism of Trump's policies",
+      "description": "Former Vice President Mike Pence said it was disheartening to see President Donald Trump revert to the same kind of rhetoric in his second term that had contributed to the January 6 Capitol riot.In an interview with NBC aired Sunday, Pence also voiced criticism of Trump’s tariff strategy and various...",
+      "url": "https://www.rawstory.com/neocon-traitor-mike-pence-maga/",
+      "urlToImage": "https://www.rawstory.com/media-library/u-s-president-elect-donald-trump-shakes-hands-with-former-u-s-vice-president-mike-pence-on-the-day-of-the-state-funeral-for-fo.jpg?id=55526944&width=1200&height=600&coordinates=0%2C284%2C0%2C284",
+      "publishedAt": "2025-05-18T22:06:57Z",
+      "content": "Former Vice President Mike Pence said it was disheartening to see President Donald Trump revert to the same kind of rhetoric in his second term that had contributed to the January 6 Capitol riot.\nIn an interview with NBC aired Sunday, Pence also voic... [2539 chars]",
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1747606017
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Biden's Health Battle: Facing Prostate Cancer with Resilience",
+      "description": "Former President Joe Biden has been diagnosed with prostate cancer, which has spread to his bones. Despite its aggressive nature, the cancer is hormone-sensitive, providing treatment options. Political figures, including Donald Trump and Kamala Harris, offered support. Biden's health was a significant concern during his presidency.",
+      "url": "https://www.devdiscourse.com/article/health/3416912-bidens-health-battle-facing-prostate-cancer-with-resilience",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_01_2025_14_44_59_8408741.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-18T22:06:31Z",
+      "content": "Former President Joe Biden has been diagnosed with prostate cancer, according to an announcement from his office on Sunday. The diagnosis came after doctors discovered urinary symptoms and a prostate nodule last week.\nFollowing a thorough examination... [712 chars]",
+      "tags": [
+        "personal_family",
+        "health"
+      ],
+      "publishedAtTs": 1747605991
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Inquisitr"
+      },
+      "author": "The Inquisitr",
+      "title": "Melania Wouldn’t Wear These Revealing Looks Today-But She Definitely Owned Them Back Then",
+      "description": "Melania Trump's fashion choices were not always so chic and formal. In her younger modeling days she wore some bold and revealing outfits that she wont now!",
+      "url": "https://www.inquisitr.com/melania-wouldnt-wear-these-revealing-looks-today-but-she-definitely-owned-them-back-then",
+      "urlToImage": "https://www.inquisitr.com/wp-content/uploads/2025/05/Melanias-PreWhite-House-Wardrobe-Was-Bolder-Than-You-Remember.jpg",
+      "publishedAt": "2025-05-18T21:58:09Z",
+      "content": "Melania Trump’s fashion sense has changed over the years and become more suitable for her role at the White House. But it wasn’t always so formal. The current First Lady has been a model in her younger days.\nWhen she met Trump for the first time she ... [2423 chars]",
+      "tags": [
+        "personal_family",
+        "personal_activities"
+      ],
+      "publishedAtTs": 1747605489
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UPI News"
+      },
+      "author": "UPI News",
+      "title": "House Budget Committee plans late Sunday vote on 'Big Beautiful Bill\"",
+      "description": "The House Budget Committee has scheduled a rare Sunday night session in an attempt to advance President Donald Trump's \"One Big Beautiful Bill Act.\"",
+      "url": "https://www.upi.com/Top_News/US/2025/05/18/House-Budget-Committee-vote-Big-Beautifyl-Bill/2361747599193/",
+      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/2361747599193/2025/1/a93d31f8de3d940f143a1493f6f5efdd/v1.5/House-Budget-Committee-plans-late-Sunday-vote-on-Big-Beautiful-Bill.jpg",
+      "publishedAt": "2025-05-18T21:51:57Z",
+      "content": "Speaker of the House Mike Johnson, R-LA, speaks to the media after opening the House floor at the U.S. Capitol on Thursday. He wants the \"Big Beautiful Bill\" to pass before Memorial Day. Photo by Bonnie Cash/UPI | License Photo\nMay 18 (UPI) -- The Ho... [5110 chars]",
+      "tags": [
+        "policy_legislation",
+        "budget"
+      ],
+      "publishedAtTs": 1747605117
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsweek"
+      },
+      "author": "Newsweek",
+      "title": "President Trump Reacts to Biden's Prostate Cancer Diagnosis",
+      "description": "\"Melania and I are saddened to hear about Joe Biden's recent medical diagnosis,\" the president wrote on Sunday on social media.",
+      "url": "https://www.newsweek.com/president-trump-reacts-biden-prostate-cancer-diagnosis-2073875",
+      "urlToImage": "https://d.newsweek.com/en/full/2646955/joe-biden-donald-trump-health.png",
+      "publishedAt": "2025-05-18T21:49:37Z",
+      "content": "Based on facts, either observed and verified firsthand by the reporter, or reported and verified from knowledgeable sources.\nNewsweek AI is in beta. Translations may contain inaccuracies—please refer to the original content.\nPresident Donald Trump wi... [4507 chars]",
+      "tags": [
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1747604977
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Raw Story",
+      "title": "Trump breaks silence on Joe Biden's cancer diagnosis",
+      "description": "Just a couple of hours after it was reported that former President Joe Biden was diagnosed with cancer, Donald Trump weighed in.Biden was reported to have been diagnosed with an \"aggressive\" form of prostate cancer, and his family is reportedly considering the treatment options. Prior to Trump chimi...",
+      "url": "https://www.rawstory.com/trump-response-to-biden-cancer/",
+      "urlToImage": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-attends-a-press-conference-at-trump-national-golf-club-i.jpg?id=53698106&width=1200&height=600&coordinates=0%2C459%2C0%2C459",
+      "publishedAt": "2025-05-18T21:45:15Z",
+      "content": "Just a couple of hours after it was reported that former President Joe Biden was diagnosed with cancer, Donald Trump weighed in.\nBiden was reported to have been diagnosed with an \"aggressive\" form of prostate cancer, and his family is reportedly cons... [691 chars]",
+      "tags": [
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1747604715
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chicago Tribune"
+      },
+      "author": "Chicago Tribune",
+      "title": "Anti-Trump protest Sunday stretches from Aurora to Chicago",
+      "description": "Protestors gathered along sidewalks from Chicago to Aurora in a “human chain of solidarity” protesting Trump administration policies.",
+      "url": "https://www.chicagotribune.com/2025/05/18/hands-across-chicagoland-event-stretches-from-aurora-to-chicago-to-protest-trump-administration/",
+      "urlToImage": "https://www.chicagotribune.com/wp-content/uploads/2025/05/ABN-L-TRUMPPROTEST-0519-01-e1747603789183.jpg?w=1024&h=565",
+      "publishedAt": "2025-05-18T21:34:59Z",
+      "content": "Julie Stuebner, 74, of Batavia calls herself a “late in life protestor.” She’s started going to all the protests she can in the area during President Donald Trump’s second term.\nAmong other issues, she’s concerned about possible cuts to programs like... [5029 chars]",
+      "tags": [
+        "social_issues",
+        "protests",
+        "trump"
+      ],
+      "publishedAtTs": 1747604099
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Inquisitr"
+      },
+      "author": "The Inquisitr",
+      "title": "Forget Melania and Donald-Tiffany Trump’s Age Gap with Her Husband Is the Twist You Missed",
+      "description": "Tiffany Trump and Michael Boulos have kept much of their relationship private, but one surprising detail just raised eyebrow!",
+      "url": "https://www.inquisitr.com/forget-melania-and-donald-tiffany-trumps-age-gap-with-her-husband-is-the-twist-you-missed",
+      "urlToImage": "https://www.inquisitr.com/wp-content/uploads/2025/05/Tiffany-Trump-with-Her-Husband-Michael-Boulos.jpg",
+      "publishedAt": "2025-05-18T21:28:03Z",
+      "content": "Tiffany Trump has always kept her love life a bit more low-key than the rest of her famous family, so it’s no surprise that one detail about her relationship with Michael Boulos has mostly flown under the radar. Their age difference.\nWhile Melania an... [3142 chars]",
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1747603683
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Inquisitr"
+      },
+      "author": "The Inquisitr",
+      "title": "Rare Occasions When the Trump Women Decided to Ditch the Glam for a No-Makeup Look",
+      "description": "Trump women are often spotted with faces full of makeup and neatly styled hair. Here's a list of the times the women ditched the polished look for a more laid back no-makeup-look.",
+      "url": "https://www.inquisitr.com/rare-occasions-when-the-trump-women-decided-to-ditch-the-glam-for-a-no-makeup-look",
+      "urlToImage": "https://www.inquisitr.com/wp-content/uploads/2025/05/Ivanka-Trump-and-Tiffany-Trump.jpg",
+      "publishedAt": "2025-05-18T21:07:21Z",
+      "content": "The women of the Trump family are often seen with a face full of makeup and polished hair. They often sport a face full of dramatic makeup appropriate for the camera. Loud eye shadows, a glossy lip, flawless base makeup, and curled hair are a common ... [2532 chars]",
+      "tags": [
+        "personal_family",
+        "personal_activities"
+      ],
+      "publishedAtTs": 1747602441
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Insider"
+      },
+      "author": "Business Insider",
+      "title": "Trump Tells Walmart to ‘Eat the Tariffs’ as the Retailer Hikes Prices amid ‘Unprecedented’ Tariff Pressure",
+      "description": "Walmart (WMT) is raising prices, while other retail giants are taking notice. The world’s largest retailer said it would increase prices on a br...",
+      "url": "https://markets.businessinsider.com/news/stocks/trump-tells-walmart-to-eat-the-tariffs-as-the-retailer-hikes-prices-amid-unprecedented-tariff-pressure-1034740343",
+      "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/05/image-1147.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "publishedAt": "2025-05-18T21:00:42Z",
+      "content": "Walmart (WMT) is raising prices, while other retail giants are taking notice. The world’s largest retailer said it would increase prices on a broad range of products starting in late May, citing higher costs from tariffs on Chinese and Latin American... [3066 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1747602042
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Centrist Victory Shocks Right-Wing Challenger in Romania",
+      "description": "Romania's centrist Bucharest mayor, Nicusor Dan, has emerged victorious in the presidential race, defeating hard-right rival George Simion. Dan's pro-European campaign focused on fighting corruption and supporting Ukraine, in contrast to Simion's eurosceptic, Trump-inspired policies. The result highlights a shift away from right-wing populism in Romania.",
+      "url": "https://www.devdiscourse.com/article/politics/3416897-centrist-victory-shocks-right-wing-challenger-in-romania",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_57_14_7140931.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-18T20:59:43Z",
+      "content": "Nicusor Dan, a centrist and the mayor of Bucharest, has stunned many by winning Romania's presidency, defeating hard-right candidate George Simion. Official results showed Dan leading with 54% of the votes, while Simion, a Trump supporter, garnered 4... [477 chars]",
+      "tags": [
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1747601983
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Russia Unleashes One of Its Largest Drone Barrages of the Ukraine War",
+      "description": "The bombardment, which Ukrainian officials said mostly targeted Kyiv, came just a day before President Trump was expected to talk with President Vladimir V. Putin of Russia.",
+      "url": "https://www.nytimes.com/2025/05/18/world/europe/russia-ukraine-drones.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/05/18/multimedia/18int-ukraine-drones-photo-pmtb/18int-ukraine-drones-photo-pmtb-facebookJumbo.jpg",
+      "publishedAt": "2025-05-18T20:58:33Z",
+      "content": "Russia targeted Ukraine on Sunday with one of its largest drone bombardments of the war, an apparent show of force only a day before President Trump is expected to talk with President Vladimir V. Putin as Mr. Trump pushes Russia to accept a cease-fir... [809 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1747601913
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Scott Bessent admits Trump’s tariffs may mean Walmart shoppers pay more",
+      "description": "Treasury Secretary Scott Bessent acknowledged that Walmart, the largest US retailer, may pass along some of the costs from President Donald Trump’s tariffs to its shoppers through higher prices.",
+      "url": "https://nypost.com/2025/05/18/business/scott-bessent-admits-trumps-tariffs-may-mean-walmart-shoppers-pay-more/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/newspress-collage-fv48m16im-1747599022009.jpg?quality=75&strip=all&1747584679&w=1024",
+      "publishedAt": "2025-05-18T20:44:29Z",
+      "content": "WASHINGTON — Treasury Secretary Scott Bessent acknowledged Sunday that Walmart, the largest US retailer, may pass along some of the costs from President Donald Trump’s tariffs to its shoppers through higher prices.\nBessent described his call with the... [4502 chars]",
+      "tags": [
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747601069
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Devdiscourse"
+      },
+      "author": "Devdiscourse",
+      "title": "Biden's Cancer Diagnosis Raises Health Concerns and Political Questions",
+      "description": "Former President Joe Biden, 82, is facing an aggressive form of prostate cancer that has spread to his bones. Diagnosed after experiencing urinary symptoms, Biden's diagnosis adds to ongoing scrutiny of his health. The political landscape shifted as he withdrew from reelection, leading to a Trump victory.",
+      "url": "https://www.devdiscourse.com/article/politics/3416890-bidens-cancer-diagnosis-raises-health-concerns-and-political-questions",
+      "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_01_2025_14_44_59_8408741.jpg?width=920&format=jpeg",
+      "publishedAt": "2025-05-18T20:41:38Z",
+      "content": "Former U.S. President Joe Biden has been diagnosed with an aggressive form of prostate cancer that has metastasized to his bones, according to a statement from his office released on Sunday. The news follows Biden's recent urinary symptoms that promp... [760 chars]",
+      "tags": [
+        "health",
+        "personal_family"
+      ],
+      "publishedAtTs": 1747600898
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Insider"
+      },
+      "author": "Business Insider",
+      "title": "Trump admin concerned with potential Apple deal with Alibaba, Reuters says",
+      "description": "The White House and officials are scrutinizing Apple’s (AAPL) plan to enter a deal with Alibaba (BABA) that would make the Chinese company’s AI ...",
+      "url": "https://markets.businessinsider.com/news/stocks/trump-admin-concerned-with-potential-apple-deal-with-alibaba-reuters-says-1034740427",
+      "urlToImage": "https://markets.businessinsider.com/apple-touch-icon.png",
+      "publishedAt": "2025-05-18T20:35:06Z",
+      "content": "The White House and officials are scrutinizing Apple’s (AAPL) plan to enter a deal with Alibaba (BABA) that would make the Chinese company’s AI available on iPhones in China, Reuters reports. Authorities are concerned the deal would help a Chinese co... [434 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1747600506
     }
   ]
 }

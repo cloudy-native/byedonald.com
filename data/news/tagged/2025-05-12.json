@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 10,
+  "totalResults": 25,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-05-12T23:54:28Z",
       "content": "President Trump’s tariffs brought in $7.6 billion more in customs payments in April than what the US collected the previous month as duties on imported goods ramped up, the Treasury Department said Monday.\nThe customs duties in April totaled $16 bill... [3698 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "taxes"
+        "economy_finance",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1747094068
     },
@@ -35,8 +35,7 @@
       "content": "Open this photo in gallery: The Yangshan Port in Shanghai, China, on Feb. 1.THE NEW YORK TIMES/The New York Times News Service\nStrike up the band and break out the champagne. Happy days are here again. Right?\nAfter the United States and China announc... [4753 chars]",
       "tags": [
         "economy_finance",
-        "trade",
-        "stock_market"
+        "trade"
       ],
       "publishedAtTs": 1747093840
     },
@@ -54,8 +53,7 @@
       "content": "What is President Trump thinking? He’s bragging of winning a $400 million “gift” — a “palace in the sky” Boeing 747-8 jet — from Qatar that, in effect, he’ll eventually own personally.\nSorry, this “gift” is far from free; Qatar will surely expect som... [2847 chars]",
       "tags": [
         "foreign_policy",
-        "economy_finance",
-        "personal_family"
+        "ethics"
       ],
       "publishedAtTs": 1747093832
     },
@@ -72,11 +70,8 @@
       "publishedAt": "2025-05-12T23:48:07Z",
       "content": "Open this photo in gallery: Afrikaner refugees from South Africa arrive holding American flags, May 12, at Dulles International Airport in Dulles, Va.Julia Demaree Nikhinson/The Associated Press\nThe first group of a few dozen white South Africans has... [4626 chars]",
       "tags": [
-        "foreign_policy",
         "immigration",
-        "legal_justice",
-        "social_issues",
-        "regional_state"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747093687
     },
@@ -93,11 +88,8 @@
       "publishedAt": "2025-05-12T23:45:20Z",
       "content": "CAPE TOWN, South Africa (AP) — The Trump administration brought a small number of white South Africans to the United States as refugees Monday. It says it’s the start of a larger relocation effort for members of the minority Afrikaner group who are b... [5623 chars]",
       "tags": [
-        "foreign_policy",
         "immigration",
-        "africa",
-        "racial_justice",
-        "legal_justice"
+        "foreign_policy"
       ],
       "publishedAtTs": 1747093520
     },
@@ -115,10 +107,8 @@
       "content": "US President Donald Trump is set to visit three key Gulf nations this week: Saudi Arabia, Qatar, and the UAE. The trip marks his first state visit of his second term, and the Gulf states are keen to secure deals and strengthen their ties with the US.... [2901 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
-        "economy_finance",
-        "security_intelligence",
-        "military"
+        "trade",
+        "energy"
       ],
       "publishedAtTs": 1747093515
     },
@@ -135,9 +125,8 @@
       "publishedAt": "2025-05-12T23:44:35Z",
       "content": "Two cheers for the US-China trade-war pause Donald Trump and Xi Jinping managed to hammer out over the weekend.\nThe accord takes tariffs on both sides down significantly, from 125% to 10% on US goods flowing to China and from 145% to 30% on Chinese g... [1794 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "trade"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1747093475
     },
@@ -154,11 +143,9 @@
       "publishedAt": "2025-05-12T23:44:01Z",
       "content": "US president Donald Trump has defended Qatar’s offer of a luxury Boeing 747 jet to temporarily serve as Air Force One, calling it a “very nice gesture” from a US ally — even as the move continues to ignite fierce criticism over its legality, optics, ... [7120 chars]",
       "tags": [
-        "government_administration",
         "foreign_policy",
-        "security_intelligence",
-        "personal_family",
-        "media_communications"
+        "government_administration",
+        "legal_justice"
       ],
       "publishedAtTs": 1747093441
     },
@@ -175,11 +162,8 @@
       "publishedAt": "2025-05-12T23:31:53Z",
       "content": "To advance President Donald Trump’s sweeping tax cuts, House Republicans on Monday unveiled a proposal that could hand him a powerful new tool to go after his political enemies.\nThe House Ways and Means Committee will meet Tuesday for a mark-up sessi... [3668 chars]",
       "tags": [
-        "government_operations",
-        "taxes",
         "policy_legislation",
-        "legal_justice",
-        "security_intelligence"
+        "taxes"
       ],
       "publishedAtTs": 1747092713
     },
@@ -197,10 +181,285 @@
       "content": "Joe Biden “totally fucked us” by leaving it too late to drop out of the 2024 US presidential election, a former top campaign aide to Kamala Harris has told the authors of a new book.\nDavid Plouffe, who was manager of Barack Obama’s winning 2008 campa... [4353 chars]",
       "tags": [
         "elections_politics",
-        "media_communications",
-        "personal_family"
+        "2024_presidential",
+        "campaign_events"
       ],
       "publishedAtTs": 1747092310
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Globe and Mail"
+      },
+      "author": "The Globe and Mail",
+      "title": "Trump says new order will lower U.S. drug prices and increase them everywhere else",
+      "description": "The U.S. is unusual among developed countries in not having some form of price controls on pharmaceuticals",
+      "url": "https://www.theglobeandmail.com/business/economy/article-trump-wants-us-drug-prices-down-global-prices-up/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/57R7L3HDDZBS7I7YC7AGYRPI3I.JPG?auth=7097b63d85726c47a768324f1077777a8bb4104397240ca1bfb745a08be7e69f&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2025-05-12T23:21:42Z",
+      "content": "Open this photo in gallery: U.S. President Donald Trump has vowed to made medication more affordable and has signed multiple orders he says will lead to lower prices.Reuters\nU.S. President Donald Trump has signed a new executive order that he says wi... [5006 chars]",
+      "tags": [
+        "economy_finance",
+        "healthcare"
+      ],
+      "publishedAtTs": 1747092102
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "StatCan travel data may be ‘consequential’",
+      "description": "A new Statistics Canada report found that Canadian return trips from the U.S. substantially declined, a trend that one professor says reflects the effectiveness of the Canadian movement boycotting American products and travel to protest the Donald Trump administration.",
+      "url": "https://www.cp24.com/news/canada/2025/05/12/new-data-showing-canadians-are-avoiding-us-may-be-consequential-says-professor/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/74SOG3QI4QIONZIUJGIXPDGYDA.jpg?smart=true&auth=c6ad6834e91d45d3d4e48459c19e4ed3ef141a9d85939a49a4766942ff23b90a&width=1200&height=630",
+      "publishedAt": "2025-05-12T23:20:46Z",
+      "content": "For the fourth straight month, Canadians are choosing to spend their tourism dollars anywhere but the U.S. Genevieve Beauchemin breaks down the numbers.\nA new Statistics Canada report found that Canadian-resident return trips from the United States s... [6552 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "foreign_policy",
+        "canada"
+      ],
+      "publishedAtTs": 1747092046
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "First Afrikaners arrive in US as part of resettlement programme",
+      "description": "South Africa denies Trump claims white farmers are being brutally killed",
+      "url": "https://www.irishtimes.com/world/2025/05/13/first-afrikaners-arrive-in-us-as-part-of-resettlement-programme/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/EGBD7HODGNSWLJUHLPTT5BI4RI.jpg?smart=true&auth=ee641fd30b2335dfd7ea73b127c7003f481fa77fee5bea056772a3aee060da98&width=1200&height=630",
+      "publishedAt": "2025-05-12T23:16:00Z",
+      "content": "The first group of Afrikaners after they arrived at Washington Dulles International Airport on Monday. Photograph: Getty Images\nDozens of Afrikaners arrived in the US from South Africa on Monday, the first beneficiaries of a controversial resettlemen... [3562 chars]",
+      "tags": [
+        "immigration",
+        "africa"
+      ],
+      "publishedAtTs": 1747091760
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Illinois governor to block federal access to personal data on autism",
+      "description": "Illinois Gov. JB Pritzker has signed a first-in-the-nation executive order to block the federal government from collecting personal health data related to autism, a direct rebuke to the Trump administration.",
+      "url": "https://www.cp24.com/news/world/2025/05/12/illinois-governor-is-first-in-us-to-block-federal-access-to-personal-data-on-autism/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/NTWGASAFMN2WXR5WPRAIZNED5M.jpg?smart=true&auth=929164686a4f3166242cbb3b31a2c230ed1dc691807a9824e04c0e41e81a2fd3&width=1200&height=630",
+      "publishedAt": "2025-05-12T23:08:32Z",
+      "content": "Illinois Gov. JB Pritzker has signed a first-in-the-nation executive order to block the federal government from collecting personal health data related to autism, a direct rebuke to the Trump administration.\nDemocrat Pritzker, who has been one of the... [3209 chars]",
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "healthcare"
+      ],
+      "publishedAtTs": 1747091312
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Australian Financial Review"
+      },
+      "author": "The Australian Financial Review",
+      "title": "One part of the market didn’t surge last night. We shouldn’t ignore it",
+      "description": "Donald Trump’s tariff backflip means investors are suddenly supported by several tailwinds. But there are some who are justifiably still screaming caution.",
+      "url": "https://www.afr.com/chanticleer/trump-is-folding-on-everything-markets-are-right-to-rip-higher-20250513-p5lynk",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3146%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_11/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/6580fd3d5be3d69ee7216de829dd19c5e72f49c7",
+      "publishedAt": "2025-05-12T23:01:59Z",
+      "content": "As US Treasury Secretary Scott Bessent did the rounds of American television channels on Monday night to triumphantly trumpet his de-escalation of the US-China tariff war before Wall Street began trading for the day, he was asked a rather awkward que... [391 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747090919
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sean Penn says he’d work with Woody Allen again ‘in a heartbeat’",
+      "description": "The actor, who was speaking on The Louis Theroux Podcast, also cast new light on his meeting with former Syrian president Bashar al-Assad, and had harsh comments on both Donald Trump and Elon Musk",
+      "url": "https://www.theguardian.com/film/2025/may/13/sean-penn-woody-allen-louis-theroux-podcast-donald-trump-elon-musk",
+      "urlToImage": "https://i.guim.co.uk/img/media/e3f739b36576fdabb791831ce372dd7adeaa0f97/0_109_1112_889/master/1112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57abae1e9b91759527db6da5b1b85a83",
+      "publishedAt": "2025-05-12T23:01:24Z",
+      "content": "Sean Penn has reiterated his defence of Woody Allen, saying he would “work with him in a heartbeat”.\nPenn was speaking on The Louis Theroux Podcast, and told Theroux that while he felt he didn’t know Allen well enough to know for certain that “100% t... [4458 chars]",
+      "tags": [
+        "personal_family",
+        "media_communications"
+      ],
+      "publishedAtTs": 1747090884
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump and Saudi prince sign agreements as US leader begins Middle East tour",
+      "description": "Crown Prince Mohammed bin Salman warmly greeted Mr Trump as he stepped off Air Force One at King Khalid International Airport.",
+      "url": "https://www.breakingnews.ie/world/trump-and-saudi-prince-sign-agreements-as-us-leader-begins-middle-east-tour-1762513.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMxNTM4MDdcXFwvNjllNTgyNDRkODAwNDkzYWJmN2JiYWZjODZmMTQwZTEuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyMzdiNGM0MzkyNDcyNDA3NWUyYjQ4NTViZTdjZDAxMzJjMDcxMjUwIn0=/trump-and-saudi-prince-sign-agreements-as-us-leader-begins-middle-east-tour.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "Donald Trump has signed a host of economic and bilateral co-operation agreements in Saudi Arabia as he kicked off a four-day Middle East trip with a focus on dealmaking with a key regional ally.\nThe US president’s visit came against a backdrop of sha... [4174 chars]",
+      "tags": [
+        "foreign_policy",
+        "trade_negotiations_truces",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "White House correspondents protest lack of wire reporters on Air Force One",
+      "description": "No wire service reporters, who supply reports to news outlets around the world, were on the plane to the Middle East with President Trump.",
+      "url": "https://www.breakingnews.ie/world/white-house-correspondents-protest-lack-of-wire-reporters-on-air-force-one-1762321.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMwMTQyMjhcXFwvZmFmZGM3YjFlZWJmNDcwN2JhNTA2ZDdkNzkwZDMzOWUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIyYTMyZjJiYmM0NjUwNDQ1MGNhYTc1MjY2N2NiNTRjYWVlMWViMDcxIn0=/white-house-correspondents-protest-lack-of-wire-reporters-on-air-force-one.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "The group representing White House journalists said it was disturbed the Trump administration barred wire service news reporters from travelling with the president on Air Force One to the Middle East.\nNo reporters from The Associated Press (AP), Bloo... [1311 chars]",
+      "tags": [
+        "media_communications",
+        "press_relations"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump gives Saudi speech urging Iran towards a ‘new and a better path’",
+      "description": "The US president kicked off a four-day Middle Eastern trip on Tuesday with a visit to the Saudi capital Riyadh.",
+      "url": "https://www.breakingnews.ie/world/trump-gives-saudi-speech-urging-iran-towards-a-new-and-a-better-path-1762589.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMxNzQ1MjZcXFwvMjYzYjBjODA4YWRmNDFkNzkzY2UyOTYxZDNkYzAxNTUuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzMGUzMmM2YTg4YTI2MmViMDBlNmQ2ZGQ4MTYzYTliOGQyNWU1ZjA0In0=/trump-gives-saudi-speech-urging-iran-towards-a-new-and-a-better-path.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "Donald Trump has given a speech in Saudi Arabia urging Iran to take a “new and a better path” as he pushes for a new nuclear deal.\nThe president said at the US-Saudi investment conference, during a four-day Middle East trip, that he wants to avoid co... [3551 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "De Niro condemns Trump as ‘America’s philistine president’ at Cannes opening",
+      "description": "The 81-year-old actor was presented with an honorary Palme d’Or by Leonardo DiCaprio.",
+      "url": "https://www.breakingnews.ie/world/de-niro-condemns-trump-as-americas-philistine-president-at-cannes-opening-1762620.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMxOTU3MzNcXFwvN2I4ZGE1ZDkzNTA4NDAxYzg1Nzk3NmFiODE4YjBiYTIuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZTA4NDFhNDA2YzQ3YWJhZDJiMTA4ZmY1ZTg3MTNhYzI2MTcxYjM3In0=/de-niro-condemns-trump-as-america-s-philistine-president-at-cannes-opening.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "Much of the cinema world, including Robert De Niro, Leonardo DiCaprio and Quentin Tarantino, have descended on the Cannes Film Festival as the 78th edition of the French Riviera extravaganza got under way.\nOver the next 12 days, Cannes will play host... [5357 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Saudi crown prince welcomes Trump to kingdom as he begins Middle East tour",
+      "description": "The president is paying an early visit to the kingdom after the crown prince promised to pump hundreds of billions of dollars into new US investments.",
+      "url": "https://www.breakingnews.ie/world/saudi-crown-prince-welcomes-trump-to-kingdom-as-he-begins-middle-east-tour-1762347.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMwNzUxMTFcXFwvMjRkZTc2ODQ4NjQwNDU5MDg4NzU4YzlkZDQyOWI2ZjEtMy5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImQwN2RjM2NhMWYzOWUxNWUzYTA0MDgzODJjZDFjY2QxMjgyZjYyZDkifQ==/saudi-crown-prince-welcomes-trump-to-kingdom-as-he-begins-middle-east-tour.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "President Donald Trump opened his four-day Mideast trip on Tuesday by paying a visit to Saudi Arabia’s de facto ruler, Crown Prince Mohammed bin Salman, for talks on US efforts to dismantle Iran’s nuclear programme, end the war in Gaza, hold down oil... [4907 chars]",
+      "tags": [
+        "foreign_policy",
+        "middle_east",
+        "trade"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BreakingNews.ie"
+      },
+      "author": "BreakingNews.ie",
+      "title": "Trump says US to lifts Syria sanctions, secures $600 billion Saudi deal",
+      "description": "The surprise announcement about sanctions on Syria would be a huge boost for a country that has been shattered by more than a decade of civil war. Rebels led by current President Ahmed al-Sharaa toppled President Bashar al-Assad last December.",
+      "url": "https://www.breakingnews.ie/world/trump-says-us-to-lifts-syria-sanctions-secures-600-billion-saudi-deal-1762628.html",
+      "urlToImage": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjVcXFwvMDVcXFwvMTMyMDE0MDlcXFwvR2V0dHlJbWFnZXMtMjIxNDg1OTQ1MS1lMTc0NzE2MzY5Mjg4OS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pbWFnZXNcXFwvbm8taW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjY4NzI3MTMyMzlmYjdjNDk2OTQwMDVjM2I4MDgyYTg5ZjUwMmYxNGQifQ==/trump-says-us-to-lifts-syria-sanctions-secures-600-billion-saudi-deal.jpg",
+      "publishedAt": "2025-05-12T23:00:00Z",
+      "content": "President Donald Trump announced on Tuesday that the U.S. will lift long-standing sanctions on Syria, and secured a $600 billion commitment from Saudi Arabia to invest in the United States on a trip to the Gulf.\nThe US agreed to sell Saudi Arabia an ... [4909 chars]",
+      "tags": [
+        "foreign_policy",
+        "sanctions",
+        "trade"
+      ],
+      "publishedAtTs": 1747090800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Trump's China deal is no victory, just a bandage on economy",
+      "description": "If it always seemed likely that there’d be a fig-leaf deal with China, there isn’t even a fig leaf here — just a promise to keep talking and perhaps fashion one later.",
+      "url": "https://nypost.com/2025/05/12/opinion/trumps-china-deal-is-no-victory-just-a-bandage-on-economy/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/2024-give-details-substantial-progress-104315796.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-12T22:58:33Z",
+      "content": "Never mind.\nPresident Trump’s 145% tariffs on China ran smack into Stein’s law, the late economist Herb Stein’s famous axiom that “if something cannot go on forever, it will stop.”\nWhat was effectively an instant embargo on the biggest importer into ... [3792 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1747090713
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PerthNow"
+      },
+      "author": "PerthNow",
+      "title": "Kyle Snyder: US Olympic gold medallist arrested in Columbus prostitution sting",
+      "description": "A US Olympic gold medallist and former Donald Trump adviser has been arrested for allegedly engaging in prostitution during a police sting.",
+      "url": "https://www.perthnow.com.au/sport/kyle-snyder-us-olympic-gold-medallist-arrested-in-columbus-prostitution-sting--c-18672955",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-18672955/888004b6b048025b5ec0c2fbe9e703a074525a49-16x9-x0y234w4178h2350.jpg?imwidth=1200",
+      "publishedAt": "2025-05-12T22:54:25Z",
+      "content": "One of the greatest amateur wrestlers in history, boasting an Olympic gold medal, has been arrested for engaging in prostitution during a police sting in the US.\nKyle Snyder, a poster boy for the US Olympic movement and a former Donald Trump administ... [1692 chars]",
+      "tags": [
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1747090465
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "New York Post",
+      "title": "Energy company threatens to pull plug on wind farm off Long Island shore as Trump review sparks $50M a week in losses",
+      "description": "A Norwegian-based energy company said it will have to scrap a controversial wind power project off the coast of New York \"within days\" -- and thousands of jobs that come with it -- unless the Trump administration lifts a stay on construction.",
+      "url": "https://nypost.com/2025/05/12/us-news/energy-company-threatens-to-pull-plug-on-wind-farm-off-long-island-shore-as-trump-review-sparks-50m-a-week-in-losses/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/05/104333454.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-05-12T22:52:05Z",
+      "content": "The energy company behind a partially completed wind farm off Long Island’s coast warned it will scrap the project “within days” if it’s kept in limbo by the Trump administration.\nNorwegian-based Equinor said it’s losing a whopping $50 million a week... [3646 chars]",
+      "tags": [
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1747090325
     }
   ]
 }

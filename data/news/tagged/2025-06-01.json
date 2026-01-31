@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 9,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -16,8 +16,9 @@
       "content": "Patricia Krenwinkel, a former member of the Manson 'family', has been recommended for parole by a California prisons panel. Serving a life sentence for her involvement in the notorious 1969 murders, Krenwinkel, now 77, reportedly poses minimal risk o... [760 chars]",
       "tags": [
         "legal_justice",
-        "policy_legislation",
-        "economy_finance"
+        "immigration",
+        "trade_negotiations_truces",
+        "security_intelligence"
       ],
       "publishedAtTs": 1748822096
     },
@@ -34,9 +35,8 @@
       "publishedAt": "2025-06-01T23:00:40Z",
       "content": "A person holds up a sign during a news conference and rally by immigrant justice organizations and advocates protesting ICE arrests in San Francisco, Wednesday, May 28, 2025. (AP Photo/Jeff Chiu, File)\nWASHINGTON — A widely anticipated list of \" sanc... [2669 chars]",
       "tags": [
-        "government_operations",
         "immigration",
-        "federal_agencies"
+        "legal_justice"
       ],
       "publishedAtTs": 1748818840
     },
@@ -53,10 +53,8 @@
       "publishedAt": "2025-06-01T22:26:00Z",
       "content": "Conservative historian Karol Nawrocki, who draws inspiration from Donald Trump, is set to narrowly win Poland's presidential election, according to a late exit poll.\nAn Ipsos poll said Mr Nawrocki has secured 50.7% of votes while his opponent, the Li... [3539 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
         "elections_politics",
-        "regional_state"
+        "foreign_policy"
       ],
       "publishedAtTs": 1748816760
     },
@@ -74,10 +72,7 @@
       "content": "Workers’ rights across every continent in the world are in a “freefall”, according to the 2025 Global Rights Index released by the International Trade Union Confederation, the largest trade union federation in the world.\nThe index noted workers’ righ... [3693 chars]",
       "tags": [
         "labor",
-        "policy_legislation",
-        "social_issues",
-        "economy_finance",
-        "crisis_emergency"
+        "social_issues"
       ],
       "publishedAtTs": 1748815524
     },
@@ -94,9 +89,9 @@
       "publishedAt": "2025-06-01T21:56:47Z",
       "content": "The Australian sharemarket fell on Monday as the latest developments in US President Donald Trump’s global trade war weighed on investor appetite for risk assets.\nThe S & P/ASX 200 slipped 0.2 per cent, or by 20.6 points, to 8414.1 at the close, with... [2978 chars]",
       "tags": [
-        "economy_finance",
         "trade",
-        "stock_market"
+        "economy_finance",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748815007
     },
@@ -113,11 +108,8 @@
       "publishedAt": "2025-06-01T21:05:00Z",
       "content": "US president Donald Trump speaks at the US Steel-Irvin Works near Pittsburgh on Friday, where he announced the doubling of steel and aluminium tariffs. (Photo by Jeff Swensen/Getty Images)\nThe latest decision by Donald Trump to double the level of ta... [2750 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy",
-        "government_administration",
-        "policy_legislation"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748811900
     },
@@ -135,8 +127,7 @@
       "content": "Incoming MP Tim Wilson says his campaign, which wrestled the seat of Goldstein back into the Liberal column, was optimistic and hopeful about the future.\nHe says his campaign presented a clear vision and purpose that resonated with people and gave th... [577 chars]",
       "tags": [
         "foreign_policy",
-        "government_administration",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1748810952
     },
@@ -172,12 +163,289 @@
       "publishedAt": "2025-06-01T19:19:43Z",
       "content": "Scott Bessent \"confident\" U.S.-China trade details \"will be ironed out\" when Trump, Xi talk\nTreasury Secretary Scott Bessent on Sunday defended the Trump administration's escalating tariff policies, saying that while some companies have already annou... [3284 chars]",
       "tags": [
-        "economy_finance",
-        "foreign_policy",
-        "policy_legislation",
-        "government_administration"
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1748805583
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ABC News"
+      },
+      "author": "ABC News",
+      "title": "Donald Trump is so convinced of his mandate that he is battling the courts",
+      "description": "Donald Trump's team is fighting one of the most consequential legal cases in US history, but there are plenty more where that came from — 250 lawsuits are currently featuring his administration.",
+      "url": "https://www.abc.net.au/news/2025-06-02/donald-trump-unitary-executive-theory/105362150",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/cce77d09f7370e9185048afc6e3f50b5?impolicy=wcms_watermark_news&cropH=1476&cropW=2624&xPos=0&yPos=142&width=862&height=485&imformat=generic",
+      "publishedAt": "2025-06-01T18:57:06Z",
+      "content": "The only problem with the financial markets' merciless new acronym for the US president — TACO, for Trump Always Chickens Out — is the word \"always\".\nAs usual, market players think that if something is happening now it will happen always; they do it ... [8647 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "trump"
+      ],
+      "publishedAtTs": 1748804226
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Exclusive: US veterans agency orders scientists not to publish in journals without clearance",
+      "description": "Move that seeks political control of doctors’ and scientists’ published research fits a pattern of censorship by the Trump administration, veterans advocates say",
+      "url": "https://www.theguardian.com/us-news/2025/jun/01/us-veterans-affairs-agency-doctors-scientists-research",
+      "urlToImage": "https://i.guim.co.uk/img/media/0959738ff0c11245d84d2a6a57a3bdc0da6c21b3/317_0_3167_2534/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57778b893dd6d848af3bd27e198323dd",
+      "publishedAt": "2025-06-01T18:31:24Z",
+      "content": "Senior officials at the US Department of Veterans Affairs have ordered that VA physicians and scientists not publish in medical journals or speak with the public without first seeking clearance from political appointees of Donald Trump, the Guardian ... [5218 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1748802684
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "China hits back against Trump claims that it broke trade truce as tensions simmer",
+      "description": "Recent developments have damped optimism that the two superpowers will reach a lasting deal.",
+      "url": "https://www.livemint.com/global/china-hits-back-against-trump-claims-that-it-broke-trade-truce-as-tensions-simmer-11748846402835.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/CHINA-US-ECONOMY-TRADE-TARIFF-5_1748846724983_1748846746194.jpg",
+      "publishedAt": "2025-06-01T18:30:00Z",
+      "content": "China has pushed back against President Trump’s accusation that it broke a trade truce reached just weeks earlier, as a re-escalation of tensions dim hopes of a resolution.\nBeijing has acted responsibly and upheld the consensus reached at the economi... [2176 chars]",
+      "tags": [
+        "china",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1748802600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Climate startups are pausing operations, cutting staff and entering bankruptcy as Trump policies bite",
+      "description": "Department of Energy announced $3.7 billion worth of funding cuts for clean-energy and climate projects on Friday—in latest blow to green sector.",
+      "url": "https://www.livemint.com/industry/climate-startups-are-pausing-operations-cutting-staff-and-entering-bankruptcy-as-trump-policies-bite-11748874398133.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/im-48431345_1748874402775_1748874638929.jpg",
+      "publishedAt": "2025-06-01T18:30:00Z",
+      "content": "Climate startups are feeling the impact of President Trump’s attacks on the energy-transition sector, as funding and job cuts, operational halts and bankruptcies rack up.\nFrom carbon capture to solar power, companies across the clean-tech spectrum ar... [6627 chars]",
+      "tags": [
+        "environment",
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748802600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "The Trump Organization has expanded globally since the 2024 election. See where.",
+      "description": "The company and its partners have announced 12 overseas deals, greatly exceeding those made during the entirety of the first Trump administration.",
+      "url": "https://www.livemint.com/global/the-trump-organization-has-expanded-globally-since-the-2024-election-see-where-11748874467062.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/02/1600x900/QATAR-US-REAL-ESTATE-9_1748875509982_1748876062305.jpg",
+      "publishedAt": "2025-06-01T18:30:00Z",
+      "content": "President Trump pledged to bring business back to the U.S. His own company has been doing more business overseas than ever before.\nSince the November election, the Trump Organization, the family’s flagship real-estate firm, and its partners have publ... [4634 chars]",
+      "tags": [
+        "personal_business"
+      ],
+      "publishedAtTs": 1748802600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Trump’s presidency has only seen federal spending rise so far",
+      "description": "The widely publicized cuts of the US Department of Government Efficiency (DOGE) under Elon Musk have failed to prevent more of the same. Volatile federal tax revenue and high social security spending continue.",
+      "url": "https://www.livemint.com/opinion/online-views/donald-trump-federal-revenue-social-security-medicare-medicaid-tax-cuts-federal-debt-income-taxes-tariffs-doge-elon-musk-11748784783036.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/01/1600x900/Elon_Musk_leaves_Donald_Trump_govt_DOGE_news_US_1748489967261_1748785161149.jpg",
+      "publishedAt": "2025-06-01T18:30:00Z",
+      "content": "Amid the layoffs, cancelled programmes and other cutbacks in Washington since Donald Trump moved back into the White House in January, one thing hasn’t changed: Federal spending has just kept going up.\nSpending since 21 January is up 8.7% over the eq... [4689 chars]",
+      "tags": [
+        "economy_finance",
+        "budget",
+        "social_security"
+      ],
+      "publishedAtTs": 1748802600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Irish Mirror"
+      },
+      "author": "Irish Mirror",
+      "title": "Tulsi Gabbard wants Fox News-style briefings for Trump as he 'doesn't read'",
+      "description": "The Trump administration's national intelligence team is reportedly discussing ways to create Fox News-style briefings for the president, which could involve hiring a Fox News anchor to host the video briefings, granting them a high-level security clearance.",
+      "url": "https://www.irishmirror.ie/news/tulsi-gabbard-wants-fox-news-35320375",
+      "urlToImage": "https://i2-prod.irishmirror.ie/news/article35320374.ece/ALTERNATES/s1200/0_GettyImages-2198555636.jpg",
+      "publishedAt": "2025-06-01T18:24:09Z",
+      "content": "Our community members are treated to special offers, promotions and adverts from us and our partners. You can check out at any time. More info\nTop intelligence officials are contemplating ways to better tailor their briefings to President Donald Trum... [4084 chars]",
+      "tags": [
+        "media_communications",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1748802249
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CP24 Toronto"
+      },
+      "author": "CP24 Toronto",
+      "title": "Trump says he's withdrawing nomination of Jared Isaacman",
+      "description": "U.S. President Donald Trump said he is withdrawing the nomination of tech billionaire Jared Isaacman, an associate of Trump adviser Elon Musk, to lead NASA, saying he reached the decision after a “thorough review” of Isaacman’s ”prior associations.”",
+      "url": "https://www.cp24.com/news/world/2025/06/01/trump-says-hes-withdrawing-the-nomination-of-musk-associate-jared-isaacman-to-lead-nasa/",
+      "urlToImage": "https://www.cp24.com/resizer/v2/E4LVFMYF5T5FX57JRGFKSD25T4.jpg?smart=true&auth=59ee50d0aadd44f0c8ec590feaa467953bea9b7c1009b772b869981471e7981a&width=1200&height=630",
+      "publishedAt": "2025-06-01T18:00:12Z",
+      "content": "WASHINGTON — U.S. President Donald Trump said he is withdrawing the nomination of tech billionaire Jared Isaacman, an associate of Trump adviser Elon Musk, to lead NASA, saying he reached the decision after a “thorough review” of Isaacman’s ”prior as... [2126 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1748800812
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump's \"one big beautiful bill\" holdout Sen. Rand Paul says \"the math doesn't really add up\"",
+      "description": "GOP Sen. Rand Paul said Sunday that \"the math doesn't really add up\" on the cost of President Trump's \"one big beautiful bill,\" outlining his opposition as the legislation moves to the Senate this week.",
+      "url": "https://www.cbsnews.com/news/rand-paul-trump-one-big-beautiful-bill-math-face-the-nation-06-01-2025/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/06/01/16688707-37d7-49dd-b988-9d56ed175c2a/thumbnail/1200x630/0d7b87317ac6482f2cf69a4e0dab2e90/1748796410839.png?v=15603985a4508c8e7bc83d8e4e73c5d0",
+      "publishedAt": "2025-06-01T17:52:08Z",
+      "content": "Trump \"one, big beautiful bill\" holdout Sen. Rand Paul says \"the math doesn't really add up\"\nWashington — Sen. Rand Paul, a Kentucky Republican, said Sunday that \"the math doesn't really add up\" on the cost of President Trump's \"one big beautiful bil... [4052 chars]",
+      "tags": [
+        "policy_legislation",
+        "budget"
+      ],
+      "publishedAtTs": 1748800328
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Vought says Trump may not need Congress’s approval to cut federal workforce",
+      "description": "Amid bipartisan opposition, director of management and budget office says Trump prefers to use ‘executive tools’",
+      "url": "https://www.theguardian.com/us-news/2025/jun/01/russell-vought-congress-federal-workforce",
+      "urlToImage": "https://i.guim.co.uk/img/media/a53821260b38cc7980268dc8c60149a7db4dd55a/339_0_3393_2714/master/3393.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df264d2e1350601d98c1539195181065",
+      "publishedAt": "2025-06-01T17:51:04Z",
+      "content": "Russell Vought, the director of the office of management and budget (OMB), on Sunday cast doubt on the constitutional obligation of the White House to ask Congress to sign off on Donald Trump’s massive cuts to the federal workforce spearheaded by Elo... [3645 chars]",
+      "tags": [
+        "government_administration",
+        "personnel",
+        "executive_orders"
+      ],
+      "publishedAtTs": 1748800264
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Welspun Group sees strong US business despite US tariffs, expands into water management",
+      "description": "Welspun Corp is benefiting from Trump’s big support for the local US oil industry, which is is seeing a surge of investments. There is a huge demand for pipes, causing their prices to increase and Welspun Corp is doubling down on the business.",
+      "url": "https://www.livemint.com/industry/welspun-group-sees-strong-us-biz-despite-tariffs-expands-water-management-11748525467932.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2025/06/01/1600x900/2-0-114152185-MK-AV915-STEEL-0_1681806265943_1748778547224.JPG",
+      "publishedAt": "2025-06-01T17:38:52Z",
+      "content": "On Thursday morning, Welspun Corp stock was up 10% on highest volumes of shares traded on any day in the past twelve months. The stock closed at its 52-week peak of ₹895 on the BSE. The company, which makes steel pipes for transporting oil, had just ... [5848 chars]",
+      "tags": [
+        "trade",
+        "economy_finance",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1748799532
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "White House pulls nomination for Trump's pick to lead NASA",
+      "description": "Billionaire entrepreneur Jared Isaacman, who has close ties to Elon Musk, was President Trump's pick to serve as NASA administrator.",
+      "url": "https://www.cbsnews.com/news/white-house-pull-nomination-jared-isaacman-nasa/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/05/31/7fedf351-209e-4449-a722-63792b018f00/thumbnail/1200x630g2/36afcc246049bfaf140ed853a640d847/gettyimages-2209386518.jpg?v=bf13c71e7181bf2db128edf777c4aecf",
+      "publishedAt": "2025-06-01T17:36:00Z",
+      "content": "The White House is pulling the nomination for billionaire entrepreneur Jared Isaacman, President Trump's pick to lead NASA, just days before a Senate confirmation vote was set to take place.\n\"After a thorough review of prior associations, I am hereby... [3054 chars]",
+      "tags": [
+        "government_administration",
+        "personnel"
+      ],
+      "publishedAtTs": 1748799360
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The Guardian view on Trump and children: protect the innocent from this dark vision of the US soul",
+      "description": "Editorial: Republicans say they want more babies, but seek to strip away healthcare and food support, undermine migrant families and remove labour protections for the young",
+      "url": "https://www.theguardian.com/commentisfree/2025/jun/01/the-guardian-view-on-trump-and-children-protect-the-innocent-from-this-dark-vision-of-the-us-soul",
+      "urlToImage": "https://i.guim.co.uk/img/media/1277881dce00a17598b53b29e50e92c6ce9fee63/153_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=bf6c96e8220a1b24cb3a902aa835e3ea",
+      "publishedAt": "2025-06-01T17:30:18Z",
+      "content": "“There can be no keener revelation of a society’s soul than the way in which it treats its children,” Nelson Mandela observed 30 years ago. Though the ugly heart of the Trump administration has hardly been hidden, there is an especially grotesque con... [3416 chars]",
+      "tags": [
+        "social_issues",
+        "healthcare",
+        "labor",
+        "immigration"
+      ],
+      "publishedAtTs": 1748799018
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Teen trans athlete at center of rightwing attacks wins track events in California",
+      "description": "AB Hernandez, 16, ties for first place in two events as Trump administration threatens to withhold federal funding",
+      "url": "https://www.theguardian.com/society/2025/jun/01/teen-trans-athlete-ab-hernandez",
+      "urlToImage": "https://i.guim.co.uk/img/media/162326bb830d12acdf4b1129b573997fb42fd9ff/542_0_4293_3435/master/4293.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba01d2d3ef94f5799aa38373ab941944",
+      "publishedAt": "2025-06-01T17:06:45Z",
+      "content": "A teenage transgender athlete in California, who has been at the center of widespread political attacks by rightwing pundits and the Trump administration, won in two track events over the weekend. The 16-year-old athlete, AB Hernandez, tied for first... [3042 chars]",
+      "tags": [
+        "social_issues",
+        "lgbtq_rights"
+      ],
+      "publishedAtTs": 1748797605
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US budget chief calls fears that cuts to benefits will lead to deaths ‘totally ridiculous’",
+      "description": "Russ Vought dismisses fears that Trump’s sweeping tax-cut bill will slash federal safety net programs",
+      "url": "https://www.theguardian.com/us-news/2025/jun/01/trump-tax-bill-white-house-budget-director",
+      "urlToImage": "https://i.guim.co.uk/img/media/d0d1dd12ac23ee76779bf8f029cf6b0ff795f722/1306_0_6540_5233/master/6540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=23cb97c89847d56f87b14b3d9dd1158a",
+      "publishedAt": "2025-06-01T16:00:21Z",
+      "content": "The White House budget director Russ Vought on Sunday dismissed as “totally ridiculous” fears expressed by voters that cuts to benefits in the huge spending bill passed by the House will lead to premature deaths in America.\nDonald Trump’s One Big Bea... [3686 chars]",
+      "tags": [
+        "budget",
+        "policy_legislation",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1748793621
     }
   ]
 }

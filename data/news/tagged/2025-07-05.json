@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 93,
+  "totalResults": 97,
   "articles": [
     {
       "source": {
@@ -15,9 +15,9 @@
       "publishedAt": "2025-07-05T10:30:00Z",
       "content": "In recent years, North Korea has deployed thousands of so-called IT workers to infiltrate Western businesses, get paid salaries, and send money back to support the regime. As the schemes have become … [+5574 chars]",
       "tags": [
-        "cybersecurity",
         "security_intelligence",
-        "technology_regulation"
+        "cybersecurity",
+        "foreign_policy"
       ],
       "publishedAtTs": 1751711400
     },
@@ -34,11 +34,8 @@
       "publishedAt": "2025-07-05T23:33:22Z",
       "content": "The suspense is officially over. On Saturday, July 5, 2025, Elon Musk declared the formation of a new political party, the “America Party,” with the stated aim of dismantling the perceived “uniparty”… [+5308 chars]",
       "tags": [
-        "media_communications",
         "elections_politics",
-        "security_intelligence",
-        "political_endorsements",
-        "crisis_emergency"
+        "social_media"
       ],
       "publishedAtTs": 1751758402
     },
@@ -56,10 +53,7 @@
       "content": "Saeed Ismail is a real person. But no matter how much proof he posts online, people keep calling him fake.\r\nThe 22-year-old has endured almost two years of war in Gaza, as Israel continues an assault… [+18719 chars]",
       "tags": [
         "social_issues",
-        "middle_east",
-        "security_intelligence",
-        "crisis_emergency",
-        "health_science"
+        "technology_regulation"
       ],
       "publishedAtTs": 1751709632
     },
@@ -77,8 +71,7 @@
       "content": "Lina SinjabBBC Middle East correspondent\r\nForeign Secretary David Lammy has become the first UK minister to visit Syria since the uprising that led to the country's civil war began 14 years ago.\r\nLam… [+5348 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
-        "government_administration"
+        "middle_east"
       ],
       "publishedAtTs": 1751751058
     },
@@ -95,9 +88,7 @@
       "publishedAt": "2025-07-05T14:30:00Z",
       "content": "(Image credit: Future)\r\nNews Weekly is our column where we highlight and summarize some of the week's top stories so you can catch up on the latest tech news.\r\nThis is Android Central's News Weekly, … [+8017 chars]",
       "tags": [
-        "technology_regulation",
-        "media_communications",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1751725800
     },
@@ -115,9 +106,8 @@
       "content": "President Donald Trump's \"Big Beautiful Bill\" is about to make EVs even more expensive.\r\nOn Thursday, the US House of Representatives passed Trump's tax and spending bill, and in doing so, killed the… [+2215 chars]",
       "tags": [
         "economy_finance",
-        "taxes",
         "energy",
-        "policy_legislation"
+        "trade"
       ],
       "publishedAtTs": 1751710261
     },
@@ -134,9 +124,9 @@
       "publishedAt": "2025-07-05T09:00:00Z",
       "content": "Democrats feel that President Trump's massive tax-and-spending bill is giving them an opening and a message ahead of the 2026 midterm elections.\r\nThe focus is Medicaid, which provides health insuranc… [+6047 chars]",
       "tags": [
-        "policy_legislation",
         "elections_politics",
-        "healthcare"
+        "policy_legislation",
+        "2026_midterms"
       ],
       "publishedAtTs": 1751706000
     },
@@ -153,11 +143,7 @@
       "publishedAt": "2025-07-05T14:07:26Z",
       "content": "SEOUL, South Korea When President Trump met North Korea's leader Kim Jong Un for a historic summit in 2018, he tried to show a rosy future North Korea could aspire to.\r\n\"As an example, they have grea… [+4133 chars]",
       "tags": [
-        "foreign_policy",
-        "asia_pacific",
-        "tourism",
-        "international_organizations",
-        "economy_finance"
+        "foreign_policy"
       ],
       "publishedAtTs": 1751724446
     },
@@ -175,8 +161,6 @@
       "content": "In the early hours of Friday, floods\r\n swept across Texas Hill Country. The Guadalupe River rose 26 feet within 45 minutes, according to state officials.\r\nThe flooding killed at least 14 children and… [+8691 chars]",
       "tags": [
         "natural_disasters",
-        "regional_state",
-        "texas",
         "crisis_emergency"
       ],
       "publishedAtTs": 1751754639
@@ -195,10 +179,8 @@
       "content": "The credit scoring company FICO recently announced it will add something new to some of its credit scores: data from buy now, pay later loans.\r\nThose are the loans that allow shoppers, usually online… [+5497 chars]",
       "tags": [
         "economy_finance",
-        "banking",
-        "small_business",
-        "personal_family",
-        "health_science"
+        "prices",
+        "consumer_protection"
       ],
       "publishedAtTs": 1751706000
     },
@@ -216,8 +198,7 @@
       "content": "By Andrea Shalal\r\n(Reuters) - U.S. President Donald Trump said he had signed letters to 12 countries outlining the various tariff levels they would face on goods they export to the United States, wit… [+2633 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "government_administration"
+        "liberation_day_tariffs"
       ],
       "publishedAtTs": 1751685439
     },
@@ -234,13 +215,30 @@
       "publishedAt": "2025-07-05T19:58:33Z",
       "content": "WASHINGTON -- President Donald Trump said July 5 that his administration is working with Texas state and local officials in response to the fatal flash flooding that has killed at least 27 people in … [+1621 chars]",
       "tags": [
-        "regional_state",
-        "texas",
+        "security_intelligence",
         "crisis_emergency",
-        "natural_disasters",
-        "security_intelligence"
+        "government_administration"
       ],
       "publishedAtTs": 1751745513
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Elon Musk Creates His Own Political Party to Take Down Trump — and Gives It a MAGA-Friendly Name",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_84eed025-79c1-4674-8ebf-39384810335b",
+      "urlToImage": null,
+      "publishedAt": "2025-07-05T20:20:03Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+714 chars]",
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "democratic_party"
+      ],
+      "publishedAtTs": 1751746803
     },
     {
       "source": {
@@ -255,9 +253,8 @@
       "publishedAt": "2025-07-05T11:30:04Z",
       "content": "Tesla's market share in Oregon has plummeted from nearly half of all electric vehicles in the state in 2023 to just one in six this year, according to The Oregonian. New Tesla registrations fell 17% … [+2216 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market",
-        "regional_state"
+        "automotive",
+        "economy_finance"
       ],
       "publishedAtTs": 1751715004
     },
@@ -292,9 +289,8 @@
       "publishedAt": "2025-07-05T20:44:00Z",
       "content": "The forecast began to look ominous in Texas Hill County on Thursday afternoon.\r\nA flood watch was issued by the National Weather Service at 1:18 p.m. that predicted up to 7 inches of isolated rainfal… [+6764 chars]",
       "tags": [
-        "natural_disasters",
-        "regional_state",
-        "crisis_emergency"
+        "crisis_emergency",
+        "natural_disasters"
       ],
       "publishedAtTs": 1751748240
     },
@@ -311,11 +307,8 @@
       "publishedAt": "2025-07-05T15:19:52Z",
       "content": "The Trump administration deported eight migrants to South Sudan, according to a Department of Homeland Security official, after the administration had to halt their deportation to a base in Djibouti.… [+2209 chars]",
       "tags": [
-        "immigration",
-        "foreign_policy",
-        "africa",
-        "security_intelligence",
-        "crisis_emergency"
+        "mass_deportation_operation",
+        "immigration"
       ],
       "publishedAtTs": 1751728792
     },
@@ -333,10 +326,8 @@
       "content": "Over the past six months, Vice President JD Vance has shown how much of a key player he has become in the Trump administration, serving as the president's most prominent advocate and advancing his ag… [+7121 chars]",
       "tags": [
         "government_administration",
-        "policy_legislation",
-        "elections_politics",
-        "media_communications",
-        "personal_family"
+        "personnel",
+        "leadership"
       ],
       "publishedAtTs": 1751706104
     },
@@ -353,9 +344,7 @@
       "publishedAt": "2025-07-05T04:06:47Z",
       "content": "<ul><li>Trump signs controversial spending bill during 4th of July celebrations\r\n</li><li>Deadly 'catastrophic flooding' in Texas\r\n</li><li>Crowds gather for Macys fireworks\r\n</li><li>Joey Jaws Chest… [+4396 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
-        "crisis_emergency"
+        "off_topic"
       ],
       "publishedAtTs": 1751688407
     },
@@ -372,9 +361,7 @@
       "publishedAt": "2025-07-05T03:36:00Z",
       "content": "<ul><li>Trump signs controversial spending bill during 4th of July celebrations\r\n</li><li>Deadly 'catastrophic flooding' in Texas\r\n</li><li>Crowds gather for Macys fireworks\r\n</li><li>Joey Jaws Chest… [+4396 chars]",
       "tags": [
-        "regional_state",
-        "crisis_emergency",
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1751686560
     },
@@ -391,8 +378,7 @@
       "publishedAt": "2025-07-05T11:59:57Z",
       "content": "<ul><li>Trump signs controversial spending bill during 4th of July celebrations\r\n</li><li>Deadly 'catastrophic flooding' in Texas\r\n</li><li>Crowds gather for Macys fireworks\r\n</li><li>Joey Jaws Chest… [+4396 chars]",
       "tags": [
-        "natural_disasters",
-        "security_incidents"
+        "off_topic"
       ],
       "publishedAtTs": 1751716797
     },
@@ -409,10 +395,9 @@
       "publishedAt": "2025-07-05T13:45:09Z",
       "content": "Joe Rogan, one of the most influential voices in American media, is turning on Donald Trump. And the reason cuts deep: immigration raids.\r\nRogan, who endorsed Trump just hours before the 2024 preside… [+4768 chars]",
       "tags": [
-        "personal_family",
-        "media_communications",
-        "policy_legislation",
-        "elections_politics"
+        "mass_deportation_operation",
+        "immigration",
+        "media_communications"
       ],
       "publishedAtTs": 1751723109
     },
@@ -430,8 +415,7 @@
       "content": "The suspense is finally over. Elon Musk, the visionary behind Tesla and SpaceX, officially declared the formation of a new political party on Saturday, July 5, 2025. His stated aim: to challenge the … [+7840 chars]",
       "tags": [
         "elections_politics",
-        "media_communications",
-        "social_issues"
+        "social_media"
       ],
       "publishedAtTs": 1751750596
     },
@@ -449,10 +433,8 @@
       "content": "As he had previously vowed, Tesla CEO Elon Musk officially announced the formation of a new, third political party on Saturday, July 5, 2025. This dramatic move comes just hours after President Donal… [+3733 chars]",
       "tags": [
         "elections_politics",
-        "political_endorsements",
-        "2028_presidential",
-        "economy_finance",
-        "media_communications"
+        "2024_presidential",
+        "campaign_events"
       ],
       "publishedAtTs": 1751746747
     },
@@ -469,11 +451,8 @@
       "publishedAt": "2025-07-05T10:00:00Z",
       "content": "When Donald Trump ordered air strikes on key Iranian nuclear-enrichment sites last month and immediately declared that the targets had been “completely and totally obliterated,” he was counting on a … [+5850 chars]",
       "tags": [
-        "national_security",
-        "military",
-        "security_intelligence",
         "foreign_policy",
-        "russia"
+        "military"
       ],
       "publishedAtTs": 1751709600
     },
@@ -490,10 +469,8 @@
       "publishedAt": "2025-07-05T17:37:00Z",
       "content": "Jude Sheerin\r\nTrump uses anti-semitic term during Iowa speech\r\nUS President Donald Trump has drawn criticism from Jewish groups after he used an antisemitic term at a rally.\r\nTrump described some ban… [+2867 chars]",
       "tags": [
-        "media_communications",
-        "statements",
         "social_issues",
-        "civil_rights"
+        "personal_activities"
       ],
       "publishedAtTs": 1751737020
     },
@@ -510,9 +487,8 @@
       "publishedAt": "2025-07-05T20:28:15Z",
       "content": "Amazons now-legendary Prime Day is July 8-11. Much like Black Friday or Cyber Monday, this means sales on lots of items on Amazons vast marketplace, and as such many people flock to the giants websit… [+14294 chars]",
       "tags": [
-        "small_business",
         "economy_finance",
-        "media_communications"
+        "consumer_protection"
       ],
       "publishedAtTs": 1751747295
     },
@@ -529,11 +505,11 @@
       "publishedAt": "2025-07-05T16:01:34Z",
       "content": "This newsletter is free, but its able to sustain itself from support I receive from a small percentage of regular readers. If you value science-based information, consider upgrading to a paid subscri… [+15675 chars]",
       "tags": [
-        "health_science",
         "social_issues",
-        "legal_justice",
-        "elections_politics",
-        "media_communications"
+        "climate_policy",
+        "abortion",
+        "lgbtq_rights",
+        "womens_rights"
       ],
       "publishedAtTs": 1751731294
     },
@@ -550,9 +526,7 @@
       "publishedAt": "2025-07-05T16:08:29Z",
       "content": "On May 31of this year, in a series of phone calls beginning at nine in the morning and ending that afternoon, the newly installed Special Agent in Charge of the Federal Bureau of Investigations Norfo… [+16768 chars]",
       "tags": [
-        "legal_justice",
-        "security_intelligence",
-        "government_administration"
+        "personnel"
       ],
       "publishedAtTs": 1751731709
     },
@@ -570,8 +544,7 @@
       "content": "(Reuters) -A day after asking his followers on X whether a new U.S. political party should be created, Elon Musk said on Saturday that the \"America Party is formed.\"\r\n\"By a factor of 2 to 1, you want… [+1094 chars]",
       "tags": [
         "elections_politics",
-        "media_communications",
-        "policy_legislation"
+        "2024_presidential"
       ],
       "publishedAtTs": 1751745457
     },
@@ -589,7 +562,6 @@
       "content": "(Reuters) -Ukrainian President Volodymyr Zelenskiy said on Saturday that his latest conversation with U.S. President Donald Trump this week was the best and \"most productive\" he has had to date.\r\n\"Re… [+1369 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
         "ukraine"
       ],
       "publishedAtTs": 1751742035
@@ -608,8 +580,8 @@
       "content": "Iran s Supreme Leader Ayatollah Ali Khamenei on Saturday made his first public appearance since the 12-day war between Israel and Iran began, attending a mourning ceremony on the eve of Ashoura.\r\nKha… [+3626 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
-        "international_crisis"
+        "iran",
+        "middle_east"
       ],
       "publishedAtTs": 1751743772
     },
@@ -627,6 +599,7 @@
       "content": "The reports came after Hamas said it discussed the current deal framework with other Palestinian factions, and they were \"unified\" in their \"positive\" response.\r\nIsrael has deemed the changes Hamas a… [+4371 chars]",
       "tags": [
         "foreign_policy",
+        "gaza",
         "middle_east"
       ],
       "publishedAtTs": 1751747252
@@ -645,10 +618,7 @@
       "content": "We recently published Jim Cramer Recently Discussed These 11 Stocks &amp; Said The Robots Are Coming. Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer recently discussed.\r\nCramer continues to… [+1782 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "media_communications",
-        "personal_business",
-        "regional_state"
+        "stock_market"
       ],
       "publishedAtTs": 1751710259
     },
@@ -665,9 +635,8 @@
       "publishedAt": "2025-07-05T13:18:30Z",
       "content": "Everyone with an interest in the Middle East will welcome this study by Karen Elliott House of a man who is bound to play a vital role in the regions future. \r\nBetween the moment Karen Elliott House … [+9255 chars]",
       "tags": [
-        "foreign_policy",
         "middle_east",
-        "asia_pacific"
+        "foreign_policy"
       ],
       "publishedAtTs": 1751721510
     },
@@ -684,9 +653,7 @@
       "publishedAt": "2025-07-05T20:00:00Z",
       "content": "from the that-was-that dept\r\nFive Years Ago\r\nThis week in 2020… remember Parler? The uncensored free speech social media platform? Well, it was changing its tune and starting to ban users as it embar… [+1985 chars]",
       "tags": [
-        "media_communications",
-        "technology_regulation",
-        "social_media"
+        "off_topic"
       ],
       "publishedAtTs": 1751745600
     },
@@ -704,8 +671,7 @@
       "content": "Fireworks were flying between President Donald Trump and First Lady Melania as they celebrated America's Independence Day Friday ... and their lovefest -- followed by some hilarious dance moves -- ar… [+855 chars]",
       "tags": [
         "personal_family",
-        "media_communications",
-        "regional_state"
+        "media_communications"
       ],
       "publishedAtTs": 1751720177
     },
@@ -722,9 +688,8 @@
       "publishedAt": "2025-07-05T14:45:29Z",
       "content": "At least 24 are dead following a devastating flash flood in central Texas Friday -- and over 20 girls from a Christian girls-only summer camp are still missing.\r\nThe nearly 2-dozen MIA girls are from… [+1764 chars]",
       "tags": [
-        "natural_disasters",
-        "public_health_emergency",
-        "crisis_emergency"
+        "crisis_emergency",
+        "natural_disasters"
       ],
       "publishedAtTs": 1751726729
     },
@@ -741,11 +706,7 @@
       "publishedAt": "2025-07-05T03:45:00Z",
       "content": "On Friday nights, IndieWire After Dark honors fringe cinema in the streaming age with midnight movies from any moment in film history.\r\nFirst, the BAIT: a weird genre pick and why we’re exploring its… [+4934 chars]",
       "tags": [
-        "media_communications",
-        "social_issues",
-        "health_science",
-        "crisis_emergency",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1751687100
     },
@@ -763,8 +724,9 @@
       "content": "The weekend before the thirty-three-year-old socialist Zohran Mamdani stunned Andrew Cuomo and the city of New York by winning a decisive victory in the mayoral primary race, the NYR Online published… [+10312 chars]",
       "tags": [
         "elections_politics",
-        "policy_legislation",
-        "social_issues"
+        "2024_presidential",
+        "regional_state",
+        "new_york"
       ],
       "publishedAtTs": 1751725800
     },
@@ -781,11 +743,8 @@
       "publishedAt": "2025-07-05T19:59:40Z",
       "content": "The United States has confirmed it completed the deportations of eight men to South Sudan, a day after a US judge cleared the way for President Donald Trumps administration to send them to the violen… [+2984 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice",
-        "immigration",
-        "security_intelligence",
-        "crisis_emergency"
+        "mass_deportation_operation",
+        "immigration"
       ],
       "publishedAtTs": 1751745580
     },
@@ -802,10 +761,9 @@
       "publishedAt": "2025-07-05T08:04:19Z",
       "content": "United States President Donald Trump has said Iran has not agreed to inspections of its nuclear programme or to giving up enriching uranium.\r\nHe told reporters on board Air Force One on Friday that h… [+3770 chars]",
       "tags": [
-        "foreign_policy",
-        "nuclear_policy",
         "iran",
-        "middle_east"
+        "nuclear_policy",
+        "foreign_policy"
       ],
       "publishedAtTs": 1751702659
     },
@@ -823,10 +781,8 @@
       "content": "Here is how things stand on Saturday, July 5 :\r\nFighting\r\n<ul><li>Russian air defences have downed dozens of Ukrainian drones in widely dispersed parts of the country, including two near the countrys… [+1809 chars]",
       "tags": [
         "foreign_policy",
-        "russia",
         "ukraine",
-        "security_intelligence",
-        "national_security"
+        "russia"
       ],
       "publishedAtTs": 1751697340
     },
@@ -845,9 +801,7 @@
       "tags": [
         "foreign_policy",
         "russia",
-        "ukraine",
-        "security_intelligence",
-        "national_security"
+        "ukraine"
       ],
       "publishedAtTs": 1751738508
     },
@@ -864,9 +818,7 @@
       "publishedAt": "2025-07-05T15:39:30Z",
       "content": "The United Kingdom has announced it is formally restoring diplomatic ties with Syria as British Foreign Secretary David Lammy travelled to the capital Damascus to meet with interim Syrian President A… [+1810 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
-        "middle_east"
+        "foreign_policy"
       ],
       "publishedAtTs": 1751729970
     },
@@ -883,9 +835,8 @@
       "publishedAt": "2025-07-05T17:09:29Z",
       "content": "Rescuers in the US state of Texas are scrambling to locate more than two dozen children still missing from a Christian summer camp after a powerful storm caused flash floods that authorities say have… [+3828 chars]",
       "tags": [
-        "natural_disasters",
-        "regional_state",
-        "crisis_emergency"
+        "crisis_emergency",
+        "natural_disasters"
       ],
       "publishedAtTs": 1751735369
     },
@@ -902,11 +853,8 @@
       "publishedAt": "2025-07-05T17:10:01Z",
       "content": "The greenhouse effect was discovered more than 150 years ago and the first scientific paper linking carbon dioxide levels in the atmosphere with climate change was published in 1896.\r\nBut it wasn't u… [+6003 chars]",
       "tags": [
-        "environment",
         "climate_policy",
-        "public_health",
-        "science_policy",
-        "technology_regulation"
+        "environment"
       ],
       "publishedAtTs": 1751735401
     },
@@ -923,9 +871,8 @@
       "publishedAt": "2025-07-05T16:52:36Z",
       "content": "A YOUNG woman was miraculously rescued after being swept 20 miles downriver in floods that have killed at least 27 and left dozens of young girls missing.\r\nThe 22-year-old was scooped up by fast-movi… [+5109 chars]",
       "tags": [
-        "natural_disasters",
-        "public_health_emergency",
-        "crisis_emergency"
+        "crisis_emergency",
+        "natural_disasters"
       ],
       "publishedAtTs": 1751734356
     },
@@ -942,10 +889,9 @@
       "publishedAt": "2025-07-05T10:00:00Z",
       "content": "Harvard Divinity School refused to publish this years commencement speech after one of its speakers went off-script to acknowledge the genocide in Gaza, as The Intercept reported last month. Now, The… [+10331 chars]",
       "tags": [
-        "civil_rights",
-        "free_speech",
         "social_issues",
-        "media_communications"
+        "protests",
+        "free_speech"
       ],
       "publishedAtTs": 1751709600
     },
@@ -962,11 +908,9 @@
       "publishedAt": "2025-07-05T10:25:00Z",
       "content": "Civil society will need to protest Donald Trump‘s abuses of the Constitution and ruinous policies for nearly four more years. This long game requires a new form of resistance one that isnt just about… [+6747 chars]",
       "tags": [
+        "protests",
         "civil_rights",
-        "free_speech",
-        "social_issues",
-        "elections_politics",
-        "media_communications"
+        "social_issues"
       ],
       "publishedAtTs": 1751711100
     },
@@ -983,11 +927,9 @@
       "publishedAt": "2025-07-05T20:34:30Z",
       "content": "Podcast host Joe Rogan, who endorsed Donald Trump during the 2024 election, criticized the former president this week for aggressive immigration enforcement tactics, saying Trump has betrayed his cam… [+1530 chars]",
       "tags": [
+        "mass_deportation_operation",
         "immigration",
-        "media_communications",
-        "personal_family",
-        "elections_politics",
-        "security_intelligence"
+        "legal_justice"
       ],
       "publishedAtTs": 1751747670
     },
@@ -1004,11 +946,9 @@
       "publishedAt": "2025-07-05T10:30:16Z",
       "content": "Monica Wilson was so devastated by the result of the 2024 presidential election, she couldnt even move the day after. She had cast her ballot for Vice President Kamala Harris but became disillusioned… [+11849 chars]",
       "tags": [
-        "elections_politics",
         "social_issues",
-        "racial_justice",
-        "media_communications",
-        "personal_family"
+        "protests",
+        "racial_justice"
       ],
       "publishedAtTs": 1751711416
     },
@@ -1026,10 +966,7 @@
       "content": "Why (oh, why) is the press still interviewing Lindsey Graham?\r\nYou know, the once-supposedly-moderate Republican senator from South Carolina who, after Donald Trump sent his supporters, many armed wi… [+6464 chars]",
       "tags": [
         "media_communications",
-        "elections_politics",
-        "personal_family",
-        "social_issues",
-        "legal_justice"
+        "personal_activities"
       ],
       "publishedAtTs": 1751720414
     },
@@ -1047,8 +984,7 @@
       "content": "A new NPR/PBS NewsHour/Marist poll reveals that nearly 73% of Americans believe democracy in the United States is at risk, citing political violence and deep partisan divisions as the main threats.\r\n… [+1335 chars]",
       "tags": [
         "elections_politics",
-        "social_issues",
-        "media_communications"
+        "social_issues"
       ],
       "publishedAtTs": 1751736612
     },
@@ -1066,8 +1002,7 @@
       "content": "A catastrophic flash flood in central Texas has claimed at least 27 lives, including nine children, and left over two dozen people missing, most of them from Camp Mystic, a Christian summer camp near… [+1453 chars]",
       "tags": [
         "natural_disasters",
-        "crisis_emergency",
-        "regional_state"
+        "crisis_emergency"
       ],
       "publishedAtTs": 1751731220
     },
@@ -1084,11 +1019,7 @@
       "publishedAt": "2025-07-05T13:00:00Z",
       "content": "This story was originally published by KUNC.\r\nThe clock is ticking on the Colorado River. The seven states that use its water are nearing a 2026 deadline to come up with new rules for sharing its shr… [+8157 chars]",
       "tags": [
-        "environment",
-        "energy",
-        "policy_legislation",
-        "regional_state",
-        "crisis_emergency"
+        "environment"
       ],
       "publishedAtTs": 1751720400
     },
@@ -1105,11 +1036,9 @@
       "publishedAt": "2025-07-05T08:00:00Z",
       "content": "The purple toasted cob of corn shines under the afternoon sun as 25-year-old Allison Zhou lifts it up to show her friends on the opening day of the Calgary Stampede. It's ube-flavoured and covered in… [+5872 chars]",
       "tags": [
+        "trade_negotiations_truces",
         "economy_finance",
-        "regional_state",
-        "policy_legislation",
-        "personal_family",
-        "travel"
+        "tariff_impact_economy"
       ],
       "publishedAtTs": 1751702400
     },
@@ -1126,9 +1055,8 @@
       "publishedAt": "2025-07-05T16:03:14Z",
       "content": "The search for more than two dozen children missing from a girls' summer camp hit by flash floods in Texas entered a third day on Sunday, as rescuers faced the threat of more flooding and the death t… [+3288 chars]",
       "tags": [
-        "natural_disasters",
-        "public_health_emergency",
-        "regional_state"
+        "crisis_emergency",
+        "natural_disasters"
       ],
       "publishedAtTs": 1751731394
     },
@@ -1145,11 +1073,7 @@
       "publishedAt": "2025-07-05T10:55:25Z",
       "content": "Dear patient readers,\r\nForgive me for this odd appeal, but I am so sick of fake products. I just had my cell phone ring when in a fully-closed supposed Faraday bag (I had forgotten to turn it off). C… [+10405 chars]",
       "tags": [
-        "media_communications",
-        "technology_regulation",
-        "public_health",
-        "security_intelligence",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1751712925
     },
@@ -1166,9 +1090,7 @@
       "publishedAt": "2025-07-05T08:00:28Z",
       "content": "Photographers from CBC News, The Canadian Press, Reuters and others document our changing world every day. Here's a selection of the week's top images.\r\nThe streets of Toronto were filled with music,… [+2597 chars]",
       "tags": [
-        "media_communications",
-        "regional_state",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1751702428
     },
@@ -1186,7 +1108,8 @@
       "content": "Musk said in a tweet the people of the U.S. live in a one-party system, When it comes to bankrupting our country with waste &amp; graft.\r\nIt is unclear if Musk had registered his political party with… [+836 chars]",
       "tags": [
         "elections_politics",
-        "media_communications"
+        "republican_party",
+        "democratic_party"
       ],
       "publishedAtTs": 1751748272
     },
@@ -1204,8 +1127,8 @@
       "content": "How Trump's Big Beautiful Bill May Reshape Gen-Z Retirement Strategies?\r\nGetty Images\r\nThe Big Beautiful Bill, formally known as H.R. 1, entitled An Act to provide for reconciliation pursuant to titl… [+14295 chars]",
       "tags": [
         "policy_legislation",
-        "economy_finance",
-        "personal_family"
+        "social_security",
+        "economy_finance"
       ],
       "publishedAtTs": 1751706000
     },
@@ -1222,9 +1145,7 @@
       "publishedAt": "2025-07-05T11:15:47Z",
       "content": "Bitcoin has rocketed higher over the last 10 years, confounding its critics and making its mysterious creator Satoshi Nakamoto potentially one of the worlds richest people.\r\nFront-run Donald Trump, t… [+4828 chars]",
       "tags": [
-        "cryptocurrency",
-        "stock_market",
-        "economy_finance"
+        "cryptocurrency"
       ],
       "publishedAtTs": 1751714147
     },
@@ -1242,8 +1163,7 @@
       "content": "Strange things happen when details of a massive tax and budget bill, like the one President Donald Trump signed yesterday, are tweaked behind closed doors. Among them: A couple dozen of the nations w… [+8547 chars]",
       "tags": [
         "taxes",
-        "education",
-        "economy_finance"
+        "education"
       ],
       "publishedAtTs": 1751711400
     },
@@ -1280,9 +1200,8 @@
       "content": "Continued job growth and an expected economic boost from the tax cuts in the One Beautiful Big Bill ... More Act (OBBBA) helped push the probability of an economic downturn closer to the lows of the … [+5821 chars]",
       "tags": [
         "economy_finance",
-        "policy_legislation",
-        "stock_market",
-        "taxes"
+        "taxes",
+        "trade"
       ],
       "publishedAtTs": 1751715638
     },
@@ -1299,9 +1218,8 @@
       "publishedAt": "2025-07-05T16:04:00Z",
       "content": "Efforts by climate and anti-wealth campaigners to hold back demand for private jet flights are failing, at least so far in 2025.\r\nDespite efforts by more countries to impose taxes on private jet flig… [+3987 chars]",
       "tags": [
-        "environment",
-        "economy_finance",
-        "policy_legislation"
+        "climate_policy",
+        "economy_finance"
       ],
       "publishedAtTs": 1751731440
     },
@@ -1319,8 +1237,9 @@
       "content": "Fireworks are a mark of summer.\r\ngetty\r\nI dont know about you, but I had hoped that my Fourth of July weekend would involve some lounging aroundit was, after all, a day off.\r\nHowever, in a show of so… [+17154 chars]",
       "tags": [
         "taxes",
-        "policy_legislation",
-        "economy_finance"
+        "economy_finance",
+        "trade",
+        "policy_legislation"
       ],
       "publishedAtTs": 1751724000
     },
@@ -1337,9 +1256,7 @@
       "publishedAt": "2025-07-05T15:22:00Z",
       "content": "An ancient beast has suddenly risen from its slumber after lying dormant for 14 years. In the realm of crypto, such a beast is known as a whale—an early adopter of the blockchain holding massive amou… [+4393 chars]",
       "tags": [
-        "cryptocurrency",
-        "economy_finance",
-        "stock_market"
+        "cryptocurrency"
       ],
       "publishedAtTs": 1751728920
     },
@@ -1357,10 +1274,9 @@
       "content": "President Donald Trump reportedly allowed Iranian leaders to launch a retaliatory attack on a U.S. military base in Qatar in response to the U.S. bombing of Iranian nuclear facilities.What Happened: … [+146 chars]",
       "tags": [
         "foreign_policy",
-        "middle_east",
         "iran",
-        "national_security",
-        "security_intelligence"
+        "security_intelligence",
+        "military"
       ],
       "publishedAtTs": 1751732642
     },
@@ -1379,8 +1295,7 @@
       "tags": [
         "foreign_policy",
         "nato",
-        "russia",
-        "europe"
+        "russia"
       ],
       "publishedAtTs": 1751732657
     },
@@ -1397,11 +1312,8 @@
       "publishedAt": "2025-07-05T19:10:55Z",
       "content": "Victor Davis Hanson Dismantles \"Experts\" Who Keep Getting Trump Wrong\r\nVia VigilantFox.comYes, they were all wrong.In spectacular fashion.Victor Davis Hanson just DISMANTLED the so-called experts who… [+132 chars]",
       "tags": [
-        "media_communications",
         "elections_politics",
-        "political_endorsements",
-        "government_administration",
-        "policy_legislation"
+        "trump"
       ],
       "publishedAtTs": 1751742655
     },
@@ -1418,9 +1330,8 @@
       "publishedAt": "2025-07-05T10:06:48Z",
       "content": "The Trump administration has begun garnishing wages of student loan borrowers in default. These are the benefits businesses can offer employees to help with their debtA worried student loan borrower … [+108 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "economy_finance"
+        "economy_finance",
+        "education"
       ],
       "publishedAtTs": 1751710008
     },
@@ -1439,7 +1350,7 @@
       "tags": [
         "policy_legislation",
         "elections_politics",
-        "media_communications"
+        "republican_party"
       ],
       "publishedAtTs": 1751717335
     },
@@ -1457,12 +1368,61 @@
       "content": "President Donald Trump, Florida Governor Ron DeSantis and Secretary of Homeland Security Kristi Noem tour a migrant detention center, dubbed \"Alligator Alcatraz,\" located at the site of the Dade-Coll… [+127 chars]",
       "tags": [
         "immigration",
-        "border_security",
-        "legal_justice",
-        "social_issues",
-        "crisis_emergency"
+        "social_issues"
       ],
       "publishedAtTs": 1751717341
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "southernliving.com",
+      "title": "Amazon Surprised Us By Slashing Prices On Stunning Porch And Patio Decor Ahead Of Prime Day",
+      "description": "",
+      "url": "https://biztoc.com/x/71b2c9f5da46e27d",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-07-05T21:24:35Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump delay TikTok ban enforcement? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will OPEC+ oil output inc… [+712 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1751750675
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "LumApps, which makes intranet software, agrees to merge with frontline staff communication app Beekeeper in a deal valuing the combined entity at about $1.1B",
+      "description": "",
+      "url": "https://biztoc.com/x/37a7c20c55b323a0",
+      "urlToImage": "https://biztoc.com/cdn/950/og.png",
+      "publishedAt": "2025-07-05T04:01:25Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why is Trump increasing tariffs on 12 countries? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will Trumps new tax … [+755 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1751688085
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "reuters.com",
+      "title": "Malaysia puts anti-dumping duties on some China, South Korea, Vietnam iron, steel",
+      "description": "",
+      "url": "https://biztoc.com/x/4107f6c368499dd2",
+      "urlToImage": "https://biztoc.com/cdn/4107f6c368499dd2_s.webp",
+      "publishedAt": "2025-07-05T01:58:39Z",
+      "content": "{ window.open(this.href, '_blank'); }, 200); return false;\"&gt;Why did Trump impose new tariffs? { window.open(this.href, '_blank'); }, 200); return false;\"&gt;How will the 'big, beautiful bill' affe… [+740 chars]",
+      "tags": [
+        "trade",
+        "liberation_day_tariffs"
+      ],
+      "publishedAtTs": 1751680719
     },
     {
       "source": {
@@ -1478,8 +1438,7 @@
       "content": "Texas officials provided search and rescue updates Saturday on a flash flood that has killed at least 32 people, including 14 children, and left some 27 others missing, a day after authorities blamed… [+4851 chars]",
       "tags": [
         "natural_disasters",
-        "crisis_emergency",
-        "regional_state"
+        "crisis_emergency"
       ],
       "publishedAtTs": 1751749352
     },
@@ -1497,8 +1456,8 @@
       "content": "Bets on a U.S. recession in 2025 have dropped sharply, with odds on crypto prediction platform Polymarket sinking to 22% this week, the lowest level since late February.\r\nRecession fears ballooned ea… [+1400 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "trade"
+        "trade",
+        "stock_market"
       ],
       "publishedAtTs": 1751728136
     },
@@ -1516,8 +1475,7 @@
       "content": "U.S. exceptionalism, the notion that the U.S. economy and its financial markets are distinct compared to those of other nations, remains alive and well, at least according to the equity markets.\r\nSin… [+3144 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "cryptocurrency"
+        "stock_market"
       ],
       "publishedAtTs": 1751735890
     },
@@ -1535,8 +1493,7 @@
       "content": "Morgan Stanley (NYSE:MS) is one of the 22 stocks Jim Cramer recently talked about. Highlighting its recent dividend boost and buyback program, Cramer said:\r\nMorgan Stanley said theyre putting through… [+1398 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "banking"
+        "stock_market"
       ],
       "publishedAtTs": 1751726633
     },
@@ -1554,8 +1511,7 @@
       "content": "JPMorgan Chase &amp; Co. (NYSE:JPM) is one of the 22 stocks Jim Cramer recently talked about. Cramers opinion was that the stock is cheap compared to the rest of the S&amp;P 500. He said:\r\nThe big do… [+1137 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "banking"
+        "stock_market"
       ],
       "publishedAtTs": 1751726631
     },
@@ -1590,9 +1546,9 @@
       "publishedAt": "2025-07-05T10:00:25Z",
       "content": "(Bloomberg) The vast tract of land off Route 85 was meant to be a symbol of Made-in-America manufacturing. A billion-dollar battery factory was going to rise, bringing thousands of new jobs. The busi… [+8776 chars]",
       "tags": [
-        "economy_finance",
         "energy",
-        "small_business"
+        "economy_finance",
+        "environment"
       ],
       "publishedAtTs": 1751709625
     },
@@ -1609,9 +1565,8 @@
       "publishedAt": "2025-07-05T14:43:29Z",
       "content": "Levi Strauss &amp; Co. (NYSE:LEVI) is one of the 22 stocks Jim Cramer recently talked about. Coming to the company, Cramer said, Hey, Levis had a decent story when it reported, some Vietnam exposure … [+1632 chars]",
       "tags": [
-        "stock_market",
-        "small_business",
-        "economy_finance"
+        "economy_finance",
+        "stock_market"
       ],
       "publishedAtTs": 1751726609
     },
@@ -1629,7 +1584,7 @@
       "content": "Whirlpool Corporation (NYSE:WHR) is one of the 22 stocks Jim Cramer recently talked about. Cramer highlighted that the company is in the drivers seat and said:\r\nWhat else? Alright, those who own Whir… [+1400 chars]",
       "tags": [
         "economy_finance",
-        "stock_market"
+        "automotive"
       ],
       "publishedAtTs": 1751726615
     },
@@ -1664,9 +1619,8 @@
       "publishedAt": "2025-07-05T16:11:43Z",
       "content": "Apple Inc. (NASDAQ:AAPL) is one of the 10 Trending AI Stocks on News and Ratings. On July 2, Jefferies upgraded the stock to Hold from underperform and raised the price target to roughly $188 per sha… [+1929 chars]",
       "tags": [
-        "economy_finance",
         "stock_market",
-        "technology_regulation"
+        "ai_state_preemption"
       ],
       "publishedAtTs": 1751731903
     },
@@ -1684,8 +1638,7 @@
       "content": "We recently published 12 Stocks Jim Cramer Recently Talked About In His Idea-Driven Market. Lam Research Corp (NASDAQ:LRCX) is one of the stocks Jim Cramer recently discussed.\r\nLam Research Corp (NAS… [+2280 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "personal_business"
+        "stock_market"
       ],
       "publishedAtTs": 1751710671
     },
@@ -1702,9 +1655,8 @@
       "publishedAt": "2025-07-05T14:43:41Z",
       "content": "Etsy, Inc. (NASDAQ:ETSY) is one of the 22 stocks Jim Cramer recently talked about. A caller asked if they should hold or sell their position, and Cramer replied:\r\nOh no I dont want you to sell. Now t… [+2046 chars]",
       "tags": [
-        "stock_market",
-        "small_business",
-        "economy_finance"
+        "economy_finance",
+        "stock_market"
       ],
       "publishedAtTs": 1751726621
     },
@@ -1721,10 +1673,8 @@
       "publishedAt": "2025-07-05T18:56:18Z",
       "content": "Atlanta Federal Reserve President Raphael Bostic warned Thursday that he believes tariffs are likely to cause a prolonged stretch of inflation as opposed to a one-time spike in costs.\r\nRather than \"a… [+3704 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "policy_legislation",
-        "government_administration"
+        "tariff_impact_economy",
+        "inflation"
       ],
       "publishedAtTs": 1751741778
     },
@@ -1742,8 +1692,7 @@
       "content": "We recently published 12 Stocks Jim Cramer Recently Talked About In His Idea-Driven Market. NIKE, Inc. (NYSE:NKE) is one of the stocks Jim Cramer recently discussed.\r\nNIKE, Inc. (NYSE:NKE) is a well-… [+2630 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "personal_business"
+        "stock_market"
       ],
       "publishedAtTs": 1751710375
     },
@@ -1761,7 +1710,6 @@
       "content": "(Bloomberg) OPEC+ will increase oil production even more rapidly than expected next month, as the group led by Saudi Arabia seeks to capitalize on strong summer demand in its move to reclaim market s… [+5471 chars]",
       "tags": [
         "energy",
-        "economy_finance",
         "trade"
       ],
       "publishedAtTs": 1751713318
@@ -1780,8 +1728,8 @@
       "content": "Zach Hackman / Investopedia\r\n Deal activity is picking up for a host of reasons, experts say, as the boom expected at the end of 2024 seems to be happening.\r\n<ul><li>Deal activity appears to be picki… [+5743 chars]",
       "tags": [
         "economy_finance",
-        "stock_market",
-        "crisis_emergency"
+        "trade",
+        "technology_regulation"
       ],
       "publishedAtTs": 1751706000
     },
@@ -1798,7 +1746,6 @@
       "publishedAt": "2025-07-05T13:00:00Z",
       "content": "<ul><li>Then-U.S. President Barack Obama dropped more than 26,000 bombs on seven countries Afghanistan, Iraq, Libya, Pakistan, Somalia, Syria and Yemen in 2016 alone. We determined this by looking at… [+13010 chars]",
       "tags": [
-        "security_intelligence",
         "foreign_policy",
         "military"
       ],
@@ -1818,8 +1765,7 @@
       "content": "The ‘Big Beautiful Bill’ was a Christmas tree of wishlist items for the Presidents and for legislators whose votes were needed for passage. But at over 1,000 pages, there are bound to be Easter eggs … [+4343 chars]",
       "tags": [
         "taxes",
-        "economy_finance",
-        "small_business"
+        "policy_legislation"
       ],
       "publishedAtTs": 1751724291
     }

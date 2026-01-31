@@ -295,7 +295,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5192x2921+0+188/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F00%2Febd6773e47a39aa15b7dcc61c8c7%2Fgettyimages-2228577368.jpg",
       "publishedAt": "2025-08-29T09:00:00Z",
       "content": "Former Mississippi Gov. Haley Barbour stands before a wall-sized satellite image of Hurricane Katrina as it headed for landfall on Aug. 29, 2005.\r\n\"The eye came in right there over the Pearl River, w… [+11411 chars]",
-      "tags": [],
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
       "publishedAtTs": 1756458000
     },
     {
@@ -588,7 +591,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/e3f819f6-6e50-40ee-b818-3c40005ad6e6/250829_abc_social_taylor_swift4_hpMain_9x16.jpg?w=992",
       "publishedAt": "2025-08-29T21:32:15Z",
       "content": "<ul><li>Trump cuts billions of foreign aid money\r\n</li><li>Powerball jackpot hits $1B for Labor Day weekend drawing\r\n</li><li>Judge requests more briefings in case challenging Trump's firing of Lisa … [+4537 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1756503135
     },
     {
@@ -787,7 +792,9 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/3q4GcJ37ysJ_MC9JLw4PTgRX4Jc=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_28_dept_labor/original.jpg",
       "publishedAt": "2025-08-29T21:00:00Z",
       "content": "How many members of Congress, federal judges, governors, attorneys general, and other federal and state leaders have submitted home-loan applications with falsehoods in them?Too many, I think, to mak… [+6865 chars]",
-      "tags": [],
+      "tags": [
+        "legal_justice"
+      ],
       "publishedAtTs": 1756501200
     },
     {
@@ -914,7 +921,11 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/7cd65996d90e573a/original/2508_SQ_FRI_KATRINA_ANNIVERSARY-Podcast-Span-Art.jpeg?m=1756411789.808&w=1200",
       "publishedAt": "2025-08-29T10:00:00Z",
       "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nTwenty years ago, Hurricane Katrina became one of the deadliest storms ever to hit the U.S. After sweeping along the Gu… [+22276 chars]",
-      "tags": [],
+      "tags": [
+        "health_science",
+        "natural_disasters",
+        "climate_policy"
+      ],
       "publishedAtTs": 1756461600
     },
     {
@@ -1097,7 +1108,12 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2025/05/mib_2025.png",
       "publishedAt": "2025-08-29T13:00:41Z",
       "content": "This week, I speak with Mark Zandi, chief economist of Moodys Analytics, a subsidiary of Moodys Corp. Dr. Zandi is a cofounder of Economy.com, which Moodys purchased in 2005. He currently hosts the I… [+1195 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "trade",
+        "budget"
+      ],
       "publishedAtTs": 1756472441
     },
     {
@@ -1356,7 +1372,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/image-1756478270.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2025-08-29T14:45:00Z",
       "content": "Donald Trump pledges more deals like Intel stake, worrying business community.The US has taken a stake in Intel chipmaker as part of a push to secure domestic production and reduce reliance on China.… [+515 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trade",
+        "technology_regulation"
+      ],
       "publishedAtTs": 1756478700
     },
     {

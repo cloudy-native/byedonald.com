@@ -12,6 +12,7 @@ import type {
   TaggedNewsResponse,
 } from "./lib/article-utils";
 import { deduplicateArticles } from "./lib/article-utils";
+import { parseJsonArrayFromModelResponse } from "./lib/tag-response-parser";
 
 interface Tag {
   id: string;
@@ -308,15 +309,14 @@ class NewsArticleTagger {
     );
 
     try {
-      const jsonString = responseText.trim();
-      const tags = JSON.parse(jsonString);
-      if (Array.isArray(tags)) {
-        const filtered = tags.filter(
-          (tag) => typeof tag === "string" && validTags.includes(tag),
-        );
-        return filtered.slice(0, this.maxTags); // cap at configured max
+      const raw = parseJsonArrayFromModelResponse(responseText);
+      if (raw.length === 0 && validTags.includes("off_topic")) {
+        return ["off_topic"];
       }
-      return [];
+      const filtered = raw.filter(
+        (tag): tag is string => typeof tag === "string" && validTags.includes(tag),
+      );
+      return filtered.slice(0, this.maxTags); // cap at configured max
     } catch (error) {
       console.error("Error parsing tags from response:", responseText, error);
       return [];
@@ -394,9 +394,11 @@ async function main() {
   console.log("Tagging process completed.");
 }
 
-main()
-  .then(() => console.log("Done"))
-  .catch(console.error);
+if (require.main === module) {
+  main()
+    .then(() => console.log("Done"))
+    .catch(console.error);
+}
 
 export { NewsArticleTagger };
 export type { TagDefinition, TaggedNewsResponse };
