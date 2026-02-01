@@ -69,8 +69,8 @@ jobs:
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
           GATSBY_ALGOLIA_APP_ID: ${{ vars.GATSBY_ALGOLIA_APP_ID }}
+          GATSBY_ALGOLIA_API_KEY: ${{ vars.GATSBY_ALGOLIA_API_KEY }}
           GATSBY_ALGOLIA_INDEX_NAME: ${{ vars.GATSBY_ALGOLIA_INDEX_NAME }}
-          GATSBY_ALGOLIA_API_KEY: ${{ secrets.GATSBY_ALGOLIA_API_KEY }}
 
       - name: Deploy to S3
         run: npm run deploy

@@ -36,9 +36,26 @@ const appId = process.env.GATSBY_ALGOLIA_APP_ID;
 const searchKey = process.env.GATSBY_ALGOLIA_API_KEY;
 const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME;
 
-console.log("Algolia", appId, searchKey, indexName);
+function maskSecret(value: string | undefined): string {
+  if (!value) return "<missing>";
+  if (value.length <= 8) return "<present>";
+  return `${value.slice(0, 4)}…${value.slice(-4)}`;
+}
 
-console.log("env", process.env);
+function logSearchEnvDiagnostics() {
+  if (typeof window === "undefined") return;
+  const diag = {
+    hasAppId: Boolean(appId),
+    hasIndexName: Boolean(indexName),
+    hasSearchKey: Boolean(searchKey),
+    appId: appId ?? "<missing>",
+    indexName: indexName ?? "<missing>",
+    searchKey: maskSecret(searchKey),
+  };
+  console.info("[Search] Algolia env diagnostics", diag);
+}
+
+logSearchEnvDiagnostics();
 
 // Types for Algolia records and UI items
 type Article = {
@@ -546,7 +563,21 @@ function AlgoliaSearch() {
 
 function Search() {
   if (!searchClient || !indexName) {
-    return <div>Search is not implemented yet</div>;
+    return (
+      <Box p={6}>
+        <VStack align="stretch" spacing={3}>
+          <Text>Search is not implemented yet</Text>
+          <Box fontFamily="mono" fontSize="sm">
+            <div>{`GATSBY_ALGOLIA_APP_ID: ${appId ?? "<missing>"}`}</div>
+            <div>{`GATSBY_ALGOLIA_INDEX_NAME: ${indexName ?? "<missing>"}`}</div>
+            <div>{`GATSBY_ALGOLIA_API_KEY: ${maskSecret(searchKey)}`}</div>
+          </Box>
+          <Button size="sm" onClick={logSearchEnvDiagnostics} alignSelf="start">
+            Log diagnostics
+          </Button>
+        </VStack>
+      </Box>
+    );
   }
 
   return (
