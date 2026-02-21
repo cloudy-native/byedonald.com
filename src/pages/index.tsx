@@ -393,4 +393,7 @@ const IndexPage: React.FC<PageProps> = () => {
 
 export default IndexPage;
 
-export const Head: HeadFC = () => <title>2025 Calendar</title>;
+export const Head: HeadFC = () => {
+  const year = new Date().getFullYear();
+  return <title>{year} Calendar</title>;
+};

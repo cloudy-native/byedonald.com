@@ -6,6 +6,7 @@ import {
   Container,
   Heading,
   HStack,
+  Input,
   SimpleGrid,
   Tag,
   TagLabel,
@@ -170,17 +171,63 @@ const WorstThingsPage: React.FC<PageProps> = () => {
 
   const [activeTags, setActiveTags] = React.useState<Set<string>>(new Set());
 
+  const totalItems = React.useMemo(() => {
+    let count = 0;
+    for (const m of monthsChronological) count += m.items.length;
+    return count;
+  }, [monthsChronological]);
+
+  const [query, setQuery] = React.useState<string>("");
+  const [debouncedQuery, setDebouncedQuery] = React.useState<string>("");
+
+  React.useEffect(() => {
+    const id = setTimeout(() => setDebouncedQuery(query), 200);
+    return () => clearTimeout(id);
+  }, [query]);
+
+  const searchableTextById = React.useMemo(() => {
+    const out = new Map<number, string>();
+    for (const month of monthsChronological) {
+      for (const item of month.items) {
+        const tagIds = Array.isArray(item.tags) ? item.tags : [];
+        const tagNames = tagIds
+          .map((t) => tagMetaById.get(t)?.name)
+          .filter((n): n is string => typeof n === "string");
+        const combined = [item.text, ...tagIds, ...tagNames]
+          .join("\n")
+          .toLowerCase();
+        out.set(item.id, combined);
+      }
+    }
+    return out;
+  }, [monthsChronological, tagMetaById]);
+
   const filteredMonths = React.useMemo(() => {
-    if (activeTags.size === 0) return monthsChronological;
+    const q = debouncedQuery.trim().toLowerCase();
+    const hasQuery = q.length > 0;
+    const hasTags = activeTags.size > 0;
+    if (!hasQuery && !hasTags) return monthsChronological;
+
     return monthsChronological
       .map((m) => {
-        const filteredItems = m.items.filter((item) =>
-          (item.tags ?? []).some((t) => activeTags.has(t)),
-        );
+        const filteredItems = m.items.filter((item) => {
+          const matchesTags =
+            !hasTags || (item.tags ?? []).some((t) => activeTags.has(t));
+          if (!matchesTags) return false;
+          if (!hasQuery) return true;
+          const haystack = searchableTextById.get(item.id) ?? "";
+          return haystack.includes(q);
+        });
         return { ...m, items: filteredItems };
       })
       .filter((m) => m.items.length > 0);
-  }, [monthsChronological, activeTags]);
+  }, [monthsChronological, activeTags, debouncedQuery, searchableTextById]);
+
+  const filteredItemCount = React.useMemo(() => {
+    let count = 0;
+    for (const m of filteredMonths) count += m.items.length;
+    return count;
+  }, [filteredMonths]);
 
   const [selectedMonth, setSelectedMonth] = React.useState<string>(
     filteredMonths.length > 0
@@ -338,8 +385,32 @@ const WorstThingsPage: React.FC<PageProps> = () => {
             </Heading>
             <Text color={textColor} fontSize="sm">
               A comprehensive list documenting 500 of the worst things Trump and
-              his admin did just this year.
+              his admin did just in 2025.
             </Text>
+
+            <VStack align="stretch" spacing={2} mt={4} mb={4}>
+              <HStack align="center" spacing={3}>
+                <Input
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  placeholder="Search within 500 Worst Things…"
+                  bg={useColorModeValue("white", "gray.800")}
+                  borderColor={useColorModeValue("gray.200", "gray.700")}
+                />
+                {query.trim().length > 0 ? (
+                  <Button
+                    size="sm"
+                    variant="ghost"
+                    onClick={() => setQuery("")}
+                  >
+                    Clear
+                  </Button>
+                ) : null}
+              </HStack>
+              <Text fontSize="sm" color={mutedLabelColor}>
+                {`Showing ${filteredItemCount} of ${totalItems}`}
+              </Text>
+            </VStack>
 
             <VStack align="stretch" spacing={1} mt={2} mb={6}>
               <Text color={textColor} fontSize="sm">

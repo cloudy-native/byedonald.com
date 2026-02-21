@@ -36,6 +36,9 @@ const appId = process.env.GATSBY_ALGOLIA_APP_ID;
 const searchKey = process.env.GATSBY_ALGOLIA_API_KEY;
 const indexName = process.env.GATSBY_ALGOLIA_INDEX_NAME;
 
+const IMAGE_FALLBACK_SRC =
+  "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='800' height='400'%3E%3Crect width='100%25' height='100%25' fill='%23f1f5f9'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%2364748b' font-family='Arial' font-size='32'%3EImage unavailable%3C/text%3E%3C/svg%3E";
+
 function maskSecret(value: string | undefined): string {
   if (!value) return "<missing>";
   if (value.length <= 8) return "<present>";
@@ -264,6 +267,13 @@ function Hit({ hit, selected }: { hit: ArticleHit; selected: boolean }) {
         <Image
           src={hit.urlToImage}
           alt={hit.title}
+          referrerPolicy="no-referrer"
+          onError={(e) => {
+            const img = e.currentTarget;
+            img.onerror = null;
+            img.src = IMAGE_FALLBACK_SRC;
+            img.style.objectFit = "contain";
+          }}
           objectFit="cover"
           loading="lazy"
           w="100%"
