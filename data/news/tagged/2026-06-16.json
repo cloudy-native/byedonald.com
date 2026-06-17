@@ -1,0 +1,1736 @@
+{
+  "status": "ok",
+  "totalResults": 95,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "description": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they're still split on the risk Claude Fable 5 presents.",
+      "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "urlToImage": "https://media.wired.com/photos/6a3068b96de136e1eb346f80/191:100/w_1280,c_limit/Anthropic-Latest-Clash-With-White-House-Business-2280291383.jpg",
+      "publishedAt": "2026-06-16T00:53:46Z",
+      "content": "Trump administration officials concluded talks with Anthropic on Monday without lifting export controls that were imposed last week on the companys most advanced AI models in response to jailbreaking… [+4047 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781571226
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "Inside the fight over Claude Mythos 5",
+      "description": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export contr…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-06-16T02:59:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nInside the fight over Claude Mythos 5\r\nThe government torpedoed Anthropics newest, most powerful model. Sources tell The Verge that the AI lab and other AI boost… [+12488 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781578757
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ellyn Lapointe",
+      "title": "Trump Just Lost His War on Wind Energy",
+      "description": "The administration has withdrawn its appeal of a federal court ruling that shot down Trump’s freeze on federal leasing and permitting for wind projects.",
+      "url": "https://gizmodo.com/trump-just-lost-his-war-on-wind-energy-2000772529",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/Power-County-wind-farm-1200x675.jpg",
+      "publishedAt": "2026-06-16T19:45:11Z",
+      "content": "As soon as President Trump started his second term, he declared war on the U.S. wind energy industry. On his very first day in office, he ordered federal agencies to halt permitting and leasing for w… [+3526 chars]",
+      "tags": [
+        "energy",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781639111
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ece Yildirim",
+      "title": "Under Trump, DOJ Moves to Intervene in NAACP Lawsuit in Support of Musk’s xAI",
+      "description": "In a memo, the DOJ said xAI's Grok is vital for national security efforts, especially in Iran.",
+      "url": "https://gizmodo.com/under-trump-doj-moves-to-intervene-in-naacp-lawsuit-in-support-of-musks-xai-2000772560",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/GettyImages-2217853041-1200x675.jpg",
+      "publishedAt": "2026-06-16T18:19:55Z",
+      "content": "The Department of Justice and the state of Mississippi have just moved to intervene in a lawsuit filed by the civil rights group NAACP against xAI, claiming that xAI’s business is a matter of nationa… [+3389 chars]",
+      "tags": [
+        "legal_justice",
+        "national_security",
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1781633995
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "The White House Was Reportedly Ready to Go After Claude Mythos Long Before Fable 5 Was Released",
+      "description": "The fateful export control directive may have already been locked and loaded.",
+      "url": "https://gizmodo.com/the-white-house-was-reportedly-ready-to-go-after-claude-mythos-long-before-fable-5-was-released-2000772295",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Dario-Amodei-Pentagon-Anthropic-V2-1200x675.jpg",
+      "publishedAt": "2026-06-16T09:30:13Z",
+      "content": "On June 2, about a week before Anthropic released its Claude Fable 5 model, it announced it had added 150 new organizations to Project Glasswing, the program that allowed (theoretically) trustworthy … [+2193 chars]",
+      "tags": [
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1781602213
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "Microsoft Mulls China’s DeepSeek for Copilot, Probably to Trump’s Chagrin",
+      "description": "Don't see this going over well.",
+      "url": "https://gizmodo.com/microsoft-mulls-chinas-deepseek-for-copilot-probably-to-trumps-chagrin-2000772649",
+      "urlToImage": "https://gizmodo.com/app/uploads/2023/12/a87bcbe64b7260c287db801c45e6d7ac.jpg",
+      "publishedAt": "2026-06-16T21:33:52Z",
+      "content": "Microsoft, now free of the shackles that previously tied it to OpenAI, apparently has eyes for other AI modelsparticularly ones that are cheap. According to a report from Axios, tokenmaxxing is takin… [+2331 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1781645632
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Why is newly renovated Reflecting Pool in Washington DC full of algae?",
+      "description": "The historic pool has turned green with algae just days after it was refilled with water following renovations.",
+      "url": "https://www.bbc.com/news/videos/c0qynw823eeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4f93/live/6f844c40-69be-11f1-8546-8f19e4fe30f4.png",
+      "publishedAt": "2026-06-16T23:45:20Z",
+      "content": "The Lincoln Memorial Reflecting Pool in the US capital has turned green with algae days after it was refilled with water following renovations.\r\nPresident Donald Trump ordered the revamp last year, c… [+244 chars]",
+      "tags": [
+        "regional_state",
+        "washington_dc"
+      ],
+      "publishedAtTs": 1781653520
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "G7 leaders open summit talks in France on Ukraine and the Middle East",
+      "description": "The talks come on the heels of President Trump's announcement of an agreement to end the U.S. war against Iran. In recent weeks, the Iranian conflict has overshadowed the war in Ukraine.",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5133x2887+0+267/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2Fc0%2F265e26f549efae3c314e7106e770%2Fap26166697408536.jpg",
+      "publishedAt": "2026-06-16T05:37:59Z",
+      "content": "EVIAN-LES-BAINS, France Leaders at the Group of Seven summit of major industrialized nations face a packed agenda on their first full day Tuesday, including challenging discussions on ending Russia's… [+4983 chars]",
+      "tags": [
+        "foreign_policy",
+        "ukraine",
+        "iran"
+      ],
+      "publishedAtTs": 1781588279
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "UFC boss Dana White says 'never again' to another White House fight night",
+      "description": "The headaches over weather concerns in the outdoors show, the logistics of construction of the cage and staging events at federal landmarks and the soaring cost made Freedom 250 a one-off.",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859911/ufc-boss-says-never-again-white-house",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6838x3846+0+356/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F1c%2Fbc2ccd814f17b84d594cbe054604%2Fap26166218699005.jpg",
+      "publishedAt": "2026-06-16T05:51:18Z",
+      "content": "WASHINGTON By the time Justin Gaethje pummeled his bloodied foe to a pulp and celebrated a championship win with a backflip off the top of the wire-mesh cage, then shook hands with President Donald T… [+4227 chars]",
+      "tags": [
+        "media_communications",
+        "personal_family"
+      ],
+      "publishedAtTs": 1781589078
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "40-year-old Cape Verde goalkeeper keeps favorite Spain to 0 goals at World Cup",
+      "description": "Vozinha recorded seven saves Monday, holding Spain's star-studded lineup to a shocking 0-0 draw. The veteran keeper was everywhere as the Spanish team and its fans became increasingly frustrated.",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859915/cape-verde-goalkeeper",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2215x1246+0+116/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F6f%2Fec125fed42698bfb9ad70359d3c8%2Fap26166603425435.jpg",
+      "publishedAt": "2026-06-16T06:19:37Z",
+      "content": "ATLANTA It took Cape Verde goalkeeper Vozinha all of his 40 years on Earth to make his World Cup debut.\r\nThe long, long wait was worth every fleeting second.\r\nVozinha recorded seven saves Monday, hol… [+3005 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781590777
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Taylor Rains",
+      "title": "An Iran peace deal won't lower airfares anytime soon, analysts say",
+      "description": "Analysts say tight seat supply and strong demand give airlines little incentive to cut fares, even if the US-Iran war ends and oil prices fall.",
+      "url": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a3196774074dae0e204443e?width=1200&format=jpeg",
+      "publishedAt": "2026-06-16T20:01:44Z",
+      "content": "Aviation analysts say they don't expect airfare to go down even if oil prices ease after a US-Iran peace deal.TSA\r\n<ul><li>Oil prices fell amid peace talks between the US and Iran, but that doesn't m… [+4812 chars]",
+      "tags": [
+        "trade",
+        "energy",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1781640104
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Shimkus",
+      "title": "Apple once faced a US export control on its 'supercomputer.' Steve Jobs turned it into a marketing moment.",
+      "description": "In 1999, Apple's Power Mac G4 exceeded the allowed computing threshold for US exports to some countries. Steve Jobs leaned into the moment.",
+      "url": "https://www.businessinsider.com/apple-steve-jobs-us-export-control-marketing-moment-anthropic-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a300b91a46294061189947e?width=1200&format=jpeg",
+      "publishedAt": "2026-06-16T09:00:01Z",
+      "content": "Anthropic is far from the first first Silicon Valley giant to trigger US government export controls. Apple turned the prospect of a 1999 export limit on the Power Mac G4 into an ad campaign.JOHN G. M… [+4137 chars]",
+      "tags": [
+        "trade",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781600401
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Rob Beschizza",
+      "title": "Trump Arch in D.C. to be tremendously large and golden",
+      "description": "When President Trump first showed reporters a model of the proposed United States Triumphal Arch, CBS News's Ed O'Keefe asked who it was for. \"Me,\" said Trump. \"It's going to be beautiful.\"\nThe arch, formally in honor of the United States' 250th anniversary, …",
+      "url": "https://boingboing.net/2026/06/16/trump-arch-in-d-c-to-be-tremendously-large-and-golden.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2026/06/bafkreidvxvyhhcwomqbxjnjui3rgeftkacbcsv5g3snc7y327yzto34mou.webp",
+      "publishedAt": "2026-06-16T11:13:11Z",
+      "content": "When President Trump first showed reporters a model of the proposed United States Triumphal Arch, CBS News's Ed O'Keefe asked who it was for. \"Me,\" said Trump. \"It's going to be beautiful.\"\r\nThe arch… [+3086 chars]",
+      "tags": [
+        "personal_family",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781608391
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Alina Maria Stan",
+      "title": "The EU just passed the Turnberry trade deal. The tech fight is only starting.",
+      "description": "The European Parliament voted on Tuesday to ratify the Turnberry Agreement, the trade deal struck at Donald Trump’s Scottish golf resort in July 2025. The final tally was 440 in favour, 151 against, with 50 abstentions. Under the deal, the EU will eliminate m…",
+      "url": "https://thenextweb.com/news/eu-parliament-turnberry-trade-deal-tech/",
+      "urlToImage": "https://media.thenextweb.com/2026/06/eu-parliament-turnberry-trade-deal-tech.avif",
+      "publishedAt": "2026-06-16T13:33:28Z",
+      "content": "TL;DR\r\nThe European Parliament voted 440-151 to ratify the Turnberry trade deal with the US, accepting a 15% tariff ceiling on most exports while eliminating duties on US industrial goods. The deal c… [+3952 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1781616808
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Trump invokes Defense Production Act for munitions, supply chains",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cbbe46fc-eeaa-4098-92ce-779d31e840c7",
+      "urlToImage": null,
+      "publishedAt": "2026-06-16T16:15:53Z",
+      "content": "If you click 'Accept all', we and our partners, including 248 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+      "tags": [
+        "defense_contractor_reform",
+        "department_of_war"
+      ],
+      "publishedAtTs": 1781626553
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Carla Hinton, The Oklahoman",
+      "title": "Trump-endorsed pastor says he 'crossed boundary' with texts",
+      "description": "Married Tulsa pastor and congressional candidate Jackson Lahmeyer admits to crossing boundary line with text messages to Miss Oklahoma USA 2007.",
+      "url": "https://www.usatoday.com/story/news/politics/2026/06/16/oklahoma-pastor-jackson-lahmeyer-admits-texting/90568801007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f1b6081d15980e28cdce4f52f7c63efb69862dd53cc3fbc340d68c3c86cd7519/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fd2fb773391c8d753996e3e9f1d9d4483",
+      "publishedAt": "2026-06-16T09:44:05Z",
+      "content": "An Oklahoma pastor running for Congress says he \"crossed a boundary line\" by sending text messages to a woman who is not his wife.\r\nThe remarks came less than two days before the primary election and… [+4212 chars]",
+      "tags": [
+        "personal_family",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1781603045
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By John Irish, Michel Rose and Gabriel Stargardter",
+      "title": "Zelenskiy seeks to convince Trump at G7 that Russia now on the defensive",
+      "description": "EVIAN-LES-BAINS, France, June 16 (Reuters) - President Volodymyr Zelenskiy arrived at the G7 summit on Tuesday, hoping to impress upon U. leader Donald Trump...",
+      "url": "https://uk.news.yahoo.com/europeans-test-trump-iran-deal-040105566.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b7c3e757c8762df290e234cc22bb932e5d72b5f26987074a7a60337a27963d6b/lightyear_networkapi/resizefill_w800_h532;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe63bb1661b6feb25ef5107ba016971c1",
+      "publishedAt": "2026-06-16T08:21:52Z",
+      "content": "By John Irish, Michel Rose and Gabriel Stargardter\r\nEVIAN-LES-BAINS, France, June 16 (Reuters) - President Volodymyr Zelenskiy arrived at the G7 summit on Tuesday, hoping to impress upon U.S. leader … [+3402 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1781598112
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ROB GILLIES, SYLVIE CORBET, DARLENE SUPERVILLE and COLLIN BINKLEY",
+      "title": "Hot mics at the G7 capture world leaders' chats between weighty topics",
+      "description": "EVIAN-LES-BAINS, France (AP) — The leaders of the world’s richest democracies are talking about how to tackle some of the world’s biggest problems this week,...",
+      "url": "https://www.yahoo.com/news/world/articles/hot-mics-g7-capture-world-163725864.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/83be03759e36720f338a1e5c93afa4bbb24be95b31a8097e195a3fce055e90e6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F49a9b8f20eb59f693ab9d3a7bf4f6411",
+      "publishedAt": "2026-06-16T16:37:25Z",
+      "content": "EVIAN-LES-BAINS, France (AP) The leaders of the world's richest democracies are talking about how to tackle some of the world's biggest problems this week, but hot mics at the G7 summit revealed that… [+3398 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781627845
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Jason Lange",
+      "title": "As US nears 250th birthday, Reuters/Ipsos poll shows many Americans doubt it will last another 250 years",
+      "description": "By Jason Lange WASHINGTON, June 16 (Reuters) - As the U.S. approaches its 250th birthday next month, two out of five Americans do not believe it will endure...",
+      "url": "https://www.yahoo.com/news/politics/articles/us-nears-250th-birthday-reuters-100600487.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/28d829566c13c3e311fd0df9101742e066dc4b422543940a59b075bce6e72282/lightyear_networkapi/resizefill_w800_h534;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe2d321f716300546a00a7b80217a420f",
+      "publishedAt": "2026-06-16T10:06:00Z",
+      "content": "By Jason Lange\r\nWASHINGTON, June 16 (Reuters) - As the U.S. approaches its 250th birthday next month, two out of five Americans do not believe it will endure another 250 years beyond that, according … [+3566 chars]",
+      "tags": [
+        "polling"
+      ],
+      "publishedAtTs": 1781604360
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alayna Treene, Kevin Liptak, CNN",
+      "title": "US officials downplay text of the Iran agreement, saying it doesn’t account for back-channel commitments",
+      "description": "US negotiators are working to quickly release the text of the agreement between Washington and Tehran, even as they downplay the significance of the specific...",
+      "url": "https://www.cnn.com/2026/06/16/politics/iran-agreement-text-trump",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1a1665855b43988178d2ded3b5dedc5ed14277fa6152295889b12bc549295904/lightyear_networkapi/resizefill_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F00ef16189687fa02024933d4d9463b83",
+      "publishedAt": "2026-06-16T22:50:40Z",
+      "content": "US negotiators are working to quickly release the text of the agreement between Washington and Tehran, even as they downplay the significance of the specific language in the document, US officials to… [+6596 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781650240
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "KATE BRUMBACK",
+      "title": "Judge who had sex in courthouse and attended political event agrees to exit Georgia election case",
+      "description": "A federal judge who was disciplined after an investigation found that she had sex with a police officer in her chambers and attended a partisan event, then l...",
+      "url": "https://www.yahoo.com/news/politics/articles/judge-had-sex-courthouse-attended-143814409.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8c9c41f330cd39711a7e65fca792db7b2d24e0aa5edace861aff89fdf0ac5c1b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fed2277930a7da92e9b0c34d618fe5cef",
+      "publishedAt": "2026-06-16T14:38:14Z",
+      "content": "ATLANTA (AP) A federal judge who was disciplined after an investigation found that she had sex with a police officer in her chambers and attended a partisan event, then lied when confronted with the … [+1978 chars]",
+      "tags": [
+        "legal_justice",
+        "personnel"
+      ],
+      "publishedAtTs": 1781620694
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Strait of Hormuz transit will take ‘weeks’ to resume, largest tanker operator tells FT",
+      "description": "June 16 (Reuters) - Shipowners will not resume transit through the Strait of Hormuz for weeks until they are confident that the U.S.-Iran peace deal is \"mate...",
+      "url": "https://www.yahoo.com/news/articles/strait-hormuz-transit-weeks-resume-050700111.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9ac319db1f7090c381d0bc958db3bfd24a5deedc8317bb77d817789215eab8d8/lightyear_networkapi/resizefill_w800_h503;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbb1bd6ff354047bbed6be341421d9fcb",
+      "publishedAt": "2026-06-16T09:13:04Z",
+      "content": "June 16 (Reuters) - Shipowners will not resume transit through the Strait of Hormuz for weeks until they are confident that the U.S.-Iran peace deal is \"material\", the CEO of Japan's Mitsui O.S.K. Li… [+1430 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "trade"
+      ],
+      "publishedAtTs": 1781601184
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Jason Weisberger",
+      "title": "Ghislaine Maxwell reportedly finds her mean-girls table in prison",
+      "description": "Raw Story, citing the Daily Mail, says Maxwell has formed a \"highly secretive\" group at Federal Prison Camp Bryan in Texas, where she allegedly whispers with three women she considers among the \"finest and best educated\" prisoners. The reported crew has a cer…",
+      "url": "https://boingboing.net/2026/06/16/ghislaine-maxwell-reportedly-finds-her-mean-girls-table-in-prison.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg",
+      "publishedAt": "2026-06-16T16:25:36Z",
+      "content": "Raw Story, citing the Daily Mail, says Maxwell has formed a \"highly secretive\" group at Federal Prison Camp Bryan in Texas, where she allegedly whispers with three women she considers among the \"fine… [+1349 chars]",
+      "tags": [
+        "personal_family",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1781627136
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Grant St. Clair",
+      "title": "Saul Goodman returns to celebrate America's 250th",
+      "description": "It's a funny world when Breaking Bad's comic relief lawyer Saul Goodman has more integrity than the sitting President. I did not tune into Trump's UFC fight, but you better believe I sat up when Better Call Saul co-creator and showrunner Peter Gould posted a …",
+      "url": "https://boingboing.net/2026/06/16/saul-goodman-returns-to-celebrate-americas-250th.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2022/08/Better-Call-Saul-scaled.jpeg",
+      "publishedAt": "2026-06-16T16:03:00Z",
+      "content": "It's a funny world when Breaking Bad's comic relief lawyer Saul Goodman has more integrity than the sitting President. I did not tune into Trump's UFC fight, but you better believe I sat up when Bett… [+665 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781625780
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Heather Schwedel",
+      "title": "J.D. Vance’s Visit to The View Made for One of the Most Chaotic Episodes of TV I’ve Ever Seen",
+      "description": "At least four of the six co-hosts seemed openly hostile to Vance.",
+      "url": "https://slate.com/life/2026/06/jd-vance-the-view-communion-book-abc.html",
+      "urlToImage": "https://compote.slate.com/images/13ed9ebf-bd55-41e7-a0ab-128e58052361.jpeg?crop=2797%2C1865%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-06-16T22:12:41Z",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nJ.D. Vances visit to The View on Tuesday made for one of the most incoher… [+3924 chars]",
+      "tags": [
+        "media_communications",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1781647961
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "CHRISTOPHER RUGABER AP economics writer",
+      "title": "All eyes turn to Fed chair Kevin Warsh and his first moves on interest rates",
+      "description": "Ever since Kevin Warsh was nominated by President Trump in late January to lead the Federal Reserve, a question has lingered: Will he seek to raise interest rates to tame inflation or cut them as Trump has long demanded",
+      "url": "https://abcnews.com/Politics/wireStory/eyes-turn-fed-chair-kevin-warsh-moves-interest-133910433",
+      "urlToImage": "https://i.abcnewsfe.com/a/350a8264-2818-4aaa-9578-a8f4820ec7b9/wirestory_9a65c1d31c24bf943530f322fd5a731a_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T09:43:15Z",
+      "content": "WASHINGTON -- Ever since Kevin Warsh was nominated by President Trump in late January to lead the Federal Reserve, a question has lingered: Will he seek to raise interest rates to tame inflation or c… [+5744 chars]",
+      "tags": [
+        "economy_finance",
+        "inflation",
+        "trade",
+        "banking"
+      ],
+      "publishedAtTs": 1781602995
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Will Lennon",
+      "title": "Democratic socialists think fatigue with mainstream could open paths in midterms",
+      "description": "Trump threatened to \"take back\" D.C. if democratic socialist wins mayor's race.",
+      "url": "https://abcnews.com/Politics/democratic-socialists-fatigue-mainstream-politics-open-paths-victories/story?id=133890951",
+      "urlToImage": "https://i.abcnewsfe.com/a/1facba2c-27f5-4226-8878-c0f47337cc25/raman-gty-jef-260615_1781549816495_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T21:22:18Z",
+      "content": "When asked at the White House how he would feel if Janeese Lewis George won Tuesday's primary in her campaign to become the new mayor of Washington, D.C., President Donald Trump's response was clear.… [+5509 chars]",
+      "tags": [
+        "elections_politics",
+        "democratic_party"
+      ],
+      "publishedAtTs": 1781644938
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "MATTHEW DALY Associated Press, BERNARD CONDON Associated Press",
+      "title": "DOJ seeks to dismiss air pollution lawsuit against xAI data center",
+      "description": "The Trump administration is helping one of Elon Musk’s companies fight a civil rights lawsuit that alleges it is illegally running dozens of natural gas turbines to power a $20 billion data center in Mississippi",
+      "url": "https://abcnews.com/Business/wireStory/boost-musk-justice-department-seeks-dismiss-air-pollution-133942437",
+      "urlToImage": "https://i.abcnewsfe.com/a/dbe7dbf1-7bfe-458e-8be6-1475a88acb6e/wirestory_0e981ca0508d7e4144662392d9d66ab2_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T23:23:50Z",
+      "content": "WASHINGTON -- The Trump administration is helping one of Elon Musk's companies fight a civil rights lawsuit that alleges it is illegally running dozens of natural gas turbines to power a $20 billion … [+4480 chars]",
+      "tags": [
+        "legal_justice",
+        "environment",
+        "energy"
+      ],
+      "publishedAtTs": 1781652230
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Deena Zaru",
+      "title": "Trump admin seeks to block restoration of historical sites at national parks",
+      "description": "The National Park Service filed an appeal to dismiss a judge's ruling that the federal government must restore historical sites and materials at national parks.",
+      "url": "https://abcnews.com/US/trump-admin-seeks-block-restoration-historical-sites-ahead/story?id=133923492",
+      "urlToImage": "https://i.abcnewsfe.com/a/db694ae4-19dd-4393-b3fb-bdcb04116cbb/president-1-ht-er-260122_1769125604626_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T17:33:35Z",
+      "content": "The Trump administration sought to block a court order to restore historical sites across the country ahead of America 250 celebrations on July 4.\r\nThe Department of the Interior and the National Par… [+4510 chars]",
+      "tags": [
+        "policy_legislation",
+        "environment"
+      ],
+      "publishedAtTs": 1781631215
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Halle Troadec",
+      "title": "Could Trump’s last-minute endorsement prevail in Georgia’s high-stakes Senate race?",
+      "description": "Trump's 11th-hour endorsement of Collins in the Georgia Senate runoff puts him at odds with popular Republican Gov. Brian Kemp, who endorsed Dooley.",
+      "url": "https://abcnews.com/Politics/trumps-minute-endorsement-prevail-georgias-high-stakes-senate/story?id=133829876",
+      "urlToImage": "https://i.abcnewsfe.com/a/e88ebdd2-3195-4ebd-b341-6e44fa01f514/collins-dooley-gty-jef-260615_1781549423180_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T12:44:10Z",
+      "content": "Just before 1 a.m. on Sunday after more than 450,000 Georgia voters had already cast their ballots during early voting, President Donald Trump dropped an endorsement in the state's marquee Senate rac… [+5065 chars]",
+      "tags": [
+        "elections_politics",
+        "2024_presidential",
+        "republican_party",
+        "campaign_events"
+      ],
+      "publishedAtTs": 1781613850
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Arthur Jones II",
+      "title": "Department of Education takes major step in dismantling itself: Sources",
+      "description": "It plans to move special education and civil rights functions to HHS and DOJ.",
+      "url": "https://abcnews.com/Politics/department-education-taking-major-step-dismantling-sources/story?id=133927816",
+      "urlToImage": "https://i.abcnewsfe.com/a/f59f2faf-3e6f-4cf7-8113-d1c74de69e0d/dept-of-ed-building-gty-jt-251001_1759334567388_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T16:45:12Z",
+      "content": "The Department of Education is expected to announce a major step in the Trump administration's efforts to dismantle the agency -- moving special education services and civil rights responsibilities t… [+768 chars]",
+      "tags": [
+        "government_administration",
+        "policy_legislation",
+        "education"
+      ],
+      "publishedAtTs": 1781628312
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Hannah Demissie",
+      "title": "Vance, on 'The View,' appears to acknowledge Situation Room meetings on Epstein files",
+      "description": "The vice president said he was a \"conspiracy theorist\" on Epstein.",
+      "url": "https://abcnews.com/Politics/vance-view-appears-acknowledge-situation-room-meetings-epstein/story?id=133924092",
+      "urlToImage": "https://i.abcnewsfe.com/a/f6bb3510-5d13-488f-a590-3b22fd4652df/vance-1-abc-gmh-260616_1781623429584_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T23:00:38Z",
+      "content": "Vice President JD Vance, during an appearance on ABC's \"The View\" on Tuesday, responded to New York Times reporting that he and other top advisers to President Donald Trump gathered in the Situation … [+2728 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781650838
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Peter Charalambous",
+      "title": "New lawsuit challenges Trump’s planned 'National Garden of American Heroes'",
+      "description": "The suit against the National Parks Service and Interior Department claims the project ignores laws governing public land use in D.C.",
+      "url": "https://abcnews.com/US/new-lawsuit-challenges-trumps-planned-national-garden-american/story?id=133900129",
+      "urlToImage": "https://i.abcnewsfe.com/a/afc66895-a00e-4403-a433-626ae7e243b8/potomac-1-gty-er-260615_1781555777265_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T06:16:40Z",
+      "content": "President Donald Trumps attempt to reshape the Washington, D.C., landscape hit another potential roadblock Monday after a group of preservation and cultural heritage organizations filed a federal law… [+3509 chars]",
+      "tags": [
+        "legal_justice",
+        "social_issues"
+      ],
+      "publishedAtTs": 1781590600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Hundreds of dogs rescued as testing facility closes",
+      "description": "A deal will permanently close a longtime animal testing facility and relocate nearly 500 remaining beagles.",
+      "url": "https://abcnews.com/video/133913840/",
+      "urlToImage": "https://i.abcnewsfe.com/a/5cec5245-07e8-4203-944c-6af603b26a61/260616_gmafl_dogs_rescued_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T09:37:38Z",
+      "content": "<ul><li>President Trump announces 60-day ceasefire deal with Iran\r\n</li><li>Newsom claims Trump ordered DOJ to investigate him and his wife\r\n</li><li>8 feared dead after B-52 bomber crashed after tak… [+4436 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781602658
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Dad's sewer rescue mission for daughter's phone goes viral",
+      "description": "A tech-savvy dad's quest to recover his daughter's stolen phone led him into a city sewer and made him an internet sensation.",
+      "url": "https://abcnews.com/video/133913726/",
+      "urlToImage": "https://i.abcnewsfe.com/a/07e0aa87-8919-4a5b-a562-c267dd02427a/260616_gmafl_dad_sewer_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T09:19:00Z",
+      "content": "<ul><li>President Trump announces 60-day ceasefire deal with Iran\r\n</li><li>Newsom claims Trump ordered DOJ to investigate him and his wife\r\n</li><li>8 feared dead after B-52 bomber crashed after tak… [+4436 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781601540
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Max Zahn",
+      "title": "Fed set to make interest rate decision as inflation hits 3-year high",
+      "description": "Futures markets overwhelmingly expect the Fed to hold interest rates steady.",
+      "url": "https://abcnews.com/Business/fed-set-make-interest-rate-decision-inflation-hits/story?id=133758112",
+      "urlToImage": "https://i.abcnewsfe.com/a/7f587b15-cc66-4140-9a08-276671e9ebdd/fed-rt-gmh-260615_1781548943644_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T09:22:32Z",
+      "content": "The Federal Reserve is set to announce its latest decision on interest rates on Wednesday as the central bank weathers the highest inflation in three years.\r\nThe announcement will mark the first poss… [+3840 chars]",
+      "tags": [
+        "economy_finance",
+        "inflation"
+      ],
+      "publishedAtTs": 1781601752
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: The phone call is having a comeback",
+      "description": "Why some parents are introducing their kids to landlines and why some experts say it could be good for childhood development.",
+      "url": "https://abcnews.com/video/133939338/",
+      "urlToImage": "https://i.abcnewsfe.com/a/71b59517-031a-40a8-a62a-44769d970cd1/260615_gma3_telephone_comeback_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T23:32:18Z",
+      "content": "<ul><li>ABC News interviews Barack and Michelle Obama: Exclusive\r\n</li><li>Trump touts Iran deal as 'good' despite lingering questions\r\n</li><li>VP Vance says White House has been transparent about E… [+4138 chars]",
+      "tags": [
+        "social_issues",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781652738
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Cast of 'Moana' ready to set sail",
+      "description": "Dwayne Johnson and Catherine Laga‘aia launched the live-action \"Moana\" press tour as new song \"Along The Way,\" written by Lin-Manuel Miranda, debuts ahead of the June 26 soundtrack release.",
+      "url": "https://abcnews.com/video/133933726/",
+      "urlToImage": "https://i.abcnewsfe.com/a/2b9bd73c-bf7f-42c8-9140-aa690e29c119/260616_gma3_pop_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T18:29:02Z",
+      "content": "<ul><li>Trump faces questions on Iran deal at G7\r\n</li><li>Iran says Israeli attacks in Lebanon violate any agreement\r\n</li><li>FBI disrupts alleged plot targeting UFC Freedom 250 fight: Sources\r\n</l… [+4276 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781634542
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: World Cup fever sweeps US as global fans arrive",
+      "description": "ABC News contributor Mike Muse discusses how international fans are experiencing the United States as World Cup matches draw crowds across the country.",
+      "url": "https://abcnews.com/video/133942792/",
+      "urlToImage": "https://i.abcnewsfe.com/a/080d162b-f0f4-4622-a35f-8a8c6695da3a/260616_abcnl_5p_world_2cup_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T23:45:19Z",
+      "content": "<ul><li>World Cup fever sweeps US as global fans arrive\r\n</li><li>Trump says Iran deal can survive if Israel keeps attacking Lebanon\r\n</li><li>FBI foils alleged drone plot targeting UFC White House e… [+4198 chars]",
+      "tags": [
+        "foreign_policy",
+        "immigration",
+        "media_communications"
+      ],
+      "publishedAtTs": 1781653519
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: 'Paddington The Musical' coming to Broadway",
+      "description": "\"GMA\" shares the exclusive news that \"Paddington The Musical\" is heading to Broadway's Al Hirschfeld Theatre in 2027.",
+      "url": "https://abcnews.com/video/133918229/",
+      "urlToImage": "https://i.abcnewsfe.com/a/13366687-6150-4b67-be16-5a451111845a/260616_gma_paddington4_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T16:31:19Z",
+      "content": "<ul><li>Trump faces questions on Iran deal at G7\r\n</li><li>Iran says Israeli attacks in Lebanon violate any agreement\r\n</li><li>FBI disrupts alleged plot targeting UFC Freedom 250 fight: Sources\r\n</l… [+4276 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781627479
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: ABC News interviews Barack and Michelle Obama: Exclusive",
+      "description": "Here is a first look at Robin Roberts' conversation with former President Barack Obama and former first lady Michelle Obama ahead of this week's opening of the Obama Presidential Center.",
+      "url": "https://abcnews.com/video/133930671/",
+      "urlToImage": "https://i.abcnewsfe.com/a/b3f76118-52ad-4ee8-9ced-c4dec0aff573/260616_gma_obama_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T16:54:31Z",
+      "content": "<ul><li>Trump faces questions on Iran deal at G7\r\n</li><li>Iran says Israeli attacks in Lebanon violate any agreement\r\n</li><li>FBI disrupts alleged plot targeting UFC Freedom 250 fight: Sources\r\n</l… [+4276 chars]",
+      "tags": [
+        "media_communications",
+        "social_issues",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781628871
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Queer gear library helps Mainers get outside",
+      "description": "ABC News’ Becky Worley reports on a Maine program working to make it easier and more affordable for people to enjoy the outdoors.",
+      "url": "https://abcnews.com/video/133918594/",
+      "urlToImage": "https://i.abcnewsfe.com/a/d1b3df1d-ff0b-4930-b9c5-84bd38e8cc6f/260616_gma_worley_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T13:24:32Z",
+      "content": "<ul><li>FBI disrupts alleged plot targeting UFC Freedom 250 fight: Sources\r\n</li><li>Millions face flash flood emergency in Texas\r\n</li><li>Flash flood emergency stretches across Gulf Coast\r\n</li><li… [+4312 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781616272
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Luke Barr",
+      "title": "All 78 World Cup matches have counter-drone technology: White House official",
+      "description": "Andrew Giuliani spoke to ABC News after an alleged UFC 250 drone attack plot was disrupted by authorities.",
+      "url": "https://abcnews.com/US/78-world-cup-matches-counter-drone-technology-white/story?id=133927808",
+      "urlToImage": "https://i.abcnewsfe.com/a/5b486aaa-9cba-472c-86b1-17a1df0b8017/world-cup-gty-jef-260616_1781627925134_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-16T22:01:29Z",
+      "content": "As new details emerge about the alleged plan for a drone attack at the UFC 250 event at the White House, another potential target could be FIFA World Cup matches happening across the United States, a… [+1921 chars]",
+      "tags": [
+        "security_intelligence",
+        "terrorism"
+      ],
+      "publishedAtTs": 1781647289
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Countdown to Knicks parade",
+      "description": "ABC News' Sam Champion has the latest on what could be the largest ticker-tape parade in New York City history.",
+      "url": "https://abcnews.com/video/133916146/",
+      "urlToImage": "https://i.abcnewsfe.com/a/cafb10a5-63e7-4167-8d92-840315172150/260616_gma_champion_parade1_717_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-16T13:21:01Z",
+      "content": "<ul><li>FBI disrupts alleged plot targeting UFC Freedom 250 fight: Sources\r\n</li><li>Millions face flash flood emergency in Texas\r\n</li><li>Flash flood emergency stretches across Gulf Coast\r\n</li><li… [+4312 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781616061
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fast Company"
+      },
+      "author": "Talib Visram",
+      "title": "USAID disappeared. She built a coalition to feed Gaza and South Sudan",
+      "description": "In January 2025, while helping to screen children for malnutrition in Sierra Leone, Navyn Salem received a phone call with dreadful news. The U.S. government would be freezing all global humanitarian aid, effective immediately.\n\n\n\nThat’s not a welcome call wh…",
+      "url": "https://www.fastcompany.com/91547461/navyn-salem-edesia-nutrition-world-changing-ideas-2026",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/06/p-1-91547461-VOTY-Salem-Edesia.png",
+      "publishedAt": "2026-06-16T11:00:00Z",
+      "content": "In January 2025, while helping to screen children for malnutrition in Sierra Leone, Navyn Salem received a phone call with dreadful news. The U.S. government would be freezing all global humanitarian… [+2113 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781607600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "I Finally Understand America After Watching UFC Freedom 250 at LA’s Most Hi-Tech Sports Bar",
+      "description": "\"When you can't be there, be here at Cosm,\" is its slogan. But what if I didn't want to be at the fight?",
+      "url": "https://gizmodo.com/i-finally-understand-america-after-watching-ufc-freedom-250-at-las-most-hi-tech-sports-bar-2000772222",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/cosm04-1200x675.jpeg",
+      "publishedAt": "2026-06-16T01:32:09Z",
+      "content": "On Sunday, timed to coincide with President Trumps 80th birthday, there was a massive UFC eventincluding a consequential match deciding the lightweight titlestaged on the south lawn of the White Hous… [+15019 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781573529
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Alfredo Sauce Becomes the Latest Casualty in That Massive Powdered Milk Recall",
+      "description": "It turns out *a lot* of products use powdered milk.",
+      "url": "https://gizmodo.com/alfredo-sauce-becomes-the-latest-casualty-in-that-massive-powdered-milk-recall-2000772544",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/alfredo-sauce-shutterstock-1200x675.jpg",
+      "publishedAt": "2026-06-16T16:55:01Z",
+      "content": "Alfredo Sauce distributed in 41 states and produced by the Coffee Connexion Co. has been recalled over fears of Salmonella contamination, according to a notice from the Food and Drug Administration. … [+4075 chars]",
+      "tags": [
+        "public_health"
+      ],
+      "publishedAtTs": 1781628901
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Jonathan Chait",
+      "title": "Why July 4 Turned Into a Trump Rally",
+      "description": "The president has never accepted that the head of state and the leader of the Republican Party are separate roles.",
+      "url": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/Cc5q0eBnVETwKyAIo6xMbZBtX64=/0x116:5463x2961/1200x625/media/img/mt/2026/06/2026_06_16_America_250_Becomes_Trump_6_swap/original.jpg",
+      "publishedAt": "2026-06-16T15:13:22Z",
+      "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here.The president of the United States announced last month that, in place of performances by Martina McBride, You… [+5776 chars]",
+      "tags": [
+        "elections_politics",
+        "trump"
+      ],
+      "publishedAtTs": 1781622802
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Shane Harris",
+      "title": "The Doha Connection",
+      "description": "Trump’s off-ramp from war with Iran runs through Qatar.",
+      "url": "https://www.theatlantic.com/national-security/2026/06/trump-qatar-friendship-iran-deal/687563/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/F6M26SUhdhUqo0ykiv-smw27WKM=/0x61:2876x1559/1200x625/media/img/mt/2026/06/2026_06_16_How_Qatar_Won_the_War/original.jpg",
+      "publishedAt": "2026-06-16T20:10:20Z",
+      "content": "Several countries can claim some credit for the tentative memorandum of understanding to end the war between Iran and the United States, which officials from both countries plan to sign later this we… [+5369 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781640620
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Rogé Karma",
+      "title": "Oil Prices Might Not Go Back to Normal Anytime Soon",
+      "description": "There’s a big difference between reopening the Strait of Hormuz on paper and actually resuming the flow of oil through it.",
+      "url": "https://www.theatlantic.com/economy/2026/06/trump-iran-deal-oil/687564/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/id0gP01kJuFh31aiAgpBIBIgDL4=/2x64:1500x844/1200x625/media/img/mt/2026/06/2026_06_16_Where_is_the_Oil_moshed_06_16_11_43_41_197/original.jpg",
+      "publishedAt": "2026-06-16T18:58:00Z",
+      "content": "“Ships of the World, start your engines,” Donald Trump declared on Truth Social on Sunday. “Let the oil flow!”This was the president’s way of announcing that the United States and Iran had reached an… [+5383 chars]",
+      "tags": [
+        "energy",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781636280
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "James Parker",
+      "title": "Boy George",
+      "description": "Young Washington gives us pre-Revolutionary George, bristling with awkwardness and ambition.",
+      "url": "https://www.theatlantic.com/magazine/2026/07/young-washington-biopic/687308/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/Xb_uTzL2MsUrTNS88dlQGsZhmLc=/0x43:2000x1085/1200x625/media/img/2026/06/YoungWashington_16x9/original.jpg",
+      "publishedAt": "2026-06-16T11:00:00Z",
+      "content": "Where shall we look for Washington, the greatest among men, asked Parson Weems in 1800, but in Americathat greatest Continent, which, rising from beneath the frozen pole, stretches far and wide to th… [+8323 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781607600
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Matt Stopera",
+      "title": "This Painfully Awkward Photo Of Donald Trump With World Leaders Is Going Viral And I Cannot Look Away",
+      "description": "\"Total isolation from the world.\"View Entire Post ›",
+      "url": "https://www.buzzfeed.com/mjs538/trump-g7-group-photo",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/16/19/thumb/LNhN-3gvg.jpg?crop=1250:654;0,0%26downsize=1250:*",
+      "publishedAt": "2026-06-16T20:20:00Z",
+      "content": "Total isolation from the world.",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781641200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Dan Vergano",
+      "title": "Proposed White House regulations could kill 5,000 clinical trials, analysis finds",
+      "description": "The Trump administration is mulling new rules that would give political appointees final say on research grants",
+      "url": "https://www.scientificamerican.com/article/proposed-white-house-regulations-could-kill-5-000-clinical-trials-analysis-finds/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/74f15123-4ed6-454d-84ad-b8cb8ee27726/GettyImages-2278626667.jpg?m=1781647924.34&w=1200",
+      "publishedAt": "2026-06-16T22:15:00Z",
+      "content": "Nearly 5,000 clinical trials, including 1,000 cancer treatment tests, face termination under proposed federal regulations, a new analysis by science advocacy group Stand Up for Science finds. The pot… [+3848 chars]",
+      "tags": [
+        "health_science",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781648100
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Deborah Blum",
+      "title": "Science is under pressure again. Here’s what that means for young researchers",
+      "description": "It’s a complicated time to be a young scientist in America. Lessons from history can tell us what the future might hold",
+      "url": "https://www.scientificamerican.com/article/science-is-under-pressure-again-heres-what-that-means-for-young-researchers/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/d0fc08b0-6e14-44cd-a4b3-1280c64097aa/saw070826Blum02.jpg?m=1779994343.346&w=1200",
+      "publishedAt": "2026-06-16T09:57:00Z",
+      "content": "When Emma Scales decided she wanted to be a scientist, it seemed logical—simple, even. She’d grown up in coastal New Jersey, attended a high school that emphasized marine biology, and learned about t… [+22695 chars]",
+      "tags": [
+        "social_issues",
+        "health_science"
+      ],
+      "publishedAtTs": 1781603820
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Chris Stokel-Walker",
+      "title": "US Limits on Anthropic Fable AI Could Hurt Cybersecurity",
+      "description": "Fable 5 was built to help with advanced cybersecurity work. Its sudden shutdown highlights a dilemma at the heart of AI security: the same tools can aid both defenders and attackers",
+      "url": "https://www.scientificamerican.com/article/us-limits-on-anthropic-fable-ai-could-hurt-cybersecurity/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/06c078ae-def3-4fd8-922e-f48234a3c78a/Claude-Fable-logo-on-a-phone-screen.jpg?m=1781556854.373&w=1200",
+      "publishedAt": "2026-06-16T14:30:00Z",
+      "content": "When Anthropic released Claude Fable 5 on June 9, the company presented it as a new kind of high-powered artificial intelligence system: capable enough to help with advanced cybersecurity tasks but w… [+5126 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1781620200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "K. R. Callaway",
+      "title": "Geoffrey Hinton",
+      "description": "The machine-learning guru discusses how politics is undermining U.S. science",
+      "url": "https://www.scientificamerican.com/article/geoffrey-hinton/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/4e695f07-93dd-4302-8e56-5613e7bd2cee/Geoffrey-Hinton.jpg?m=1781098217.786&w=1200",
+      "publishedAt": "2026-06-16T07:00:00Z",
+      "content": "Geoffrey Hinton is a BritishCanadian computer scientist and cognitive psychologist known for pioneering artificial neural networks and deep learning. A professor at the University of Toronto, he shar… [+2581 chars]",
+      "tags": [
+        "social_issues",
+        "health_science",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781593200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Dan Vergano",
+      "title": "Why U.S. science funding needs reform",
+      "description": "The federal funding system for scientific research in the U.S. is crumbling. Here’s how it can be rebuilt",
+      "url": "https://www.scientificamerican.com/article/why-u-s-science-funding-needs-reform/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/e577902f-88cd-4e1a-bb7f-3e64002ae376/saw070826Verg01.jpg?m=1780067194.848&w=1200",
+      "publishedAt": "2026-06-16T09:53:00Z",
+      "content": "Michael Green hadn’t planned to start his scientific career by confronting the head of the National Institutes of Health. But his research funding was unexpectedly stalled at the science Goliath, and… [+15466 chars]",
+      "tags": [
+        "health_science",
+        "science_policy"
+      ],
+      "publishedAtTs": 1781603580
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Rebecca Boyle",
+      "title": "Inside U.S. labs at a moment of fear—and unexpected promise",
+      "description": "Despite funding woes, American scientists are finding reasons for optimism",
+      "url": "https://www.scientificamerican.com/article/inside-u-s-labs-at-a-moment-of-fear-and-unexpected-promise/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/205f752e-4e90-4290-9fd1-472db381e9eb/saw070826Boyl01a.jpg?m=1779997909.68&w=1200",
+      "publishedAt": "2026-06-16T09:55:00Z",
+      "content": "In her first year of graduate school at Stanford University, back in 2021, Sydney Erickson knew only that she was going to be a physicist. She rotated through different research groups, from particle… [+23224 chars]",
+      "tags": [
+        "health_science",
+        "science_policy",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781603700
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Megha Satyanarayana",
+      "title": "Robert Langer",
+      "description": "The M.I.T. professor and expert on innovation on why science is worth celebrating",
+      "url": "https://www.scientificamerican.com/article/robert-langer/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/adbedfb4-2117-42b2-b686-28a98069f1dd/Bob-Langer.jpg?m=1781019709.668&w=1200",
+      "publishedAt": "2026-06-16T07:00:00Z",
+      "content": "Robert Langer is a chemical engineer and an Institute Professor at the Massachusetts Institute of Technology who specializes in materials science, biotechnology and biomedical engineering. He holds o… [+4143 chars]",
+      "tags": [
+        "health_science",
+        "medical_research",
+        "personal_family"
+      ],
+      "publishedAtTs": 1781593200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Megha Satyanarayana",
+      "title": "Gavin Newsom",
+      "description": "The governor of California, where science and technology are large parts of the economy, on finding the balance in innovation between taking risks and being reckless",
+      "url": "https://www.scientificamerican.com/article/gavin-newsom/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/f3ae587e-3241-42ef-8b66-054b1a4e4491/Gavin-Newsom.jpg?m=1781465758.735&w=1200",
+      "publishedAt": "2026-06-16T07:00:00Z",
+      "content": "Gavin Newsom is the 40th governor of California, serving since 2019. Previously, he was lieutenant governor of California and mayor of San Francisco.\r\n[This interview was edited for length and clarit… [+5241 chars]",
+      "tags": [
+        "regional_state",
+        "california",
+        "economy_finance",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781593200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Sarah Scoles",
+      "title": "U.S. scientists are being lured abroad—and they aren't looking back",
+      "description": "The great American brain drain could define science for a generation",
+      "url": "https://www.scientificamerican.com/article/u-s-scientists-are-being-lured-abroad-and-they-arent-looking-back/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/30a85ab3-97e3-4454-9ee5-c39b2c0179c8/sa070826Scol01.jpg?m=1779995322.74&w=1200",
+      "publishedAt": "2026-06-16T09:56:00Z",
+      "content": "By day American physicist Kenneth Long works with the world’s largest particle accelerator, the Large Hadron Collider at CERN near Geneva. He wants to better understand the W boson, a subatomic parti… [+15090 chars]",
+      "tags": [
+        "science_policy",
+        "health_science",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1781603760
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Adam Rogers",
+      "title": "America’s compact between science and politics is broken",
+      "description": "How did we get here?",
+      "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/14de7018-3a11-43b8-8392-6e83ccd5b0a3/saw070826Roge01.jpg?m=1779983432.668&w=1200",
+      "publishedAt": "2026-06-16T10:00:00Z",
+      "content": "Last year Christopher Reynolds started to worry that his space telescope was going to be killed.\r\nThe mission had started taking shape nine years earlier, a billion-dollar orbiting observatory that w… [+22255 chars]",
+      "tags": [
+        "science_policy",
+        "health_science"
+      ],
+      "publishedAtTs": 1781604000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Sarah Scoles",
+      "title": "Trump’s Genesis Mission is putting AI to work on nuclear weapons",
+      "description": "The Department of Energy bills Genesis as an AI push for scientific discovery. Its first public challenges tell a different story",
+      "url": "https://www.scientificamerican.com/article/trumps-genesis-mission-is-putting-ai-to-work-on-nuclear-weapons/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/814d31c8-35d3-4b4c-8cd1-d2e20eefe721/sa070826SoW01.jpg?m=1779908366.116&w=1200",
+      "publishedAt": "2026-06-16T10:00:00Z",
+      "content": "In the beginning, people created computers. Some of them said, “Let there be software,” and it was mostly good. Then they said, “Let the software be more intelligent,” and they called that intelligen… [+7131 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "health_science",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1781604000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Patrick Sisson",
+      "title": "Autonomous labs are running science experiments 24/7",
+      "description": "Robots and AI are running experiments around the clock, from battery chemistry to cancer therapies. But can they be trusted to get it right?",
+      "url": "https://www.scientificamerican.com/article/autonomous-labs-are-running-science-experiments-24-7/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/5cdfeeaa-72d9-4173-8c06-993b82ca1469/saw070826Siss01.jpg?m=1781295196.94&w=1200",
+      "publishedAt": "2026-06-16T09:52:00Z",
+      "content": "Past midnight in the Hearst Memorial Mining Building on the campus of the University of California, Berkeley, beyond a vaulted entrance and down a marble staircase, the experiments in the A-Lab are r… [+17086 chars]",
+      "tags": [
+        "health_science",
+        "technology_regulation",
+        "science_policy"
+      ],
+      "publishedAtTs": 1781603520
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Jacob Weindling",
+      "title": "Trump Lost the Iran War",
+      "description": "President deals gave away all his leverage just to try to turn back the clock to February 27th.",
+      "url": "https://www.jezebel.com/trump-lost-the-iran-war",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/03/main-Trump-Announce-War-Iran.jpg",
+      "publishedAt": "2026-06-16T15:39:58Z",
+      "content": "Trump has virtually agreed to end to the war with Iran that he and Israel launched on the last day of February, asserting that he has negotiated some kind of historic victory even as American negotia… [+11002 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781624398
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "Somebody Get Kristi Noem a Map",
+      "description": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
+      "url": "https://www.jezebel.com/somebody-get-kristi-noem-a-map",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/06/Screenshot-2026-06-15-at-8.05.23-PM.jpg",
+      "publishedAt": "2026-06-16T09:28:03Z",
+      "content": "Third country deportations have become a terrifying tool for this Trump administrations cruel anti-immigrant campaign, and in February, it was estimated that the Department of Homeland Security has d… [+2400 chars]",
+      "tags": [
+        "immigration",
+        "mass_deportation_operation"
+      ],
+      "publishedAtTs": 1781602083
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Jim Vorel",
+      "title": "A Huge Raw Milk Producer Found Tons of Pathogens in Its Milk. So They Just Sold It as Cheese Instead.",
+      "description": "Sure, the raw milk may or may not contain potentially deadly pathogens, but turning it into cheese will obviously fix the problem!",
+      "url": "https://www.jezebel.com/raw-milk-raw-farms-outbreaks-pathogens-used-to-make-cheese-instead-e-coli-fda-investigation-mark-mcafee",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/06/raw-milk-cheese-safety-main.jpg",
+      "publishedAt": "2026-06-16T08:42:10Z",
+      "content": "People really shouldn’t need to be told that making commercial dairy products is an inherently dirty business, given that it’s contingent upon interaction with a cow that spends the majority of its d… [+9898 chars]",
+      "tags": [
+        "health_science",
+        "public_health"
+      ],
+      "publishedAtTs": 1781599330
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marginalrevolution.com"
+      },
+      "author": "Alex Tabarrok",
+      "title": "Montana’s SB535 and a Potential Biotech Renaissance in America",
+      "description": "In 2024, China’s NMPA approved 83 new drugs, the FDA approved 50. China’s share of new commercial clinical trials jumped from 8% globally in 2013 to 30% in 2024, just behind the US at 35%. Last year, China-based Jiangsu Hengrui Pharmaceuticals overtook AstraZ…",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/06/montanas-sb535-and-a-potential-biotech-renaissance-in-america.html",
+      "urlToImage": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+      "publishedAt": "2026-06-16T11:18:52Z",
+      "content": "In 2024, China’s NMPA approved 83 new drugs, the FDA approved 50. China’s share of new commercial clinical trials jumped from 8% globally in 2013 to 30% in 2024, just behind the US at 35%. Last year,… [+4043 chars]",
+      "tags": [
+        "economy_finance",
+        "health_science",
+        "trade"
+      ],
+      "publishedAtTs": 1781608732
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Mike Masnick",
+      "title": "Apparently The Real Reason Anthropic’s Models Are Offline: A Six-Year-Old Trump Grudge",
+      "description": "Yesterday we wrote about the Trump administration forcing Anthropic to shut down Fable 5 and Mythos 5. The short version: dumb. Today, Axios got White House officials on the record, and it turns out the real reason is even dumber than we thought. In that orig…",
+      "url": "http://www.techdirt.com/2026/06/16/apparently-the-real-reason-anthropics-models-are-offline-a-six-year-old-trump-grudge/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-16T18:31:08Z",
+      "content": "from the it-always-gets-dumber dept\r\nYesterday we wrote about the Trump administration forcing Anthropic to shut down Fable 5 and Mythos 5. The short version: dumb. Today, Axios got White House offic… [+5431 chars]",
+      "tags": [
+        "legal_justice",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781634668
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Tim Cushing",
+      "title": "FBI Raids Offices Of Ohio Voter Registration Group That Fought GOP Redistricting Efforts",
+      "description": "Just once I’d like to see this administration engage in the slightest bit of subtlety. Just once. It would be a refreshing change from literally everything it has done during this current iteration. Sure, it’s easier to prove actions are vindictive if they’re…",
+      "url": "http://www.techdirt.com/2026/06/16/fbi-raids-offices-of-ohio-voter-registration-group-that-fought-gop-redistricting-efforts/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-16T16:29:52Z",
+      "content": "from the more-vindictive-prosecutions-in-the-works dept\r\nJust once I’d like to see this administration engage in the slightest bit of subtlety. Just once. It would be a refreshing change from literal… [+4852 chars]",
+      "tags": [
+        "legal_justice",
+        "voting_rights",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1781627392
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Karl Bode",
+      "title": "The SpaceX IPO Sends Elon Musk And Trump’s Starlink Cronyism Into The Thermosphere",
+      "description": "Last week Elon Musk successfully conned America and U.S. regulators into signing off on his preposterous SpaceX IPO, which immediately generated Musk $75 billion by comically over-stating the value of SpaceX, xAI, and Starlink. Then bone-grafting the entire p…",
+      "url": "http://www.techdirt.com/2026/06/16/the-spacex-ipo-sends-elon-musk-and-trumps-starlink-cronyism-into-the-thermosphere/",
+      "urlToImage": "http://img.youtube.com/vi/0ZSXT24IdDA/0.jpg",
+      "publishedAt": "2026-06-16T12:27:00Z",
+      "content": "from the golden-age-of-corruption dept\r\nLast week Elon Musk successfully conned America and U.S. regulators into signing off on his preposterous SpaceX IPO, which immediately generated Musk $75 billi… [+7528 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "personal_business"
+      ],
+      "publishedAtTs": 1781612820
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Adam Eichen, Jesse Rhodes, and Tatishe Nteta",
+      "title": "Fox News Viewership Increases Belief In False Conspiracy Theories About Immigration",
+      "description": "This article is republished from The Conversation under a Creative Commons license. Read the original article. During a Washington Nationals baseball game on May 17, 2026, three people unfurled a large banner from the upper deck of Nationals Park displaying a…",
+      "url": "http://www.techdirt.com/2026/06/16/fox-news-viewership-increases-belief-in-false-conspiracy-theories-about-immigration/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-16T22:34:40Z",
+      "content": "from the not-great-for-reality dept\r\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.\r\nDuring a Washington Nationals baseball game on May… [+5492 chars]",
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1781649280
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters",
+      "title": "You’re paying for Trump’s ballroom",
+      "description": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: You’re paying for Donald Trump’s ballroom. And it’s ge…",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/492197/trump-east-wing-ballroom-600-million-price-tag-taxpayers",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280176649.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2026-06-16T21:30:39Z",
+      "content": "Construction on President Donald Trump’s ballroom on the White House grounds on June 9, 2026. | Daniel Heuer/Bloomberg via Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that h… [+2555 chars]",
+      "tags": [
+        "personal_business",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781645439
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Ian Millhiser",
+      "title": "Why the Supreme Court is fighting over deadly gas and firing squads",
+      "description": "Last week, the Supreme Court handed an unusual — if temporary — victory to an Alabama man on death row. As Steve Vladeck, a Georgetown law professor, writes, this is the first time in over five years that this Court refused to “un-block an execution that a lo…",
+      "url": "https://www.vox.com/politics/492087/supreme-court-lee-lovelace-alabama-firing-squad-death-penalty",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2212822156.jpg?quality=90&strip=all&crop=0%2C9.396554313115%2C100%2C81.20689137377&w=1200",
+      "publishedAt": "2026-06-16T15:07:37Z",
+      "content": "A man looks at a painting by Dmity Kolistratov \"Firing Squad\" (2016). | Alexander Nemenov/AFP via Getty Images\r\n\n\nLast week, the Supreme Court handed an unusual — if temporary — victory to an Alabama… [+11159 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1781622457
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nikkimccannramirez",
+      "title": "‘The View’ Hosts Did a Better Job Grilling J.D. Vance Than Most Actual Journalists",
+      "description": "Vice President J.D. Vance struggled in a lengthy interview with ABC's \"The View,\" where he was grilled on his support for Donald Trump.",
+      "url": "http://www.rollingstone.com/politics/politics-news/jd-vance-grilled-the-view-trump-defense-implodes-1235579030/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/jd-vance-on-the-view-screenshot.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-06-16T20:45:00Z",
+      "content": "Vice President J.D. Vance is watching his future political prospects dim as he continues to stand by President Donald Trump. A disastrous foray into Iran, an economy in turmoil, an administration rid… [+5811 chars]",
+      "tags": [
+        "elections_politics",
+        "media_communications"
+      ],
+      "publishedAtTs": 1781642700
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "The Surreal Spectacle of Trump’s White House Cage Fights",
+      "description": "Donald Trump's UFC event at the White House was a surreal spectacle, as billionaires and politicians watched the bloody carnage on the South Lawn.",
+      "url": "http://www.rollingstone.com/politics/politics-features/trump-ufc-event-white-house-photos-1235578856/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/UFC-BW_Sacha-Lecca2-19.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-06-16T23:00:00Z",
+      "content": "The UFC’s Freedom 250 event on June 14 took over the White House’s South Lawn with an explosion of violence.\r\nThe event, held specifically on President Donald Trump’s 80th birthday, was the result of… [+6055 chars]",
+      "tags": [
+        "personal_activities"
+      ],
+      "publishedAtTs": 1781650800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Jonaki Mehta",
+      "title": "Trump further guts Education Dept. by shifting oversight of special ed, civil rights",
+      "description": "The moves to the federal departments of Health and Human Services and Justice, respectively, would further dismantle an agency that President Donald Trump has vowed to close.",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5717030/special-ed-civil-rights-education-department",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F29%2F722eb7d843ca873e813833dae2b3%2Fgettyimages-2280463352.jpg",
+      "publishedAt": "2026-06-16T17:04:13Z",
+      "content": "Two of the U.S. Department of Education's biggest responsibilities will shift to other federal agencies: safeguarding student civil rights and supervising programs for students with disabilities.\r\nTh… [+2650 chars]",
+      "tags": [
+        "policy_legislation",
+        "education"
+      ],
+      "publishedAtTs": 1781629453
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Gavin Newsom says he’s being investigated by Trump",
+      "description": "California’s Democratic Governor claims President Donald Trump has launched a criminal investigation against him.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/gavin-newsom-says-hes-being-investigated-by-trump",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781568036.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-06-16T00:01:58Z",
+      "content": "NewsFeed\r\nCalifornias Democratic Governor claims President Donald Trump has launched a criminal investigation against him because of a potential presidential run. Newsom says agents have questioned f… [+72 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1781568118
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting",
+      "description": "Qatar’s Emir hails Iran deal and touts US investments in Trump meeting.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/qatars-emir-hails-iran-deal-and-touts-us-investments-in-trump-meeting",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-1.53.48-PM-1781607242.png?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T10:57:16Z",
+      "content": "NewsFeed\r\nQatars Emir Sheikh Tamim bin Hamad Al Thani has thanked Trump for reaching a deal with Iran, calling it vital for the region. During a press conference on the sidelines of the G7 summit, he… [+49 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781607436
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
+      "description": "Trump says ‘hell will rain down’ if Iran gets nuclear weapons",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-says-hell-will-rain-down-if-iran-gets-nuclear-weapons",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/TRUMP-G7-HORIZONTAL-THUMB-1781608210.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-06-16T11:12:17Z",
+      "content": "NewsFeed\r\nUS President Donald Trump says Iran has agreed to not acquire nuclear weapons and will suffer unbelievable consequences if they do. His remarks came during a meeting with Qatars Emir Sheikh… [+33 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1781608337
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Trump slams Israeli attacks on Lebanon at G7 summit",
+      "description": "US President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/trump-slams-israeli-attacks-on-lebanon-at-g7-summit",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781628918.jpg?resize=1621%2C1080&quality=80",
+      "publishedAt": "2026-06-16T16:55:31Z",
+      "content": "NewsFeed\r\nUS President Donald Trump slammed Israeli attacks on Lebanon at the G7 Summit, saying Benjamin Netanyahu must be more responsible and that too many people are being killed. He also said Syr… [+58 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "middle_east"
+      ],
+      "publishedAtTs": 1781628931
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Faisal Ali, Lyndal Rowlands, Zaid Sabah",
+      "title": "Iran war live: Trump says MoU with Tehran signed electronically",
+      "description": "Backlash to US-Iran deal grows in Israel as Iranian vessels pass through Strait of Hormuz after US lifts naval blockade.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/16/iran-war-live-trump-says-mou-with-tehran-signed-electronically",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-15T165639Z_481537235_RC2EULA4UNIN_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1781565865.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T00:00:00Z",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nBacklash to US-Iran agreement grows in Israel, as Iranian vessels pass through Strait of Hormuz after US lifts its naval blockade.",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1781568000
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Federica Marsi",
+      "title": "Will a US-Iran deal unlock $300bn in investment fund for Tehran?",
+      "description": "The Trump administration has been adamant the investment fund is not a payout for Iranian enriched uranium.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/will-a-us-iran-deal-unlock-300bn-in-investment-fund-for-tehran",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a311e8a03-1781603978.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T11:30:08Z",
+      "content": "The US-Iran memorandum of understanding expected to be formally signed in Switzerland on Friday could allow for the establishment of a $300bn investment fund for Iran, as part of a broader settlement… [+8210 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "trade"
+      ],
+      "publishedAtTs": 1781609408
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US judge upholds conviction of ex-judge who helped man evade federal agents",
+      "description": "Activists say former judge Hannah Dugan was targeted by the Trump administration for defiance over immigration raids.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/us-judge-upholds-conviction-of-ex-judge-who-helped-man-evade-federal-agents",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26154573137853-1781634453.jpg?resize=1200%2C675",
+      "publishedAt": "2026-06-16T19:17:31Z",
+      "content": "A United States federal judge has upheld the conviction of Hannah Dugan, a former Wisconsin judge who was convicted of helping a man evade federal immigration agents who came to her courtroom.\r\nUS Di… [+1984 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1781637451
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Trump warns ‘all hell will rain down’ if Iran tries to get a nuclear weapon",
+      "description": "US president also made unusually critical comments about Israel's military offensive in Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/trump-warns-all-hell-will-rain-down-if-iran-tries-to-get-a-nuclear-weapon",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3121f1-1781604849.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T11:41:29Z",
+      "content": "United States President Donald Trump has warned Iran that all hell will rain down if it tries to get a nuclear weapon, and has also rebuked Israel over its military offensive in Lebanon in unusually … [+2103 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1781610089
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Sarah Shamim",
+      "title": "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
+      "description": "Ties between the US and Iran have been strained through both of Donald Trump's terms as US president.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a313b58-1781611352.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T15:21:32Z",
+      "content": "The United States and Iran are set to sign an initial agreement in Geneva on Friday to end the US-Israel war on Iran, begin a 60-day negotiation process, and resume traffic through the Strait of Horm… [+10753 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781623292
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "G7 leaders meet in France with Iran and Ukraine high on agenda",
+      "description": "French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-15T192306Z_712214126_RC2IULAGETCP_RTRMADP_3_G7-SUMMIT-BRITAIN-1781601579.jpg?resize=1920%2C1434",
+      "publishedAt": "2026-06-16T09:13:41Z",
+      "content": "Leaders of the G7 are expected to focus on the United States deal with Iran and the Russian war on Ukraine at their meeting in France, with US President Donald Trump likely to be urged to quickly fin… [+3710 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "ukraine"
+      ],
+      "publishedAtTs": 1781601221
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Brazilian court convicts Eduardo Bolsonaro of courting US interference",
+      "description": "US placed tariffs on Brazilian goods and sanctioned judicial officials involved in trial of the father for coup plot.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a31b80209b14-1781643266.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T22:46:47Z",
+      "content": "A panel on the Brazilian Supreme Court has voted to convict Eduardo Bolsonaro of lobbying the United States to interfere in the trial of his father, former right-wing President Jair Bolsonaro.\r\nOn Tu… [+3937 chars]",
+      "tags": [
+        "foreign_policy",
+        "brazil"
+      ],
+      "publishedAtTs": 1781650007
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US Justice Department accuses 15 Minnesota activists of ‘antifa’ activities",
+      "description": "Prosecutors have accused the activists of seeking 'to interfere with lawful immigration enforcement operations'.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/us-justice-department-accuses-15-minnesota-activists-of-antifa-activities",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a31aefe45a0a-1781640958.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T20:39:10Z",
+      "content": "The administration of United States President Donald Trump has announced criminal charges against 15 Minnesota activists described as members of antifa, the loose-knit anti-fascist organisation.\r\nAt … [+5766 chars]",
+      "tags": [
+        "legal_justice",
+        "law_enforcement",
+        "protests",
+        "immigration"
+      ],
+      "publishedAtTs": 1781642350
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Hussein Chokr",
+      "title": "With Israel unleashed, there can be no peace in the Middle East",
+      "description": "The US has long extended unconditional support for Israeli aggression. Now, it struggles to rein it in.",
+      "url": "https://www.aljazeera.com/opinions/2026/6/16/with-israel-unleashed-there-can-be-no-peace-in-the-middle-east",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP25272554792797-1774083556.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T15:20:48Z",
+      "content": "In the 20th century, the United States sponsored two peace agreements between Israel and Arab states, and it was close to securing a third, decisive one with Syria.\r\nThese agreements came after decad… [+7177 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "middle_east"
+      ],
+      "publishedAtTs": 1781623248
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "What to know about this week’s US primary elections",
+      "description": "Primaries are set to take place in Alabama, California, Oklahoma, Georgia, and the capital, Washington, DC, on Tuesday.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a306e4a-1781558858.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T08:58:44Z",
+      "content": "Voters will head to the polls in several states and the national capital this week as the United States takes another step towards the all-important midterm elections in November, when control of the… [+8311 chars]",
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "voting_rights",
+        "campaign_events"
+      ],
+      "publishedAtTs": 1781600324
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+      "description": "Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260615__B74J6TK__v1__MidRes__IranUsIsraelWar-1781597300.jpg?resize=1200%2C630",
+      "publishedAt": "2026-06-16T08:08:11Z",
+      "content": "US President Donald Trump has said a memorandum of understanding (MoU) with Iran has been all signed electronically, and the Strait of Hormuz will be completely open by Friday.\r\nUS officials told the… [+5175 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781597291
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Simon Speakman Cordall",
+      "title": "Israel went to war with Iran, but Netanyahu may be the loser",
+      "description": "Critics say PM Benjamin Netanyahu's Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-03-19T192158Z_654383220_RC2V7KA6O84I_RTRMADP_3_IRAN-CRISIS-ISRAEL-NETANYAHU-1-1781037025.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T15:57:03Z",
+      "content": "The headline strapped across the front page of the Israeli news site Haaretz on Tuesday summed up the feelings of many: The Iran Fiasco Is Netanyahus Biggest Failure Since October 7.\r\nAfter three and… [+6755 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "iran",
+        "middle_east"
+      ],
+      "publishedAtTs": 1781625423
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Brian Osgood",
+      "title": "Ohio Governor Mike DeWine opposes death penalty, reversing past support",
+      "description": "Support for capital punishment has steadily declined in the United States, with several states rolling back its use.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/ohio-governor-mike-dewine-opposes-death-penalty-reversing-past-support",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a31929a9ba4b-1781633690.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T18:43:14Z",
+      "content": "Republican Governor of Ohio Mike DeWine has announced that he now opposes the death penalty, calling for an end to the punishment he once helped revive in his state.\r\nDuring a news conference on Tues… [+4524 chars]",
+      "tags": [
+        "social_issues",
+        "criminal_cases"
+      ],
+      "publishedAtTs": 1781635394
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Daniel Khalili-Tari",
+      "title": "Nearly all children globally exposed to at least one climate hazard: Report",
+      "description": "Report highlights the growing threats posed by climate change and calls for the green transition to be accelerated.",
+      "url": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a31741522-1781625877.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-16T16:08:58Z",
+      "content": "Almost all children across the globe are exposed to at least one climate hazard and the situation is expected to worsen unless greenhouse gas emissions are urgently reduced, says a report by UNICEF.\r… [+1691 chars]",
+      "tags": [
+        "climate_policy",
+        "public_health"
+      ],
+      "publishedAtTs": 1781626138
+    }
+  ]
+}
