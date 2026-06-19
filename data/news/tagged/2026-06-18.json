@@ -1,0 +1,1742 @@
+{
+  "status": "ok",
+  "totalResults": 95,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Maxwell Zeff",
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "description": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "urlToImage": "https://media.wired.com/photos/6a342bff039398b1addb3ba2/191:100/w_1280,c_limit/Model-Behavior-SB.jpg",
+      "publishedAt": "2026-06-18T21:03:43Z",
+      "content": "Its been nearly a week since the Trump administration sent an export control directive to Anthropic, forcing one of the worlds leading AI labs to pull its most advanced models offline. After days of … [+3695 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781816623
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "The midterms are going to be a data security nightmare",
+      "description": "One messy database is threatening to disenfranchise thousands or even millions of registered voters, while leaving even more at risk of intimidation or data breaches, in the name of solving a problem that barely exists. As the 2026 midterm elections approach,…",
+      "url": "https://www.theverge.com/policy/952167/voter-rolls-privacy-election-save-program",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2026-06-18T14:21:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe SAVE Program supposedly catches illegal voting, but its a recipe for disenfranchisement and data leaks.\r\nThe SAVE Program supposedly catches illegal voting, … [+9266 chars]",
+      "tags": [
+        "voting_rights",
+        "security_intelligence",
+        "elections_politics",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1781792497
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Caffier",
+      "title": "Jeff Bezos Called Washington Post His Worst Investment and Staff He Laid Off ‘Terrible’ People",
+      "description": "The Amazon founder complained to Trump over dinner that nobody there listens to him soon before slashing staff, according to excerpts from a forthcoming book.",
+      "url": "https://gizmodo.com/jeff-bezos-called-washington-post-his-worst-investment-and-staff-he-laid-off-terrible-people-2000773533",
+      "urlToImage": "https://gizmodo.com/app/uploads/2019/04/ayi2gpco49hhvcfjmdip.jpg",
+      "publishedAt": "2026-06-18T10:34:24Z",
+      "content": "Like many of the worlds richest people, Amazon founder Jeff Bezos is no stranger to investing his wealth into other companies in order to make the number next to his net worth keep going up. Many of … [+2989 chars]",
+      "tags": [
+        "personal_business"
+      ],
+      "publishedAtTs": 1781778864
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Trump Admin Declares Total Victory Over Algae Thanks to ‘Advanced Nanobubbler Technology’",
+      "description": "\"The Reflecting Pool water is crystal clear,\" the Department of the Interior insists.",
+      "url": "https://gizmodo.com/trump-admin-declares-total-victory-over-algae-thanks-to-advanced-nanobubbler-technology-2000773791",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/reflecting-pool-algae-1200x675.jpg",
+      "publishedAt": "2026-06-18T20:55:49Z",
+      "content": "The U.S. may have lost its war against Iran, but there is another war that President Donald Trump still might be able to win. And that’s his war on algae in Washington, D.C.’s Lincoln Memorial Reflec… [+4541 chars]",
+      "tags": [
+        "social_issues",
+        "environment"
+      ],
+      "publishedAtTs": 1781816149
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Webb Wright",
+      "title": "Bernie Sanders’ New AI Bill Would Pay Americans $1,000 a Year",
+      "description": "The senator is making the case that AI is a public resource that was built using the collective genius of humanity.",
+      "url": "https://gizmodo.com/bernie-sanders-new-ai-bill-would-pay-americans-1000-a-year-2000773754",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/06/BernieSanders-1200x675.jpg",
+      "publishedAt": "2026-06-18T19:45:06Z",
+      "content": "Bernie Sanders is making the case in Washington that since modern AI systems were built using the intellectual and creative outputs of all of humanity, the revenues they generate should go directly t… [+3486 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781811906
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Who Won The US-Iran Deal?",
+      "description": "US and Iran sign deal, but what does it say?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nrn5gq?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
+      "publishedAt": "2026-06-18T16:31:00Z",
+      "content": "Available for over a year\r\nToday, the US and Iran have an agreement which extends the ceasefire between the two countries, and is now signed by US President Trump and Iranian President Masoud Pezeshk… [+1502 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781800260
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "NPR Staff",
+      "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
+      "description": "Here is the text of the memorandum of understanding that was signed Wednesday by President Trump and Iranian President Masoud Pezeshkian, as well as Pakistan's prime minister.",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2Fab%2F7323711f47de8270be0fb5c833c2%2Fgettyimages-2281489924.jpg",
+      "publishedAt": "2026-06-18T16:31:41Z",
+      "content": "NPR has obtained a copy of the framework agreement to end the war with Iran. A source shared the text on the condition of anonymity because they were not authorized to discuss the preliminary deal.\r\n… [+6813 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781800301
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Stephen Fowler",
+      "title": "Poll: Most Americans have the summer blues about Trump and the economy",
+      "description": "A new NPR/PBS News/Marist poll finds a record low share of Americans approve of President Trump's job performance and his handling of the economy heading into the summer before a key midterm election.",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1400/quality/85/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F00%2Fbd66d6934d93b2e65640a8b0d7fe%2Fmarist-poll-20260617.png",
+      "publishedAt": "2026-06-18T09:00:00Z",
+      "content": "As concern over gas prices remains high, President Trump's approval ratings continue falling to record lows, especially over his handling of the economy, according to the latest NPR/PBS News/Marist p… [+4470 chars]",
+      "tags": [
+        "polling",
+        "economy_finance",
+        "2026_midterms"
+      ],
+      "publishedAtTs": 1781773200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Hegseth announces in Brussels a review of U.S. forces in Europe, and a 'NATO 3.0'",
+      "description": "U.S. Defense Secretary Pete Hegseth lashed out at NATO allies on Thursday, announcing a review of American forces in Europe, and calling for a reboot of the organization to turn it into a \"NATO 3.0.\"",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5862604/hegseth-nato-3-0",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6199x3487+0+323/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fbe%2Ff49219ee440faba6a9c4e488baeb%2Fap26169226331579.jpg",
+      "publishedAt": "2026-06-18T08:59:10Z",
+      "content": "BRUSSELS U.S. Defense Secretary Pete Hegseth lashed out at NATO allies on Thursday, announcing a six-month Pentagon review of American forces in Europe whose outcome will depend on how fast the Europ… [+3573 chars]",
+      "tags": [
+        "foreign_policy",
+        "nato"
+      ],
+      "publishedAtTs": 1781773150
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "All detainees from immigration facility 'Alligator Alcatraz' have been transferred",
+      "description": "All detainees at the detention center in the Florida Everglades, known as \"Alligator Alcatraz,\" have been transferred to other facilities, the Department of Homeland Security said, citing concerns related to the hurricane season.",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5862592/detainees-alligator-alcatraz-transferred",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5382x3027+0+280/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Ff7%2Fdd055ec4483199f5023d7accde5f%2Fap26168679352403.jpg",
+      "publishedAt": "2026-06-18T07:59:26Z",
+      "content": "MIAMI All detainees at an immigration detention center in an isolated airstrip in the Florida Everglades, known as \"Alligator Alcatraz,\" have been transferred to other facilities, the U.S. Department… [+4764 chars]",
+      "tags": [
+        "immigration",
+        "crisis_emergency",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1781769566
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Grady Martin",
+      "title": "Supreme Court sides with marijuana user who was barred from owning guns",
+      "description": "The court ruled that the law used to prosecute a marijuana user violated his Second Amendment right to bear arms and is unconstitutionally vague.",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5835232/supreme-court-marijuana-guns",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8317x4678+0+433/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F57%2F6d63facc4626b2cd483fd5b27457%2Fgettyimages-1260960662.jpg",
+      "publishedAt": "2026-06-18T14:14:32Z",
+      "content": "The Supreme Court found Thursday that the government's prosecution of a marijuana user for owning guns was inconsistent with the Second Amendment.\r\nThe decision was unanimous.\r\n\"The Court's decision … [+3582 chars]",
+      "tags": [
+        "legal_justice",
+        "gun_policy"
+      ],
+      "publishedAtTs": 1781792072
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Katherine Li,Huileng Tan",
+      "title": "What smart people are saying after Fed chair Kevin Warsh's debut",
+      "description": "New Fed chair Kevin Warsh signaled a sweeping overhaul of the central bank, from forecasts and forward guidance to AI and operations.",
+      "url": "https://www.businessinsider.com/fed-chair-kevin-warsh-first-meeting-business-leaders-economists-reactions-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a3302e7564c774507cd4056?width=1200&format=jpeg",
+      "publishedAt": "2026-06-18T04:39:04Z",
+      "content": "New Fed chair Kevin Warsh is pushing to rethink how the central bank communicates with markets and the public.Tom Williams/CQ-Roll Call, Inc via Getty Images\r\n<ul><li>Kevin Warsh's debut as Fed chair… [+6588 chars]",
+      "tags": [
+        "economy_finance",
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1781757544
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "James LaForge",
+      "title": "Massachusetts was just ranked the best economy in the US. Innovation is a big reason why.",
+      "description": "Massachusetts edged out Washington and Utah in a WalletHub study ranking states' economies. These factors put it at the top.",
+      "url": "https://www.businessinsider.com/why-massachusetts-has-the-best-economy-in-the-us-2026-6#article",
+      "urlToImage": "https://i.insider.com/6a2c3bd950aa6577af8721e7?width=1200&format=jpeg",
+      "publishedAt": "2026-06-18T13:07:02Z",
+      "content": "Boston, Massachusetts.Vlad G/Shutterstock\r\n<ul><li>A recent WalletHub study ranked Massachusetts' economy the best in the US.</li><li>Potential for innovation was the biggest factor.</li><li>An empha… [+4370 chars]",
+      "tags": [
+        "economy_finance",
+        "regional_state"
+      ],
+      "publishedAtTs": 1781788022
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "White House Uses GTA 6 Meme To Distract From Reflecting Pool Turning The Color Of Mountain Dew",
+      "description": "Hey, idiot, the helicopter goes in the left top corner",
+      "url": "https://kotaku.com/white-house-uses-gta-6-meme-to-distract-from-reflecting-pool-turning-the-color-of-mountain-dew-2000708154",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/06/magatrumpgta6cover-1200x675.jpg",
+      "publishedAt": "2026-06-18T18:25:53Z",
+      "content": "Today, the official White House account on Twitter decided to post the administration’s own ugly version of the recently revealed Grand Theft Auto 6 cover art featuring U.S. President Donald Trump wi… [+2454 chars]",
+      "tags": [
+        "media_communications",
+        "social_media"
+      ],
+      "publishedAtTs": 1781807153
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Jason Weisberger",
+      "title": "Pool expert explains Grandpa Pudding Brains' Lincoln Memorial Algae Farm",
+      "description": "Grandpa Pudding Brains' Lincoln Memorial Algae Farm may be ugly, expensive, and very funny, but Swimming Pool Steve says it is not especially mysterious.\nAfter two CNN appearances about the green water situation, Swimming Pool Steve posted a longer explanatio…",
+      "url": "https://boingboing.net/2026/06/18/pool-expert-explains-grandpa-pudding-brains-lincoln-memorial-algae-farm.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2021/01/washington-monument-by-pedro-szekely.jpg",
+      "publishedAt": "2026-06-18T15:14:53Z",
+      "content": "Grandpa Pudding Brains' Lincoln Memorial Algae Farm may be ugly, expensive, and very funny, but Swimming Pool Steve says it is not especially mysterious.\r\nAfter two CNN appearances about the green wa… [+1352 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781795693
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Grant St. Clair",
+      "title": "The Good Liars went to Freedom 250 so the rest of us didn't have to",
+      "description": "As I've stated, I did not watch Donald Trump's masturbatory UFC Freedom 250 fight. I spent the day kicking my heels and giggling over Bob Odenkirk returning to his most iconic character for his American anniversary celebration instead. If I have to watch a na…",
+      "url": "https://boingboing.net/2026/06/18/the-good-liars-went-to-freedom-250-so-the-rest-of-us-didnt-have-to.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2024/11/trumps-garbage-e1740489009658.jpg",
+      "publishedAt": "2026-06-18T20:14:44Z",
+      "content": "As I've stated, I did not watch Donald Trump's masturbatory UFC Freedom 250 fight. I spent the day kicking my heels and giggling over Bob Odenkirk returning to his most iconic character for his Ameri… [+631 chars]",
+      "tags": [
+        "personal_family",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1781813684
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "Trump says 'we should stop' Utah mail-in voting",
+      "description": null,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d09c6564-88aa-4bb9-8d99-6b1fd5d6c480",
+      "urlToImage": null,
+      "publishedAt": "2026-06-18T19:45:30Z",
+      "content": "If you click 'Accept all', we and our partners, including 248 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
+      "tags": [
+        "voting_rights"
+      ],
+      "publishedAtTs": 1781811930
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Nate Raymond",
+      "title": "Trump administration asks appeals court to let Kennedy pick vaccine panel members",
+      "description": "By Nate Raymond BOSTON, June 18 (Reuters) - The Trump administration is urging a U.S. appeals court to overturn a ruling that blocked Health Secretary Robert...",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-administration-asks-appeals-court-153828939.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a3ddbb3cf9b3ec9315543d21ff2b803a76370915e5b31716df3d307f9054db8a/lightyear_networkapi/resizefill_w800_h534;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe9c114dab07276406dbacc587051338b",
+      "publishedAt": "2026-06-18T15:41:32Z",
+      "content": "By Nate Raymond\r\nBOSTON, June 18 (Reuters) - The Trump administration is urging a U.S. appeals court to overturn a ruling that blocked Health Secretary Robert F. Kennedy Jr.'s appointees from serving… [+3176 chars]",
+      "tags": [
+        "legal_justice",
+        "health_science"
+      ],
+      "publishedAtTs": 1781797292
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Camila Grigera Naón",
+      "title": "Exclusive: Arizona senator warns ‘ghost jobs’ are warping labor data, presses Trump admin to investigate",
+      "description": "Sen. Ruben Gallego sent letters outlining his concerns on Thursday to the Department of Labor and Federal Trade Commission.",
+      "url": "https://www.yahoo.com/news/politics/articles/exclusive-arizona-senator-warns-ghost-140000695.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b68b7510e43ecfc70bb194919b2baaaff543d0115a8e12b8bfb6bf7a5378f2c5/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F2c6fbcabafeef8b7bf08d907205f5a66",
+      "publishedAt": "2026-06-18T14:00:00Z",
+      "content": "Sen. Ruben Gallego (D-Ariz.) pressed the Trump administration on Thursday to crack down on companies that post online listings for jobs that don't exist. In letters to the Department of Labor and Fed… [+2460 chars]",
+      "tags": [
+        "labor",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1781791200
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Maya Gebeily, Rami Ayyub and Zohra Bensemra",
+      "title": "First tankers cross strait after Iran deal; Israeli strikes stir doubt in Lebanon",
+      "description": "By Maya Gebeily, Rami Ayyub and Zohra Bensemra BEIRUT/JERUSALEM/QLAILIEH, Lebanon, June 18 (Reuters) - Three Saudi-flagged supertankers carrying 6 million ba...",
+      "url": "https://www.yahoo.com/news/politics/articles/first-tankers-cross-strait-iran-111417900.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2a221302194c8408342444473344f385fc60bcbc7f6465fa415084a8d7c953f6/lightyear_networkapi/resizefill_w800_h480;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbe98b03adeaeb4bce79653f0c1ceed21",
+      "publishedAt": "2026-06-18T11:14:17Z",
+      "content": "By Maya Gebeily, Rami Ayyub and Zohra Bensemra\r\nBEIRUT/JERUSALEM/QLAILIEH, Lebanon, June 18 (Reuters) - Three Saudi-flagged supertankers carrying 6 million barrels of crude sailed through the Strait … [+5752 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east",
+        "israel",
+        "gaza"
+      ],
+      "publishedAtTs": 1781781257
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric Boehm",
+      "title": "Trump Has Used Taxpayer Money To Purchase Stakes in Dozens of Companies. Congress Is About to Make It Easier.",
+      "description": "Lawmakers should be blocking Trump's corporate socialism, not making it a permanent fixture.",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-used-taxpayer-money-purchase-184015314.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa6c3116616eaa8139b0ce978d6da8a07ee5d3963fde7fd00266fb5ec561379b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F8043c77957219bb1a8a89ad3a7de3bbd",
+      "publishedAt": "2026-06-18T18:40:15Z",
+      "content": "By taking equity stakes in more than a dozen private businesses, the Trump administration has stretched executive power to new heightsand now Congress is working to ensure that future presidents get … [+3105 chars]",
+      "tags": [
+        "policy_legislation",
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781808015
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katie Bo Lillis, Zachary Cohen, Kristen Holmes, CNN",
+      "title": "Secret US-Iran proposals reveal fragile path toward broader nuclear deal",
+      "description": "The US and Iran have been working on laying out secret proposals for implementing the 14 points that were signed this week, including details on how to addre...",
+      "url": "https://www.cnn.com/2026/06/18/politics/secret-us-iran-proposals",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1c77c238a48347ed698709481345d3619d2db52de0a0e29d63894f3c8d69ae8/lightyear_networkapi/resizefill_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Ffe4974a94d6a3ffb1b305d27da374235",
+      "publishedAt": "2026-06-18T20:25:27Z",
+      "content": "The US and Iran have been working on laying out secret proposals for implementing the 14 points that were signed this week, including details on how to address the future of Iran's nuclear program, a… [+7314 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "nuclear_policy"
+      ],
+      "publishedAtTs": 1781814327
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Jasper Ward",
+      "title": "The paint is already peeling in Trump's renovated Washington Reflecting Pool",
+      "description": "By Jasper Ward WASHINGTON, June 18 (Reuters) - The paint on Washington's newly renovated Lincoln Memorial Reflecting Pool on Thursday was peeling away from t...",
+      "url": "https://www.yahoo.com/news/politics/articles/the-paint-is-already-peeling-in-trumps-renovated-washington-reflecting-pool-205842336.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4f5102b097a5690dcb59660524a30d7025a25c1f4700d3ed722fc2d343cb96e1/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F6415665815001%2F6ccf4564-cdd7-4795-91a7-0cfa368077fb%2Fmain%2F1280x720%2F18s549ms%2Fmatch%2Fimage.jpg",
+      "publishedAt": "2026-06-18T20:58:42Z",
+      "content": "By Jasper Ward\r\nWASHINGTON, June 18 (Reuters) - The paint on Washington's newly renovated Lincoln Memorial Reflecting Pool on Thursday was peeling away from the bottom and into the algae-tinted water… [+2157 chars]",
+      "tags": [
+        "regional_state",
+        "washington_dc"
+      ],
+      "publishedAtTs": 1781816322
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Balazs Koranyi and Leika Kihara",
+      "title": "Iran peace not stopping central banks from raising borrowing costs",
+      "description": "By Balazs Koranyi and Leika Kihara FRANKFURT/TOKYO, June 18 (Reuters) - The Iran war-induced inflation surge is becoming too much for central banks around th...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/iran-peace-not-stopping-central-113800964.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5D3CFF6C5A8C1A059AE0CB3BA9B29B314C91C26352FA32B38AD47F9A8CBD867E/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F16461a91315a6c8962f9c56bff3fc9c9",
+      "publishedAt": "2026-06-18T11:38:00Z",
+      "content": "By Balazs Koranyi and Leika Kihara\r\nFRANKFURT/TOKYO, June 18 (Reuters) - The Iran war-induced inflation surge is becoming too much for central banks around the world to simply look past and a string … [+4065 chars]",
+      "tags": [
+        "inflation",
+        "economy_finance",
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781782680
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kevin Schaul and Nitasha Tiku, (c) 2026 , The Washington Post",
+      "title": "The White House said Anthropic's powerful AI was 'jailbroken.' Here's what that means.",
+      "description": "Artificial intelligence tools have remarkably broad knowledge about the world, but some of it is unsavory or dangerous. Tech firms try to prevent their chatb...",
+      "url": "https://finance.yahoo.com/news/the-white-house-said-anthropics-powerful-ai-was-jailbroken-heres-what-that-means-180807534.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/86AF2616AAFC3AE26B50670232DE8C0524096B2DAD1CD78A274B50A1DC8A994B/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fca3d1d48-5118-4abd-9727-830ae439b2dc",
+      "publishedAt": "2026-06-18T18:08:07Z",
+      "content": "Artificial intelligence tools have remarkably broad knowledge about the world, but some of it is unsavory or dangerous.\r\nTech firms try to prevent their chatbots from discussing certain topics such a… [+4127 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781806087
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Justin Fishel",
+      "title": "Comparing’s Trump and Obama’s Iran deals, what we know: ANALYSIS",
+      "description": "One is a nuclear deal, the other is not.",
+      "url": "https://abcnews.com/Politics/comparings-trump-obamas-irandeals-knowanalysis/story?id=134014979",
+      "urlToImage": "https://i.abcnewsfe.com/a/061b54a5-7bfc-40ed-8a36-26e7498584c9/g7-14-rt-gmh-260617_1781713107086_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T23:27:35Z",
+      "content": "After President Donald Trump signed a memorandum of understanding (MOU) with Iran, there has been an urge to compare it to the deal Trump tore up during his first term: President Obamas 2015 Iran nuc… [+4998 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781825255
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Isabella Murray",
+      "title": "Trump didn't want 'Herbert Hoover' presidency; said Iran has to have 'some' missiles",
+      "description": "Trump said he was open to allowing Iran to maintain its stockpile of ballistic missiles, saying it was “unfair” for Iran not have them if their neighbors do.",
+      "url": "https://abcnews.com/Politics/trump-herbert-hoover-presidency-iran-missiles/story?id=133979678",
+      "urlToImage": "https://i.abcnewsfe.com/a/061b54a5-7bfc-40ed-8a36-26e7498584c9/g7-14-rt-gmh-260617_1781713107086_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T01:26:17Z",
+      "content": "President Donald Trump said Wednesday that he was motivated to finalize the memorandum of understanding (MOU) with Iran to prevent \"economic catastrophe\" if the war was not resolved soon.\r\n\"So rather… [+5027 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781745977
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Deena Zaru",
+      "title": "Trump administration can replace slavery exhibit in Philadelphia, appeals court rules",
+      "description": "The Trump administration can replace the slavery exhibit at the President’s House in Philadelphia, a federal appeals court ruled on Thursday.",
+      "url": "https://abcnews.com/US/trump-administration-replace-slavery-exhibit-presidents-house-philadelphia/story?id=134000759",
+      "urlToImage": "https://i.abcnewsfe.com/a/db694ae4-19dd-4393-b3fb-bdcb04116cbb/president-1-ht-er-260122_1769125604626_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T16:09:51Z",
+      "content": "The Trump administration can replace the slavery exhibit at the President's House in Philadelphia, a federal appeals court ruled on Thursday.\r\nThe unanimous decision by a three-judge panel tosses out… [+1072 chars]",
+      "tags": [
+        "social_issues",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781798991
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Deena Zaru",
+      "title": "Civil rights, climate change materials removed from national parks",
+      "description": "The Trump administration revealed the first public list of materials on civil rights and the environment that the National Park Service removed across the country.",
+      "url": "https://abcnews.com/Politics/trump-administration-reveals-list-civil-rights-climate-change/story?id=133997786",
+      "urlToImage": "https://i.abcnewsfe.com/a/db694ae4-19dd-4393-b3fb-bdcb04116cbb/president-1-ht-er-260122_1769125604626_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T17:55:14Z",
+      "content": "The Trump administration revealed the list of materials that the National Park Service removed from parks across the country that relate to civil rights, diverse populations, science and the environm… [+3821 chars]",
+      "tags": [
+        "social_issues",
+        "climate_policy",
+        "personal_family"
+      ],
+      "publishedAtTs": 1781805314
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Steven Portnoy, Michelle Stoddart",
+      "title": "Senators warily eye transfer of $397M to Secret Service amid WH ballroom construction",
+      "description": "The Trump admin has deposited millions in taxpayer funds into accounts for White House security, sparking questions about whether public money will go to the ballroom.",
+      "url": "https://abcnews.com/Politics/senators-warily-eye-transfer-397m-secret-service-amid/story?id=134005395",
+      "urlToImage": "https://i.abcnewsfe.com/a/0952548d-2ded-4413-aeac-75a87d663824/ballroom-construction-3-ap-jef-260618_1781807406944_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T21:03:10Z",
+      "content": "In the past week, the Trump administration has quietly deposited nearly $400 million of taxpayer funds into accounts designated for security measures at the White House, prompting questions on Capito… [+3825 chars]",
+      "tags": [
+        "government_administration",
+        "budget"
+      ],
+      "publishedAtTs": 1781816590
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: World Cup soccer fans in US for first time experience joys of America",
+      "description": "As fans from around the globe travel to the U.S. for the World Cup, David Muir shares what they're loving about it – from southern BBQ to baseball games to Buc-ee's.",
+      "url": "https://abcnews.com/video/133982347/",
+      "urlToImage": "https://i.abcnewsfe.com/a/34f59be2-071a-4feb-83a1-4b9c64063015/260617_wn_ender_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-18T00:06:06Z",
+      "content": "<ul><li>U.S. presents text of deal to end war in Iran\r\n</li><li>World Cup soccer fans in US for first time experience joys of America\r\n</li><li>Gilgo Beach victims' families speak out after serial ki… [+4659 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781741166
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: How a sports team winning is good for fans' brains",
+      "description": "ABC News' Danny New talks to a neurologist about the real benefit of watching sports.",
+      "url": "https://abcnews.com/video/133991561/",
+      "urlToImage": "https://i.abcnewsfe.com/a/5df4a28e-0d67-4122-b076-2b952bad4914/260618_gmafl_sports_brain2_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-18T10:09:26Z",
+      "content": "<ul><li>U.S. presents text of deal to end war in Iran\r\n</li><li>The Gilgo Beach serial killer faces his victims family members in court\r\n</li><li>World Cup soccer fans in US for first time experience… [+4653 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781777366
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Good Samaritans race towards fiery plane on Texas highway to rescue survivors",
+      "description": "Six people were on board the private plane, and at least one was killed.",
+      "url": "https://abcnews.com/video/133982906/",
+      "urlToImage": "https://i.abcnewsfe.com/a/5208ae19-cbb1-46a4-b187-ebb775802de4/260617_wn_benitez_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-18T10:50:40Z",
+      "content": "<ul><li>Trump's deal with Iran is 'broader' and 'more general' than Obama's: Analyst\r\n</li><li>Ukraine strikes Moscow oil refinery amid large-scale drone attack\r\n</li><li>Iran deal is 'big win' for I… [+4414 chars]",
+      "tags": [
+        "security_intelligence",
+        "foreign_policy",
+        "iran",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1781779840
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Mary Bruce",
+      "title": "Vance says Iran financially benefits if they change behavior; MOU indicates otherwise",
+      "description": "Vance touted the MOU as a \"win-win.\"",
+      "url": "https://abcnews.com/Politics/vp-vance-iran-financially-benefit-change-behavior-mou/story?id=134004059",
+      "urlToImage": "https://i.abcnewsfe.com/a/1c3f1b09-487e-4e17-8a5b-9644bc8cae19/vance-2-gty-jef-260618_1781806267997_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T20:24:45Z",
+      "content": "Vice President JD Vance on Thursday directly contradicted what is in the memorandum of understanding between the United States and Iran, touting it as a \"win-win\" and insisting Iran will only reap fi… [+3737 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781814285
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Opal Lee, 'grandmother of Juneteenth,' calls on Americans not to forget",
+      "description": "Opal Lee, described as the \"grandmother of the movement,\" said that as the 250th birthday of America approaches, people should also remember Juneteenth.",
+      "url": "https://abcnews.com/video/134006145/",
+      "urlToImage": "https://i.abcnewsfe.com/a/f5b8da9b-ab98-4388-8aeb-2fbddd9cee6f/260618_abcnd_opal_lee_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-18T18:42:01Z",
+      "content": "<ul><li>Opening ceremony for Obama Presidential Center\r\n</li><li>Trump's deal with Iran is 'broader' and 'more general' than Obama's: Analyst\r\n</li><li>Ukraine strikes Moscow oil refinery amid large-… [+4412 chars]",
+      "tags": [
+        "social_issues"
+      ],
+      "publishedAtTs": 1781808121
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Three Generations of the LGBTQ community discuss why Pride is still so important 2026",
+      "description": "Three generations of LGBTQ people, the Stonewall Era, Gen x and Gen Z come together to discuss their personal struggles and hopes for the future.",
+      "url": "https://abcnews.com/video/134006503/",
+      "urlToImage": "https://i.abcnewsfe.com/a/71132675-ae85-4509-9e4f-57f4454213f1/260618_nwo_pride_generations_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-06-18T22:00:58Z",
+      "content": "<ul><li>Trump's Iran deal faces bipartisan scrutiny\r\n</li><li>Supreme Court limits drug user gun restrictions\r\n</li><li>Obama Presidential Center opens in Chicago\r\n</li><li>Fewer than half of America… [+4350 chars]",
+      "tags": [
+        "lgbtq_rights",
+        "social_issues"
+      ],
+      "publishedAtTs": 1781820058
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Bill Hutchinson",
+      "title": "Inflation pain could linger even after the Iran war is ends: Economists",
+      "description": "Economists talk about ongoing inflation and what consumers can do to cope.",
+      "url": "https://abcnews.com/Business/buckle-inflation-pain-linger-after-iran-war-ends/story?id=133930362",
+      "urlToImage": "https://i.abcnewsfe.com/a/a70586ba-c2df-440a-b4e7-dd3496bf5099/inflation-consumers-gtyt-bh-260617_1781726375994_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-06-18T18:24:14Z",
+      "content": "In an ideal scenario, the Iran war is over, the Strait of Hormuz is completely reopened, energy prices and inflation fall sharply and American wages rise.\r\nThat's according to Mark Zandi, the chief e… [+8280 chars]",
+      "tags": [
+        "inflation",
+        "economy_finance",
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781807054
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ap.org"
+      },
+      "author": "Associated Press",
+      "title": "The Obamas are celebrating their presidential museum with this star-studded guest list",
+      "description": "Former President Barack Obama is getting a little help from his friends in celebrating the opening of his presidential museum in Chicago.The guestlist for Thursday’s dedication ceremony includes Bruce Springsteen, Stevie Wonder, Christina Aguilera and Bono, a…",
+      "url": "https://newsroom.ap.org/detail/SpringsteenBonoandStevieWonderwillhelptheObamasopentheirpresidentialmuseum/5812303765c1c9327f7cf643acd17aa4/text",
+      "urlToImage": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/06/AP26169392588971.jpg",
+      "publishedAt": "2026-06-18T15:18:29Z",
+      "content": "Former President Barack Obama is getting a little help from his friends in celebrating the opening of his presidential museumin Chicago.\r\nThe guestlist for Thursdays dedication ceremony includes Bruc… [+1891 chars]",
+      "tags": [
+        "personal_family"
+      ],
+      "publishedAtTs": 1781795909
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Caffier",
+      "title": "Using Grok to Bomb Iran and the Twisted Dream of Causing Death Without ‘Killing’",
+      "description": "The Trump administration's haphazard \"AI-first\"approach to warfare has already killed countless innocents and is setting the stage for a world where no human is ever to blame for the deaths.",
+      "url": "https://gizmodo.com/using-grok-to-bomb-iran-and-the-twisted-dream-of-causing-death-without-killing-2000773399",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+      "publishedAt": "2026-06-18T00:17:13Z",
+      "content": "With the Memorandum of Understanding DocuSigned by all parties, the 108-day war prompted by Donald Trump and Israels unprovoked attack on the sovereign nation of Iran officially ended on June 15th. B… [+3742 chars]",
+      "tags": [
+        "foreign_policy",
+        "security_intelligence",
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1781741833
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Caffier",
+      "title": "Anthropic Employees and Industry Experts Allege Trump’s Model Meddling is Targeted and Unreasonable",
+      "description": "Following the federal government's recent ban of the AI company's Fable 5 and Mythos 5 models, many are calling the move a capricious and unwarranted act of government overreach.",
+      "url": "https://gizmodo.com/anthropic-employees-and-industry-experts-allege-trumps-model-meddling-is-targeted-and-unreasonable-2000773478",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/03/Dario-Amodei-Pentagon-Anthropic-V2-1200x675.jpg",
+      "publishedAt": "2026-06-18T08:39:06Z",
+      "content": "The battle between the Trump administration and Anthropic AI has been raging for months, and its mercurial nature has made it one of the harder spats of this term to keep track of, even for those of … [+4018 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781771946
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Kevin Townsend",
+      "title": "‘You Slap Me in the Face, I’ll Slap You Right Back’",
+      "description": "Nancy Pelosi on gerrymandering, the midterms, and her 39 years in Congress",
+      "url": "https://www.theatlantic.com/podcasts/2026/06/nancy-pelosi-democrats-midterms/687575/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/2rNCK024BteGmS6wk0_c_ukeTQU=/280x75:4000x2013/1200x625/media/img/mt/2026/06/Radio_Atlantic_Vertical_Pelosi/original.jpg",
+      "publishedAt": "2026-06-18T13:00:00Z",
+      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket Casts\r\nDemocrats fall in love. Republicans fall in line. Or at least thats the old joke.\r\nThe quote, often attributed to Bill Cl… [+21668 chars]",
+      "tags": [
+        "elections_politics",
+        "congress"
+      ],
+      "publishedAtTs": 1781787600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
+      "description": "The 14-point Memorandum of Understanding was signed at a post-G7 dinner in France.",
+      "url": "https://www.bbc.com/news/videos/crm03y1xx2no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d4c5/live/e29f6330-6ab4-11f1-8e1d-bbbb1017d210.jpg",
+      "publishedAt": "2026-06-18T01:59:38Z",
+      "content": "US President Donald Trump has signed an agreement to extend the ceasefire with Iran in France's Palace of Versailles, just outside Paris.\r\nThe 14-point agreement, called a Memorandum of Understanding… [+163 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781747978
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Why Iran believes deal with US leaves it stronger than before",
+      "description": "Iran has come out of the war's first chapter stronger than many expected, but its next challenge may be harder, the BBC Persian Service's Amir Azimi writes.",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5277/live/e2c02aa0-6b01-11f1-8317-e1f912f75a64.jpg",
+      "publishedAt": "2026-06-18T15:38:18Z",
+      "content": "The document, signed separately by US President Donald Trump and Iranian President Masoud Pezeshkian, sets out a 60-day framework for negotiations over Iran's nuclear programme but it also confirms a… [+204 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781797098
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "Apple and Intel are working together to build chips in America, says President Trump",
+      "description": "President Trump took to TruthSocial tonight to confirm what was previously rumored: Apple and Intel have agreed a partnership where Intel will manufacture chips for future Apple devices, using Intel’s American-based fabrication sites.\nThe breadth and depth of…",
+      "url": "https://9to5mac.com/2026/06/18/apple-intel-chip-manufacturing-american/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2026-06-18T10:22:50Z",
+      "content": "President Trump took to TruthSocial tonight to confirm what was previously rumored: Apple and Intel have agreed a partnership where Intel will manufacture chips for future Apple devices, using Intel’… [+1324 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781778170
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Dan Vergano",
+      "title": "Trump administration reverses course on plan to dismantle ocean monitoring network",
+      "description": "The effort to pull some 900 ocean-monitoring buoys and sensors from the water drew backlash from scientists and lawmakers",
+      "url": "https://www.scientificamerican.com/article/trump-administration-reverses-course-on-plan-to-dismantle-ocean-monitoring-network/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/3c0afd6b-2128-477f-a03b-06be2b224779/NSF-HQ.jpg?m=1781804355.293&w=1200",
+      "publishedAt": "2026-06-18T16:50:00Z",
+      "content": "The Trump administration is backing off plans to dismantle a crucial U.S. ocean monitoring system, the National Science Foundation (NSF) confirmed on Thursday. The reversal comes after the agency’s M… [+1897 chars]",
+      "tags": [
+        "environment",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781801400
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": "Flora Graham",
+      "title": "Daily briefing: The proteins that protect us from deadly mutations",
+      "description": "Proteins that ‘buffer’ the effects of mutations could help to treat diseases such as cancers. Plus, goats can follow human voices and the battle over a key ocean observatory project in the United States.",
+      "url": "https://www.nature.com/articles/d41586-026-01960-4",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01960-4/d41586-026-01960-4_52721800.png",
+      "publishedAt": "2026-06-18T00:00:00Z",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here.\r\nDuring cyclone Ditwah, Sri Lanka received 10% of its yearly rainfall in a single day. (Majority … [+6072 chars]",
+      "tags": [
+        "health_science",
+        "medical_research"
+      ],
+      "publishedAtTs": 1781740800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Jim Vorel",
+      "title": "You Know It's a Great Nickname When Both Obama Haters and Boosters Want to Claim It",
+      "description": "Barack Obama's presidential library is the most expensive ever constructed, at least until Trump drops billions into his own.",
+      "url": "https://www.jezebel.com/barack-obama-center-presidential-library-nickname-obamalisk-features-oval-office-gardens",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/06/obama-presidential-center-getty-main.jpg",
+      "publishedAt": "2026-06-18T11:22:30Z",
+      "content": "They call it the Obamalisk. “They,” in this instance, being both the scores of conservative critics still fuming about the idea that a Black man became the 44th President of the United States, hoping… [+5570 chars]",
+      "tags": [
+        "social_issues",
+        "personal_family"
+      ],
+      "publishedAtTs": 1781781750
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "Fencing Off Protesters From the White House is a Weird Way of Doing Democracy, But OK!",
+      "description": "Trump’s latest vanity project idea involves erecting a permanent square around Lafayette Square, a space used by protesters since the early 1900s.",
+      "url": "https://www.jezebel.com/fencing-off-protesters-from-the-white-house-is-a-weird-way-of-doing-democracy-but-ok",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/06/kristina-volgenau-2YJhcaGFujs-unsplash-e1781787041314.jpg",
+      "publishedAt": "2026-06-18T09:31:23Z",
+      "content": "The visual abomination that was the White House UFC Arena just last week may no longer be standing, but one need not look much farther to see more instances of uglification via Trumps vanity projects… [+2307 chars]",
+      "tags": [
+        "social_issues",
+        "protests",
+        "government_administration"
+      ],
+      "publishedAtTs": 1781775083
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ritholtz.com"
+      },
+      "author": "Barry Ritholtz",
+      "title": "At The Money: Deregulation Will Free Your Portfolio",
+      "description": "﻿     At The Money: Deregulation Will Free Your Portfolio (June 18, 2026) The new administration promised deregulation and ending red tape to unleash business and animal spirits. An ETF allows you to deploy capital to take advantage of that theme. Full transc…",
+      "url": "https://ritholtz.com/2026/06/atm-deregulation/",
+      "urlToImage": "https://ritholtz.com/wp-content/uploads/2024/04/At-the-Money.jpg",
+      "publishedAt": "2026-06-18T18:00:25Z",
+      "content": "At The Money: Deregulation Will Free Your Portfolio (June 18, 2026)\r\nThe new administration promised deregulation and ending red tape to unleash business and animal spirits. An ETF allows you to depl… [+19174 chars]",
+      "tags": [
+        "economy_finance",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781805625
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Akshay Gangwar",
+      "title": "The White House’s dodgy app is being pushed to even more official government devices",
+      "description": "The DHS will reportedly start automatically loading the highly insecure White House App on official devices.",
+      "url": "https://www.androidauthority.com/white-house-app-automatic-install-dhs-devices-3678910/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/White-House-App-2-scaled.jpg",
+      "publishedAt": "2026-06-18T11:25:28Z",
+      "content": "<ul><li>The Department of Homeland Security has told employees that The White House app will be automatically installed on official devices.</li><li>The app has several security and privacy issues, a… [+2514 chars]",
+      "tags": [
+        "security_intelligence",
+        "government_administration",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781781928
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Mike Masnick",
+      "title": "Trump Surrenders To Iran On Virtually Every Point",
+      "description": "If there’s one thing that Donald Trump has shown over the years, it’s that he will get his most sycophantic MAGA loyalists to insist there are perfectly obvious reasons why whatever he’s about to do is absolutely necessary… and then Trump will do the opposite…",
+      "url": "http://www.techdirt.com/2026/06/18/trump-surrenders-to-iran-on-virtually-every-point/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-18T16:29:45Z",
+      "content": "from the total-capitulation dept\r\nIf there’s one thing that Donald Trump has shown over the years, it’s that he will get his most sycophantic MAGA loyalists to insist there are perfectly obvious reas… [+5150 chars]",
+      "tags": [
+        "trump",
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781800185
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Mike Masnick",
+      "title": "Wyden And Cruz Team Up On A Bill To Stop Government Jawboning. It’s… Actually Pretty Good?",
+      "description": "Senators Ron Wyden and Ted Cruz have released the JAWBONE Act (“Justice Against Weaponized Bureaucratic Overreach to Networked Expression Act”) as a way to prevent government suppression of speech. While some of the premises behind it are silly and nonsensica…",
+      "url": "http://www.techdirt.com/2026/06/18/wyden-and-cruz-team-up-on-a-bill-to-stop-government-jawboning-its-actually-pretty-good/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-18T20:06:45Z",
+      "content": "from the free-speech-is-a-good-thing dept\r\nSenators Ron Wyden and Ted Cruz have released the JAWBONE Act (“Justice Against Weaponized Bureaucratic Overreach to Networked Expression Act”) as a way to … [+7509 chars]",
+      "tags": [
+        "policy_legislation",
+        "free_speech"
+      ],
+      "publishedAtTs": 1781813205
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Tim Cushing",
+      "title": "Surveillance Is Good Because I Want Drivers I Don’t Like To Be Punished: Cleveland Columnist",
+      "description": "Here it is: the dumbest defense of automatic license plate readers I’ve ever read. While we can subtract some points because the person writing it has no power to install/un-install/cover in garbage bags surveillance tech, he’s a regular contributor to a long…",
+      "url": "http://www.techdirt.com/2026/06/18/surveillance-is-good-because-i-want-drivers-i-dont-like-to-be-punished-cleveland-columnist/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-06-18T18:06:45Z",
+      "content": "from the giving-up-rights-for-vengeance dept\r\nHere it is: the dumbest defense of automatic license plate readers I’ve ever read. While we can subtract some points because the person writing it has no… [+7902 chars]",
+      "tags": [
+        "free_speech"
+      ],
+      "publishedAtTs": 1781806005
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters",
+      "title": "Iran’s art of the deal",
+      "description": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: We finally have some more details on Donald Trump’s Ir…",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/492513/us-iran-deal-trump-mou-hormuz-sanctions-unfrozen-funds-oil",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/06/gettyimages-2281869644.jpg?quality=90&strip=all&crop=0%2C10.744048541068%2C100%2C78.511902917863&w=1200",
+      "publishedAt": "2026-06-18T21:18:19Z",
+      "content": "Donald Trump attends a working lunch with leaders of the G7 and the Middle East on June 16, 2026, in Evian-les-Bains, France. | Evelyn Hockstein - Pool/Getty Images\r\n\n\nThis story appeared in The Logo… [+2662 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781817499
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nikkimccannramirez",
+      "title": "Will the Knicks Visit Trump at the White House?",
+      "description": "The president loves basking in the glory of championship teams, but he hasn't been able to make it happen with an NBA title winner",
+      "url": "http://www.rollingstone.com/politics/politics-news/new-york-knicks-visit-donald-trump-white-house-1235580506/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/DolanTrump.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-06-18T18:15:55Z",
+      "content": "The New York Knicks have won the NBA championship, and questions are already swirling about whether they will make a trip to the White House to celebrate with Donald Trump.\r\nTrump is famously friendl… [+2981 chars]",
+      "tags": [
+        "personal_family",
+        "trump"
+      ],
+      "publishedAtTs": 1781806555
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "Barack and Michelle Obama Decry Trumpism in Rousing Presidential Center Speeches",
+      "description": "Barack and Michelle Obama delivered not-so-subtle critiques of Donald Trump and his administration at the opening of the Obama Presidential Center.",
+      "url": "http://www.rollingstone.com/politics/politics-news/barack-michelle-obama-trumpism-presidential-center-1235580789/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/barack-obama-center-speech.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-06-18T21:15:36Z",
+      "content": "The Obama Presidential Center opened in Chicago on Thursday. It was a star-studded affair, with former presidents Bill Clinton, George W. Bush, and Joe Biden attending, and artists like Bruce Springs… [+2747 chars]",
+      "tags": [
+        "elections_politics",
+        "social_issues"
+      ],
+      "publishedAtTs": 1781817336
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "Republicans Slam Trump for Caving to Iran in ‘Disaster’ of a Deal",
+      "description": "Donald Trump's \"memorandum of understanding\" with Iran has been slammed by Republican lawmakers and right-wing commentators.",
+      "url": "http://www.rollingstone.com/politics/politics-news/trump-iran-deal-slammed-republicans-1235580368/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/GOP-and-trumps-deal.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2026-06-18T15:07:29Z",
+      "content": "During the G7 conference on Wednesday, Donald Trump told reporters that while “nobody knows what it is,” his supposed deal with Iran “is very strong and most people seem to be very happy.”\r\nThe deal,… [+5080 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "elections_politics",
+        "republican_party"
+      ],
+      "publishedAtTs": 1781795249
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Kory Grow",
+      "title": "Jay Leno: ‘Joe Rogan Is the New Johnny Carson’",
+      "description": "Jay Leno recently said that he believes Joe Rogan is the new Johnny Carson.",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/jay-leno-joe-rogan-is-new-johnny-carson-1235580334/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/jay-leno-joe-rogan.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2026-06-18T15:09:22Z",
+      "content": "In the last decade or so, network TV channels have reduced their late-night talk-show lineups, most recently with CBS canceling The Late Show. Now Jay Leno, who inherited The Tonight Show from Johnny… [+2103 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781795362
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Kory Grow",
+      "title": "Bad Bunny Didn’t Need the U.S. to Set Touring Records This Year",
+      "description": "Artist's Debí Tirar Más Fotos world tour is now highest grossing and best-selling tour in history to ignore the states, and his ticket sales have pushed him past $1 billion in gross sales",
+      "url": "http://www.rollingstone.com/music/music-news/bad-bunny-tour-sets-records-1235580418/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/bad-bunny-one-billion.jpg?crop=0px%2C4px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2026-06-18T17:20:09Z",
+      "content": "The massive success of Bad Bunny‘s Debí Tirar Más Fotos world tour has helped him break several records, according to Billboard Boxscore, which has tabulated tour data for the past four decades.\r\nMos… [+2255 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781803209
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Points Guy"
+      },
+      "author": "Rachel Craft",
+      "title": "How to save money on a national park trip this year with points and miles",
+      "description": "Planning a vacation to America's national parks? Points and miles can save you even more money on these already inexpensive travel destinations.",
+      "url": "https://thepointsguy.com/travel/visit-americas-national-parks-for-less/",
+      "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/04/group-stops-at-the-Look-Rock-area-of-Foothills-Parkway-West-in-Great-Smoky-Mountains-National-Park-to-enjoy-the-summer-view-of-the-Appalachian-Mountains_-GreenStock.jpg",
+      "publishedAt": "2026-06-18T12:00:32Z",
+      "content": "Whether your ideal vacation involves climbing mountains, snorkeling reefs, exploring caves or hiking through ancient forests, you can do it in a national park.\r\nWith the recent weakening of the U.S. … [+13681 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781784032
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Cory Turner",
+      "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
+      "description": "The Trump administration wants to jumpstart student loan repayment, with federal student loan debt approaching $2 trillion.",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6175x3473+0+422/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2Fd6%2F790d1b5b44619e4086c1cc8848b1%2Fgettyimages-2158370519.jpg",
+      "publishedAt": "2026-06-18T17:28:44Z",
+      "content": "Student loan borrowers who enroll in automatic payments will get a much bigger discount on interest starting July 1, the U.S. Department of Education says.\r\nAuto pay has long offered a modest discoun… [+1560 chars]",
+      "tags": [
+        "economy_finance",
+        "education"
+      ],
+      "publishedAtTs": 1781803724
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Federica Marsi",
+      "title": "How does Trump’s MOU with Iran compare with Obama’s nuclear pact?",
+      "description": "Trump promised a better deal than the 2015 JCPOA nuclear agreement with Iran - but is it?",
+      "url": "https://www.aljazeera.com/news/2026/6/18/how-does-trumps-mou-with-iran-compare-with-obamas-nuclear-pact",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a33f758287b-1781790552_7ff87b-1781791048.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-06-18T15:10:12Z",
+      "content": "A memorandum of understanding (MOU) for ending the US-Iran war has been electronically signed near the French capital, Paris, after weeks of US President Donald Trumps repeated claims that an agreeme… [+9497 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781795412
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "US and Iran sign Memorandum of Understanding to end war",
+      "description": "US President Donald Trump and Iranian President Masoud Pezeshkian have reportedly signed a Memorandum of Understanding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-17T192802Z_975305121_RC2VVLA9QOFO_RTRMADP_3_G7-SUMMIT-TRUMP-1781746870.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T01:42:10Z",
+      "content": "NewsFeed\r\nUS President Donald Trump and Iranian President Masoud Pezeshkian have reportedly signed a Memorandum of Understanding to end the war between the two countries. Negotiating teams are expect… [+75 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781746930
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Andy Hirschfeld",
+      "title": "Are prices really dropping in the US, as Trump claims?",
+      "description": "Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.",
+      "url": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a31bef4-1781645044.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T21:30:41Z",
+      "content": "United States President Donald Trump has taken to social media to boast about the state of the economy amid a looming peace deal between the US and Iran, which yesterday signed a memorandum of unders… [+6077 chars]",
+      "tags": [
+        "economy_finance",
+        "trade"
+      ],
+      "publishedAtTs": 1781818241
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Yashraj Sharma",
+      "title": "Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?",
+      "description": "Media reports talk about rifts between Israeli and American leaders, but it has not changed US policy towards Israel.",
+      "url": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2017-02-15T120000Z_1980563615_HT1ED2F1FX36I_RTRMADP_3_USA-TRUMP-ISRAEL-1781777294.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T14:44:08Z",
+      "content": "The deal between the United States and Iran to end the US-Israel war on Iran has faced fierce opposition from Israel, including Prime Minister Benjamin Netanyahu. Israel has continued to bomb Lebanon… [+8297 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "middle_east"
+      ],
+      "publishedAtTs": 1781793848
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "US vice president slams Israel over criticism of Trump’s Iran deal",
+      "description": "JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781804140.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-06-18T17:35:48Z",
+      "content": "NewsFeed\r\nUS Vice President JD Vance slammed members of Israels government for criticising US President Donald Trump over his Iran deal efforts, saying Israel should not attack its strongest ally.",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781804148
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US progressive Lewis George on track to become DC mayor after Trump threats",
+      "description": "The Democratic Socialist has vowed aggressive response to Trump, who has said he could 'take back' DC if she wins.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-progressive-lewis-george-on-track-to-become-dc-mayor-after-trump-threats",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a340482-1781793922.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T15:26:45Z",
+      "content": "Washington, DC Janeese Lewis George, a Democratic Socialist who has promised an aggressive approach to United States President Donald Trump, is on track to become the next mayor of Washington, DC.\r\nL… [+2502 chars]",
+      "tags": [
+        "elections_politics",
+        "democratic_party",
+        "trump"
+      ],
+      "publishedAtTs": 1781796405
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
+      "description": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a343baf48-1781808047.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T19:52:17Z",
+      "content": "A provision in a memorandum of understanding (MoU) to end the US-Israel war with Iran has become the latest political flashpoint in Washington, with President Donald Trump defending the commitment to… [+4025 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781812337
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Sarah Shamim",
+      "title": "What the Trump-Iran 14-point plan says about Lebanon, Hormuz and uranium",
+      "description": "The memorandum of understanding covers 14 points but leaves many crucial questions unanswered.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/what-the-trump-iran-14-point-plan-says-about-lebanon-hormuz-and-uranium",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a33bc2eb069-1781775406-e1781775521871_b9796e-1781777491.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-06-18T11:50:22Z",
+      "content": "The United States provided details of the 14-point memorandum of understanding it reached with Iran on Wednesday.\r\nNeither has released a physical copy, but a US official read out the text during a c… [+10127 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781783422
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+      "description": "Russia's oil refineries have been heavily targeted, damaging its energy facilities and the country’s fuel crisis.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a339236-1781764662.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T08:11:58Z",
+      "content": "Ukrainian drones have hit a Moscow oil refinery for the second time this week while Russia fired missiles at Kyiv, as President Volodymyr Zelenskyy seeks support from the United States and Europe to … [+2374 chars]",
+      "tags": [
+        "foreign_policy",
+        "russia",
+        "ukraine"
+      ],
+      "publishedAtTs": 1781770318
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Ali Harb",
+      "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "description": "Analysts warn that pro-Israel groups and politicians in Washington will likely push to derail diplomacy with Tehran.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-03-28T210113Z_513188520_RC2UDKAYM4FO_RTRMADP_3_USA-ELECTION-CPAC-1781807193.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T20:26:45Z",
+      "content": "Washington, DC A few months ago, it would have been unthinkable for a mainstream politician in the United States let alone a Republican senator to acknowledge Irans right to self-defence.\r\nBut on Wed… [+9643 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
+      "publishedAtTs": 1781814405
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Pakistan signs US-Iran MoU",
+      "description": "Pakistan’s Prime Minister Shehbaz Sharif signed a US-Iran memorandum of understanding aimed at ending the war.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781806515.jpg?resize=1614%2C1080&quality=80",
+      "publishedAt": "2026-06-18T18:14:55Z",
+      "content": "NewsFeed\r\nPakistans Prime Minister Shehbaz Sharif has signed a US-Iran memorandum of understanding aimed at ending the war between the two countries. US President Donald Trump and Irans President Mas… [+34 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781806495
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Ghalibaf says talks delivered more results than war",
+      "description": "Ghalibaf says talks delivered more results than war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/ghalibaf-says-talks-delivered-more-results-than-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/WD-clean-1781746439.jpg?resize=1200%2C675",
+      "publishedAt": "2026-06-18T01:45:45Z",
+      "content": "NewsFeed\r\nIranian negotiator Mohammad Bagher Ghalibaf says diplomacy delivered results that in the end, military action did not. Ghalibaf suggested Israels last-ditch strike on Beirut to derail the M… [+35 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781747145
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US judge orders release of Palestinian rights advocate detained by ICE",
+      "description": "Mosque leader says he was arrested and detained by immigration authorities in retaliation for his Palestine advocacy.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a346fbeed7f9-1781821374.jpg?resize=1200%2C675",
+      "publishedAt": "2026-06-18T23:01:26Z",
+      "content": "A federal judge in the United States has ordered the release of Salah Sarsour, a Muslim leader who says his detention by immigration authorities was a form of retaliation for his outspoken support of… [+4376 chars]",
+      "tags": [
+        "immigration",
+        "legal_justice",
+        "civil_rights"
+      ],
+      "publishedAtTs": 1781823686
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+      "description": "Several countries welcome deal, as IAEA chief says 'now the technical work starts' on Iran's nuclear programme.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a33bb2fe890-1781775151.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T11:06:40Z",
+      "content": "US President Donald Trump and Irans President Masoud Pezeshkian have electronically signed a memorandum of understanding to extend a ceasefire in the US-Iran war.\r\nPakistan, which has been mediating … [+5111 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1781780800
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Joseph Stepansky",
+      "title": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems",
+      "description": "US vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a3426f9083b-1781802745.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T17:08:00Z",
+      "content": "United States President JD Vance has been defending the memorandum of understanding to end the US-Israeli war with Iran, responding to criticism of the deal from members of the opposing Democratic Pa… [+4677 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "israel",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1781802480
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
+      "description": "The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a345470b2-1781814384.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T21:28:00Z",
+      "content": "Cubas Communist Party has approved a raft of unprecedented free-market measures as part of an emergency economic package.\r\nThe package was submitted to the countrys National Assembly on Thursday, whe… [+2990 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781818080
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Continuity or change? What to know about Colombia’s run-off election",
+      "description": "Far-right Abelardo de la Espriella and leftist Ivan Cepeda compete for the presidency on starkly different platforms.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/continuity-or-change-what-to-know-about-colombias-run-off-election",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a32e6a00f7c-1781720736.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T15:23:18Z",
+      "content": "Voters in Colombia are preparing to head to the polls for the second time in less than a month to decide who will be the South American countrys next president.\r\nBut the two candidates competing in S… [+9521 chars]",
+      "tags": [
+        "elections_politics",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781796198
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Elizabeth Melimopoulos",
+      "title": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+      "description": "Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a2fde558ca5-1781522005.jpg?resize=1200%2C675",
+      "publishedAt": "2026-06-18T07:38:41Z",
+      "content": "US President Donald Trump and Iranian President Masoud Pezeshkian have electronically signed a memorandum of understanding aimed at ending the nearly four-month-long conflict between the United State… [+3004 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781768321
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US transfers immigrants out of Florida Alligator Alcatraz detention centre",
+      "description": "The facility, located near the Everglade wetlands, has drawn human rights concerns and lawsuits over its conditions.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-transfers-immigrants-out-of-florida-alligator-alcatraz-detention-centre",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a3310c4a5909-1781731524.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T00:27:27Z",
+      "content": "The administration of United States President Donald Trump has announced that all immigrant detainees have been transferred out of a Florida detention facility known as Alligator Alcatraz, effectivel… [+3729 chars]",
+      "tags": [
+        "immigration"
+      ],
+      "publishedAtTs": 1781742447
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Erin Hale",
+      "title": "Trump’s MoU with Iran draws backlash from some Republicans",
+      "description": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-17T165725Z_1280919131_RC2SVLACYBN9_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS-1781743221.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T03:11:41Z",
+      "content": "US President Donald Trumps interim deal with Iran has drawn a backlash from fellow Republicans, who argue the agreement wastes billions of dollars of taxpayer money and does little to restrict Tehran… [+3061 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1781752301
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Caolán Magee",
+      "title": "Iran’s supreme leader says approved US deal despite having ‘different’ view",
+      "description": "Iran says it has suspended Strait of Hormuz transit charges for commercial vessels for 60 days.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/irans-supreme-leader-says-approved-us-deal-despite-having-different-view",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3445bccca3-1781810620.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T20:19:39Z",
+      "content": "Irans supreme leader says he initially disagreed with the recently signed memorandum of understanding between Tehran and Washington but ultimately approved it after receiving assurances from Irans le… [+4264 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781813979
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US Supreme Court eases restrictions on drug users owning firearms",
+      "description": "Court sides unanimously with marijuana user who argued law barring him from owning firearms violated US Constitution.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-supreme-court-eases-restrictions-on-drug-users-owning-firearms",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a34169d1de2-1781798557.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T17:07:22Z",
+      "content": "The United States Supreme Court has sided with a marijuana user from the state of Texas who had argued that a federal law barring illegal drug users from owning a firearm violated the Second Amendmen… [+2394 chars]",
+      "tags": [
+        "legal_justice",
+        "criminal_cases",
+        "gun_policy"
+      ],
+      "publishedAtTs": 1781802442
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US military says it has lifted naval blockade of Iranian ports",
+      "description": "CENTCOM says that all blockade enforcement efforts 'have ceased' but that US forces will remain in the area.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a34380e8d-1781807118.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T19:43:20Z",
+      "content": "The United States military says that it has lifted its naval blockade of Iranian ports, part of an agreement between the US and Iran suspending military operations during a period of negotiations.\r\nU… [+1975 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1781811800
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
+      "description": "Brent crude drops as much as 1.6 percent, while key stock indices in Japan, South Korea and Taiwan climb.",
+      "url": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-16T095243Z_702246180_RC2QULA71E5H_RTRMADP_3_IRAN-CRISIS-OIL-PRICES-1781745592.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T03:45:13Z",
+      "content": "Oil prices have dropped following the United States and Irans signing of an interim peace agreement, resuming a slide interrupted by US President Donald Trumps warning that he could restart his milit… [+2993 chars]",
+      "tags": [
+        "energy",
+        "foreign_policy",
+        "iran",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1781754313
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Alex Milan Durie",
+      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
+      "description": "Israeli attacks in southern Lebanon continue in spite of a US-Iran deal that would mean ceasing military operations.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260617__B7E87ZH__v6__HighRes__TopshotIsraelLebanonIranUsWar-1781771790.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T13:04:54Z",
+      "content": "Israeli air attacks on southern Lebanon have killed at least three people, Lebanese state media has reported, a day after the United States and Iran signed an interim agreement that called for an end… [+2669 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "iran"
+      ],
+      "publishedAtTs": 1781787894
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Caolán Magee",
+      "title": "Israel kills at least three Palestinians in Gaza City drone strike",
+      "description": "Gaza's Health Ministry says at least 1,007 Palestinians have been killed by Israel since the so-called 'ceasefire'.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a341124527c-1781797156.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T16:50:58Z",
+      "content": "At least three Palestinians have been killed and several others wounded after an Israeli drone struck a vehicle near Abu Khadra Mosque in the Rimal neighbourhood of western Gaza City, according to me… [+4423 chars]",
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "israel"
+      ],
+      "publishedAtTs": 1781801458
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "description": "Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.",
+      "url": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a345a98c4f7e-1781815960.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-18T21:13:00Z",
+      "content": "Federal police in Brazil have carried out more than a dozen raids as part of a widening corruption investigation, including one targeting a senator closely allied with President Luiz Inacio Lula da S… [+4107 chars]",
+      "tags": [
+        "foreign_policy",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1781817180
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GSMArena.com"
+      },
+      "author": "Ro",
+      "title": "Trump says Intel and Apple will produce chips domestically",
+      "description": "The President of the United States confirmed in a Truth Social post that Apple and Intel have agreed to design and manufacture chips for the Cupertino-based company. Even though there's nothing official from Intel and Apple just yet, Trump's claims on his soc…",
+      "url": "https://www.gsmarena.com/trump_says_intel_and_apple_will_produce_chips_domestically-news-73337.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/05/kuo-apple-intel-chip-trial-production/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-06-18T19:44:02Z",
+      "content": "The President of the United States confirmed in a Truth Social post that Apple and Intel have agreed to design and manufacture chips for the Cupertino-based company. Even though there's nothing offic… [+1273 chars]",
+      "tags": [
+        "trade_negotiations_truces",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1781811842
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Analice Couto",
+      "title": "After Trump’s ‘De*d Fish’ Handshake With Macron Goes Viral, Body Language Experts Reveal Its Meaning",
+      "description": "Donald Trump was apparently “disrespectful” towards French President Emmanuel Macron when they shook hands in front of flashing cameras.",
+      "url": "https://www.boredpanda.com/trumps-ded-fish-handshake-with-macron-according-to-body-language-expert/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/fb_image_6a34179565df5.png",
+      "publishedAt": "2026-06-18T18:30:53Z",
+      "content": "Donald Trump was apparently “disrespectful” towards French President Emmanuel Macron when they shook hands in front of flashing cameras.\r\nWorld leaders know that every word they utter and every gestu… [+5216 chars]",
+      "tags": [
+        "personal_family",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1781807453
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Analice Couto",
+      "title": "Leaked G7 Photos Spur Trump Health Concerns After Viewers Spot Bruises, Deep Gash",
+      "description": "When Donald Trump stepped onto French soil for the G7 Summit this week, netizens noticed a detail that sparked concerns about his health.",
+      "url": "https://www.boredpanda.com/leaked-g7-photos-spur-trump-health-concerns-after-viewers-spot-bruises/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/fb_image_6a342c33307a8.png",
+      "publishedAt": "2026-06-18T18:12:10Z",
+      "content": "When Donald Trump stepped onto French soil for the G7 Summit this week, netizens noticed a detail that sparked concerns about his health.\r\nThe US president has been claiming that he’s in peak physica… [+6835 chars]",
+      "tags": [
+        "personal_family",
+        "health"
+      ],
+      "publishedAtTs": 1781806330
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Rocio Corsi",
+      "title": "Gavin Newsom’s Jaw‑Dropping Confession To Justin Trudeau At World Cup Exposed As He Assumed No One Was Looking",
+      "description": "Newsom attended the FIFA World Cup amid an ongoing investigation by the Department of Justice.",
+      "url": "https://www.boredpanda.com/gavin-newsom-jawdropping-confession-to-justin-trudeau-at-world-cup-exposed/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/06/fb_image_6a3453e335860.png",
+      "publishedAt": "2026-06-18T22:18:37Z",
+      "content": "The 2026 FIFA World Cup is in full swing, and spotting celebrities in the stands during games is not uncommon.\r\nOn Saturday, June 13, former Canadian Prime Minister Justin Trudeau appeared to support… [+6332 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1781821117
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Matt Sledge",
+      "title": "Senate Democrats Aren’t Happy About Trump’s Spy Law Ultimatum",
+      "description": "Before Trump paused Jay Clayton’s nomination, Democrats thought they were on a “glide path” to renewing FISA. Now the president wants to tie domestic surveillance to voter suppression.\nThe post Senate Democrats Aren’t Happy About Trump’s Spy Law Ultimatum app…",
+      "url": "https://theintercept.com/2026/06/17/trump-fisa-warrant-surveillance-clayton-pulte/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/06/GettyImages-2281456208-e1781732405217.jpg?fit=5616%2C2808&w=1200&h=800",
+      "publishedAt": "2026-06-18T02:36:39Z",
+      "content": "Before President Donald Trump threw his latest hand grenade into congressional negotiations over a key domestic spying law, two factions of Senate Democrats seemed to believe they were on the verge o… [+5303 chars]",
+      "tags": [
+        "legal_justice",
+        "security_intelligence",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1781750199
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Ryan Devereaux",
+      "title": "ICE’s Unseen Toll in Minneapolis: Suicide Helpline Calls More Than Doubled During Surge",
+      "description": "ICE’s crackdown in Minneapolis left deep scars on the besieged city, says a new Human Rights Watch report.\nThe post ICE’s Unseen Toll in Minneapolis: Suicide Helpline Calls More Than Doubled During Surge appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/06/18/ice-minneapolis-mental-health-human-rights-watch/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/06/GettyImages-2257812992-e1781714866932.jpg?fit=6886%2C3443&w=1200&h=800",
+      "publishedAt": "2026-06-18T05:00:00Z",
+      "content": "More than six months after federal agents descended on Minnesota, the toll of the immigration crackdown on the Twin Cities continues to mount.\r\nThe latest revelations about the far-reaching and deepl… [+6039 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "social_issues"
+      ],
+      "publishedAtTs": 1781758800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Ted Johnson",
+      "title": "Barack Obama Opens Presidential Center By Calling Out “Perpetual Anger And Division”; Ceremony Focuses On Legacy And Doesn’t Mention Trump",
+      "description": "As he opened his new presidential center on Chicago’s South Side, Barack Obama invoked some of his signature themes of hope over division, while warning of greater isolation, polarization and lack of trust fueled by rapidly advancing AI technology. What went …",
+      "url": "http://deadline.com/2026/06/barack-obama-presidential-center-opening-speech-1236959595/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2282237275.jpg?w=1024",
+      "publishedAt": "2026-06-18T20:26:59Z",
+      "content": "As he opened his new presidential center on Chicago’s South Side, Barack Obama invoked some of his signature themes of hope over division, while warning of greater isolation, polarization and lack of… [+3434 chars]",
+      "tags": [
+        "social_issues",
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1781814419
+    }
+  ]
+}
