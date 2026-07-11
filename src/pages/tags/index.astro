@@ -1,0 +1,56 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import AlphaBrowseList from "../../components/react/AlphaBrowseList.tsx";
+import { slugify } from "../../utils/slugify";
+import { filterOffTopic } from "../../utils/filters";
+import { getTagById } from "../../utils/tags";
+
+const allNews = await getCollection("news");
+const tagCounts = new Map<string, number>();
+
+for (const entry of allNews) {
+  for (const article of filterOffTopic(entry.data.articles)) {
+    for (const tag of article.tags) {
+      tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+    }
+  }
+}
+
+const tags = Array.from(tagCounts.entries())
+  .map(([id, count]) => {
+    const info = getTagById(id);
+    const label =
+      info?.name ??
+      id
+        .split(/[_-]+/)
+        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+        .join(" ");
+    return {
+      label,
+      href: `/tags/${slugify(id)}/`,
+      count,
+      description: info?.description,
+    };
+  })
+  .sort((a, b) =>
+    a.label.localeCompare(b.label, undefined, { sensitivity: "base" }),
+  );
+---
+
+<BaseLayout title="Tags">
+  <div class="mx-auto max-w-6xl p-4 pb-16">
+    <h1 class="mb-2 text-3xl font-bold">Tags</h1>
+    <p class="mb-6 text-muted-foreground">
+      Browse by letter or search by name and description.
+    </p>
+
+    <AlphaBrowseList
+      client:load
+      items={tags}
+      idPrefix="tag"
+      itemNoun="tags"
+      placeholder="Search tags…"
+    />
+  </div>
+</BaseLayout>

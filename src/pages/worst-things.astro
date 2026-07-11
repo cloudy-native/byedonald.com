@@ -1,0 +1,57 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import WorstThings from "../components/react/WorstThings.tsx";
+import worstThingsData from "../../data/worst-things/worst-things.json";
+import tagCategories from "../../data/tags/tags.json";
+---
+
+<BaseLayout title="500 Worst Things">
+  <WorstThings
+    client:load
+    months={worstThingsData.months}
+    tagCategories={tagCategories}
+  />
+</BaseLayout>
+
+<style>
+  /* Responsive grid for items */
+  :global(.wt-items-grid) {
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 768px) {
+    :global(.wt-items-grid) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  /* Hide sidebar on mobile */
+  :global(.wt-sidebar) {
+    display: none;
+  }
+
+  @media (min-width: 768px) {
+    :global(.wt-sidebar) {
+      display: block;
+    }
+  }
+
+  /* Dark mode CSS custom properties */
+  :global(html.dark) {
+    --wt-card-bg: #2d3748;
+    --wt-border: #4a5568;
+    --wt-number: #90cdf4;
+    --wt-text: #e2e8f0;
+    --wt-heading: #90cdf4;
+    --wt-muted: #a0aec0;
+    --wt-link: #90cdf4;
+    --wt-input-bg: #2d3748;
+    --wt-input-border: #4a5568;
+    --wt-sidebar-bg: rgba(26, 32, 44, 0.92);
+    --wt-sidebar-border: rgba(148, 163, 184, 0.18);
+    --wt-nav-active-bg: #2b6cb0;
+    --wt-nav-text: #e2e8f0;
+    --wt-fallback-tag-bg: rgba(255, 255, 255, 0.1);
+    --wt-fallback-tag-text: #90cdf4;
+  }
+</style>

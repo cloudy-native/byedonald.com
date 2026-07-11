@@ -1,0 +1,46 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import AlphaBrowseList from "../../components/react/AlphaBrowseList.tsx";
+import { filterOffTopic } from "../../utils/filters";
+import { slugify } from "../../utils/slugify";
+
+const allNews = await getCollection("news");
+const sourcesBySlug = new Map<string, string>();
+
+for (const entry of allNews) {
+  for (const article of filterOffTopic(entry.data.articles)) {
+    const name = article.source.name;
+    const slug = slugify(name);
+    if (!sourcesBySlug.has(slug)) {
+      sourcesBySlug.set(slug, name);
+    }
+  }
+}
+
+const sources = Array.from(sourcesBySlug.entries())
+  .map(([slug, name]) => ({
+    label: name,
+    href: `/sources/${slug}/`,
+  }))
+  .sort((a, b) =>
+    a.label.localeCompare(b.label, undefined, { sensitivity: "base" }),
+  );
+---
+
+<BaseLayout title="Sources">
+  <div class="mx-auto max-w-6xl p-4 pb-16">
+    <h1 class="mb-2 text-3xl font-bold">Sources</h1>
+    <p class="mb-6 text-muted-foreground">
+      Browse by letter or search by source name.
+    </p>
+
+    <AlphaBrowseList
+      client:load
+      items={sources}
+      idPrefix="source"
+      itemNoun="sources"
+      placeholder="Search sources…"
+    />
+  </div>
+</BaseLayout>

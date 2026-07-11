@@ -1,0 +1,160 @@
+---
+const NAV_ITEMS = [
+  { label: "Calendar", href: "/" },
+  { label: "500 Worst Things", href: "/worst-things/" },
+  { label: "Tags", href: "/tags/" },
+  { label: "Sources", href: "/sources/" },
+  { label: "About", href: "/about" },
+];
+---
+
+<header
+  class="sticky top-0 z-50 border-b border-border bg-background/95 text-foreground shadow-sm backdrop-blur supports-[backdrop-filter]:bg-background/80"
+>
+  <div class="mx-auto max-w-7xl px-4">
+    <div class="flex min-h-[60px] items-center gap-4">
+      <button
+        type="button"
+        class="hamburger-btn inline-flex h-10 w-10 items-center justify-center rounded-md hover:bg-accent md:hidden"
+        aria-label="Toggle Navigation"
+        aria-expanded="false"
+      >
+        <svg
+          class="hamburger-icon h-5 w-5"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+        <svg
+          class="close-icon hidden h-3.5 w-3.5"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+
+      <a
+        href="/"
+        class="whitespace-nowrap text-xl font-bold text-blue-600 no-underline hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
+      >
+        Bye Donald
+      </a>
+
+      <nav
+        class="ml-8 hidden flex-1 items-center gap-6 md:flex"
+        aria-label="Main navigation"
+      >
+        {
+          NAV_ITEMS.map((item) => (
+            <a
+              href={item.href}
+              class="whitespace-nowrap text-base font-medium text-foreground no-underline hover:text-blue-600 dark:hover:text-blue-400"
+            >
+              {item.label}
+            </a>
+          ))
+        }
+      </nav>
+
+      <button
+        type="button"
+        class="theme-toggle ml-auto inline-flex h-10 w-10 items-center justify-center rounded-md hover:bg-accent"
+        aria-label="Toggle color mode"
+      >
+        <svg
+          class="icon-sun hidden h-[18px] w-[18px] dark:block"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <circle cx="12" cy="12" r="5"></circle>
+          <line x1="12" y1="1" x2="12" y2="3"></line>
+          <line x1="12" y1="21" x2="12" y2="23"></line>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+          <line x1="1" y1="12" x2="3" y2="12"></line>
+          <line x1="21" y1="12" x2="23" y2="12"></line>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+        </svg>
+        <svg
+          class="icon-moon block h-[18px] w-[18px] dark:hidden"
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+      </button>
+    </div>
+
+    <nav
+      class="mobile-nav mb-4 hidden flex-col gap-2 md:!hidden"
+      aria-label="Mobile navigation"
+    >
+      {
+        NAV_ITEMS.map((item) => (
+          <a
+            href={item.href}
+            class="block py-2 font-medium text-foreground no-underline hover:text-blue-600"
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.querySelector(".theme-toggle");
+    if (toggleBtn) {
+      toggleBtn.addEventListener("click", function () {
+        const isDark = document.documentElement.classList.toggle("dark");
+        localStorage.setItem("color-mode", isDark ? "dark" : "light");
+      });
+    }
+
+    const hamburgerBtn = document.querySelector(".hamburger-btn");
+    const mobileNav = document.querySelector(".mobile-nav");
+    if (hamburgerBtn && mobileNav) {
+      hamburgerBtn.addEventListener("click", function () {
+        const isExpanded =
+          hamburgerBtn.getAttribute("aria-expanded") === "true";
+        hamburgerBtn.setAttribute("aria-expanded", String(!isExpanded));
+        mobileNav.classList.toggle("hidden");
+        mobileNav.classList.toggle("flex");
+        const hamburgerIcon = hamburgerBtn.querySelector(".hamburger-icon");
+        const closeIcon = hamburgerBtn.querySelector(".close-icon");
+        if (hamburgerIcon && closeIcon) {
+          hamburgerIcon.classList.toggle("hidden");
+          closeIcon.classList.toggle("hidden");
+        }
+      });
+    }
+  });
+</script>

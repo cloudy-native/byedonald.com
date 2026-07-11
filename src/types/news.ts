@@ -13,6 +13,7 @@ export interface Article {
   publishedAt: string;
   content: string | null;
   tags: string[];
+  publishedAtTs: number;
 }
 
 export interface NewsApiResponse {

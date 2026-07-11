@@ -1,8 +1,8 @@
 .env
 node_modules/
 .cache/
-public
-src/gatsby-types.d.ts
+dist/
+.astro/
 .DS_Store
 .vscode
 .metals

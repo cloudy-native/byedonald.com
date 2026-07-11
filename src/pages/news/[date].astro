@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsDayFilters from '../../components/react/NewsDayFilters.tsx';
+import { filterOffTopic } from '../../utils/filters';
+import { getNewsDayTitle } from '../../utils/title';
+import type { Article } from '../../types/news';
+
+export async function getStaticPaths() {
+  const allNews = await getCollection('news');
+  return allNews.map(entry => ({
+    params: { date: entry.id },
+    props: {
+      articles: filterOffTopic(entry.data.articles),
+    },
+  }));
+}
+
+interface Props {
+  articles: Article[];
+}
+
+const { date } = Astro.params;
+const { articles } = Astro.props;
+const title = getNewsDayTitle(date);
+---
+
+<BaseLayout title={title}>
+  <div class="mx-auto max-w-6xl p-4">
+    <h1 class="mb-6 text-3xl font-bold">{title}</h1>
+
+    {
+      articles.length === 0 ? (
+        <p class="p-8 text-center italic text-muted-foreground">
+          No articles for this date.
+        </p>
+      ) : (
+        <NewsDayFilters client:load articles={articles} />
+      )
+    }
+  </div>
+</BaseLayout>

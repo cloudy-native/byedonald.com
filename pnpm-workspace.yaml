@@ -1,0 +1,14 @@
+packages:
+  - .
+  - cdk
+
+allowBuilds:
+  esbuild: true
+  sharp: true
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+
+overrides:
+  vite: ^7.3.6

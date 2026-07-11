@@ -1,0 +1,124 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="About – Bye Donald">
+  <div class="mx-auto max-w-4xl px-4 pb-12">
+    <div class="py-12 text-center">
+      <h1 class="mb-4 text-4xl font-bold text-blue-600 dark:text-blue-400">
+        About ByeDonald.com
+      </h1>
+      <p class="mx-auto max-w-3xl text-lg leading-relaxed text-muted-foreground">
+        This project is an open-source effort to track and categorize news
+        related to Donald Trump's second term as President. It aims to provide a
+        factual, day-by-day overview of events as reported by various news
+        outlets.
+      </p>
+    </div>
+
+    <section class="mt-12 text-center">
+      <h2 class="mb-4 text-2xl font-bold text-blue-600 dark:text-blue-400">
+        How It Works
+      </h2>
+      <p class="mx-auto mb-8 max-w-3xl text-lg text-muted-foreground">
+        The content on this site is generated through a fully automated pipeline
+        that ensures daily updates and consistent categorization.
+      </p>
+      <div class="grid grid-cols-1 gap-6 text-left md:grid-cols-3">
+        <div class="rounded-lg border border-border p-6 shadow-sm">
+          <h3 class="mb-3 text-xl font-semibold">1. Fetch News</h3>
+          <p class="m-0 text-muted-foreground">
+            Every day, a script fetches the latest news articles related to
+            Donald Trump from a variety of sources using the GNews.io API.
+          </p>
+        </div>
+        <div class="rounded-lg border border-border p-6 shadow-sm">
+          <h3 class="mb-3 text-xl font-semibold">2. Tag Articles</h3>
+          <p class="m-0 text-muted-foreground">
+            Each article is then processed by Anthropic's Claude AI model, which
+            reads the content and assigns relevant tags to categorize the news.
+          </p>
+        </div>
+        <div class="rounded-lg border border-border p-6 shadow-sm">
+          <h3 class="mb-3 text-xl font-semibold">3. Index for Search</h3>
+          <p class="m-0 text-muted-foreground">
+            All tagged articles are sent to Algolia, which powers the fast and
+            accurate search functionality you can use across the site.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-12 rounded-lg bg-muted/50 px-6 py-10 text-center">
+      <h2 class="mb-4 text-2xl font-bold text-blue-600 dark:text-blue-400">
+        Acknowledgements &amp; Technology
+      </h2>
+      <p class="mx-auto mb-8 max-w-3xl text-lg text-muted-foreground">
+        This project would not be possible without several key services and
+        open-source technologies.
+      </p>
+      <div class="flex flex-wrap items-center justify-center gap-6">
+        <a
+          href="https://gnews.io/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >GNews.io</a
+        >
+        <a
+          href="https://www.anthropic.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >Anthropic Claude</a
+        >
+        <a
+          href="https://www.algolia.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >Algolia</a
+        >
+        <a
+          href="https://astro.build/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >Astro</a
+        >
+        <a
+          href="https://ui.shadcn.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >shadcn/ui</a
+        >
+        <a
+          href="https://www.typescriptlang.org/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="font-semibold text-blue-600 no-underline hover:underline dark:text-blue-400"
+          >TypeScript</a
+        >
+      </div>
+    </section>
+
+    <section class="mt-12 text-center">
+      <h2 class="mb-4 text-2xl font-bold text-blue-600 dark:text-blue-400">
+        Open Source
+      </h2>
+      <p class="mx-auto mb-8 max-w-3xl text-lg text-muted-foreground">
+        This entire project is open source. You can view the code, report issues,
+        or contribute on GitHub.
+      </p>
+      <a
+        href="https://github.com/cloudy-native/byedonald.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-block rounded-full bg-blue-600 px-6 py-3 font-semibold text-white no-underline transition hover:bg-blue-800"
+      >
+        View on GitHub
+      </a>
+    </section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,72 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import MonthGrid from "../components/MonthGrid.astro";
+import Countdown from "../components/react/Countdown.tsx";
+import Search from "../components/react/Search.tsx";
+
+const allNews = await getCollection("news");
+const availableDates = new Set<string>(allNews.map((entry) => entry.id));
+
+const startYear = 2023;
+const currentYear = new Date().getFullYear();
+const years = Array.from(
+  { length: currentYear - startYear + 1 },
+  (_: unknown, i: number) => startYear + i,
+);
+const months = Array.from({ length: 12 }, (_: unknown, i: number) => i);
+---
+
+<BaseLayout title={`${currentYear} Calendar`}>
+  <div class="mx-auto max-w-7xl px-4 py-8">
+    <section class="py-8 text-center">
+      <h1 class="mb-4 text-3xl font-bold text-blue-700 dark:text-blue-300">
+        Four More Years. Deep Breaths.
+      </h1>
+      <p class="mx-auto max-w-2xl text-lg text-muted-foreground">
+        It's our solemn, slightly-panicked duty to keep track of it all. For
+        posterity. For our sanity. For the history books that will one day ask,
+        "Wait, really?"
+      </p>
+    </section>
+
+    <section class="py-8 text-center">
+      <Countdown client:load />
+    </section>
+
+    <section class="py-8">
+      <h2 class="mb-2 text-center text-3xl font-bold text-blue-700 dark:text-blue-300">
+        News Calendar
+      </h2>
+      <p class="mb-8 text-center text-muted-foreground">
+        Click a day in the calendar to see Trump news from that date.
+      </p>
+
+      {
+        years.reverse().map((year) => (
+          <div class="mb-12">
+            <h3 class="mb-6 text-center text-2xl font-bold text-foreground">
+              {year}
+            </h3>
+            <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+              {months.map((month) => (
+                <MonthGrid
+                  year={year}
+                  month={month}
+                  availableDates={availableDates}
+                />
+              ))}
+            </div>
+          </div>
+        ))
+      }
+    </section>
+
+    <section class="py-8">
+      <h2 class="mb-6 text-center text-3xl font-bold text-blue-700 dark:text-blue-300">
+        Search News
+      </h2>
+      <Search client:load />
+    </section>
+  </div>
+</BaseLayout>

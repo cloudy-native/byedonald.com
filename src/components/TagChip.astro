@@ -1,0 +1,32 @@
+---
+import { badgeVariants } from "./ui/badge";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  label: string;
+  href?: string;
+  active?: boolean;
+  count?: number;
+  /** Optional tooltip (e.g. full tag description) */
+  title?: string;
+}
+
+const { label, href, active = false, count, title } = Astro.props;
+const text = count != null ? `${label} (${count})` : label;
+const className = cn(
+  badgeVariants({ variant: active ? "solid" : "outline" }),
+  "cursor-pointer",
+);
+---
+
+{
+  href ? (
+    <a href={href} class={className} title={title}>
+      {text}
+    </a>
+  ) : (
+    <span class={className} title={title}>
+      {text}
+    </span>
+  )
+}

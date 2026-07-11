@@ -1,0 +1,65 @@
+---
+import {
+  articleCardClasses,
+  articleDescriptionClasses,
+  articleMetaClasses,
+  articleTitleClasses,
+} from "./article-card-styles";
+
+interface Props {
+  title: string;
+  url: string;
+  description?: string | null;
+  sourceName?: string | null;
+  author?: string | null;
+  publishedAt?: string | null;
+  urlToImage?: string | null;
+}
+
+const {
+  title,
+  url,
+  description,
+  sourceName,
+  author,
+  publishedAt,
+  urlToImage,
+} = Astro.props;
+
+const dateLabel = publishedAt
+  ? new Date(publishedAt).toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    })
+  : null;
+---
+
+<article class={articleCardClasses}>
+  {
+    urlToImage && (
+      <img
+        src={urlToImage}
+        alt=""
+        class="h-40 w-full object-cover"
+        loading="lazy"
+        referrerpolicy="no-referrer"
+      />
+    )
+  }
+  <div class="flex flex-1 flex-col p-4">
+    <h2 class={articleTitleClasses}>
+      <a href={url} target="_blank" rel="noopener noreferrer">{title}</a>
+    </h2>
+    {description && <p class={articleDescriptionClasses}>{description}</p>}
+    <div class={articleMetaClasses}>
+      {sourceName && <span class="font-semibold">{sourceName}</span>}
+      {author && <span>by {author}</span>}
+      {
+        dateLabel && publishedAt && (
+          <time datetime={publishedAt}>{dateLabel}</time>
+        )
+      }
+    </div>
+  </div>
+</article>

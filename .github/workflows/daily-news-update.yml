@@ -17,14 +17,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
+          cache: "pnpm"
 
       - name: Install dependencies
-        run: npm install
+        run: pnpm install --frozen-lockfile
 
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -33,18 +38,18 @@ jobs:
           aws-region: ${{ vars.AWS_REGION }}
 
       - name: Fetch latest news
-        run: npm run backfill-newsapi.org
+        run: pnpm run backfill-newsapi.org
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
 
       - name: Tag new articles
-        run: npm run tag-news
+        run: pnpm run tag-news
 
       - name: Normalize tags
-        run: npm run normalize-tags
+        run: pnpm run normalize-tags
 
       - name: Move articles to correct date files
-        run: npm run move-articles-to-correct-date
+        run: pnpm run move-articles-to-correct-date
 
       - name: Check for changes
         id: git-check
@@ -64,17 +69,20 @@ jobs:
           git commit -m "feat: daily news update" || echo "No changes to commit"
           git push
 
+      # Always rebuild/deploy so the site stays current even when no new JSON landed.
       - name: Build site
-        run: npm run build
+        run: pnpm run build
         env:
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
-          GATSBY_ALGOLIA_APP_ID: ${{ vars.GATSBY_ALGOLIA_APP_ID }}
-          GATSBY_ALGOLIA_API_KEY: ${{ vars.GATSBY_ALGOLIA_API_KEY }}
-          GATSBY_ALGOLIA_INDEX_NAME: ${{ vars.GATSBY_ALGOLIA_INDEX_NAME }}
+          # Astro client-exposed Algolia vars. Fall back to legacy GATSBY_* repo vars if set.
+          PUBLIC_ALGOLIA_APP_ID: ${{ vars.PUBLIC_ALGOLIA_APP_ID || vars.GATSBY_ALGOLIA_APP_ID }}
+          PUBLIC_ALGOLIA_API_KEY: ${{ secrets.PUBLIC_ALGOLIA_API_KEY || secrets.GATSBY_ALGOLIA_API_KEY || vars.GATSBY_ALGOLIA_API_KEY }}
+          PUBLIC_ALGOLIA_INDEX_NAME: ${{ vars.PUBLIC_ALGOLIA_INDEX_NAME || vars.GATSBY_ALGOLIA_INDEX_NAME }}
 
       - name: Deploy to S3
-        run: npm run deploy
+        run: pnpm run deploy
 
       - name: Invalidate CloudFront
-        run: |
-          aws cloudfront create-invalidation --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
+        run: >
+          aws cloudfront create-invalidation
+          --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}
+          --paths "/*"

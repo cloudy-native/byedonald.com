@@ -1,0 +1,82 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { articlesGridClasses } from '../../components/article-card-styles';
+import { slugify } from '../../utils/slugify';
+import { filterOffTopic } from '../../utils/filters';
+import { getTagById } from '../../utils/tags';
+import type { Article } from '../../types/news';
+
+export async function getStaticPaths() {
+  const allNews = await getCollection('news');
+  const tagArticleMap = new Map<string, Article[]>();
+
+  for (const entry of allNews) {
+    const filtered = filterOffTopic(entry.data.articles);
+    for (const article of filtered) {
+      for (const tag of article.tags) {
+        if (!tagArticleMap.has(tag)) tagArticleMap.set(tag, []);
+        tagArticleMap.get(tag)!.push(article);
+      }
+    }
+  }
+
+  return Array.from(tagArticleMap.entries()).map(([tagId, articles]) => ({
+    params: { slug: slugify(tagId) },
+    props: { tagId, articles },
+  }));
+}
+
+interface Props {
+  tagId: string;
+  articles: Article[];
+}
+
+const { tagId, articles } = Astro.props;
+const tagInfo = getTagById(tagId);
+const tagLabel =
+  tagInfo?.name ??
+  tagId
+    .split(/[_-]+/)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ');
+const tagDescription = tagInfo?.description;
+const title = `Articles tagged: ${tagLabel}`;
+---
+
+<BaseLayout title={title}>
+  <div class="mx-auto max-w-6xl p-4">
+    <h1 class="mb-2 text-3xl font-bold">{title}</h1>
+    {
+      tagDescription && (
+        <p class="mb-2 text-muted-foreground">{tagDescription}</p>
+      )
+    }
+    <p class="mb-6 text-sm text-muted-foreground">
+      {articles.length} article{articles.length !== 1 ? 's' : ''}
+    </p>
+
+    {
+      articles.length === 0 ? (
+        <p class="p-8 text-center italic text-muted-foreground">
+          No articles for this tag.
+        </p>
+      ) : (
+        <div class={articlesGridClasses}>
+          {articles.map((article) => (
+            <ArticleCard
+              title={article.title}
+              url={article.url}
+              description={article.description}
+              sourceName={article.source.name}
+              author={article.author}
+              publishedAt={article.publishedAt}
+              urlToImage={article.urlToImage}
+            />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>

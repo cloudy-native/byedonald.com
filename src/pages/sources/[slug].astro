@@ -1,0 +1,71 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { articlesGridClasses } from '../../components/article-card-styles';
+import { filterOffTopic } from '../../utils/filters';
+import { slugify } from '../../utils/slugify';
+import type { Article } from '../../types/news';
+
+export async function getStaticPaths() {
+  const allNews = await getCollection('news');
+  const sourceArticleMap = new Map<string, { sourceName: string; articles: Article[] }>();
+
+  for (const entry of allNews) {
+    for (const article of filterOffTopic(entry.data.articles)) {
+      const sourceName = article.source.name;
+      const slug = slugify(sourceName);
+      const existing = sourceArticleMap.get(slug);
+      if (!existing) {
+        sourceArticleMap.set(slug, { sourceName, articles: [article] });
+      } else {
+        existing.articles.push(article);
+      }
+    }
+  }
+
+  return Array.from(sourceArticleMap.entries()).map(([slug, { sourceName, articles }]) => ({
+    params: { slug },
+    props: { sourceName, articles },
+  }));
+}
+
+interface Props {
+  sourceName: string;
+  articles: Article[];
+}
+
+const { sourceName, articles } = Astro.props;
+const title = `Articles from: ${sourceName}`;
+---
+
+<BaseLayout title={title}>
+  <div class="mx-auto max-w-6xl p-4">
+    <h1 class="mb-2 text-3xl font-bold">{title}</h1>
+    <p class="mb-6 text-muted-foreground">
+      {articles.length} article{articles.length !== 1 ? 's' : ''}
+    </p>
+
+    {
+      articles.length === 0 ? (
+        <p class="p-8 text-center italic text-muted-foreground">
+          No articles from this source.
+        </p>
+      ) : (
+        <div class={articlesGridClasses}>
+          {articles.map((article) => (
+            <ArticleCard
+              title={article.title}
+              url={article.url}
+              description={article.description}
+              sourceName={article.source.name}
+              author={article.author}
+              publishedAt={article.publishedAt}
+              urlToImage={article.urlToImage}
+            />
+          ))}
+        </div>
+      )
+    }
+  </div>
+</BaseLayout>
