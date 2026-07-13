@@ -249,7 +249,7 @@ export default function NewsDayFilters({ articles }: NewsDayFiltersProps) {
               type="button"
               variant="ghost"
               size="sm"
-              className="h-auto p-0 text-xs text-blue-600"
+              className="h-auto p-0 text-xs text-primary"
               onClick={(e) => {
                 e.preventDefault();
                 e.stopPropagation();
@@ -271,7 +271,7 @@ export default function NewsDayFilters({ articles }: NewsDayFiltersProps) {
                 <a
                   key={letter}
                   href={`#${panelId}-${letter}`}
-                  className="inline-flex h-7 w-7 items-center justify-center rounded-full text-xs font-bold text-blue-700 no-underline transition hover:bg-blue-100 dark:text-blue-300 dark:hover:bg-blue-950"
+                  className="inline-flex h-7 w-7 items-center justify-center rounded-full text-xs font-bold text-primary no-underline transition hover:bg-primary/10"
                   onClick={(e) => {
                     // Keep the details open; prevent summary toggle bubbling
                     e.stopPropagation();
@@ -292,7 +292,7 @@ export default function NewsDayFilters({ articles }: NewsDayFiltersProps) {
             {alphaGroups.some((g) => g.key === "#") && (
               <a
                 href={`#${panelId}-other`}
-                className="inline-flex h-7 min-w-7 items-center justify-center rounded-full px-1.5 text-xs font-bold text-blue-700 no-underline transition hover:bg-blue-100 dark:text-blue-300 dark:hover:bg-blue-950"
+                className="inline-flex h-7 min-w-7 items-center justify-center rounded-full px-1.5 text-xs font-bold text-primary no-underline transition hover:bg-primary/10"
                 onClick={(e) => e.stopPropagation()}
               >
                 #
@@ -312,7 +312,7 @@ export default function NewsDayFilters({ articles }: NewsDayFiltersProps) {
                   className="flex flex-wrap items-center gap-2 scroll-mt-4"
                 >
                   <span
-                    className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-blue-600 text-xs font-bold text-white ring-2 ring-blue-600/20 ring-offset-2 ring-offset-background dark:bg-blue-500 dark:text-slate-900 dark:ring-blue-400/30"
+                    className="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground ring-2 ring-primary/20 ring-offset-2 ring-offset-background"
                     aria-hidden="true"
                   >
                     {key}

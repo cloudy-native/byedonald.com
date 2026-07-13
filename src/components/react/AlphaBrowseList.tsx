@@ -99,7 +99,7 @@ export default function AlphaBrowseList({
             <a
               key={letter}
               href={`#${idPrefix}-${letter}`}
-              className="inline-flex h-8 w-8 items-center justify-center rounded-full text-xs font-bold text-blue-700 no-underline transition hover:bg-blue-100 dark:text-blue-300 dark:hover:bg-blue-950"
+              className="inline-flex h-8 w-8 items-center justify-center rounded-full text-xs font-bold text-primary no-underline transition hover:bg-primary/10"
             >
               {letter}
             </a>
@@ -116,7 +116,7 @@ export default function AlphaBrowseList({
         {hasOther && (
           <a
             href={`#${idPrefix}-other`}
-            className="inline-flex h-8 min-w-8 items-center justify-center rounded-full px-2 text-xs font-bold text-blue-700 no-underline transition hover:bg-blue-100 dark:text-blue-300 dark:hover:bg-blue-950"
+            className="inline-flex h-8 min-w-8 items-center justify-center rounded-full px-2 text-xs font-bold text-primary no-underline transition hover:bg-primary/10"
           >
             #
           </a>
@@ -140,7 +140,7 @@ export default function AlphaBrowseList({
                 style={{ scrollMarginTop: "7.5rem" }}
               >
                 <span
-                  className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-blue-600 text-sm font-bold tracking-wide text-white ring-2 ring-blue-600/20 ring-offset-2 ring-offset-background dark:bg-blue-500 dark:text-slate-900 dark:ring-blue-400/30"
+                  className="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-primary text-sm font-bold tracking-wide text-primary-foreground ring-2 ring-primary/20 ring-offset-2 ring-offset-background"
                   aria-hidden="true"
                 >
                   {key}
@@ -155,8 +155,8 @@ export default function AlphaBrowseList({
                     href={item.href}
                     title={item.description}
                     className={cn(
-                      "inline-flex items-center rounded-md border border-border bg-card px-3 py-1.5 text-sm font-medium text-blue-700 no-underline transition-colors",
-                      "hover:border-blue-300 hover:bg-blue-50 dark:text-blue-300 dark:hover:bg-muted",
+                      "inline-flex items-center rounded-md border border-border bg-card px-3 py-1.5 text-sm font-medium text-primary no-underline transition-colors",
+                      "hover:border-primary/40 hover:bg-primary/10",
                     )}
                   >
                     {item.count != null

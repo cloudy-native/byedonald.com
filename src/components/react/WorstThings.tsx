@@ -137,7 +137,7 @@ const WorstThingEntry: React.FC<{
       style={{ scrollMarginTop: scrollMarginTop ?? "96px" }}
     >
       <div className="flex flex-1 items-start gap-3">
-        <span className="min-w-14 shrink-0 text-base font-bold text-blue-800 dark:text-blue-300">
+        <span className="min-w-14 shrink-0 text-base font-bold text-primary">
           {item.id}.
         </span>
         <div className="flex min-w-0 flex-1 flex-col gap-2">
@@ -163,7 +163,7 @@ const WorstThingEntry: React.FC<{
                       <span
                         className={cn(
                           !meta &&
-                            "rounded bg-blue-50 px-1.5 py-0.5 text-blue-800 dark:bg-blue-950 dark:text-blue-200",
+                            "rounded bg-primary/10 px-1.5 py-0.5 text-primary",
                         )}
                       >
                         {meta?.name ?? id}
@@ -337,7 +337,7 @@ export default function WorstThings({ months, tagCategories }: WorstThingsProps)
     <div className="py-8">
       <div className="mx-auto flex max-w-6xl items-start gap-8 px-4">
         <aside
-          className="sticky hidden w-[260px] shrink-0 overflow-y-auto rounded-lg border border-blue-500/20 bg-blue-50/90 p-4 backdrop-blur-md dark:bg-blue-950/40 lg:block"
+          className="sticky hidden w-[260px] shrink-0 overflow-y-auto rounded-lg border border-primary/15 bg-card/90 p-4 backdrop-blur-md lg:block"
           style={{
             top: stickyOffset,
             maxHeight: `calc(100vh - ${stickyOffsetPx + 16}px)`,
@@ -359,7 +359,7 @@ export default function WorstThings({ months, tagCategories }: WorstThingsProps)
                   className={cn(
                     "cursor-pointer rounded px-2 py-1.5 text-left text-sm",
                     isActive
-                      ? "bg-blue-600 font-semibold text-white"
+                      ? "bg-primary font-semibold text-primary-foreground"
                       : "bg-transparent text-foreground hover:bg-accent",
                   )}
                 >
@@ -386,7 +386,7 @@ export default function WorstThings({ months, tagCategories }: WorstThingsProps)
         </aside>
 
         <div className="min-w-0 flex-1">
-          <h1 className="mb-1 text-3xl font-bold text-blue-800 dark:text-blue-300">
+          <h1 className="mb-1 text-3xl font-bold text-primary">
             500 Worst Things
           </h1>
           <p className="mb-4 text-sm text-muted-foreground">
@@ -427,7 +427,7 @@ export default function WorstThings({ months, tagCategories }: WorstThingsProps)
                 href="https://www.meidasplus.com/p/500-worst-things-trump-did-in-2025"
                 target="_blank"
                 rel="noreferrer"
-                className="text-blue-600 hover:underline dark:text-blue-400"
+                className="text-primary hover:underline"
               >
                 https://www.meidasplus.com/p/500-worst-things-trump-did-in-2025
               </a>
@@ -466,7 +466,7 @@ export default function WorstThings({ months, tagCategories }: WorstThingsProps)
                   id={`month-${monthKey}`}
                   style={{ scrollMarginTop: stickyOffset }}
                 >
-                  <h2 className="mb-4 text-xl font-bold text-blue-800 dark:text-blue-300">
+                  <h2 className="mb-4 text-xl font-bold text-primary">
                     {monthLabel(m.year, m.month)}
                   </h2>
                   <div className="grid grid-cols-1 gap-4 md:grid-cols-2">

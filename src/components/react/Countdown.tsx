@@ -29,10 +29,10 @@ export default function Countdown() {
     <div className="flex items-center justify-center gap-6">
       {Object.entries(timeLeft).map(([unit, value]) => (
         <div key={unit} className="text-center">
-          <div className="text-4xl font-bold leading-tight text-blue-600 dark:text-blue-400">
+          <div className="text-4xl font-bold leading-tight text-primary">
             {value}
           </div>
-          <div className="text-xs uppercase tracking-wide text-blue-600 dark:text-blue-400">
+          <div className="text-xs uppercase tracking-wide text-primary/80">
             {unit}
           </div>
         </div>

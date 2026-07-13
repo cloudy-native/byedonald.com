@@ -292,7 +292,7 @@ function Hit({ hit, selected }: { hit: ArticleHit; selected: boolean }) {
       rel="noopener noreferrer"
       className={cn(
         "block overflow-hidden rounded-lg border bg-card text-card-foreground transition duration-200 hover:-translate-y-1 hover:shadow-lg",
-        selected && "border-blue-400 dark:border-blue-300",
+        selected && "border-primary/60",
       )}
     >
       {hit.urlToImage && (
@@ -493,7 +493,7 @@ function AlgoliaSearch() {
 
       {status === "loading" && (
         <div
-          className="mx-auto h-8 w-8 animate-spin rounded-full border-2 border-blue-500 border-t-transparent"
+          className="mx-auto h-8 w-8 animate-spin rounded-full border-2 border-primary border-t-transparent"
           role="status"
           aria-label="Loading"
         />

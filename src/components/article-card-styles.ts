@@ -12,7 +12,7 @@ export const articlesGridClasses =
   "grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3";
 
 export const articleTitleClasses =
-  "text-base font-semibold leading-snug text-blue-700 dark:text-blue-300 group-hover:underline";
+  "text-base font-semibold leading-snug text-primary group-hover:underline";
 
 export const articleDescriptionClasses =
   "mt-2 line-clamp-3 text-sm text-muted-foreground";
