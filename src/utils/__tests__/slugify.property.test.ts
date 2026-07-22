@@ -10,24 +10,17 @@ import { slugify } from "../slugify";
  * Validates: Requirements 3.2, 3.3
  */
 
-const VALID_SLUG_REGEX = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+const VALID_SLUG_REGEX = /^[\p{L}\p{N}]+(?:-[\p{L}\p{N}]+)*$/u;
 
 describe("slugify property tests", () => {
   it("Property 1: Slugify produces valid URL slugs", () => {
     fc.assert(
-      fc.property(
-        fc.string({ minLength: 1 }),
-        (input) => {
-          const result = slugify(input);
-          // Result is either empty (input had no alphanumeric chars) or a valid slug
-          if (result === "") {
-            // Verify input truly has no alphanumeric characters
-            expect(input.replace(/[^a-zA-Z0-9]/g, "")).toBe("");
-          } else {
-            expect(result).toMatch(VALID_SLUG_REGEX);
-          }
-        },
-      ),
+      fc.property(fc.string({ minLength: 1 }), (input) => {
+        const result = slugify(input);
+        // Always non-empty (Astro rejects empty dynamic params)
+        expect(result.length).toBeGreaterThan(0);
+        expect(result).toMatch(VALID_SLUG_REGEX);
+      }),
       { numRuns: 100 },
     );
   });
@@ -41,5 +34,11 @@ describe("slugify property tests", () => {
       }),
       { numRuns: 100 },
     );
+  });
+
+  it("preserves non-Latin source names instead of emptying them", () => {
+    expect(slugify("코리아타임스")).toBe("코리아타임스");
+    expect(slugify("!!!")).toBe("unknown");
+    expect(slugify("The New York Times")).toBe("the-new-york-times");
   });
 });
