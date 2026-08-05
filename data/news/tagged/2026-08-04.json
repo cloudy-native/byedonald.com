@@ -1,0 +1,1835 @@
+{
+  "status": "ok",
+  "totalResults": 100,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Maxwell Zeff, Lauren Goode, Will Knight",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "urlToImage": "https://media.wired.com/photos/6a7199c152cbcac31bc249b1/191:100/w_1280,c_limit/Trump-Admin-Convenes-AI-Labs-to-Share-AI-Framework-Business-2282299237.jpg",
+      "publishedAt": "2026-08-04T22:06:07Z",
+      "content": "The Trump administration has finalized a plan to address the cybersecurity risks posed by increasingly capable artificial intelligence models, a White House official confirmed to WIRED. But at least … [+3676 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1785881167
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Joel Khalili",
+      "title": "Mistral Is in the Right Place at the Right Time",
+      "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "urlToImage": "https://media.wired.com/photos/6a6cc9ac6aed60f089dc69c1/191:100/w_1280,c_limit/Business_Mistral%20Is%20In%20The%20Right%20Place%20At%20The%20Right%20Time_v1.jpg",
+      "publishedAt": "2026-08-04T09:21:11Z",
+      "content": "Mistral is having a moment. With access to less funding and fewer compute resources than OpenAI and Anthropic, the French AI lab has lagged behind its American rivals in model performance. But recent… [+3804 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "technology_regulation"
+      ],
+      "publishedAtTs": 1785835271
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Trump Is Desecrating a New Kind of National Monument",
+      "description": "The White House is turning MAGA traitors into AI slop.",
+      "url": "https://gizmodo.com/trump-amc-parody-nicole-kidman-2000794392",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/maga-hat-AI-slop-1200x675.jpg",
+      "publishedAt": "2026-08-04T17:55:28Z",
+      "content": "If you’ve been to an AMC theater in recent years, you’ve seen Nicole Kidman give a monologue about the power of film. It’s been parodied by SNL and The Boys. Now the White House has taken a crack at … [+4026 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785866128
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Webb Wright",
+      "title": "What Is AI Model Distillation?",
+      "description": "More and more models are being built on the shoulders of giants—for better or worse.",
+      "url": "https://gizmodo.com/what-is-ai-model-distillation-2000779148",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/08/Distillation_china-1200x675.jpg",
+      "publishedAt": "2026-08-04T14:35:35Z",
+      "content": "When you set out to master a new skill, it pays to have a mentorsomeone who has already navigated the terrain and, as a result of that hard-earned experience, can provide you with a rough roadmap for… [+8630 chars]",
+      "tags": [
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1785854135
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "US states sue to block tariffs impacting dozens of countries",
+      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6bc/live/e2d6f280-8f96-11f1-8063-579175a552d9.jpg",
+      "publishedAt": "2026-08-04T02:00:00Z",
+      "content": "Twenty five US states sued the administration of US President Donald Trump on Monday over new tariffs of 10% to 12.5% on goods from 60 trading partners.\r\nThe tariffs came into effect in July, targeti… [+1646 chars]",
+      "tags": [
+        "trade",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1785808800
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Why Does The Government Keep Releasing Prisoners Early?",
+      "description": "Government defends early release scheme, blaming prison capacity crisis.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p2fq40?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0l7jnbt.jpg",
+      "publishedAt": "2026-08-04T15:21:00Z",
+      "content": "Available for over a year\r\nToday, there has been more criticism from victims families over plans to release some prisoners early. \r\nUnder the policy, due to begin in October, thousands of prisoners w… [+1359 chars]",
+      "tags": [
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785856860
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Fatma Tanis",
+      "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
+      "description": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.",
+      "url": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4094x2302+406+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2Fb2%2F677d63de4f3e8e561752f5720fd9%2F20260612-dsc2989.jpg",
+      "publishedAt": "2026-08-04T11:05:10Z",
+      "content": "MUHANGA, Rwanda Noella Mukanoheli was nine months pregnant and bleeding out.\r\nIt took her three hours to see a doctor.\r\nFirst, she made a 50-minute trip to the clinic that serves her village, riding … [+11061 chars]",
+      "tags": [
+        "health_science",
+        "trade_negotiations_truces"
+      ],
+      "publishedAtTs": 1785841510
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Kirk Siegler",
+      "title": "Authorities arrest arson suspect in connection with wildfires in Spokane",
+      "description": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly quarter of the city's residents.",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6605x3715+0+344/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F5b%2F4beb7ab440d28f6c7a3c78497bb0%2Fgettyimages-2288081096.jpg",
+      "publishedAt": "2026-08-04T10:56:56Z",
+      "content": "SPOKANE, Wash. The Spokane County Sheriff's office has arrested a suspect in connection with its investigation into the Old Trails fire, the most destructive wildfire of the three burning in and arou… [+2926 chars]",
+      "tags": [
+        "crisis_emergency",
+        "natural_disasters"
+      ],
+      "publishedAtTs": 1785841016
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "James Faris",
+      "title": "Paramount's David Ellison seeks to distance himself from partisan politics after courting Trump",
+      "description": "David Ellison courted Trump when seeking approval for his WBD deal. He argues in a new op-ed that his politics are \"just like most Americans.\"",
+      "url": "https://www.businessinsider.com/paramount-david-ellison-politics-president-donald-trump-wbd-deal-lawsuit-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a71e66597a2276a3423ce97?width=1200&format=jpeg",
+      "publishedAt": "2026-08-04T15:31:59Z",
+      "content": "Paramount Skydance CEO David Ellison attended President Donald Trump's State of the Union address.Anna Moneymaker/Getty Images\r\n<ul><li>Paramount's David Ellison courted President Donald Trump while … [+3052 chars]",
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1785857519
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Stephen Council",
+      "title": "These are the AI world's biggest questions as the White House hashes out a framework with OpenAI, Google, and Anthropic",
+      "description": "OpenAI, Anthropic, and Google met in D.C. to review Trump's AI oversight framework amid cybersecurity concerns and regulatory questions.",
+      "url": "https://www.businessinsider.com/openai-google-and-anthropic-white-house-meeting-biggest-questions-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a72458a3f00ff875d13c9b1?width=1200&format=jpeg",
+      "publishedAt": "2026-08-04T23:26:26Z",
+      "content": "OpenAI CEO Sam Altman and Google DeepMind CEO Demis Hassabis sit alongside President Donald Trump in June.Ludovic Marin / AFP via Getty Images\r\n<ul><li>OpenAI, Anthropic, and Google met in D.C. on Tu… [+5534 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1785885986
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Brent D. Griffiths",
+      "title": "OpenAI reaches $3.2 million settlement with DOJ over claims it discriminated against US workers",
+      "description": "OpenAI disputes the Justice Department's view, but said it wanted to move forward with a program to support employees \"requiring immigration support.\"",
+      "url": "https://www.businessinsider.com/openai-doj-settlement-hiring-us-workers-perm-program-visas-2026-8#article",
+      "urlToImage": "https://i.insider.com/6a72415bf9ea6266446ee2f2?width=1200&format=jpeg",
+      "publishedAt": "2026-08-04T20:36:23Z",
+      "content": "OpenAI said it disagreed with the Justice Department's findings but wanted to move ahead.SeongJoon Cho/Bloomberg via Getty Images\r\n<ul><li>The Justice Department said OpenAI and a subsidiary discrimi… [+3049 chars]",
+      "tags": [
+        "legal_justice",
+        "immigration"
+      ],
+      "publishedAtTs": 1785875783
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Rob Beschizza",
+      "title": "U.S. Central Command asks for ideas on beating Iran",
+      "description": "With president Donald Trump's war with Iran quagmired (media lost count weeks ago of the number of times we've won or that a deal is near; he's called off \"major\" new strikes 7 times in as many weeks by one count), military brass are out of ideas for making p…",
+      "url": "https://boingboing.net/2026/08/04/u-s-central-command-asks-for-ideas-on-beating-iran.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2026/08/dr-strangelove_1280x720.jpg",
+      "publishedAt": "2026-08-04T13:47:05Z",
+      "content": "With president Donald Trump's war with Iran quagmired (media lost count weeks ago of the number of times we've won or that a deal is near; he's called off \"major\" new strikes 7 times in as many weeks… [+1696 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "military"
+      ],
+      "publishedAtTs": 1785851225
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Jason Weisberger",
+      "title": "National Guard troops entered a Purple Heart veteran's yard, zip-tied her, then charged her with assaulting them",
+      "description": "Three Idaho National Guard troops entered Purple Heart veteran Anna King's Washington, D.C., front yard, wrestled her to the ground, and zip-tied her hands. She was later charged with assaulting them.\nKing's lawyers believe the troops targeted her because she…",
+      "url": "https://boingboing.net/2026/08/04/national-guard-zip-ties-purple-heart-veteran.html",
+      "urlToImage": "https://boingboing.net/wp-content/uploads/2015/07/635721484851419183-national-guard1.jpg",
+      "publishedAt": "2026-08-04T20:08:50Z",
+      "content": "Three Idaho National Guard troops entered Purple Heart veteran Anna King's Washington, D.C., front yard, wrestled her to the ground, and zip-tied her hands. She was later charged with assaulting them… [+1151 chars]",
+      "tags": [
+        "law_enforcement",
+        "security_intelligence",
+        "social_issues"
+      ],
+      "publishedAtTs": 1785874130
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelsey Vlamis",
+      "title": "'Great grass': Trump plugs Scotts Miracle-Gro, a company that he says did the White House a favor",
+      "description": "Trump endorsed Scotts Miracle-Gro from Oval Office, saying it replaced White House lawn for free, raising ethics concerns.",
+      "url": "https://www.businessinsider.com/trump-touts-scotts-miracle-gro-company-did-white-house-favor-2026-8",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fdaf892c3c5aed350db62ba0bcae6f72b97cd3720d42bb4d5d7adad5cad1d370/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F42c9d79b6855ef8827c35699250592d4",
+      "publishedAt": "2026-08-04T02:34:05Z",
+      "content": "<ul><li>Trump promoted Scotts Miracle-Gro from the Oval Office Monday, saying it does \"great grass.\"\r\n</li><li>He said he had to give the company a \"plug\" because it did the White House lawn for free… [+3498 chars]",
+      "tags": [
+        "ethics",
+        "government_administration"
+      ],
+      "publishedAtTs": 1785810845
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Tatiana Carter",
+      "title": "Cargo ship struck in the Strait of Hormuz as Trump, Tehran clash over talks",
+      "description": "Trump called the latest talks Iran's \"last chance\" to sign a deal before what he called \"decapitation.\"",
+      "url": "https://www.newsnationnow.com/world/us-iran-war-strait-of-hormuz-oil-prices/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3f15f14b2c55249016ed005d1cc90198edde16ec189b08644053829d12cb478e/lightyear_networkapi/resizefill_w900_h506;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fda4082b2e631693991d02dde77fb1c24",
+      "publishedAt": "2026-08-04T10:38:22Z",
+      "content": "(NewsNation) A vessel was hit by an unknown projectile early Tuesday about 20 nautical miles northeast of Al Khasab, Oman, the U.K. Maritime Trade Operations agency said.\r\nBritish security firm Ambre… [+1806 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1785839902
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Joshua Hong",
+      "title": "‘This is insider trading by definition’: Trump sells $100,000 monthly subscription service to Wall Street to further monetize the presidency",
+      "description": "Wall Street firms will get information milliseconds faster than the general public—and Trump will directly benefit.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/insider-trading-definition-trump-sells-160741557.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/A2870BBA7FEA0E7EC2773BC20DFDC4513E3F7BEE65ECBF2CE6B8B9DE0F084DBD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F0f5c09bc7025027c9098acca5ec657ff",
+      "publishedAt": "2026-08-04T16:07:41Z",
+      "content": "Donald Trump has created a way for Wall Street to pay to win. Trump Media &amp; Technology Group's premium data product released its new subscription service for earlier access to Truth Social posts … [+7749 chars]",
+      "tags": [
+        "personal_business",
+        "legal_justice",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1785859661
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Zachary B. Wolf, CNN",
+      "title": "Trump lashes out as political losses pile up",
+      "description": "President Donald Trump lashed out at oil companies and his own US attorney in the gilded Oval Office on Monday as his spin ran into the real world.",
+      "url": "https://www.cnn.com/2026/08/04/politics/donald-trump-reflecting-pool-save-act-losses",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/919d7bcfda49d3db182ee348564763c3b453c7c6806cb434025d0e0bbfb6be08/lightyear_networkapi/resizefill_w960_h540;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F903e483e756b89a01424e73c4282ac49",
+      "publishedAt": "2026-08-04T14:17:33Z",
+      "content": "A version of this story appeared in CNN's What Matters newsletter. To get it in your inbox, sign up for free here.\r\nPresident Donald Trump lashed out at oil companies and his own US attorney in the g… [+5749 chars]",
+      "tags": [
+        "elections_politics",
+        "personal_family"
+      ],
+      "publishedAtTs": 1785853053
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "NBC",
+      "title": "Republican holdouts end opposition to Blanche nomination",
+      "description": "Two holdout Republican senators said they will support acting Attorney General Todd Blanche after he scrapped potential payouts to Trump allies. NBC News’ Ga...",
+      "url": "https://www.yahoo.com/news/videos/republican-holdouts-end-opposition-blanche-000704928.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/63cc712aee03157cbf44ed64d32b07c339768a8ce5236724b9f57a4f8c87515f/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnbcu_713%2Ff6321a1c14c3d826b466f0cf7d1f1503",
+      "publishedAt": "2026-08-04T00:07:04Z",
+      "content": "Two holdout Republican senators said they will support acting Attorney General Todd Blanche after he scrapped potential payouts to Trump allies. NBC News' Gabe Gutierrez reports.",
+      "tags": [
+        "elections_politics",
+        "legal_justice",
+        "republican_party"
+      ],
+      "publishedAtTs": 1785802024
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MICHAEL PHILLIS",
+      "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds",
+      "description": "A divided federal appeals court on Tuesday said the Trump administration improperly terminated billions of dollars in funds to boost clean energy projects, h...",
+      "url": "https://www.yahoo.com/news/science/articles/divided-federal-appeals-court-says-175058727.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/941cbb0794eb60dcf8b2aa1c35de99d3641de39d4883c719c059c3ba0db2f4ba/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6d3c6f080d4a6a56b96a22f35d460fa1",
+      "publishedAt": "2026-08-04T17:50:58Z",
+      "content": "WASHINGTON (AP) A divided federal appeals court on Tuesday said the Trump administration improperly terminated billions of dollars in funds to boost clean energy projects, handing a win to a coalitio… [+3810 chars]",
+      "tags": [
+        "environment",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1785865858
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DARLENE SUPERVILLE",
+      "title": "Trump is making a rare Western trip to talk about the economy, something polls show he's weak on",
+      "description": "President Donald Trump is making a rare visit to California and Nevada this week to try to draw contrasts with Democrats on the economy, border security and...",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-making-rare-western-trip-111809819.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7babe929fa012a579836158ceec32cba1f42516ff76ee120493ed4e97a8e50f8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7fe8f206f577830f06d83e3c7e5180ce",
+      "publishedAt": "2026-08-04T11:18:09Z",
+      "content": "WASHINGTON (AP) President Donald Trump is making a rare visit to California and Nevada this week to try to draw contrasts with Democrats on the economy, border security and crime, seeking to shore up… [+4166 chars]",
+      "tags": [
+        "elections_politics",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1785842289
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Anthony Zurcher - North America correspondent",
+      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+      "url": "https://www.bbc.com/news/articles/cgjed2q2l0xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8fc522c3276dd43247c617f433c4879b705f1397412576ae1143865fff062e20/lightyear_networkapi/resizefill_w1024_h576;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7a81ad4048663068a0737407fa501776",
+      "publishedAt": "2026-08-04T00:02:48Z",
+      "content": "Watch: \"She folded like an umbrella\" - Trump attacks Jeanine Pirro over Reflecting Pool\r\nIt's been a humbling few days for Donald Trump, even if the American president is reluctant to acknowledge it.… [+6418 chars]",
+      "tags": [
+        "elections_politics",
+        "republican_party",
+        "personal_activities"
+      ],
+      "publishedAtTs": 1785801768
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Associated Press",
+      "title": "The Latest: Blanche's assertion of Trump tax audit immunity remains in place",
+      "description": "In negotiations with Republican senators whose support he needs to be confirmed as attorney general, Todd Blanche formally rescinded a $1.8 billion fund mean...",
+      "url": "https://www.yahoo.com/news/politics/articles/latest-blanches-assertion-trump-tax-124514608.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a674becb8e4be03f8951a641dfa30f48109501149bff60148dc6d5fc3c71d7b6/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F968e846e72df8d0ed009bc42d705b575",
+      "publishedAt": "2026-08-04T12:45:14Z",
+      "content": "In negotiations with Republican senators whose support he needs to be confirmed as attorney general, Todd Blanche formally rescinded a $1.8 billion fund meant to compensate President Donald Trump's p… [+8226 chars]",
+      "tags": [
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1785847514
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ERIC TUCKER",
+      "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
+      "description": "An association of thousands of FBI agents and other groups are backing a lawsuit filed by three bureau employees who were fired last year for their roles in...",
+      "url": "https://www.yahoo.com/news/politics/articles/fbi-agents-fired-over-trump-145408791.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/28f4c1f26438ff48eeaa99791b3283ca82944eaa5239613a27c2e721b3e9f9b7/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F40ea53e8cb4a4164767d57a7c1acdc6a",
+      "publishedAt": "2026-08-04T14:54:08Z",
+      "content": "WASHINGTON (AP) An association of thousands of FBI agents and other groups are backing a lawsuit filed by three bureau employees who were fired last year for their roles in an investigation into Pres… [+3976 chars]",
+      "tags": [
+        "law_enforcement",
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1785855248
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "DAVID A. LIEB",
+      "title": "Missouri election chief rejects bid to hold public vote on Trump-backed congressional districts",
+      "description": "Missouri's top election official has rejected a citizens' petition seeking a statewide referendum on new congressional districts backed by President Donald T...",
+      "url": "https://www.yahoo.com/news/politics/articles/missouri-election-chief-rejects-bid-210757583.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c04097fae171e7bd3b805ceb6f4d0a19177262e2bb1f04eaf83ea7420a4d22e8/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff8c52692dbfa289f521730f9ace7b8ec",
+      "publishedAt": "2026-08-04T21:07:57Z",
+      "content": "JEFFERSON CITY, Mo. (AP) Missouri's top election official has rejected a citizens' petition seeking a statewide referendum on new congressional districts backed by President Donald Trump.\r\nSupporters… [+4883 chars]",
+      "tags": [
+        "elections_politics",
+        "voting_rights",
+        "redistricting"
+      ],
+      "publishedAtTs": 1785877677
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Nate Raymond and Jan Wolfe",
+      "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
+      "description": "By Nate Raymond and Jan Wolfe Aug 4 - U.S.",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-vowed-to-bring-free-speech-back-judges-in-75-cases-ruled-that-he-has-stifled-it-135031173.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e657d7d377d33c5880e65e3fcc60c0c843c0c76ec887f81ed77f5d51b5ce504d/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_video_962%2Fbbd4943672785604ad30025189907a12",
+      "publishedAt": "2026-08-04T13:50:31Z",
+      "content": "By Nate Raymond and Jan Wolfe\r\nAug 4 - U.S. President Donald Trump repeatedly campaigned for his second term as a champion of free expression, vowing in his January 2025 inaugural address to stop wha… [+8013 chars]",
+      "tags": [
+        "free_speech",
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1785851431
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Betsy Klein, CNN",
+      "title": "Trump’s White House helipad being partially disassembled, images show",
+      "description": "President Donald Trump’s helipad project on the White House South Lawn appears to be undergoing changes that have resulted in some of the work being reversed...",
+      "url": "https://www.cnn.com/2026/08/04/politics/white-house-helipad-disassembly",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/68b452b2ac7d43801fc5d1b28986364f0ff965ce840afe392667040c108e6ba9/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4aec26333e4a80ddf9e14e293b52c0f0",
+      "publishedAt": "2026-08-04T22:19:18Z",
+      "content": "President Donald Trump's helipad project on the White House South Lawn appears to be undergoing changes that have resulted in some of the work being reversed.\r\nThe White House has never had a helipad… [+3373 chars]",
+      "tags": [
+        "government_administration"
+      ],
+      "publishedAtTs": 1785881958
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "ELENA BECATOROS and SAMY MAGDY",
+      "title": "Cargo ship reports being struck in Strait of Hormuz as US, Iran claims about talks diverge",
+      "description": "A British maritime monitoring agency said a cargo ship reported being hit by a projectile overnight off the coast of Oman in the Strait of Hormuz, while the...",
+      "url": "https://www.yahoo.com/news/politics/articles/cargo-ship-reports-being-struck-060714898.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/43522588f819f32cf2e87e85ba722f53ce36dded14b035a1ca21a187461636f7/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6e51a5e9552d23c32aaeb1c92b8fdca8",
+      "publishedAt": "2026-08-04T06:07:14Z",
+      "content": "CAIRO (AP) A British maritime monitoring agency said a cargo ship reported being hit by a projectile overnight off the coast of Oman in the Strait of Hormuz, while the United States and Iran made opp… [+2411 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1785823634
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "SAMY MAGDY, AAMER MADHANI and MATTHEW LEE",
+      "title": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say",
+      "description": "Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the...",
+      "url": "https://www.yahoo.com/news/politics/articles/iran-oman-progress-deal-reopen-161723706.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9b6509850fd9055eee19272977c02200ff261261891ce550e4cfba7832234fd0/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3792f838e0995f99f807b7f98a135a83",
+      "publishedAt": "2026-08-04T16:17:23Z",
+      "content": "CAIRO (AP) Iran and the Gulf Arab state of Oman have made progress toward a deal to reopen the Strait of Hormuz, a potential breakthrough that could help wind down the war in the Middle East, regiona… [+4732 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
+      "publishedAtTs": 1785860243
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Irene Wright, USA TODAY",
+      "title": "Another conservative endorses Jon Ossoff in crucial GA Senate race",
+      "description": "Former GOP Senator Jeff Flake endorsed Democrat Jon Ossoff for a U.S. Senate seat in Georgia, in interview with Atlanta Journal-Constitution.",
+      "url": "https://www.usatoday.com/story/news/state/georgia/2026/08/04/conservative-says-character-outweighs-policy-in-ossoff-endorsement/91163374007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3ee7dc358a1902c001ed485544055ab6e6bca68762249ecbfc82627090f0e713/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F6607b40ba8dfaaeb95d96d656bbf854a",
+      "publishedAt": "2026-08-04T15:20:50Z",
+      "content": "Another conservative voice is chiming in on the crucial U.S. Senate race in Georgia.\r\nJeff Flake, the former GOP Senator from Arizona and Ambassador to Turkey under the Biden Administration, has endo… [+5177 chars]",
+      "tags": [
+        "elections_politics",
+        "2024_presidential",
+        "political_endorsements"
+      ],
+      "publishedAtTs": 1785856850
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Exclusive-US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
+      "description": "NEW YORK/WASHINGTON, Aug 4 () - The U. Army has used up much of its stockpile of highly accurate long-range missiles during its five-month war with Iran, acc...",
+      "url": "https://www.yahoo.com/news/politics/articles/exclusive-us-used-virtually-long-100839538.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1871eb42fa36b57234fc29624fe5b428488af4dc9644b01ae4bd02c4144eb01/lightyear_networkapi/resizefill_w800_h533;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F08f72b2f42a96636952a7cad32ec8c45",
+      "publishedAt": "2026-08-04T10:24:06Z",
+      "content": "NEW YORK/WASHINGTON, Aug 4 (Reuters) - The U.S. Army has used up much of its stockpile of highly accurate long-range missiles during its five-month war with Iran, according to three people familiar w… [+6290 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "military"
+      ],
+      "publishedAtTs": 1785839046
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "WAFAA SHURAFA, SAMY MAGDY and MELANIE LIDMAN",
+      "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed",
+      "description": "DEIR AL-BALAH, Gaza City (AP) — Prime Minister Benjamin Netanyahu said Tuesday that Israel will not withdraw from its current lines in Gaza until Hamas has c...",
+      "url": "https://www.yahoo.com/news/world/articles/palestinians-hold-mass-funeral-112-131023791.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/893008b1dccdb7cb6773d335784d7d6f6f586970e220916e50b7355be5e59768/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F232cc01f29664d26c3dbe7ebe1039c8e",
+      "publishedAt": "2026-08-04T13:10:23Z",
+      "content": "DEIR AL-BALAH, Gaza City (AP) Prime Minister Benjamin Netanyahu said Tuesday that Israel will not withdraw from its current lines in Gaza until Hamas has completely disarmed and pushed back on a rece… [+5331 chars]",
+      "tags": [
+        "gaza",
+        "israel",
+        "middle_east",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1785849023
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Erin Mansfield, USA TODAY",
+      "title": "Reflecting Pool prosecutor said government wasn't 'forthcoming'",
+      "description": "A federal prosecutor said his office had to reach out \"dozens and dozens of times\" to get the truth about the Reflecting Pool.",
+      "url": "https://www.usatoday.com/story/news/politics/2026/08/04/doj-blasts-interior-on-reflecting-pool/91169191007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2e733a078fefa1b12e4cc79c30334f846b8477c254a73687b0e82065a4d8299e/lightyear_networkapi/resizefill_w449_h444;quality_80;format_jpg/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F70b54206799c5c2f17d523eaf3c9dbe5",
+      "publishedAt": "2026-08-04T19:40:15Z",
+      "content": "A prosecutor with the Department of Justice said his office never would have tried to indict a former Olympian for vandalizing the Lincoln Memorial Reflecting Pool if the Department of the Interior h… [+5544 chars]",
+      "tags": [
+        "legal_justice",
+        "government_administration"
+      ],
+      "publishedAtTs": 1785872415
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Max Zahn",
+      "title": "Trump says Exxon and Chevron are 'making too much money' amid Iran war",
+      "description": "President Donald Trump urged oil giants Exxon and Chevron to slash retail fuel prices.",
+      "url": "https://abcnews.com/Business/trump-exxon-chevron-making-money-high-oil-prices/story?id=135355761",
+      "urlToImage": "https://i.abcnewsfe.com/a/00382f8d-8264-4238-bff7-d77f5c53b5ef/donald-trump-epa-jef-260804_1785854905212_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T20:37:26Z",
+      "content": "President Donald Trump sharply criticized oil giants Exxon and Chevron over blockbuster profits they earned in part as a result of high oil prices due to the Iran war.\r\n\"They're making too much money… [+3422 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "energy"
+      ],
+      "publishedAtTs": 1785875846
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Steven Beynon, Catherine Bouvet",
+      "title": "National Guard deployment in DC to cost $1.4 billion through Trump's term",
+      "description": "The National Guard's ongoing mission in Washington, D.C., is projected to cost another $1.4 billion through the remainder of the Trump administration.",
+      "url": "https://abcnews.com/Politics/national-guard-deployment-dc-cost-14-billion-trumps/story?id=135366257",
+      "urlToImage": "https://i.abcnewsfe.com/a/1c7e5fae-b0bb-410b-a23a-f6863b7cde4b/national-guard-washington-dc-ht-jt-260804_1785879397448_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T23:10:22Z",
+      "content": "The National Guard's ongoing mission in Washington, D.C., is projected to cost another $1.4 billion through the remainder of the Trump administration, according to Defense Department estimates provid… [+4175 chars]",
+      "tags": [
+        "economy_finance",
+        "government_administration"
+      ],
+      "publishedAtTs": 1785885022
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Meredith Deliso",
+      "title": "Armed man arrested at Trump National Golf Course in Los Angeles County: Authorities",
+      "description": "The suspect was seen taking photos and videos of the Trump National Golf Course in Los Angeles County over the weekend, authorities said.",
+      "url": "https://abcnews.com/US/armed-man-arrested-trump-national-golf-los-angeles/story?id=135369202",
+      "urlToImage": "https://i.abcnewsfe.com/a/fb97397c-4e5a-4db1-a94a-04cd04282877/trump-golf-gty-jt-260804_1785884024056_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T23:03:07Z",
+      "content": "A man allegedly armed with a pistol was arrested after he was seen taking photos and videos of the Trump National Golf Course in Los Angeles County over the weekend, authorities announced on Tuesday.… [+255 chars]",
+      "tags": [
+        "security_intelligence",
+        "law_enforcement"
+      ],
+      "publishedAtTs": 1785884587
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Luke Barr",
+      "title": "ICE arrests hit record high in July as enforcement quietly ramps up",
+      "description": "The Department of Homeland Security has been ramping up arrests.",
+      "url": "https://abcnews.com/Politics/ice-arrests-hit-record-high-july-enforcement-quietly/story?id=135356433",
+      "urlToImage": "https://i.abcnewsfe.com/a/e7441588-6101-4f08-83de-478672326a04/ice-gty-jt-260804_1785856856230_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T15:58:06Z",
+      "content": "U.S. Immigration and Customs Enforcement (ICE) arrested 51,000 individuals in July, according to sources familiar with the data.\r\nThe arrests are the largest in a single month in DHS history, accordi… [+1344 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
+      ],
+      "publishedAtTs": 1785859086
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Laura Romero, Armando Garcia, Luke Barr",
+      "title": "Some Haitian immigrants in Ohio told to report to ICE and given ankle monitors",
+      "description": "Hundreds of Haitian immigrants in Ohio who had Temporary Protected Status have been summoned by the ICE for in-person \"check-ins,\" immigration advocates say.",
+      "url": "https://abcnews.com/US/haitian-immigrants-ohio-told-report-ice-ankle-monitors/story?id=135356277",
+      "urlToImage": "https://i.abcnewsfe.com/a/2060c743-bb81-457e-834c-dde30b5bf57a/dhs-1-rt-gmh-260707_1783431566724_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T14:51:41Z",
+      "content": "Hundreds of Haitian immigrants in Ohio who had Temporary Protected Status have been summoned by the Department of Homeland Security for in-person \"check-ins\" with the agency, where some have been fit… [+271 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance",
+        "immigration"
+      ],
+      "publishedAtTs": 1785855101
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Embattled Rep. Max Miller faces new restraining order",
+      "description": "Stephanie Grisham, a former White House press secretary in President Donald Trump’s first term, has filed a restraining order against Miller.",
+      "url": "https://abcnews.com/video/135349680/",
+      "urlToImage": "https://i.abcnewsfe.com/a/e2f60e59-eabb-4ecb-8e6f-e4f8d9039480/260804_gma_miller2_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-08-04T14:24:32Z",
+      "content": "<ul><li>Wildfire destroys at least 700 structures in Washington state\r\n</li><li>East Coast storms cause travel chaos\r\n</li><li>Trump: New talks are 'one last chance' for Iran to make a deal\r\n</li><li… [+4375 chars]",
+      "tags": [
+        "legal_justice",
+        "congress"
+      ],
+      "publishedAtTs": 1785853472
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Bison charges at child in Yellowstone",
+      "description": "A bison was caught on camera charging after a child at Yellowstone National Park just weeks after a man was thrown into the air.",
+      "url": "https://abcnews.com/video/135349665/",
+      "urlToImage": "https://i.abcnewsfe.com/a/e2646ba1-dd1f-4b83-a0d1-4c7885ca1224/260804_gma_ally_bison_735_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-08-04T14:15:08Z",
+      "content": "<ul><li>Wildfire destroys at least 700 structures in Washington state\r\n</li><li>East Coast storms cause travel chaos\r\n</li><li>Trump: New talks are 'one last chance' for Iran to make a deal\r\n</li><li… [+4375 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785852908
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Defiant Ohio Rep. Max Miller denies accusations",
+      "description": "Miller is under fire after being accused of abusing his ex-wife and their 2-year-old child, with his former father-in-law Sen. Bernie Moreno speaking out against him. Miller denies the allegations.",
+      "url": "https://abcnews.com/video/135338615/",
+      "urlToImage": "https://i.abcnewsfe.com/a/72bddeaa-da82-4161-8092-c6520c856559/260803_wn_obrien_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-08-04T00:10:49Z",
+      "content": "<ul><li>Hero civilian describes gun battle at Idaho In-N-Out restaurant\r\n</li><li>Trump criticizes US Attorney Jeanine Pirro over Reflecting Pool decision\r\n</li><li>Trump says this is Iran's \"last ch… [+4410 chars]",
+      "tags": [
+        "legal_justice",
+        "personal_family"
+      ],
+      "publishedAtTs": 1785802249
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: 83 neighbors bring Halloween to boy with autism on his birthday",
+      "description": "ABC News' Danny New shows how a neighborhood in Alabama came together to help a young boy with autism enjoy one of his favorite activities on his birthday.",
+      "url": "https://abcnews.com/video/135347071/",
+      "urlToImage": "https://i.abcnewsfe.com/a/9de6894a-8e81-4cbc-b3f8-283aece44d27/260804_gmafl_halloween_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-08-04T10:09:26Z",
+      "content": "<ul><li>Ariana Grande announces decision to step back from public life \r\n</li><li>50 years after Dungeons &amp; Dragons debuted, the game is having a renaissance\r\n</li><li>What to look out for as the… [+4441 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785838166
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Luke Barr",
+      "title": "DHS Secretary Mullin draws criticism from Trump's base over immigration comments",
+      "description": "Greg Bovino said Mullin \"delivered a masterclass in how to give terrible answers.\"",
+      "url": "https://abcnews.com/Politics/dhs-secretary-mullin-draws-criticism-trumps-base-immigration/story?id=135331029",
+      "urlToImage": "https://i.abcnewsfe.com/a/abb03db4-8e0d-4040-bc44-9a05fe9a2d23/markwayne-mullin-gty-jef-260804_1785863257113_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T19:45:30Z",
+      "content": "Homeland Security Secretary Markwayne Mullin's recent comments on Immigration and Custom Enforcement raids and work visas have drawn ire from some in President Donald Trump's base.\r\nOver the weekend,… [+3804 chars]",
+      "tags": [
+        "immigration",
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785872730
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News",
+      "title": "WATCH: Tiger shark caught in New England waters sparks concern",
+      "description": "Two brothers fishing on a Massachusetts beach got the surprise of their lives after reeling in a five-foot tiger shark.",
+      "url": "https://abcnews.com/video/135347318/",
+      "urlToImage": "https://i.abcnewsfe.com/a/aa8a79fc-de4e-47b7-a3f8-4ff8da1ba125/260804_gmafl_tiger_shark_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-08-04T10:43:21Z",
+      "content": "<ul><li>Ariana Grande announces decision to step back from public life \r\n</li><li>50 years after Dungeons &amp; Dragons debuted, the game is having a renaissance\r\n</li><li>What to look out for as the… [+4441 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785840201
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "GRAHAM DUNBAR AP sports writer",
+      "title": "Top FIFA officials distance themselves from Infantino's World Cup sell-off plan",
+      "description": "Two senior FIFA executives have distanced themselves from their boss Gianni Infantino’s failed plan to sell stakes in future World Cup profits to private investors",
+      "url": "https://abcnews.com/Sports/wireStory/top-fifa-officials-wenger-grafstrm-distance-infantinos-world-135350934",
+      "urlToImage": "https://i.abcnewsfe.com/a/3ea4330c-3f73-4405-ba22-4ec976a644f1/wirestory_7a553620217d2b1299b0c8bea8b800cd_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T12:38:16Z",
+      "content": "GENEVA -- Two senior FIFA executives coaching great Arsène Wenger and CEO-like secretary general Mattias Grafström distanced themselves Tuesday from their boss Gianni Infantinos failed plan to sell s… [+5222 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785847096
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Diana Paulsen",
+      "title": "Michigan voters to weigh in on critical Senate, House races",
+      "description": "Candidates are also vying to replace Gov. Whitmer, who is term-limited.",
+      "url": "https://abcnews.com/Politics/michigan-voters-weigh-critical-senate-house-races/story?id=135120856",
+      "urlToImage": "https://i.abcnewsfe.com/a/f3d35620-1a6b-453e-9771-634dbcf1455d/michigan-capitol-as-gmh-260708_1783543119785_hpMain_16x9.jpeg?w=1600",
+      "publishedAt": "2026-08-04T09:27:40Z",
+      "content": "Voters head to the polls Tuesday in Michigan in key primary races for governor, senator and the House races that may determine control of Congress.\r\nUS-Israel relationship at center of Senate race\r\nT… [+3798 chars]",
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "congress"
+      ],
+      "publishedAtTs": 1785835660
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Meredith Deliso",
+      "title": "Man detained at New Jersey immigration facility dies after 'medical emergency': ICE",
+      "description": "Edwin Lopez-Cornejo, 41, had been detained at the Delaney Hall Detention Facility in Newark, according to the Immigration and Customs Enforcement.",
+      "url": "https://abcnews.com/US/man-detained-new-jersey-immigration-facility-dies-after/story?id=135338815",
+      "urlToImage": "https://i.abcnewsfe.com/a/82bb25cb-580a-4a4c-b2d8-d00098b4d6c8/AP26158255786091_1785801588173_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-08-04T00:18:54Z",
+      "content": "A Salvadoran migrant who was in Immigration and Customs Enforcement custody in New Jersey died following a \"medical emergency\" over the weekend, federal officials said Monday.\r\nEdwin Lopez-Cornejo, 4… [+2599 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
+      ],
+      "publishedAtTs": 1785802734
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "The White House’s New AI Safety Framework Is None of Your Business",
+      "description": "How's that for transparency?",
+      "url": "https://gizmodo.com/the-white-houses-new-ai-safety-framework-is-none-of-your-business-2000794524",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/trump-altman-hassabis-1200x675.jpg",
+      "publishedAt": "2026-08-04T21:10:45Z",
+      "content": "The Trump administration has cooked up a framework meant to ensure that new and powerful AI models don’t pose a threat before being released to the public. According to Axios, the public will not be … [+2161 chars]",
+      "tags": [
+        "ai_state_preemption"
+      ],
+      "publishedAtTs": 1785877845
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "AJ Dellinger",
+      "title": "FBI Agent Accused of Stealing $1 Million in Crypto Apparently Missed the Corruption Tutorial",
+      "description": "Tough to get caught doing something illegal in this administration.",
+      "url": "https://gizmodo.com/fbi-agent-accused-of-stealing-1-million-in-crypto-apparently-missed-the-corruption-tutorial-2000794091",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/shutterstock_2643264507-1200x675.jpg",
+      "publishedAt": "2026-08-04T19:10:36Z",
+      "content": "There are dozens of pathways to getting rich as a member of the Trump administration with little to zero consequences for doing so. Somehow, a member of the Federal Bureau of Investigation figured ou… [+2501 chars]",
+      "tags": [
+        "law_enforcement"
+      ],
+      "publishedAtTs": 1785870636
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Bruce Gil",
+      "title": "Texas Pauses New Data Center Projects Looking to Connect to the State’s Grid",
+      "description": "Gov. Greg Abbott directed regulators to audit data center projects seeking to connect to the grid amid growing backlash.",
+      "url": "https://gizmodo.com/texas-pauses-new-data-center-projects-looking-to-connect-to-the-states-grid-2000794539",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Crusoe-data-center-Texas-1200x675.jpg",
+      "publishedAt": "2026-08-04T20:40:14Z",
+      "content": "Even famously pro-business Texas appears to be trying to get ahead of growing backlash against new data center developments.\r\nGov. Greg Abbott on Monday directed the Public Utility Commission of Texa… [+2926 chars]",
+      "tags": [
+        "energy",
+        "regional_state",
+        "texas"
+      ],
+      "publishedAtTs": 1785876014
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Will Gottsegen",
+      "title": "Trump Tests the Definition of Insider Trading",
+      "description": "A new Truth Social subscription service is another way for the president to profit from his office.",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-social-media-posts-policy-markets/688182/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/FkNzaKLNhBIAQNDagVad56UZy94=/0x83:4000x2166/1200x625/media/newsletters/2026/08/2026_08_04_The_Daily_Trump_Truth_Social/original.jpg",
+      "publishedAt": "2026-08-04T23:08:00Z",
+      "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Fo… [+8299 chars]",
+      "tags": [
+        "personal_business",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785884880
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Kelsey Ables",
+      "title": "One Problem With Attacking the Smithsonian? Americans Like It.",
+      "description": "Coming after a history museum may not be the base-galvanizing issue Trump thinks it is.",
+      "url": "https://www.theatlantic.com/culture/2026/08/smithsonian-trump-trust/688165/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/kGpLUnrUVJuu6YsoqpJOfWPrn10=/4x86:2880x1584/1200x625/media/img/mt/2026/08/2026_07_29_Smithsonian/original.jpg",
+      "publishedAt": "2026-08-04T12:00:00Z",
+      "content": "Earlier this year, I visited a “Freedom Truck,” one of the patriotic mobile museums that the Trump administration is sending around the country for the nation’s 250 birthday. There, I had a wide-rang… [+10935 chars]",
+      "tags": [
+        "social_issues",
+        "personal_activities"
+      ],
+      "publishedAtTs": 1785844800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Amanda Ruggeri",
+      "title": "Stop Calling Siblings ‘Gifts’",
+      "description": "The term assumes that adding a child to a family is for the best. But that’s not always the case.",
+      "url": "https://www.theatlantic.com/family/2026/08/sibling-gift-language-problem/688158/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/a6Qaan36Xt2SJ82_iFyHHkYV42M=/10x0:3742x1944/1200x625/media/img/mt/2026/08/2026_08_03_StopCallingSiblingsGifts/original.jpg",
+      "publishedAt": "2026-08-04T17:09:00Z",
+      "content": "Within months of having her first child, Samantha Savran began hearing from family and friends that she should have a second. Doing so would be the greatest “gift” that she and her husband could give… [+11615 chars]",
+      "tags": [
+        "social_issues"
+      ],
+      "publishedAtTs": 1785863340
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Armed man with armour-piercing bullets arrested near Trump's California golf course",
+      "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the golf course.",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+      "publishedAt": "2026-08-04T23:36:11Z",
+      "content": "Authorities in California have arrested a man who was seen near a golf course owned by President Donald Trump in the Los Angeles area, just ahead of the president's visit for a fundraising dinner the… [+794 chars]",
+      "tags": [
+        "security_intelligence",
+        "law_enforcement"
+      ],
+      "publishedAtTs": 1785886571
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Did Iran hack water systems in seven US states?",
+      "description": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e1f/live/cf4183d0-8f7c-11f1-a41e-b9f388d2ea9c.jpg",
+      "publishedAt": "2026-08-04T02:29:03Z",
+      "content": "Morgan Wright, a former US state department anti-terror adviser, told the BBC that these kinds of attacks are usually attributed to North Korea or Iran. \r\n\"And who are we in conflict with right now? … [+1476 chars]",
+      "tags": [
+        "cybersecurity",
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785810543
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Qatar says US-Iran mediation efforts continuing but no direct talks planned",
+      "description": "There have been conflicting signals from the US and Iran, with Tehran denying President Trump's assertion that talks are under way.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d96/live/66f8c0c0-9014-11f1-9846-211b7c273f9d.jpg",
+      "publishedAt": "2026-08-04T15:11:51Z",
+      "content": "The Strait of Hormuz, through which a fifth of global oil and gas shipments usually pass, has effectively been closed since the start of the US and Israel's war with Iran in late February due to Iran… [+2885 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
+      "publishedAtTs": 1785856311
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Panoptica.com"
+      },
+      "author": "Kris Abdelmessih",
+      "title": "The Sound of Inevitability",
+      "description": "A 23-year-old raised $225 million, rode an AI thesis to a $25 billion peak, and then watched two-thirds of it vanish in a week. This is the story of how being right about the future isn't enough if you get the math of leverage and timing wrong — and why the m…",
+      "url": "https://www.panoptica.com/the-sound-of-inevitability/",
+      "urlToImage": "https://media.perscient.net/media-orig/SoundofInevitable-3x2.jpg",
+      "publishedAt": "2026-08-04T18:12:10Z",
+      "content": "Epsilon Theory Unplugged is an ongoing series featuring a rotating cast of authors. Each Tuesday, a new note is published. We cover a variety of topics, all focusing on our relationship with technolo… [+29407 chars]",
+      "tags": [
+        "economy_finance",
+        "technology_regulation",
+        "artificial_intelligence"
+      ],
+      "publishedAtTs": 1785867130
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scientific American"
+      },
+      "author": "Adam Kovac",
+      "title": "Project backed by Leonardo DiCaprio and Jeff Bezos aims to save 100 critically endangered species",
+      "description": "This billionaire-backed fund is dedicating $200 million to preserve animals and even plants that are facing extinction around the world",
+      "url": "https://www.scientificamerican.com/article/project-backed-by-leonardo-dicaprio-and-jeff-bezos-aims-to-save-100-critically-endangered-species/",
+      "urlToImage": "https://static.scientificamerican.com/dam/asset/cd7ea6d7-baf2-4863-aa32-c1773120ecd7/Endangered-species.jpg?m=1785864618.692&w=1200",
+      "publishedAt": "2026-08-04T15:00:00Z",
+      "content": "A venture backed by Leonardo DiCaprio and Jeff Bezos is aiming to save 100 global species that are on the brink of extinction.\r\nThe Phoenix Species Project, launched on Tuesday, is a collaboration be… [+2557 chars]",
+      "tags": [
+        "environment",
+        "climate_policy"
+      ],
+      "publishedAtTs": 1785855600
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Schneier.com"
+      },
+      "author": "Bruce Schneier",
+      "title": "Iran Cyberattacks Against Minnesota Water Systems",
+      "description": "Attribution is preliminary, and so far it seems no real damage.\nAnd it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn’t believe it’s Iran and that Minnesota…I guess…hacked its…",
+      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
+      "urlToImage": null,
+      "publishedAt": "2026-08-04T19:01:48Z",
+      "content": "Attributionispreliminary, and so far it seems no real damage.\r\nAnd it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump does… [+540 chars]",
+      "tags": [
+        "cybersecurity",
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785870108
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Wren Woodson",
+      "title": "The White House Just MAGA-fied Nicole Kidman’s Sacred AMC Commercial",
+      "description": "The White House has released an elaborate spoof replacing Kidman’s breathless ode to moviegoing with a tacky recreation of Donald Trump’s so-called “Golden Age.”",
+      "url": "https://www.jezebel.com/the-white-house-just-maga-fied-nicole-kidmans-sacred-amc-commercial",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/08/Untitled-design.jpg",
+      "publishedAt": "2026-08-04T16:25:19Z",
+      "content": "The Trump administration has apparently decided that no beloved piece of cinephile culture is safe from becoming MAGA propaganda. On Monday, the official White House account released an elaborate spo… [+4170 chars]",
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1785860719
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "I Don’t Know How Many More Horsemen of the Apocalypse I Can Take",
+      "description": "The Senate Judiciary Committee officially advanced Todd Blanche’s AG nomination, dealing a big middle finger to Epstein’s survivors, the GOP buffoons that feigned concern about Trump’s big slush fund, and anyone who cares about Americans’ reproductive rights.",
+      "url": "https://www.jezebel.com/i-dont-know-how-many-more-horsemen-of-the-apocalypse-i-can-take",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/04/GettyImages-2259093457-e1775229564598.jpg",
+      "publishedAt": "2026-08-04T15:13:32Z",
+      "content": "As if there werent a hundred thousand million billion klaxons blaring loud and clear in our ears that Todd Blanche should never ever actually become the United States attorney general, the Senate Jud… [+5509 chars]",
+      "tags": [
+        "legal_justice",
+        "abortion",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1785856412
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "Another Detainee Has Died at Delaney Hall—and ICE Says His Official Cause of Death Is ‘Pending’",
+      "description": "According to his mother, Cornejo had diabetes and high blood pressure, and was not given medicine regularly since he was first arrested.",
+      "url": "https://www.jezebel.com/another-detainee-has-died-at-delaney-hall-and-ice-says-his-official-cause-of-death-is-pending",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/07/ice-protest-unsplash-main.jpg",
+      "publishedAt": "2026-08-04T09:30:44Z",
+      "content": "Only a single day had passed since Edwin Lopez-Cornejo spoke to his mother on the phonetelling her of numbness in the right side of his face and right handwhen, a day later, she received a shock call… [+3207 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
+      ],
+      "publishedAtTs": 1785835844
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mental Floss"
+      },
+      "author": "Nitya Rao",
+      "title": "Quiz: Only Architecture Aficionados Can Name the Cities With the Most Skyscrapers",
+      "description": "Test your architecture and geography knowledge with our high-rise quiz. Can you name the global cities boasting the most skyscrapers?",
+      "url": "https://www.mentalfloss.com/quizzes/geography/name-cities-with-most-skyscrapers",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1249,h_702/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kz43d8an9hdsg07g72.jpg",
+      "publishedAt": "2026-08-04T15:37:58Z",
+      "content": "Some find solace in a sunset framed by trees or rolling seas, but for others, theres nothing quite like a city sunset: watching the sky shift from blue to orange to pink while the lights of hundreds … [+4148 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785857878
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Tim Cushing",
+      "title": "Capital One Says Money Laundering, Not January 6 Riot, Led To Shutdown Of Trump Accounts",
+      "description": "I don’t know but when your best argument is “we got locked out of our accounts for supporting violent insurrectionists,” maybe it’s time to stop arguing. But if there’s anything Trump likes, it’s being a plaintiff in a lawsuit. So, that’s exactly what the Tru…",
+      "url": "http://www.techdirt.com/2026/08/04/capital-one-says-money-laundering-not-january-6-riot-led-to-shutdown-of-trump-accounts/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-08-04T16:27:29Z",
+      "content": "from the be-careful-what-you-wish-for dept\r\nI don’t know but when your best argument is “we got locked out of our accounts for supporting violent insurrectionists,” maybe it’s time to stop arguing.\r\n… [+5456 chars]",
+      "tags": [
+        "legal_justice",
+        "banking"
+      ],
+      "publishedAtTs": 1785860849
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Jason M. Blazakis",
+      "title": "The Antifa Terrorism Threat Trump Describes Does Not Exist",
+      "description": "This article is republished from The Conversation under a Creative Commons license. Read the original article. The State Department on July 16, 2026, hosted what officials billed as a ministerial on the resurgence of left-wing political terrorism. Secretary o…",
+      "url": "http://www.techdirt.com/2026/08/04/the-antifa-terrorism-threat-trump-describes-does-not-exist/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-08-04T20:17:49Z",
+      "content": "from the lies-the-trump-administration-told-you dept\r\nThis article is republished from The Conversation under a Creative Commons license. Read the original article.\r\nThe State Department on July 16, … [+8556 chars]",
+      "tags": [
+        "terrorism",
+        "social_issues"
+      ],
+      "publishedAtTs": 1785874669
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Karl Bode",
+      "title": "Gavin Newsom Makes An Ass Of Himself On Antitrust, Paramount Merger",
+      "description": "It’s hard to not have noticed that a key enabler of U.S. authoritarianism was our consolidated corporate media, which (with scattered exception) was more than happy to throw the entirety of journalistic integrity in the toilet for a chance to please a mad, id…",
+      "url": "http://www.techdirt.com/2026/08/04/gavin-newsom-makes-an-ass-of-himself-on-antitrust-paramount-merger/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-08-04T12:23:29Z",
+      "content": "from the what-the-hell-are-you-doing,-dumbass dept\r\nIt’s hard to not have noticed that a key enabler of U.S. authoritarianism was our consolidated corporate media, which (with scattered exception) wa… [+4868 chars]",
+      "tags": [
+        "antitrust",
+        "media_communications"
+      ],
+      "publishedAtTs": 1785846209
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Ryan Bort",
+      "title": "James Talarico Tests the Democratic Wilderness at the Texas Border",
+      "description": "James Talarico, the Democrat running for U.S. Senate in Texas, is connecting to traditionally liberal border communities disillusioned with the party.",
+      "url": "http://www.rollingstone.com/politics/politics-features/james-talarico-tour-texas-border-democrats-senate-1235603215/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/07/James-Talarico-border.jpg?crop=0px%2C186px%2C1800px%2C1015px&resize=1600%2C900",
+      "publishedAt": "2026-08-04T14:00:00Z",
+      "content": "James Talarico is asking me if my hand is OK, and I’m trying to laugh it off. We’re stopped at the site of a collapsed water well in the craggy outskirts of Alpine, Texas. Behind us, the red and ochr… [+15452 chars]",
+      "tags": [
+        "elections_politics",
+        "texas",
+        "immigration"
+      ],
+      "publishedAtTs": 1785852000
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Lorraine McKenna",
+      "title": "UFC loses $30m on Freedom 250 event at White House",
+      "description": "UFC owners lose $30m (£22m) staging the Freedom 250 event, which was attended by President Donald Trump, at the White House in June.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgdky8d94eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/59de/live/d28efb50-8fe3-11f1-9b57-e74b317a0f23.jpg",
+      "publishedAt": "2026-08-04T08:59:56Z",
+      "content": "In May, reports suggested 'high-roller' guests would need to spend $1.5m (£1.1m) for special access, and while UFC sources confirmed to BBC Sport the existence of such packages for the event, they di… [+1160 chars]",
+      "tags": [
+        "personal_family",
+        "personal_business"
+      ],
+      "publishedAtTs": 1785833996
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Sequoia Carrillo",
+      "title": "Trump administration expected to release proposed changes to Head Start program",
+      "description": "The Trump administration is proposing changes to Head Start rules, delivering on the administration's promise to deregulate the early education program for children from low-income families.",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918202/trump-administration-expected-to-release-proposed-changes-to-head-start-program",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "publishedAt": "2026-08-04T08:41:22Z",
+      "content": "The Trump administration is proposing changes to Head Start rules, delivering on the administration's promise to deregulate the early education program for children from low-income families.",
+      "tags": [
+        "education",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1785832882
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Does the US blockade on Cuba make America safer?",
+      "description": "Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785808611.jpg?resize=1620%2C1080&quality=80",
+      "publishedAt": "2026-08-04T01:58:17Z",
+      "content": "NewsFeed\r\nThe Trump administration just escalated restrictions on Havana warning that Cuba remains a threat to national security. A former US policy advisor told Al Jazeeras This is America that he a… [+80 chars]",
+      "tags": [
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1785808697
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "War on Iran: Trump says Iran has one ‘last chance’",
+      "description": "US President Donald Trump says Iran has ‘one last chance’ to make a deal, but Tehran is in no hurry to take it.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1785857931.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-08-04T16:13:49Z",
+      "content": "NewsFeed\r\nUS President Donald Trump says Iran has one last chance to make a deal, but Tehran is in no hurry to take it and instead are focused on talks with Oman to split shipping routes in the Strai… [+53 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785860029
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Yashraj Sharma",
+      "title": "‘One last chance’: The times Trump threatened Iran, said deal imminent",
+      "description": "US president has claimed Iran 'desperate' to do a deal or given Tehran 'last chance' on multiple occasions.",
+      "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-02T223827Z_1015294631_RC2LQMAP3H72_RTRMADP_3_USA-TRUMP-1785779238.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T10:53:33Z",
+      "content": "Just over one month into the war on Iran, US President Donald Trump made an apocalyptic threat that raised the alarm in Washington and Middle Eastern capitals alike, attached to a tight deadline.\r\nIf… [+7051 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785840813
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Why did Trump attack Jeanine Pirro over US reflecting pool ‘vandalism’?",
+      "description": "US president's hand-picked DC attorney in firing line after dropping charges for vandalism of Washington landmark.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/why-did-trump-attack-jeanine-pirro-over-us-reflecting-pool-vandalism",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-05-28T164528Z_2079301207_RC2ZQEA1WL1B_RTRMADP_3_USA-TRUMP-1754183276-1785852135.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-08-04T16:01:35Z",
+      "content": "US President Donald Trump has threatened to fire US Attorney for the District of Columbia Jeanine Pirro, after she said the government would not press ahead with criminal charges of vandalism of Wash… [+9282 chars]",
+      "tags": [
+        "government_administration",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785859295
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Adam Hancock",
+      "title": "Trump administration sued by 25 states over new tariffs on trading partners",
+      "description": "The states claim the new levies are a pretext to re-impose tariffs that were ruled illegal by the US Supreme Court.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2025-04-04T234659Z_172622652_RC2XPDA1ZMSG_RTRMADP_3_USA-TRUMP-TARIFFS-1785801347.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T00:29:48Z",
+      "content": "A group of 25 Democratic-led states has sued Donald Trumps administration over its latest tariffs, claiming that the US president has exceeded his legal authority to implement the levies.\r\nThe lawsui… [+2482 chars]",
+      "tags": [
+        "trade",
+        "legal_justice",
+        "tariff_impact_economy"
+      ],
+      "publishedAtTs": 1785803388
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
+      "description": "FIFA refutes report that its President Gianni Infantino sought Donald Trump's backing after failed World Cup selloff.",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-19T235306Z_1888931483_UP1EM7J1UCGST_RTRMADP_3_SOCCER-WORLDCUP-ESP-ARG-1785850067.jpg?resize=1200%2C630",
+      "publishedAt": "2026-08-04T14:11:20Z",
+      "content": "FIFA has dismissed as pure fiction a report that its President Gianni Infantino had sought support from US President Donald Trumps administration after the collapse of a plan to sell a stake in World… [+2018 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785852680
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Ali Mustafa, Zaid Sabah",
+      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "description": "US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/14191730-1785753363.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T00:00:00Z",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nThe US president says talks with Iran are under way, warning the negotiations are Tehrans last chance to secure a deal.",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785801600
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "John Power",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks underway",
+      "description": "Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-03T143937Z_1289421046_RC21RMA96SCQ_RTRMADP_3_USA-STOCKS-1785805750_50aaaf-1785811775.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-08-04T02:56:26Z",
+      "content": "The US stock market has surged to the cusp of its all-time high amid conflicting signals about the status of negotiations on ending the war on Iran.\r\nThe S&amp;P500 climbed 1.5 percent on Monday, lea… [+2613 chars]",
+      "tags": [
+        "economy_finance",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1785812186
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Republicans clear Todd Blanche for top US Justice Department role",
+      "description": "Blanche's nomination now goes to the full US Senate for a vote.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a720ee75f7a-1785859815.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T17:38:46Z",
+      "content": "United States President Donald Trumps former personal lawyer, Todd Blanche, has cleared a major hurdle in his effort to be confirmed as the countrys top law enforcement official.\r\nOn Tuesday, Blanche… [+3309 chars]",
+      "tags": [
+        "personnel",
+        "government_administration",
+        "doj_actions"
+      ],
+      "publishedAtTs": 1785865126
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a715dba2d12-1785814458.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T03:58:09Z",
+      "content": "Colombias outgoing president, Gustavo Petro, has repeated allegations that Junes presidential election was rigged, rejecting the legitimacy of his right-wing successor, Abelardo de la Espriella.\r\nSpe… [+2444 chars]",
+      "tags": [
+        "elections_politics",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785815889
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
+      "description": "An official has indicated that the visa revocation would not mean that Brazil's ambassador will be expelled from the US.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a72667d3f9d-1785882237.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T23:41:27Z",
+      "content": "The administration of President Donald Trump has cancelled the visa for Brazils ambassador in the United States, the latest sign of a deepening diplomatic rift between the two countries.\r\nAn anonymou… [+3902 chars]",
+      "tags": [
+        "foreign_policy",
+        "brazil"
+      ],
+      "publishedAtTs": 1785886887
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Joseph Stepansky",
+      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
+      "description": "While FBI poll monitoring not new, US lawmakers raise alarm amid Trump's years-long claims of election fraud.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a722849-1785866313.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T18:50:29Z",
+      "content": "The US Department of Justice (DOJ) has announced it has sent federal monitors to polls in four Democratic-leaning cities in Michigan, amid warnings that the administration of United States President … [+4208 chars]",
+      "tags": [
+        "legal_justice",
+        "voting_rights",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1785869429
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Abid Hussain",
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "description": "New diplomatic push undertaken as repeated ceasefire failures expose limits of mediation.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a71c2f000-1785840368.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T12:21:41Z",
+      "content": "Islamabad, Pakistan Pakistan has invited top Iranian officials for talks as mediation efforts to end the war with the United States are reinvigorated.\r\nA Ministry of Foreign Affairs statement late on… [+7893 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "middle_east"
+      ],
+      "publishedAtTs": 1785846101
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Rached El-Moctar",
+      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+      "description": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a712e23d4fe2-1785802275.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T01:43:51Z",
+      "content": "The US-led Board of Peace has said that an Israeli withdrawal from Gaza will only take place after the disarmament of Hamas is complete, following a meeting between the bodys director, Nickolay Mlade… [+3091 chars]",
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "israel"
+      ],
+      "publishedAtTs": 1785807831
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Maziar Motamedi",
+      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+      "description": "IRGC spokesman Hossein Mohebbi said last month that Iran's missile production rate increased during the ceasefire.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7219b73520-1785862583.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T18:34:48Z",
+      "content": "Tehran, Iran Irans military authorities say they are prepared to resume war with the United States if negotiations again fall through, emphasising that they have adapted and recovered.\r\nWashington ha… [+6026 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran",
+        "military"
+      ],
+      "publishedAtTs": 1785868488
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Yashraj Sharma",
+      "title": "Why are oil companies posting record profits amid Iran war disruption?",
+      "description": "Big Oil companies have bagged astronomical profits as the critical Strait of Hormuz remains closed.",
+      "url": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-22T180539Z_100274767_RC20JMASYQK4_RTRMADP_3_PAKISTAN-FUEL-1785845120.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T14:04:28Z",
+      "content": "The closure of the critical Strait of Hormuz in the Middle East has disrupted global energy flows, causing oil prices to spiral for months and impacting energy markets worldwide.\r\nThousands of miles … [+6417 chars]",
+      "tags": [
+        "energy",
+        "trade",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1785852268
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+      "description": "The latest attack comes after at least 27 people were killed in both Russia and Ukraine earlier this week.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/GettyImages-2288169831-1785882762.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T23:24:43Z",
+      "content": "Russian forces have attacked Ukraines capital, Kyiv, with a wave of ballistic missiles, officials said.\r\nThe strikes early on Wednesday morning come after at least 27 people were killed in separate a… [+1196 chars]",
+      "tags": [
+        "russia",
+        "ukraine",
+        "foreign_policy",
+        "military"
+      ],
+      "publishedAtTs": 1785885883
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "description": "The figure offers a glimpse of how much taxpayer money will be spent on a deployment that has been widely criticised.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26196701142581-1785873062.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T20:59:33Z",
+      "content": "The extension of the United States National Guard deployment in Washington, DC until January 2029 will cost roughly $1.4bn, according to a Defense Department estimate provided to Congress.\r\nThe figur… [+3074 chars]",
+      "tags": [
+        "security_intelligence",
+        "government_administration",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1785877173
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "description": "A US federal appeals court says EPA likely acted unlawfully in trying to cancel Biden-era clean energy grants.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a723b652ac83-1785871205.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T20:35:56Z",
+      "content": "A United States federal appeals court has ruled that the Trump administration likely broke the law when it tried to cancel a multibillion-dollar clean energy programme, dealing a blow to the presiden… [+3195 chars]",
+      "tags": [
+        "environment",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1785875756
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US primaries: What to watch in Kansas, Missouri, Virginia, Washington",
+      "description": "From House battlegrounds to party fights and Trump's influence, here are the races to follow during Tuesday's primaries.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-primaries-what-to-watch-in-kansas-missouri-virginia-washington",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a70c369007af-1785774953.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T09:47:40Z",
+      "content": "Voters in five US states Kansas, Missouri, Virginia, Michigan, and Washington are headed to the polls for another key round of midterm primaries, where they will choose the Republican and Democratic … [+11532 chars]",
+      "tags": [
+        "elections_politics",
+        "2026_midterms",
+        "republican_party",
+        "democratic_party",
+        "trump"
+      ],
+      "publishedAtTs": 1785836860
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Joseph Stepansky",
+      "title": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
+      "description": "The report accuses banks of failing to meet their legal requirements to flag suspicious activity and calls for a probe.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a71f9c1bd757-1785854401.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T17:27:26Z",
+      "content": "A new report by a top Democrat in the United States Senate presents evidence that Wall Street banks looked the other way when it came to the behaviour of disgraced late financier Jeffrey Epstein.\r\nTh… [+4644 chars]",
+      "tags": [
+        "legal_justice",
+        "banking"
+      ],
+      "publishedAtTs": 1785864446
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+      "description": "Negotiators are working to expand safe shipping through the strait, though key differences remain unresolved.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-31T162639Z_2034323327_RC23PMASOSPO_RTRMADP_3_USA-TRUMP-1785872140.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T20:59:32Z",
+      "content": "United States Secretary of State Marco Rubio says progress has been made in talks between Oman and Iran over the Strait of Hormuz, raising hopes that one of the key sticking points in efforts to redu… [+4709 chars]",
+      "tags": [
+        "foreign_policy",
+        "iran"
+      ],
+      "publishedAtTs": 1785877172
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+      "description": "Israeli strikes on Gaza only intensified in the days following a US-brokered agreement billed as a 'breakthrough'.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a710a34f0-1785793077.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T06:00:10Z",
+      "content": "United States President Donald Trump announced a historic agreement on July 30 for the disarmament of Hamas and other armed groups in Gaza, framed as the long-awaited move into the second phase of th… [+7433 chars]",
+      "tags": [
+        "foreign_policy",
+        "gaza",
+        "israel",
+        "middle_east"
+      ],
+      "publishedAtTs": 1785823210
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Mariem Bah",
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "description": "Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a714be5-1785809893.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T03:14:29Z",
+      "content": "A Salvadoran man detained at a New Jersey immigration facility has died, US Immigration and Customs Enforcement (ICE) has confirmed, in the second such death at the facility in less than a year.\r\nEdw… [+3159 chars]",
+      "tags": [
+        "mass_deportation_operation",
+        "ice_controversies_resistance"
+      ],
+      "publishedAtTs": 1785813269
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kevin Hand",
+      "title": "Ex-Arsenal boss Wenger was ‘not aware’ of Infantino’s FIFA plan",
+      "description": "FIFA executive Arsene Wenger backs decision to drop FIFA President Gianni Infantino's World Cup sell-off plan.",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/AP26216359950953-1785841116.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T11:30:30Z",
+      "content": "FIFA executive Arsene Wenger has distanced himself from President Gianni Infantinos failed plan to sell stakes in future World Cup profits to private investors and says it was absolutely necessary to… [+2785 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785843030
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Andy Hirschfeld",
+      "title": "White House to meet AI firms on advanced model safety",
+      "description": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a720194e2bde-1785856404.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T19:04:18Z",
+      "content": "The administration of United States President Donald Trump is set to meet with the countrys top artificial intelligence companies to discuss allowing the federal government more safety tests for its … [+3199 chars]",
+      "tags": [
+        "ai_state_preemption",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1785870258
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kevin Hand",
+      "title": "UEFA confirm legal letter served to FIFA after Infantino World Cup plan",
+      "description": "UEFA confirm to Al Jazeera a preservation letter is with FIFA following failed Gianni Infantino-led World Cup sell-off.",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-30T155632Z_346935622_RC29Y5A3KEBP_RTRMADP_3_SOCCER-FIFA-STAKE-UEFA-1785824117.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T08:37:44Z",
+      "content": "European football body UEFA has confirmed to Al Jazeera that a preservation letter has been sent to the games global governing body, FIFA, following Gianni Infantinos failed plan to sell a stake in f… [+5184 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1785832664
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Elizabeth Melimopoulos",
+      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "description": "Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-03T192028Z_1677678010_RC27RMAS8CW4_RTRMADP_3_USA-WILDFIRES-WASHINGTON-1785812068.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T05:03:44Z",
+      "content": "A cluster of fast-moving wildfires has devastated the outskirts of Spokane, Washington state, with 65,000 people told to leave their homes. More than 700 buildings have been destroyed as the fires sp… [+8326 chars]",
+      "tags": [
+        "natural_disasters",
+        "crisis_emergency"
+      ],
+      "publishedAtTs": 1785819824
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Priyanka Shankar",
+      "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda?",
+      "description": "The latest talks come as Israel continues to occupy and strike southern Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/seventh-round-of-israel-lebanon-talks-begins-whats-on-the-agenda",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260729__C3H23NZ__v2__HighRes__LebanonIsraelIranUsWar-1785391077.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-04T12:22:19Z",
+      "content": "A seventh round of United States-mediated talks has begun in the Italian capital with the aim of establishing new pilot zones in southern Lebanon from which Israeli forces will begin withdrawing, and… [+8634 chars]",
+      "tags": [
+        "foreign_policy",
+        "israel",
+        "middle_east"
+      ],
+      "publishedAtTs": 1785846139
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Nick Turse",
+      "title": "The Pentagon Found a New Way to Undercount U.S. Casualties in Iran",
+      "description": "U.S. troops killed or wounded since July 7 are now counted separately from casualties during the first months of the Iran war.\nThe post The Pentagon Found a New Way to Undercount U.S. Casualties in Iran appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/08/04/us-military-casualties-count-iran-war/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/08/AP26203577154435-e1785794442512.jpg?fit=4870%2C2440&w=1200&h=800",
+      "publishedAt": "2026-08-04T09:54:00Z",
+      "content": "The Pentagon is using a new method of tallying the number of U.S. soldiers killed and wounded in the Iran war that a U.S. government official said was designed to obscure the count.\r\nSince the start … [+5674 chars]",
+      "tags": [
+        "security_intelligence",
+        "military"
+      ],
+      "publishedAtTs": 1785837240
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Adam Johnson",
+      "title": "Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists",
+      "description": "The latest CBS News hire shows that the way to get ahead in journalism is to act as a tool for the powerful.\nThe post Bari Weiss’s “60 Minutes” Hires Producer Who Downplayed Gaza Starvation, Justified Killing Journalists appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/08/04/60-minutes-bari-weiss-cbs-news-israel-gaza/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/08/GettyImages-2285245950-e1785869068400.jpg?fit=1024%2C512&w=1200&h=800",
+      "publishedAt": "2026-08-04T19:46:41Z",
+      "content": "Bari Weiss attends the Allen &amp; Company Sun Valley Conference on July 8, 2026, in Sun Valley, Idaho.  Photo: Kevin Dietsch/Getty Images\r\nAdam Johnson is co-host of the Citations Needed podcast and… [+9905 chars]",
+      "tags": [
+        "media_communications",
+        "social_issues"
+      ],
+      "publishedAtTs": 1785872801
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Ted Johnson",
+      "title": "White House Does Its Own Take On Nicole Kidman AMC Theatres Spot To Promote MAGA “Golden Age”",
+      "description": "The White House has turned to a well-known Nicole Kidman spot for AMC Theatres to try to remind MAGA voters of Donald Trump’s promise of a new golden age. A new White House video is a take off of the Kidman spot, with a young man wearing a Make America Great …",
+      "url": "http://deadline.com/2026/08/trump-amc-theatres-nicole-kidman-maga-1237017195/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-11.57.37-AM.jpeg?w=1024",
+      "publishedAt": "2026-08-04T16:20:32Z",
+      "content": "The White House has turned to a well-known Nicole Kidman spot for AMC Theatres to try to remind MAGA voters of Donald Trump‘s promise of a new golden age.\r\nA new White House video is a take off of th… [+1383 chars]",
+      "tags": [
+        "media_communications",
+        "elections_politics",
+        "2024_presidential"
+      ],
+      "publishedAtTs": 1785860432
+    }
+  ]
+}
