@@ -15,8 +15,11 @@
       "publishedAt": "2026-03-11T01:41:42Z",
       "content": "At Anthropics first court hearing challenging sanctions imposed by the Trump administration, the AI tech startup asked the government to commit that it wouldnt levy additional penalties on the compan… [+3625 chars]",
       "tags": [
-        "ai_state_preemption",
-        "executive_orders"
+        "artificial_intelligence",
+        "technology_regulation",
+        "executive_orders",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1773193302
     },
@@ -33,9 +36,7 @@
       "publishedAt": "2026-03-11T09:00:39Z",
       "content": "According to CNBC, Elon Musks xAI, a wholly-owned subsidiary of SpaceX, achieved a coup on Tuesday when it was permitted by the local environmental authorities to power AI data centers by constructin… [+2947 chars]",
       "tags": [
-        "energy",
-        "climate_policy",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1773219639
     },
@@ -52,9 +53,9 @@
       "publishedAt": "2026-03-11T09:00:00Z",
       "content": "Close to half of Americans support the idea of the National Guard at polling places to monitor this November's midterm elections something that would be illegal if ordered by the federal government p… [+5209 chars]",
       "tags": [
-        "elections_politics",
         "voting_rights",
-        "national_security"
+        "polling",
+        "elections_politics"
       ],
       "publishedAtTs": 1773219600
     },
@@ -71,8 +72,11 @@
       "publishedAt": "2026-03-11T09:00:00Z",
       "content": "Last month, the Department of Justice quietly published a list of 22 names in the Federal Register. With little explanation or fanfare, the department announced that these individuals had their feder… [+10201 chars]",
       "tags": [
+        "federal_agencies",
+        "gun_policy",
         "legal_justice",
-        "gun_policy"
+        "government_administration",
+        "policy_legislation"
       ],
       "publishedAtTs": 1773219600
     },
@@ -90,7 +94,8 @@
       "content": "Just over a year ago, the U.S. Department of Education abandoned key oversight of the companies that run the federal student loan program, according to a new report from the nonpartisan U.S. Governme… [+5620 chars]",
       "tags": [
         "education",
-        "policy_legislation"
+        "government_operations",
+        "consumer_protection"
       ],
       "publishedAtTs": 1773219600
     },
@@ -107,8 +112,7 @@
       "publishedAt": "2026-03-11T23:51:46Z",
       "content": "Richard Kahn, Jeffrey Epstein's former accountant, testified before the House Oversight Committee in a closed-door deposition Wednesday, telling lawmakers that he was \"not aware\" of Epstein's crimes … [+4153 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1773273106
     },
@@ -125,10 +129,11 @@
       "publishedAt": "2026-03-11T19:38:37Z",
       "content": "The U.S. has launched a formal investigation into a missile strike on an Iranian girls' school that killed at least 165 civilians, after a preliminary assessment determined the U.S. was at fault, acc… [+3263 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "military"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "security_incidents",
+        "iran"
       ],
       "publishedAtTs": 1773257917
     },
@@ -146,8 +151,10 @@
       "content": "OnWednesday, the International Energy Agency (IEA) announced member nations would release a total of 400 million barrels from their strategic reserves of oil, as the war in Iran continues to cause th… [+4829 chars]",
       "tags": [
         "energy",
+        "us_iran_war",
         "foreign_policy",
-        "trade"
+        "crisis_emergency",
+        "economy_finance"
       ],
       "publishedAtTs": 1773239058
     },
@@ -164,8 +171,7 @@
       "publishedAt": "2026-03-11T17:45:14Z",
       "content": "Yu-Gi-Oh was one of many properties from the worlds of movies, games, and anime that the White House used in a gross video to drum up hype for the United States and Israels joint strikes on Iran last… [+1322 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice"
+        "us_iran_war"
       ],
       "publishedAtTs": 1773251114
     },
@@ -182,10 +188,7 @@
       "publishedAt": "2026-03-11T04:01:20Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "republican_party",
-        "democratic_party"
+        "elections_politics"
       ],
       "publishedAtTs": 1773201680
     },
@@ -202,9 +205,11 @@
       "publishedAt": "2026-03-11T19:49:23Z",
       "content": "BOSTON (AP) A coalition of 17 Democratic state attorneys general filed a lawsuit Wednesday challenging a Trump administration policy that requires higher education institutions to collect data showin… [+3457 chars]",
       "tags": [
-        "civil_rights",
+        "lawsuits",
+        "civil_litigation",
         "education",
-        "legal_justice"
+        "civil_rights",
+        "racial_justice"
       ],
       "publishedAtTs": 1773258563
     },
@@ -221,9 +226,11 @@
       "publishedAt": "2026-03-11T09:03:35Z",
       "content": "DUBAI, United Arab Emirates (AP) The war with Iran, for all its complexity and global effects, boils down to a single question: Who can take the pain the longest?\r\nA surge in oil prices points to wha… [+6684 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
+        "us_iran_war",
         "iran",
-        "energy"
+        "foreign_policy"
       ],
       "publishedAtTs": 1773219815
     },
@@ -241,7 +248,10 @@
       "content": "By Parisa Hafezi and Alexander Cornwell\r\nDUBAI/TEL AVIV, March 11 (Reuters) - Iran's military command said on Wednesday the world should be prepared for oil to hit $200 a barrel, as three more ships … [+5880 chars]",
       "tags": [
         "energy",
-        "foreign_policy"
+        "middle_east",
+        "iran",
+        "national_security",
+        "statements"
       ],
       "publishedAtTs": 1773237052
     },
@@ -258,9 +268,11 @@
       "publishedAt": "2026-03-11T11:52:45Z",
       "content": "DUBAI, March 11 (Reuters) - Three vessels have been hit by unknown projectiles in the Strait of Hormuz, maritime security and risk firms said on Wednesday, bringing the number of ships struck in the … [+2934 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "crisis_emergency"
+        "security_incidents",
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773229965
     },
@@ -277,8 +289,7 @@
       "publishedAt": "2026-03-11T01:25:25Z",
       "content": "Oracle Corporation (NYSE:ORCL) is included among the 14 Best American Dividend Stocks to Invest in.\r\nScotiabank Lowers Oracle (ORCL) Price Objective, Sees Strength in AI-Accelerated Cloud\r\nOn March 9… [+2072 chars]",
       "tags": [
-        "economy_finance",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1773192325
     },
@@ -295,8 +306,11 @@
       "publishedAt": "2026-03-11T07:55:42Z",
       "content": "He added that such cooperation can establish security in the region, and urged people in the region not to shield US forces.\r\nIranian Armed Forces spokesperson Brig.-Gen. Abolfazl Shekarchi called on… [+2831 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "statements",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773215742
     },
@@ -313,9 +327,11 @@
       "publishedAt": "2026-03-11T09:45:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nA brutal authoritarian regime amassing dangerous weapons. A feckless, dec… [+9989 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "middle_east",
+        "national_security",
         "iran",
-        "social_issues"
+        "foreign_policy"
       ],
       "publishedAtTs": 1773222300
     },
@@ -349,9 +365,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/07165571-fa09-4054-9e53-e19e26be35e6/260311_gmafl_kindness_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T10:24:34Z",
       "content": "<ul><li>Pentagon releases new video as U.S. airstrikes intensify in Iran\r\n</li><li>Liza Minnelli's first memoir details her life in the spotlight\r\n</li><li>FBI search storage facility linked to New Y… [+4365 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1773224674
     },
     {
@@ -366,9 +380,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4f1b449d-e417-4d7d-9edb-e7ad24635494/260310_wn_ramos_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T08:27:14Z",
       "content": "<ul><li>Pentagon releases new video as U.S. airstrikes intensify in Iran\r\n</li><li>Liza Minnelli's first memoir details her life in the spotlight\r\n</li><li>FBI search storage facility linked to New Y… [+4365 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1773217634
     },
     {
@@ -384,7 +396,7 @@
       "publishedAt": "2026-03-11T08:26:47Z",
       "content": "<ul><li>Pentagon releases new video as U.S. airstrikes intensify in Iran\r\n</li><li>Liza Minnelli's first memoir details her life in the spotlight\r\n</li><li>FBI search storage facility linked to New Y… [+4365 chars]",
       "tags": [
-        "off_topic"
+        "crisis_emergency"
       ],
       "publishedAtTs": 1773217607
     },
@@ -400,9 +412,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4954242b-f1c1-4854-a7dd-c1e39a7a198a/260311_gma_play_whales_0747_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T14:09:26Z",
       "content": "<ul><li>Iran 'wants to cause pain' with strikes on Strait of Hormuz: Defense analyst\r\n</li><li>Approximately 140 service members injured in war: Pentagon\r\n</li><li>Tracking and timing of severe weath… [+4263 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1773238166
     },
     {
@@ -417,9 +427,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0e2e0848-9c12-407b-8177-f9caa5bbc7d2/260311_gma_reeve_adebayo2_0717_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T11:39:31Z",
       "content": "<ul><li>Approximately 140 service members injured in war: Pentagon\r\n</li><li>Tracking and timing of severe weather\r\n</li><li>Wild swings in oil markets after Energy Secretary deletes post\r\n</li><li>T… [+4339 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1773229171
     },
     {
@@ -435,10 +443,11 @@
       "publishedAt": "2026-03-11T20:00:11Z",
       "content": "<ul><li>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert\r\n</li><li>Trump on war with Iran: 'easier than we thought'\r\n</li><li>Risks rise in Strait of Hormuz as mi… [+4362 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "terrorism"
+        "national_security",
+        "us_iran_war",
+        "security_incidents",
+        "federal_agencies",
+        "iran"
       ],
       "publishedAtTs": 1773259211
     },
@@ -454,11 +463,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/35509f0c-40ed-4ec1-a140-ccb7179da672/260311_abc_social_barbershop_mishap_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T20:26:14Z",
       "content": "<ul><li>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert\r\n</li><li>Trump on war with Iran: 'easier than we thought'\r\n</li><li>Risks rise in Strait of Hormuz as mi… [+4362 chars]",
-      "tags": [
-        "security_intelligence",
-        "foreign_policy",
-        "iran"
-      ],
+      "tags": [],
       "publishedAtTs": 1773260774
     },
     {
@@ -474,7 +479,7 @@
       "publishedAt": "2026-03-11T21:25:25Z",
       "content": "<ul><li>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert\r\n</li><li>Trump on war with Iran: 'easier than we thought'\r\n</li><li>Risks rise in Strait of Hormuz as mi… [+4362 chars]",
       "tags": [
-        "off_topic"
+        "us_iran_war"
       ],
       "publishedAtTs": 1773264325
     },
@@ -491,7 +496,7 @@
       "publishedAt": "2026-03-11T09:45:26Z",
       "content": "<ul><li>Iran 'wants to cause pain' with strikes on Strait of Hormuz: Defense analyst\r\n</li><li>Approximately 140 service members injured in war: Pentagon\r\n</li><li>Tracking and timing of severe weath… [+4272 chars]",
       "tags": [
-        "off_topic"
+        "us_iran_war"
       ],
       "publishedAtTs": 1773222326
     },
@@ -508,10 +513,11 @@
       "publishedAt": "2026-03-11T06:05:31Z",
       "content": "<ul><li>Approximately 140 service members injured in war: Pentagon\r\n</li><li>Tracking and timing of severe weather\r\n</li><li>Wild swings in oil markets after Energy Secretary deletes post\r\n</li><li>T… [+4369 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "military"
+        "us_iran_war",
+        "national_security",
+        "middle_east",
+        "military",
+        "iran"
       ],
       "publishedAtTs": 1773209131
     },
@@ -544,11 +550,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/0edfcde7-e4b5-4982-b417-993fe159d178/260311_abc_social_tornado_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-03-11T20:01:16Z",
       "content": "<ul><li>FBI warns Iran aspired to attack California with drones in retaliation for war: Alert\r\n</li><li>Trump on war with Iran: 'easier than we thought'\r\n</li><li>Risks rise in Strait of Hormuz as mi… [+4362 chars]",
-      "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence"
-      ],
+      "tags": [],
       "publishedAtTs": 1773259276
     },
     {
@@ -564,10 +566,11 @@
       "publishedAt": "2026-03-11T17:35:51Z",
       "content": "The FBI warned police departments in California in recent days that Iran could retaliate for American attacks by launching drones at the West Coast, according to an alert reviewed by ABC News.\r\nWe re… [+2485 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "terrorism"
+        "national_security",
+        "security_incidents",
+        "federal_agencies",
+        "middle_east",
+        "us_iran_war"
       ],
       "publishedAtTs": 1773250551
     },
@@ -583,9 +586,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/6b802e89-65c0-4d33-b2cd-0f88ff70bd70/260311_gma_chang_jlo_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-03-11T16:14:55Z",
       "content": "<ul><li>Iran 'wants to cause pain' with strikes on Strait of Hormuz: Defense analyst\r\n</li><li>Approximately 140 service members injured in war: Pentagon\r\n</li><li>Tracking and timing of severe weath… [+4312 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1773245695
     },
     {
@@ -601,9 +602,9 @@
       "publishedAt": "2026-03-11T19:19:37Z",
       "content": "Still, Khameneis death represented Russias third loss of an important geopolitical client in a little over a year: in December, 2024, Bashar al-Assad, a longtime Russian ally, whom the Kremlin had pr… [+4612 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "iran"
+        "national_security",
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773256777
     },
@@ -620,10 +621,11 @@
       "publishedAt": "2026-03-11T18:10:25Z",
       "content": "An investigation by the U.S. military into America’s missile strike on an Iranian school will likely blame outdated targeting information, according to a new report from the New York Times. The attac… [+4195 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "military"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "security_incidents",
+        "iran"
       ],
       "publishedAtTs": 1773252625
     },
@@ -640,10 +642,11 @@
       "publishedAt": "2026-03-11T21:45:04Z",
       "content": "A news agency affiliated with the Iranian regime released a list of American tech companies with links to American and Israeli military operations as new targets for Iran on Wednesday.\r\nAccording to … [+2808 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
         "iran",
-        "security_intelligence",
-        "cybersecurity"
+        "security_incidents",
+        "us_iran_war"
       ],
       "publishedAtTs": 1773265504
     },
@@ -660,8 +663,8 @@
       "publishedAt": "2026-03-11T15:55:48Z",
       "content": "Microsoft is taking Anthropic’s side in its fight to overturn the Pentagon’s “supply-chain risk” designation.\r\nLate last month, the Pentagon dropped all contracts with Anthropic and labeled the AI co… [+3358 chars]",
       "tags": [
-        "ai_state_preemption",
-        "trade_negotiations_truces"
+        "artificial_intelligence",
+        "technology_regulation"
       ],
       "publishedAtTs": 1773244548
     },
@@ -678,10 +681,11 @@
       "publishedAt": "2026-03-11T23:24:00Z",
       "content": "Iran-linked hacking group Handala claimed responsibility for a cyberattack against the U.S. medical equipment company Stryker on Wednesday. The group said the hack was retaliation for a U.S. missile … [+3976 chars]",
       "tags": [
-        "security_intelligence",
+        "security_incidents",
         "cybersecurity",
-        "foreign_policy",
-        "iran"
+        "iran",
+        "middle_east",
+        "us_iran_war"
       ],
       "publishedAtTs": 1773271440
     },
@@ -698,8 +702,11 @@
       "publishedAt": "2026-03-11T22:00:00Z",
       "content": "Three days after President Trump announced his “Complete and Total Endorsement” of the Louisiana congressional candidate Blake Miguez, the Republican contender posted a video from outside the West Wi… [+6798 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics"
+        "political_endorsements",
+        "republican_party",
+        "congress",
+        "elections_politics",
+        "trump"
       ],
       "publishedAtTs": 1773266400
     },
@@ -734,9 +741,7 @@
       "publishedAt": "2026-03-11T21:15:26Z",
       "content": "The Islamic Center of Columbia, Tennessee—a small city about 45 miles south of Nashville—had been around for only a few years when white supremacists burned it down. On a Saturday in early 2008, thre… [+6927 chars]",
       "tags": [
-        "social_issues",
-        "civil_rights",
-        "religious_freedom"
+        "off_topic"
       ],
       "publishedAtTs": 1773263726
     },
@@ -753,10 +758,8 @@
       "publishedAt": "2026-03-11T21:55:49Z",
       "content": "As Iranian missiles and drones exploded above Dubai in the first days of the Iran war, the city’s legions of social-media influencers started posting. “Your boy is currently in the middle of World Wa… [+8480 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east",
-        "media_communications"
+        "us_iran_war",
+        "middle_east"
       ],
       "publishedAtTs": 1773266149
     },
@@ -773,9 +776,10 @@
       "publishedAt": "2026-03-11T16:45:28Z",
       "content": "The Americans and British claimed, wrongly, that it was a command centre, but I'd seen the bodies, almost all children, women and old men, and seen the still smouldering shelter, so I knew that wasn'… [+6 chars]",
       "tags": [
+        "middle_east",
+        "national_security",
         "foreign_policy",
-        "iran",
-        "military"
+        "trump"
       ],
       "publishedAtTs": 1773247528
     },
@@ -792,8 +796,11 @@
       "publishedAt": "2026-03-11T15:00:00Z",
       "content": "The U.S. Food and Drug Administration on Tuesday approved leucovorin, a synthetic form of vitamin B9, as a treatment for a rare genetic condition that causes folate deficiencies in the brain. The dec… [+2773 chars]",
       "tags": [
-        "health_science",
-        "public_health"
+        "medical_research",
+        "health",
+        "fact_checking",
+        "public_health",
+        "health_science"
       ],
       "publishedAtTs": 1773241200
     },
@@ -811,6 +818,9 @@
       "content": "Confusion on whether Iran truly needed only “two weeks to four weeks” to make a nuclear weapon, as President Donald Trump suggested on Monday, hangs over the ongoing U.S. and Israeli war on the Persi… [+7799 chars]",
       "tags": [
         "iran",
+        "middle_east",
+        "fact_checking",
+        "national_security",
         "nuclear_policy"
       ],
       "publishedAtTs": 1773255600
@@ -828,8 +838,7 @@
       "publishedAt": "2026-03-11T00:00:00Z",
       "content": "Chinese President Xi Jinping attends the 14th National Committee of the Chinese Peoples Political Consultative Conference in Beijing. Credit: Lintao Zhang/Getty\r\nThe Chinese government is ramping up … [+2847 chars]",
       "tags": [
-        "science_policy",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1773187200
     },
@@ -846,7 +855,7 @@
       "publishedAt": "2026-03-11T00:00:00Z",
       "content": "Uncertainty.\r\nLoss of trust.\r\nDefinitely a crisis.\r\nThese are some of the ways in which researchers describe the state of affairs for government data in many countries.\r\nDo you really know the way th… [+11062 chars]",
       "tags": [
-        "public_health"
+        "off_topic"
       ],
       "publishedAtTs": 1773187200
     },
@@ -863,10 +872,11 @@
       "publishedAt": "2026-03-11T12:50:41Z",
       "content": "Get ready for “war crime” to start trending all over social media, thanks to new reporting from The New York Times, which on Wednesday published information from (unnamed) U.S. officials and military… [+5618 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
+        "us_iran_war",
         "iran",
-        "security_intelligence",
-        "military"
+        "foreign_policy"
       ],
       "publishedAtTs": 1773233441
     },
@@ -882,11 +892,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/03/Untitled-design-1.jpg",
       "publishedAt": "2026-03-11T15:56:50Z",
       "content": "Marco Rubio and Vance reportedly got their shoes in December, after a meeting where Trump got bored and pulled out his shoe catalog, more concerned with footwear than with anything else on the agenda… [+198 chars]",
-      "tags": [
-        "personal_family",
-        "republican_party",
-        "elections_politics"
-      ],
+      "tags": [],
       "publishedAtTs": 1773244610
     },
     {
@@ -902,8 +908,10 @@
       "publishedAt": "2026-03-11T14:03:51Z",
       "content": "As if the Trump administrations tips on surviving the affordability crisis by making $3 depression meals and opting for undesirable cuts of meat werent already a resounding slap in the face, on Monda… [+3997 chars]",
       "tags": [
-        "economy_finance",
-        "government_administration"
+        "budget",
+        "military",
+        "government_administration",
+        "economy_finance"
       ],
       "publishedAtTs": 1773237831
     },
@@ -920,8 +928,11 @@
       "publishedAt": "2026-03-11T20:47:09Z",
       "content": "from the avoidable-tragedies dept\r\nThis story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license.\r\nImages from the missile strike in southern Iran were more horrifyin… [+18764 chars]",
       "tags": [
-        "security_intelligence",
-        "military"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773262029
     },
@@ -938,9 +949,8 @@
       "publishedAt": "2026-03-11T18:00:41Z",
       "content": "from the seems-bads dept\r\nFrom the very beginning of the DOGE saga, many of us raised alarms about what would happen when a bunch of inexperienced twenty-somethings were handed unfettered access to t… [+7367 chars]",
       "tags": [
-        "legal_justice",
-        "security_intelligence",
-        "personal_legal"
+        "security_incidents",
+        "cybersecurity"
       ],
       "publishedAtTs": 1773252041
     },
@@ -957,8 +967,7 @@
       "publishedAt": "2026-03-11T12:29:44Z",
       "content": "from the golden-era-for-weird-assholes dept\r\nThe President of Larry Ellison’s “new and improved” Paramount, Jeff Shell, has been conspicuously absent from recent events heralding the company’s proble… [+3934 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1773232184
     },
@@ -975,9 +984,9 @@
       "publishedAt": "2026-03-11T16:31:44Z",
       "content": "from the cover-ups-are-SOP dept\r\nFlooding cities with federal officers more used to dealing with border crossings and customs enforcement has led to multiple killings by these officers. They’re not t… [+5481 chars]",
       "tags": [
-        "immigration",
+        "ice_controversies_resistance",
         "law_enforcement",
-        "security_intelligence"
+        "social_issues"
       ],
       "publishedAtTs": 1773246704
     },
@@ -994,8 +1003,11 @@
       "publishedAt": "2026-03-11T03:04:00Z",
       "content": "from the the-play-is-unreviewable dept\r\nI’ve spent a lot of digital ink detailing just how bad RFK Jr. has been in his post at HHS. Everything from his attempts to entirely remake vaccine policies in… [+4324 chars]",
       "tags": [
-        "legal_justice",
-        "healthcare"
+        "cabinet",
+        "public_health",
+        "healthcare",
+        "health_science",
+        "government_administration"
       ],
       "publishedAtTs": 1773198240
     },
@@ -1012,7 +1024,9 @@
       "publishedAt": "2026-03-11T17:20:02Z",
       "content": "Iranian children stand on a launcher of an Iran-made ballistic missile during a rally commemorating the 47th anniversary of the Islamic Revolution's victory in Azadi (Freedom) Square in western Tehra… [+11925 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "national_security",
+        "middle_east",
         "iran",
         "military"
       ],
@@ -1031,8 +1045,11 @@
       "publishedAt": "2026-03-11T21:35:53Z",
       "content": "In this aerial picture released by the Iranian Press Center, graves are dug on March 3, 2026, for children killed in a strike on an elementary school in Minab, Iran. | Iranian Press Center/AFP via Ge… [+2707 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "iran",
+        "security_incidents"
       ],
       "publishedAtTs": 1773264953
     },
@@ -1049,9 +1066,11 @@
       "publishedAt": "2026-03-11T09:10:03Z",
       "content": "U.S. Attorney General Pam Bondi was quietly moved to a Washington D.C. military base after receiving threats from drug cartels and people pissed about her handling of the Jeffrey Epstein case, accord… [+1279 chars]",
       "tags": [
-        "security_intelligence",
-        "legal_justice",
-        "personal_family"
+        "security_incidents",
+        "cabinet",
+        "federal_agencies",
+        "leadership",
+        "government_administration"
       ],
       "publishedAtTs": 1773220203
     },
@@ -1068,8 +1087,8 @@
       "publishedAt": "2026-03-11T02:15:47Z",
       "content": "The suspension of Global Entry is coming to an end.\r\nThe fast-tracked service that helps paying members speed through passport control after an international flight back to the U.S. will resume at 5 … [+1663 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation"
+        "government_operations",
+        "government_administration"
       ],
       "publishedAtTs": 1773195347
     },
@@ -1086,8 +1105,7 @@
       "publishedAt": "2026-03-11T15:30:58Z",
       "content": "You're probably familiar with the mental checklist that runs through your head before heading out the door to catch a flight: ID in wallet. Essentials packed. Electronics charged.\r\nBut as security li… [+4420 chars]",
       "tags": [
-        "security_intelligence",
-        "government_administration"
+        "transportation"
       ],
       "publishedAtTs": 1773243058
     },
@@ -1104,10 +1122,8 @@
       "publishedAt": "2026-03-11T08:03:28Z",
       "content": "The US-Israeli war on Iran has exposed divisions among Europes far-right parties and personalities.\r\nIn one camp, Atlanticists such as Nigel Farage, founder of the populist hard-right Reform UK party… [+5460 chars]",
       "tags": [
-        "foreign_policy",
-        "europe",
-        "iran",
-        "political_endorsements"
+        "us_iran_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773216208
     },
@@ -1124,7 +1140,7 @@
       "publishedAt": "2026-03-11T09:10:18Z",
       "content": "NewsFeed\r\nA statue was placed on the National Mall in Washington DC depicting US President Donald Trump and convicted sex offender Jeffrey Epstein in a pose inspired by the film Titanic.",
       "tags": [
-        "off_topic"
+        "trump"
       ],
       "publishedAtTs": 1773220218
     },
@@ -1141,8 +1157,9 @@
       "publishedAt": "2026-03-11T21:10:20Z",
       "content": "The government of Ecuador has announced that, starting this weekend, it is prepared to launch a sweeping military offensive against criminal networks in the country, with the support of the United St… [+5427 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence"
+        "national_security",
+        "security_incidents",
+        "crisis_emergency"
       ],
       "publishedAtTs": 1773263420
     },
@@ -1159,8 +1176,9 @@
       "publishedAt": "2026-03-11T22:38:41Z",
       "content": "NewsFeed\r\nI dont know about it. President Trump denied knowledge of a US military investigation that has reportedly found the United States responsible for the deadly strike on the Minab girls school… [+8 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773268721
     },
@@ -1177,9 +1195,11 @@
       "publishedAt": "2026-03-11T21:55:51Z",
       "content": "The attack that killed more than 170 people, mostly children, in an elementary school in southern Iran has prompted anger and calls for an investigation in the United States.\r\nBut President Donald Tr… [+3758 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
         "iran",
-        "security_intelligence"
+        "us_iran_war",
+        "trump"
       ],
       "publishedAtTs": 1773266151
     },
@@ -1196,8 +1216,11 @@
       "publishedAt": "2026-03-11T18:13:06Z",
       "content": "NewsFeed\r\nPresident Trump has told reporters that the US has destroyed Irans navy, anti-aircraft systems, radars and leadership. And we could do a lot worse, he said, adding what is left standing in … [+41 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
         "iran",
-        "foreign_policy"
+        "us_iran_war",
+        "trump"
       ],
       "publishedAtTs": 1773252786
     },
@@ -1214,7 +1237,8 @@
       "publishedAt": "2026-03-11T22:33:32Z",
       "content": "South Africas government has summoned the United States ambassador to the country to discuss his undiplomatic remarks, a sign of the deepening rift between Pretoria and Washington.\r\nForeign Minister … [+5101 chars]",
       "tags": [
-        "foreign_policy"
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1773268412
     },
@@ -1231,9 +1255,11 @@
       "publishedAt": "2026-03-11T17:18:19Z",
       "content": "Donald Trump has said that the war with Iran may end soon because there is practically nothing left for the United States military to bomb.\r\nIn an interview with Axios on Wednesday, the US president … [+4757 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "middle_east",
+        "national_security",
         "iran",
-        "military"
+        "trump"
       ],
       "publishedAtTs": 1773249499
     },
@@ -1250,8 +1276,8 @@
       "publishedAt": "2026-03-11T10:48:08Z",
       "content": "FIFA President Gianni Infantino says Irans participation in the World Cup would be welcomed by United States President Donald Trump, with whom he met and discussed the upcoming tournament amid the on… [+3559 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773226088
     },
@@ -1268,9 +1294,11 @@
       "publishedAt": "2026-03-11T03:27:23Z",
       "content": "Oil prices are seeing dramatic swings as traders struggle to make sense of mixed messages about the impact of the United States and Israels war on Iran.\r\nBrent crude, the international benchmark, on … [+3614 chars]",
       "tags": [
+        "us_iran_war",
         "energy",
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "iran",
+        "economy_finance"
       ],
       "publishedAtTs": 1773199643
     },
@@ -1287,10 +1315,8 @@
       "publishedAt": "2026-03-11T20:41:48Z",
       "content": "Europe faces stiff competition with Asia for energy supplies as Russia profits.Europe is under pressure as the conflict in the Middle East continues, now competing with Asia for scarcer oil and gas s… [+461 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "energy",
-        "middle_east"
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773261708
     },
@@ -1307,8 +1333,11 @@
       "publishedAt": "2026-03-11T15:31:44Z",
       "content": "The United States military has confirmed using a variety of artificial intelligence (AI) tools in the war with Iran amid growing concerns over mounting civilian casualties in the conflict.\r\nBrad Coop… [+2415 chars]",
       "tags": [
-        "security_intelligence",
-        "ai_state_preemption"
+        "us_iran_war",
+        "national_security",
+        "middle_east",
+        "artificial_intelligence",
+        "iran"
       ],
       "publishedAtTs": 1773243104
     },
@@ -1325,7 +1354,9 @@
       "publishedAt": "2026-03-11T01:32:39Z",
       "content": "A group of Democrats in the United States Senate is demanding public hearings on the countrys war against Iran after receiving a series of classified briefings from officials in President Donald Trum… [+6231 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "national_security",
+        "middle_east",
         "iran",
         "congress"
       ],
@@ -1362,9 +1393,11 @@
       "publishedAt": "2026-03-11T14:42:33Z",
       "content": "Speculation has been mounting in the United States about whether American soldiers will be deployed on the ground in Iran as the US-Israeli war entered its 12th day on Wednesday.\r\nDemocratic Senator … [+10057 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "military"
+        "national_security",
+        "middle_east",
+        "military",
+        "us_iran_war",
+        "iran"
       ],
       "publishedAtTs": 1773240153
     },
@@ -1381,8 +1414,7 @@
       "publishedAt": "2026-03-11T01:08:25Z",
       "content": "One member of the Iranian womens football team who sought sanctuary in Australia has changed her mind after speaking with teammates, Home Affairs Minister Tony Burke informed the Australian parliamen… [+5602 chars]",
       "tags": [
-        "immigration",
-        "iran"
+        "off_topic"
       ],
       "publishedAtTs": 1773191305
     },
@@ -1399,8 +1431,7 @@
       "publishedAt": "2026-03-11T01:08:25Z",
       "content": "Australia has confirmed that two more members of the Iranian womens football team have received humanitarian visas, after five players were earlier granted asylum over concerns for their safety shoul… [+4694 chars]",
       "tags": [
-        "immigration",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1773191305
     },
@@ -1417,9 +1448,11 @@
       "publishedAt": "2026-03-11T11:38:04Z",
       "content": "In eastern Tehran, a resident named Sepehr keeps the front door of his apartment unlocked. It is a grim, calculated routine, allowing his family to sprint to an underground car park the moment the bo… [+5913 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "israel",
+        "iran"
       ],
       "publishedAtTs": 1773229084
     },
@@ -1436,8 +1469,9 @@
       "publishedAt": "2026-03-11T03:07:15Z",
       "content": "North Korea has announced its support for Irans appointment of Mojtaba Khamenei as the countrys supreme leader and again denounced the illegal attack by the United States and Israel on Iran, state me… [+2590 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773198435
     },
@@ -1454,9 +1488,11 @@
       "publishedAt": "2026-03-11T04:06:19Z",
       "content": "Qatars minister of state for foreign affairs has called for a de-escalation in hostilities across the Middle East and urged Iran and the US to return to the negotiation table for a mediated solution.… [+2596 chars]",
       "tags": [
-        "foreign_policy",
         "middle_east",
-        "iran"
+        "statements",
+        "us_iran_war",
+        "iran",
+        "national_security"
       ],
       "publishedAtTs": 1773201979
     },
@@ -1473,9 +1509,11 @@
       "publishedAt": "2026-03-11T07:04:35Z",
       "content": "Iran has fired missiles and drones at targets across the Gulf, including a United States base in Kuwait, in what it called its 37th wave of attacks on day 12 of the US-Israel war on Iran. The attacks… [+2937 chars]",
       "tags": [
-        "iran",
-        "foreign_policy",
-        "security_intelligence"
+        "national_security",
+        "middle_east",
+        "security_incidents",
+        "us_iran_war",
+        "iran"
       ],
       "publishedAtTs": 1773212675
     },
@@ -1492,9 +1530,11 @@
       "publishedAt": "2026-03-11T10:06:02Z",
       "content": "For years, Irans leaders believed time was on their side.\r\nAfter the United States withdrew from the 2015 nuclear agreement, known as the Joint Comprehensive Plan of Action (JCPOA), Tehran effectivel… [+6557 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
         "iran",
-        "nuclear_policy"
+        "us_iran_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773223562
     },
@@ -1511,8 +1551,8 @@
       "publishedAt": "2026-03-11T14:36:01Z",
       "content": "Sudans civil war will soon enter its fourth year, with no end in sight. The conflict has drawn in other regional actors, who support and sustain the war by backing Sudans belligerents. This risks pre… [+5679 chars]",
       "tags": [
-        "foreign_policy",
-        "middle_east"
+        "africa",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773239761
     },
@@ -1529,9 +1569,11 @@
       "publishedAt": "2026-03-11T13:05:20Z",
       "content": "Within hours of the United States-Israeli attacks on Iran, US assets in Iraqs Kurdistan region came under retaliatory attacks from Tehran-backed groups, dragging the country into the conflict that ha… [+8260 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east"
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "security_incidents",
+        "iran"
       ],
       "publishedAtTs": 1773234320
     },
@@ -1548,8 +1590,8 @@
       "publishedAt": "2026-03-11T14:01:00Z",
       "content": "Iran's sport minister has ruled out participating in the men's football World Cup co-hosted by the US this summer.\r\n\"Considering that ‌this corrupt regime has assassinated our leader, under no circum… [+2743 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "statements"
       ],
       "publishedAtTs": 1773237660
     },
@@ -1566,8 +1608,7 @@
       "publishedAt": "2026-03-11T16:15:39Z",
       "content": "Iran are not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth Ahmad Donyamali.\r\nThe team are scheduled to play three group matches in the tournament… [+1163 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "off_topic"
       ],
       "publishedAtTs": 1773245739
     },
@@ -1584,8 +1625,8 @@
       "publishedAt": "2026-03-11T07:46:33Z",
       "content": "US President Donald Trump has said Iran are \"welcome\" to take part in this summer's World Cup despite the countries being at war, according to Fifa president Gianni Infantino.\r\nPosting on Instagram, … [+1017 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773215193
     },
@@ -1602,8 +1643,7 @@
       "publishedAt": "2026-03-11T16:19:37Z",
       "content": "Secretary of State Marco Rubio was pictured wearing a pair of $145 Florsheim shoes gifted to him by President Donald Trump, which appeared too big for his feet. (Image: Getty Images)\r\nSecretary of St… [+4167 chars]",
       "tags": [
-        "personal_family",
-        "cabinet"
+        "trump"
       ],
       "publishedAtTs": 1773245977
     },
@@ -1620,10 +1660,11 @@
       "publishedAt": "2026-03-11T17:07:17Z",
       "content": "A U.S. military investigation determined in its preliminary findings that the United States conducted an attack on an Iranian elementary school that killed at least 175 people, most of them children,… [+4822 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "military"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "security_incidents",
+        "iran"
       ],
       "publishedAtTs": 1773248837
     },
@@ -1640,9 +1681,11 @@
       "publishedAt": "2026-03-11T22:00:00Z",
       "content": "In the last few days, President Donald Trump has said that the U.S-Israel war on Iran will end soon, after oil prices jumped and the growing regional conflict continued to shake markets. After a wave… [+46226 chars]",
       "tags": [
-        "foreign_policy",
-        "ai_state_preemption",
-        "security_intelligence"
+        "national_security",
+        "us_iran_war",
+        "middle_east",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1773266400
     },
@@ -1659,8 +1702,7 @@
       "publishedAt": "2026-03-11T14:30:03Z",
       "content": "Former First Lady Jill Biden will publish her memoir, View from the East Wing, on June 2, in which she she will give her reflections on her husband Joe Biden‘s decision, after much pressure, to withd… [+1293 chars]",
       "tags": [
-        "personal_family",
-        "elections_politics"
+        "off_topic"
       ],
       "publishedAtTs": 1773239403
     }

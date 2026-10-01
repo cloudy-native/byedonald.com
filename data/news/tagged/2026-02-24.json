@@ -15,8 +15,9 @@
       "publishedAt": "2026-02-24T18:38:18Z",
       "content": "Now, Trump has declared that those shipments will stop. Cut off from its main source of crude oil, Cuba finds itself exposed, a circumstance that the US president wants to take advantage of as he dec… [+2809 chars]",
       "tags": [
-        "foreign_policy",
-        "sanctions"
+        "sanctions",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771958298
     },
@@ -33,8 +34,7 @@
       "publishedAt": "2026-02-24T23:10:50Z",
       "content": "On Monday, President Donald Trump told reporters that his State of the Union speech on Tuesday night would be “a long speech, because we have so much to talk about.” It’s scheduled to start at 9 p.m.… [+4695 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771974650
     },
@@ -51,8 +51,7 @@
       "publishedAt": "2026-02-24T15:35:42Z",
       "content": "Mortgage rates dipped below a key threshold this week. That could be a boon for Donald Trump's affordability push, but it's not necessarily for the reason the president wants. \r\nThe average rate on t… [+1769 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "economy_finance"
       ],
       "publishedAtTs": 1771947342
     },
@@ -69,10 +68,7 @@
       "publishedAt": "2026-02-24T09:42:54Z",
       "content": "Trump to deliver first State of the Union address of his second term, what's next for Mexico after killing of cartel leader, NPR investigation finds DOJ withheld some Epstein files related to Trump.",
       "tags": [
-        "elections_politics",
-        "foreign_policy",
-        "legal_justice",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771926174
     },
@@ -89,9 +85,10 @@
       "publishedAt": "2026-02-24T12:19:03Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7552 chars]",
       "tags": [
-        "legal_justice",
+        "federal_agencies",
         "doj_actions",
-        "trump"
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1771935543
     },
@@ -108,9 +105,11 @@
       "publishedAt": "2026-02-24T20:26:53Z",
       "content": "Defense Secretary Pete Hegseth will terminate Anthropic's $200 million contract with the military by Friday unless the artificial intelligence lab agrees to loosening its safety standards.\r\nThe threa… [+1973 chars]",
       "tags": [
-        "ai_state_preemption",
-        "legal_justice",
-        "security_intelligence"
+        "artificial_intelligence",
+        "cabinet",
+        "technology_regulation",
+        "security_intelligence",
+        "government_administration"
       ],
       "publishedAtTs": 1771964813
     },
@@ -127,8 +126,7 @@
       "publishedAt": "2026-02-24T23:00:00Z",
       "content": "An embattled President Trump will deliver his State of the Union on Tuesday night, telling Americans a story of a successful presidency, even as many have grown skeptical of his agenda.\r\nThe speech c… [+4143 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
+        "trump",
         "leadership"
       ],
       "publishedAtTs": 1771974000
@@ -145,10 +143,7 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5839x3284+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F2d%2F6bd984314dfd9135553b4f779c8e%2Fgettyimages-2261286036.jpg",
       "publishedAt": "2026-02-24T20:42:16Z",
       "content": "After President Trump snubbed the U.S. women's Olympic hockey team, some of its fans were quick to respond. Among them, Flavor Flav, the erstwhile member of the pioneering rap group Public Enemy and … [+2920 chars]",
-      "tags": [
-        "elections_politics",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1771965736
     },
     {
@@ -164,6 +159,7 @@
       "publishedAt": "2026-02-24T06:29:28Z",
       "content": "PARIS France's spat with the U.S. ambassador to Paris took another turn Tuesday with the French foreign minister saying the top U.S. diplomat in France must respond to a summons and won't have access… [+2125 chars]",
       "tags": [
+        "europe",
         "foreign_policy"
       ],
       "publishedAtTs": 1771914568
@@ -181,8 +177,7 @@
       "publishedAt": "2026-02-24T20:50:39Z",
       "content": "Foreign aid has long been a way for the United States and China to gain soft power and influenceproviding public services in low-income countries that help them tackle poverty and disease, and engagi… [+8306 chars]",
       "tags": [
-        "foreign_policy",
-        "china"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771966239
     },
@@ -200,8 +195,7 @@
       "content": "Late last month, President Trump held a Cabinet meeting at the White House. Sitting at a long, mahogany table, surrounded by his administration's top officials, he broached the subject of housing.\r\n\"… [+19585 chars]",
       "tags": [
         "housing",
-        "policy_legislation",
-        "economy_finance"
+        "prices"
       ],
       "publishedAtTs": 1771932600
     },
@@ -218,8 +212,7 @@
       "publishedAt": "2026-02-24T13:28:50Z",
       "content": "David Ellison and Paramount Skydance just revised their bid for Warner Bros. Discovery.Jeff Bottari/Zuffa LLC; Dania Maxwell / Los Angeles Times via Getty Images\r\n<ul><li>Paramount has revised its bi… [+3499 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771939730
     },
@@ -236,8 +229,7 @@
       "publishedAt": "2026-02-24T16:08:17Z",
       "content": "By Jan Wolfe\r\nFeb 24 (Reuters) - President Donald Trump, who has excoriated the U.S. Supreme Court's decision striking down his sweeping tariffs, is expected to come face-to-face with at least some o… [+5268 chars]",
       "tags": [
-        "legal_justice",
-        "supreme_court"
+        "trump"
       ],
       "publishedAtTs": 1771949297
     },
@@ -254,9 +246,9 @@
       "publishedAt": "2026-02-24T02:52:33Z",
       "content": "Hundreds of Christian leaders and scholars nationwide are denouncing President Donald Trumps administration and urging more active resistance among the faithful to the injustices and anti-democratic … [+7308 chars]",
       "tags": [
-        "social_issues",
-        "civil_rights",
-        "religious_freedom"
+        "statements",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1771901553
     },
@@ -272,9 +264,7 @@
       "urlToImage": null,
       "publishedAt": "2026-02-24T18:32:26Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [
-        "legal_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1771957946
     },
     {
@@ -289,10 +279,7 @@
       "urlToImage": "https://s.yimg.com/os/en/la_times_articles_853/708fe216cacd13e1aa4174b4ed1d81c5",
       "publishedAt": "2026-02-24T01:10:31Z",
       "content": "U.S. President Trump speaks during a news briefing in theWhite House on Jan. 20, 2026. (Kevin Dietsch / Getty Images)\r\nAs Paramount moved Monday to sweeten its bid for Warner Bros. Discovery, a high-… [+8647 chars]",
-      "tags": [
-        "elections_politics",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771895431
     },
     {
@@ -308,9 +295,7 @@
       "publishedAt": "2026-02-24T10:09:13Z",
       "content": "WASHINGTON What a difference a year can make.When President Donald Trump greeted Supreme Court Justice John Roberts last year at his first joint session of Congress, it was all warmth and good vibes.… [+5734 chars]",
       "tags": [
-        "legal_justice",
-        "trade_negotiations_truces",
-        "tariff_impact_economy"
+        "trump"
       ],
       "publishedAtTs": 1771927753
     },
@@ -326,10 +311,7 @@
       "urlToImage": "https://s.yimg.com/os/en/video.dailybeast.com/55dbaa51381423f9d5cab0a27ba6efbd",
       "publishedAt": "2026-02-24T20:48:39Z",
       "content": "Former FBI Deputy Director Dan Bongino melted down on his show over a Daily Beast article that he felt mocked Defense Secretary Pete Hegseths manhood. Initially responding to criticism of FBI Directo… [+583 chars]",
-      "tags": [
-        "personal_activities",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771966119
     },
     {
@@ -345,8 +327,7 @@
       "publishedAt": "2026-02-24T16:30:21Z",
       "content": "A stablecoin logo displayed on a smartphone. - McDonnell // Shutterstock\r\nIf youve ever sent money through Western Union, paid with a Visa card while traveling, or waited days for an electronic payme… [+11086 chars]",
       "tags": [
-        "cryptocurrency",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771950621
     },
@@ -363,8 +344,10 @@
       "publishedAt": "2026-02-24T20:03:21Z",
       "content": "Depending on who you ask, immigration is either President Donald Trump's greatest accomplishment or his most significant failing since returning to office in January 2025.\r\nIn an ABC News/Washington … [+4134 chars]",
       "tags": [
-        "elections_politics",
-        "immigration"
+        "polling",
+        "immigration",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1771963401
     },
@@ -381,8 +364,10 @@
       "publishedAt": "2026-02-24T00:27:23Z",
       "content": "Hours after the U.S. military dropped more than a dozen heavy bunker-busting bombs and Tomahawk missiles on three of Iran's major nuclear facilities in June, President Donald Trump declared the opera… [+5167 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
         "iran",
+        "us_iran_war",
         "nuclear_policy"
       ],
       "publishedAtTs": 1771892843
@@ -400,9 +385,11 @@
       "publishedAt": "2026-02-24T01:16:57Z",
       "content": "Maryland is suing the Trump administration to stop the construction of an immigration detention facility in the state, according to a complaint filed Monday.\r\nMaryland Attorney General Anthony Brown … [+2757 chars]",
       "tags": [
-        "mass_deportation_operation",
+        "civil_litigation",
+        "lawsuits",
         "ice_controversies_resistance",
-        "immigration"
+        "immigration",
+        "legal_justice"
       ],
       "publishedAtTs": 1771895817
     },
@@ -419,10 +406,7 @@
       "publishedAt": "2026-02-24T18:32:06Z",
       "content": "Erika Kirk, the widow of conservative activist Charlie Kirk, will attend Trump's State of the Union address as a guest, according to the White House.\r\nThe president will use Kirk's attendance to say … [+654 chars]",
       "tags": [
-        "elections_politics",
-        "2024_presidential",
-        "immigration",
-        "economy_finance"
+        "trump"
       ],
       "publishedAtTs": 1771957926
     },
@@ -439,8 +423,7 @@
       "publishedAt": "2026-02-24T23:53:04Z",
       "content": "<ul><li>Trump denies reports of top general advising against striking Iran\r\n</li><li>Trump to tout economy as voters sour on inflation, tariffs\r\n</li><li>Democrats hold 'Peoples State of the Union' a… [+4173 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771977184
     },
@@ -457,10 +440,9 @@
       "publishedAt": "2026-02-24T11:19:45Z",
       "content": "When President Donald Trump delivers the first State of the Union address of his second term Tuesday night -- it will be a chance to make the case for his sweeping policy goals directly to millions o… [+6350 chars]",
       "tags": [
+        "trump",
         "elections_politics",
-        "2026_midterms",
-        "policy_legislation",
-        "foreign_policy"
+        "leadership"
       ],
       "publishedAtTs": 1771931985
     },
@@ -477,9 +459,10 @@
       "publishedAt": "2026-02-24T10:18:57Z",
       "content": "LONDON -- Ukrainian President Volodymyr Zelenskyy sat almost a year ago in the Oval Office, listening with his arms crossed as President Donald Trump and Vice President JD Vance castigated him.\r\nThat… [+10545 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
         "ukraine",
-        "russia"
+        "interstate_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771928337
     },
@@ -496,9 +479,7 @@
       "publishedAt": "2026-02-24T13:50:15Z",
       "content": "President Donald Trump is set to give the first State of the Union address of his second term on Tuesday amid a backdrop of looming midterm elections and lingering questions about the economy, immigr… [+7197 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771941015
     },
@@ -514,10 +495,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/d47b7a7d-a84a-413f-bed4-1a3383fdc5f2/260224_abc_social_bus_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-24T23:26:33Z",
       "content": "<ul><li>Trump denies reports of top general advising against striking Iran\r\n</li><li>Trump to tout economy as voters sour on inflation, tariffs\r\n</li><li>Democrats hold 'Peoples State of the Union' a… [+4173 chars]",
-      "tags": [
-        "foreign_policy",
-        "mexico"
-      ],
+      "tags": [],
       "publishedAtTs": 1771975593
     },
     {
@@ -532,9 +510,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4a394af1-47c5-42ea-b222-044f73f4959d/260224_abcnl_6p_punch_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-24T23:53:51Z",
       "content": "<ul><li>Trump denies reports of top general advising against striking Iran\r\n</li><li>Trump to tout economy as voters sour on inflation, tariffs\r\n</li><li>Democrats hold 'Peoples State of the Union' a… [+4173 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771977231
     },
     {
@@ -550,8 +526,7 @@
       "publishedAt": "2026-02-24T02:06:00Z",
       "content": "<ul><li>Russia cripples Ukraines energy system in the midst of a brutal winter\r\n</li><li>The fallout from the BAFTAs racial slur controversy\r\n</li><li>Nancy Guthrie suspect showed up to home before s… [+4477 chars]",
       "tags": [
-        "crisis_emergency",
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1771898760
     },
@@ -619,9 +594,7 @@
       "publishedAt": "2026-02-24T06:12:43Z",
       "content": "<ul><li>Russia cripples Ukraines energy system in the midst of a brutal winter\r\n</li><li>The fallout from the BAFTAs racial slur controversy\r\n</li><li>Nancy Guthrie suspect showed up to home before s… [+4477 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1771913563
     },
@@ -638,9 +611,10 @@
       "publishedAt": "2026-02-24T13:10:28Z",
       "content": "WASHINGTON -- U.S. military forces boarded a third sanctioned oil tanker in the Indian Ocean after tracking it from the Caribbean Sea in an effort to target illicit oil connected to Venezuela, the Pe… [+1465 chars]",
       "tags": [
-        "foreign_policy",
-        "sanctions",
-        "trade"
+        "national_security",
+        "energy",
+        "security_intelligence",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771938628
     },
@@ -657,8 +631,7 @@
       "publishedAt": "2026-02-24T14:42:57Z",
       "content": "<ul><li>Millions dig out after record-breaking blizzard slams Northeast\r\n</li><li>More snow headed toward Northeast\r\n</li><li>Americans told to shelter in place in Mexico following cartel boss killin… [+4404 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1771944177
     },
@@ -726,8 +699,10 @@
       "publishedAt": "2026-02-24T21:27:39Z",
       "content": "House Minority Whip Katherine Clark told ABC News she will not attend President Donald Trump's State of the Union address on Tuesday night, making her the highest-ranking House Democrat to skip the e… [+2027 chars]",
       "tags": [
-        "elections_politics",
-        "leadership"
+        "congress",
+        "democratic_party",
+        "leadership",
+        "trump"
       ],
       "publishedAtTs": 1771968459
     },
@@ -744,9 +719,7 @@
       "publishedAt": "2026-02-24T09:26:09Z",
       "content": "LONDON -- Ukrainian President Volodymyr Zelenskyy marked the fourth anniversary of Russia's full-scale invasion of the country on Tuesday, telling compatriots in a statement, \"We have defended our in… [+2739 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1771925169
     },
@@ -763,8 +736,9 @@
       "publishedAt": "2026-02-24T20:20:19Z",
       "content": "The Trump administrations foreign policies toward Europe, including tariffs and talks of taking over Greenland, have helped fuel calls among European leaders for greater independence from U.S.-based … [+2759 chars]",
       "tags": [
+        "national_security",
+        "europe",
         "foreign_policy",
-        "trade",
         "security_intelligence"
       ],
       "publishedAtTs": 1771964419
@@ -782,7 +756,7 @@
       "publishedAt": "2026-02-24T22:20:58Z",
       "content": "Meta is moving forward with stablecoin payments across its apps, according to a report from CoinDesk. The company has issued requests for proposals to third-party providers and aims to launch the fea… [+4773 chars]",
       "tags": [
-        "cryptocurrency"
+        "off_topic"
       ],
       "publishedAtTs": 1771971658
     },
@@ -799,8 +773,11 @@
       "publishedAt": "2026-02-24T21:40:41Z",
       "content": "Defense Secretary and guy who would really like you to know that he lifts, Pete Hegseth, is apparently trying to posturemogg Anthropic CEO Dario Amodei into submission so the military can return to i… [+3431 chars]",
       "tags": [
-        "ai_state_preemption",
-        "security_intelligence"
+        "cabinet",
+        "artificial_intelligence",
+        "technology_regulation",
+        "security_intelligence",
+        "government_administration"
       ],
       "publishedAtTs": 1771969241
     },
@@ -817,9 +794,10 @@
       "publishedAt": "2026-02-24T11:00:00Z",
       "content": "Last Thursday, the White House tried to get President Trump to focus on the economic concerns driving the midterm elections. Instead, he issued a 10-to-15-day ultimatum to Iran, claimed that his wife… [+8414 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "campaign_events"
+        "elections_politics",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771930800
     },
@@ -836,8 +814,7 @@
       "publishedAt": "2026-02-24T20:02:43Z",
       "content": "By mid-afternoon, the gray, windowless corridors of the Harry S. Truman Building, headquarters of the State Department, feel less like the nerve center of the world’s most consequential foreign-polic… [+11699 chars]",
       "tags": [
-        "foreign_policy",
-        "government_administration"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771963363
     },
@@ -854,8 +831,8 @@
       "publishedAt": "2026-02-24T20:39:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Wh… [+9061 chars]",
       "tags": [
-        "elections_politics",
-        "trump"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771965540
     },
@@ -872,10 +849,9 @@
       "publishedAt": "2026-02-24T00:03:25Z",
       "content": "When President Lyndon B. Johnson decided in 1965 to significantly increase the number of American troops to fight the growing war in Vietnam, he felt obligated to justify this major escalation to the… [+23280 chars]",
       "tags": [
+        "national_security",
         "foreign_policy",
-        "iran",
-        "media_communications",
-        "social_issues"
+        "media_communications"
       ],
       "publishedAtTs": 1771891405
     },
@@ -892,8 +868,7 @@
       "publishedAt": "2026-02-24T11:57:09Z",
       "content": "Apple yesterday announced plans to start manufacturing the Mac mini in the US and has now shared more details of the initiative, alongside photos and video footage.\r\nApple CEO Tim Cook said the compa… [+2393 chars]",
       "tags": [
-        "economy_finance",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1771934229
     },
@@ -910,8 +885,7 @@
       "publishedAt": "2026-02-24T21:31:24Z",
       "content": "Houston, we have some production. Apple announced Tuesday that it will be making its Mac Mini desktop computer in the US for the first time, shifting some manufacturing from its Asian plants, and wil… [+3086 chars]",
       "tags": [
-        "automotive",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1771968684
     },
@@ -928,7 +902,9 @@
       "publishedAt": "2026-02-24T00:00:00Z",
       "content": "On 5 February, the planet entered an even more precarious era of escalating nuclear risks. The expiration of a strategic-arms reduction agreement, the New START treaty, between the United States and … [+3158 chars]",
       "tags": [
+        "arms_control",
         "nuclear_policy",
+        "national_security",
         "foreign_policy",
         "security_intelligence"
       ],
@@ -947,9 +923,8 @@
       "publishedAt": "2026-02-24T00:00:00Z",
       "content": "The US army regularly performs simulations for dealing with various weapons of mass destruction. This exercise took place in Morocco last May.Credit: Abdel Majid Bziouat/AFP/Getty \r\nEarlier this mont… [+5124 chars]",
       "tags": [
-        "nuclear_policy",
-        "climate_policy",
-        "security_intelligence"
+        "arms_control",
+        "nuclear_policy"
       ],
       "publishedAtTs": 1771891200
     },
@@ -965,9 +940,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/24093651/MixCollage-24-Feb-2026-09-35-AM-2074.jpg",
       "publishedAt": "2026-02-24T09:41:10Z",
       "content": "Both the U.S. men’s and women’s hockey teams won gold medals in Milan at this year’s winter Olympics, but the men’s team quickly opened a can of Trump-flavored backlash after winning. Kash Patel, the… [+1830 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771926070
     },
     {
@@ -983,8 +956,7 @@
       "publishedAt": "2026-02-24T15:54:03Z",
       "content": "From a consumer perspective, there are few things that portend a worse outcome than a company knowingly making its product worse in order to save a few bucks, and finding out that just as many custom… [+8301 chars]",
       "tags": [
-        "economy_finance",
-        "consumer_protection"
+        "off_topic"
       ],
       "publishedAtTs": 1771948443
     },
@@ -1001,7 +973,7 @@
       "publishedAt": "2026-02-24T11:30:38Z",
       "content": "A Yale Professors Investment Formula Says You Need More Stocks. See How It Works. James Choi’s research suggests most investors are too conservative with their asset allocation and he’s got the math … [+3836 chars]",
       "tags": [
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771932638
     },
@@ -1018,9 +990,7 @@
       "publishedAt": "2026-02-24T13:29:41Z",
       "content": "from the everything-is-very-stupid dept\r\nWe’ve noted repeatedly how Trump wants to scuttle Netflix’s proposed merger with Warner Brothers because his friend and key donor, billionaire Larry Ellison w… [+3902 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications",
-        "personal_business"
+        "trump"
       ],
       "publishedAtTs": 1771939781
     },
@@ -1036,10 +1006,7 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-02-24T23:06:41Z",
       "content": "from the lazy-Americans-stereotype-exists-for-a-reason dept\r\nThere’s not a single conservative left in the GOP. The ideals that were formerly considered “conservative” — small government, fiscal resp… [+7720 chars]",
-      "tags": [
-        "immigration",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1771974401
     },
     {
@@ -1054,9 +1021,7 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-02-24T04:00:55Z",
       "content": "from the about-face dept\r\nOne of the more perplexing questions in all of the coverage I’ve done on RFK Jr. has been whether or not Kennedy is some misguided true believer or if this is all some grift… [+3949 chars]",
-      "tags": [
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1771905655
     },
     {
@@ -1072,8 +1037,7 @@
       "publishedAt": "2026-02-24T21:02:18Z",
       "content": "from the gargantuan-ego dept\r\nWe’ve explained in detail how Larry Ellison is trying to scuttle Netflix’s planned merger with Warner Brothers because he wants to buy CNN and HBO, and, as he’s doing wi… [+4586 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1771966938
     },
@@ -1090,9 +1054,10 @@
       "publishedAt": "2026-02-24T18:58:28Z",
       "content": "from the if-not-rogue-then-why-rogue-shaped dept\r\nChecks and balances. That’s the mantra. That’s what makes America great. That’s the system we deployed to prevent being just another iteration of the… [+6747 chars]",
       "tags": [
-        "law_enforcement",
+        "ice_controversies_resistance",
         "immigration",
-        "civil_rights"
+        "federal_agencies",
+        "legal_justice"
       ],
       "publishedAtTs": 1771959508
     },
@@ -1109,9 +1074,10 @@
       "publishedAt": "2026-02-24T22:21:08Z",
       "content": "Donald Trump at a White House press briefing on February 20, 2026, in Washington, DC. | Kevin Dietsch/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that helps you stay informe… [+2680 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration",
-        "trump"
+        "federal_agencies",
+        "doj_actions",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1771971668
     },
@@ -1129,8 +1095,7 @@
       "content": "Tax season starts early this year. Or at least it should for you, because this one is a doozy. Thanks to the One Big Beautiful Bill Act (OBBBA), which Congress passed in 2025, there are some signific… [+6746 chars]",
       "tags": [
         "taxes",
-        "policy_legislation",
-        "technology_regulation"
+        "economy_finance"
       ],
       "publishedAtTs": 1771975831
     },
@@ -1147,7 +1112,6 @@
       "publishedAt": "2026-02-24T18:28:33Z",
       "content": "After partying their butts off at E11EVEN in Miami just hours ago, the United States men's hockey team is already on their way to Washington, D.C. to link up with President Donald Trumpahead of Tuesd… [+2396 chars]",
       "tags": [
-        "personal_activities",
         "trump"
       ],
       "publishedAtTs": 1771957713
@@ -1165,7 +1129,7 @@
       "publishedAt": "2026-02-24T14:28:09Z",
       "content": "Team USAs mens hockey team took a spin through Miami on their own personal victory lap Monday night after clinching the gold at the Olympic Winter Games Milano Cortina 2026.\r\nCheck out the clip -- th… [+1220 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1771943289
     },
@@ -1182,8 +1146,7 @@
       "publishedAt": "2026-02-24T20:00:00Z",
       "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nAmid slumping approval ratings and a partial government… [+2038 chars]",
       "tags": [
-        "elections_politics",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771963200
     },
@@ -1199,10 +1162,7 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/DESK_S31E024_022326_MW_0005-1.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-02-24T08:15:06Z",
       "content": "Jon Stewart took aim at Kash Patel on the latest episode of The Daily Show, mocking the FBI Director for joining the Team USA men’s hockey team after their big Olympics win. \r\n“This country is in suc… [+3082 chars]",
-      "tags": [
-        "personal_activities",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771920906
     },
     {
@@ -1218,8 +1178,7 @@
       "publishedAt": "2026-02-24T08:13:06Z",
       "content": "The womens ice hockey team of the United States has declined an invitation to President Donald Trumps State of the Union address, US media reported, after he joked he would be impeached if he did not… [+1450 chars]",
       "tags": [
-        "elections_politics",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1771920786
     },
@@ -1237,8 +1196,9 @@
       "content": "New tariffs on imported goods announced by United States President Donald Trump have come into effect, days after the countrys Supreme Court struck down most of his previous tariff regime.\r\nWashingto… [+2786 chars]",
       "tags": [
         "trade",
-        "liberation_day_tariffs",
-        "legal_justice"
+        "trump",
+        "economy_finance",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771930568
     },
@@ -1255,9 +1215,11 @@
       "publishedAt": "2026-02-24T16:32:37Z",
       "content": "The White House has insisted that last years strikes against Iran destroyed the countrys nuclear programme despite a recent claim by a senior US official that Tehran is a week away from having bombma… [+3354 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
         "iran",
-        "nuclear_policy"
+        "middle_east",
+        "nuclear_policy",
+        "statements"
       ],
       "publishedAtTs": 1771950757
     },
@@ -1274,9 +1236,11 @@
       "publishedAt": "2026-02-24T01:41:30Z",
       "content": "United States President Donald Trump has lashed out at media reports stating that General Dan Caine, chairman of the Joint Chiefs of Staff, warned him of potential risks of attacking Iran, including … [+3402 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
         "iran",
-        "security_intelligence"
+        "us_iran_war",
+        "trump"
       ],
       "publishedAtTs": 1771897290
     },
@@ -1293,9 +1257,8 @@
       "publishedAt": "2026-02-24T01:54:24Z",
       "content": "Washington, DC United States President Donald Trump is set to deliver the first annual State of the Union address of his second term, a traditionally soaring speech where presidents make the case for… [+11542 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "policy_legislation"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771898064
     },
@@ -1312,9 +1275,7 @@
       "publishedAt": "2026-02-24T23:00:25Z",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nThe US president is expected to use the primetime platform to push his agenda and bolster support before the midterms.",
       "tags": [
-        "foreign_policy",
-        "economy_finance",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1771974025
     },
@@ -1331,9 +1292,11 @@
       "publishedAt": "2026-02-24T05:08:34Z",
       "content": "FedEx has sued the United States government to obtain a refund of money the logistics giant paid for tariffs imposed by President Donald Trump, just days after the US Supreme Court struck down the le… [+2779 chars]",
       "tags": [
+        "civil_litigation",
+        "lawsuits",
         "trade",
-        "tariff_impact_economy",
-        "legal_justice"
+        "legal_justice",
+        "economy_finance"
       ],
       "publishedAtTs": 1771909714
     },
@@ -1350,8 +1313,7 @@
       "publishedAt": "2026-02-24T19:37:12Z",
       "content": "Warner Bros Discovery (WBD) says it is reviewing a new takeover offer from Paramount Skydance, but it continues to recommend a competing proposal from Netflix to its shareholders in the meantime.\r\nWa… [+4660 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1771961832
     },
@@ -1368,8 +1330,11 @@
       "publishedAt": "2026-02-24T14:15:44Z",
       "content": "Last week, American diplomats and their Iranian counterparts sat down in Geneva for yet another round of talks mediated by Oman. The outcome seemed unclear. While the Iranians said good progress had … [+5874 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
+        "iran",
         "foreign_policy",
-        "iran"
+        "security_intelligence"
       ],
       "publishedAtTs": 1771942544
     },
@@ -1386,8 +1351,7 @@
       "publishedAt": "2026-02-24T22:37:43Z",
       "content": "Mexicos President Claudia Sheinbaum has warned she could take possible legal action following comments from right-wing tech billionaire Elon Musk, accusing her of ties to cartels.\r\nAt her morning new… [+4750 chars]",
       "tags": [
-        "foreign_policy",
-        "mexico"
+        "off_topic"
       ],
       "publishedAtTs": 1771972663
     },
@@ -1404,6 +1368,7 @@
       "publishedAt": "2026-02-24T06:54:09Z",
       "content": "France has banned United States Ambassador Charles Kushner from meeting French government ministers, after he failed to attend a meeting at the Ministry for Europe and Foreign Affairs in Paris to exp… [+3423 chars]",
       "tags": [
+        "europe",
         "foreign_policy"
       ],
       "publishedAtTs": 1771916049
@@ -1421,10 +1386,7 @@
       "publishedAt": "2026-02-24T20:47:13Z",
       "content": "Trumps State of the Union preview: foreign policy, immigration, tariffs, and the influence of Project 2025.As US President Donald Trump prepares to deliver his State of the Union address, we look at … [+774 chars]",
       "tags": [
-        "foreign_policy",
-        "immigration",
-        "policy_legislation",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1771966033
     },
@@ -1441,8 +1403,7 @@
       "publishedAt": "2026-02-24T13:04:05Z",
       "content": "British politician Peter Mandelson has been released on bail after detectives questioned him for hours over the alleged leaking of sensitive government information to the late convicted paedophile, J… [+6358 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771938245
     },
@@ -1459,8 +1420,7 @@
       "publishedAt": "2026-02-24T07:14:39Z",
       "content": "The government of Panama has seized control of two ports on either end of the Panama Canal from a Hong Kong conglomerate following a recent ruling by the countrys Supreme Court.\r\nHong Kongs CK Hutchi… [+1942 chars]",
       "tags": [
-        "foreign_policy",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1771917279
     },
@@ -1477,8 +1437,8 @@
       "publishedAt": "2026-02-24T17:54:20Z",
       "content": "After controversial comments by the US ambassador to Israel suggesting it has the right to take over much of the Middle East, the countrys main opposition leader said he agrees with Israeli expansion… [+2001 chars]",
       "tags": [
-        "foreign_policy",
-        "middle_east"
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771955660
     },
@@ -1495,9 +1455,9 @@
       "publishedAt": "2026-02-24T22:01:50Z",
       "content": "The United States has announced it will soon provide in-person passport services at an illegal Israeli settlement in the occupied West Bank.\r\nThe US Embassy in Jerusalem said it would start providing… [+2467 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
         "israel",
-        "middle_east"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771970510
     },
@@ -1514,9 +1474,7 @@
       "publishedAt": "2026-02-24T14:49:24Z",
       "content": "Four years after Russias full-scale invasion of Ukraine, the devastation wrought by the Kremlins drones, infantry, missiles and armour continues to be matched by economic destruction. This is a cost … [+6602 chars]",
       "tags": [
-        "russia",
-        "sanctions",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771944564
     },
@@ -1533,9 +1491,7 @@
       "publishedAt": "2026-02-24T15:38:47Z",
       "content": "Lebanons army blamed Israel for carrying out an attack near an observation post it is installing in the southern border area and commanded its forces to fire back.\r\nThe military said the attack occur… [+2896 chars]",
       "tags": [
-        "foreign_policy",
-        "israel",
-        "middle_east"
+        "off_topic"
       ],
       "publishedAtTs": 1771947527
     },
@@ -1552,9 +1508,7 @@
       "publishedAt": "2026-02-24T22:24:13Z",
       "content": "Ukrainian President Volodymyr Zelenskyy has praised Ukrainians for withstanding four years of Russian attacks with immense courage, saying Moscow has failed to break their spirit or win the war it st… [+5969 chars]",
       "tags": [
-        "russia",
-        "ukraine",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771971853
     },
@@ -1571,9 +1525,7 @@
       "publishedAt": "2026-02-24T06:13:27Z",
       "content": "Kyiv, Ukraine Hennady Kolesnik never expected the full-scale Russian invasion to last this long.\r\nThese are the worst and longest years of my life, the 71-year-old retired welder told Al Jazeera four… [+5472 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine",
-        "russia"
+        "off_topic"
       ],
       "publishedAtTs": 1771913607
     },
@@ -1590,8 +1542,7 @@
       "publishedAt": "2026-02-24T16:13:51Z",
       "content": "Tehran, Iran The Iranian government has emphasised that protesting students must adhere to the theocratic establishments red lines as violent clashes took place inside universities for a fourth day.\r… [+5381 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
+        "middle_east",
         "protests"
       ],
       "publishedAtTs": 1771949631
@@ -1609,9 +1560,7 @@
       "publishedAt": "2026-02-24T09:15:39Z",
       "content": "In the early hours of February 24, 2022, Russian President Vladimir Putin appeared on Russian state television to announce a special military operation against Ukraine.\r\nA full-scale invasion of Ukra… [+8783 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1771924539
     },
@@ -1628,8 +1577,7 @@
       "publishedAt": "2026-02-24T20:31:36Z",
       "content": "Join me inside the State of the Union\r\nIts time for another State of the Union address from President Donald Trump. (Please excuse my over-the-top enthusiasm.) If youve taken a high school government… [+8054 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party"
+        "trump"
       ],
       "publishedAtTs": 1771965096
     },
@@ -1646,7 +1594,7 @@
       "publishedAt": "2026-02-24T16:52:36Z",
       "content": "The stunning arrest of the former British ambassador to Washington Peter Mandelson will produce a blast radius in the UK that may be even bigger than Jeffrey Epsteins. If you are drowned by the volum… [+7386 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771951956
     },
@@ -1663,8 +1611,7 @@
       "publishedAt": "2026-02-24T11:00:35Z",
       "content": "First Lady Melania Trump’s “inappropriate” fashion choice at the high-profile annual White House Governors Dinner she hosted alongside President Donald Trump quickly sparked intense backlash online.\r… [+10221 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771930835
     },
@@ -1681,8 +1628,7 @@
       "publishedAt": "2026-02-24T08:12:11Z",
       "content": "What would normally have been a celebratory visit has instead sparked a nationwide debate over politics and patriotism, as Team USA women’s hockey stars reportedly declined a White House invitation f… [+10005 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771920731
     },
@@ -1716,8 +1662,7 @@
       "publishedAt": "2026-02-24T14:05:11Z",
       "content": "Team USA hockey hero Jack Hughes addressed the controversy surrounding the women’s hockey team’s decision to decline President Donald Trump’s invitation to the White House for his State of the Union … [+11256 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771941911
     },
@@ -1734,9 +1679,11 @@
       "publishedAt": "2026-02-24T14:05:00Z",
       "content": "Almost a year after Kilmar Abrego Garcia was first targeted by the U.S. government as part of its violent mass deportation campaign, the Trump administration is still not done punishing him.\r\nThe 30-… [+16958 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "legal_justice",
-        "immigration"
+        "criminal_cases",
+        "immigration",
+        "personal_legal",
+        "ice_controversies_resistance",
+        "legal_justice"
       ],
       "publishedAtTs": 1771941900
     },
@@ -1753,9 +1700,8 @@
       "publishedAt": "2026-02-24T00:52:29Z",
       "content": "On Sunday, in the wake of a military operation to kill one of the countrys most infamous drug traffickers, clashes broke out across the Mexico, leaving dozens dead and producing shocking images of ro… [+5775 chars]",
       "tags": [
-        "foreign_policy",
-        "mexico",
-        "security_intelligence"
+        "latin_america",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771894349
     }

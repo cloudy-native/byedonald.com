@@ -14,7 +14,13 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/RFKjunior-1200x675.jpg",
       "publishedAt": "2026-01-05T21:55:39Z",
       "content": "The Trump administration’s war on vaccines has reached a dangerous new phase. Today, the White House enacted its plan to effectively remove several vaccines from the recommended childhood vaccination… [+6267 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "health",
+        "healthcare",
+        "health_science",
+        "trump"
+      ],
       "publishedAtTs": 1767650139
     },
     {
@@ -59,7 +65,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7d42/live/429d1a40-ea2f-11f0-bee8-cb37bc70a803.jpg",
       "publishedAt": "2026-01-05T17:07:51Z",
       "content": "US President Donald Trump's second term is being shaped by his foreign policy ambitions. \r\nHe's followed through on threats against Venezuela by capturing its president and his wife from their heavil… [+5270 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767632871
     },
     {
@@ -74,7 +84,11 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba5b/live/0e7126c0-ea5d-11f0-abe2-ab0fb32e3a9d.jpg",
       "publishedAt": "2026-01-05T18:02:12Z",
       "content": "On Monday morning, a handcuffed, jumpsuit-clad Nicholas Maduro stepped off a military helicopter in New York City, flanked by armed federal agents. \r\nThe Venezuelan president had spent the night in a… [+6647 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "legal_justice",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767636132
     },
     {
@@ -89,7 +103,9 @@
       "urlToImage": "https://i.insider.com/6954217e832e0ef1ead6f68b?width=1200&format=jpeg",
       "publishedAt": "2026-01-05T09:11:01Z",
       "content": "This is the first story in Business Insider's new series \"The Future of Capitalism.\" The series looks at ways Americans' confidence in capitalism has been eroding, and what related changes in our eco… [+16553 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance"
+      ],
       "publishedAtTs": 1767604261
     },
     {
@@ -104,7 +120,11 @@
       "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
       "publishedAt": "2026-01-05T09:48:26Z",
       "content": "Trump says the U.S. will run Venezuela for now after the capture of Nicolas Maduro, a look at South American country's uncertain future, Maduro and his wife to appear in court in New York Monday.",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767606506
     },
     {
@@ -119,7 +139,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x3483+0+323/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F0c%2F56bbef1f4058b6257054530435c1%2Fgettyimages-2254087013.jpg",
       "publishedAt": "2026-01-05T12:26:59Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5958 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767616019
     },
     {
@@ -149,7 +171,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2016x1134+0+189/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F26%2Ffa5b1eae4a77979beb78dba593ab%2Fmarilyn-vargas-by-karen-brown.jpg",
       "publishedAt": "2026-01-05T10:00:00Z",
       "content": "Hunger in America looks very different from the stereotype of malnourished children trying to survive a famine in a low-income country far away.\r\nIn the U.S., hunger is often much less obvious, but i… [+7778 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767607200
     },
     {
@@ -164,7 +188,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3240x1823+0+169/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Ff9%2F26b61829424fb3c2cad6dec03294%2Fgettyimages-2167203758.jpg",
       "publishedAt": "2026-01-05T17:13:25Z",
       "content": "Venezuela's Nicolás Maduro and his wife, politician and attorney Cilia Flores, made their first court appearance at a federal court in New York City Monday afternoon, when they both pleaded not guilt… [+2714 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767633205
     },
     {
@@ -179,7 +205,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5627x3165+0+121/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fd2%2Fe86078a4498b91006ca3283060bd%2Fgettyimages-2253947731.jpg",
       "publishedAt": "2026-01-05T18:43:37Z",
       "content": "Nicolás Maduro is being held in a New York City jail notorious for its high-profile inmates and dangerous conditions.\r\nThe Venezuelan president and his wife, Cilia Flores, were captured by the U.S. m… [+5857 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767638617
     },
     {
@@ -194,7 +222,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4624x2601+0+15/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F2d%2Fbdd67e3b41ca9927e3fe6e94cdcf%2Felyse-and-ronald-major.jpg",
       "publishedAt": "2026-01-05T10:00:00Z",
       "content": "NEW ORLEANS Dr. Elyse Stevens had a reputation for taking on complex medical cases, including people who'd been battling addiction for decades. Some were chronic-pain patients on high doses of opioid… [+12771 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767607200
     },
     {
@@ -209,7 +239,9 @@
       "urlToImage": "https://i.insider.com/695bc94264858d02d217b9c8?width=1200&format=jpeg",
       "publishedAt": "2026-01-05T19:23:04Z",
       "content": "Venezuelan President Nicolás Maduro and his wife, Cilia Flores appeared before a Manhattan federal judge on Monday.XNY/Star Max/GC Images\r\n<ul><li>Nicolás Maduro and his wife, Cilia Flores, appeared … [+5256 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767640984
     },
     {
@@ -239,7 +271,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/N1E4QW5.e8XBrJo1LDGBGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODE7Y2Y9d2VicA--/https://media.zenfs.com/en/pennlive_com_articles_353/f4876b34c3fb96df9517fa33707d222b",
       "publishedAt": "2026-01-05T10:00:47Z",
       "content": "When the United States swooped into Venezuela during its weekend raid that resulted in the capture of Nicolás Maduro, the elite Delta Force was leading the way.\r\nAnd when it comes to units leading th… [+1925 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "venezuela_intervention",
+        "foreign_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767607247
     },
     {
@@ -269,7 +306,13 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/66vh.lfdKgXPtPixQ5J3hg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/c33ec4a0334b56f337adc0a1472ab2ba",
       "publishedAt": "2026-01-05T01:30:08Z",
       "content": "ABOARD AIR FORCE ONE (AP) President Donald Trump on Sunday told reporters that U.S. officials have determined that Ukraine did not target a residence belonging to Russian President Vladimir Putin in … [+2564 chars]",
-      "tags": [],
+      "tags": [
+        "statements",
+        "national_security",
+        "ukraine",
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767576608
     },
     {
@@ -284,7 +327,12 @@
       "urlToImage": "https://media.zenfs.com/af/la_times_articles_853/091686a7b12c9dbb49aa18cbae455685",
       "publishedAt": "2026-01-05T11:00:00Z",
       "content": "By invading Venezuela, President Trump just lit Americas eternal exploding cigar.\r\nFor over 175 years ever since the United States conquered half of Mexico nearly every president has messed with Lati… [+7051 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "national_security",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767610800
     },
     {
@@ -299,7 +347,11 @@
       "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/d8a7497ed9076ed135da994d51cb570c",
       "publishedAt": "2026-01-05T15:05:38Z",
       "content": "FBI Director Kash Patel suffered through a series of embarrassing malfunctions as he appeared on Fox News to heap praise on the Trump administrations Venezuela operation. The conspiracy theorist and … [+432 chars]",
-      "tags": [],
+      "tags": [
+        "interviews",
+        "federal_agencies",
+        "media_communications"
+      ],
       "publishedAtTs": 1767625538
     },
     {
@@ -314,7 +366,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/7e423dbf631d30c24892779f059c1b8b",
       "publishedAt": "2026-01-05T17:13:11Z",
       "content": "WASHINGTON/HOUSTON, Jan 5 (Reuters) - The Trump administration did not consult with oil companies Exxon Mobil, ConocoPhillips, or Chevron Corp about Venezuela before or after U.S. forces captured the… [+983 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "venezuela_intervention",
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767633191
     },
     {
@@ -329,7 +386,11 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kCty8gNbF2SEuGZzCd13iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/silive_com_articles_573/0c3115cf8a7aa807e405ea6d8136cc3a",
       "publishedAt": "2026-01-05T17:27:33Z",
       "content": "A surprise contender with a very familiar name could throw a huge monkey wrench in Vice President JD Vances bid for the 2028 GOP nomination for president.\r\nThe Independent reported that President Don… [+1430 chars]",
-      "tags": [],
+      "tags": [
+        "2028_presidential",
+        "republican_party",
+        "elections_politics"
+      ],
       "publishedAtTs": 1767634053
     },
     {
@@ -344,7 +405,9 @@
       "urlToImage": "https://media.zenfs.com/en/video.dailybeast.com/a4e8714bfe005457af7bfafb4f1dd62c",
       "publishedAt": "2026-01-05T14:24:52Z",
       "content": "Donald Trump has dunked on one of his key allies for not groveling hard enough to praise him in the aftermath of his shock invasion of Venezuela over the weekend. Sen. Lindsey Graham seemed eager to … [+210 chars]",
-      "tags": [],
+      "tags": [
+        "trump"
+      ],
       "publishedAtTs": 1767623092
     },
     {
@@ -359,7 +422,13 @@
       "urlToImage": "https://media.zenfs.com/en/the_new_republic_521/3b2bce17d45f39abaa143410790cda3b",
       "publishedAt": "2026-01-05T19:08:35Z",
       "content": "President Donald Trumps imperialist warpath may be about to destroy NATO.\r\nDanish Prime Minister Mette Frederiksen warned Monday that Trump was on course to uproot the 77-year-old defense alliance be… [+1564 chars]",
-      "tags": [],
+      "tags": [
+        "nato",
+        "national_security",
+        "europe",
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767640115
     },
     {
@@ -374,7 +443,13 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/6fe182989db2017504998095fe1e6583",
       "publishedAt": "2026-01-05T04:35:46Z",
       "content": "NEW DELHI, Jan 5 (Reuters) - The United States could raise tariffs on India if New Delhi doesn't meet Washington's demand to curb purchases of Russian oil, President Donald Trump told reporters aboar… [+1500 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "statements",
+        "trump",
+        "foreign_policy",
+        "economy_finance"
+      ],
       "publishedAtTs": 1767587746
     },
     {
@@ -389,7 +464,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K9tSqgSd30hsSrVXkcV0dw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/38e0e5e2e09ecc2ca018a83d27c3955c",
       "publishedAt": "2026-01-05T17:05:44Z",
       "content": "Defense Secretary Pete Hegseth announced that the Pentagon will censure Senator Mark Kelly after he participated in a video urging members of the military to reject illegal orders.\r\nThe move comes af… [+3437 chars]",
-      "tags": [],
+      "tags": [
+        "cabinet",
+        "government_administration",
+        "leadership",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767632744
     },
     {
@@ -404,7 +484,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/wlsNMexMDnh40h8fytLOiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/f9a48e21d9f53e0c3d81f55d6f55da8a",
       "publishedAt": "2026-01-05T19:17:28Z",
       "content": "Prediction markets like Polymarket and Kalshi have long garnered a reputation for facilitating cheating and insider trading allowing an athlete, for instance, to place a bet on a game they could then… [+3334 chars]",
-      "tags": [],
+      "tags": [
+        "ethics"
+      ],
       "publishedAtTs": 1767640648
     },
     {
@@ -419,7 +501,9 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/416cfadde412411562bf8d71962d2ba6",
       "publishedAt": "2026-01-05T13:26:20Z",
       "content": "Minnesota Gov. Tim Walz is reconsidering whether to seek reelection to a third term and is expected to announce his decision at a Monday news conference, two senior Democrats told CNN, as criticism o… [+1561 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767619580
     },
     {
@@ -434,7 +518,12 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/f6545832445a583662ca76c97dfa3d7f",
       "publishedAt": "2026-01-05T20:51:20Z",
       "content": "Jan 5 (Reuters) - The U.S. Department of Homeland Security on Monday said a Hilton hotel canceled reservations for Immigration and Customs Enforcement agents in Minneapolis, where the Trump administr… [+1286 chars]",
-      "tags": [],
+      "tags": [
+        "federal_agencies",
+        "immigration",
+        "ice_controversies_resistance",
+        "government_administration"
+      ],
       "publishedAtTs": 1767646280
     },
     {
@@ -449,7 +538,13 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y0BI8GTOZEDV_GIlhlMc3A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/59dda43177c496ce8463daae22b1b6b9",
       "publishedAt": "2026-01-05T17:47:02Z",
       "content": "NEW YORK (AP) The nation's health department starting Monday can resume sharing the personal data of certain Medicaid enrollees with deportation officials, according to a federal judge's ruling, in a… [+4131 chars]",
-      "tags": [],
+      "tags": [
+        "healthcare",
+        "immigration",
+        "federal_agencies",
+        "government_operations",
+        "legal_justice"
+      ],
       "publishedAtTs": 1767635222
     },
     {
@@ -464,7 +559,12 @@
       "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/a6de3e4f64fd543870bdd67d3e09f208",
       "publishedAt": "2026-01-05T07:38:54Z",
       "content": "Jan. 5 (UPI) -- Thirty-two Cubans were killed in the U.S. military operation in Venezuela on Saturday, according to Havana.\r\nA late Sunday statement from the office of Cuban President Miguel Diaz-Can… [+1872 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "security_incidents",
+        "foreign_policy",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767598734
     },
     {
@@ -479,7 +579,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.ox53nnCCCqqkls2p4NHPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2025-12/49c836c0-e5d8-11f0-bdfd-f147fe76b5d7",
       "publishedAt": "2026-01-05T19:09:47Z",
       "content": "WASHINGTON (AP) The U.S. took the unprecedented step Monday of dropping the number of vaccines it recommends for every child -- leaving other immunizations, such as flu shots, open to families to cho… [+1509 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "health",
+        "healthcare",
+        "health_science"
+      ],
       "publishedAtTs": 1767640187
     },
     {
@@ -494,7 +599,13 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oMpzzz8DywXmEg93z7EMlw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/16f8cd714e523acc01b3a37cc61aeb46",
       "publishedAt": "2026-01-05T15:02:57Z",
       "content": "WASHINGTON (AP) Defense Secretary Pete Hegseth on Monday announced that he is issuing a letter of censure to Democratic Sen. Mark Kelly of Arizona over the lawmakers participation in a video that cal… [+4611 chars]",
-      "tags": [],
+      "tags": [
+        "cabinet",
+        "congress",
+        "government_administration",
+        "leadership",
+        "security_intelligence"
+      ],
       "publishedAtTs": 1767625377
     },
     {
@@ -509,7 +620,10 @@
       "urlToImage": "https://media.zenfs.com/en/afp.com/9b81415a2309c93ba2dd7641d44decd3",
       "publishedAt": "2026-01-05T15:02:41Z",
       "content": "Iran will offer no leniency to \"rioters\", though the public has a right to demonstrate, the head of the country's judiciary said on Monday, following more than a week of sometimes-deadly protests.\r\nT… [+4511 chars]",
-      "tags": [],
+      "tags": [
+        "middle_east",
+        "protests"
+      ],
       "publishedAtTs": 1767625361
     },
     {
@@ -524,7 +638,9 @@
       "urlToImage": "https://media.zenfs.com/en/reuters.com/bd8bc9b411435af18337cb8770a24335",
       "publishedAt": "2026-01-05T18:00:46Z",
       "content": "By Dan Burns and Lucia Mutikani\r\nWASHINGTON, Jan 5 (Reuters) - U.S. manufacturing activity slumped to a 14-month low in December, with new orders contracting further and input costs grinding higher a… [+5427 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767636046
     },
     {
@@ -539,7 +655,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bOipMG92flg0h7uhT8QRmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/ap.org/0d259f481ce2df947e30d2447c17c2ec",
       "publishedAt": "2026-01-05T06:12:55Z",
       "content": "BAC NINH, Vietnam (AP) The transformation of Vietnam's Bac Ninh is evident in the signs above its shops and the spicy Chinese and Korean dishes on its tables.\r\nOnce known for its rice fields and the … [+7772 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767593575
     },
     {
@@ -554,7 +672,10 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ar_BAN05_FCDgcT1llwh4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/2014a0c6d106c42259f54081b0d02d8a",
       "publishedAt": "2026-01-05T18:25:53Z",
       "content": "WASHINGTON (AP) U.S. multinational corporations will be exempted from paying more corporate taxes overseas in a deal finalized by the Organization for Economic Cooperation and Development.\r\nThe OECD … [+2768 chars]",
-      "tags": [],
+      "tags": [
+        "taxes",
+        "economy_finance"
+      ],
       "publishedAtTs": 1767637553
     },
     {
@@ -569,7 +690,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/j3_CoYqI_pU3XTDHqRMIeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/f6d622a0-ea74-11f0-9f5b-f4951bda91c7",
       "publishedAt": "2026-01-05T20:51:10Z",
       "content": "Early Monday morning, Ed Yardeni, president of Yardeni Research, wrote in a note to clients that he was adding Venezuela \"to our list of unsettling developments\" that could factor into a volatile sta… [+3777 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767646270
     },
     {
@@ -584,7 +707,9 @@
       "urlToImage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/eba4716e66fdbd8d4ba1862157855ab6",
       "publishedAt": "2026-01-05T00:01:00Z",
       "content": "(Bloomberg) The number of people who die in Britain this year is set to exceed those born in the country, the Resolution Foundation said, in what the think tank described as a permanent shift that wi… [+5360 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767571260
     },
     {
@@ -599,7 +724,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kNE3BZF163m77Hdky1BwiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/28fb5563dc483f6c3ba3382e388d0655",
       "publishedAt": "2026-01-05T09:51:18Z",
       "content": "The new MAGA-coded anchor selected to transform CBS Evening News has instantly provoked an online backlash after appearing to throw shade at network legend Walter Cronkite.\r\nTony Dokoupil waded into … [+3769 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767606678
     },
     {
@@ -614,7 +741,13 @@
       "urlToImage": "https://media.zenfs.com/en/the_guardian_765/2cb679b0af3edcf78f80f8df6b77d006",
       "publishedAt": "2026-01-05T18:57:31Z",
       "content": "The US has faced widespread condemnation for a crime of aggression in Venezuela at an emergency meeting of the United Nations security council.\r\nBrazil, China, Colombia, Cuba, Eritrea, Mexico, Russia… [+5687 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "national_security",
+        "international_organizations",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767639451
     },
     {
@@ -629,7 +762,9 @@
       "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/6b0e24272a731431b9fa1cf1912da1fe",
       "publishedAt": "2026-01-05T10:42:17Z",
       "content": "It was the viral video seen round the world.\r\nThe 43-minute video, posted to YouTube the day after Christmas by a 23-year-old conservative content creator, claimed with little evidence Somali-run chi… [+12527 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767609737
     },
     {
@@ -644,7 +779,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2nCEM5X.Y8JC59.70In0yQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/south_china_morning_post_us_228/83e5d23747262eb4bd535e8b1b9d8095",
       "publishedAt": "2026-01-05T09:30:00Z",
       "content": "China and South Korea had a shared responsibility for regional stability and should make the \"correct strategic choice\", President Xi Jinping told his South Korean counterpart Lee Jae Myung on Monday… [+7290 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767605400
     },
     {
@@ -659,7 +796,13 @@
       "urlToImage": "https://compote.slate.com/images/475f99ed-1463-4c2a-bcd7-eed8f508f4b3.jpeg?crop=1558%2C1039%2Cx1%2Cy0&width=1560",
       "publishedAt": "2026-01-05T20:07:06Z",
       "content": "On Saturday morning, in what the Trump administration dubbed Operation Absolute Resolve, Delta Force commandos entered the compound of Venezuelan President Nicolás Maduro and extracted him from his o… [+7640 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "national_security",
+        "foreign_policy",
+        "security_intelligence",
+        "leadership"
+      ],
       "publishedAtTs": 1767643626
     },
     {
@@ -674,7 +817,10 @@
       "urlToImage": "https://i.abcnewsfe.com/a/a331c20a-53dd-4f16-98e6-caf0cc2e3fe4/donald-trump-3-gty-gmh-260105_1767624564791_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T21:51:27Z",
       "content": "Who is running Venezuela and how?\r\nConfusion continued Monday amid seemingly contradictory messages from President Donald Trump and Secretary of State Marco Rubio about how the U.S. is dealing with t… [+5124 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767649887
     },
     {
@@ -689,7 +835,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/66892a22-e95f-42e8-9af7-36a14b2beb4e/denmark_1767571747365_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T00:46:26Z",
       "content": "The prime minister of Denmark called on President Donald Trump to \"stop the threats\" of the U.S. annexing Greenland. It comes after public comments from Trump and the wife of top adviser Stephen Mill… [+2584 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767573986
     },
     {
@@ -704,7 +854,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/441212ac-54d2-4563-afb7-43cec13a9072/trump-04-gty-jt-260103_1767459988873_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T16:40:52Z",
       "content": "LONDON -- President Donald Trump implied on Sunday that Colombian President Gustavo Petro could face U.S. action soon, following the American attack on Venezuela that saw its president, Nicolas Madur… [+3289 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767631252
     },
     {
@@ -719,7 +873,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/01633132-b900-4d5f-875e-ea59e8214b74/maduro-sun-9-ht-gmh-260104_1767555231595_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T13:20:01Z",
       "content": "Ousted Venezuelan leader Nicolas Maduro and his wife, Cilia Flores, are scheduled to make their initial appearances on Monday in a federal court in Manhattan following their capture by U.S. forces in… [+2633 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "criminal_cases",
+        "legal_justice"
+      ],
       "publishedAtTs": 1767619201
     },
     {
@@ -749,7 +907,11 @@
       "urlToImage": "https://i.abcnewsfe.com/a/20c9d250-cd30-4d87-b25a-6f7310a0f6a0/jan-6-gty-er-260105_1767637775118_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T23:33:46Z",
       "content": "Ahead of the five-year anniversary of the Jan. 6, 2021, attack on the U.S. Capitol, Democrats on the House Judiciary Committee on Monday released two new reports examining the aftermath of the attack… [+3395 chars]",
-      "tags": [],
+      "tags": [
+        "congressional_investigations",
+        "congress",
+        "trump"
+      ],
       "publishedAtTs": 1767656026
     },
     {
@@ -764,7 +926,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/46a8b41e-1030-49b7-9166-8e84afec6d56/260104_wn_weather_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-05T03:35:41Z",
       "content": "<ul><li>Maduro jailed in NYC to face narco-terrorism charges after daring raid\r\n</li><li>U.S. plan to \"run\" Venezuela; Rubio hedges on who is in charge of country\r\n</li><li>Celebrations, protests, fe… [+4359 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767584141
     },
     {
@@ -779,7 +943,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/776344a5-545a-471b-8fab-bfa346807e6b/260105_gmafl_dog_bees_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-05T10:58:44Z",
       "content": "<ul><li>Maduro jailed in NYC to face narco-terrorism charges after daring raid\r\n</li><li>U.S. plan to \"run\" Venezuela; Rubio hedges on who is in charge of country\r\n</li><li>Celebrations, protests, fe… [+4359 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767610724
     },
     {
@@ -794,7 +960,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/f3990607-e152-4ca4-8cc0-83901de30355/washington-monument-gty-jef-260102_1767370169658_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-05T10:09:56Z",
       "content": "The curtain has risen on the year of the United States' 250th anniversary and the stage is set for a critical year for the future of politics in America.\r\nHere are six key stories in politics to watc… [+6861 chars]",
-      "tags": [],
+      "tags": [
+        "elections_politics"
+      ],
       "publishedAtTs": 1767607796
     },
     {
@@ -824,7 +992,10 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Goddard-Space-Flight-Center-1200x675.jpg",
       "publishedAt": "2026-01-05T21:25:21Z",
       "content": "The research library at NASAs Goddard Space Flight Center in Greenbelt, Maryland, houses tens of thousands of books, documents, journals, and mission datasets dating back to the Cold War space race. … [+4236 chars]",
-      "tags": [],
+      "tags": [
+        "space_policy",
+        "federal_agencies"
+      ],
       "publishedAtTs": 1767648321
     },
     {
@@ -839,7 +1010,9 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2025/12/chatgpt-on-smartphone-1200x675.jpg",
       "publishedAt": "2026-01-05T19:20:40Z",
       "content": "ChatGPT users around the world send billions of messages every week asking the chatbot for healthcare advice, OpenAI shared in a new report on Monday. Roughly 200 million of ChatGPT’s more than 800 m… [+3965 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767640840
     },
     {
@@ -854,7 +1027,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/eZO3lJlzhaK4xa-t5MinPTw2mzI=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_1_5_Spheres_of_Influence/original.jpg",
       "publishedAt": "2026-01-05T14:37:39Z",
       "content": "In George Orwell’s dystopian novel 1984, the world is divided into three spheres of influence: Oceania, Eurasia, and Eastasia, all perpetually at war. Sometimes two of the states form an alliance aga… [+8682 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767623859
     },
     {
@@ -869,7 +1046,10 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/yKPNe-k94-xj2tgkjfYLpHdmEVs=/0x43:2000x1085/1200x625/media/img/mt/2026/01/wartimeChatbots/original.png",
       "publishedAt": "2026-01-05T20:20:00Z",
       "content": "Hours before President Donald Trump announced Nicolás Maduro’s capture, on Saturday morning, people had questions for Grok, Elon Musk’s chatbot. Footage was circulating on X of explosions in Venezuel… [+8173 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767644400
     },
     {
@@ -884,7 +1064,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0428/live/4fd83570-ea78-11f0-b385-5f48925de19a.jpg",
       "publishedAt": "2026-01-05T21:41:36Z",
       "content": "Will GrantBBC's Mexico, Central America and Cuba correspondent\r\nCuban President Miguel Díaz-Canel addressed a rally in Havana in support of Venezuela, condemning Washington's operation\r\nAfter Venezue… [+6127 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767649296
     },
     {
@@ -899,7 +1081,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c3b3/live/a3567f70-ea7a-11f0-a187-6b933bf6257e.jpg",
       "publishedAt": "2026-01-05T22:33:18Z",
       "content": "Delcy Rodriguez was sworn in as the interim president of Venezuela on Monday \r\nDelcy Rodriguez has been sworn in as Venezuela's interim president in a parliamentary session that began with demands fo… [+3785 chars]",
-      "tags": [],
+      "tags": [
+        "leadership",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767652398
     },
     {
@@ -914,7 +1099,10 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f7af/live/3001b4a0-ea65-11f0-abe2-ab0fb32e3a9d.jpg",
       "publishedAt": "2026-01-05T19:37:39Z",
       "content": "James LandaleDiplomatic correspondent\r\nThe US seizing of Venezuela's leader has faced strong criticism from both America's friends and foes at an emergency meeting of the United Nations Security Coun… [+6423 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767641859
     },
     {
@@ -929,7 +1117,9 @@
       "urlToImage": "https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/Image%20of%20Jensen%20Huang%20by%20El%20editorial%20via%20Shutterstock.jpg",
       "publishedAt": "2026-01-05T13:02:52Z",
       "content": "Bottom Line Up Front:\r\n In a recent speech, Nvidia  CEO Jensen Huang outlined his plan for bringing manufacturing jobs back to America: force companies to build AI infrastructure in America. Huang sa… [+4501 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767618172
     },
     {
@@ -944,7 +1134,9 @@
       "urlToImage": "https://cdn.idiallo.com/images/assets/594/thumb.jpg",
       "publishedAt": "2026-01-05T13:44:59Z",
       "content": "When OpenAI released the first version of Sora, I was excited. For years, I'd had this short story sitting on my hard drive, something I'd written long ago and always dreamed of bringing to life as a… [+6286 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767620699
     },
     {
@@ -974,7 +1166,13 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/2e15a0727fbe5a0b/original/GettyImages-2235461271_resized.jpeg?m=1767645636.678&w=1200",
       "publishedAt": "2026-01-05T20:23:00Z",
       "content": "On Monday the top public health body in the U.S. slashed the number of vaccines recommended for children. The move came just weeks after President Donald Trump ordered health officials to align the c… [+2132 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "healthcare",
+        "health",
+        "health_science",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1767644580
     },
     {
@@ -989,7 +1187,9 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/7dbe760e69fa3f53/original/GettyImages2141945373wegovy.jpg?m=1767652823.12&w=1200",
       "publishedAt": "2026-01-05T22:00:00Z",
       "content": "A pill version of the blockbuster weight-loss medication Wegovy is rolling out in the U.S., and people are already actively navigating prescriptions.\r\nThe pills are made by Novo Nordisk, the company … [+4403 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767650400
     },
     {
@@ -1004,7 +1204,9 @@
       "urlToImage": "https://static.scientificamerican.com/dam/m/68600f0fb39618db/original/2601_SQ_MON_CHANGE_HABITS-1.png?m=1767109324.205&w=1200",
       "publishedAt": "2026-01-05T11:00:00Z",
       "content": "Kendra Pierre-Louis: For Scientific American’s Science Quickly, I’m Kendra Pierre-Louis, in for Rachel Feltman.\r\nHello and happy new year! I love the first few days of a new year. It evokes a feeling… [+17913 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767610800
     },
     {
@@ -1019,7 +1221,12 @@
       "urlToImage": "https://images.newscientist.com/wp-content/uploads/2025/12/17102129/SEI_278170550.jpg",
       "publishedAt": "2026-01-05T14:00:49Z",
       "content": "You might not have heard of leucovorin, but it is being championed by the US government to address rising rates of autism \r\nHannah Beier/Reuters\r\nThe US government made waves last year when it announ… [+4964 chars]",
-      "tags": [],
+      "tags": [
+        "medical_research",
+        "health",
+        "public_health",
+        "health_science"
+      ],
       "publishedAtTs": 1767621649
     },
     {
@@ -1034,7 +1241,11 @@
       "urlToImage": "https://media.pitchfork.com/photos/695c34f9e1c98e6f85b6852a/16:9/w_1280,c_limit/Bjork.jpeg",
       "publishedAt": "2026-01-05T22:17:10Z",
       "content": "Following the capture of Venezuelan president Nicolas Maduro by U.S. military forces on Saturday, January 3, President Donald J. Trump has revived his threats of annexing Greenland, currently a semi-… [+1674 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767651430
     },
     {
@@ -1064,7 +1275,9 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/greenland-unsplash-main.jpg",
       "publishedAt": "2026-01-05T15:32:35Z",
       "content": "Extraordinary circumstances, like the U.S. abducting Venezuelan President Nicolás Maduro over the weekend, kicking off international panic, confusion and an existential crisis that could see Cuba sta… [+6731 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767627155
     },
     {
@@ -1079,7 +1292,9 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/cuba-streets-unsplash-main.jpg",
       "publishedAt": "2026-01-05T12:45:19Z",
       "content": "In the wake of one of the more momentous weekends for U.S. foreign policy in the last several decades, it’s difficult to know where to even begin in analyzing the Trump administration’s brazen (and s… [+10263 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767617119
     },
     {
@@ -1094,7 +1309,10 @@
       "urlToImage": "",
       "publishedAt": "2026-01-05T15:45:02Z",
       "content": "×Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a\r\n membership to support the site and join the conversation, you can explore your option… [+341 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767627902
     },
     {
@@ -1109,7 +1327,10 @@
       "urlToImage": "",
       "publishedAt": "2026-01-05T14:31:27Z",
       "content": "×Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a\r\n membership to support the site and join the conversation, you can explore your option… [+341 chars]",
-      "tags": [],
+      "tags": [
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767623487
     },
     {
@@ -1124,7 +1345,9 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2029/12/trends.png",
       "publishedAt": "2026-01-05T11:30:54Z",
       "content": "11 Data Points and Discoveries That Stuck With Us in 2025: Squinting at a table, or a list, or a rough chart to divine meaning from it led to some memorable examples of process paying off: a few numb… [+3170 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767612654
     },
     {
@@ -1139,7 +1362,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7067x3975+0+211/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F81%2Fc478d774458795bd8194ecaf20e7%2Fgettyimages-2192352498.jpg",
       "publishedAt": "2026-01-05T19:07:57Z",
       "content": "On New Year's Eve 2024, journalist Jacob Soboroff was sitting around a campfire with a friend when he made an offhand comment that would come back to haunt him: The last thing he wanted to do in the … [+7286 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1767640077
     },
     {
@@ -1154,7 +1379,10 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/EjFt3WenaUTkZDqNxnkpRH-2000-80.jpg",
       "publishedAt": "2026-01-05T20:12:55Z",
       "content": "The Trump administration is following through on its threats against former NASA astronaut and current U.S. Senator Mark Kelly.\r\nIn late November, Kelly (D-Ariz.) and five other Congressmen who have … [+3416 chars]",
-      "tags": [],
+      "tags": [
+        "government_administration",
+        "trump"
+      ],
       "publishedAtTs": 1767643975
     },
     {
@@ -1169,7 +1397,11 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-05T23:55:32Z",
       "content": "from the they-were-legal dept\r\nThis story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license.\r\nIt was a chilly afternoon in January, just a week after President Donal… [+8087 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "trump",
+        "social_issues"
+      ],
       "publishedAtTs": 1767657332
     },
     {
@@ -1184,7 +1416,10 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-05T17:31:00Z",
       "content": "from the there-is-no-rule-of-law,-only-transactions dept\r\nIf you needed proof that Trump’s “war on drugs” is pure theatrical bullshit designed to justify geopolitical adventurism and the transactiona… [+10585 chars]",
-      "tags": [],
+      "tags": [
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767634260
     },
     {
@@ -1199,7 +1434,10 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-05T19:03:52Z",
       "content": "from the pretty-please dept\r\nBy now it’s pretty clear that right wing, billionaire, Trump ally Larry Ellison bought CBS to convert what was left of the news division into lazy agitprop that blows smo… [+3180 chars]",
-      "tags": [],
+      "tags": [
+        "media_criticism",
+        "media_communications"
+      ],
       "publishedAtTs": 1767639832
     },
     {
@@ -1214,7 +1452,13 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-05T20:28:02Z",
       "content": "from the administration-seeing-if-it-can-get-NO-RAGRETS-tattoo-removed dept\r\nIt’s hilarious that a single Salvadoran migrant has made the Trump administration look so pitiful. During one of its first… [+5716 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "federal_agencies",
+        "lawsuits",
+        "ice_controversies_resistance",
+        "legal_justice"
+      ],
       "publishedAtTs": 1767644882
     },
     {
@@ -1229,7 +1473,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2253933200.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-01-05T16:35:00Z",
       "content": "Venezuelans living in Panama celebrate with Venezuelan national flags and a mask depicting US President Donald Trump, in Panama City on January 3, 2026, after US forces captured Venezuelan leader Nic… [+13445 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767630900
     },
     {
@@ -1244,7 +1492,13 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2252759486.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-01-05T22:06:03Z",
       "content": "Health Secretary Robert F. Kennedy Jr. speaks during an event at the White House on December 19, 2025. | Alex Wong/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that helps you… [+2484 chars]",
-      "tags": [],
+      "tags": [
+        "public_health",
+        "health",
+        "healthcare",
+        "health_science",
+        "trump"
+      ],
       "publishedAtTs": 1767650763
     },
     {
@@ -1259,7 +1513,10 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254194499.jpg?quality=90&strip=all&crop=0%2C15.012014874092%2C100%2C69.975970251816&w=1200",
       "publishedAt": "2026-01-05T20:46:56Z",
       "content": "Federal agents escort Nicolás Maduro into an armored car en route to a federal courthouse in Manhattan on January 5, 2026. | XNY/Star Max/GC Images via Getty Images\r\n\n\nThe fallout from the US capture… [+7473 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767646016
     },
     {
@@ -1274,7 +1531,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-1790166507.jpg?quality=90&strip=all&crop=0%2C10.654292878952%2C100%2C78.691414242097&w=1200",
       "publishedAt": "2026-01-05T02:09:12Z",
       "content": "The Petróleos de Venezuela SA (PDVSA) Bajo Grande Refinery at the Paraguana Refinery Complex on Lake Maracaibo in Venezuela. | Gaby Oraa/Bloomberg via Getty Images\r\n\n\nThis must be about the oil, righ… [+5468 chars]",
-      "tags": [],
+      "tags": [
+        "venezuela_intervention",
+        "energy",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767578952
     },
     {
@@ -1289,7 +1550,10 @@
       "urlToImage": "https://imagez.tmz.com/image/c7/16by9/2026/01/05/c75ba0578aca43778eba808ff1211595_xl.png",
       "publishedAt": "2026-01-05T13:38:39Z",
       "content": "Colombia could be next up on Donald Trump's hit list.\r\nThe president floated the idea Sunday while speaking to a group of reporters aboard Air Force One ... after referring to Colombian President Gus… [+1537 chars]",
-      "tags": [],
+      "tags": [
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1767620319
     },
     {
@@ -1304,7 +1568,11 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/01/GettyImages-1812279289.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-01-05T15:28:00Z",
       "content": "Björk shared a note of solidarity with the people of Greenland after Donald Trump and his admin revived threats of taking over the country following the capture ofVenezuelan president Nicolas Maduro.… [+2293 chars]",
-      "tags": [],
+      "tags": [
+        "greenland_acquisition",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1767626880
     }
   ]

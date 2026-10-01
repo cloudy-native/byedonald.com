@@ -15,8 +15,8 @@
       "publishedAt": "2026-02-25T10:30:42Z",
       "content": "Nuclear power was once an environmental boogeyman, but not anymore. Somehow, despite shedding its reputation for creating Blinky the three-eyed fish on the Simpsons, and despite convincing AOC to lik… [+4553 chars]",
       "tags": [
-        "energy",
-        "nuclear_policy"
+        "environment",
+        "energy"
       ],
       "publishedAtTs": 1772015442
     },
@@ -33,7 +33,8 @@
       "publishedAt": "2026-02-25T16:20:34Z",
       "content": "President Donald Trump gave the longest State of the Union address in American history last night, speaking for 107 minutes about the “roaring” U.S. economy, “crazy” Democrats, and “the scourge of il… [+3245 chars]",
       "tags": [
-        "off_topic"
+        "space_policy",
+        "trump"
       ],
       "publishedAtTs": 1772036434
     },
@@ -50,8 +51,7 @@
       "publishedAt": "2026-02-25T12:15:25Z",
       "content": "Denver Mayor Mike Johnston announced this week that the city will be imposing a moratorium on the development of new data centers.\r\nIf approved in an upcoming city council ordinance vote, the morator… [+5445 chars]",
       "tags": [
-        "regional_state",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1772021725
     },
@@ -68,8 +68,11 @@
       "publishedAt": "2026-02-25T18:40:33Z",
       "content": "Speaking to senators earlier today, Casey Means, a licensed physician, wellness influencer, and staunch ally of Robert F. Kennedy Jr., made her case to become the country’s next top doctor.\r\nOn Wedne… [+6336 chars]",
       "tags": [
-        "legal_justice",
-        "healthcare"
+        "appointments",
+        "personnel",
+        "congress",
+        "public_health",
+        "congressional_investigations"
       ],
       "publishedAtTs": 1772044833
     },
@@ -86,8 +89,7 @@
       "publishedAt": "2026-02-25T05:19:40Z",
       "content": "When Trump entered the room, he shook the hands of various lawmakers and then reached the justices in the front row. As is customary, Trump shook the hand of Roberts as he moved to the podium, but th… [+164 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_events"
+        "trump"
       ],
       "publishedAtTs": 1771996780
     },
@@ -104,8 +106,8 @@
       "publishedAt": "2026-02-25T10:40:47Z",
       "content": "The White House lists the \"wars\" as ones between: Israel and Hamas, Pakistan and India, Rwanda and the Democratic Republic of Congo (DRC), Thailand and Cambodia, Armenia and Azerbaijan, Egypt and Eth… [+27 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice"
+        "fact_checking",
+        "trump"
       ],
       "publishedAtTs": 1772016047
     },
@@ -122,8 +124,8 @@
       "publishedAt": "2026-02-25T04:49:33Z",
       "content": "Last month, he gave a national address from the White House where he struck similar themes and cited similar statistics but it hasn't convinced the public. The president and his aides appear to be ho… [+128 chars]",
       "tags": [
-        "elections_politics",
-        "trump"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771994973
     },
@@ -140,8 +142,7 @@
       "publishedAt": "2026-02-25T08:08:52Z",
       "content": "US President Donald Trump delivered his State of the Union address at the US Capitol, outlining his administration's accomplishments and his vision for the year ahead.\r\nDuring his wide-ranging speech… [+252 chars]",
       "tags": [
-        "immigration",
-        "economy_finance"
+        "trump"
       ],
       "publishedAtTs": 1772006932
     },
@@ -158,7 +159,7 @@
       "publishedAt": "2026-02-25T20:25:00Z",
       "content": "A decade ago, you may not have been able to name a single podcast (unless it was Serial). Now, if you're on social media or music streaming platforms, you're inundated with them. Because of their gro… [+1452 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1772051100
     },
@@ -175,8 +176,7 @@
       "publishedAt": "2026-02-25T00:24:06Z",
       "content": "President Trump's guests for his State of the Union address on Tuesday night include a Virginia teen at the center of a legal case involving parental rights and schooling, the U.S. men's hockey team … [+5327 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_events"
+        "trump"
       ],
       "publishedAtTs": 1771979046
     },
@@ -193,8 +193,7 @@
       "publishedAt": "2026-02-25T03:57:33Z",
       "content": "President Trump promised a long speech for his State of the Union address. On Tuesday night, he delivered.\r\nTuesday's address lasted more than an hour and 40 minutes, making it the longest speech bef… [+1122 chars]",
       "tags": [
-        "elections_politics",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771991853
     },
@@ -211,10 +210,7 @@
       "publishedAt": "2026-02-25T09:08:29Z",
       "content": "Only one president in U.S. history has gone before Congress during a State of the Union address and said that the state of the union was \"not good.\"\r\nIt wasn't President Trump on Tuesday.\r\nIt was Ger… [+6859 chars]",
       "tags": [
-        "elections_politics",
-        "policy_legislation",
-        "immigration",
-        "economy_finance"
+        "trump"
       ],
       "publishedAtTs": 1772010509
     },
@@ -231,9 +227,7 @@
       "publishedAt": "2026-02-25T10:00:00Z",
       "content": "Last month, Justin and Amy Miller packed their vehicles with three kids, two dogs, a pet bearded dragon, and whatever belongings they could fit, then drove 2,000 miles from Wisconsin to British Colum… [+8400 chars]",
       "tags": [
-        "immigration",
-        "healthcare",
-        "labor"
+        "canada"
       ],
       "publishedAtTs": 1772013600
     },
@@ -250,8 +244,11 @@
       "publishedAt": "2026-02-25T10:00:00Z",
       "content": "Consumers likely won't see cheaper prices at the grocery store or shopping mall, economists say, despite the Supreme Court striking down many of President Trump's tariffs.\r\nThere are a couple reasons… [+5189 chars]",
       "tags": [
-        "economy_finance",
-        "tariff_impact_economy"
+        "tariff_impact_economy",
+        "trade",
+        "prices",
+        "inflation",
+        "trump"
       ],
       "publishedAtTs": 1772013600
     },
@@ -268,8 +265,8 @@
       "publishedAt": "2026-02-25T09:40:11Z",
       "content": "PHILADELPHIA On a recent cold morning, Micah Gold-Markel helped his installation crew hoist new solar panels onto the roof of a two-story, red brick house. The installation was like many others his c… [+6405 chars]",
       "tags": [
-        "taxes",
-        "energy"
+        "energy",
+        "environment"
       ],
       "publishedAtTs": 1772012411
     },
@@ -286,10 +283,8 @@
       "publishedAt": "2026-02-25T06:07:40Z",
       "content": "DONALD TRUMP: Well, thank you very much, everybody. It's really an honor. Speaker Johnson, Vice President Vance, first lady of the United States. [Applause] Second lady of the United States. [Applaus… [+61414 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "policy_legislation",
-        "government_administration"
+        "statements",
+        "trump"
       ],
       "publishedAtTs": 1771999660
     },
@@ -306,8 +301,8 @@
       "publishedAt": "2026-02-25T04:01:00Z",
       "content": "The United States installed a record 57 gigawatt hours of new battery storage on its electric grids in 2025, a nearly 30% increase over the prior year that arrived even as the Trump administration cu… [+795 chars]",
       "tags": [
-        "energy",
-        "economy_finance"
+        "environment",
+        "energy"
       ],
       "publishedAtTs": 1771992060
     },
@@ -324,8 +319,7 @@
       "publishedAt": "2026-02-25T21:00:00Z",
       "content": "Brian Merchant, writing for Blood in the Machine, reports that people across the United States are dismantling and destroying Flock surveillance cameras, amid rising public anger that the license pla… [+965 chars]",
       "tags": [
-        "social_issues",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1772053200
     },
@@ -342,9 +336,9 @@
       "publishedAt": "2026-02-25T02:35:31Z",
       "content": "President Donald Trump gave his annual State of the Union speech before Congress.Nathan Howard/Getty Images\r\n<ul><li>President Donald Trump is giving his annual State of the Union address before Cong… [+2277 chars]",
       "tags": [
+        "trump",
         "economy_finance",
-        "policy_legislation",
-        "elections_politics"
+        "leadership"
       ],
       "publishedAtTs": 1771986931
     },
@@ -361,11 +355,8 @@
       "publishedAt": "2026-02-25T05:37:10Z",
       "content": "In a record-long State of the Union, President Donald Trump highlighted tax cuts, immigration policy, and tariffs, while sharply criticizing Democrats. Read the original article on Business Insider",
       "tags": [
-        "economy_finance",
-        "immigration",
-        "trade",
-        "policy_legislation",
-        "elections_politics"
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771997830
     },
@@ -382,8 +373,7 @@
       "publishedAt": "2026-02-25T04:04:30Z",
       "content": "TrumpKenny Holston-Pool/Getty Images\r\n<ul><li>President Donald Trump said he's told top tech companies they must pay more for electricity near data centers.</li><li>Trump made the announcement during… [+1858 chars]",
       "tags": [
-        "ai_state_preemption",
-        "energy"
+        "trump"
       ],
       "publishedAtTs": 1771992270
     },
@@ -401,9 +391,10 @@
       "content": "Kenny Holston/The New York Times/via REUTERS\r\n<ul><li>President Donald Trump touted tariffs and his economic agenda in his State of the Union address.</li><li>Trump calls the Supreme Court's decision… [+3087 chars]",
       "tags": [
         "trade",
+        "trump",
         "economy_finance",
-        "legal_justice",
-        "supreme_court"
+        "leadership",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771990354
     },
@@ -421,7 +412,7 @@
       "content": "President Donald Trump gave his annual State of the Union speech before Congress.Nathan Howard/Getty Images\r\n<ul><li>President Donald Trump wants data centers to supply their own electricity with pri… [+5924 chars]",
       "tags": [
         "energy",
-        "technology_regulation"
+        "trump"
       ],
       "publishedAtTs": 1772061321
     },
@@ -437,10 +428,7 @@
       "urlToImage": "https://i.insider.com/699f15ac50f42603b0f8df00?width=1200&format=jpeg",
       "publishedAt": "2026-02-25T16:09:46Z",
       "content": "Megan Hogan, Goldman Sachs' chief diversity officer, exited the firm in recent weeks to take a role with Morgan Stanley that's set to begin this spring, Business Insider has learned.Courtesy of Goldm… [+5482 chars]",
-      "tags": [
-        "social_issues",
-        "economy_finance"
-      ],
+      "tags": [],
       "publishedAtTs": 1772035786
     },
     {
@@ -456,8 +444,7 @@
       "publishedAt": "2026-02-25T05:19:34Z",
       "content": "After the speech, lawmakers and journalists flock to Statuary Hall, just feet from the House chamber.Bryan Metzger\r\n<ul><li>President Donald Trump delivered his State of the Union address on Tuesday … [+8635 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771996774
     },
@@ -474,10 +461,7 @@
       "publishedAt": "2026-02-25T11:02:01Z",
       "content": "An icebreaker makes a path for a cargo ship near Russia.AP Photo/Alexander Zemlianichenko\r\n<ul><li>NATO is falling behind in the race to build icebreakers, a top Norwegian military official said.</li… [+4355 chars]",
       "tags": [
-        "arctic",
-        "nato",
-        "russia",
-        "china"
+        "off_topic"
       ],
       "publishedAtTs": 1772017321
     },
@@ -493,9 +477,7 @@
       "urlToImage": "https://kotaku.com/app/uploads/2026/02/image-1.jpg",
       "publishedAt": "2026-02-25T20:30:44Z",
       "content": "President Trump gave his State of the Union speech to Congress last night. I skipped it and played video games instead as part of my ongoing 2026 resolution to practice more self-care. But pinhead sy… [+1971 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1772051444
     },
     {
@@ -511,9 +493,9 @@
       "publishedAt": "2026-02-25T03:43:11Z",
       "content": "Donald Trump-appointed Supreme Court Justice Amy Coney Barrett stared down the president as he railed against the Supreme Court ruling striking down his tariffs. Four justices were in attendance for … [+280 chars]",
       "tags": [
-        "legal_justice",
+        "supreme_court",
         "trump",
-        "supreme_court"
+        "legal_justice"
       ],
       "publishedAtTs": 1771990991
     },
@@ -530,9 +512,8 @@
       "publishedAt": "2026-02-25T11:05:59Z",
       "content": "While President Donald Trump was yelling at Democrats and berating the Supreme Court at his State of the Union address, members of his Republican party were getting trounced at the polls.\r\nThree Demo… [+2670 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party",
-        "campaign_events"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1772017559
     },
@@ -549,9 +530,7 @@
       "publishedAt": "2026-02-25T22:46:38Z",
       "content": "By Kanishka Singh\r\nWASHINGTON, Feb 25 (Reuters) - President Donald Trump said Wednesday that two Muslim Democratic U.S. Representatives, Ilhan Omar of Minnesota and Rashida Tlaib of Michigan, should … [+2815 chars]",
       "tags": [
-        "social_issues",
-        "civil_rights",
-        "political_endorsements"
+        "trump"
       ],
       "publishedAtTs": 1772059598
     },
@@ -568,9 +547,7 @@
       "publishedAt": "2026-02-25T08:15:30Z",
       "content": "Top Trump adviser Stephen Miller, widely credited with being the architect of the administrations cruel immigration policies, melted down on X at CNN reporter Kaitlan Collins following Tuesdays State… [+416 chars]",
       "tags": [
-        "immigration",
-        "media_communications",
-        "legal_justice"
+        "media_communications"
       ],
       "publishedAtTs": 1772007330
     },
@@ -587,8 +564,7 @@
       "publishedAt": "2026-02-25T03:15:41Z",
       "content": "President Trump laughed at some Democrats Tuesday during his State of the Union after Sen. Elizabeth Warren applauded his announcement that private sector employees will have access to federal retire… [+10 chars]",
       "tags": [
-        "elections_politics",
-        "policy_legislation"
+        "trump"
       ],
       "publishedAtTs": 1771989341
     },
@@ -605,8 +581,8 @@
       "publishedAt": "2026-02-25T03:40:37Z",
       "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics"
+        "ethics",
+        "trump"
       ],
       "publishedAtTs": 1771990837
     },
@@ -623,8 +599,8 @@
       "publishedAt": "2026-02-25T19:36:20Z",
       "content": "President Donald Trumps State of the Union address garnered a positive response from a group of Americans polled by CNN, though enthusiasm was lower than after his previous speeches.\r\nAccording to a … [+2132 chars]",
       "tags": [
-        "elections_politics",
-        "polling"
+        "polling",
+        "trump"
       ],
       "publishedAtTs": 1772048180
     },
@@ -641,9 +617,7 @@
       "publishedAt": "2026-02-25T03:13:30Z",
       "content": "NEED TO KNOW\r\n<ul><li>President Donald Trump delivered his State of the Union address on Feb. 24, decrying the recent Supreme Court ruling against his tariff plan as \"very unfortunate\"\r\n</li><li>The … [+3900 chars]",
       "tags": [
-        "legal_justice",
-        "supreme_court",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771989210
     },
@@ -660,8 +634,8 @@
       "publishedAt": "2026-02-25T02:29:00Z",
       "content": "One of Donald Trumps own Supreme Court appointees has refused to show up to the presidents State of the Union address, days after striking down his signature economic policy.Conservative justice Neil… [+325 chars]",
       "tags": [
-        "legal_justice",
-        "supreme_court"
+        "supreme_court",
+        "trump"
       ],
       "publishedAtTs": 1771986540
     },
@@ -678,7 +652,7 @@
       "publishedAt": "2026-02-25T16:49:47Z",
       "content": "Australian detectives arrested two men Wednesday over the alleged kidnapping and murder of an elderly grandfather in a suspected case of mistaken identity.\r\nChris Baghsarian, 85, was taken from his h… [+3290 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1772038187
     },
@@ -695,8 +669,7 @@
       "publishedAt": "2026-02-25T11:26:44Z",
       "content": "The remarks made by Texas voter Sonya Bernhardt highlight the ongoing discussion about Jasmine Crocketts electability, which some say is rooted in racial and gender bias.\r\nA Texas voters tearful admi… [+3350 chars]",
       "tags": [
-        "social_issues",
-        "elections_politics"
+        "off_topic"
       ],
       "publishedAtTs": 1772018804
     },
@@ -713,8 +686,7 @@
       "publishedAt": "2026-02-25T15:05:55Z",
       "content": "How high will Netflix go? That used to be a question discussed all over Wall Street regarding the streaming giants stock price. But as of late, it has been the focus of a debate about whether the glo… [+7388 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1772031955
     },
@@ -731,8 +703,7 @@
       "publishedAt": "2026-02-25T10:45:00Z",
       "content": "The leader of Mexicos Jalisco New Generation Cartel had a lot of names. His formal name was Nemesio Rubén Oseguera Cervantes. That was often shortened to simply Nemesio Oseguera. But a lot of people … [+8995 chars]",
       "tags": [
-        "foreign_policy",
-        "mexico"
+        "off_topic"
       ],
       "publishedAtTs": 1772016300
     },
@@ -749,8 +720,8 @@
       "publishedAt": "2026-02-25T04:07:17Z",
       "content": "<ul><li>Men's Olympic hockey team gets shout out from Trump at SOTU address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 killed in … [+4394 chars]",
       "tags": [
-        "elections_politics",
-        "personal_activities"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771992437
     },
@@ -766,10 +737,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ae02c7d6-c879-4258-b2f9-4e4c2d3400c7/sotu-30-ap-gmh-260224._1771988847577_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-02-25T03:30:03Z",
       "content": "A Coast Guard rescue swimmer credited with saving 165 people during the deadly July 4 flooding in the Texas Hill Country was awarded the Legion of Merit for \"extraordinary heroism\" during President D… [+955 chars]",
-      "tags": [
-        "personal_activities",
-        "security_intelligence"
-      ],
+      "tags": [],
       "publishedAtTs": 1771990203
     },
     {
@@ -785,8 +753,11 @@
       "publishedAt": "2026-02-25T03:36:29Z",
       "content": "<ul><li>Men's Olympic hockey team gets shout out from Trump at SOTU address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 killed in … [+4394 chars]",
       "tags": [
+        "statements",
+        "trump",
         "policy_legislation",
-        "economy_finance"
+        "economy_finance",
+        "leadership"
       ],
       "publishedAtTs": 1771990589
     },
@@ -803,8 +774,11 @@
       "publishedAt": "2026-02-25T03:54:26Z",
       "content": "<ul><li>Men's Olympic hockey team gets shout out from Trump at SOTU address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 killed in … [+4394 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "statements",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771991666
     },
@@ -821,8 +795,11 @@
       "publishedAt": "2026-02-25T02:41:22Z",
       "content": "Editor's note: This story contains explicit language.\r\nThe Department of Justice appears to have withheld dozens of pages of witness notes and reports about an alleged victim of the late sex offender… [+8317 chars]",
       "tags": [
+        "federal_agencies",
+        "doj_actions",
+        "criminal_cases",
         "legal_justice",
-        "doj_actions"
+        "trump"
       ],
       "publishedAtTs": 1771987282
     },
@@ -839,8 +816,7 @@
       "publishedAt": "2026-02-25T03:01:42Z",
       "content": "<ul><li>Men's Olympic hockey team gets shout out from Trump at SOTU address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 killed in … [+4394 chars]",
       "tags": [
-        "personal_family",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1771988502
     },
@@ -857,8 +833,7 @@
       "publishedAt": "2026-02-25T02:43:14Z",
       "content": "<ul><li>Trump to defend first year back in office during State of the Union address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 ki… [+4476 chars]",
       "tags": [
-        "elections_politics",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1771987394
     },
@@ -875,8 +850,7 @@
       "publishedAt": "2026-02-25T03:57:19Z",
       "content": "<ul><li>Men's Olympic hockey team gets shout out from Trump at SOTU address\r\n</li><li>Millions dig out from blizzard that brought 3+ feet of snow to parts of Northeast\r\n</li><li>At least 4 killed in … [+4394 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1771991839
     },
@@ -893,8 +867,8 @@
       "publishedAt": "2026-02-25T10:51:26Z",
       "content": "KYIV, Ukraine -- A Ukrainian delegation is set to meet Thursday with American envoys in the run-up to another round of trilateral talks with Russia, Ukraine President Volodymyr Zelenskyy said.\r\nRuste… [+2725 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine"
+        "ukraine",
+        "foreign_policy"
       ],
       "publishedAtTs": 1772016686
     },
@@ -911,8 +885,8 @@
       "publishedAt": "2026-02-25T05:29:06Z",
       "content": "During his State of the Union address Tuesday, President Donald Trump awarded two Congressional Medals of Honor, the nation's highest decoration for valor in combat -- one for heroism from more than … [+2843 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "trump",
+        "security_intelligence"
       ],
       "publishedAtTs": 1771997346
     },
@@ -929,8 +903,8 @@
       "publishedAt": "2026-02-25T02:32:33Z",
       "content": "Just over a year into his second term, President Donald Trump is delivering the State of the Union address Tuesday, making his case for sweeping policy changes and executive actions that have come to… [+3183 chars]",
       "tags": [
-        "media_communications",
-        "fact_checking"
+        "fact_checking",
+        "trump"
       ],
       "publishedAtTs": 1771986753
     },
@@ -947,7 +921,11 @@
       "publishedAt": "2026-02-25T18:16:29Z",
       "content": "President Donald Trump rushed to enact new tariffs and vowed to preserve others after a recent Supreme Court ruling knocked out most of his levies.\r\nBusinesses and consumers now face a different set … [+4921 chars]",
       "tags": [
-        "tariff_impact_economy"
+        "trade",
+        "tariff_impact_economy",
+        "prices",
+        "inflation",
+        "trump"
       ],
       "publishedAtTs": 1772043389
     },
@@ -964,11 +942,11 @@
       "publishedAt": "2026-02-25T11:01:37Z",
       "content": "Midterms are traditionally a referendum on the president, and recent ABC News/Washington Post/Ipsos polling shows that President Donald Trump is a deeply unpopular president who faces negative rating… [+7063 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
         "polling",
         "republican_party",
-        "trump"
+        "elections_politics",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1772017297
     },
@@ -985,8 +963,7 @@
       "publishedAt": "2026-02-25T16:57:03Z",
       "content": "<ul><li>Trump 'didn't take a victory lap' at State of the Union: GOP congressman\r\n</li><li>Legal expert breaks down family dynamic in murder trial of Georgia father Colin Gray\r\n</li><li>Democratic, R… [+4477 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1772038623
     },
@@ -1088,7 +1065,7 @@
       "publishedAt": "2026-02-25T21:18:39Z",
       "content": "<ul><li>Guthries donate to National Center for Missing and Exploited Children\r\n</li><li>Trump's surgeon general pick testifies on Capitol Hill\r\n</li><li>Political panel breaks down Trump's message on… [+4530 chars]",
       "tags": [
-        "off_topic"
+        "health"
       ],
       "publishedAtTs": 1772054319
     },
@@ -1104,9 +1081,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c98bd132-4eee-4cdb-aea5-1c5821f890eb/260224_wn_benitez_blizzard_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-25T11:24:50Z",
       "content": "<ul><li>ABC News roundtable discusses Trump's State of the Union address\r\n</li><li>State of the Union: Medal of Honor awarded to 100-year-old veteran\r\n</li><li>Trump issues warning to Iran in SOTU am… [+4436 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1772018690
     },
     {
@@ -1121,9 +1096,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bce7b5fa-c786-4e37-a6d3-60a5ff5457e4/260225_gmafl_vet_caregiver_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-25T11:20:08Z",
       "content": "<ul><li>ABC News roundtable discusses Trump's State of the Union address\r\n</li><li>State of the Union: Medal of Honor awarded to 100-year-old veteran\r\n</li><li>Trump issues warning to Iran in SOTU am… [+4436 chars]",
-      "tags": [
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1772018408
     },
     {
@@ -1156,8 +1129,7 @@
       "publishedAt": "2026-02-25T20:46:25Z",
       "content": "The late sex offender Jeffrey Epstein appears to have successfully hidden a trove of potential evidence of his crimes from investigators for more than a decade, according to documents released this m… [+10990 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1772052385
     },
@@ -1191,8 +1163,7 @@
       "publishedAt": "2026-02-25T20:24:47Z",
       "content": "Kalshi has temporarily banned two people from betting on its platform, a video editor for MrBeast and a former gubernatorial candidate in California, over allegations of insider trading, according to… [+6177 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1772051087
     },
@@ -1209,7 +1180,7 @@
       "publishedAt": "2026-02-25T22:10:32Z",
       "content": "Global debt had its biggest annual increase last year since the pandemic, according to a report by The Institute of International Finance.\r\nTotal debt now sits at a record $348 trillion, driven by gl… [+3099 chars]",
       "tags": [
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1772057432
     },
@@ -1226,6 +1197,7 @@
       "publishedAt": "2026-02-25T13:30:00Z",
       "content": "All that’s left of T. J. Semmes Elementary School is the scattered slabs of the building’s brick foundation. The otherwise empty lot on the corner of Jourdan Avenue and North Rampart Street, in the L… [+9678 chars]",
       "tags": [
+        "civil_rights",
         "social_issues"
       ],
       "publishedAtTs": 1772026200
@@ -1243,8 +1215,7 @@
       "publishedAt": "2026-02-25T05:54:19Z",
       "content": "The longest State of the Union in modern history is now over. Donald Trump held court in the House of Representatives and said little of substance, but substance wasn’t the point. This year, he inten… [+5899 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771998859
     },
@@ -1261,7 +1232,7 @@
       "publishedAt": "2026-02-25T16:38:40Z",
       "content": "The aging history professorhis beard graying, his posture slouchingparks his 1997 Honda and walks to his office at Johns Hopkins. Along the way he passes two giant glass cubes that, for the last five… [+28389 chars]",
       "tags": [
-        "education"
+        "off_topic"
       ],
       "publishedAtTs": 1772037520
     },
@@ -1278,8 +1249,8 @@
       "publishedAt": "2026-02-25T19:05:17Z",
       "content": "by Michaela BramwellBuzzFeed\r\nBuzzFeed StaffHi, Im Michaela Bramwell, and I'm a Junior Staff Writer here at BuzzFeed, covering everything trending news, from your latest viral TikTok to the chaos of … [+16 chars]",
       "tags": [
-        "social_issues",
-        "personal_activities"
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1772046317
     },
@@ -1296,7 +1267,10 @@
       "publishedAt": "2026-02-25T12:00:00Z",
       "content": "Wellness influencer Casey Means, who left a medical residency to pursue alternative medicine, will appear today at a U.S. Senate confirmation hearing on her nomination for U.S. surgeon general. Her o… [+4506 chars]",
       "tags": [
+        "appointments",
         "personnel",
+        "congress",
+        "government_administration",
         "health_science"
       ],
       "publishedAtTs": 1772020800
@@ -1314,8 +1288,7 @@
       "publishedAt": "2026-02-25T22:15:00Z",
       "content": "U.S. president Donald Trump’s record-long State of the Union speech on Tuesday ranged over topics from immigration to the economy to military strikes on Iran to crime. But one pillar of his administr… [+3008 chars]",
       "tags": [
-        "elections_politics",
-        "healthcare"
+        "trump"
       ],
       "publishedAtTs": 1772057700
     },
@@ -1332,9 +1305,7 @@
       "publishedAt": "2026-02-25T13:44:56Z",
       "content": "The former general manager of L3Harris's cyber arm will spend the next seven years behind bars for selling trade secrets to Russia.\r\nPeter Williams, 39, was sentenced to 87 months in prison this week… [+4014 chars]",
       "tags": [
-        "security_intelligence",
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1772027096
     },
@@ -1350,9 +1321,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/02/hockeywomenmain.jpg",
       "publishedAt": "2026-02-25T12:46:13Z",
       "content": "Thanks to Team USA men’s hockey chugging beers with podcaster-turned-FBI director Kash Patel and laughing at sexist jokes from Trump after winning Olympic gold, the story of both the women’s and men’… [+1323 chars]",
-      "tags": [
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1772023573
     },
     {
@@ -1368,8 +1337,7 @@
       "publishedAt": "2026-02-25T02:17:23Z",
       "content": "To listen to Trump’s one-hour-and-47-minute State of the Union addressthe longest SOTU speech since they started recording lengthwas to live inside a country where everyone has a job, a house, a baby… [+6961 chars]",
       "tags": [
-        "elections_politics",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1771985843
     },
@@ -1386,8 +1354,7 @@
       "publishedAt": "2026-02-25T11:56:52Z",
       "content": "Even by the standards of congressional scandals and dalliances, the following story is decidedly on the salacious side. It involves not only an alleged (and supported by tons of evidence) affair betw… [+10507 chars]",
       "tags": [
-        "personal_family",
-        "congress"
+        "off_topic"
       ],
       "publishedAtTs": 1772020612
     },
@@ -1403,10 +1370,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/02/larry-summers-screenshot-main.jpg",
       "publishedAt": "2026-02-25T15:58:53Z",
       "content": "Much of the attention related to the ongoing fallout of the release of the Epstein files has understandably been on political figures such as Donald Trump (whose most damaging files may be mysterious… [+6392 chars]",
-      "tags": [
-        "personnel",
-        "government_administration"
-      ],
+      "tags": [],
       "publishedAtTs": 1772035133
     },
     {
@@ -1421,9 +1385,7 @@
       "urlToImage": null,
       "publishedAt": "2026-02-25T11:30:35Z",
       "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1772019035
     },
     {
@@ -1439,9 +1401,11 @@
       "publishedAt": "2026-02-25T04:00:25Z",
       "content": "from the hot-stove dept\r\nWay back in the ancient days of the year 2020, the world went through this pandemic thing called COVID-19. For those of you not old enough to remember such ancient history, i… [+6724 chars]",
       "tags": [
+        "public_health_emergency",
         "public_health",
-        "health_science",
-        "climate_policy"
+        "trump",
+        "crisis_emergency",
+        "health_science"
       ],
       "publishedAtTs": 1771992025
     },
@@ -1459,8 +1423,10 @@
       "content": "from the surveillance-creeps dept\r\nWell, we always knew it would come to this.\r\nIn a blow to the First Amendment and privacy, the Trump administration last week approved a U.S. Citizenship and Immigr… [+4677 chars]",
       "tags": [
         "immigration",
-        "personal_legal",
-        "media_communications"
+        "free_speech",
+        "social_media",
+        "federal_agencies",
+        "civil_rights"
       ],
       "publishedAtTs": 1772050374
     },
@@ -1477,8 +1443,7 @@
       "publishedAt": "2026-02-25T13:28:54Z",
       "content": "from the clearly-complicit dept\r\nI’ve long written about how the U.S. establishment press no longer genuinely serves the public interest. Years of consolidation at the hands of (usually) rich, white,… [+4471 chars]",
       "tags": [
-        "media_communications",
-        "press_relations"
+        "off_topic"
       ],
       "publishedAtTs": 1772026134
     },
@@ -1495,9 +1460,9 @@
       "publishedAt": "2026-02-25T14:33:24Z",
       "content": "People hold signs as they attend the \"People's State of the Union\" at the National Mall in Washington, DC, on February 24, 2026. A group of senators and representatives boycotted the State of the Uni… [+7250 chars]",
       "tags": [
-        "elections_politics",
         "democratic_party",
-        "congress"
+        "congress",
+        "leadership"
       ],
       "publishedAtTs": 1772030004
     },
@@ -1514,8 +1479,7 @@
       "publishedAt": "2026-02-25T22:58:06Z",
       "content": "President Donald Trump delivers the State of the Union address during a joint session of Congress in the House Chamber at the US Capitol on February 24, 2026. | Kenny Holston/Getty Images\r\n\n\nThis sto… [+2442 chars]",
       "tags": [
-        "elections_politics",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1772060286
     },
@@ -1532,8 +1496,8 @@
       "publishedAt": "2026-02-25T05:16:28Z",
       "content": "President Donald Trump delivers his State of the Union address during a Joint Session of Congress at the US Capitol on February 24, 2026, in Washington, DC. | Andrew Harnik/Getty Images\r\n\n\nDonald Tru… [+3813 chars]",
       "tags": [
-        "policy_legislation",
-        "immigration"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771996588
     },
@@ -1550,10 +1514,8 @@
       "publishedAt": "2026-02-25T03:56:13Z",
       "content": "Donald Trump turned his State of the Union into an all-out brawl Tuesday night as he attacked Democrats, calling them \"crazy\" and accusing them of cheating elections.\r\nTrump severely divided the room… [+1017 chars]",
       "tags": [
-        "elections_politics",
-        "political_endorsements",
-        "campaign_events",
-        "social_issues"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771991773
     },
@@ -1569,10 +1531,7 @@
       "urlToImage": "https://imagez.tmz.com/image/11/16by9/2026/02/25/114f4d002eca47e9b1752767d696058a_xl.jpg",
       "publishedAt": "2026-02-25T19:52:03Z",
       "content": "That locker room phone call heard round the internet? Jeremy Swayman says Team USA would do it differently.\r\nThe Boston Bruins goalie is speaking out about the viral moment that followed Sunday's gol… [+1786 chars]",
-      "tags": [
-        "personal_family",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1772049123
     },
     {
@@ -1588,8 +1547,7 @@
       "publishedAt": "2026-02-25T13:41:44Z",
       "content": "Jimmy Kimmel pulled no punches against Donald Trump following the State of the Union address blasting what he called an angry speech from the president.\r\nKimmel -- who went live with his show towards… [+1102 chars]",
       "tags": [
-        "media_communications",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1772026904
     },
@@ -1606,8 +1564,7 @@
       "publishedAt": "2026-02-25T02:53:51Z",
       "content": "President Donald Trump just introduced the U.S. men's hockey team as his special guests at the State of the Union address on Tuesday -- showing the gold medal winners grinning from ear-to-ear.\r\nThey … [+2054 chars]",
       "tags": [
-        "elections_politics",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1771988031
     },
@@ -1624,9 +1581,7 @@
       "publishedAt": "2026-02-25T03:41:44Z",
       "content": "During the State of the Union on Tuesday night, President Donald Trump paid tribute to the late right-wing political advocate Charlie Kirk, who was publicly killed last year ... saying there should b… [+1198 chars]",
       "tags": [
-        "social_issues",
-        "legal_justice",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1771990904
     },
@@ -1642,9 +1597,7 @@
       "urlToImage": "https://imagez.tmz.com/image/ba/16by9/2026/02/25/bacfb380486f47ac82625aa88827dca6_xl.png",
       "publishedAt": "2026-02-25T17:32:22Z",
       "content": "While a good amount of the U.S. men's hockey team visited the White House following their gold medal win over Canada in the Winter Olympics, a handful of players like Jake Guentzel opted to pass on t… [+1566 chars]",
-      "tags": [
-        "personal_activities"
-      ],
+      "tags": [],
       "publishedAtTs": 1772040742
     },
     {
@@ -1660,8 +1613,7 @@
       "publishedAt": "2026-02-25T00:33:31Z",
       "content": "Ghislaine Maxwell is a real stinker in federal prison ... as a matter of fact, she smells like \"armpits,\" according to one inmate who knows her well.\r\nThe female inmate -- who we confirmed was incarc… [+2161 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1771979611
     },
@@ -1678,7 +1630,10 @@
       "publishedAt": "2026-02-25T00:00:31Z",
       "content": "The United States Department of Justice has filed a lawsuit against the University of California at Los Angeles (UCLA), alleging that its administration turned a blind eye to and at times facilitated… [+5196 chars]",
       "tags": [
-        "legal_justice",
+        "lawsuits",
+        "federal_agencies",
+        "civil_litigation",
+        "doj_actions",
         "civil_rights"
       ],
       "publishedAtTs": 1771977631
@@ -1696,9 +1651,11 @@
       "publishedAt": "2026-02-25T16:54:09Z",
       "content": "The United States has issued a new wave of sanctions against Iran, targeting ships that it said are selling Iranian oil to help fund the countrys ballistic missile programme.\r\nThe penalties on Wednes… [+2022 chars]",
       "tags": [
+        "iran",
         "sanctions",
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1772038449
     }

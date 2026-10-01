@@ -15,9 +15,8 @@
       "publishedAt": "2026-09-15T11:00:00Z",
       "content": "In the spring of 2020, as a new and highly contagious virus spread throughout the country, the US came to a standstill. The economy shut down, cities emptied, and white-collar workers were sent home … [+4074 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "social_issues"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1789470000
     },
@@ -34,9 +33,11 @@
       "publishedAt": "2026-09-15T00:23:42Z",
       "content": "The Supreme Court has rejected the Trump administrations bid to impose severe restrictions on mail-in voting just weeks ahead of the midterms.\r\nThe court, which was divided 7-2, with conservative jus… [+3664 chars]",
       "tags": [
-        "legal_justice",
         "voting_rights",
-        "elections_politics"
+        "supreme_court",
+        "elections_politics",
+        "legal_justice",
+        "trump"
       ],
       "publishedAtTs": 1789431822
     },
@@ -53,8 +54,10 @@
       "publishedAt": "2026-09-15T17:50:40Z",
       "content": "Kash Patel, director of the Federal Bureau of Investigation, told confused members of the Senate judiciary committee on Thursday that new FBI hiring standards are aimed at protecting victims of besti… [+3534 chars]",
       "tags": [
-        "law_enforcement",
-        "ethics"
+        "federal_agencies",
+        "government_operations",
+        "government_administration",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789494640
     },
@@ -71,8 +74,7 @@
       "publishedAt": "2026-09-15T23:34:25Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\n61 percent of likely voters surveyed said they oppose the construction of AI data centers.\r\n61 percent of likely voters surveyed said they oppose the constructio… [+3074 chars]",
       "tags": [
-        "social_issues",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789515265
     },
@@ -89,8 +91,9 @@
       "publishedAt": "2026-09-15T21:28:28Z",
       "content": "A photo that appears to show President Donald Trump kissing his 35-year-old assistant Natalie Harp on a golf course has gone viral in recent days. If you run the image through AI image detectors, you… [+3523 chars]",
       "tags": [
-        "personal_family",
-        "personal_legal"
+        "fact_checking",
+        "personal_activities",
+        "trump"
       ],
       "publishedAtTs": 1789507708
     },
@@ -107,9 +110,7 @@
       "publishedAt": "2026-09-15T02:52:23Z",
       "content": "The tradition of tech CEOs bending the knee to Donald Trump continues, with OpenAI CEO Sam Altman and Nvidia CEO Jensen Huang both taking turns with the shameless flattery.\r\nPer MS Now, Trump met pri… [+2644 chars]",
       "tags": [
-        "media_communications",
-        "technology_regulation",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1789440743
     },
@@ -127,7 +128,10 @@
       "content": "The Environmental Protection Agencys name continues to get more oxymoronic under Donald Trump, with the agency now planning to abandon any and all restrictions on greenhouse gas emissions for coal an… [+2596 chars]",
       "tags": [
         "environment",
-        "policy_legislation"
+        "climate_policy",
+        "federal_agencies",
+        "energy",
+        "trump"
       ],
       "publishedAtTs": 1789432504
     },
@@ -144,7 +148,7 @@
       "publishedAt": "2026-09-15T20:30:54Z",
       "content": "The Trump administration reportedly shut down part of Kalshis effort to establish a futures market for AI compute.\r\nCiting people familiar with the matter, Semafor reported on Tuesday that the U.S. C… [+2800 chars]",
       "tags": [
-        "security_intelligence",
+        "artificial_intelligence",
         "technology_regulation"
       ],
       "publishedAtTs": 1789504254
@@ -162,8 +166,7 @@
       "publishedAt": "2026-09-15T16:50:59Z",
       "content": "The chorus of alarm around a potential AI-triggered doomsday is getting louder.\r\nOn Monday, two AI researchers from frontier labs warned that the technology could, in the not-so-distant future, conce… [+4949 chars]",
       "tags": [
-        "climate_policy",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789491059
     },
@@ -180,8 +183,7 @@
       "publishedAt": "2026-09-15T19:45:32Z",
       "content": "For the past week, the AI industry has been ringing major alarm bells about the trajectory and pace of AI development. OpenAI just revealed that it has been working with its top competitors, Anthropi… [+4666 chars]",
       "tags": [
-        "ai_state_preemption",
-        "antitrust"
+        "off_topic"
       ],
       "publishedAtTs": 1789501532
     },
@@ -215,9 +217,11 @@
       "publishedAt": "2026-09-15T15:31:34Z",
       "content": "The US defence department's inspector general says the war with Iran has led to \"shortfalls\" in munitions and a bottleneck in resupply, contradicting President Donald Trump who has repeatly denied th… [+2696 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "military"
+        "us_iran_war",
+        "national_security",
+        "middle_east",
+        "military",
+        "iran"
       ],
       "publishedAtTs": 1789486294
     },
@@ -234,9 +238,10 @@
       "publishedAt": "2026-09-15T01:52:02Z",
       "content": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities. \r\nUS Secretary of the Air Force Troy Meink said the \"on orbit\" weapon… [+2540 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "military"
+        "military",
+        "statements",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789437122
     },
@@ -253,8 +258,11 @@
       "publishedAt": "2026-09-15T14:18:43Z",
       "content": "A host of copyright infringement lawsuits filed by news organizations against the ChatGPT developer OpenAI are heading toward a new phase, and the Trump administrations intervention is raising the qu… [+4532 chars]",
       "tags": [
+        "lawsuits",
+        "civil_litigation",
+        "artificial_intelligence",
         "technology_regulation",
-        "ai_state_preemption"
+        "legal_justice"
       ],
       "publishedAtTs": 1789481923
     },
@@ -271,8 +279,8 @@
       "publishedAt": "2026-09-15T10:26:08Z",
       "content": "Growing up in Shanghai in the early 1990s, Eric Zou remembers the air.\r\n\"I lived a couple of miles next to a chemical plant and it was just really bad, really foggy,\" he says. \"It's the middle of the… [+4925 chars]",
       "tags": [
-        "environment",
-        "policy_legislation"
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1789467968
     },
@@ -289,9 +297,11 @@
       "publishedAt": "2026-09-15T06:58:02Z",
       "content": "WASHINGTON Former CIA Director John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department investigation into whether former law enforcement and intelligence offic… [+5078 chars]",
       "tags": [
-        "legal_justice",
-        "cabinet",
-        "security_intelligence"
+        "doj_actions",
+        "criminal_cases",
+        "federal_agencies",
+        "intelligence",
+        "law_enforcement"
       ],
       "publishedAtTs": 1789455482
     },
@@ -308,8 +318,11 @@
       "publishedAt": "2026-09-15T17:49:07Z",
       "content": "A federal judge has ruled that the board of the Kennedy Center can't put President Trump's name back on the building, or rename the physical grounds of the arts center as the \"President Donald J. Tru… [+2547 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration"
+        "vanity",
+        "lawsuits",
+        "civil_litigation",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1789494547
     },
@@ -326,8 +339,7 @@
       "publishedAt": "2026-09-15T17:49:07Z",
       "content": "The Kennedy Center's board of directors on Tuesday voted to close the historic arts center in a meeting that began just minutes after a federal judge once again stopped a plan to put President Trump'… [+5941 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation"
+        "vanity"
       ],
       "publishedAtTs": 1789494547
     },
@@ -344,9 +356,11 @@
       "publishedAt": "2026-09-15T17:35:14Z",
       "content": "Republican Rep. Thomas Massie of Kentucky moved Tuesday to impeach Secretary of Defense Pete Hegseth over the war in Iran.\r\nCongressman Massie, a long-time critic of the Trump administration, read th… [+1770 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice",
-        "elections_politics"
+        "impeachment",
+        "us_iran_war",
+        "congress",
+        "cabinet",
+        "middle_east"
       ],
       "publishedAtTs": 1789493714
     },
@@ -363,9 +377,11 @@
       "publishedAt": "2026-09-15T12:33:19Z",
       "content": "GREAT FALLS, Mont. - The escalating trade fight between the Trump administration and Canada is just the latest headwind facing American farmers who were already dealing with soaring fuel and fertiliz… [+3584 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "tariff_impact_economy",
-        "agriculture"
+        "trade",
+        "agriculture",
+        "canada",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1789475599
     },
@@ -383,7 +399,9 @@
       "content": "It could be a game changer for the cryptocurrency industry. That is, if it can survive fierce opposition and actually become law.\r\nOn Tuesday, the Senate will hold a key procedural vote on the Clarit… [+6880 chars]",
       "tags": [
         "cryptocurrency",
-        "policy_legislation"
+        "congress",
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1789462800
     },
@@ -400,8 +418,9 @@
       "publishedAt": "2026-09-15T09:00:00Z",
       "content": "The poles of American politics are coming together over artificial intelligence. Left-wing socialist Bernie Sanders and right-wing strategist Steve Bannon have joined forces to push for more human co… [+3060 chars]",
       "tags": [
-        "ai_state_preemption",
-        "social_issues"
+        "artificial_intelligence",
+        "technology_regulation",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789462800
     },
@@ -418,9 +437,9 @@
       "publishedAt": "2026-09-15T11:35:49Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7227 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics",
-        "voting_rights"
+        "vanity",
+        "supreme_court",
+        "elections_politics"
       ],
       "publishedAtTs": 1789472149
     },
@@ -438,8 +457,9 @@
       "content": "MIAMI Herlain, a registered nurse who was born in Haiti, barely leaves her house these days.\r\nThe few times she has, she was terrified. She instructed her family members about how to record on their … [+5071 chars]",
       "tags": [
         "immigration",
-        "policy_legislation",
-        "social_issues"
+        "civil_rights",
+        "social_issues",
+        "trump"
       ],
       "publishedAtTs": 1789462800
     },
@@ -456,8 +476,8 @@
       "publishedAt": "2026-09-15T20:19:57Z",
       "content": "The John F. Kennedy Center for the Performing Arts in Washington, DC.The John F. Kennedy Center for the Performing Arts in Washington, DC.Kent Nishimura/AFP via Getty Images\r\n<ul><li>The Trump-appoin… [+13978 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789503597
     },
@@ -474,8 +494,9 @@
       "publishedAt": "2026-09-15T14:46:03Z",
       "content": "The Education Department is encouraging student-loan borrowers to leave the SAVE repayment plan.Al Drago/Getty Images\r\n<ul><li>1.5 million student-loan borrowers have left the SAVE repayment plan.</l… [+3013 chars]",
       "tags": [
-        "economy_finance",
-        "education"
+        "education",
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1789483563
     },
@@ -492,8 +513,7 @@
       "publishedAt": "2026-09-15T09:31:12Z",
       "content": "The AI doom debate is drawing a wide range of reactions from Chinese internet users.credit should read CFOTO/Future Publishing via Getty Images\r\n<ul><li>Chinese internet users are responding to AI fe… [+4811 chars]",
       "tags": [
-        "technology_regulation",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789464672
     },
@@ -510,9 +530,8 @@
       "publishedAt": "2026-09-15T19:00:24Z",
       "content": "The past few days have not been good for AIs public image. While the tech has always been controversial, now even the heads of the AI companies who have been boosting it with pie-in-the-sky promises … [+3560 chars]",
       "tags": [
-        "ai_state_preemption",
-        "economy_finance",
-        "technology_regulation"
+        "artificial_intelligence",
+        "trump"
       ],
       "publishedAtTs": 1789498824
     },
@@ -529,8 +548,9 @@
       "publishedAt": "2026-09-15T17:42:28Z",
       "content": "Donald Trump has called fears about AI a HOAX in a string of Truth Social posts. The US president also asked why AI industry leaders want to be regulated. The posts came a day after his remarks in Ir… [+4450 chars]",
       "tags": [
-        "ai_state_preemption",
-        "social_media"
+        "artificial_intelligence",
+        "technology_regulation",
+        "trump"
       ],
       "publishedAtTs": 1789494148
     },
@@ -547,8 +567,7 @@
       "publishedAt": "2026-09-15T13:29:53Z",
       "content": "Anthropic is the unnamed customer behind a $13.7bn, six-year computing contract that Rum Group disclosed last month, The Information reported on Sunday. Rum Group owns the video platform Rumble. Repo… [+3492 chars]",
       "tags": [
-        "technology_regulation",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789478993
     },
@@ -565,8 +584,11 @@
       "publishedAt": "2026-09-15T09:51:47Z",
       "content": "Kamala Harris posted a four-paragraph statement on X on Monday night setting out what she wants Washington to do about AI.\r\nShe asked Congress to pass new laws and establish a new federal entity to p… [+2964 chars]",
       "tags": [
-        "ai_state_preemption",
-        "foreign_policy"
+        "artificial_intelligence",
+        "technology_regulation",
+        "statements",
+        "democratic_party",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789465907
     },
@@ -583,8 +605,7 @@
       "publishedAt": "2026-09-15T16:41:40Z",
       "content": "Jack Clark says lawmakers may need to make AI kill switches mandatory. Clark is a co-founder of Anthropic and its head of policy. He told the BBC that outside parties should perhaps be able to check … [+4173 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789490500
     },
@@ -601,8 +622,7 @@
       "publishedAt": "2026-09-15T07:39:33Z",
       "content": "Bill Gates has committed the Gates Foundation to spending at least $1bn over the next two years on expanding access to AI, and paired the announcement with a blunt assessment of the people who are su… [+2689 chars]",
       "tags": [
-        "ai_state_preemption",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1789457973
     },
@@ -619,7 +639,7 @@
       "publishedAt": "2026-09-15T07:52:01Z",
       "content": "Bilal Chughtai worked on AGI safety and alignment research at Google DeepMind until July.\r\nThis week he posted his reasons for leaving, writing on X:\r\nI recently resigned from Google DeepMind, where … [+2929 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789458721
     },
@@ -636,8 +656,7 @@
       "publishedAt": "2026-09-15T15:12:16Z",
       "content": "OpenAI chief executive Sam Altman has set out how he thinks the AI industry should slow down. He also said OpenAI will not wait for Congress to act. In a post on X early on Monday, he welcomed a fede… [+3821 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789485136
     },
@@ -654,7 +673,7 @@
       "publishedAt": "2026-09-15T15:23:14Z",
       "content": "OpenAIs top political strategist Chris Lehane calls the industrys turn to state-level AI lawmaking reverse federalism, while super PACs backed by OpenAIs president and a16z spend heavily for a nation… [+5332 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789485794
     },
@@ -671,8 +690,9 @@
       "publishedAt": "2026-09-15T11:20:27Z",
       "content": "While most lawmakers are saying it's time to enact guardrails against AI, President Donald Trump is continuing to downplay the potential dangers. In a surprise on-stage call to the head of Nvidia, Je… [+187 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "artificial_intelligence",
+        "technology_regulation",
+        "trump"
       ],
       "publishedAtTs": 1789471227
     },
@@ -689,8 +709,10 @@
       "publishedAt": "2026-09-15T19:15:51Z",
       "content": "President Donald Trump upbraided Supreme Court justices as \"shells\" beholden to \"crazed\" liberal interests in a lengthy online screed a day after the court blocked his plan to execute dramatic change… [+3017 chars]",
       "tags": [
+        "supreme_court",
+        "trump",
         "legal_justice",
-        "supreme_court"
+        "leadership"
       ],
       "publishedAtTs": 1789499751
     },
@@ -707,8 +729,11 @@
       "publishedAt": "2026-09-15T16:02:25Z",
       "content": "WASHINGTON (AP) The Trump administration is stripping tens of millions of dollars in U.S. military assistance from countries in Europe and the Middle East to support conservative-leaning governments … [+2031 chars]",
       "tags": [
+        "military",
+        "national_security",
         "foreign_policy",
-        "trade"
+        "trump",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789488145
     },
@@ -725,9 +750,11 @@
       "publishedAt": "2026-09-15T13:43:30Z",
       "content": "WASHINGTON (AP) President Donald Trump on Tuesday went after the Supreme Court after it rejected his push to restrict mail-in voting in this year's midterms, saying justices who opposed him were \"not… [+3400 chars]",
       "tags": [
-        "legal_justice",
         "voting_rights",
-        "elections_politics"
+        "supreme_court",
+        "trump",
+        "elections_politics",
+        "leadership"
       ],
       "publishedAtTs": 1789479810
     },
@@ -744,6 +771,9 @@
       "publishedAt": "2026-09-15T16:36:10Z",
       "content": "WASHINGTON (AP) A federal judge blocked the Kennedy Center on Tuesday from returning President Donald Trump 's name to the iconic performing arts venue in a move meant to recognize his renovation eff… [+1848 chars]",
       "tags": [
+        "vanity",
+        "lawsuits",
+        "civil_litigation",
         "legal_justice",
         "trump"
       ],
@@ -762,9 +792,11 @@
       "publishedAt": "2026-09-15T17:35:42Z",
       "content": "WASHINGTON An anti-war Republican congressman introduced articles of impeachment on Sept. 15 against Pentagon chief Pete Hegseth over the Iran war, potentially causing a political headache for GOP le… [+3407 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics",
-        "foreign_policy"
+        "impeachment",
+        "us_iran_war",
+        "congress",
+        "cabinet",
+        "leadership"
       ],
       "publishedAtTs": 1789493742
     },
@@ -781,10 +813,11 @@
       "publishedAt": "2026-09-15T21:54:13Z",
       "content": "Congressional Democrats are investigating Donald Trump Jr. after an official friend of Vladimir Putin's Kremlin helped bankroll the Trump scion's lavish wedding celebrations in the Bahamas, lawmakers… [+3012 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "legal_justice",
-        "congressional_investigations"
+        "congressional_investigations",
+        "ethics",
+        "congress",
+        "personal_activities",
+        "trump"
       ],
       "publishedAtTs": 1789509253
     },
@@ -801,8 +834,11 @@
       "publishedAt": "2026-09-15T14:03:17Z",
       "content": "In a major Supreme Court loss for President Donald Trump on mail-in ballots, the president had only two of the six-member conservative bloc writing a dissent on his side: Samuel Alito and Clarence Th… [+3268 chars]",
       "tags": [
+        "supreme_court",
+        "voting_rights",
+        "trump",
         "legal_justice",
-        "supreme_court"
+        "elections_politics"
       ],
       "publishedAtTs": 1789480997
     },
@@ -821,7 +857,9 @@
       "tags": [
         "immigration",
         "labor",
-        "legal_justice"
+        "lawsuits",
+        "ice_controversies_resistance",
+        "civil_litigation"
       ],
       "publishedAtTs": 1789487235
     },
@@ -838,9 +876,8 @@
       "publishedAt": "2026-09-15T15:28:48Z",
       "content": "If you click 'Accept all', we and our partners, including 252 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "personal_family",
-        "foreign_policy",
-        "russia"
+        "personal_activities",
+        "trump"
       ],
       "publishedAtTs": 1789486128
     },
@@ -857,8 +894,10 @@
       "publishedAt": "2026-09-15T22:22:38Z",
       "content": "House Democrats are fuming after a pair of centrist members once again defied their party leaders by voting to help advance a key White House priority the second time in recent weeks.\r\nThe frustratio… [+2359 chars]",
       "tags": [
-        "elections_politics",
-        "congress"
+        "congress",
+        "democratic_party",
+        "policy_legislation",
+        "elections_politics"
       ],
       "publishedAtTs": 1789510958
     },
@@ -875,8 +914,8 @@
       "publishedAt": "2026-09-15T22:59:52Z",
       "content": "The Kennedy Center board voted to immediately close the main building for a two-year renovation, hours after a federal judge blocked efforts to put President Trump's name on the building. NBC News' H… [+21 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789513192
     },
@@ -893,8 +932,9 @@
       "publishedAt": "2026-09-15T22:08:41Z",
       "content": "By Brad Brooks and Nathan Layne\r\nSept 15 (Reuters) - The U.S. Supreme Court's rejection of President Donald Trump's bid to restrict mail-in ballots is unlikely to stop his attacks on voting by mail, … [+3288 chars]",
       "tags": [
+        "voting_rights",
         "elections_politics",
-        "voting_rights"
+        "trump"
       ],
       "publishedAtTs": 1789510121
     },
@@ -911,7 +951,7 @@
       "publishedAt": "2026-09-15T18:35:51Z",
       "content": "WASHINGTON The board of the John F. Kennedy Center for the Performing Arts voted to immediately close the bulk of the iconic institution for the next two years as it undergoes renovations pushed by P… [+638 chars]",
       "tags": [
-        "government_administration"
+        "vanity"
       ],
       "publishedAtTs": 1789497351
     },
@@ -928,8 +968,11 @@
       "publishedAt": "2026-09-15T10:03:14Z",
       "content": "By Tom Hals\r\nWILMINGTON, Delaware, Sept 15 (Reuters) - As U.S. President Donald Trump seeks to crack down on what he says is widespread illegal voting by noncitizens, several people charged with that… [+4872 chars]",
       "tags": [
+        "criminal_cases",
+        "voting_rights",
         "legal_justice",
-        "immigration"
+        "elections_politics",
+        "trump"
       ],
       "publishedAtTs": 1789466594
     },
@@ -948,7 +991,9 @@
       "tags": [
         "environment",
         "energy",
-        "climate_policy"
+        "climate_policy",
+        "federal_agencies",
+        "trump"
       ],
       "publishedAtTs": 1789455960
     },
@@ -965,10 +1010,11 @@
       "publishedAt": "2026-09-15T10:30:29Z",
       "content": "Air Force Secretary Troy Meink said Monday that the U.S. has weapons stationed in Earth's orbit, the first public acknowledgment of a capability long assumed to exist after decades of debate over the… [+2133 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "china",
-        "russia"
+        "statements",
+        "cabinet",
+        "military",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789468229
     },
@@ -985,10 +1031,7 @@
       "publishedAt": "2026-09-15T08:17:24Z",
       "content": "VILNIUS, Lithuania (AP) NATO fighter jets shot down a drone that entered Lithuanian airspace overnight, officials said Tuesday, the day after the head of the alliance said strikes close to its territ… [+7297 chars]",
       "tags": [
-        "foreign_policy",
-        "nato",
-        "security_intelligence",
-        "russia"
+        "off_topic"
       ],
       "publishedAtTs": 1789460244
     },
@@ -1005,9 +1048,10 @@
       "publishedAt": "2026-09-15T12:16:26Z",
       "content": "WASHINGTON (AP) The United States has confirmed for the first time that it has deployed weapons in space.\r\nAir Force Secretary Troy Meink told the Air and Space Cyber Conference in Maryland on Monday… [+920 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "space_policy"
+        "military",
+        "statements",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789474586
     },
@@ -1024,9 +1068,11 @@
       "publishedAt": "2026-09-15T16:34:35Z",
       "content": "WASHINGTON (AP) The U.S. military said Tuesday that it opened fire and destroyed two small Iranian boats this week trying to steal a drone ship in the waters off Iran.\r\nCapt. Tim Hawkins, U.S. Centra… [+1828 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "military"
+        "national_security",
+        "middle_east",
+        "security_incidents",
+        "us_iran_war",
+        "statements"
       ],
       "publishedAtTs": 1789490075
     },
@@ -1043,8 +1089,7 @@
       "publishedAt": "2026-09-15T04:06:47Z",
       "content": "By Jennifer Rigby\r\nLONDON, Sept 15 (Reuters) - No government in the world is ready for the changes artificial intelligence will bring to society, Bill Gates said in an interview with Reuters, as he w… [+2853 chars]",
       "tags": [
-        "ai_state_preemption",
-        "climate_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1789445207
     },
@@ -1061,8 +1106,9 @@
       "publishedAt": "2026-09-15T17:18:25Z",
       "content": "<ul><li>Markets are pricing in 92.7% odds of a rate hike on Wednesday.\r\n</li><li>Goldman Sachs' analysis shows the S&amp;P 500 typically dips right after a hike, then rebounds.\r\n</li><li>The index te… [+2979 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "stock_market",
+        "banking",
+        "economy_finance"
       ],
       "publishedAtTs": 1789492705
     },
@@ -1079,8 +1125,7 @@
       "publishedAt": "2026-09-15T10:57:01Z",
       "content": "HONG KONG (AP) As the rapid development of artificial intelligence triggers a renewed debate about its risks, the United States and China keep racing to develop increasingly powerful models even as t… [+5793 chars]",
       "tags": [
-        "ai_state_preemption",
-        "china"
+        "off_topic"
       ],
       "publishedAtTs": 1789469821
     },
@@ -1097,9 +1142,11 @@
       "publishedAt": "2026-09-15T15:28:04Z",
       "content": "By Timour Azhari and Jana Choukeir\r\nRIYADH/DUBAI, Sept 15 (Reuters) - Saudi Arabia issued security alerts over a range of territory on Tuesday, including in the holy city of Mecca and second-largest … [+4566 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "terrorism"
+        "middle_east",
+        "security_incidents",
+        "national_security",
+        "crisis_emergency",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789486084
     },
@@ -1116,10 +1163,7 @@
       "publishedAt": "2026-09-15T18:09:31Z",
       "content": "CAIRO (AP) Saudi Arabia's crown prince sought backing Tuesday from the president of Egypt, his ally across the Red Sea, as the kingdom faces increased attacks by Yemen's Houthi rebels on Saudi shippi… [+6487 chars]",
       "tags": [
-        "foreign_policy",
-        "middle_east",
-        "trade_negotiations_truces",
-        "energy"
+        "off_topic"
       ],
       "publishedAtTs": 1789495771
     },
@@ -1136,8 +1180,7 @@
       "publishedAt": "2026-09-15T10:18:50Z",
       "content": "By Aditya Soni\r\nSept 16 (Reuters) - The heads of America's leading AI labs came together in a rare show of unity over the weekend to call for a pause in the technology's development, warning that it … [+6254 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789467530
     },
@@ -1154,9 +1197,7 @@
       "publishedAt": "2026-09-15T09:00:00Z",
       "content": "Texas Republicans were already fretting about slipping support with voters of color. Then Bo French got on X.\r\nThe Republican nominee for Texas Railroad Commissioner posted a photo of a crowd of Univ… [+9537 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1789462800
     },
@@ -1173,8 +1214,8 @@
       "publishedAt": "2026-09-15T13:44:45Z",
       "content": "Joseph Moore had dreamed of a life in law enforcement since he was a teenager. \"Policing is in my blood,\" he wrote a Pennsylvania town's supervisors in 2020. \"There is no other career for me.\"\r\nBut t… [+19134 chars]",
       "tags": [
-        "law_enforcement",
-        "immigration"
+        "federal_agencies",
+        "government_administration"
       ],
       "publishedAtTs": 1789479885
     },
@@ -1191,8 +1232,8 @@
       "publishedAt": "2026-09-15T20:32:56Z",
       "content": "President Donald Trump alleged on Tuesday that the 2024 assassination attempt on him in Butler, Pennsylvania -- which killed one person and wounded two others -- was a \"Democratic Plot\" aimed at remo… [+3475 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics"
+        "security_incidents",
+        "trump"
       ],
       "publishedAtTs": 1789504376
     },
@@ -1209,9 +1250,11 @@
       "publishedAt": "2026-09-15T22:49:16Z",
       "content": "The nation's top law enforcement official appears unlikely to investigate a Russian oligarch with ties to Russian President Vladimir Putin who allegedly paid thousands of dollars to bankroll festivit… [+6892 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "legal_justice"
+        "criminal_cases",
+        "law_enforcement",
+        "doj_actions",
+        "legal_justice",
+        "trump"
       ],
       "publishedAtTs": 1789512556
     },
@@ -1228,8 +1271,7 @@
       "publishedAt": "2026-09-15T12:56:41Z",
       "content": "Tuesday's meeting of the John F. Kennedy Center for the Performing Arts' board will now focus exclusively on the \"necessary closure\" of the center, and not on additional ways to honor President Donal… [+3995 chars]",
       "tags": [
-        "government_administration",
-        "security_intelligence"
+        "vanity"
       ],
       "publishedAtTs": 1789477001
     },
@@ -1246,8 +1288,10 @@
       "publishedAt": "2026-09-15T19:22:13Z",
       "content": "The Department of Homeland Security has allegedly directed hundreds of agents to attempt to access voter rolls, even if they must misrepresent themselves to do so, and fabricate evidence of voter fra… [+3795 chars]",
       "tags": [
-        "legal_justice",
-        "voting_rights"
+        "federal_agencies",
+        "voting_rights",
+        "elections_politics",
+        "government_administration"
       ],
       "publishedAtTs": 1789500133
     },
@@ -1264,10 +1308,11 @@
       "publishedAt": "2026-09-15T18:49:33Z",
       "content": "The war with Iran has cost the United States at least $38 billion through the end of July and is expected to further push inflation higher for American households, according to a nonpartisan Congress… [+6057 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "economy_finance",
-        "inflation"
+        "us_iran_war",
+        "middle_east",
+        "national_security",
+        "military",
+        "iran"
       ],
       "publishedAtTs": 1789498173
     },
@@ -1284,9 +1329,11 @@
       "publishedAt": "2026-09-15T13:47:16Z",
       "content": "FBI Director Kash Patel is testifying before the Senate Judiciary Committee on Tuesday morning for an oversight hearing, the first time Patel is testifying since he clashed with lawmakers over report… [+2240 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration",
-        "cabinet"
+        "congress",
+        "federal_agencies",
+        "congressional_investigations",
+        "security_intelligence",
+        "government_administration"
       ],
       "publishedAtTs": 1789480036
     },
@@ -1303,9 +1350,8 @@
       "publishedAt": "2026-09-15T12:28:42Z",
       "content": "The former acting Federal Emergency Management Agency (FEMA) administrator said that Texas got the help it needed during the historic and deadly flooding over July Fourth weekend last year, despite c… [+5060 chars]",
       "tags": [
-        "government_administration",
-        "regional_state",
-        "crisis_emergency"
+        "crisis_emergency",
+        "government_administration"
       ],
       "publishedAtTs": 1789475322
     },
@@ -1322,8 +1368,11 @@
       "publishedAt": "2026-09-15T17:28:50Z",
       "content": "Imminent chaos aside, the Administrations claim that the Postal Service has authority to regulate mail-in ballots is questionable at best. The Constitution entrusts the conduct of elections to the st… [+4115 chars]",
       "tags": [
+        "voting_rights",
+        "supreme_court",
+        "elections_politics",
         "legal_justice",
-        "voting_rights"
+        "trump"
       ],
       "publishedAtTs": 1789493330
     },
@@ -1339,9 +1388,7 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Starship-Troopers-Neil-Patrick-Harris-1200x675.jpg",
       "publishedAt": "2026-09-15T21:00:15Z",
       "content": "It was almost too stupid to be real. Last week, the Trump Administration unveiled new uniforms for the United States Space Force with a more-than-surprising caption: “Inspired by the discipline and f… [+1955 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1789506015
     },
     {
@@ -1357,9 +1404,9 @@
       "publishedAt": "2026-09-15T17:40:27Z",
       "content": "States that voted for Trump are leading the country in solar adoption. In recent years, Republican opposition to solar has mounted, with the Trump administration making it more difficult to build sol… [+5304 chars]",
       "tags": [
+        "environment",
         "energy",
-        "policy_legislation",
-        "environment"
+        "regional_state"
       ],
       "publishedAtTs": 1789494027
     },
@@ -1376,8 +1423,7 @@
       "publishedAt": "2026-09-15T16:31:03Z",
       "content": "Days after researchers at leading AI labs warned that the unchecked development of increasingly powerful AI could pose an existential risk, former President Barack Obama is weighing in.\r\nIn a stateme… [+4876 chars]",
       "tags": [
-        "ai_state_preemption",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1789489863
     },
@@ -1394,9 +1440,10 @@
       "publishedAt": "2026-09-15T19:35:19Z",
       "content": "Oh good, space has weapons now. The U.S. has publicly acknowledged for the first time that it has weapons in orbit, a decidedly less sci-fi development than it might sound. The admission comes as the… [+3676 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "space_policy"
+        "military",
+        "security_intelligence",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789500919
     },
@@ -1413,9 +1460,7 @@
       "publishedAt": "2026-09-15T23:03:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Ga… [+8222 chars]",
       "tags": [
-        "foreign_policy",
-        "energy",
-        "economy_finance"
+        "energy"
       ],
       "publishedAtTs": 1789513380
     },
@@ -1432,8 +1477,9 @@
       "publishedAt": "2026-09-15T15:47:00Z",
       "content": "The AI panic has arrived. Tech CEOs are practically begging the government to make them slow down. But Donald Trump isn’t buying any of it. On Sunday, he dismissed calls for AI regulation on the grou… [+5305 chars]",
       "tags": [
-        "ai_state_preemption",
-        "trade"
+        "artificial_intelligence",
+        "technology_regulation",
+        "trump"
       ],
       "publishedAtTs": 1789487220
     },
@@ -1450,8 +1496,9 @@
       "publishedAt": "2026-09-15T23:21:00Z",
       "content": "Donald Trump has not forgotten his midsummer promise to publicly shame the Smithsonian. The Trump administration is currently preparing temporary signs that will accuse the National Museum of America… [+7164 chars]",
       "tags": [
-        "government_administration",
-        "media_communications"
+        "censorship",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1789514460
     },
@@ -1468,8 +1515,7 @@
       "publishedAt": "2026-09-15T01:35:56Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsDonald Trump loves a deal, even if, at times, it’s just the idea of a deal. The president’s trade dispute with Canada conti… [+23315 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "foreign_policy"
+        "trump"
       ],
       "publishedAtTs": 1789436156
     },
@@ -1486,8 +1532,11 @@
       "publishedAt": "2026-09-15T01:15:15Z",
       "content": "The White House did not immediately comment on the decision.\r\nAbout 30% of voters, mostly Democrats, cast postal ballots in the general election two years ago.\r\nSince returning to the White House, Tr… [+1792 chars]",
       "tags": [
+        "voting_rights",
+        "supreme_court",
+        "elections_politics",
         "legal_justice",
-        "voting_rights"
+        "trump"
       ],
       "publishedAtTs": 1789434915
     },
@@ -1504,8 +1553,10 @@
       "publishedAt": "2026-09-15T12:08:26Z",
       "content": "One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass surveil… [+18560 chars]",
       "tags": [
+        "intelligence",
+        "technology_regulation",
         "security_intelligence",
-        "civil_rights"
+        "social_issues"
       ],
       "publishedAtTs": 1789474106
     },
@@ -1522,9 +1573,9 @@
       "publishedAt": "2026-09-15T11:02:00Z",
       "content": "This essay was written with Cindy Cohn, and originally appeared in Lawfare.\r\nOne of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such… [+18772 chars]",
       "tags": [
+        "intelligence",
         "security_intelligence",
-        "cybersecurity",
-        "legal_justice"
+        "social_issues"
       ],
       "publishedAtTs": 1789470120
     },
@@ -1558,8 +1609,7 @@
       "publishedAt": "2026-09-15T10:32:51Z",
       "content": "With AI-generated articles and mass layoffs abound, its no secret that journalisms been barreling further and further into the crapper at a speed thats insurmountable andapparently!unstoppable by Con… [+2892 chars]",
       "tags": [
-        "media_communications",
-        "personal_activities"
+        "off_topic"
       ],
       "publishedAtTs": 1789468371
     },
@@ -1576,8 +1626,9 @@
       "publishedAt": "2026-09-15T13:47:38Z",
       "content": "Back in June, the FBI quietly changed its hiring practices to no longer block people whove hired prostitutes or engaged in bestiality from joining the agency. And if youlike mehave had nothing to say… [+3932 chars]",
       "tags": [
-        "legal_justice",
-        "law_enforcement"
+        "federal_agencies",
+        "government_operations",
+        "government_administration"
       ],
       "publishedAtTs": 1789480058
     },
@@ -1594,8 +1645,7 @@
       "publishedAt": "2026-09-15T10:30:43Z",
       "content": "What if Elon Musk Was Always Elon Musk? The most disturbing part of the controversial new four-hour documentary. (Slate)\r\n Why So Many AI Researchers Think the Machines Could Kill Everyone: A combina… [+3208 chars]",
       "tags": [
-        "ai_state_preemption",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1789468243
     },
@@ -1612,7 +1662,7 @@
       "publishedAt": "2026-09-15T13:00:27Z",
       "content": "The transcript from this weeks, MiB: Seth Bernstein, Chief Executive Officer of AllianceBernstein, is below.\r\nYou can stream and download our full conversation, including any podcast extras, on Apple… [+58254 chars]",
       "tags": [
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1789477227
     },
@@ -1629,8 +1679,8 @@
       "publishedAt": "2026-09-15T22:17:31Z",
       "content": "Scaffolding and a tarp cover part of the facade of the John F. Kennedy Center for the Performing Arts in Washington, DC, on September 15, 2026. | Mandel Ngan/AFP via Getty Images\r\n\n\nThis story appear… [+2645 chars]",
       "tags": [
-        "government_administration",
-        "personal_family"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789510651
     },
@@ -1647,8 +1697,8 @@
       "publishedAt": "2026-09-15T21:30:23Z",
       "content": "Mail-in ballots are prepared at the Wake County Board of Elections in Raleigh, North Carolina on September 11, 2026. | Allison Joyce/Bloomberg via Getty Images\r\n\n\nThis story appeared in Today, Explai… [+3063 chars]",
       "tags": [
-        "elections_politics",
-        "voting_rights"
+        "voting_rights",
+        "elections_politics"
       ],
       "publishedAtTs": 1789507823
     },
@@ -1665,9 +1715,11 @@
       "publishedAt": "2026-09-15T16:40:41Z",
       "content": "President Donald Trump walks by Chief Justice John Roberts in February 2026 at the State of the Union address. | Andrew Caballero-Reynolds/AFP via Getty Images\r\n\n\nOn Monday evening, the Supreme Court… [+7662 chars]",
       "tags": [
-        "legal_justice",
+        "supreme_court",
+        "voting_rights",
+        "lawsuits",
         "elections_politics",
-        "voting_rights"
+        "legal_justice"
       ],
       "publishedAtTs": 1789490441
     },
@@ -1684,9 +1736,10 @@
       "publishedAt": "2026-09-15T20:34:13Z",
       "content": "Sen. Ted Cruz (R-TX) speaks on stage on the second day of the Republican National Convention in Dallas, on September 10, 2026. | Justin Sullivan/Getty Images\r\n\n\nAnti-Muslim messaging has been on the … [+11394 chars]",
       "tags": [
+        "republican_party",
+        "civil_rights",
         "social_issues",
-        "elections_politics",
-        "republican_party"
+        "elections_politics"
       ],
       "publishedAtTs": 1789504453
     },
@@ -1703,8 +1756,7 @@
       "publishedAt": "2026-09-15T20:06:07Z",
       "content": "Everyone is suddenly freaking out about AI. While AI researchers have been warning about their creations capabilities for many years, recent events have made those alarms newly tangible.\r\nIn the spri… [+22267 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789502767
     },
@@ -1721,7 +1773,8 @@
       "publishedAt": "2026-09-15T15:45:37Z",
       "content": "Congratulations! If you or a loved one previously engaged in acts of bestiality, you (or they) are now eligible to join the prestigious ranks of the Federal Bureau of Investigation. \r\nFBI Director Ka… [+3258 chars]",
       "tags": [
-        "law_enforcement"
+        "federal_agencies",
+        "government_administration"
       ],
       "publishedAtTs": 1789487137
     },
@@ -1739,7 +1792,7 @@
       "content": "A new study shows that if the United States were to adopt a federal film tax incentive program, the benefits could be enormous. Production spend between 2027 and 2035 could rise an extra $125.3 billi… [+4024 chars]",
       "tags": [
         "economy_finance",
-        "taxes"
+        "policy_legislation"
       ],
       "publishedAtTs": 1789496646
     },
@@ -1755,9 +1808,7 @@
       "urlToImage": "https://www.nybooks.com/wp-content/uploads/2026/09/otoole_1-100826-1200.jpg",
       "publishedAt": "2026-09-15T12:00:00Z",
       "content": "Toward the end of his biography of Roy Cohn, written with his wife, Susan Goldmark, Kai Bird quotes the editor and publisher Jason Epstein: “In a way, he’s not real, he has no substance.” On the othe… [+23172 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1789473600
     },
     {
@@ -1773,9 +1824,11 @@
       "publishedAt": "2026-09-15T02:31:18Z",
       "content": "US President Donald Trumps administration has suffered two setbacks to its immigration agenda as a federal judge halted proposed visa caps and dozens of Democratic-led states launched legal challenge… [+3619 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "elections_politics"
+        "lawsuits",
+        "civil_litigation",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1789439478
     },
@@ -1792,8 +1845,8 @@
       "publishedAt": "2026-09-15T20:13:09Z",
       "content": "US House Speaker Mike Johnson has rejected calls to pause artificial intelligence development, arguing that doing so could give China an advantage over the United States.\r\nWe cannot have a moratorium… [+3374 chars]",
       "tags": [
-        "ai_state_preemption",
-        "china"
+        "technology_regulation",
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1789503189
     }

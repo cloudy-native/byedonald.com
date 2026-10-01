@@ -14,10 +14,7 @@
       "urlToImage": "https://media.wired.com/photos/6965992c482e29ae79e365d8/191:100/w_1280,c_limit/Backlash-Against-ICE-Policing-Tactics-Business-2242486803.jpg",
       "publishedAt": "2026-01-14T22:48:32Z",
       "content": "Since Donald Trump returned to the White House last January, the biggest names in tech have mostly fallen in line with the new regime, attending dinners with officials, heaping praise upon the admini… [+3882 chars]",
-      "tags": [
-        "social_issues",
-        "protests"
-      ],
+      "tags": [],
       "publishedAtTs": 1768430912
     },
     {
@@ -33,8 +30,7 @@
       "publishedAt": "2026-01-14T12:00:00Z",
       "content": "At the start of 2024, Anthropic, Google, Meta, and OpenAI were united against military use of their AI tools. But over the next 12 months, something changed.\r\nIn January, OpenAI quietly rescinded its… [+4960 chars]",
       "tags": [
-        "ai_state_preemption",
-        "security_intelligence"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1768392000
     },
@@ -51,8 +47,7 @@
       "publishedAt": "2026-01-14T18:15:10Z",
       "content": "A GoFundMe campaign for a Detroit autoworker who called Donald Trump a “pedophile protector” was suspended from the Ford plant where he worked on Tuesday. But it looks like he’s going to be alright f… [+4251 chars]",
       "tags": [
-        "social_issues",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1768414510
     },
@@ -69,8 +64,7 @@
       "publishedAt": "2026-01-14T15:50:53Z",
       "content": "Journalist Seth Harp was subpoenaed by the House Oversight Committee last week after Rep. Anna Paulina Luna, a Republican from Florida, accused the author of “doxxing” a Delta Force commander and “le… [+6969 chars]",
       "tags": [
-        "legal_justice",
-        "social_media"
+        "media_communications"
       ],
       "publishedAtTs": 1768405853
     },
@@ -87,8 +81,11 @@
       "publishedAt": "2026-01-14T05:44:08Z",
       "content": "Watch: Trump vows 'very strong action' if Iran executes protesters\r\nPresident Donald Trump has said the US will take \"very strong action\" against Iran if it executes protesters, as rights groups say … [+6360 chars]",
       "tags": [
+        "middle_east",
+        "iran",
+        "protests",
         "foreign_policy",
-        "iran"
+        "trump"
       ],
       "publishedAtTs": 1768369448
     },
@@ -105,7 +102,9 @@
       "publishedAt": "2026-01-14T21:52:49Z",
       "content": "Daniel Bush Washington correspondent, at the White House\r\nSenior US administration officials met in Washington with the foreign ministers of Greenland and Denmark amid growing tensions over President… [+3416 chars]",
       "tags": [
-        "greenland_acquisition"
+        "greenland_acquisition",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1768427569
     },
@@ -122,8 +121,7 @@
       "publishedAt": "2026-01-14T03:40:58Z",
       "content": "Anthony ZurcherNorth America correspondent\r\nA majority of the nine justices on the US Supreme Court appear inclined to uphold state bans on transgender women and girls competing in female school spor… [+5427 chars]",
       "tags": [
-        "civil_rights",
-        "lgbtq_rights"
+        "off_topic"
       ],
       "publishedAtTs": 1768362058
     },
@@ -140,8 +138,7 @@
       "publishedAt": "2026-01-14T16:03:16Z",
       "content": "The White House has defended US President Donald Trump after he aimed an offensive gesture at a heckler during his appearance at a Ford factory in Detroit on Tuesday.\r\nFootage of the incident publish… [+2085 chars]",
       "tags": [
-        "personal_activities",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1768406596
     },
@@ -158,9 +155,11 @@
       "publishedAt": "2026-01-14T05:58:07Z",
       "content": "Donald Trump is the only world leader capable of stopping Vladimir Putin from threatening Europe, according to Poland's President Karol Nawrocki.\r\nIn an interview with Radio 4's Today programme he sa… [+3089 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
         "ukraine",
-        "russia"
+        "foreign_policy",
+        "trump",
+        "security_intelligence"
       ],
       "publishedAtTs": 1768370287
     },
@@ -177,8 +176,7 @@
       "publishedAt": "2026-01-14T00:00:15Z",
       "content": "Nadine Yousif,Senior Canada reporterand\r\nLaura Bicker,China correspondent \r\nCanada's Prime Minister Mark Carney is en route to China for a pivotal visit aimed at resetting ties with Beijing and findi… [+5402 chars]",
       "tags": [
-        "foreign_policy",
-        "china"
+        "off_topic"
       ],
       "publishedAtTs": 1768348815
     },
@@ -195,7 +193,7 @@
       "publishedAt": "2026-01-14T19:45:58Z",
       "content": "Apple's choice of Google's Gemini to power the next version of Siri was just as expected as peanut butter mixing deliciously with chocolate. \r\nEarly this week, Apple and Google put out a joint statem… [+6238 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1768419958
     },
@@ -212,8 +210,11 @@
       "publishedAt": "2026-01-14T14:50:17Z",
       "content": "The Trump administration sent shockwaves through the U.S. mental health and drug addiction system late Tuesday, sending hundreds of termination letters, effective immediately, for federal grants supp… [+2994 chars]",
       "tags": [
-        "policy_legislation",
-        "mental_health"
+        "mental_health",
+        "public_health",
+        "healthcare",
+        "health",
+        "trump"
       ],
       "publishedAtTs": 1768402217
     },
@@ -230,9 +231,11 @@
       "publishedAt": "2026-01-14T10:00:00Z",
       "content": "In Minnesota, amid heated protests and immigration raids, federal and state authorities have also been sparring over the investigation into Renee Macklin Good's killing by Immigration and Customs Enf… [+7023 chars]",
       "tags": [
-        "legal_justice",
-        "immigration",
-        "law_enforcement"
+        "law_enforcement",
+        "ice_controversies_resistance",
+        "criminal_cases",
+        "federal_agencies",
+        "legal_justice"
       ],
       "publishedAtTs": 1768384800
     },
@@ -250,8 +253,7 @@
       "content": "NUUK, Greenland Along the narrow, snow-covered main street in Greenland's capital, international journalists and camera crews stop passersby every few meters (feet) asking them for their thoughts on … [+3124 chars]",
       "tags": [
         "arctic",
-        "foreign_policy",
-        "greenland_acquisition"
+        "foreign_policy"
       ],
       "publishedAtTs": 1768372390
     },
@@ -268,9 +270,10 @@
       "publishedAt": "2026-01-14T06:56:11Z",
       "content": "Russia and Venezuela maintain a strategic partnership spanning energy, defense, and diplomacy.Yuri Cortez/AFP/Getty Images\r\n<ul><li>Russia's state-owned Roszarubezhneft says its Venezuelan oil assets… [+2238 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "energy"
+        "venezuela_intervention",
+        "energy",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768373771
     },
@@ -287,8 +290,7 @@
       "publishedAt": "2026-01-14T23:05:39Z",
       "content": "An aerial view of a 33 megawatt data center with a closed-loop cooling system on October 20, 2025, in Vernon, California.Mario Tama/Getty Images\r\n<ul><li>Microsoft pledged to \"pay its own way\" for el… [+3972 chars]",
       "tags": [
-        "energy",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1768431939
     },
@@ -305,9 +307,10 @@
       "publishedAt": "2026-01-14T10:40:01Z",
       "content": "Business leaders like Klarna's CEO support Trump's credit card cap proposal, while major banks and investors warn of risks.BRENDAN SMIALOWSKI/AFP via Getty Images\r\n<ul><li>Donald Trump proposes a 10%… [+4732 chars]",
       "tags": [
+        "banking",
         "economy_finance",
-        "trade",
-        "banking"
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768387201
     },
@@ -324,7 +327,9 @@
       "publishedAt": "2026-01-14T14:52:08Z",
       "content": "Citi reported fourth-quarter earnings on Thursday.Mike Kemp/In Pictures via Getty Images\r\n<ul><li>Citi's CFO Mark Mason said Trump's proposed credit card cap would have a 'deleterious' impact on the … [+1398 chars]",
       "tags": [
-        "economy_finance"
+        "banking",
+        "economy_finance",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768402328
     },
@@ -341,8 +346,7 @@
       "publishedAt": "2026-01-14T21:48:59Z",
       "content": "Chip Somodevilla/Getty Images\r\n<ul><li>Microsoft's president said it will ensure its data center electricity costs are not passed on to residential customers.</li><li>The tech giant filed permits for… [+4909 chars]",
       "tags": [
-        "economy_finance",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1768427339
     },
@@ -359,7 +363,9 @@
       "publishedAt": "2026-01-14T10:51:01Z",
       "content": "Proposed policy changes could lead more consumers to turn to private or personal loans.Tatiana Maksimova/Getty Images\r\n<ul><li>New caps on student-loan borrowing could prompt more Americans to turn t… [+4655 chars]",
       "tags": [
-        "economy_finance"
+        "economy_finance",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768387861
     },
@@ -376,8 +382,10 @@
       "publishedAt": "2026-01-14T05:02:01Z",
       "content": "Jerome Powell, a particularly mild-mannered speaker, slammed recent attempts to intimidate his department.Li Yuanqing/Xinhua via Getty Images\r\n<ul><li>The DOJ is probing Jerome Powell over his congre… [+11227 chars]",
       "tags": [
+        "statements",
         "banking",
-        "government_administration"
+        "congressional_investigations",
+        "congress"
       ],
       "publishedAtTs": 1768366921
     },
@@ -394,8 +402,11 @@
       "publishedAt": "2026-01-14T20:28:09Z",
       "content": "WASHINGTON President Donald Trump announced that Iran had stopped killing anti-government protesters after he threatened to take action if the killings continued.\r\n\"Weve been told that the killing in… [+4267 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "iran",
+        "statements",
+        "trump"
       ],
       "publishedAtTs": 1768422489
     },
@@ -412,9 +423,10 @@
       "publishedAt": "2026-01-14T11:39:12Z",
       "content": "Senate Minority Leader Chuck Schumer says he expects Republican President Donald Trump to try to interfere with the midterm elections, and he says raids by immigration agents in major cities are crea… [+4826 chars]",
       "tags": [
+        "democratic_party",
         "elections_politics",
-        "2026_midterms",
-        "immigration"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1768390752
     },
@@ -431,10 +443,11 @@
       "publishedAt": "2026-01-14T17:58:51Z",
       "content": "The Trump administration is urging U.S. citizens to leave Iran immediately as the president escalates his threats to use military action against the Middle Eastern nation amid a violent government cr… [+6970 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
         "iran",
-        "security_intelligence",
-        "military"
+        "security_incidents",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768413531
     },
@@ -451,8 +464,8 @@
       "publishedAt": "2026-01-14T07:05:12Z",
       "content": "Sen. Lindsey Graham added more credibility to the claims that Donald Trump cheats at golf, according to secret testimony he gave in the Georgia election interference case.\r\nGraham, who was questioned… [+2024 chars]",
       "tags": [
-        "personal_family",
-        "trump"
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1768374312
     },
@@ -469,7 +482,7 @@
       "publishedAt": "2026-01-14T17:05:17Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1768410317
     },
@@ -486,9 +499,9 @@
       "publishedAt": "2026-01-14T17:54:35Z",
       "content": "By Jonathan Allen and Joseph Ax\r\nJan 14 (Reuters) - U.S. President Donald Trump said on Wednesday he would cut off federal funding next month for any state that includes sanctuary cities, expanding h… [+4404 chars]",
       "tags": [
-        "immigration",
-        "government_administration",
-        "legal_justice"
+        "trump",
+        "policy_legislation",
+        "leadership"
       ],
       "publishedAtTs": 1768413275
     },
@@ -505,7 +518,6 @@
       "publishedAt": "2026-01-14T03:19:53Z",
       "content": "TOKYO, Jan 14 (Reuters) - Japan declined on Wednesday to comment on the Bank of Japan's absence from a statement by other central banks supporting U.S. Federal Reserve chair Jerome Powell, following … [+1136 chars]",
       "tags": [
-        "foreign_policy",
         "economy_finance"
       ],
       "publishedAtTs": 1768360793
@@ -522,10 +534,7 @@
       "urlToImage": "https://compote.slate.com/images/43941441-eb7a-4761-a70a-1a62d8512917.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
       "publishedAt": "2026-01-14T16:58:08Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nI have to say it: I used to love Dilbert. As a child, flipping my parents… [+8046 chars]",
-      "tags": [
-        "social_issues",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1768409888
     },
     {
@@ -541,8 +550,7 @@
       "publishedAt": "2026-01-14T02:54:31Z",
       "content": "President Donald Trump is calling for the country of Cuba to make a deal with the U.S. before it is too late,\" as he attempts to maintain leverage in the region following the raid on Venezuela about … [+994 chars]",
       "tags": [
-        "foreign_policy",
-        "venezuela_intervention"
+        "foreign_policy"
       ],
       "publishedAtTs": 1768359271
     },
@@ -560,7 +568,8 @@
       "content": "LONDON -- More than 2,500 people have died during nationwide protests in Iran over the past 17 days, activists said Wednesday, as U.S. President Donald Trump expressed his support for demonstrators a… [+4590 chars]",
       "tags": [
         "protests",
-        "iran"
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768381081
     },
@@ -577,7 +586,9 @@
       "publishedAt": "2026-01-14T10:19:39Z",
       "content": "LONDON -- U.S. officials are expected to meet with Danish and Greenlandic counterparts in Washington, D.C., on Wednesday, amid President Donald Trump's continued expressions of intent to acquire the … [+8779 chars]",
       "tags": [
-        "greenland_acquisition"
+        "greenland_acquisition",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1768385979
     },
@@ -594,7 +605,11 @@
       "publishedAt": "2026-01-14T20:00:31Z",
       "content": "The State Department is freezing immigrant visa processing for 75 countries in an effort to clamp down on applicants it deems likely to become a public charge.\r\nThe directive instructs embassies and … [+3027 chars]",
       "tags": [
-        "immigration"
+        "immigration",
+        "government_operations",
+        "federal_agencies",
+        "government_administration",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768420831
     },
@@ -625,9 +640,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/05c740b8-5e53-4a4e-b945-83282f5778bf/260113_wn_ender_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-14T00:52:58Z",
       "content": "<ul><li>Trump says 'help is on its way' as protests grow in Iran\r\n</li><li>Trump touts economy as investors react to latest inflation report\r\n</li><li>Painted plane used in Caribbean strike was part … [+4428 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1768351978
     },
     {
@@ -642,9 +655,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/686d56d2-0d0c-4c4d-b562-a4e9973fe1e3/260114_gmafl_presidents_paint_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-14T11:34:08Z",
       "content": "<ul><li>Bombshell testimony in the first day of the Brendan Banfield double murder trial\r\n</li><li>Behind the scenes of Maury's most memorable moments\r\n</li><li>Trump doubles down on criticism of Pow… [+4513 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1768390448
     },
     {
@@ -660,8 +671,7 @@
       "publishedAt": "2026-01-14T11:34:48Z",
       "content": "<ul><li>Bombshell testimony in the first day of the Brendan Banfield double murder trial\r\n</li><li>Behind the scenes of Maury's most memorable moments\r\n</li><li>Trump doubles down on criticism of Pow… [+4513 chars]",
       "tags": [
-        "law_enforcement",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1768390488
     },
@@ -678,8 +688,10 @@
       "publishedAt": "2026-01-14T19:06:27Z",
       "content": "<ul><li>Security expert calls evacuation of US base in Qatar 'very sensible'\r\n</li><li>FBI searches Washington Post reporter's home for alleged classified information\r\n</li><li>Gaza entering phase 2 … [+4649 chars]",
       "tags": [
-        "legal_justice",
-        "congress"
+        "congress",
+        "congressional_investigations",
+        "criminal_cases",
+        "legal_justice"
       ],
       "publishedAtTs": 1768417587
     },
@@ -695,9 +707,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/cbc8420a-abda-4fc0-ae17-9cc749e08aba/260114_gma_rulli_dog_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-14T13:54:38Z",
       "content": "<ul><li>Trump touts economic boom despite new inflation numbers, lashes out at Powell\r\n</li><li>Trump says help is on its way to Iran protestors\r\n</li><li>Clintons defy subpoena to testify about Epst… [+4635 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1768398878
     },
     {
@@ -712,9 +722,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/158e9ef7-ed17-47c8-9006-bfe9f40af376/260114_abc_social_kpop_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-01-14T13:51:12Z",
       "content": "<ul><li>Trump touts economic boom despite new inflation numbers, lashes out at Powell\r\n</li><li>Trump says help is on its way to Iran protestors\r\n</li><li>Clintons defy subpoena to testify about Epst… [+4635 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1768398672
     },
     {
@@ -730,9 +738,9 @@
       "publishedAt": "2026-01-14T16:03:49Z",
       "content": "<ul><li>Security expert calls evacuation of US base in Qatar 'very sensible'\r\n</li><li>FBI searches Washington Post reporter's home for alleged classified information\r\n</li><li>Gaza entering phase 2 … [+4649 chars]",
       "tags": [
-        "security_intelligence",
+        "ice_controversies_resistance",
         "law_enforcement",
-        "immigration"
+        "protests"
       ],
       "publishedAtTs": 1768406629
     },
@@ -750,7 +758,6 @@
       "content": "Newly released federal dietary guidelines for Americans call for fewer ultra-processed foods, but some public health experts are concerned that a lack of information around definitions for such foods… [+6051 chars]",
       "tags": [
         "public_health",
-        "policy_legislation",
         "health_science"
       ],
       "publishedAtTs": 1768355526
@@ -768,9 +775,7 @@
       "publishedAt": "2026-01-14T16:23:16Z",
       "content": "On Friday, Russia attacked Lviv, a major Ukrainian city near the Polish border, using Oreshnik: an intermediate-range, nuclear-capable ballistic missile. Security-camera footage captured brief flashe… [+7719 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "military"
+        "off_topic"
       ],
       "publishedAtTs": 1768407796
     },
@@ -787,8 +792,7 @@
       "publishedAt": "2026-01-14T01:08:38Z",
       "content": "In the days after American commandos raided Nicolás Maduro’s compound and whisked him out of Venezuela, Mike Lindell wasn’t ruminating about the dramatic military operation or oil prices—he was reviv… [+9091 chars]",
       "tags": [
-        "venezuela_intervention",
-        "foreign_policy"
+        "fact_checking"
       ],
       "publishedAtTs": 1768352918
     },
@@ -806,6 +810,7 @@
       "content": "Donald Trump has a lot of odd fixations, both as a person and as a president. He tends to focus his tunnel vision on things he wants: the demolishing of the White House’s East Wing, the renaming of t… [+13974 chars]",
       "tags": [
         "greenland_acquisition",
+        "trump",
         "foreign_policy"
       ],
       "publishedAtTs": 1768420071
@@ -823,8 +828,7 @@
       "publishedAt": "2026-01-14T15:51:20Z",
       "content": "Most Americans now accept the basic physics of climate change—that manmade greenhouse-gas emissions are raising global temperatures. Yet the public discussion of climate change is still remarkably br… [+8522 chars]",
       "tags": [
-        "climate_policy",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1768405880
     },
@@ -841,8 +845,9 @@
       "publishedAt": "2026-01-14T15:56:12Z",
       "content": "The protests in Iran are real. The country’s economic desperation runs deep, and millions of citizens want to see a corrupt and repressive regime gone. The violent crackdown on the protests is also r… [+12948 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "protests",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768406172
     },
@@ -860,8 +865,10 @@
       "content": "Agents with the US Federal Bureau of Investigation (FBI) raided the home of a Washington Post reporter this week as part of an investigation into a government contractor accused of leaking classified… [+2742 chars]",
       "tags": [
         "law_enforcement",
-        "media_communications",
-        "security_intelligence"
+        "federal_agencies",
+        "doj_actions",
+        "criminal_cases",
+        "legal_justice"
       ],
       "publishedAtTs": 1768412689
     },
@@ -878,8 +885,7 @@
       "publishedAt": "2026-01-14T17:38:24Z",
       "content": "Nadine YousifSenior Canada reporter\r\nA British-owned, Canadian-made whiskey is at the centre of a spat between two provinces that is testing a unified \"Team Canada\" approach in the face of US tariffs… [+4047 chars]",
       "tags": [
-        "trade",
-        "canada"
+        "off_topic"
       ],
       "publishedAtTs": 1768412304
     },
@@ -896,8 +902,7 @@
       "publishedAt": "2026-01-14T06:57:06Z",
       "content": "Jake Kwon,Seoul correspondent\r\nA surreal drum duet between two East Asian world leaders has set the internet abuzz - and put a spotlight on Japan and South Korea's diplomatic relationship.\r\nDecked ou… [+3972 chars]",
       "tags": [
-        "foreign_policy",
-        "asia_pacific"
+        "off_topic"
       ],
       "publishedAtTs": 1768373826
     },
@@ -914,7 +919,10 @@
       "publishedAt": "2026-01-14T17:13:48Z",
       "content": "Washington: The U.S. State Department is preparing to suspend visa processing for applicants from 75 nations, including Russia and Iran, as part of a sweeping initiative to block immigrants judged li… [+3683 chars]",
       "tags": [
-        "immigration"
+        "immigration",
+        "foreign_policy",
+        "government_administration",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768410828
     },
@@ -931,8 +939,10 @@
       "publishedAt": "2026-01-14T11:47:27Z",
       "content": "London (Parliament Politics Magazine) January 13, 2026 – UK Technology Secretary Liz Kendall stated the government backs regulator Ofcom in potentially blocking access to X if it fails to address AI-… [+9093 chars]",
       "tags": [
-        "media_communications",
         "social_media",
+        "technology_regulation",
+        "censorship",
+        "free_speech",
         "foreign_policy"
       ],
       "publishedAtTs": 1768391247
@@ -950,7 +960,7 @@
       "publishedAt": "2026-01-14T18:34:52Z",
       "content": "RFK Jr. on Trump: \r\nHe eats really bad food, which is McDonalds, and candy and Diet Coke. But he drinks Diet Coke at all times. He has the constitution of a deity. I dont know how hes aliveHe's just … [+135 chars]",
       "tags": [
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1768415692
     },
@@ -967,8 +977,7 @@
       "publishedAt": "2026-01-14T03:00:00Z",
       "content": "First, the good news: 2025 was not the hottest year on record. Now the bad news: last year was the third hottest on record, just a hair behind 2023. More importantly, it caps three years when global … [+2570 chars]",
       "tags": [
-        "climate_policy",
-        "environment"
+        "off_topic"
       ],
       "publishedAtTs": 1768359600
     },
@@ -985,8 +994,7 @@
       "publishedAt": "2026-01-14T16:00:00Z",
       "content": "The moon is going nuclear. On Tuesday NASA and the U.S. Department of Energy announced a commitment to build a fission reactor on the lunar surface.\r\nNASA has been exploring nuclear power for the moo… [+1515 chars]",
       "tags": [
-        "space_policy",
-        "energy"
+        "space_policy"
       ],
       "publishedAtTs": 1768406400
     },
@@ -1003,9 +1011,7 @@
       "publishedAt": "2026-01-14T12:04:26Z",
       "content": "But Trump has made it clear that some data collection simply didnt align with White House priorities that no longer include woke topics such as climate change (a hoax) or diversity, equity and inclus… [+1152 chars]",
       "tags": [
-        "policy_legislation",
-        "climate_policy",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1768392266
     },
@@ -1021,10 +1027,7 @@
       "urlToImage": "https://media.pitchfork.com/photos/6966b839295566fa53430a07/16:9/w_1280,c_limit/Kim-Gordon.jpeg",
       "publishedAt": "2026-01-14T15:02:43Z",
       "content": "In 2025, Kim Gordon reworked her single Bye Bye into an indictment against the Trump administration. Now shes back with a new solo album that similarly takes aim at politicians and the billionaire cl… [+1506 chars]",
-      "tags": [
-        "social_issues",
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1768402963
     },
     {
@@ -1040,9 +1043,11 @@
       "publishedAt": "2026-01-14T11:38:37Z",
       "content": "In late October, a Houston-area 10th grader, 16-year-old U.S. citizen Arnoldo Bazan, watched his father tackled, choked and arrested in public by immigration officials who the teenager said refused t… [+8218 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "law_enforcement"
+        "civil_rights",
+        "law_enforcement",
+        "ice_controversies_resistance",
+        "federal_agencies"
       ],
       "publishedAtTs": 1768390717
     },
@@ -1076,9 +1081,11 @@
       "publishedAt": "2026-01-14T19:25:00Z",
       "content": "Considering it's only been a week since Immigration and Customs Enforcement agent Jonathan Ross killed Renee Good, and her shooting marks the 13th time immigration agents have opened fire on someone'… [+2159 chars]",
       "tags": [
-        "mass_deportation_operation",
         "ice_controversies_resistance",
-        "legal_justice"
+        "immigration",
+        "federal_agencies",
+        "law_enforcement",
+        "social_issues"
       ],
       "publishedAtTs": 1768418700
     },
@@ -1094,9 +1101,7 @@
       "urlToImage": "",
       "publishedAt": "2026-01-14T17:37:19Z",
       "content": "×Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a\r\n membership to support the site and join the conversation, you can explore your option… [+341 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1768412239
     },
     {
@@ -1112,9 +1117,7 @@
       "publishedAt": "2026-01-14T10:00:00Z",
       "content": "Last January, fires were raging across Los Angeles, smothering some 20 million people across the region in toxic smoke and ash.\r\nLA residents worried the air was toxic, the soil contaminated, and the… [+12155 chars]",
       "tags": [
-        "public_health",
-        "natural_disasters",
-        "climate_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1768384800
     },
@@ -1131,9 +1134,7 @@
       "publishedAt": "2026-01-14T19:29:34Z",
       "content": "An epidemic of a deadly lung disease among hundreds of workers who cut kitchen and bathroom countertops has regulators on opposite sides of the country considering two drastically different responses… [+8118 chars]",
       "tags": [
-        "social_issues",
-        "labor",
-        "public_health"
+        "off_topic"
       ],
       "publishedAtTs": 1768418974
     },
@@ -1150,8 +1151,7 @@
       "publishedAt": "2026-01-14T12:00:00Z",
       "content": "The risks of using generative artificial intelligence to educate children and teens currently overshadow the benefits, according to a new study by the Brookings Institution's Center for Universal Edu… [+8819 chars]",
       "tags": [
-        "ai_state_preemption",
-        "education"
+        "off_topic"
       ],
       "publishedAtTs": 1768392000
     },
@@ -1168,7 +1168,6 @@
       "publishedAt": "2026-01-14T04:02:50Z",
       "content": "from the let's-go-for-three dept\r\nDonald Trump is the only president in American history to have been impeached twice. That is a simple fact of history. \r\nI can imagine it’s a fact that Donald Trump … [+4509 chars]",
       "tags": [
-        "legal_justice",
         "impeachment",
         "trump"
       ],
@@ -1187,9 +1186,11 @@
       "publishedAt": "2026-01-14T17:27:22Z",
       "content": "from the what-a-fucked-up-country dept\r\nLast week, we wrote about how ICE agent Jonathan Ross murdered Renee Nicole Good\r\n, a 37-year-old poet and mother, on a Minneapolis street in broad daylight. W… [+10310 chars]",
       "tags": [
-        "law_enforcement",
+        "ice_controversies_resistance",
         "criminal_cases",
-        "immigration"
+        "law_enforcement",
+        "federal_agencies",
+        "legal_justice"
       ],
       "publishedAtTs": 1768411642
     },
@@ -1206,8 +1207,8 @@
       "publishedAt": "2026-01-14T19:01:19Z",
       "content": "from the bad-at-being-terrible dept\r\nIf you missed it, Trump-allied billionaire Larry Ellison and his nepobaby son David hired an unqualified troll named Bari Weiss to “run” CBS News. And by “run” CB… [+2990 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "media_criticism",
+        "media_communications"
       ],
       "publishedAtTs": 1768417279
     },
@@ -1224,8 +1225,11 @@
       "publishedAt": "2026-01-14T13:26:00Z",
       "content": "from the eyeballs-please dept\r\nWe’ve always known the ultimate goal was to subject everyone to biometric collections, whether it’s at border crossings or international airports. At some point, the te… [+5490 chars]",
       "tags": [
-        "security_intelligence",
-        "technology_regulation"
+        "federal_agencies",
+        "immigration",
+        "border_security",
+        "policy_legislation",
+        "social_issues"
       ],
       "publishedAtTs": 1768397160
     },
@@ -1243,8 +1247,10 @@
       "content": "from the roving-lawbreaking-thugs dept\r\nThis story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. The original version has even more horrifying photographs and v… [+22889 chars]",
       "tags": [
         "immigration",
+        "ice_controversies_resistance",
+        "civil_rights",
         "law_enforcement",
-        "civil_rights"
+        "social_issues"
       ],
       "publishedAtTs": 1768434404
     },
@@ -1261,9 +1267,10 @@
       "publishedAt": "2026-01-14T21:08:59Z",
       "content": "from the abolish-ice dept\r\nU.S. Immigration and Customs Enforcement (ICE) has a new budget under the current administration, and they are going on a surveillance tech shopping spree. Standing at $28.… [+17470 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "ice_controversies_resistance",
-        "immigration"
+        "federal_agencies",
+        "immigration",
+        "budget",
+        "social_issues"
       ],
       "publishedAtTs": 1768424939
     },
@@ -1280,9 +1287,10 @@
       "publishedAt": "2026-01-14T18:20:51Z",
       "content": "An onlooker holds a sign that reads \"shame\" as members of law enforcement work the scene following a suspected shooting by an ICE agent during federal law enforcement operations on January 7, 2026, i… [+11564 chars]",
       "tags": [
-        "social_issues",
         "immigration",
-        "civil_rights"
+        "civil_rights",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1768414851
     },
@@ -1299,6 +1307,9 @@
       "publishedAt": "2026-01-14T22:20:29Z",
       "content": "Attorney General Pam Bondi during a news conference at the Department of Justice in Washington, DC, on December 4, 2025. | Alex Kent/Bloomberg via Getty Images\r\n\n\nThis story appeared in The Logoff, a… [+2778 chars]",
       "tags": [
+        "federal_agencies",
+        "doj_actions",
+        "trump",
         "legal_justice",
         "government_administration"
       ],
@@ -1317,8 +1328,7 @@
       "publishedAt": "2026-01-14T22:00:09Z",
       "content": "America’s political binary — left and right, Democrat and Republican — can feel inescapable. But historically, it’s a relatively new development, and academically, some political scientists argue it’… [+863 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1768428009
     },
@@ -1335,10 +1345,11 @@
       "publishedAt": "2026-01-14T20:58:59Z",
       "content": "People march during a protest after the killing of Renee Nicole Good on January 8, 2026, in Minneapolis. | Stephen Maturen/Getty Images\r\n\n\nWhen Renee Good was shot by an ICE officer last week in Minn… [+9924 chars]",
       "tags": [
-        "mass_deportation_operation",
         "ice_controversies_resistance",
+        "immigration",
         "protests",
-        "civil_rights"
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1768424339
     },
@@ -1355,8 +1366,11 @@
       "publishedAt": "2026-01-14T15:20:35Z",
       "content": "The Environmental Protection Agency wants to stop calculating the dollar value of the health benefits of its air pollution regulations while still including costs to industry.\r\n\n\nThe Environmental Pr… [+5887 chars]",
       "tags": [
+        "federal_agencies",
         "environment",
-        "policy_legislation"
+        "policy_legislation",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1768404035
     },
@@ -1373,8 +1387,9 @@
       "publishedAt": "2026-01-14T18:10:24Z",
       "content": "Jonathan Ross -- the ICE agent who shot and killed Renee Good while she was behind the wheel of her car in Minneapolis last week -- reportedly suffered internal bleeding from their confrontation ... … [+1516 chars]",
       "tags": [
+        "ice_controversies_resistance",
         "law_enforcement",
-        "criminal_cases"
+        "federal_agencies"
       ],
       "publishedAtTs": 1768414224
     },
@@ -1390,10 +1405,7 @@
       "urlToImage": "https://imagez.tmz.com/image/f6/16by9/2026/01/14/f62b43ca02c9480fb126e1a6380d07cf_xl.jpg",
       "publishedAt": "2026-01-14T22:28:31Z",
       "content": "Journalist Laura Jedeed should be considered a domestic terrorist, according to the Donald Trump administration's warped metric ... but she tells \"TMZ Live,\" she was hired by ICE anyway!\r\nThis is a w… [+2511 chars]",
-      "tags": [
-        "mass_deportation_operation",
-        "ice_controversies_resistance"
-      ],
+      "tags": [],
       "publishedAtTs": 1768429711
     },
     {
@@ -1409,7 +1421,7 @@
       "publishedAt": "2026-01-14T15:04:08Z",
       "content": "Robert F. Kennedy Jr. may have put steak near the top of the food chain ... but even he knows President Donald Trump eats like a stoner on death row.\r\nThe Health and Human Services Secretary opened u… [+1144 chars]",
       "tags": [
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1768403048
     },
@@ -1425,11 +1437,7 @@
       "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Sodium-ion-batteries-Landscape.jpg?resize=1200,600",
       "publishedAt": "2026-01-14T13:10:00Z",
       "content": "The must-reads\r\nIve combed the internet to find you todays most fun/important/scary/fascinating stories about technology.\r\n1 Iran is systematically crippling StarlinkThe satellite internet service is… [+2370 chars]",
-      "tags": [
-        "technology_regulation",
-        "energy",
-        "space_policy"
-      ],
+      "tags": [],
       "publishedAtTs": 1768396200
     },
     {
@@ -1462,8 +1470,11 @@
       "publishedAt": "2026-01-14T22:54:43Z",
       "content": "Trump administrations move against Jerome Powell fuels fears the Feds independence is being undermined.The Trump administrations decision to launch the first-ever criminal investigation into the head… [+476 chars]",
       "tags": [
-        "legal_justice",
-        "economy_finance"
+        "banking",
+        "criminal_cases",
+        "doj_actions",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1768431283
     },
@@ -1480,9 +1491,11 @@
       "publishedAt": "2026-01-14T12:35:11Z",
       "content": "United States President Donald Trump has repeatedly threatened that Washington could intervene militarily in Iran if there is a violent crackdown on demonstrators amid ongoing protests.\r\nOn Wednesday… [+9029 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
         "iran",
-        "military"
+        "military",
+        "us_iran_war"
       ],
       "publishedAtTs": 1768394111
     },
@@ -1499,7 +1512,9 @@
       "publishedAt": "2026-01-14T23:27:46Z",
       "content": "The foreign ministers of Denmark and Greenland have travelled to Washington, DC, to meet with members of President Donald Trumps administration in the United States.\r\nBut on Wednesday, officials emer… [+3086 chars]",
       "tags": [
-        "greenland_acquisition"
+        "greenland_acquisition",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768433266
     },
@@ -1516,8 +1531,11 @@
       "publishedAt": "2026-01-14T03:00:00Z",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nIran says US seeking to manufacture a pretext for military intervention, as US President Trump warns of strong action over protest crackdown.",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "protests",
+        "iran",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768359600
     },
@@ -1534,8 +1552,11 @@
       "publishedAt": "2026-01-14T23:27:44Z",
       "content": "United States President Donald Trump says that the killings of antigovernment protesters in Iran have stopped, signalling a more measured approach to the crisis after threatening to attack Iran in re… [+5422 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "iran",
+        "security_incidents",
+        "trump"
       ],
       "publishedAtTs": 1768433264
     },
@@ -1552,8 +1573,11 @@
       "publishedAt": "2026-01-14T07:08:13Z",
       "content": "NewsFeed\r\nUS President Donald Trump has said help is on the way for anti-government protesters in Iran. At a speech in Detroit, he warned those responsible for killing demonstrators would pay a big p… [+4 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "protests",
+        "statements",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768374493
     },
@@ -1571,7 +1595,8 @@
       "content": "What can small nations do to prevent being gobbled up by bigger, more powerful ones?\r\nThis is no abstract question for Greenland right now. Its very real. And it has no easy answers. Greenlands auton… [+4222 chars]",
       "tags": [
         "greenland_acquisition",
-        "foreign_policy"
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1768372242
     },
@@ -1588,9 +1613,11 @@
       "publishedAt": "2026-01-14T03:04:13Z",
       "content": "US senators have introduced a bill aimed at preventing President Donald Trump from seizing NATO territory, including the self-governing Dutch island of Greenland.\r\nThe bipartisan NATO Unity Protectio… [+3321 chars]",
       "tags": [
+        "congress",
         "greenland_acquisition",
-        "policy_legislation",
-        "foreign_policy"
+        "foreign_policy",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1768359853
     },
@@ -1608,7 +1635,10 @@
       "content": "The United States says it will suspend immigrant visa processing for 75 countries around the world, as US President Donald Trumps administration continues its wide-reaching crackdown on immigration.\r… [+2452 chars]",
       "tags": [
         "immigration",
-        "policy_legislation"
+        "trump",
+        "government_administration",
+        "policy_legislation",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768426971
     },
@@ -1625,7 +1655,9 @@
       "publishedAt": "2026-01-14T17:54:40Z",
       "content": "NewsFeed\r\nThe Arctic town of Ilulissat is welcoming back the sun after two long months of polar night in western Greenland, but many say they worry what this new year will bring as US President Donal… [+41 chars]",
       "tags": [
-        "greenland_acquisition"
+        "greenland_acquisition",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768413280
     },
@@ -1642,7 +1674,9 @@
       "publishedAt": "2026-01-14T14:01:30Z",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nDonald Trumps comments come as Danish and Greenlandic diplomats visit the White House for talks on Greenland with US Vice President JD Vance and Secretary of… [+18 chars]",
       "tags": [
-        "greenland_acquisition"
+        "greenland_acquisition",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768399290
     },
@@ -1659,9 +1693,11 @@
       "publishedAt": "2026-01-14T17:00:42Z",
       "content": "United States President Donald Trumps special envoy to the Middle East has announced the launch of the second phase of a US-brokered plan to end Israels genocidal war against Palestinians in the Gaza… [+1727 chars]",
       "tags": [
-        "foreign_policy",
         "gaza",
-        "middle_east"
+        "middle_east",
+        "israel",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1768410042
     },
@@ -1678,8 +1714,11 @@
       "publishedAt": "2026-01-14T12:48:45Z",
       "content": "On Saturday, just under two weeks into the protests that are now sweeping Iran, United States President Donald Trump took to his social media platform of choice to post a message of support: Iran is … [+5161 chars]",
       "tags": [
+        "middle_east",
+        "iran",
+        "national_security",
         "foreign_policy",
-        "iran"
+        "trump"
       ],
       "publishedAtTs": 1768394925
     },
@@ -1696,8 +1735,7 @@
       "publishedAt": "2026-01-14T01:23:30Z",
       "content": "Claudette Colvin, who helped to ignite the modern civil rights movement in the US after refusing to give up her seat to a white woman on a segregated bus, has died aged 86.\r\nColvin was 15 when she wa… [+3451 chars]",
       "tags": [
-        "civil_rights",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1768353810
     }

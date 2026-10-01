@@ -28,15 +28,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         <div class="rounded-lg border border-border p-6 shadow-sm">
           <h3 class="mb-3 text-xl font-semibold">1. Fetch News</h3>
           <p class="m-0 text-muted-foreground">
-            Every day, a script fetches the latest news articles related to
-            Donald Trump from a variety of sources using the GNews.io API.
+            Every day, a script fetches the latest news articles about Donald
+            Trump from NewsAPI.org.
           </p>
         </div>
         <div class="rounded-lg border border-border p-6 shadow-sm">
           <h3 class="mb-3 text-xl font-semibold">2. Tag Articles</h3>
           <p class="m-0 text-muted-foreground">
-            Each article is then processed by Anthropic's Claude AI model, which
-            reads the content and assigns relevant tags to categorize the news.
+            Each article is scored by Jev, TypeSafe’s decision model. Jev reads
+            the article and assigns the tags used to categorize it.
           </p>
         </div>
         <div class="rounded-lg border border-border p-6 shadow-sm">
@@ -59,18 +59,18 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       </p>
       <div class="flex flex-wrap items-center justify-center gap-6">
         <a
-          href="https://gnews.io/"
+          href="https://newsapi.org/"
           target="_blank"
           rel="noopener noreferrer"
           class="font-semibold text-primary no-underline hover:underline"
-          >GNews.io</a
+          >NewsAPI.org</a
         >
         <a
-          href="https://www.anthropic.com/"
+          href="https://docs.typesafe.ai/models"
           target="_blank"
           rel="noopener noreferrer"
           class="font-semibold text-primary no-underline hover:underline"
-          >Anthropic Claude</a
+          >Jev</a
         >
         <a
           href="https://www.algolia.com/"

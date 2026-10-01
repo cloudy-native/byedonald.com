@@ -14,7 +14,12 @@
       "urlToImage": "https://media.wired.com/photos/697bcbc1c665ec82a9eaf379/191:100/w_1280,c_limit/Big-Interview-UV-Interview-Why-Tech-Workers-Want-ICE-Out-of-US-Cities-Business-2254689766.jpg",
       "publishedAt": "2026-01-30T11:30:00Z",
       "content": "The first Trump administration, and the tech industry that stood up to it, are both looking quainter by the day.\r\nHeres one example: In 2017, when President Trump issued a series of executive orders … [+3637 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "social_issues",
+        "trump"
+      ],
       "publishedAtTs": 1769772600
     },
     {
@@ -31,9 +36,10 @@
       "content": "The Trump administration has flooded Minneapolis and other parts of Minnesota with federal agents as part of its immigration crackdown, Operation Metro Surge detaining children, intimidating protesto… [+7494 chars]",
       "tags": [
         "immigration",
-        "law_enforcement",
-        "protests",
-        "security_intelligence"
+        "ice_controversies_resistance",
+        "civil_rights",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1769794360
     },
@@ -50,8 +56,7 @@
       "publishedAt": "2026-01-30T13:10:29Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSorry, its not a documentary but a creative experience.\r\nSorry, its not a documentary but a creative experience.\r\nby\r\nJess WeatherbedClose\r\nPosts from this autho… [+2647 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1769778629
     },
@@ -68,10 +73,7 @@
       "publishedAt": "2026-01-30T20:35:54Z",
       "content": "Elon Musk has previously insisted that he never visited Jeffrey Epstein’s private island in the Caribbean, known as Little St. James. But emails released by the U.S. Department of Justice on Friday i… [+6919 chars]",
       "tags": [
-        "legal_justice",
-        "law_enforcement",
-        "criminal_cases",
-        "doj_actions"
+        "off_topic"
       ],
       "publishedAtTs": 1769805354
     },
@@ -87,7 +89,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/02e3/live/289bd6d0-fe17-11f0-8a1e-69aa641f4cb6.jpg",
       "publishedAt": "2026-01-30T23:56:25Z",
       "content": "\"Some of the documents contain untrue and sensationalist claims against President Trump that were submitted to the FBI right before the 2020 election,\" it reads. \"To be clear, the claims are unfounde… [+128 chars]",
-      "tags": [],
+      "tags": [
+        "trump"
+      ],
       "publishedAtTs": 1769817385
     },
     {
@@ -103,9 +107,11 @@
       "publishedAt": "2026-01-30T06:12:01Z",
       "content": "In response, Araghchi said: \"Iran has always welcomed a mutually beneficial, fair and equitable NUCLEAR DEAL - on equal footing, and free from coercion, threats, and intimidation - which ensures Iran… [+76 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
         "iran",
         "foreign_policy",
-        "security_intelligence"
+        "trump"
       ],
       "publishedAtTs": 1769753521
     },
@@ -121,11 +127,7 @@
       "urlToImage": "https://www.cnet.com/a/img/resize/74a4f9574836ff4a319aed59c33823e4617462c8/hub/2026/01/30/d0b34d43-7ece-4186-8122-2205b3869c88/opt-3-clean.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2026-01-30T13:01:00Z",
       "content": "Apple has a new AirTag that's better at finding lost things. If only it could help find the goodwill Apple lost when CEO Tim Cook chose to party at the White House on Saturday. \r\nThere's a lot of App… [+1846 chars]",
-      "tags": [
-        "media_communications",
-        "personal_family",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1769778060
     },
     {
@@ -140,7 +142,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8039x4522+0+419/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F15%2F977148e242bc9cf6eb41f2ca3271%2Fap26030037625428.jpg",
       "publishedAt": "2026-01-30T07:51:12Z",
       "content": "President Donald Trump said he plans to announce his choice for chairman of the Federal Reserve on Friday morning, a long-awaited decision that could set up a showdown on whether the U.S. central ban… [+3832 chars]",
-      "tags": [],
+      "tags": [
+        "personnel",
+        "appointments",
+        "banking",
+        "trump",
+        "economy_finance"
+      ],
       "publishedAtTs": 1769759472
     },
     {
@@ -156,9 +164,7 @@
       "publishedAt": "2026-01-30T17:50:39Z",
       "content": "In a first step toward fulfilling a settlement with the Trump administration over alleged anti-semitism on its campus, Brown University has started making payments to local workforce development trai… [+2264 chars]",
       "tags": [
-        "policy_legislation",
-        "education",
-        "social_issues"
+        "education"
       ],
       "publishedAtTs": 1769795439
     },
@@ -174,7 +180,10 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3368x1895+0+262/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2F54%2F43041edb4bf38a9c1c00324875db%2Fgettyimages-2238300075.jpg",
       "publishedAt": "2026-01-30T10:00:00Z",
       "content": "The dollar continues to sink but is that a good thing for the U.S. economy? \r\nPresident Trump seems to think so. On Tuesday, he said he welcomed the decline. Compared against a basket of major foreig… [+4453 chars]",
-      "tags": [],
+      "tags": [
+        "economy_finance",
+        "trump"
+      ],
       "publishedAtTs": 1769767200
     },
     {
@@ -189,7 +198,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6048x3402+0+315/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F91%2Fca3ca5a64c528dede3d0a4fa01f1%2Fgettyimages-2258472236.jpg",
       "publishedAt": "2026-01-30T17:05:26Z",
       "content": "The Department of Justice released more than 3 million pages, including more than 2,000 videos and 180,000 images, in its files tied to the death and criminal investigation of convicted sex offender … [+2688 chars]",
-      "tags": [],
+      "tags": [
+        "doj_actions",
+        "federal_agencies",
+        "criminal_cases",
+        "law_enforcement",
+        "legal_justice"
+      ],
       "publishedAtTs": 1769792726
     },
     {
@@ -205,9 +220,7 @@
       "publishedAt": "2026-01-30T17:00:00Z",
       "content": "When Amazon founder Jeff Bezos bought The Washington Post in 2013, the staff hailed him for rescuing it from mounting financial struggles. For years, the storied newspaper flourished as he invested i… [+10000 chars]",
       "tags": [
-        "media_communications",
-        "economy_finance",
-        "personal_business"
+        "off_topic"
       ],
       "publishedAtTs": 1769792400
     },
@@ -224,8 +237,10 @@
       "publishedAt": "2026-01-30T20:45:13Z",
       "content": "The U.S. government has given an ultimatum to the international group that helps provide vaccines to children in the world's poorest countries.\r\nIn a statement sent to NPR, The Department of Health a… [+7770 chars]",
       "tags": [
+        "public_health",
+        "health",
         "health_science",
-        "public_health"
+        "foreign_policy"
       ],
       "publishedAtTs": 1769805913
     },
@@ -241,7 +256,13 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5222x2937+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2Fad%2Fac9994744ef0a5f763e592d632c0%2Fap26028780542293.jpg",
       "publishedAt": "2026-01-30T01:10:23Z",
       "content": "With the government on the brink of a partial shutdown, the Senate is scrambling to keep funding flowing and address bipartisan distress over President Trump's immigration enforcement tactics.\r\nBut e… [+9755 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "congress",
+        "budget",
+        "federal_agencies",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1769735423
     },
     {
@@ -256,7 +277,9 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F07%2Fbf%2F9352497b43389ac90c8b45b66873%2Fgettyimages-2258178988.jpg",
       "publishedAt": "2026-01-30T10:00:00Z",
       "content": "WASHINGTON The smiling faces of some of the 67 people killed in the midair collision a year ago danced across the screen in a video montage at an emotional memorial event this week.\r\nAt the same time… [+4484 chars]",
-      "tags": [],
+      "tags": [
+        "transportation"
+      ],
       "publishedAtTs": 1769767200
     },
     {
@@ -272,8 +295,7 @@
       "publishedAt": "2026-01-30T01:25:00Z",
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way.",
       "tags": [
-        "trade",
-        "technology_regulation"
+        "canada"
       ],
       "publishedAtTs": 1769736300
     },
@@ -289,7 +311,13 @@
       "urlToImage": "https://i.insider.com/697cafcfa645d11881884fc2?width=1200&format=jpeg",
       "publishedAt": "2026-01-30T14:09:08Z",
       "content": "Kevin Warsh is the new chair of the US Federal Reserve.Tasos Katopodis/Getty Images for Semafor\r\n<ul><li>Kevin Warsh has been nominated by President Donald Trump to become the Federal Reserve chair.<… [+3926 chars]",
-      "tags": [],
+      "tags": [
+        "personnel",
+        "appointments",
+        "banking",
+        "economy_finance",
+        "trump"
+      ],
       "publishedAtTs": 1769782148
     },
     {
@@ -304,10 +332,7 @@
       "urlToImage": "https://i.insider.com/697d0e97e1ba468a96ab14ab?width=1200&format=jpeg",
       "publishedAt": "2026-01-30T20:33:02Z",
       "content": "President Donald Trump and Melania Trump, the first lady, attended the premiere of her \"Melania\" at the Kennedy Center on Thursday.Alex WROBLEWSKI / AFP\r\n<ul><li>Ever wonder what it's like to watch M… [+4331 chars]",
-      "tags": [
-        "personal_family",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1769805182
     },
     {
@@ -322,7 +347,13 @@
       "urlToImage": "https://i.insider.com/693c8a2164858d02d216c0d1?width=594&format=jpeg",
       "publishedAt": "2026-01-30T12:03:12Z",
       "content": "Kevin Warsh will be the next leader of the Federal Reserve.IMF\r\n<ul><li>Kevin Warsh has been chosen by President Trump to lead the Federal Reserve.</li><li>Warsh, a former Fed governor and Wall Stree… [+3435 chars]",
-      "tags": [],
+      "tags": [
+        "personnel",
+        "appointments",
+        "banking",
+        "trump",
+        "economy_finance"
+      ],
       "publishedAtTs": 1769774592
     },
     {
@@ -339,7 +370,7 @@
       "content": "Trump accounts will act similar to a traditional IRA.Bloomberg/Bloomberg via Getty Images\r\n<ul><li>Trump Accounts will launch in July 2026, aimed at kids' investment savings.</li><li>The government w… [+4283 chars]",
       "tags": [
         "economy_finance",
-        "personal_family"
+        "policy_legislation"
       ],
       "publishedAtTs": 1769766661
     },
@@ -356,8 +387,7 @@
       "publishedAt": "2026-01-30T13:53:34Z",
       "content": "Don Lemon, the former CNN anchor, was arrested in Los Angeles on Thursday night.\r\nLemon's arrest comes after protesters interrupted a service at a church in St. Paul, Minnesota.\r\nHe has said that he … [+1250 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769781214
     },
@@ -374,8 +404,9 @@
       "publishedAt": "2026-01-30T16:08:05Z",
       "content": "An American Airlines plane on the tarmac in Costa Rica.Daniel SLIM / AFP via Getty Images\r\n<ul><li>President Donald Trump said the US government was reopening commercial airspace over Venezuela.</li>… [+2485 chars]",
       "tags": [
-        "foreign_policy",
-        "transportation"
+        "transportation",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1769789285
     },
@@ -391,7 +422,12 @@
       "urlToImage": "https://i.insider.com/697b7aa3a645d11881883b10?width=1200&format=jpeg",
       "publishedAt": "2026-01-30T10:36:01Z",
       "content": "President Donald Trump's student-loan repayment changes could prompt more borrowers to turn to private lending.Win McNamee/Getty Images\r\n<ul><li>Trump's changes to student-loan repayment include new … [+4184 chars]",
-      "tags": [],
+      "tags": [
+        "education",
+        "trump",
+        "economy_finance",
+        "policy_legislation"
+      ],
       "publishedAtTs": 1769769361
     },
     {
@@ -422,8 +458,7 @@
       "publishedAt": "2026-01-30T21:40:48Z",
       "content": "Side by side with Elon Musk (L) and Jeffrey EpsteinGetty and Epstein files screenshot\r\n<ul><li>Elon Musk discussed plans to visit with Jeffrey Epstein in the Caribbean, newly released emails show.</l… [+4386 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1769809248
     },
@@ -440,8 +475,7 @@
       "publishedAt": "2026-01-30T20:26:34Z",
       "content": "Catherine OHara, the legendary actor known for her roles in television and film like Schitts Creek, the Home Alone films, the second season of The Last of Us, and much, much more, has passed away at … [+2711 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769804794
     },
@@ -458,9 +492,7 @@
       "publishedAt": "2026-01-30T15:46:49Z",
       "content": "The 2026 Game Developers Conference (GDC), which has been renamed the GDC Festival of Gaming, takes place in early March. Ahead of the San Francisco-based industry event, GDC has released its annual … [+2934 chars]",
       "tags": [
-        "technology_regulation",
-        "labor",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1769788009
     },
@@ -476,7 +508,10 @@
       "urlToImage": "https://s.yimg.com/os/en/the_huffington_post_584/5002cb7b48b8a8adb0efe1d83430df8b",
       "publishedAt": "2026-01-30T18:04:14Z",
       "content": "The Trump administration called Bruce Springsteens new Minneapolis protest song irrelevant and inaccurate and lectured reporters on how to do their job.\r\nSpringsteen released Streets of Minneapolis o… [+1804 chars]",
-      "tags": [],
+      "tags": [
+        "trump",
+        "media_communications"
+      ],
       "publishedAtTs": 1769796254
     },
     {
@@ -491,11 +526,7 @@
       "urlToImage": null,
       "publishedAt": "2026-01-30T06:53:41Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [
-        "personal_family",
-        "legal_justice",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1769756021
     },
     {
@@ -511,9 +542,8 @@
       "publishedAt": "2026-01-30T01:13:12Z",
       "content": "By David Shepardson and Bhargav Acharya\r\nWASHINGTON, Jan 29 (Reuters) - President Donald Trump said on Thursday the U.S. was decertifying Bombardier Global Express business jets and threatened 50% im… [+3962 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "foreign_policy"
+        "transportation",
+        "trump"
       ],
       "publishedAtTs": 1769735592
     },
@@ -530,6 +560,7 @@
       "publishedAt": "2026-01-30T12:30:00Z",
       "content": "More than 10 years after its delivery, warnings from Donald Trumps June 2015 presidential candidacy announcement continue to resonate. He decried the high cost of the Affordable Care Act medical insu… [+3873 chars]",
       "tags": [
+        "trump",
         "policy_legislation"
       ],
       "publishedAtTs": 1769776200
@@ -546,7 +577,12 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/e3tAyIrQ8jL7MEE445M0pA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-01/afb29610-fd6b-11f0-b77b-4c39dc5f50ec",
       "publishedAt": "2026-01-30T18:14:35Z",
       "content": "US stocks slid on Friday as President Trump said he would nominate Kevin Warsh to lead the Federal Reserve, against a background of a rising dollar and a screeching halt to 2026's roaring metals rall… [+16045 chars]",
-      "tags": [],
+      "tags": [
+        "stock_market",
+        "personnel",
+        "economy_finance",
+        "trump"
+      ],
       "publishedAtTs": 1769796875
     },
     {
@@ -562,8 +598,7 @@
       "publishedAt": "2026-01-30T03:37:16Z",
       "content": "PANAMA CITY, Jan 29 (Reuters) - Panama's Supreme Court late on Thursday annulled key port contracts held by a subsidiary of Hong Kong-based CK Hutchison, ruling that the contracts were unconstitution… [+970 chars]",
       "tags": [
-        "foreign_policy",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1769744236
     },
@@ -579,7 +614,9 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JD2NhaT5zSgHbwIK7aqiDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODM7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/ec4275f1f89f1ade584d7d6e5d99f046",
       "publishedAt": "2026-01-30T13:23:23Z",
       "content": "WASHINGTON (AP) Journalist Don Lemon and three other people were arrested Friday in connection with an anti-immigration protest that disrupted a service at a Minnesota church and increased tensions b… [+4112 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769779403
     },
     {
@@ -595,9 +632,7 @@
       "publishedAt": "2026-01-30T18:52:50Z",
       "content": "Balboa port on the Pacific side of the Panama Canal (MARTIN BERNETTI)·MARTIN BERNETTI/AFP/AFP\r\nDanish firm Maersk will temporarily take over operation of two ports on the Panama Canal from Hong Kong … [+3278 chars]",
       "tags": [
-        "foreign_policy",
-        "trade",
-        "transportation"
+        "off_topic"
       ],
       "publishedAtTs": 1769799170
     },
@@ -613,7 +648,13 @@
       "urlToImage": "https://i.abcnewsfe.com/a/8fc786eb-2859-4ee3-a7ef-030c11e4ca4d/donald-trump-7-gty-gmh-260128_1769618610160_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-30T12:09:26Z",
       "content": "President Donald Trump has nominated Kevin Warsh to be the new Federal Reserve chairman.\r\nIn a post on Truth Social early Friday morning, Trump said that he has \"known Kevin for a long period of time… [+2014 chars]",
-      "tags": [],
+      "tags": [
+        "appointments",
+        "personnel",
+        "banking",
+        "statements",
+        "trump"
+      ],
       "publishedAtTs": 1769774966
     },
     {
@@ -628,7 +669,13 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c979e02d-469e-499d-a2bd-9d5a6651538e/trump-6-gty-er-260129_1769727004208_hpMain_2_16x9.jpg?w=1600",
       "publishedAt": "2026-01-30T01:36:28Z",
       "content": "President Donald Trump, two of his sons and his namesake organization sued his own Internal Revenue Service and Treasury Department on Thursday over the unauthorized disclosure of his tax information… [+1305 chars]",
-      "tags": [],
+      "tags": [
+        "lawsuits",
+        "civil_litigation",
+        "personal_legal",
+        "taxes",
+        "trump"
+      ],
       "publishedAtTs": 1769736988
     },
     {
@@ -643,7 +690,13 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c315bb88-ba23-4fb5-afd7-9f1e803c88fd/donald-trump-4-ap-gmh-260128_1769607779159_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-30T04:26:31Z",
       "content": "President Donald Trump announced Thursday a plan to impose additional tariffs on countries that provide oil to Cuba, declaring a national security emergency regarding the island nation. \r\nIn an execu… [+3235 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "energy",
+        "sanctions",
+        "statements",
+        "trump"
+      ],
       "publishedAtTs": 1769747191
     },
     {
@@ -658,7 +711,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/13160e40-aad2-44f4-9f96-eb1dfb52caa7/260128_wn_ally_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-30T05:53:06Z",
       "content": "<ul><li>At least 85 dead from winter storm as deep freeze worsens\r\n</li><li>Weekend noreaster closing in\r\n</li><li>Government funding negotiations hit last-minute snags\r\n</li><li>Trump makes pick for… [+4693 chars]",
-      "tags": [],
+      "tags": [
+        "crisis_emergency"
+      ],
       "publishedAtTs": 1769752386
     },
     {
@@ -673,7 +728,13 @@
       "urlToImage": "https://i.abcnewsfe.com/a/952b4f04-c0ea-4c90-9700-bd9f0e4eb9f9/epstein-9-ht-gmh-251218._1766081526464_hpMain_16x9.jpg?w=1600",
       "publishedAt": "2026-01-30T16:19:06Z",
       "content": "Additional material from the Justice Department's files on the late sex offender Jeffrey Epstein is being released to the public today, Deputy Attorney General Todd Blanche said at a press briefing F… [+4523 chars]",
-      "tags": [],
+      "tags": [
+        "federal_agencies",
+        "doj_actions",
+        "statements",
+        "criminal_cases",
+        "legal_justice"
+      ],
       "publishedAtTs": 1769789946
     },
     {
@@ -688,7 +749,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b3482785-485f-43cc-a38b-56ea673e30e9/260130_gma_play_unrivaled2_0749_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-30T14:45:47Z",
       "content": "<ul><li>Federal judge takes death penalty off the table in Mangione case\r\n</li><li>Former CNN anchor Don Lemon arrested in connection with Minnesota protest: Sources\r\n</li><li>At least 85 dead from w… [+4561 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769784347
     },
     {
@@ -703,7 +766,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/118e0e80-d61d-49a1-9d8c-100629fe2b94/260130_gma_gibson_reading4_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-30T14:59:31Z",
       "content": "<ul><li>Federal judge takes death penalty off the table in Mangione case\r\n</li><li>Former CNN anchor Don Lemon arrested in connection with Minnesota protest: Sources\r\n</li><li>At least 85 dead from w… [+4561 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769785171
     },
     {
@@ -719,8 +784,7 @@
       "publishedAt": "2026-01-30T13:24:28Z",
       "content": "Former CNN journalist Don Lemon has been arrested in connection with an incident in which anti-ICE protesters disrupted a service at a Minnesota church, multiple sources told ABC News.\r\nThe incident … [+1125 chars]",
       "tags": [
-        "protests",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1769779468
     },
@@ -736,7 +800,9 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bff34eb2-8e44-49a6-b325-a69ec1a551e8/260130_gmafl_dog_show_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-01-30T11:24:53Z",
       "content": "<ul><li>Brendan Banfield takes the stand in his own defense in double murder case\r\n</li><li>Paris Hilton opens up ahead of new visual memoir\r\n</li><li>Senate Democrats say they've struck a deal to av… [+4754 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769772293
     },
     {
@@ -751,7 +817,12 @@
       "urlToImage": "https://media.newyorker.com/photos/697b9b0ebff51ff57b95d895/16:9/w_1280,c_limit/01cobb-final.jpg",
       "publishedAt": "2026-01-30T11:00:00Z",
       "content": "During the tumultuous period that preceded the Civil War, the United States passed a series of bills that came to be collectively known as the Compromise of 1850. The Compromise allowed for Californi… [+4915 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "civil_rights",
+        "social_issues"
+      ],
       "publishedAtTs": 1769770800
     },
     {
@@ -767,9 +838,9 @@
       "publishedAt": "2026-01-30T11:00:00Z",
       "content": "The other day, the school was unusually quiet. Its corridors, colorful with childrens art, had phrases of encouragement (together is always better) painted on the walls. One hallway had a line of bik… [+4440 chars]",
       "tags": [
-        "social_issues",
         "immigration",
-        "education"
+        "ice_controversies_resistance",
+        "social_issues"
       ],
       "publishedAtTs": 1769770800
     },
@@ -785,7 +856,11 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/01/Sam-Bankman-Fried-Trump-Pardon-1200x675.jpg",
       "publishedAt": "2026-01-30T17:25:55Z",
       "content": "Sam Bankman-Fried (also known as SBF), the former CEO of the bankrupt crypto exchange FTX, wants a pardon from President Trump. The disgraced former executive, who is currently serving out a 25-year … [+3763 chars]",
-      "tags": [],
+      "tags": [
+        "pardons",
+        "personal_legal",
+        "legal_justice"
+      ],
       "publishedAtTs": 1769793955
     },
     {
@@ -800,7 +875,11 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/2a1tPNZ_YjzadtaDBpQvFZuXaa4=/0x43:2000x1085/1200x625/media/img/mt/2025/12/EP4_justice_16x9/original.jpg",
       "publishedAt": "2026-01-30T11:00:00Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsKathleen Walters was only 23 days away from qualifying for early retirement at the IRS when she decided to quit, rather tha… [+25944 chars]",
-      "tags": [],
+      "tags": [
+        "government_operations",
+        "government_administration",
+        "trump"
+      ],
       "publishedAtTs": 1769770800
     },
     {
@@ -815,7 +894,13 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/MTzc_Y06AJyDJ7v8KPhupCatqvI=/0x85:3994x2165/1200x625/media/img/mt/2026/01/2026_01_30_Trump_Is_Gearing_Up_for_Strikes_on_Iran/original.jpg",
       "publishedAt": "2026-01-30T15:36:44Z",
       "content": "The Trump administration is contemplating another attack on a foreign adversary, using a familiar script. Once again, the president has assembled what he described as an “armada” of ships within stri… [+10580 chars]",
-      "tags": [],
+      "tags": [
+        "national_security",
+        "middle_east",
+        "iran",
+        "us_iran_war",
+        "military"
+      ],
       "publishedAtTs": 1769787404
     },
     {
@@ -830,10 +915,7 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/AEAMCoZGZMuiJba_yUQDoC0zsb0=/0x43:2000x1085/1200x625/media/img/mt/2026/01/KatieMiller/original.png",
       "publishedAt": "2026-01-30T12:00:00Z",
       "content": "Katie Miller, the conservative podcaster, former DOGE aide, and wife to Stephen Miller, thinks the Constitution and the philosophical tradition upon which it is based are “woke” nonsense. Or possibly… [+5492 chars]",
-      "tags": [
-        "social_issues",
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1769774400
     },
     {
@@ -849,8 +931,7 @@
       "publishedAt": "2026-01-30T10:35:16Z",
       "content": "Melania Trump and her husband US President Donald Trump have walked the black carpet at the premier of her new documentary.\r\nMelania: Twenty Days to History, follows her in the run up to Trump's seco… [+384 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1769769316
     },
@@ -867,9 +948,8 @@
       "publishedAt": "2026-01-30T21:43:51Z",
       "content": "The US-based Human Rights Activists News Agency (HRANA) said it had confirmed the killing of more than 6,300 people, including more than 5,900 protesters, since the unrest began at the end of Decembe… [+1 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "crisis_emergency"
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1769809431
     },
@@ -886,9 +966,7 @@
       "publishedAt": "2026-01-30T00:03:18Z",
       "content": "\"You can't lose 22,000 technical people in a company and expect that nothing happens,\" says Jorge, not his real name, who was dismissed at the time. He says the shake-up aimed to align the company wi… [+106 chars]",
       "tags": [
-        "energy",
-        "foreign_policy",
-        "economy_finance"
+        "energy"
       ],
       "publishedAtTs": 1769731398
     },
@@ -904,9 +982,7 @@
       "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
       "publishedAt": "2026-01-30T18:14:44Z",
       "content": "Nicole Sperling and Brooks Barnes, reporting for The New York Times:\r\nAmazon paid Ms. Trumps production company $40 million for the\r\nrights to Melania, about $26 million more than the next closest\r\nb… [+2049 chars]",
-      "tags": [
-        "economy_finance"
-      ],
+      "tags": [],
       "publishedAtTs": 1769796884
     },
     {
@@ -923,8 +999,10 @@
       "content": "Luis Martinez was on his way to work on a frigid Minneapolis morning when federal agents suddenly boxed him in, forcing the SUV he was driving to a dead stop in the middle of the street. \r\nMasked age… [+8071 chars]",
       "tags": [
         "immigration",
-        "security_intelligence",
-        "law_enforcement"
+        "federal_agencies",
+        "civil_rights",
+        "social_issues",
+        "trump"
       ],
       "publishedAtTs": 1769807188
     },
@@ -941,9 +1019,7 @@
       "publishedAt": "2026-01-30T11:45:10Z",
       "content": "Opinion I'm an eighth-generation American, and let me tell you, I wouldn't trust my data, secrets, or services to a US company these days for love or money. Under our current government, we're simply… [+5301 chars]",
       "tags": [
-        "technology_regulation",
-        "cybersecurity",
-        "foreign_policy"
+        "europe"
       ],
       "publishedAtTs": 1769773510
     },
@@ -959,7 +1035,13 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/Untitled-design-6.jpg",
       "publishedAt": "2026-01-30T10:30:58Z",
       "content": "In what may be a record-breaking seven-hundred-millionth attack on the First Amendment since Trump re-entered office, Attorney General Pam Bondi has ordered the arrest of journalist Don Lemon for cov… [+1922 chars]",
-      "tags": [],
+      "tags": [
+        "free_speech",
+        "media_criticism",
+        "censorship",
+        "cabinet",
+        "criminal_cases"
+      ],
       "publishedAtTs": 1769769058
     },
     {
@@ -989,7 +1071,13 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/prison-unsplash-generic-main.jpg",
       "publishedAt": "2026-01-30T12:20:19Z",
       "content": "When you visit the U.S. Immigration and Customs Enforcement (ICE) web page for Detainee Death Reporting, the agency is nice enough to spell out exactly what is federally required of them, by law: “Co… [+9238 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "federal_agencies",
+        "government_operations",
+        "social_issues"
+      ],
       "publishedAtTs": 1769775619
     },
     {
@@ -1004,7 +1092,9 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/09/main-Jeff-Bezos-Lauren-Sanchez-Sundar-Pichai-Elon-Musk-Mark-Zuckerberg-inauguration-capitalism.jpg",
       "publishedAt": "2026-01-30T14:03:48Z",
       "content": "Everyone is subject to being objectified or pornographied by everyone else, said University of California, Irvine law professor Ari Ezra Waldman to a 2024 House committee hearing on deepfakes. AI ima… [+7380 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769781828
     },
     {
@@ -1020,8 +1110,7 @@
       "publishedAt": "2026-01-30T11:30:42Z",
       "content": "The average 50-something American is now worth $1.4 million: Want to get rich? Get old. Thats what the data tells us about net worth in America. The average 50-something American has a net worth of $… [+3104 chars]",
       "tags": [
-        "economy_finance",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1769772642
     },
@@ -1038,9 +1127,8 @@
       "publishedAt": "2026-01-30T17:22:59Z",
       "content": "from the wake-up-babe,-a-new-level-of-corruption-has-been-revealed dept\r\nBack in May, White House Press Secretary Karoline Leavitt offered what might be the single most audacious statement of the Tru… [+9511 chars]",
       "tags": [
-        "legal_justice",
-        "personal_legal",
-        "media_communications"
+        "ethics",
+        "trump"
       ],
       "publishedAtTs": 1769793779
     },
@@ -1057,9 +1145,8 @@
       "publishedAt": "2026-01-30T21:31:38Z",
       "content": "from the modern-state-television dept\r\nIf you’ve been napping, Trump-allied billionaire Larry Ellison and his nepobaby son David hired an unqualified troll named Bari Weiss to run CBS News. And by ru… [+3515 chars]",
       "tags": [
-        "media_communications",
-        "personal_family",
-        "regional_state"
+        "media_criticism",
+        "media_communications"
       ],
       "publishedAtTs": 1769808698
     },
@@ -1075,7 +1162,13 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-30T18:46:38Z",
       "content": "from the inhumane-fucks dept\r\nYeah, there’s the overt cruelty. There’s the murder of protesters. The chasing of day laborers across Home Depot parking lots. The snatching and separation of children f… [+7766 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "civil_rights",
+        "republican_party",
+        "ice_controversies_resistance",
+        "social_issues"
+      ],
       "publishedAtTs": 1769798798
     },
     {
@@ -1090,7 +1183,9 @@
       "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-01-30T13:26:59Z",
       "content": "from the this-is-why-we-can't-have-nice-things dept\r\nAccording to new data from the US Department of Labors Bureau of Labor Statistics (BLS), streaming video subscription prices jumped a whopping 29 … [+3197 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769779619
     },
     {
@@ -1107,9 +1202,7 @@
       "content": "from the de-escalating-the-press-coverage-and-not-much-more dept\r\nA couple weeks ago, in the wake of the murder of Renee Good, we wrote about border czar Tom Homans ridiculous TV comments suggesting … [+5060 chars]",
       "tags": [
         "immigration",
-        "security_intelligence",
-        "law_enforcement",
-        "social_issues"
+        "ice_controversies_resistance"
       ],
       "publishedAtTs": 1769803118
     },
@@ -1140,7 +1233,11 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/01/gettyimages-2254513851.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-01-30T01:52:15Z",
       "content": "ICE agents stand at the scene where ICE agents fatally shot a woman earlier in the day in Minneapolis, Minnesota, on January 7, 2026. | Christopher Juhn/Anadolu via Getty Images\r\n\n\nThis story appeare… [+5431 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "social_issues"
+      ],
       "publishedAtTs": 1769737935
     },
     {
@@ -1156,8 +1253,7 @@
       "publishedAt": "2026-01-30T13:29:15Z",
       "content": "Former CNN anchor Don Lemon has been arrested by federal agents in Los Angeles after being spotted at a church protest in St. Paul, Minnesota earlier this month.\r\nThe New York Times reports he was ch… [+1616 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769779755
     },
@@ -1174,9 +1270,11 @@
       "publishedAt": "2026-01-30T15:22:02Z",
       "content": "When asked on Thursday to comment on a certain song protesting ICE, the thuggish way the agency detains undocumented men, women, and children, and its killing of two U.S. citizens in Minneapolis, the… [+2611 chars]",
       "tags": [
+        "ice_controversies_resistance",
+        "immigration",
+        "statements",
         "social_issues",
-        "protests",
-        "immigration"
+        "media_communications"
       ],
       "publishedAtTs": 1769786522
     },
@@ -1193,8 +1291,7 @@
       "publishedAt": "2026-01-30T14:43:45Z",
       "content": "The former CNN journalist Don Lemon was arrested Thursday night, not two weeks after he was on the ground covering an anti-ICE protest that disrupted a church service in Minneapolis.\r\nLemon entered C… [+2300 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1769784225
     },
@@ -1210,7 +1307,13 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/01/ICE-and-churches.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-01-30T14:00:00Z",
       "content": "Minnesota Episcopal Bishop Craig Loya was 300 miles from home when he first heard the news that Renee Nicole Good had been fatally shot by an ICE agent in Minneapolis. \r\nInside a Benedictine monaster… [+14320 chars]",
-      "tags": [],
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "religious_freedom",
+        "social_issues",
+        "trump"
+      ],
       "publishedAtTs": 1769781600
     },
     {
@@ -1225,7 +1328,9 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/215e/live/d4803fc0-fe32-11f0-8b51-1b899a44201a.jpg",
       "publishedAt": "2026-01-30T23:51:02Z",
       "content": "World number one Judd Trump will take on Ali Carter in the semi-finals of the German Masters after a 5-3 victory over Xiao Guodong in which the pair shared four centuries.\r\nTrump compiled breaks of 1… [+301 chars]",
-      "tags": [],
+      "tags": [
+        "off_topic"
+      ],
       "publishedAtTs": 1769817062
     },
     {
@@ -1240,7 +1345,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-27T200729Z_389789266_RC2V9JAAC3AE_RTRMADP_3_CANADA-POLITICS-1769760042.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T09:29:33Z",
       "content": "Canadas Prime Minister Mark Carney has said that he expects the United States to respect the countrys sovereignty after reports that Alberta separatists have met several times with officials of the D… [+9126 chars]",
-      "tags": [],
+      "tags": [
+        "canada",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769765373
     },
     {
@@ -1255,7 +1363,11 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/AP26029819730071-1769730382.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T00:03:16Z",
       "content": "Venezuelas interim President Delcy Rodriguez has signed into law a reform bill that will pave the way for increased privatisation in the South American countrys nationalised oil sector, fulfilling a … [+3142 chars]",
-      "tags": [],
+      "tags": [
+        "energy",
+        "foreign_policy",
+        "economy_finance"
+      ],
       "publishedAtTs": 1769731396
     },
     {
@@ -1271,9 +1383,11 @@
       "publishedAt": "2026-01-30T14:41:45Z",
       "content": "United States President Donald Trump has nominated former Federal Reserve Governor Kevin Warsh to head the US central bank when current Federal Reserve Chair Jerome Powells term ends in May.\r\nThe ann… [+3258 chars]",
       "tags": [
-        "government_administration",
-        "federal_agencies",
-        "appointments"
+        "appointments",
+        "personnel",
+        "banking",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1769784105
     },
@@ -1290,10 +1404,11 @@
       "publishedAt": "2026-01-30T21:45:05Z",
       "content": "Irans foreign minister says the country is ready for fair and equitable talks with the United States amid soaring tensions, as US President Donald Trump refused to rule out taking military action aga… [+2992 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "security_intelligence",
-        "military"
+        "middle_east",
+        "national_security",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1769809505
     },
@@ -1309,7 +1424,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/AP25227447657992-1755532595.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T17:29:59Z",
       "content": "Shares of Canadian aeroplane maker Bombardier have plunged after United States President Donald Trump threatened to decertify the private jet makers large-cabin planes and all Aircraft made in Canada… [+2600 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "canada",
+        "stock_market",
+        "transportation",
+        "trump"
+      ],
       "publishedAtTs": 1769794199
     },
     {
@@ -1324,7 +1445,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-16T183254Z_487653875_RC2D2JA7NM5J_RTRMADP_3_USA-VENEZUELA-CUBA-1769738244.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T02:35:20Z",
       "content": "United States President Donald Trump has signed an executive order to impose new tariffs on any country that supplies oil to Cuba, the latest move in Washingtons campaign of pressure on Havana.\r\nThe … [+2539 chars]",
-      "tags": [],
+      "tags": [
+        "trade",
+        "sanctions",
+        "executive_orders",
+        "energy",
+        "trump"
+      ],
       "publishedAtTs": 1769740520
     },
     {
@@ -1339,7 +1466,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/image-1769756303.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-30T06:58:47Z",
       "content": "NewsFeed\r\nPresident Donald Trump says he is speaking to Irans leadership amid a significant US military build-up in the Middle East, as regional leaders push for diplomacy to avoid a new conflict.",
-      "tags": [],
+      "tags": [
+        "middle_east",
+        "national_security",
+        "iran",
+        "trump",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769756327
     },
     {
@@ -1354,7 +1487,10 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_697c31e3-1769746915.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T07:23:09Z",
       "content": "United Nations Secretary-General Antonio Guterres has warned that international cooperation is eroding in the world, during a media briefing where he took aim at one maybe two powerful countries unde… [+2762 chars]",
-      "tags": [],
+      "tags": [
+        "international_organizations",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769757789
     },
     {
@@ -1369,7 +1505,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/epa_6978c31751ca-1769521943.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T15:57:30Z",
       "content": "In June 2025, the United States had just struck Iranian nuclear sites, but rather than signal that the bombings were the opening salvo of a war between the US and Iran, President Donald Trump was qui… [+6996 chars]",
-      "tags": [],
+      "tags": [
+        "middle_east",
+        "national_security",
+        "iran",
+        "us_iran_war",
+        "foreign_policy"
+      ],
       "publishedAtTs": 1769788650
     },
     {
@@ -1384,7 +1526,13 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/01/2026-01-25T172939Z_1948519385_RC2D8JASNGO7_RTRMADP_3_UKRAINE-CRISIS-COLD-KYIV-1769747227.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-30T04:43:11Z",
       "content": "Ukrainian President Volodymyr Zelenskyy has welcomed United States President Donald Trumps announcement that Russia will not attack Kyiv and various Ukrainian towns for seven days as civilians strugg… [+2343 chars]",
-      "tags": [],
+      "tags": [
+        "ukraine",
+        "national_security",
+        "interstate_war",
+        "foreign_policy",
+        "trump"
+      ],
       "publishedAtTs": 1769748191
     },
     {
@@ -1400,9 +1548,11 @@
       "publishedAt": "2026-01-30T20:22:27Z",
       "content": "NewsFeed\r\nThe Kremlin says its agreed to halt attacks on Kyiv and surrounding towns until February 1, after a request from US President Donald Trump pointing to the record-setting cold gripping the r… [+85 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "ukraine",
+        "interstate_war",
         "russia",
-        "security_intelligence"
+        "foreign_policy"
       ],
       "publishedAtTs": 1769804547
     },
@@ -1419,10 +1569,7 @@
       "publishedAt": "2026-01-30T02:55:15Z",
       "content": "<li>Kyiv Mayor Vitali Klitschko said on Telegram that 454 residential buildings remain without heating in Ukraines capital Kyiv, with temperatures forecast to drop to -23 degrees Celsius (-9.4 degree… [+853 chars]",
       "tags": [
-        "russia",
-        "ukraine",
-        "foreign_policy",
-        "international_crisis"
+        "off_topic"
       ],
       "publishedAtTs": 1769741715
     }

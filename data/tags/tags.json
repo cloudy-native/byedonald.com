@@ -7,12 +7,12 @@
       {
         "id": "government_administration",
         "name": "Government & Administration",
-        "description": "Executive branch operations, personnel, and administrative actions"
+        "description": "Executive branch operations, personnel, and administrative actions, including construction and renovation of the White House"
       },
       {
         "id": "personnel",
         "name": "Personnel",
-        "description": "Appointments, resignations, staff changes"
+        "description": "Federal and administration posts: Cabinet, White House, agency heads, senior military, and heads of federal institutions such as the Smithsonian. A corporate CEO does not qualify."
       },
       {
         "id": "cabinet",
@@ -79,7 +79,7 @@
       {
         "id": "energy",
         "name": "Energy",
-        "description": "Oil, gas, renewables, infrastructure"
+        "description": "Oil, gas, renewables, infrastructure, and vehicle fuel-economy standards. A headline about those subjects counts even when the stored body is a different item in a roundup."
       },
       {
         "id": "transportation",
@@ -216,6 +216,16 @@
         "id": "iran",
         "name": "Iran",
         "description": "US-Iran relations, nuclear talks, sanctions"
+      },
+      {
+        "id": "us_iran_war",
+        "name": "US-Iran War",
+        "description": "The war between the United States and Iran, including a headline that says Iran war or US-Iran war, a country described as trapped in that war, and satire about that war. Includes fighting, Hormuz tanker attacks, ceasefire talks, costs, and munitions. Sanctions and nuclear inspections do not qualify unless they are about the fighting."
+      },
+      {
+        "id": "interstate_war",
+        "name": "Interstate War",
+        "description": "A war between two or more countries when the United States is not a combatant, such as Ukraine. Gaza does not qualify."
       },
       {
         "id": "israel",
@@ -542,7 +552,7 @@
       {
         "id": "national_security",
         "name": "National Security",
-        "description": "Defense policy, military actions"
+        "description": "National-security strategy, threats, and military operations. A resignation or appointment does not qualify."
       },
       {
         "id": "intelligence",
@@ -586,6 +596,11 @@
         "name": "Social Issues & Culture",
 
         "description": "Civil rights, social policy, and cultural matters"
+      },
+      {
+        "id": "vanity",
+        "name": "Vanity Rebranding",
+        "description": "A title or article that uses Lake America, New America, super intelligence, or Trump Strait, including a map label, a cartoon, or the abbreviation SI used as a correction for AI. A joke whose point is one of Trump's renames qualifies. Also a Kennedy Center closure, board vote, court filing, or fight over its name. A ceiling collapse reported on its own does not qualify. An ordinary CEO or product story that does not use one of those names does not qualify."
       },
       {
         "id": "climate_policy",
@@ -927,7 +942,7 @@
       {
         "id": "off_topic",
         "name": "Off Topic",
-        "description": "Our tagging technology sometimes matches articles that are off-topic."
+        "description": "No real connection to Donald Trump, his family, his businesses, his administration, his campaigns, or a federal decision. Lake America, the Kennedy Center, super intelligence, the US-Iran war, a federal agency action, a bill in Congress, and a court case about administration policy are not off-topic. A sports result, a viral video, or celebrity news with no federal decision is off-topic, as is state politics."
       }
     ]
   }

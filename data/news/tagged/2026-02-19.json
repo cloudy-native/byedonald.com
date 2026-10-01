@@ -14,10 +14,7 @@
       "urlToImage": "https://media.wired.com/photos/69960d4dd24ffdc6fd7d60f3/191:100/w_1280,c_limit/MAGAs-Secretive-Members-Only-Club-Business-2243452650.jpg",
       "publishedAt": "2026-02-19T20:45:40Z",
       "content": "When the Executive Branch soft-launched in Washington, DC, last spring, the private clubs initial buzz centered on its starry roster of backers and founding members. The presidents eldest son Donald … [+3669 chars]",
-      "tags": [
-        "government_administration",
-        "personnel"
-      ],
+      "tags": [],
       "publishedAtTs": 1771533940
     },
     {
@@ -32,10 +29,7 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2254306861.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "publishedAt": "2026-02-19T13:47:42Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nIts MAGA v Broligarch in the battle over prediction markets\r\nPrediction: This is going to be a mess for the Trump right.\r\nby\r\nTina NguyenClose\r\nSenior Reporter, … [+9612 chars]",
-      "tags": [
-        "elections_politics",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771508862
     },
     {
@@ -68,8 +62,7 @@
       "publishedAt": "2026-02-19T12:23:43Z",
       "content": "This as-told-to essay is based on a conversation with Jay Gulledge, 59, who is based in Tennessee. The termination of his employment at USAID and current employment have been verified by Business Ins… [+4760 chars]",
       "tags": [
-        "labor",
-        "economy_finance"
+        "government_administration"
       ],
       "publishedAtTs": 1771503823
     },
@@ -86,7 +79,8 @@
       "publishedAt": "2026-02-19T21:16:33Z",
       "content": "An internal email obtained by NPR details some of the projected refurbishments planned for the John F. Kennedy Center for the Performing Arts. The renovations are more modest in scale and scope than … [+3910 chars]",
       "tags": [
-        "government_administration"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1771535793
     },
@@ -104,7 +98,10 @@
       "content": "Immigrants who came to the U.S. as refugees could be detained within a year of arriving here under a new policy from the Department of Homeland Security.\r\nRefugees must either get a green card within… [+4195 chars]",
       "tags": [
         "immigration",
-        "policy_legislation"
+        "policy_legislation",
+        "social_issues",
+        "government_administration",
+        "trump"
       ],
       "publishedAtTs": 1771513849
     },
@@ -121,9 +118,9 @@
       "publishedAt": "2026-02-19T06:30:21Z",
       "content": "WASHINGTON President Donald Trump will gather Thursday with representatives from more than two dozen countries that have joined his Board of Peace and several that have opted not to for an inaugural … [+5512 chars]",
       "tags": [
-        "foreign_policy",
         "middle_east",
-        "gaza"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771482621
     },
@@ -140,8 +137,10 @@
       "publishedAt": "2026-02-19T08:23:41Z",
       "content": "DUBAI, United Arab Emirates Iran and the United States leaned into gunboat diplomacy Thursday as nuclear talks between the nations hung in the balance, with Tehran holding drills with Russia and the … [+3785 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
+        "middle_east",
+        "national_security",
+        "military",
         "nuclear_policy"
       ],
       "publishedAtTs": 1771489421
@@ -158,10 +157,7 @@
       "urlToImage": "https://i.insider.com/699724cef8731049f3af62cf?width=1200&format=jpeg",
       "publishedAt": "2026-02-19T17:49:00Z",
       "content": "Netflix co-CEO Ted Sarandos said his conversations with President Donald Trump have been about jobs.Monica Schipper/WireImage; Brendan Smialowski/AFP via Getty Images\r\n<ul><li>Netflix's co-CEO said h… [+4151 chars]",
-      "tags": [
-        "economy_finance",
-        "trade"
-      ],
+      "tags": [],
       "publishedAtTs": 1771523340
     },
     {
@@ -177,7 +173,7 @@
       "publishedAt": "2026-02-19T12:53:01Z",
       "content": "Snowbird destinations from Palm Springs to southern Florida are feeling the impact as Canadians remain hesitant about traveling to the US.Sarah Gray/Business Insider\r\n<ul><li>New data from Longwoods … [+4565 chars]",
       "tags": [
-        "trade",
+        "canada",
         "tourism"
       ],
       "publishedAtTs": 1771505581
@@ -212,8 +208,9 @@
       "publishedAt": "2026-02-19T03:42:57Z",
       "content": "Donald Trump is trying to chip away at the integrity of the voting process ahead of the November midterms because he knows Republicans will not fare well, Daily Beast columnist David Rothkopf says.\r\n… [+3532 chars]",
       "tags": [
-        "elections_politics",
-        "voting_rights"
+        "voting_rights",
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771472577
     },
@@ -230,8 +227,11 @@
       "publishedAt": "2026-02-19T21:15:28Z",
       "content": "The Trump administration said Thursday its campaign to end diversity programs in higher education has led dozens of universities to cut ties with an organization known as The PhD Project, which helps… [+4230 chars]",
       "tags": [
-        "social_issues",
-        "education"
+        "education",
+        "racial_justice",
+        "civil_rights",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1771535728
     },
@@ -248,8 +248,11 @@
       "publishedAt": "2026-02-19T12:15:08Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "tariff_impact_economy"
+        "trade",
+        "tariff_impact_economy",
+        "agriculture",
+        "economy_finance",
+        "trump"
       ],
       "publishedAtTs": 1771503308
     },
@@ -283,8 +286,11 @@
       "publishedAt": "2026-02-19T21:17:40Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nThe term Orwellian is often trotted out as a cliché, but it suits the con… [+11735 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771535860
     },
@@ -301,9 +307,11 @@
       "publishedAt": "2026-02-19T17:18:54Z",
       "content": "<ul><li>Former Prince Andrew arrested on suspicion of misconduct: Police\r\n</li><li>King Charles on former Prince Andrew arrest: 'The law must take its course'\r\n</li><li>Trump's Board of Peace meets i… [+4468 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "nuclear_policy"
+        "national_security",
+        "nuclear_policy",
+        "middle_east",
+        "arms_control"
       ],
       "publishedAtTs": 1771521534
     },
@@ -320,8 +328,11 @@
       "publishedAt": "2026-02-19T22:32:18Z",
       "content": "<ul><li>King Charles carries on after his brother Andrew's arrest, attends fashion week\r\n</li><li>Legal analysis of Prince Andrews arrest\r\n</li><li>Trump's Board of Peace meets in DC\r\n</li><li>Trump … [+4462 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "iran",
+        "national_security",
+        "nuclear_policy",
+        "middle_east",
+        "arms_control"
       ],
       "publishedAtTs": 1771540338
     },
@@ -338,9 +349,11 @@
       "publishedAt": "2026-02-19T20:11:46Z",
       "content": "Oil prices are climbing over fears of a possible U.S. attack on Iran.\r\nThe global Brent oil benchmark has spiked more than 7% over the past two days, vaulting the price of oil to about $71 per barrel… [+3080 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
+        "energy",
         "iran",
-        "energy"
+        "us_iran_war"
       ],
       "publishedAtTs": 1771531906
     },
@@ -357,7 +370,7 @@
       "publishedAt": "2026-02-19T17:17:23Z",
       "content": "<ul><li>Former Prince Andrew arrested on suspicion of misconduct: Police\r\n</li><li>King Charles on former Prince Andrew arrest: 'The law must take its course'\r\n</li><li>Trump's Board of Peace meets i… [+4468 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771521443
     },
@@ -374,8 +387,11 @@
       "publishedAt": "2026-02-19T17:01:10Z",
       "content": "<ul><li>Former Prince Andrew arrested on suspicion of misconduct: Police\r\n</li><li>King Charles on former Prince Andrew arrest: 'The law must take its course'\r\n</li><li>Trump's Board of Peace meets i… [+4468 chars]",
       "tags": [
+        "cabinet",
+        "middle_east",
+        "statements",
         "foreign_policy",
-        "legal_justice"
+        "leadership"
       ],
       "publishedAtTs": 1771520470
     },
@@ -443,10 +459,7 @@
       "publishedAt": "2026-02-19T17:41:23Z",
       "content": "<ul><li>Former Prince Andrew arrested on suspicion of misconduct: Police\r\n</li><li>King Charles on former Prince Andrew arrest: 'The law must take its course'\r\n</li><li>Trump's Board of Peace meets i… [+4468 chars]",
       "tags": [
-        "policy_legislation",
-        "taxes",
-        "elections_politics",
-        "2026_midterms"
+        "off_topic"
       ],
       "publishedAtTs": 1771522883
     },
@@ -462,9 +475,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/8382e921-431e-4ef2-abcb-1c014243547c/260219_gma_robin4_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-19T17:07:16Z",
       "content": "<ul><li>King Charles carries on after his brother Andrew's arrest, attends fashion week\r\n</li><li>Legal analysis of Prince Andrews arrest\r\n</li><li>Trump's Board of Peace meets in DC\r\n</li><li>Trump … [+4462 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771520836
     },
     {
@@ -480,7 +491,6 @@
       "publishedAt": "2026-02-19T23:51:15Z",
       "content": "<ul><li>King Charles carries on after his brother Andrew's arrest, attends fashion week\r\n</li><li>Legal analysis of Prince Andrews arrest\r\n</li><li>Trump's Board of Peace meets in DC\r\n</li><li>Trump … [+4462 chars]",
       "tags": [
-        "foreign_policy",
         "legal_justice"
       ],
       "publishedAtTs": 1771545075
@@ -498,9 +508,11 @@
       "publishedAt": "2026-02-19T14:04:03Z",
       "content": "A second American aircraft carrier -- the USS Gerald R. Ford -- is heading toward the Middle East amid rising tensions with Iran, accompanied by destroyers and aircraft being redeployed from missions… [+3518 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
+        "military",
         "iran",
-        "military"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771509843
     },
@@ -568,8 +580,7 @@
       "publishedAt": "2026-02-19T22:04:55Z",
       "content": "President Donald Trump made a bizarre claim Thursday on Air Force One after being asked about a recent video clip that went viral online. The clip, in which Barack Obama said that aliens are real but… [+3647 chars]",
       "tags": [
-        "elections_politics",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771538695
     },
@@ -586,8 +597,9 @@
       "publishedAt": "2026-02-19T16:55:21Z",
       "content": "The U.S. State Department is reportedly working on an online portal that would allow people in Europe and other regions to access content banned by their governments. The move comes at a time when co… [+3753 chars]",
       "tags": [
-        "media_communications",
-        "free_speech"
+        "censorship",
+        "free_speech",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771520121
     },
@@ -604,8 +616,7 @@
       "publishedAt": "2026-02-19T12:00:00Z",
       "content": "America loves its heroes. The nation has made lions of the men who signed a document 250 years ago to declare independence from the English crown; it’s made saints of the 55 men who gathered in a swe… [+11634 chars]",
       "tags": [
-        "social_issues",
-        "civil_rights"
+        "off_topic"
       ],
       "publishedAtTs": 1771502400
     },
@@ -622,8 +633,10 @@
       "publishedAt": "2026-02-19T15:00:00Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsThis week brought another round in President Trump’s war against Black history. A federal judge rebuked his administration … [+24875 chars]",
       "tags": [
-        "social_issues",
-        "civil_rights"
+        "racial_justice",
+        "civil_rights",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1771513200
     },
@@ -640,8 +653,7 @@
       "publishedAt": "2026-02-19T13:00:00Z",
       "content": "The life of a globe-trotting environmentalist is a breeding ground for moral quandaries. My oldest friend happens to be one such climate advocate; for several years, he ran a nonprofit encouraging ca… [+10665 chars]",
       "tags": [
-        "social_issues",
-        "climate_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771506000
     },
@@ -658,9 +670,11 @@
       "publishedAt": "2026-02-19T01:14:47Z",
       "content": "Secretary of State Marco Rubio met with his Syrian counterpart, Foreign Minister Asaad al-Shaibani, last week, to discuss maintaining the ceasefire. Rubio also expressed his concerns about the contin… [+27 chars]",
       "tags": [
+        "national_security",
+        "military",
+        "middle_east",
         "foreign_policy",
-        "iran",
-        "military"
+        "security_intelligence"
       ],
       "publishedAtTs": 1771463687
     },
@@ -677,8 +691,11 @@
       "publishedAt": "2026-02-19T22:07:29Z",
       "content": "A federal judge in Minnesota held a Trump administration attorney in civil contempt for flagrant disobedience of court orders in the case of a noncitizen swept up in the immigration crackdown there e… [+6772 chars]",
       "tags": [
-        "legal_justice",
-        "immigration"
+        "civil_litigation",
+        "ice_controversies_resistance",
+        "lawsuits",
+        "immigration",
+        "legal_justice"
       ],
       "publishedAtTs": 1771538849
     },
@@ -695,8 +712,7 @@
       "publishedAt": "2026-02-19T20:39:59Z",
       "content": "Audio recording is automated for accessibility. Humans wrote and edited the story. See our AI policy, and give us feedback.\r\nThe University of Texas Systems Board of Regents unanimously approved Thur… [+6321 chars]",
       "tags": [
-        "education",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771533599
     },
@@ -712,9 +728,7 @@
       "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-02/19/20/thumb/HUjJhV2H1.jpg?crop=2999:1570;0,2%26downsize=1250:*",
       "publishedAt": "2026-02-19T21:26:02Z",
       "content": "\"If only the Trump administration took these crimes as seriously as the U.K.\"",
-      "tags": [
-        "legal_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1771536362
     },
     {
@@ -730,8 +744,7 @@
       "publishedAt": "2026-02-19T13:59:31Z",
       "content": "Meta is among tech giants reportedly funding US politicians friendly to the AI industry, as concerns mount over a huge expansion in datacenter building and the effects of AI on everyday life.\r\nThe Te… [+3259 chars]",
       "tags": [
-        "ai_state_preemption",
-        "campaign_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771509571
     },
@@ -748,7 +761,7 @@
       "publishedAt": "2026-02-19T19:07:14Z",
       "content": "The US Congress spending watchdog, the Government Accountability Office, has pressed the National Science Foundations CIO to improve how the agency plans, manages, and procures technology.\r\nThe open … [+3009 chars]",
       "tags": [
-        "government_administration",
+        "government_operations",
         "federal_agencies"
       ],
       "publishedAtTs": 1771528034
@@ -766,9 +779,9 @@
       "publishedAt": "2026-02-19T14:29:55Z",
       "content": "Job cuts at the IRS's tech arm have gone faster and farther than expected, with 40 percent of IT staff and four-fifths of tech leaders gone, the agency's CIO revealed yesterday.\r\nKaschit Pandya detai… [+2668 chars]",
       "tags": [
-        "government_administration",
+        "government_operations",
         "federal_agencies",
-        "personnel"
+        "government_administration"
       ],
       "publishedAtTs": 1771511395
     },
@@ -785,8 +798,11 @@
       "publishedAt": "2026-02-19T00:00:00Z",
       "content": "Jim O'Neill, a biotechnology investor who has held other positions in government, will be appointed by US President Donald Trump to run the US National Science Foundation.Credit: Stefani Reynolds/Blo… [+3368 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "personnel",
+        "appointments",
+        "science_policy",
+        "federal_agencies",
+        "government_administration"
       ],
       "publishedAtTs": 1771459200
     },
@@ -803,8 +819,6 @@
       "publishedAt": "2026-02-19T15:35:25Z",
       "content": "Days after the Trump administration deported a sick two-month-old whos basically spent half of his life in ICE detention, Second Lady Usha Vance has urged Americans to help babies in need by donating… [+2560 chars]",
       "tags": [
-        "immigration",
-        "healthcare",
         "social_issues"
       ],
       "publishedAtTs": 1771515325
@@ -822,7 +836,7 @@
       "publishedAt": "2026-02-19T10:01:12Z",
       "content": "The list of powerful men (and women) mentioned in the millions of pages of Epstein Files is long and disturbing, yet predictable. It pretty much features any fuckass who had any amount of power or mo… [+2302 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771495272
     },
@@ -839,9 +853,10 @@
       "publishedAt": "2026-02-19T13:57:00Z",
       "content": "The responsibility and imperative to rescue shipwrecked sailors at sea is perhaps the oldest, cornerstone tenet of international maritime law. Search and rescue is a duty, one that no one can legally… [+8810 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence",
-        "crisis_emergency"
+        "national_security",
+        "middle_east",
+        "crisis_emergency",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771509420
     },
@@ -858,7 +873,7 @@
       "publishedAt": "2026-02-19T11:30:53Z",
       "content": "The grift economy is going mainstream Scams and grift have evolved from fringe activity into normalized economic behavior, marking a fundamental shift in how cons operate in plain sight. (Your Brain … [+4083 chars]",
       "tags": [
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771500653
     },
@@ -875,7 +890,8 @@
       "publishedAt": "2026-02-19T15:23:58Z",
       "content": "The National Park Service (NPS) has announced that visitors to three of the most popular national parks in the United States will no longer need to make reservations to enter in 2026. The move is a d… [+4296 chars]",
       "tags": [
-        "environment"
+        "government_operations",
+        "tourism"
       ],
       "publishedAtTs": 1771514638
     },
@@ -892,10 +908,11 @@
       "publishedAt": "2026-02-19T18:45:42Z",
       "content": "from the stacking-the-midterm-deck dept\r\nEarlier this month, the FBI decided it was going to help Donald Trump steal back the election he’s claimed for half-a-decade was stolen from him. The state wh… [+7973 chars]",
       "tags": [
-        "legal_justice",
+        "federal_agencies",
+        "voting_rights",
         "law_enforcement",
         "elections_politics",
-        "trump"
+        "legal_justice"
       ],
       "publishedAtTs": 1771526742
     },
@@ -912,8 +929,8 @@
       "publishedAt": "2026-02-19T13:27:05Z",
       "content": "from the Walter-Cronkite-Is-Rolling-Over-In-His-Grave dept\r\nWe’ve noted how Bari Weiss’ tenure at CBS (or what’s left of it) isn’t really going very well. Hired by Trump-allied billionaire Larry Elli… [+3245 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "media_criticism",
+        "media_communications"
       ],
       "publishedAtTs": 1771507625
     },
@@ -930,9 +947,9 @@
       "publishedAt": "2026-02-19T04:01:45Z",
       "content": "from the one-flu-over-the-cuckoo's-nest dept\r\nDr. Vinay Prasad is currently the FDA’s top vaccine regulator. He’s also one of many medical goons hand-picked by RFK Jr. to help lead his decidedly anti… [+6171 chars]",
       "tags": [
-        "health_science",
+        "medical_research",
         "public_health",
-        "social_issues"
+        "health_science"
       ],
       "publishedAtTs": 1771473705
     },
@@ -949,9 +966,11 @@
       "publishedAt": "2026-02-19T21:28:00Z",
       "content": "An aerial view of the USS Abraham Lincoln Carrier Strike Group while operating at the Arabian Sea, escorted by two military replenishment ships and two US Coast Guard vessels on February 6, 2026. | U… [+12410 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "military"
+        "middle_east",
+        "national_security",
+        "military",
+        "us_iran_war",
+        "iran"
       ],
       "publishedAtTs": 1771536480
     },
@@ -968,7 +987,7 @@
       "publishedAt": "2026-02-19T22:37:54Z",
       "content": "President Trump says Barack Obama would be wise to keep his mouth shut about aliens ... 'cause he says Obama gave out top secret information on a podcast where Obama said extraterrestrials were real.… [+888 chars]",
       "tags": [
-        "off_topic"
+        "trump"
       ],
       "publishedAtTs": 1771540674
     },
@@ -985,7 +1004,7 @@
       "publishedAt": "2026-02-19T10:57:06Z",
       "content": "Former Prince Andrew is under arrest by police in England following news of his longtime friendship with convicted pedophile Jeffrey Epstein.\r\nThe disgraced ex-Royal, who now goes by the name Andrew … [+1207 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771498626
     },
@@ -1019,8 +1038,7 @@
       "publishedAt": "2026-02-19T17:46:45Z",
       "content": "When Bruce Springsteen announced the North American leg of his Land of Hope and Dreams tour earlier this week, he did so with another not-so-subtle jab at President Donald Trump. In a statement, he p… [+1925 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1771523205
     },
@@ -1037,8 +1055,7 @@
       "publishedAt": "2026-02-19T21:00:51Z",
       "content": "On and off skis, Gu is a high achiever in every part of her world.\r\nCalifornia-born and raised by an American father and Chinese mother, she attended private school in San Francisco and is currently … [+3300 chars]",
       "tags": [
-        "personal_family",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771534851
     },
@@ -1055,7 +1072,7 @@
       "publishedAt": "2026-02-19T13:00:00Z",
       "content": "Perhaps the most unsettling monsters are those that are somewhat human. Zombies. Headless horsemen. The deadly Sirens of Greek myth. In Mapuche Indigenous lore of the southern Andes there’s the imbun… [+22274 chars]",
       "tags": [
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771506000
     },
@@ -1072,8 +1089,7 @@
       "publishedAt": "2026-02-19T13:00:00Z",
       "content": "Bernie Sanders’s last moment as a little-known American citizen probably occurred in early 1981 when he was knocking on doors in Burlington, Vermont, to say he was running for mayor. That January he … [+24783 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771506000
     },
@@ -1090,10 +1106,7 @@
       "publishedAt": "2026-02-19T13:00:00Z",
       "content": "In February 2023 I marched with about two hundred people on the Pan-American Highway in the Isthmus of Tehuantepec, where continental Mexico is at its narrowest. The Pacific side of the isthmus, dott… [+24869 chars]",
       "tags": [
-        "social_issues",
-        "protests",
-        "regional_state",
-        "mexico"
+        "off_topic"
       ],
       "publishedAtTs": 1771506000
     },
@@ -1127,8 +1140,8 @@
       "publishedAt": "2026-02-19T13:00:00Z",
       "content": "One of the saddest Supreme Court opinions I have ever read is Justice Anthony Kennedy’s three-paragraph concurrence in Trump v. Hawaii (2018), explaining his vote to uphold President Donald Trump’s t… [+27687 chars]",
       "tags": [
-        "legal_justice",
-        "supreme_court"
+        "supreme_court",
+        "legal_justice"
       ],
       "publishedAtTs": 1771506000
     },
@@ -1145,9 +1158,8 @@
       "publishedAt": "2026-02-19T04:04:45Z",
       "content": "Environmental group Extinction Rebellion has said that climate change activists associated with the group are being investigated by the Trump administration, which is also openly working to roll back… [+2742 chars]",
       "tags": [
-        "security_intelligence",
-        "climate_policy",
-        "legal_justice"
+        "federal_agencies",
+        "law_enforcement"
       ],
       "publishedAtTs": 1771473885
     },
@@ -1164,9 +1176,11 @@
       "publishedAt": "2026-02-19T15:58:25Z",
       "content": "NewsFeed\r\nSpeaking at the inaugural Board of Peace meeting, Donald Trump praised the magnificent B-2 bombers that totally decimated the nuclear potential of Iran last summer, saying they helped bring… [+59 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
+        "us_iran_war",
         "iran",
-        "military"
+        "trump"
       ],
       "publishedAtTs": 1771516705
     },
@@ -1183,8 +1197,11 @@
       "publishedAt": "2026-02-19T01:52:35Z",
       "content": "More than a dozen health and environmental advocacy groups have filed a lawsuit against the Environmental Protection Agency (EPA) in the United States over its decision to withdraw a key climate chan… [+4565 chars]",
       "tags": [
+        "civil_litigation",
+        "environment",
+        "lawsuits",
         "climate_policy",
-        "legal_justice"
+        "federal_agencies"
       ],
       "publishedAtTs": 1771465955
     },
@@ -1201,8 +1218,10 @@
       "publishedAt": "2026-02-19T13:20:43Z",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nUS President Trump will host the inaugural meeting of his so-called Board of Peace in Washington, DC today.",
       "tags": [
-        "foreign_policy",
-        "leadership"
+        "trump",
+        "leadership",
+        "government_administration",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771507243
     },
@@ -1219,9 +1238,10 @@
       "publishedAt": "2026-02-19T06:00:16Z",
       "content": "Washington, DC United States President Donald Trump is set to hold his first Board of Peace summit in Washington, DC, an event where the US leader likely hopes to prove the recently launched panel ca… [+10530 chars]",
       "tags": [
-        "foreign_policy",
         "middle_east",
-        "gaza"
+        "israel",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771480816
     },
@@ -1238,8 +1258,8 @@
       "publishedAt": "2026-02-19T22:54:18Z",
       "content": "Washington, DC The arrest of former British royal Andrew Mountbatten-Windsor has sparked renewed calls for accountability for Jefferey Epsteins crimes and proper investigations into the late sex offe… [+7467 chars]",
       "tags": [
-        "legal_justice",
-        "foreign_policy"
+        "criminal_cases",
+        "legal_justice"
       ],
       "publishedAtTs": 1771541658
     },
@@ -1256,8 +1276,10 @@
       "publishedAt": "2026-02-19T14:49:33Z",
       "content": "NewsFeed\r\nLed by US President Donald Trump, the Board of Peace convened for its first meeting to discuss reconstruction for Gaza.",
       "tags": [
-        "foreign_policy",
-        "gaza"
+        "middle_east",
+        "gaza",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771512573
     },
@@ -1275,8 +1297,7 @@
       "content": "The United States trade deficit has widened sharply in December amid a surge in imports, and the goods shortfall in 2025 was the highest on record despite US President Donald Trumps tariffs on foreig… [+2939 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "tariff_impact_economy"
+        "economy_finance"
       ],
       "publishedAtTs": 1771534800
     },
@@ -1293,9 +1314,11 @@
       "publishedAt": "2026-02-19T18:47:48Z",
       "content": "Donald Trump has told the first meeting of his Board of Peace that nine member nations have pledged $7bn to a reconstruction fund for the Gaza Strip, with five countries agreeing to deploy troops to … [+3171 chars]",
       "tags": [
-        "foreign_policy",
         "gaza",
-        "trade_negotiations_truces"
+        "middle_east",
+        "statements",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1771526868
     },
@@ -1312,6 +1335,10 @@
       "publishedAt": "2026-02-19T08:24:11Z",
       "content": "In early November, a social media post by United States President Donald Trump set off alarm bells across Nigeria. The US Department of War, he said, was preparing to go into the West African country… [+10668 chars]",
       "tags": [
+        "africa",
+        "national_security",
+        "security_incidents",
+        "trump",
         "foreign_policy"
       ],
       "publishedAtTs": 1771489451
@@ -1329,8 +1356,11 @@
       "publishedAt": "2026-02-19T16:01:34Z",
       "content": "Donald Trump has renewed his threats against Iran, suggesting that Tehran has about 10 days to reach a deal with Washington or face further military strikes.\r\nSpeaking at the inaugural Board of Peace… [+1659 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "national_security",
+        "iran",
+        "middle_east",
+        "us_iran_war",
+        "security_incidents"
       ],
       "publishedAtTs": 1771516894
     },
@@ -1347,8 +1377,10 @@
       "publishedAt": "2026-02-19T19:28:18Z",
       "content": "NewsFeed\r\nUS President Trump convenes inaugural Board of Peace meeting after decades of inaction on addressing core Palestinian demands to end the Israeli occupation. Al Jazeera takes a look at the i… [+32 chars]",
       "tags": [
+        "middle_east",
+        "israel",
         "foreign_policy",
-        "israel"
+        "trump"
       ],
       "publishedAtTs": 1771529298
     },
@@ -1366,8 +1398,7 @@
       "content": "NewsFeed\r\nPro-Palestinian protesters gathered in downtown Washington, DC, outside Donald Trumps Board of Peace event, with some wearing masks of Trump, Benjamin Netanyahu and Marco Rubio. Several wer… [+60 chars]",
       "tags": [
         "protests",
-        "foreign_policy",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1771529916
     },
@@ -1384,9 +1415,9 @@
       "publishedAt": "2026-02-19T10:04:25Z",
       "content": "Trumps tariffs, Greenland and defence spending are testing US-Europe alliance.United States President Donald Trump has imposed tariffs on European goods, made a bid to take over Greenland and demande… [+472 chars]",
       "tags": [
+        "europe",
         "foreign_policy",
-        "trade",
-        "greenland_acquisition"
+        "trump"
       ],
       "publishedAtTs": 1771495465
     },
@@ -1403,9 +1434,11 @@
       "publishedAt": "2026-02-19T08:47:41Z",
       "content": "Newly released satellite images show that Iran has recently built a concrete shield over a new facility at a sensitive military site and covered it in soil, advancing work at a location reportedly bo… [+5260 chars]",
       "tags": [
+        "middle_east",
+        "national_security",
         "iran",
-        "security_intelligence",
-        "military"
+        "military",
+        "security_intelligence"
       ],
       "publishedAtTs": 1771490861
     },
@@ -1422,7 +1455,7 @@
       "publishedAt": "2026-02-19T02:39:06Z",
       "content": "Venezuelas interim President Delcy Rodriguez has announced that she and Colombian President Gustavo Petro agreed to hold a bilateral meeting to discuss security issues, as well as economic and energy… [+4455 chars]",
       "tags": [
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771468746
     },
@@ -1439,7 +1472,7 @@
       "publishedAt": "2026-02-19T23:06:50Z",
       "content": "A strike has ground much of Argentinas capital Buenos Aires to a halt, as businesses close and demonstrators take to the streets to protest against President Javier Mileis proposed labour reforms.\r\nT… [+3350 chars]",
       "tags": [
-        "labor"
+        "off_topic"
       ],
       "publishedAtTs": 1771542410
     },
@@ -1456,8 +1489,7 @@
       "publishedAt": "2026-02-19T04:56:27Z",
       "content": "North Korean leader Kim Jong Un has unveiled dozens of nuclear-capable rocket launchers ahead of a key congress of the governing Workers Party, according to state media.\r\nKim hailed the 600mm-calibre… [+3520 chars]",
       "tags": [
-        "foreign_policy",
-        "nuclear_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771476987
     },
@@ -1474,8 +1506,7 @@
       "publishedAt": "2026-02-19T00:10:23Z",
       "content": "The correspondents and producers who work at CBS News’ “60 Minutes” will soon leave the newsmagazine’s longtime New York offices as part of a consolidation of real estate occupied by some of Paramoun… [+2511 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1771459823
     },
@@ -1508,10 +1539,7 @@
       "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/02/fb_image_69973b6b5d957.png",
       "publishedAt": "2026-02-19T19:11:17Z",
       "content": "Nicki Minaj, who shared the stage with U.S. President Donald Trump during the rollout of Trump Accounts on January 28, attended another high-profile event for him on Wednesday, February 18, debuting … [+8380 chars]",
-      "tags": [
-        "social_issues",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771528277
     },
     {
@@ -1527,8 +1555,7 @@
       "publishedAt": "2026-02-19T15:57:26Z",
       "content": "US President Donald Trump hosted leaders from the Black community to mark Black History Month at the White House on Wednesday, February 18. As he delivered his reception speech, he recalled his Janua… [+9178 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771516646
     },
@@ -1545,8 +1572,7 @@
       "publishedAt": "2026-02-19T22:05:09Z",
       "content": "Eileen Gu, a freestyle skier who was born in San Francisco but chose to compete for China at the 2026 Winter Olympics to honor her mother’s homeland, has drawn criticism from U.S. Vice President JD V… [+10072 chars]",
       "tags": [
-        "social_issues",
-        "immigration"
+        "off_topic"
       ],
       "publishedAtTs": 1771538709
     },
@@ -1563,9 +1589,11 @@
       "publishedAt": "2026-02-19T22:46:43Z",
       "content": "Fresh from the conflict with Venezuela last month, the USS Gerald R. Ford Americas newest and largest aircraft carrier is speeding through the Mediterranean and toward a potential war with Iran. Anot… [+6146 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "military",
+        "middle_east",
         "iran",
-        "military"
+        "us_iran_war"
       ],
       "publishedAtTs": 1771541203
     },
@@ -1582,8 +1610,11 @@
       "publishedAt": "2026-02-19T17:12:39Z",
       "content": "The Trump administration is increasing the U.S. militarys presence in Nigeria, where decades of American military assistance has coincided with increased violence and instability.\r\nAbout 100 U.S. mil… [+5724 chars]",
       "tags": [
+        "military",
+        "national_security",
+        "africa",
         "foreign_policy",
-        "military"
+        "security_intelligence"
       ],
       "publishedAtTs": 1771521159
     },
@@ -1600,9 +1631,7 @@
       "publishedAt": "2026-02-19T11:00:00Z",
       "content": "For a month, Michael Rectenwald had been trying to get Nick Fuentes to notice him. Rectenwald had a new political action committee devoted to anti-Zionism, and he hoped the far-right influencer would… [+18838 chars]",
       "tags": [
-        "social_issues",
-        "elections_politics",
-        "political_endorsements"
+        "off_topic"
       ],
       "publishedAtTs": 1771498800
     },
@@ -1619,8 +1648,7 @@
       "publishedAt": "2026-02-19T19:37:52Z",
       "content": "Six nominees for WGAAwards in the Comedy/Variety Series – Talk or Sketch category grappled Wednesday night with one of the great riddles of our age: Is Donald Trump actually funny?\r\nOpinions on the t… [+4474 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771529872
     },
@@ -1638,8 +1666,10 @@
       "content": "A federal judge on Wednesday dismissed portions of the Justice Department‘s antitrust lawsuit against Live Nation, but will allow other claims to proceed to trial next month.\r\nThe Justice Department … [+2941 chars]",
       "tags": [
         "antitrust",
-        "law_enforcement",
-        "criminal_cases"
+        "lawsuits",
+        "civil_litigation",
+        "doj_actions",
+        "federal_agencies"
       ],
       "publishedAtTs": 1771462291
     }

@@ -15,8 +15,11 @@
       "publishedAt": "2026-09-11T16:21:19Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTube and Facebook are the worlds most popular platforms with billions of active users, while Truth Social traffic has declined.\r\nYouTube and Facebook are the … [+3169 chars]",
       "tags": [
-        "media_communications",
-        "social_media"
+        "social_media",
+        "fact_checking",
+        "statements",
+        "trump",
+        "media_communications"
       ],
       "publishedAtTs": 1789143679
     },
@@ -33,8 +36,9 @@
       "publishedAt": "2026-09-11T15:45:27Z",
       "content": "U.S. President Donald Trump doesnt sound particularly worried that advanced AI could pose an existential threat to humanity. He says the bigger danger is China.\r\nAfter several researchers at frontier… [+3421 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "artificial_intelligence",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1789141527
     },
@@ -51,8 +55,9 @@
       "publishedAt": "2026-09-11T02:21:57Z",
       "content": "Cue another milestone in your favorite presidents forever war-youre-not-allowed-to-call-a-war in Iran! The average price of diesel across the country is now $6 a gallon, with no end to the trend in s… [+2070 chars]",
       "tags": [
-        "economy_finance",
-        "energy"
+        "energy",
+        "prices",
+        "us_iran_war"
       ],
       "publishedAtTs": 1789093317
     },
@@ -69,8 +74,7 @@
       "publishedAt": "2026-09-11T19:20:06Z",
       "content": "Welles Crowther became known as the Man in the Red Bandana after stories spread about his heroism on September 11, 2001. Now, an AI-generated image purporting to show Crowther rescuing people from th… [+5125 chars]",
       "tags": [
-        "ai_state_preemption",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1789154406
     },
@@ -87,10 +91,10 @@
       "publishedAt": "2026-09-11T06:10:59Z",
       "content": "The convention offered a stark reminder that the Trump era is heading toward its final chapter.\r\nTrump's presence loomed over the proceedings at the American Airlines Center in downtown Dallas.\r\nRepu… [+2842 chars]",
       "tags": [
-        "elections_politics",
-        "2024_presidential",
         "republican_party",
-        "trump"
+        "trump",
+        "elections_politics",
+        "leadership"
       ],
       "publishedAtTs": 1789107059
     },
@@ -107,8 +111,9 @@
       "publishedAt": "2026-09-11T16:00:00Z",
       "content": "Available for over a year\r\nPresident Trump made the pledge at the Republicans' first ever midterm convention, promising every adult American a $5,000 payment if his party wins both chambers of Congre… [+2417 chars]",
       "tags": [
+        "trump",
         "elections_politics",
-        "campaign_finance"
+        "policy_legislation"
       ],
       "publishedAtTs": 1789142400
     },
@@ -125,8 +130,7 @@
       "publishedAt": "2026-09-11T02:27:09Z",
       "content": "After Apple’s Surprise and Shine event on Wednesday, which debuted the long-rumored foldable iPhone Duo with a starting price of $1,999, the conversation at my home has mainly centered on our mobile … [+3107 chars]",
       "tags": [
-        "economy_finance",
-        "technology_regulation"
+        "prices"
       ],
       "publishedAtTs": 1789093629
     },
@@ -143,7 +147,11 @@
       "publishedAt": "2026-09-11T09:00:00Z",
       "content": "Roughly 170,000 immigrants from El Salvador covered by Temporary Protected Status can still legally work and live in the U.S. for now.\r\nThe Trump administration declined this week to terminate TPS fo… [+3487 chars]",
       "tags": [
-        "immigration"
+        "immigration",
+        "trump",
+        "policy_legislation",
+        "government_administration",
+        "social_issues"
       ],
       "publishedAtTs": 1789117200
     },
@@ -160,9 +168,9 @@
       "publishedAt": "2026-09-11T09:00:00Z",
       "content": "DALLAS As red, white, blue and gold balloons dropped from the ceiling, President Trump stood on stage to mark the end of his midterm convention, serenaded by a favorite aria.\r\nPuccini's opera \"Nessun… [+7666 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "2026_midterms",
+        "campaign_events",
+        "elections_politics",
         "trump"
       ],
       "publishedAtTs": 1789117200
@@ -180,8 +188,11 @@
       "publishedAt": "2026-09-11T09:00:00Z",
       "content": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.\r\nNPR observed two online focus groups Wednesday night with 13 people in Michigan who … [+4618 chars]",
       "tags": [
-        "elections_politics",
-        "regional_state"
+        "trade",
+        "canada",
+        "swing_states",
+        "tariff_impact_economy",
+        "prices"
       ],
       "publishedAtTs": 1789117200
     },
@@ -198,9 +209,7 @@
       "publishedAt": "2026-09-11T09:00:00Z",
       "content": "Tesla co-founder Martin Eberhard remembers having dinner with Elon Musk in the early 2000s, when the billionaire became a key investor in the fledgling electric car company. Musk uttered words that E… [+10413 chars]",
       "tags": [
-        "personal_family",
-        "economy_finance",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789117200
     },
@@ -217,8 +226,7 @@
       "publishedAt": "2026-09-11T14:16:35Z",
       "content": "You're reading a newsletter from The Indicator from Planet Money. Once a week, we curate our favorite stories and insights on business, finance, economics and why they matter. Subscribe here to get i… [+7735 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1789136195
     },
@@ -236,6 +244,9 @@
       "content": "The worst measles resurgence in the U.S. in decades keeps growing. Vaccination rates keep falling. Flu, COVID-19, and RSV keep coming back. Against this backdrop, many public health experts are worri… [+4187 chars]",
       "tags": [
         "public_health",
+        "public_health_emergency",
+        "healthcare",
+        "health",
         "health_science"
       ],
       "publishedAtTs": 1789140891
@@ -254,7 +265,10 @@
       "content": "Stay up to date with our Up First newsletter, sent every weekday morning.\r\nThe U.S. and Canadian auto industries have been tightly woven together for decades. But the latest tariff flareup between th… [+7815 chars]",
       "tags": [
         "trade",
-        "automotive"
+        "canada",
+        "automotive",
+        "tariff_impact_economy",
+        "economy_finance"
       ],
       "publishedAtTs": 1789117200
     },
@@ -271,9 +285,7 @@
       "publishedAt": "2026-09-11T09:00:00Z",
       "content": "When the 9/11 terrorist attacks began on a blue-sky morning 25 years ago, the Rev. Eric Olsen was working in upstate New York. The National Guard unit where Olsen served as chaplain scrambled to depl… [+6397 chars]",
       "tags": [
-        "social_issues",
-        "terrorism",
-        "national_security"
+        "off_topic"
       ],
       "publishedAtTs": 1789117200
     },
@@ -290,9 +302,10 @@
       "publishedAt": "2026-09-11T10:04:04Z",
       "content": "Diesel prices in the U.S. hit yet another record on Friday, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel.\r\nThe national average of $6.05 is up f… [+6759 chars]",
       "tags": [
+        "prices",
         "energy",
-        "trade",
-        "foreign_policy"
+        "us_iran_war",
+        "economy_finance"
       ],
       "publishedAtTs": 1789121044
     },
@@ -310,8 +323,8 @@
       "content": "NEW YORK Once a week, in a Queens office building, a group of immigrants in their 50s and 60s gathers. They've all known each other for some 25 years: they met when they were cleaning up ground zero … [+8355 chars]",
       "tags": [
         "immigration",
-        "mass_deportation_operation",
-        "personal_family"
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1789117200
     },
@@ -328,11 +341,8 @@
       "publishedAt": "2026-09-11T17:41:07Z",
       "content": "Bombardier celebrated the completion of its 100th wing for the Global 7500 in Red Oak, Texas, in 2021.Bombardier\r\n<ul><li>President Donald Trump threatened to ban Canada's Bombardier from US sales if… [+7390 chars]",
       "tags": [
-        "trade",
-        "economy_finance",
-        "regional_state",
-        "texas",
-        "california"
+        "canada",
+        "trump"
       ],
       "publishedAtTs": 1789148467
     },
@@ -367,9 +377,7 @@
       "publishedAt": "2026-09-11T14:16:24Z",
       "content": "The Tribute of Light in Manhattan is one of several September 11 ceremonies held in New York City.Bloomberg/Getty Images\r\n<ul><li>This year marks the 25th anniversary of the September 11, 2001, terro… [+6966 chars]",
       "tags": [
-        "social_issues",
-        "protests",
-        "terrorism"
+        "off_topic"
       ],
       "publishedAtTs": 1789136184
     },
@@ -386,8 +394,7 @@
       "publishedAt": "2026-09-11T12:51:24Z",
       "content": "US President Donald Trump has no concerns about AI leading to human extinction. No, I dont have any, he told reporters on Thursday, as he left Dallas. Jeff Mason reported the exchange for Bloomberg.\r… [+5805 chars]",
       "tags": [
-        "ai_state_preemption",
-        "legal_justice"
+        "trump"
       ],
       "publishedAtTs": 1789131084
     },
@@ -404,9 +411,11 @@
       "publishedAt": "2026-09-11T16:49:51Z",
       "content": "WASHINGTON (AP) In a defeat for the Trump administration, a federal court on Friday ruled that the Energy Department exceeded its authority when it forced a Michigan coal-fired power to stay open pas… [+2846 chars]",
       "tags": [
+        "environment",
+        "federal_agencies",
+        "lawsuits",
         "energy",
-        "legal_justice",
-        "federal_courts"
+        "legal_justice"
       ],
       "publishedAtTs": 1789145391
     },
@@ -424,7 +433,8 @@
       "content": "By Alexandra Alper\r\nWASHINGTON, Sept 11 (Reuters) - The Trump administration will lend nearly $100 million to Africell, Africa's only American-owned telecoms firm, as it seeks to counter the expansio… [+2285 chars]",
       "tags": [
         "africa",
-        "trade"
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1789100714
     },
@@ -441,9 +451,9 @@
       "publishedAt": "2026-09-11T13:04:35Z",
       "content": "CAPE TOWN, South Africa (AP) The Trump administration has provided a $99.6 million loan to a U.S.-owned cell phone network operator in Africa to expand American tech presence on a continent where Chi… [+1650 chars]",
       "tags": [
-        "trade",
         "africa",
-        "technology_regulation"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789131875
     },
@@ -460,9 +470,8 @@
       "publishedAt": "2026-09-11T20:55:43Z",
       "content": "After spending the morning at the Pentagon to mark the 25th anniversary of the September 11th tragedy, President Donald Trump apparently had another attack on his mind in the afternoon posting the 5-… [+1408 chars]",
       "tags": [
-        "elections_politics",
-        "legal_justice",
-        "personal_family"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1789160143
     },
@@ -479,8 +488,7 @@
       "publishedAt": "2026-09-11T05:07:45Z",
       "content": "If you click 'Accept all', we and our partners, including 252 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "foreign_policy",
-        "international_organizations"
+        "foreign_policy"
       ],
       "publishedAtTs": 1789103265
     },
@@ -497,10 +505,11 @@
       "publishedAt": "2026-09-11T04:49:47Z",
       "content": "Vice President JD Vance offered Republicans a glimpse of what could be the party's future on Thursday night, as he hammered home a midterm message with overtures to disaffected voters, a pro-family p… [+13165 chars]",
       "tags": [
-        "elections_politics",
-        "2024_presidential",
         "republican_party",
-        "campaign_events"
+        "2024_presidential",
+        "campaign_events",
+        "elections_politics",
+        "leadership"
       ],
       "publishedAtTs": 1789102187
     },
@@ -517,9 +526,11 @@
       "publishedAt": "2026-09-11T04:51:16Z",
       "content": "Sept 10 (Reuters) - Saudi Crown Prince Mohammed bin Salman called U.S. President Donald Trump twice on Thursday and urged him to launch strikes against the Houthis, Axios reported, citing two U.S. of… [+1481 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
         "middle_east",
-        "trump"
+        "trump",
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789102276
     },
@@ -536,9 +547,9 @@
       "publishedAt": "2026-09-11T14:22:24Z",
       "content": "By Aditya Soni\r\nSept 11 (Reuters) - U.S. President Donald Trump's speech on the opening night of the Republican midterm convention drew about 2.5 million viewers on Fox News, according to Nielsen dat… [+1258 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "campaign_events"
+        "republican_party",
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1789136544
     },
@@ -555,10 +566,11 @@
       "publishedAt": "2026-09-11T01:40:12Z",
       "content": "DALLAS - Some Republicans are saying they are worried about the cost and inflationary impacts of President Donald Trump's pledge to give American adults a $5,000 dividend if the GOP maintains control… [+5790 chars]",
       "tags": [
+        "republican_party",
+        "trump",
         "economy_finance",
-        "inflation",
-        "taxes",
-        "campaign_finance"
+        "elections_politics",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789090812
     },
@@ -575,8 +587,7 @@
       "publishedAt": "2026-09-11T21:47:10Z",
       "content": "A pastor kicked off a recent campaign stop for Michael Whatley, the Republican nominee for Senate, with a prayer that asked God to bestow \"integrity and honesty\" upon the event and to right wrongs \"h… [+6678 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1789163230
     },
@@ -593,8 +604,7 @@
       "publishedAt": "2026-09-11T09:31:00Z",
       "content": "(Bloomberg) -- The escalating bond selloff is driving US Treasury yields toward levels that threaten to deal a significant blow to the stock market, according to the latest Markets Pulse survey.\r\nMos… [+4361 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1789119060
     },
@@ -611,7 +621,7 @@
       "publishedAt": "2026-09-11T20:20:36Z",
       "content": "GANDER, Newfoundland (AP) Standing in the town that sheltered thousands of stranded Americans after the Sept. 11 attacks, former Canadian Prime Minister Jean Chrétien marked the 25th anniversary Frid… [+5059 chars]",
       "tags": [
-        "canada"
+        "off_topic"
       ],
       "publishedAtTs": 1789158036
     },
@@ -628,9 +638,9 @@
       "publishedAt": "2026-09-11T20:08:34Z",
       "content": "By Luciana Magalhaes\r\nRIO DE JANEIRO, Sept 11 (Reuters) - Eduardo Bolsonaro, a son of former Brazilian President Jair Bolsonaro, will renew his push for the United States to reinstate sanctions on Su… [+1769 chars]",
       "tags": [
-        "foreign_policy",
         "sanctions",
-        "brazil"
+        "brazil",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789157314
     },
@@ -647,7 +657,10 @@
       "publishedAt": "2026-09-11T14:35:06Z",
       "content": "The outbreak at the center of the nation's largest known surge of the explosive diarrhea illness cyclosporiasis is over, officials say.\r\nThe Centers for Disease Control and Prevention declared the ou… [+6141 chars]",
       "tags": [
-        "public_health"
+        "public_health",
+        "public_health_emergency",
+        "health",
+        "health_science"
       ],
       "publishedAtTs": 1789137306
     },
@@ -664,9 +677,7 @@
       "publishedAt": "2026-09-11T12:41:18Z",
       "content": "By Lucia Mutikani\r\nWASHINGTON, Sept 11 (Reuters) - U.S. consumer prices accelerated in August as the cost of gasoline rebounded after two straight monthly declines, bolstering financial market expect… [+3272 chars]",
       "tags": [
-        "inflation",
-        "economy_finance",
-        "prices"
+        "off_topic"
       ],
       "publishedAtTs": 1789130478
     },
@@ -683,9 +694,7 @@
       "publishedAt": "2026-09-11T03:06:36Z",
       "content": "Shouts of \"he should be shot\" could be heard multiple times Thursday night at the Republican midterm convention as Texas Sen. Ted Cruz was criticizing prominent Democratic politicians by name.\r\nCruz … [+3967 chars]",
       "tags": [
-        "elections_politics",
-        "protests",
-        "political_endorsements"
+        "off_topic"
       ],
       "publishedAtTs": 1789095996
     },
@@ -702,9 +711,11 @@
       "publishedAt": "2026-09-11T19:27:24Z",
       "content": "A federal judge issued a temporary restraining order (TRO) last Friday barring federal immigration officers from retaliating against a Springfield, Ohio, man for recording them. But the government sa… [+5047 chars]",
       "tags": [
-        "legal_justice",
-        "immigration",
-        "law_enforcement"
+        "ice_controversies_resistance",
+        "civil_litigation",
+        "free_speech",
+        "lawsuits",
+        "federal_agencies"
       ],
       "publishedAtTs": 1789154844
     },
@@ -722,7 +733,9 @@
       "content": "LAS MINAS, Cuba (AP) Liexer De La Cruz took a deep breath as he entered a federal courtroom in Miami, where life as he knew it would end.\r\nIt was Jan. 9, and he thought he was attending a routine imm… [+6123 chars]",
       "tags": [
         "immigration",
-        "mass_deportation_operation"
+        "personal_legal",
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1789133511
     },
@@ -739,8 +752,7 @@
       "publishedAt": "2026-09-11T21:01:26Z",
       "content": "This story is adapted from the Slatest newsletter. You can sign up here to get it in your inbox every day.\r\nSometimes the existence of a newspaper story is as interesting as the story itself. Thats t… [+6568 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "foreign_policy"
       ],
       "publishedAtTs": 1789160486
     },
@@ -757,8 +769,10 @@
       "publishedAt": "2026-09-11T15:14:05Z",
       "content": "President Donald Trump defended his proposal to give Americans a $5,000 \"dividend\" which some dismissed as a stunt or bribe seeming to suggest it as a \"reward\" for voters who he says endured the Bide… [+3865 chars]",
       "tags": [
+        "2024_presidential",
+        "trump",
         "economy_finance",
-        "taxes",
+        "elections_politics",
         "policy_legislation"
       ],
       "publishedAtTs": 1789139645
@@ -776,8 +790,11 @@
       "publishedAt": "2026-09-11T22:44:42Z",
       "content": "The Trump administration is offering significant intelligence and targeting assistance to Saudi Arabia but does not currently plan on launching direct military attacks against the Houthis, two U.S. o… [+2168 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
         "foreign_policy",
-        "military"
+        "security_intelligence",
+        "trump"
       ],
       "publishedAtTs": 1789166682
     },
@@ -794,9 +811,7 @@
       "publishedAt": "2026-09-11T16:18:05Z",
       "content": "Some family members of 9/11 victims used the 25th anniversary ceremonies to openly call on the federal government to hold Saudi Arabia accountable for the attacks.\r\nDuring the ceremonial reading of t… [+4451 chars]",
       "tags": [
-        "foreign_policy",
-        "terrorism",
-        "legal_justice"
+        "foreign_policy"
       ],
       "publishedAtTs": 1789143485
     },
@@ -812,9 +827,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/efd06eb5-3947-4e9b-aff3-a80f2d2653d9/260911_abcnl_5p_espn_sports_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-09-11T21:52:34Z",
       "content": "<ul><li>Some 9/11 families call on Trump to hold Saudis accountable during NYC ceremony\r\n</li><li>Former presidents attend NYC ceremony for 9/11 anniversary\r\n</li><li>Reflecting on the historical leg… [+4369 chars]",
-      "tags": [
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1789163554
     },
     {
@@ -830,8 +843,7 @@
       "publishedAt": "2026-09-11T17:20:15Z",
       "content": "<ul><li>Former presidents attend NYC ceremony for 9/11 anniversary\r\n</li><li>Reflecting on the historical legacy of 9/11\r\n</li><li>9/11 remembered at ground zero 25 years later\r\n</li><li>Health impac… [+4333 chars]",
       "tags": [
-        "social_issues",
-        "public_health_emergency"
+        "off_topic"
       ],
       "publishedAtTs": 1789147215
     },
@@ -848,8 +860,7 @@
       "publishedAt": "2026-09-11T13:44:52Z",
       "content": "<ul><li>9/11 remembered at ground zero 25 years later\r\n</li><li>Former presidents attend NYC ceremony for 9/11 anniversary\r\n</li><li>Health impacts and security measures at Ground Zero\r\n</li><li>Reme… [+4371 chars]",
       "tags": [
-        "social_issues",
-        "security_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1789134292
     },
@@ -866,8 +877,7 @@
       "publishedAt": "2026-09-11T17:22:53Z",
       "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Researcher who departed AI role over fears of racing into extinction says … [+3976 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789147373
     },
@@ -884,9 +894,10 @@
       "publishedAt": "2026-09-11T10:00:00Z",
       "content": "A couple of years later, in 2019, I was in Syria as a U.S.-backed and Kurdish-led militia coalition forced the collapse of the Islamic State. In all, major U.S. operations against ISIS lasted for six… [+3674 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
         "terrorism",
-        "military"
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789120800
     },
@@ -903,8 +914,7 @@
       "publishedAt": "2026-09-11T23:55:05Z",
       "content": "Shitty renovationsnot antifa supersoldiersare the reason that the Lincoln Memorial Reflecting Pools liner began to crack and pool earlier this year.\r\nThats according to government documents reviewed … [+2120 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice"
+        "fact_checking"
       ],
       "publishedAtTs": 1789170905
     },
@@ -921,9 +931,11 @@
       "publishedAt": "2026-09-11T14:35:45Z",
       "content": "Nicole Saphier, President Donald Trump’s pick to be Surgeon General, released her financial disclosure forms this week in the lead-up to her confirmation hearing on Sept. 16. The forms, posted online… [+10447 chars]",
       "tags": [
-        "personal_family",
-        "health_science",
-        "policy_legislation"
+        "appointments",
+        "personnel",
+        "ethics",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1789137345
     },
@@ -940,8 +952,10 @@
       "publishedAt": "2026-09-11T22:16:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Ju… [+8249 chars]",
       "tags": [
+        "inflation",
+        "prices",
         "economy_finance",
-        "inflation"
+        "trump"
       ],
       "publishedAtTs": 1789164960
     },
@@ -959,8 +973,6 @@
       "content": "If only the GOP midterm convention succeeds in its aim of electing Donald Trump president, things will get a lot better in this country. Isn’t he already president? Hush! At the Unprecedented (But Ve… [+4904 chars]",
       "tags": [
         "elections_politics",
-        "2026_midterms",
-        "republican_party",
         "trump"
       ],
       "publishedAtTs": 1789162140
@@ -978,8 +990,7 @@
       "publishedAt": "2026-09-11T17:12:58Z",
       "content": "Last month, a team of scientists published a high-profile paper describing how they’d taught an AI model to help produce brand-new, deadly viruses. The AI—a “genome-language model” trained on DNA seq… [+10604 chars]",
       "tags": [
-        "health_science",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789146778
     },
@@ -996,9 +1007,7 @@
       "publishedAt": "2026-09-11T10:00:00Z",
       "content": "Like most Americans, I spent September 11, 2001, filled with both rage and dread. I wanted the United States to find and kill whoever had planned this attack on my country. I knew little about al-Qae… [+11395 chars]",
       "tags": [
-        "terrorism",
-        "national_security",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1789120800
     },
@@ -1015,8 +1024,7 @@
       "publishedAt": "2026-09-11T12:34:25Z",
       "content": "Refer a friend\r\nJay Nordlinger is a senior resident fellow at the Renew Democracy Initiative and a contributor at The Next Move\r\nWe should not let Hong Kong fade away. We should not let Joshua Wong f… [+7014 chars]",
       "tags": [
-        "foreign_policy",
-        "china"
+        "off_topic"
       ],
       "publishedAtTs": 1789130065
     },
@@ -1033,8 +1041,9 @@
       "publishedAt": "2026-09-11T00:00:00Z",
       "content": "The US National Science Foundation might cut back on its core research grants in favour of those driven by the priorities of US President Donald Trump. Credit: Tada Images/Shutterstock\r\nThe US Nation… [+3031 chars]",
       "tags": [
-        "policy_legislation",
-        "science_policy"
+        "science_policy",
+        "federal_agencies",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789084800
     },
@@ -1051,6 +1060,8 @@
       "publishedAt": "2026-09-11T10:47:06Z",
       "content": "The Federal Communications Commission (FCC) is doing its goose stepping routine over the late night TV landscape again, with similarly pointless results to the last time they attempted to censor a la… [+8408 chars]",
       "tags": [
+        "free_speech",
+        "censorship",
         "media_communications"
       ],
       "publishedAtTs": 1789123626
@@ -1067,10 +1078,7 @@
       "urlToImage": "https://ritholtz.com/wp-content/uploads/2030/07/payroll.png",
       "publishedAt": "2026-09-11T10:30:13Z",
       "content": "The Staggering Financial Cost of 9/11: Quantifying in dollar terms the toll taken by a horrific event and its many consequences. (City Journal) see alsoTrumps 9/11 Fantasies: Trump has made similar c… [+3974 chars]",
-      "tags": [
-        "economy_finance",
-        "terrorism"
-      ],
+      "tags": [],
       "publishedAtTs": 1789122613
     },
     {
@@ -1086,8 +1094,11 @@
       "publishedAt": "2026-09-11T04:34:45Z",
       "content": "A key U.S. government report on mental health, substance use and addiction showed continued improvements in several metrics, especially among young people.\r\nThere was some uncertainty about the futur… [+797 chars]",
       "tags": [
+        "health",
+        "public_health",
+        "mental_health",
         "health_science",
-        "mental_health"
+        "social_issues"
       ],
       "publishedAtTs": 1789101285
     },
@@ -1104,8 +1115,10 @@
       "publishedAt": "2026-09-11T18:08:08Z",
       "content": "from the damn-the-facts,-full-speed-ahead! dept\r\nAs we move closer to mid-term elections, the Trump administration continues to lie about election integrity, sowing the seeds for bullshit “rigged ele… [+5385 chars]",
       "tags": [
+        "voting_rights",
+        "fact_checking",
         "elections_politics",
-        "voting_rights"
+        "trump"
       ],
       "publishedAtTs": 1789150088
     },
@@ -1121,9 +1134,7 @@
       "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
       "publishedAt": "2026-09-11T03:04:00Z",
       "content": "from the these-are-people dept\r\nPick your favorite zombie movie or television show and you’ll eventually be confronted with dialogue justifying the killing of the zombies with the idea that they are … [+3675 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1789095840
     },
     {
@@ -1139,8 +1150,7 @@
       "publishedAt": "2026-09-11T16:23:48Z",
       "content": "from the fear-sucks dept\r\nTwenty-five years ago today I was woken up by a phone call from a close friend, who, like me, grew up in New York and, like me, was now living in California. She told me tha… [+13880 chars]",
       "tags": [
-        "social_issues",
-        "terrorism"
+        "off_topic"
       ],
       "publishedAtTs": 1789143828
     },
@@ -1157,8 +1167,7 @@
       "publishedAt": "2026-09-11T12:23:00Z",
       "content": "from the who-needs-oversight? dept\r\nIt says nothing good about America how easily Elon Musk convinced the press and public he was a supergenius engineer who could cobble together complicated rocket m… [+2575 chars]",
       "tags": [
-        "technology_regulation",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1789129380
     },
@@ -1175,8 +1184,8 @@
       "publishedAt": "2026-09-11T21:57:10Z",
       "content": "New York City Mayor Zohran Mamdani and Rudy Giuliani arrive ahead of the 25th anniversary commemoration ceremony at the National 9/11 Memorial and Museum in Manhattan on September 11, 2026. | Michael… [+4574 chars]",
       "tags": [
-        "social_issues",
-        "terrorism"
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1789163830
     },
@@ -1192,10 +1201,7 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/stephen-miller-duke-classmates-rs-journalism-award.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-09-11T15:08:57Z",
       "content": "This story was originally published in the Duke University student publication The Duke Chronicle. Seyun Park is the winner of the Rolling Stone College Journalism Award in the Feature WritingCategor… [+12603 chars]",
-      "tags": [
-        "personal_family",
-        "elections_politics"
-      ],
+      "tags": [],
       "publishedAtTs": 1789139337
     },
     {
@@ -1211,9 +1217,10 @@
       "publishedAt": "2026-09-11T06:48:43Z",
       "content": "Jimmy Kimmel shared his interview with Democratic Texas Senate candidate James Talarico on YouTube after the FCC threatened Jimmy Kimmel Live, ABC, their affiliates, and local stations. \r\nKimmel expl… [+2822 chars]",
       "tags": [
-        "media_communications",
-        "press_relations",
-        "social_media"
+        "interviews",
+        "free_speech",
+        "elections_politics",
+        "media_communications"
       ],
       "publishedAtTs": 1789109323
     },
@@ -1230,9 +1237,7 @@
       "publishedAt": "2026-09-11T11:55:00Z",
       "content": "I once had a conversation with Barack Obama about the nature of terrorism. This was during his second term, and he’d been going on for a few minutes about how Islamic terrorism wasn’t actually an exi… [+9112 chars]",
       "tags": [
-        "terrorism",
-        "national_security",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1789127700
     },
@@ -1248,9 +1253,7 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/08/a-bit-of-light.jpeg?w=547",
       "publishedAt": "2026-09-11T15:15:00Z",
       "content": "The painful phenomenon of suicide has preoccupied philosophers since the dawn of their discipline. Albert Camus gave it primacy over all other existential concerns. “There is but one truly serious ph… [+7670 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1789139700
     },
     {
@@ -1283,8 +1286,10 @@
       "publishedAt": "2026-09-11T00:23:58Z",
       "content": "Dallas, Texas United States President Donald Trump, a former reality television personality, is no stranger to game-show-style pledges.\r\nBut on Wednesday, his remarks at the Republican National Conve… [+4532 chars]",
       "tags": [
+        "trump",
         "elections_politics",
-        "campaign_finance"
+        "economy_finance",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789086238
     },
@@ -1301,8 +1306,9 @@
       "publishedAt": "2026-09-11T04:07:44Z",
       "content": "US President Donald Trump has jokingly asked Republican voters to cheat like hell in the midterms, like Democrats. He made the comments at the RNC midterm convention in Dallas.",
       "tags": [
-        "elections_politics",
-        "republican_party"
+        "republican_party",
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1789099664
     },
@@ -1319,7 +1325,7 @@
       "publishedAt": "2026-09-11T15:45:46Z",
       "content": "US President Donald Trump remembered the victims of the September 11 attacks at a ceremony to mark the 25th anniversary at the Pentagon.",
       "tags": [
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1789141546
     },
@@ -1336,10 +1342,7 @@
       "publishedAt": "2026-09-11T19:21:48Z",
       "content": "A quarter-century after the attacks on September 11, 2001, officials across the United States have taken part in tributes and memorials to honour the 2,977 victims and those who risked their lives as… [+7013 chars]",
       "tags": [
-        "terrorism",
-        "foreign_policy",
-        "security_intelligence",
-        "social_issues"
+        "leadership"
       ],
       "publishedAtTs": 1789154508
     },
@@ -1356,8 +1359,11 @@
       "publishedAt": "2026-09-11T02:45:52Z",
       "content": "A clear generational divide between younger and older republicans is forming at the RNC Midterm Convention and it all surrounds one key question: should the US be at war with Iran? Al Jazeeras Emma W… [+15 chars]",
       "tags": [
-        "elections_politics",
-        "iran"
+        "us_iran_war",
+        "republican_party",
+        "middle_east",
+        "iran",
+        "national_security"
       ],
       "publishedAtTs": 1789094752
     },
@@ -1374,6 +1380,8 @@
       "publishedAt": "2026-09-11T17:18:17Z",
       "content": "Manta, Ecuador Jose Hernan Flores is still trying to recover from what he describes as a hostile encounter with United States forces at sea.\r\nFlores is a fisherman from the town of San Mateo, along E… [+6275 chars]",
       "tags": [
+        "national_security",
+        "security_incidents",
         "foreign_policy"
       ],
       "publishedAtTs": 1789147097
@@ -1391,8 +1399,9 @@
       "publishedAt": "2026-09-11T14:09:52Z",
       "content": "Donald Trump is set to arrive in Ireland on Saturday, but most Irish people arent happy about it.\r\nA recent poll by the Sunday Independent and Ireland Thinks reported that 69 percent do not support t… [+5178 chars]",
       "tags": [
-        "foreign_policy",
-        "protests"
+        "europe",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789135792
     },
@@ -1409,10 +1418,9 @@
       "publishedAt": "2026-09-11T03:33:08Z",
       "content": "Dallas, Texas Night two of the first-of-its-kind Republican midterm convention has wrapped up, with the party officially hitching its wagon to US President Donald Trump as it faces uphill legislative… [+8348 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "2026_midterms",
-        "campaign_events"
+        "campaign_events",
+        "elections_politics"
       ],
       "publishedAtTs": 1789097588
     },
@@ -1429,9 +1437,9 @@
       "publishedAt": "2026-09-11T18:33:36Z",
       "content": "Iran is expected to meet with Gulf states in Oman on Monday to discuss the Strait of Hormuz, the countrys Foreign Ministry announced.\r\nIn a statement on Friday, the ministry said the meeting is inten… [+3325 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east"
+        "middle_east",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789151616
     },
@@ -1448,8 +1456,7 @@
       "publishedAt": "2026-09-11T05:30:05Z",
       "content": "Type the words 9/11 conspiracy theories into the search bar of YouTube, and there is no shortage of people lining up to tell you what really happened.\r\nThere are countless videos of commentators like… [+11623 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1789104605
     },
@@ -1466,8 +1473,7 @@
       "publishedAt": "2026-09-11T08:08:43Z",
       "content": "Anthropic has disrupted several attempts to use its artificial intelligence models for research that could help develop biological weapons, the United States technology company has reported.\r\nThe fir… [+1831 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789114123
     },
@@ -1484,9 +1490,7 @@
       "publishedAt": "2026-09-11T18:00:41Z",
       "content": "To mark the 25th anniversary of the September 11, 2001 attacks, Americans gathered to remember the nearly 3,000 people killed when hijacked planes struck the World Trade Center, the Pentagon and a fi… [+2380 chars]",
       "tags": [
-        "social_issues",
-        "terrorism",
-        "national_security"
+        "off_topic"
       ],
       "publishedAtTs": 1789149641
     },
@@ -1503,7 +1507,7 @@
       "publishedAt": "2026-09-11T01:07:23Z",
       "content": "Venezuelas former first lady, Cilia Flores de Maduro, has asked a judge to release her from federal detention in the United States, citing a worsening heart condition.\r\nIn an application for pre-tria… [+3563 chars]",
       "tags": [
-        "venezuela_intervention",
+        "personal_legal",
         "legal_justice"
       ],
       "publishedAtTs": 1789088843
@@ -1521,8 +1525,11 @@
       "publishedAt": "2026-09-11T14:47:12Z",
       "content": "Houthi forces have captured the whole of Yemens Red Sea coastline, reaching all the way to the critically important Bab al-Mandeb shipping gateway, as the groups rapid offensive continued on Friday.\r… [+7597 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
+        "security_incidents",
         "foreign_policy",
-        "middle_east"
+        "security_intelligence"
       ],
       "publishedAtTs": 1789138032
     },
@@ -1539,8 +1546,7 @@
       "publishedAt": "2026-09-11T07:57:55Z",
       "content": "UEFA has urged a United States court to reject an attempt by FIFAs American subsidiaries to intervene in its bid to obtain evidence for a potential Swiss criminal case against FIFA President Gianni I… [+2516 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1789113475
     },
@@ -1557,9 +1563,8 @@
       "publishedAt": "2026-09-11T16:30:48Z",
       "content": "United States envoys Steve Witkoff and Jared Kushner have been seen as embarrassing and amateurish after their latest attempt to secure a ceasefire in Russias war in Ukraine, suggesting that European… [+6534 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "ukraine",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789144248
     },
@@ -1577,8 +1582,9 @@
       "content": "United States consumer prices jumped in August, marking the largest monthly increase in four months, in advance of the Federal Reserves policy meeting as expectations for an interest rate hike contin… [+3542 chars]",
       "tags": [
         "inflation",
-        "economy_finance",
-        "prices"
+        "prices",
+        "energy",
+        "economy_finance"
       ],
       "publishedAtTs": 1789147691
     },
@@ -1595,7 +1601,10 @@
       "publishedAt": "2026-09-11T17:35:36Z",
       "content": "United States health authorities have officially declared the nations largest recorded outbreak of cyclosporiasis over, after contaminated iceberg lettuce sickened nearly 13,000 people across 21 stat… [+2888 chars]",
       "tags": [
-        "public_health"
+        "public_health",
+        "health",
+        "public_health_emergency",
+        "health_science"
       ],
       "publishedAtTs": 1789148136
     },
@@ -1612,8 +1621,7 @@
       "publishedAt": "2026-09-11T14:07:00Z",
       "content": "Islamabad, Pakistan Irans Foreign Minister Abbas Araghchi had two phone calls on Thursday night: one with Pakistans chief of defence forces, Field Marshal Asim Munir, the other with Saudi Arabias For… [+7981 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "off_topic"
       ],
       "publishedAtTs": 1789135620
     },
@@ -1629,11 +1637,7 @@
       "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/fb_image_6aa3d8ed5ec5d.png",
       "publishedAt": "2026-09-11T16:11:32Z",
       "content": "President Donald Trump paid tribute to Charlie Kirk at the 2026 Republican National Convention (RNC), held at the American Airlines Center in Dallas, Texas, on September 9 and 10.\r\nTrump singled out … [+6489 chars]",
-      "tags": [
-        "personal_family",
-        "elections_politics",
-        "republican_party"
-      ],
+      "tags": [],
       "publishedAtTs": 1789143092
     },
     {
@@ -1649,9 +1653,7 @@
       "publishedAt": "2026-09-11T10:00:00Z",
       "content": "President Donald Trump has refused to attend the ceremony at Ground Zero marking the 25th anniversary of the Al Qaeda attack on the World Trade Center reportedly because he wanted to deliver a speech… [+20855 chars]",
       "tags": [
-        "foreign_policy",
-        "terrorism",
-        "security_intelligence"
+        "trump"
       ],
       "publishedAtTs": 1789120800
     },
@@ -1668,8 +1670,9 @@
       "publishedAt": "2026-09-11T11:00:46Z",
       "content": "A reporter asked President Donald Trump why he needed to incentivize voters with a $5,000 check if his economic policies were working, and it seemed to strike a nerve.\r\nOn Wednesday, Trump told the R… [+1863 chars]",
       "tags": [
-        "economy_finance",
-        "elections_politics"
+        "trump",
+        "elections_politics",
+        "media_communications"
       ],
       "publishedAtTs": 1789124446
     },
@@ -1686,8 +1689,7 @@
       "publishedAt": "2026-09-11T12:52:01Z",
       "content": "Flying has completely changed since Al Qaeda hijackers carried out the terrorist attacks of September 11, 2001, 25 years ago.\r\nThe newly created Transportation Security Administration replaced the pr… [+7729 chars]",
       "tags": [
-        "security_intelligence",
-        "transportation"
+        "off_topic"
       ],
       "publishedAtTs": 1789131121
     },
@@ -1704,8 +1706,8 @@
       "publishedAt": "2026-09-11T10:45:35Z",
       "content": "Donald Trump offered every adult American a bribe Wednesday night. If the Republicans keep the House and Senate during the midterm elections, Trump said, I will issue a dividend to every adult citize… [+10960 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_finance"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1789123535
     },
@@ -1722,9 +1724,9 @@
       "publishedAt": "2026-09-11T20:58:37Z",
       "content": "Data from the Bureau of Labor Statistics released on Friday painted a grim picture for American consumers and is predicted to shape how the Federal Reserve rules on interest rates next week. Although… [+2255 chars]",
       "tags": [
-        "economy_finance",
+        "prices",
         "inflation",
-        "prices"
+        "economy_finance"
       ],
       "publishedAtTs": 1789160317
     },
@@ -1742,7 +1744,8 @@
       "content": "Some U.S. Postal Service facilities failed to properly handle ballots during this years primary elections, according to a new audit from the agencys Office of Inspector General. Election experts say … [+6466 chars]",
       "tags": [
         "voting_rights",
-        "government_administration"
+        "government_operations",
+        "elections_politics"
       ],
       "publishedAtTs": 1789120813
     }

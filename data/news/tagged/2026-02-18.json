@@ -15,8 +15,7 @@
       "publishedAt": "2026-02-18T19:25:46Z",
       "content": "Donald Trump Jr. and Eric Trump, the eldest sons of President Donald Trump, are holding an event at Mar-a-Lago on Wednesday for their crypto company, World Liberty Financial. In many ways, it’s a vic… [+7234 chars]",
       "tags": [
-        "personal_family",
-        "personal_business"
+        "trump"
       ],
       "publishedAtTs": 1771442746
     },
@@ -33,8 +32,7 @@
       "publishedAt": "2026-02-18T16:00:00Z",
       "content": "In case you had any doubt, Elon Musk’s X has an algorithm that favors conservative content posted by political activists over liberal content or posts by traditional news media accounts, according to… [+3966 chars]",
       "tags": [
-        "media_communications",
-        "social_media"
+        "off_topic"
       ],
       "publishedAtTs": 1771430400
     },
@@ -51,7 +49,10 @@
       "publishedAt": "2026-02-18T19:13:08Z",
       "content": "\"Do not give away Diego Garcia,\" US President Donald Trump has said as he criticised the UK's plan to hand over the Chagos Islands to Mauritius and lease back an important military base.",
       "tags": [
-        "foreign_policy"
+        "national_security",
+        "trump",
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1771441988
     },
@@ -68,8 +69,7 @@
       "publishedAt": "2026-02-18T13:01:01Z",
       "content": "Rosanna Pansino has been sharing her baking creations with the internet for over 15 years, hoping to delight and inspire with fun creations that include a Star Wars Death Star cake and holographic ch… [+29326 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1771419661
     },
@@ -86,8 +86,10 @@
       "publishedAt": "2026-02-18T23:26:43Z",
       "content": "Like many people in the Twin Cities, Jess has been observing ICE officers: following them in her car and documenting their actions. Earlier this month, she was in North Minneapolis, when immigration … [+7232 chars]",
       "tags": [
-        "legal_justice",
-        "immigration"
+        "free_speech",
+        "ice_controversies_resistance",
+        "immigration",
+        "social_issues"
       ],
       "publishedAtTs": 1771457203
     },
@@ -104,9 +106,10 @@
       "publishedAt": "2026-02-18T17:00:00Z",
       "content": "Of all the ways President Trump has pushed the boundaries of executive power, one stands outto lawyers and watchdogs.\r\nThe president wants the government he leads to pay him billions of dollars.\r\nTru… [+7776 chars]",
       "tags": [
-        "legal_justice",
         "ethics",
-        "government_administration"
+        "lawsuits",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1771434000
     },
@@ -123,8 +126,11 @@
       "publishedAt": "2026-02-18T07:09:39Z",
       "content": "WASHINGTON Conservation and historical organizations sued the Trump administration on Tuesday over National Park Service policies that the groups say erase history and science from America's national… [+6342 chars]",
       "tags": [
-        "environment",
-        "legal_justice"
+        "lawsuits",
+        "civil_litigation",
+        "legal_justice",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771398579
     },
@@ -140,11 +146,7 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6160x3465+0+321/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2Fed%2Faf1ac9a445f7b5cbb4245bf5d217%2Fgettyimages-2233060913.jpg",
       "publishedAt": "2026-02-18T12:42:06Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7025 chars]",
-      "tags": [
-        "legal_justice",
-        "media_communications",
-        "government_administration"
-      ],
+      "tags": [],
       "publishedAtTs": 1771418526
     },
     {
@@ -160,7 +162,10 @@
       "publishedAt": "2026-02-18T01:17:02Z",
       "content": "Kalshi's websiteThomas Fuller/NurPhoto via Getty Images\r\n<ul><li>Nevada regulators sued Kalshi, saying its markets are actually illegal sports gambling.</li><li>The suit was filed just as the Trump a… [+2978 chars]",
       "tags": [
-        "legal_justice"
+        "lawsuits",
+        "civil_litigation",
+        "legal_justice",
+        "regional_state"
       ],
       "publishedAtTs": 1771377422
     },
@@ -177,8 +182,11 @@
       "publishedAt": "2026-02-18T16:31:59Z",
       "content": "Former CFPB Director Rohit Chopra reached a settlement with Navient over claims the lender overcharged student-loan borrowers.Michael A. McCoy/Getty Images\r\n<ul><li>Student-loan borrowers are now rec… [+3303 chars]",
       "tags": [
+        "consumer_protection",
+        "lawsuits",
+        "civil_litigation",
         "legal_justice",
-        "consumer_protection"
+        "economy_finance"
       ],
       "publishedAtTs": 1771432319
     },
@@ -195,8 +203,11 @@
       "publishedAt": "2026-02-18T19:48:02Z",
       "content": "Kevin Hassett, who is reportedly in the front-running to be the next Fed Chair, stands next to President Donald Trump in the Oval OfficeChip Somodevilla/Getty Images\r\n<ul><li>Trump's top economic adv… [+2979 chars]",
       "tags": [
+        "banking",
+        "trade",
+        "trump",
         "economy_finance",
-        "trade"
+        "leadership"
       ],
       "publishedAtTs": 1771444082
     },
@@ -213,9 +224,11 @@
       "publishedAt": "2026-02-18T18:36:40Z",
       "content": "The aircraft carrier USS Abraham Lincoln and the destroyer USS Spruance.US Navy photo by Mass Communication Specialist 3rd Class Christian Kibler\r\n<ul><li>The US Navy is gathering warships in and aro… [+4707 chars]",
       "tags": [
-        "foreign_policy",
+        "military",
+        "national_security",
         "middle_east",
-        "military"
+        "security_intelligence",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771439800
     },
@@ -232,9 +245,7 @@
       "publishedAt": "2026-02-18T22:00:51Z",
       "content": "Palantir cofounder and CEO Alex KarpFrancois Mori/AP\r\n<ul><li>Palantir made an announcement Tuesday, saying it relocated its headquarters to Florida from Colorado.</li><li>The software company, which… [+4092 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771452051
     },
@@ -251,8 +262,7 @@
       "publishedAt": "2026-02-18T10:08:01Z",
       "content": "Student-loan borrowers in public service are facing debt relief uncertainty.Aaron Hawkins/Getty Images/iStockphoto\r\n<ul><li>Thousands of student-loan borrowers in public service are waiting for relie… [+4728 chars]",
       "tags": [
-        "education",
-        "economy_finance"
+        "social_issues"
       ],
       "publishedAtTs": 1771409281
     },
@@ -269,8 +279,11 @@
       "publishedAt": "2026-02-18T15:50:56Z",
       "content": "As the Trump administration continues to ramp up ICE raids across the country, the Department of Homeland Security is increasingly trying to subpoena personal information on anonymous internet users … [+1450 chars]",
       "tags": [
-        "media_communications",
-        "social_media"
+        "federal_agencies",
+        "technology_regulation",
+        "law_enforcement",
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1771429856
     },
@@ -287,8 +300,8 @@
       "publishedAt": "2026-02-18T11:11:11Z",
       "content": "Donald Trump has issued a warning as vague as it is sinister about this years battle for control of the House and Senate.\r\nCrooked Elections cannot be allowed in the U.S.A., the 79-year-old president… [+3705 chars]",
       "tags": [
-        "elections_politics",
-        "trump"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771413071
     },
@@ -305,6 +318,8 @@
       "publishedAt": "2026-02-18T18:47:12Z",
       "content": "White House Press Secretary Karoline Leavitt was visibly stunned when CBS Reporter Ed O'Keefe asked for examples of President Donald Trump being falsely called racist in recent years.",
       "tags": [
+        "press_relations",
+        "media_criticism",
         "media_communications",
         "trump"
       ],
@@ -322,10 +337,7 @@
       "urlToImage": null,
       "publishedAt": "2026-02-18T13:58:04Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [
-        "elections_politics",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771423084
     },
     {
@@ -341,8 +353,11 @@
       "publishedAt": "2026-02-18T20:05:50Z",
       "content": "SAN FRANCISCO, Feb 18 (Reuters) - California, Colorado and Washington are suing the federal government to force it to pay out grants approved by Congress for clean energy projects, the California att… [+1324 chars]",
       "tags": [
-        "policy_legislation",
-        "energy"
+        "lawsuits",
+        "civil_litigation",
+        "environment",
+        "energy",
+        "climate_policy"
       ],
       "publishedAtTs": 1771445150
     },
@@ -359,8 +374,11 @@
       "publishedAt": "2026-02-18T13:00:00Z",
       "content": "Supreme Court Justice Neil Gorsuch is having an I told you so moment when it comes to President Trumps tariffs.\r\nAt Novembers blockbuster arguments, Gorsuch raised alarm about what he called a one-wa… [+18508 chars]",
       "tags": [
+        "trade",
+        "supreme_court",
+        "trump",
         "legal_justice",
-        "trade"
+        "economy_finance"
       ],
       "publishedAtTs": 1771419600
     },
@@ -377,9 +395,7 @@
       "publishedAt": "2026-02-18T20:27:00Z",
       "content": "(The Center Square) Illinois lawmakers are offering mixed reviews of Gov. J.B. Pritzkers budget address.\r\nFollowing the governors State of the State speech on Wednesday, Illinois Senate President Don… [+2046 chars]",
       "tags": [
-        "policy_legislation",
-        "budget",
-        "elections_politics"
+        "off_topic"
       ],
       "publishedAtTs": 1771446420
     },
@@ -396,9 +412,7 @@
       "publishedAt": "2026-02-18T09:32:33Z",
       "content": "This embedded content is not available in your region.\r\nGold prices remained below the $5,000 threshold on Wednesday as investors awaited the release of minutes from the Federal Reserves January meet… [+4294 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "stock_market"
+        "economy_finance"
       ],
       "publishedAtTs": 1771407153
     },
@@ -415,8 +429,7 @@
       "publishedAt": "2026-02-18T12:15:39Z",
       "content": "Rachel Reeves has ruled out an increase in defence spending this year after coming under pressure from military chiefs.\r\nOn Wednesday, the Chancellor said the Ministry of Defence (MoD) would have to … [+3845 chars]",
       "tags": [
-        "defense_contractor_reform",
-        "department_of_war"
+        "off_topic"
       ],
       "publishedAtTs": 1771416939
     },
@@ -433,8 +446,7 @@
       "publishedAt": "2026-02-18T21:25:23Z",
       "content": "Home Depot and Lowes have dominated the home improvement and hardware retail sectors for decades, continuing to rise above hardware cooperatives True Value Hardware and Ace Hardware, and making life … [+4140 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1771449923
     },
@@ -451,9 +463,7 @@
       "publishedAt": "2026-02-18T04:10:40Z",
       "content": "HANOI, Vietnam (AP) Indonesia is tightening state control over the worlds largest nickel supply after years of betting the metal would anchor a homegrown electric-vehicle industry, and just as global… [+7319 chars]",
       "tags": [
-        "trade",
-        "energy",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771387840
     },
@@ -471,6 +481,7 @@
       "content": "For the second time in a little more than a week, attorneys have announced that an immigration court has terminated deportation proceedings against a pro-Palestinian student after Secretary of State … [+4139 chars]",
       "tags": [
         "immigration",
+        "ice_controversies_resistance",
         "legal_justice"
       ],
       "publishedAtTs": 1771393528
@@ -522,8 +533,7 @@
       "publishedAt": "2026-02-18T08:32:17Z",
       "content": "<ul><li>Looking back at the life of civil rights legend Jesse Jackson, who died at 84\r\n</li><li>Glove recovered near Nancy Guthrie's home doesn't have DNA match in federal database\r\n</li><li>Armed ma… [+4372 chars]",
       "tags": [
-        "lgbtq_rights",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771403537
     },
@@ -556,9 +566,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/59441b82-89d1-46e6-9595-39e55496211f/260218_gma_play_pitbull1_0749_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-18T16:20:33Z",
       "content": "<ul><li>Former FBI agent on next steps in DNA testing in Nancy Guthrie case\r\n</li><li>9 skiers missing in California avalanche\r\n</li><li>Signs of progress in US, Iran talks\r\n</li><li>Mark Zuckerberg … [+4446 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771431633
     },
     {
@@ -574,8 +582,7 @@
       "publishedAt": "2026-02-18T20:47:56Z",
       "content": "<ul><li>8 of 9 missing skiers found dead following California backcountry avalanche\r\n</li><li>UK police examine flight logs used by Epstein's private jet\r\n</li><li>Unruly passenger detained after inc… [+4534 chars]",
       "tags": [
-        "crisis_emergency",
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1771447676
     },
@@ -609,8 +616,7 @@
       "publishedAt": "2026-02-18T19:47:06Z",
       "content": "<ul><li>Authorities trying to locate Nancy Guthrie through pacemaker signals\r\n</li><li>Former FBI agent on next steps in DNA testing in Nancy Guthrie case\r\n</li><li>Lawmakers question former Epstein … [+4480 chars]",
       "tags": [
-        "legal_justice",
-        "law_enforcement"
+        "off_topic"
       ],
       "publishedAtTs": 1771444026
     },
@@ -627,9 +633,7 @@
       "publishedAt": "2026-02-18T20:44:49Z",
       "content": "<ul><li>8 of 9 missing skiers found dead following California backcountry avalanche\r\n</li><li>UK police examine flight logs used by Epstein's private jet\r\n</li><li>Unruly passenger detained after inc… [+4534 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine",
-        "russia"
+        "off_topic"
       ],
       "publishedAtTs": 1771447489
     },
@@ -662,9 +666,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ed3ee791-b2c4-495f-b986-75d559ba3bf2/260218_social_jessejackson_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-18T18:40:12Z",
       "content": "<ul><li>Former FBI agent on next steps in DNA testing in Nancy Guthrie case\r\n</li><li>US official says progress made in talks with Iran\r\n</li><li>9 skiers missing in California avalanche\r\n</li><li>Ho… [+4491 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771440012
     },
     {
@@ -679,9 +681,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/d2eda7e7-4c23-40e8-aac9-fbd73e4cef5b/260218_abc_social_rhodeisland_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-18T18:38:24Z",
       "content": "<ul><li>Former FBI agent on next steps in DNA testing in Nancy Guthrie case\r\n</li><li>US official says progress made in talks with Iran\r\n</li><li>9 skiers missing in California avalanche\r\n</li><li>Ho… [+4491 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771439904
     },
     {
@@ -714,7 +714,8 @@
       "publishedAt": "2026-02-18T22:10:15Z",
       "content": "Over the past year, several states have launched legal actions against some of the largest players in the booming prediction market industry, such as Kalshi and Polymarket. These cases mostly have to… [+4922 chars]",
       "tags": [
-        "policy_legislation"
+        "policy_legislation",
+        "legal_justice"
       ],
       "publishedAtTs": 1771452615
     },
@@ -732,8 +733,10 @@
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.An… [+9101 chars]",
       "tags": [
         "voting_rights",
+        "republican_party",
         "elections_politics",
-        "republican_party"
+        "policy_legislation",
+        "trump"
       ],
       "publishedAtTs": 1771447860
     },
@@ -750,9 +753,8 @@
       "publishedAt": "2026-02-18T19:54:42Z",
       "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsOn this week’s episode of The David Frum Show, David opens with a warning about President Trump’s escalating efforts to ben… [+48306 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1771444482
     },
@@ -769,8 +771,7 @@
       "publishedAt": "2026-02-18T00:48:22Z",
       "content": "\"Trump has implied that Venezuela is now a US protectorate, so she serves at the will of the US president,\" says Christopher Sabatini, senior research fellow on Latin America at Chatham House think t… [+278 chars]",
       "tags": [
-        "foreign_policy",
-        "venezuela_intervention"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771375702
     },
@@ -788,8 +789,7 @@
       "content": "Badged versions of TP-Link routers are supplied to US customers by more than 300 ISPs, making them the most widely used Wi-Fi routers in the country, found in millions of US homes.\r\nIt therefore caus… [+2591 chars]",
       "tags": [
         "cybersecurity",
-        "technology_regulation",
-        "federal_agencies"
+        "policy_legislation"
       ],
       "publishedAtTs": 1771423578
     },
@@ -807,8 +807,10 @@
       "content": "On Wednesday prominent medical and environmental groups challenged the Trump administration’s decision to scrap a 2009 finding that climate change threatens human health.\r\nThe suit was filed on Febru… [+2016 chars]",
       "tags": [
         "environment",
-        "legal_justice",
-        "climate_policy"
+        "federal_agencies",
+        "lawsuits",
+        "climate_policy",
+        "civil_litigation"
       ],
       "publishedAtTs": 1771426800
     },
@@ -825,9 +827,11 @@
       "publishedAt": "2026-02-18T14:50:00Z",
       "content": "The U.S. Food and Drug Administration will review a messenger RNA (mRNA) flu vaccine for approval, according to its maker, Moderna. The decision is a dramatic U-turn for the agency, which, only about… [+2323 chars]",
       "tags": [
-        "health_science",
+        "medical_research",
         "public_health",
-        "medical_research"
+        "health",
+        "federal_agencies",
+        "health_science"
       ],
       "publishedAtTs": 1771426200
     },
@@ -844,8 +848,7 @@
       "publishedAt": "2026-02-18T10:15:11Z",
       "content": "Exclusive Microsoft has said one of its leading spokespeople gave a testimony to the UK Parliament containing an \"inaccuracy\" with regard to its dealings with the International Criminal Court (ICC) i… [+5077 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1771409711
     },
@@ -861,10 +864,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/18103741/MixCollage-18-Feb-2026-10-36-AM-3105.jpg",
       "publishedAt": "2026-02-18T10:39:02Z",
       "content": "There are a ton of famous people mentioned in the Epstein Files. You have someone like Donald Trump, who was mentioned about 38,000 times, according to The New York Times‘ analysis of the documents. … [+1773 chars]",
-      "tags": [
-        "legal_justice",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1771411142
     },
     {
@@ -880,9 +880,11 @@
       "publishedAt": "2026-02-18T19:56:48Z",
       "content": "from the flow-my-sewage,-said-the-swamp dept\r\nThe ICE surge in Minneapolis, Minnesota was instigated by a far-right click bait artist and encouraged by the president’s portrayal of Somali immigrants … [+8028 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "social_issues"
+        "civil_rights",
+        "ice_controversies_resistance",
+        "social_issues",
+        "legal_justice"
       ],
       "publishedAtTs": 1771444608
     },
@@ -899,6 +901,9 @@
       "publishedAt": "2026-02-18T18:53:48Z",
       "content": "from the great-job,-buddy dept\r\nYesterday we noted how CBS fecklessly tried to prevent Stephen Colbert from broadcasting an interview with Texas Democratic State Representative James Talarico. Which,… [+2536 chars]",
       "tags": [
+        "free_speech",
+        "media_criticism",
+        "censorship",
         "media_communications"
       ],
       "publishedAtTs": 1771440828
@@ -916,7 +921,7 @@
       "publishedAt": "2026-02-18T21:35:04Z",
       "content": "from the man-vs.-machine dept\r\nIve talked on Techdirt about just a few of my AI-related experiments over the past few years, including how I use it to help me edit pieces, which I still write myself.… [+8718 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1771450504
     },
@@ -934,8 +939,8 @@
       "content": "from the hypocrisy-as-a-service dept\r\nFor the last five years, we had to endure an endless, breathless parade of hyperbole regarding the so-called “censorship industrial complex.” We were told, repea… [+8280 chars]",
       "tags": [
         "free_speech",
-        "media_communications",
-        "censorship"
+        "censorship",
+        "social_media"
       ],
       "publishedAtTs": 1771435688
     },
@@ -952,8 +957,7 @@
       "publishedAt": "2026-02-18T17:08:52Z",
       "content": "James Talarico and Stephen Colbert on the set of The Late Show With Stephen Colbert. | Scott Kowalchyk/CBS via Getty Images\r\n\n\nFor the 12 of us who woke up Tuesday morning wondering what we had misse… [+4376 chars]",
       "tags": [
-        "media_communications",
-        "censorship"
+        "free_speech"
       ],
       "publishedAtTs": 1771434532
     },
@@ -971,6 +975,8 @@
       "content": "Donald Trump has been a major supporter of the coal industry since he entered American politics and donned a hard hat at his “Trump Digs Coal” rally in 2016. It’s been part of his attempt to build an… [+5033 chars]",
       "tags": [
         "energy",
+        "environment",
+        "trump",
         "policy_legislation"
       ],
       "publishedAtTs": 1771426800
@@ -1022,7 +1028,10 @@
       "publishedAt": "2026-02-18T21:40:53Z",
       "content": "Donald Trump has criticised the United Kingdoms plan to hand over the Chagos Islands to Mauritius, a day after the United States Department of State gave its official approval of the deal.\r\nThe US pr… [+2303 chars]",
       "tags": [
-        "foreign_policy"
+        "national_security",
+        "trump",
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1771450853
     },
@@ -1039,9 +1048,8 @@
       "publishedAt": "2026-02-18T02:48:05Z",
       "content": "New York has confirmed that the federal government released another $77m for new tunnels and bridges connecting the state to its neighbour New Jersey, amid a feud with United States President Donald … [+4623 chars]",
       "tags": [
-        "policy_legislation",
         "transportation",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771382885
     },
@@ -1058,6 +1066,10 @@
       "publishedAt": "2026-02-18T01:51:00Z",
       "content": "Late-night show host Stephen Colbert has alleged that the CBS broadcaster blocked him from airing an interview with Democratic Texas Senate candidate James Talarico, citing fears it would violate new… [+5367 chars]",
       "tags": [
+        "interviews",
+        "censorship",
+        "free_speech",
+        "elections_politics",
         "media_communications"
       ],
       "publishedAtTs": 1771379460
@@ -1075,9 +1087,7 @@
       "publishedAt": "2026-02-18T14:55:24Z",
       "content": "One week ahead of the fourth anniversary of Moscows full-scale invasion of Ukraine, United States-led peace talks in Geneva ended for the day earlier than scheduled on Wednesday.\r\nThe talks, which ar… [+10324 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine",
-        "russia"
+        "off_topic"
       ],
       "publishedAtTs": 1771426524
     },
@@ -1094,9 +1104,10 @@
       "publishedAt": "2026-02-18T22:27:56Z",
       "content": "Brendan Carr, the chair of the Federal Communications Commission (FCC) in the United States, has confirmed that the agency launched an investigation against ABCs daytime talk show The View over a rec… [+4933 chars]",
       "tags": [
-        "media_communications",
+        "federal_agencies",
+        "free_speech",
         "censorship",
-        "press_relations"
+        "media_communications"
       ],
       "publishedAtTs": 1771453676
     },
@@ -1113,9 +1124,11 @@
       "publishedAt": "2026-02-18T23:44:52Z",
       "content": "White House spokesperson Karoline Leavitt has said Iran would be wise to make a deal, as the United States surges further military assets to the Middle East.\r\nHer statement came as part of a series o… [+4814 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "military"
+        "national_security",
+        "middle_east",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771458292
     },
@@ -1132,8 +1145,11 @@
       "publishedAt": "2026-02-18T05:05:29Z",
       "content": "US Secretary of State Marco Rubio has announced that the Trump administration has appointed an envoy to the position of United States special coordinator for Tibetan issues.\r\nThe role, which was crea… [+2785 chars]",
       "tags": [
+        "appointments",
+        "personnel",
+        "statements",
         "foreign_policy",
-        "china"
+        "government_administration"
       ],
       "publishedAtTs": 1771391129
     },
@@ -1150,10 +1166,8 @@
       "publishedAt": "2026-02-18T13:06:41Z",
       "content": "United States President Donald Trump will host the inaugural meeting of his so-called Board of Peace in Washington on Thursday, assembling representatives from member nations to announce strategies a… [+8871 chars]",
       "tags": [
-        "foreign_policy",
-        "middle_east",
-        "asia_pacific",
-        "government_administration"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771420001
     },
@@ -1170,8 +1184,11 @@
       "publishedAt": "2026-02-18T23:41:18Z",
       "content": "The United States is preparing to pull back the nearly 1,000 troops from its military that remain in Syria, the Wall Street Journal reported, citing three US officials.\r\nAl Jazeera was not immediatel… [+2536 chars]",
       "tags": [
+        "military",
+        "national_security",
+        "middle_east",
         "foreign_policy",
-        "military"
+        "security_intelligence"
       ],
       "publishedAtTs": 1771458078
     },
@@ -1188,8 +1205,10 @@
       "publishedAt": "2026-02-18T18:04:04Z",
       "content": "The federal agency tasked with regulating drugs in the United States has said it will review a flu vaccine application from the pharmaceutical giant Moderna, one week after it declined to do so in an… [+2567 chars]",
       "tags": [
-        "health_science",
-        "public_health"
+        "medical_research",
+        "public_health",
+        "health",
+        "health_science"
       ],
       "publishedAtTs": 1771437844
     },
@@ -1223,8 +1242,11 @@
       "publishedAt": "2026-02-18T20:58:17Z",
       "content": "The US has transferred thousands of detainees linked to the group from Syria to Iraq.When US President Donald Trump, during his first term in office, declared that ISIL (ISIS) had been defeated, many… [+907 chars]",
       "tags": [
-        "foreign_policy",
-        "terrorism"
+        "national_security",
+        "terrorism",
+        "middle_east",
+        "security_incidents",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771448297
     },
@@ -1241,8 +1263,7 @@
       "publishedAt": "2026-02-18T17:00:00Z",
       "content": "Amid a global polycrisis, new arrivals in New York face a fractured city where sanctuary feels increasingly out of reach.New York City, long seen as a sanctuary for those fleeing conflict, now faces … [+1322 chars]",
       "tags": [
-        "immigration",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771434000
     },
@@ -1259,9 +1280,11 @@
       "publishedAt": "2026-02-18T20:49:49Z",
       "content": "The United Nations Security Council has rescheduled a meeting on Israel-Palestine to take place before United States President Donald Trumps Board of Peace convenes in Washington on the same issue.\r\n… [+3827 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
         "gaza",
-        "israel"
+        "international_organizations",
+        "israel",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771447789
     },
@@ -1278,8 +1301,7 @@
       "publishedAt": "2026-02-18T22:04:08Z",
       "content": "Russian President Vladimir Putin has slammed new restrictions imposed by the United States on Cuba as unacceptable, as he met Cuban Foreign Minister Bruno Rodriguez in the Kremlin, Russian state news… [+2800 chars]",
       "tags": [
-        "foreign_policy",
-        "russia"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771452248
     },
@@ -1296,8 +1318,9 @@
       "publishedAt": "2026-02-18T02:26:05Z",
       "content": "Police in Washington, DC, have arrested an 18-year-old man as he ran towards the Capitol Building, home to the US Congress, armed with a loaded shotgun and extra ammunition.\r\nThe suspect, identified … [+1787 chars]",
       "tags": [
-        "security_intelligence",
-        "national_security"
+        "security_incidents",
+        "law_enforcement",
+        "criminal_cases"
       ],
       "publishedAtTs": 1771381565
     },
@@ -1314,7 +1337,7 @@
       "publishedAt": "2026-02-18T02:18:07Z",
       "content": "A group of United Nations experts have suggested that abuses carried out by convicted sex offender Jeffrey Epstein could meet the definition of crimes against humanity.\r\nOn Tuesday, the independent e… [+3352 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771381087
     },
@@ -1331,8 +1354,7 @@
       "publishedAt": "2026-02-18T01:09:54Z",
       "content": "Washington, DC  More than 40 years ago, United States civil rights leader Jesse Jackson called on the Democratic Party to open its doors and welcome the desperate, the damned, the disinherited, the d… [+7559 chars]",
       "tags": [
-        "civil_rights",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771376994
     },
@@ -1349,7 +1371,9 @@
       "publishedAt": "2026-02-18T21:28:37Z",
       "content": "The Vatican will not participate in President Donald Trumps Board of Peace initiative, Cardinal Pietro Parolin, the Vaticans top diplomatic official, said on Tuesday while adding that efforts to hand… [+2109 chars]",
       "tags": [
-        "foreign_policy"
+        "statements",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1771450117
     },
@@ -1365,9 +1389,7 @@
       "urlToImage": "https://static.the-independent.com/2026/02/10/15/57/Bad-Bunny.jpeg?trim=38,0,39,0&width=1200&height=800&crop=1200:800",
       "publishedAt": "2026-02-18T18:46:37Z",
       "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+2770 chars]",
-      "tags": [
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771440397
     },
     {
@@ -1382,11 +1404,7 @@
       "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/02/ivanka-trump-faux-pas-on-chinese-lunar-new-year-sparks-debate-fb1-1.jpg",
       "publishedAt": "2026-02-18T13:36:26Z",
       "content": "Ivanka Trump is facing backlash over a social media post she made to celebrate the Chinese New Year.\r\nThe post sparked conversation about her alleged presidential ambitions, physical transformation, … [+10131 chars]",
-      "tags": [
-        "personal_family",
-        "social_issues",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771421786
     },
     {
@@ -1402,8 +1420,7 @@
       "publishedAt": "2026-02-18T10:36:37Z",
       "content": "Just when netizens thought politics couldnt get any weirder in 2026, they laid eyes on Robert F. Kennedy Jr. and Kid Rock sitting shirtless in a hot tub while drinking milk.\r\nIn a video that left the… [+9540 chars]",
       "tags": [
-        "personal_family",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771410997
     },
@@ -1420,8 +1437,7 @@
       "publishedAt": "2026-02-18T11:00:00Z",
       "content": "Sharif Street is something of an anomaly. A Democratic state senator running for Congress, hes angling to replace retiring Rep. Dwight Evans in a deep-blue Philadelphia seat. Hes Black, Muslim, and r… [+12706 chars]",
       "tags": [
-        "elections_politics",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771412400
     },
@@ -1437,10 +1453,7 @@
       "urlToImage": "https://i.insider.com/6995e1a9f8731049f3af5068?width=1200&format=jpeg",
       "publishedAt": "2026-02-18T16:56:30Z",
       "content": "Prediction markets like Kalshi and Polymarket have a powerful new ally: the Trump administration.\r\nCommodity Futures Trading Commission Chairman Michael Selig, the country's top federal regulator of … [+2255 chars]",
-      "tags": [
-        "policy_legislation",
-        "economy_finance"
-      ],
+      "tags": [],
       "publishedAtTs": 1771433790
     },
     {
@@ -1456,9 +1469,9 @@
       "publishedAt": "2026-02-18T00:21:21Z",
       "content": "When Stephen Colbert announced that CBS restricted him from airing an interview with a Democratic candidate, it set off a range of reactions: Some argued that it reflected Trump’s efforts to censor l… [+8633 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice",
-        "free_speech"
+        "free_speech",
+        "censorship",
+        "media_communications"
       ],
       "publishedAtTs": 1771374081
     },
@@ -1475,8 +1488,7 @@
       "publishedAt": "2026-02-18T13:32:08Z",
       "content": "The attention surrounding James Talarico‘s Late Show with Stephen Colbert interview has been very good for the Texas Democrat’s campaign for U.S. Senate.\r\nHe raised $2.5 million in the 24 hours after… [+2095 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771421528
     },
@@ -1510,8 +1522,7 @@
       "publishedAt": "2026-02-18T22:58:52Z",
       "content": "EXCLUSIVE: A $15,000 ticket that Jeffrey Epstein bought for Hollywood PR maven Peggy Siegel to attend the Motion Picture and Television Fund’s Night Before gala in 2013 has become a prime focus of a … [+11042 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1771455532
     },
@@ -1528,9 +1539,8 @@
       "publishedAt": "2026-02-18T11:30:28Z",
       "content": "Earlier this month, Secretary of Homeland Security Kristi Noem made a sudden visit to Arizona to discuss election security, which she and other Trump administration officials have routinely claimed i… [+8808 chars]",
       "tags": [
-        "immigration",
         "elections_politics",
-        "legal_justice"
+        "trump"
       ],
       "publishedAtTs": 1771414228
     },
@@ -1547,9 +1557,11 @@
       "publishedAt": "2026-02-18T11:00:24Z",
       "content": "The Missouri prosecutor overseeing an investigation into the 2020 vote in Fulton County, Georgia, has taken part in meetings since last fall with lawyers tasked by President Donald Trump to reinvesti… [+9587 chars]",
       "tags": [
-        "legal_justice",
-        "elections_politics",
-        "trump"
+        "criminal_cases",
+        "law_enforcement",
+        "federal_agencies",
+        "voting_rights",
+        "elections_politics"
       ],
       "publishedAtTs": 1771412424
     },
@@ -1566,9 +1578,10 @@
       "publishedAt": "2026-02-18T11:45:15Z",
       "content": "The rumors that Kristi Noem is about to get fired wont go away, and its no wonder. The secretary of the Department of Homeland Security was supposed to be the face of Donald Trump mass deportations, … [+7241 chars]",
       "tags": [
-        "immigration",
+        "cabinet",
+        "personnel",
         "government_administration",
-        "legal_justice"
+        "leadership"
       ],
       "publishedAtTs": 1771415115
     },
@@ -1585,7 +1598,7 @@
       "publishedAt": "2026-02-18T14:15:08Z",
       "content": "In the span of months, one of Americas most storied broadcast institutions has managed to alienate its most recognizable late-night host and lose one of its most respected journalists, all while invi… [+8283 chars]",
       "tags": [
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1771424108
     },
@@ -1602,8 +1615,9 @@
       "publishedAt": "2026-02-18T17:47:40Z",
       "content": "FCC Chairman Brendan Carr said that the agency “has an enforcement action underway on ABC’s The View after the show featured James Talarico, a Democratic candidate for U.S. Senate, as a guest.\r\n“We’r… [+3760 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice"
+        "federal_agencies",
+        "media_criticism",
+        "media_communications"
       ],
       "publishedAtTs": 1771436860
     },
@@ -1620,9 +1634,11 @@
       "publishedAt": "2026-02-18T20:35:35Z",
       "content": "Bhattacharya has a history of undermining the CDCs pandemic guidance. In 2020, the then-NIH head labeled the former Stanford University physician and economist labeled as fringe, after Bhattacharya h… [+1025 chars]",
       "tags": [
-        "government_administration",
-        "health_science",
-        "personal_family"
+        "personnel",
+        "public_health",
+        "appointments",
+        "healthcare",
+        "health"
       ],
       "publishedAtTs": 1771446935
     },
@@ -1639,8 +1655,9 @@
       "publishedAt": "2026-02-18T16:01:09Z",
       "content": "There has been no change to the pardon process, another White House official said. The Administration has always had a robust review process which involves the Department of Justice, Alice Johnson, a… [+874 chars]",
       "tags": [
-        "legal_justice",
-        "personnel"
+        "pardons",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1771430469
     },
@@ -1657,8 +1674,10 @@
       "publishedAt": "2026-02-18T11:00:00Z",
       "content": "DOJ has indicated it intends to compare state voter rolls against the federal SAVE immigration database. That system has historically produced false positives, including naturalized citizens misident… [+990 chars]",
       "tags": [
+        "voting_rights",
+        "2024_presidential",
         "elections_politics",
-        "voting_rights"
+        "trump"
       ],
       "publishedAtTs": 1771412400
     }

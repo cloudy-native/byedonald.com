@@ -15,8 +15,7 @@
       "publishedAt": "2026-09-27T19:42:55Z",
       "content": "Assuming you’re reading this on Sunday, the President of the United States of America is reportedly having dinner with the President of AI Doomerism right about now. That’s according to an anonymousl… [+5361 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1790538175
     },
@@ -33,8 +32,7 @@
       "publishedAt": "2026-09-27T23:09:33Z",
       "content": "In town halls and city council meetings across the nation, hatred of data centers continues to be one of the few issues where Americans of all stripes can find common ground. Even previously data cen… [+5402 chars]",
       "tags": [
-        "technology_regulation",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1790550573
     },
@@ -51,9 +49,11 @@
       "publishedAt": "2026-09-27T02:16:52Z",
       "content": "Iran has said it will wait for an official response from US negotiators after President Donald Trump rejected a proposal to reopen the Strait of Hormuz to commercial shipping within seven days.\r\nIn a… [+2899 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
-        "trade"
+        "middle_east",
+        "national_security",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1790475412
     },
@@ -70,8 +70,11 @@
       "publishedAt": "2026-09-27T12:17:31Z",
       "content": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
       "tags": [
+        "civil_rights",
+        "racial_justice",
+        "trump",
         "social_issues",
-        "civil_rights"
+        "policy_legislation"
       ],
       "publishedAtTs": 1790511451
     },
@@ -88,7 +91,7 @@
       "publishedAt": "2026-09-27T13:01:27Z",
       "content": "Johannesburg A spate of mass shootings in three major South African cities killed nearly 40 people this week, with such incidents increasingly common in a country already known for its high crime rat… [+2762 chars]",
       "tags": [
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1790514087
     },
@@ -105,7 +108,7 @@
       "publishedAt": "2026-09-27T12:06:24Z",
       "content": "WASHINGTON With a major college sports reform bill on the brink of a milestone in Congress, some former athletes have a special place in the debate: the handful of U.S. Senators who played college sp… [+8555 chars]",
       "tags": [
-        "elections_politics",
+        "congress",
         "policy_legislation"
       ],
       "publishedAtTs": 1790510784
@@ -123,8 +126,7 @@
       "publishedAt": "2026-09-27T15:39:24Z",
       "content": "Anthropic CEO Dario Amodei was the butt of the AI jokes on \"Saturday Night Live.\"UNGA\r\n<ul><li>Dario Amodei has a split personality and wants the world to save humanity from himself…</li><li>…that is… [+2365 chars]",
       "tags": [
-        "media_communications",
-        "artificial_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1790523564
     },
@@ -141,8 +143,7 @@
       "publishedAt": "2026-09-27T08:14:01Z",
       "content": "When Mackenzie Scott got divorced from Jeff Bezos in 2019, she became one of the richest people in the world overnight. Their divorce settlement was among the largest in history, granting her assets … [+9523 chars]",
       "tags": [
-        "personal_family",
-        "personal_business"
+        "off_topic"
       ],
       "publishedAtTs": 1790496841
     },
@@ -159,8 +160,7 @@
       "publishedAt": "2026-09-27T18:39:02Z",
       "content": "President Donald Trump plans to host Anthropic boss Dario Amodei at a private White House dinner on Sunday evening. Maria Curi and Marc Caputo broke the news for Axios, citing people familiar with th… [+1272 chars]",
       "tags": [
-        "media_communications",
-        "artificial_intelligence"
+        "trump"
       ],
       "publishedAtTs": 1790534342
     },
@@ -177,8 +177,10 @@
       "publishedAt": "2026-09-27T02:43:56Z",
       "content": "TAIPEI, Sept 27 (Reuters) - The United States \"very much\" understands Taiwan's defence needs and the severe military threat it faces from China, a senior Taiwanese diplomat said on Sunday, following … [+1968 chars]",
       "tags": [
+        "national_security",
+        "statements",
         "foreign_policy",
-        "china"
+        "security_intelligence"
       ],
       "publishedAtTs": 1790477036
     },
@@ -195,8 +197,11 @@
       "publishedAt": "2026-09-27T18:34:13Z",
       "content": "U.S. and Iranian officials said Sunday they still see a chance of a negotiated solution to the Iran war despite President Donald Trump's rejection of Tehran's latest offer.\r\nTrump told Axios on Sunda… [+3534 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "us_iran_war",
+        "middle_east",
+        "iran",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790534053
     },
@@ -213,8 +218,8 @@
       "publishedAt": "2026-09-27T10:00:00Z",
       "content": "Since the 2024 election, Democratic congressional candidates have reached a consensus about how to broadly discuss the border make it secure but they still lack a cohesive message about ICE.\r\nSome ad… [+9940 chars]",
       "tags": [
-        "mass_deportation_operation",
         "immigration",
+        "democratic_party",
         "elections_politics"
       ],
       "publishedAtTs": 1790503200
@@ -232,8 +237,11 @@
       "publishedAt": "2026-09-27T21:55:26Z",
       "content": "(Bloomberg) -- President Donald Trump said he is still looking \"very seriously\" at implementing a US ban on diesel exports to combat high prices, even as others in his administration continue to focu… [+2136 chars]",
       "tags": [
+        "energy",
         "trade",
-        "energy"
+        "prices",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1790546126
     },
@@ -251,7 +259,8 @@
       "content": "(Bloomberg) -- Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a high-st… [+6407 chars]",
       "tags": [
         "artificial_intelligence",
-        "security_intelligence"
+        "security_incidents",
+        "technology_regulation"
       ],
       "publishedAtTs": 1790551652
     },
@@ -268,10 +277,11 @@
       "publishedAt": "2026-09-27T14:33:05Z",
       "content": "Mike Waltz, U.S. ambassador to the United Nations, said Sunday that President Donald Trump rejected Iran's latest proposal because Tehran wanted sanctions relief and access to \"billions in frozen ass… [+2820 chars]",
       "tags": [
-        "foreign_policy",
         "iran",
+        "middle_east",
+        "nuclear_policy",
         "sanctions",
-        "nuclear_policy"
+        "arms_control"
       ],
       "publishedAtTs": 1790519585
     },
@@ -288,9 +298,10 @@
       "publishedAt": "2026-09-27T10:01:28Z",
       "content": "NEW YORK, Sept 27 (Reuters) - Republicans are pouring money into more than three dozen US House races previously considered \"safe\" after internal polling showed they could be vulnerable in the Novemb… [+6119 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "campaign_finance"
+        "republican_party",
+        "congress",
+        "campaign_finance",
+        "elections_politics"
       ],
       "publishedAtTs": 1790503288
     },
@@ -307,8 +318,11 @@
       "publishedAt": "2026-09-27T14:45:06Z",
       "content": "Attorney General Todd Blanche on Sunday addressed the Trump administration's decision to ban three mainstream news outlets from accessing the White House, saying that President Donald Trump had not \"… [+6363 chars]",
       "tags": [
-        "media_communications",
-        "press_relations"
+        "press_relations",
+        "cabinet",
+        "media_criticism",
+        "statements",
+        "censorship"
       ],
       "publishedAtTs": 1790520306
     },
@@ -325,6 +339,7 @@
       "publishedAt": "2026-09-27T01:42:40Z",
       "content": "Two veteran FBI agents overseeing counterterrorism operations in the nations capital have been removed from their jobs and reassigned over the handling of an investigation involving Katie Miller, the… [+3067 chars]",
       "tags": [
+        "federal_agencies",
         "law_enforcement",
         "government_administration"
       ],
@@ -343,6 +358,8 @@
       "publishedAt": "2026-09-27T11:54:41Z",
       "content": "GORHAM, Maine (AP) For years, Planned Parenthood's endorsement of Susan Collins was enough to persuade Erin Evans to vote for Maine's longtime U.S. senator, believing that the moderate Republican wou… [+7321 chars]",
       "tags": [
+        "womens_rights",
+        "congress",
         "abortion",
         "elections_politics",
         "social_issues"
@@ -362,9 +379,10 @@
       "publishedAt": "2026-09-27T10:00:00Z",
       "content": "To visit Bab el-Mandeb is to understand that old adage about looks being deceiving. For this humble fishing village in Yemen, a tumbledown grouping of barely-there huts nestled between the water and … [+9052 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east"
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790503200
     },
@@ -381,9 +399,11 @@
       "publishedAt": "2026-09-27T07:52:49Z",
       "content": "LONDON (AP) U.K. police said Sunday that five men arrested in the middle of the night near an air base used by the United States during its war against Iran are being held on suspicion of preparing a… [+4478 chars]",
       "tags": [
+        "law_enforcement",
         "terrorism",
-        "security_intelligence",
-        "foreign_policy"
+        "security_incidents",
+        "criminal_cases",
+        "national_security"
       ],
       "publishedAtTs": 1790495569
     },
@@ -400,8 +420,7 @@
       "publishedAt": "2026-09-27T17:53:18Z",
       "content": "HILO, Hawaii (AP) Hurricane Nolo was moving away from the Hawaiian Islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas still recovering from previous s… [+4175 chars]",
       "tags": [
-        "natural_disasters",
-        "crisis_emergency"
+        "off_topic"
       ],
       "publishedAtTs": 1790531598
     },
@@ -418,7 +437,10 @@
       "publishedAt": "2026-09-27T04:54:13Z",
       "content": "If you click 'Accept all', we and our partners, including 254 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
+        "middle_east",
         "iran",
+        "national_security",
+        "us_iran_war",
         "foreign_policy"
       ],
       "publishedAtTs": 1790484853
@@ -436,8 +458,7 @@
       "publishedAt": "2026-09-27T16:24:08Z",
       "content": "A new, previously suppressed book by a former CIA officer paints a satirical and slashing portrait of the agency's deep-cover spying program as riven by systematic dysfunction.\r\nThe book, \"The Pickle… [+8421 chars]",
       "tags": [
-        "security_intelligence",
-        "intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1790526248
     },
@@ -454,9 +475,10 @@
       "publishedAt": "2026-09-27T16:33:55Z",
       "content": "Sen. Mark Kelly, D-Ariz, said Sunday that the Democratic party needs to do a better job if they were to win control of Congress in Novembers midterm elections.\r\nI think we have to have answers. We ha… [+3677 chars]",
       "tags": [
+        "democratic_party",
+        "interviews",
         "elections_politics",
-        "2026_midterms",
-        "ai_state_preemption"
+        "leadership"
       ],
       "publishedAtTs": 1790526835
     },
@@ -473,8 +495,7 @@
       "publishedAt": "2026-09-27T21:21:27Z",
       "content": "OpenAI has halted training of its latest AI models as reports of them “going rogue” stack upincluding a cyberattack on AI platform Hugging Face, other attacks on third parties originating from securi… [+3029 chars]",
       "tags": [
-        "technology_regulation",
-        "cybersecurity"
+        "off_topic"
       ],
       "publishedAtTs": 1790544087
     },
@@ -491,8 +512,8 @@
       "publishedAt": "2026-09-27T15:56:25Z",
       "content": "Venezuelan Interior Minister Diosdado Cabello, a minister closely associated with Maduro's authoritarian rule, called the interim president's meeting with Trump \"a great triumph of the diplomacy of p… [+1195 chars]",
       "tags": [
-        "venezuela_intervention",
-        "foreign_policy"
+        "foreign_policy",
+        "elections_politics"
       ],
       "publishedAtTs": 1790524585
     },
@@ -509,8 +530,7 @@
       "publishedAt": "2026-09-27T20:17:19Z",
       "content": "Allegations of possible U.S. interference dominated the Quebec election campaign Friday.\r\nThis prompted Coalition Avenir Québec Leader Christine Fréchette to seek a meeting with Prime Minister Mark C… [+5848 chars]",
       "tags": [
-        "foreign_policy",
-        "canada"
+        "off_topic"
       ],
       "publishedAtTs": 1790540239
     },
@@ -527,8 +547,11 @@
       "publishedAt": "2026-09-27T08:00:48Z",
       "content": "A maybe relevant little milestone was quietly added to the government’s official account of our ongoing measles outbreak this Friday: The CDC, and the federal government by proxy, acknowledged for th… [+5886 chars]",
       "tags": [
+        "public_health_emergency",
         "public_health",
-        "health_science"
+        "health",
+        "healthcare",
+        "regional_state"
       ],
       "publishedAtTs": 1790496048
     },
@@ -579,8 +602,7 @@
       "publishedAt": "2026-09-27T05:38:33Z",
       "content": "Saturday Night Live‘s Weekend Update mocked Donald Trump‘s actions while hosting his Chinese counterpart for a three-day state visit, as well as Defense Secretary Pete Hegseth‘s transphobic military … [+1647 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1790487513
     },
@@ -597,8 +619,7 @@
       "publishedAt": "2026-09-27T04:38:48Z",
       "content": "Saturday Night Live kicked off Season 52 by addressing one of the more disturbing elements of the Trump administration’s inner workings that came to light over the summer: White House aide Natalie Ha… [+1686 chars]",
       "tags": [
-        "government_administration",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1790483928
     },
@@ -632,8 +653,11 @@
       "publishedAt": "2026-09-27T20:03:04Z",
       "content": "Unacceptable.\r\nThat was the immediate reaction from US President Donald Trump to Irans proposal to reopen the Strait of Hormuz.\r\nTehran says its still awaiting what it called a definitive repsonse fr… [+490 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "iran",
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "security_incidents"
       ],
       "publishedAtTs": 1790539384
     },
@@ -650,10 +674,11 @@
       "publishedAt": "2026-09-27T14:36:44Z",
       "content": "Tehran, Iran Hours after US President Donald Trump rejected a diplomatic solution put forward by Iran to reopen the Strait of Hormuz, explosions were heard in the waterway, according to Iranian media… [+5214 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
         "iran",
-        "security_intelligence",
-        "military"
+        "us_iran_war",
+        "security_incidents"
       ],
       "publishedAtTs": 1790519804
     },
@@ -670,8 +695,11 @@
       "publishedAt": "2026-09-27T13:17:53Z",
       "content": "Donald Trump has rejected Irans latest proposal to end the war and reopen the Strait of Hormuz as experts say the United States president believes Washington has more to gain by waiting than by accep… [+8840 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "iran",
+        "middle_east",
+        "us_iran_war",
+        "national_security",
+        "trump"
       ],
       "publishedAtTs": 1790515073
     },
@@ -688,8 +716,10 @@
       "publishedAt": "2026-09-27T00:50:31Z",
       "content": "Iran says its still waiting for an official response from the US on its proposal to reopen the Strait of Hormuz within seven days. Irans foreign minister Abbas Araghchi made the comments shortly afte… [+54 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "middle_east",
+        "iran",
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790470231
     },
@@ -706,8 +736,11 @@
       "publishedAt": "2026-09-27T00:00:00Z",
       "content": "blinking-dot\r\nLive updatesLive updates, \r\nUS president rejects Irans seven-day plan to reopen the Strait of Hormuz, saying the deal is not acceptable.",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "us_iran_war",
+        "middle_east",
+        "national_security",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790467200
     },
@@ -724,8 +757,8 @@
       "publishedAt": "2026-09-27T20:34:09Z",
       "content": "A senior official in Cuba has warned that any prospective United States military action taken against the island nation would constitute a serious international crime, and has rejected claims made by… [+2245 chars]",
       "tags": [
-        "foreign_policy",
-        "sanctions"
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790541249
     },
@@ -742,8 +775,11 @@
       "publishedAt": "2026-09-27T17:42:45Z",
       "content": "As part of previous negotiations aimed at ending its war on Iran, the United States offered to sell Tehran uranium for use in a civilian programme, but Iran refused, a top US official said on Sunday.… [+4586 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "iran",
+        "middle_east",
+        "nuclear_policy",
+        "arms_control",
+        "national_security"
       ],
       "publishedAtTs": 1790530965
     },
@@ -760,8 +796,11 @@
       "publishedAt": "2026-09-27T01:59:17Z",
       "content": "As the UN General Assembly wraps up with mixed diplomatic outcomes, Al Jazeeras Mohammad Qasem reports on how US President Donald Trump has rejected Irans latest proposal to reopen the Strait of Horm… [+131 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "us_iran_war",
+        "middle_east",
+        "iran",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790474357
     },
@@ -778,8 +817,11 @@
       "publishedAt": "2026-09-27T17:46:04Z",
       "content": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, even if it comes to a doomsday war but remains open to diplomacy. The comments come after US President Donald Trump rejected I… [+66 chars]",
       "tags": [
+        "middle_east",
+        "national_security",
         "iran",
-        "foreign_policy"
+        "us_iran_war",
+        "statements"
       ],
       "publishedAtTs": 1790531164
     },
@@ -796,7 +838,7 @@
       "publishedAt": "2026-09-27T13:49:28Z",
       "content": "Memorial crosses installed in Washington DC have revived erroneous claims of a white genocide against farmers in South Africa, a narrative echoed by US President Donald Trump. South Africas governmen… [+102 chars]",
       "tags": [
-        "social_issues"
+        "fact_checking"
       ],
       "publishedAtTs": 1790516968
     },
@@ -813,8 +855,7 @@
       "publishedAt": "2026-09-27T19:34:42Z",
       "content": "Not requiring AI to have safeguards and be subject to outside monitoring is completely irresponsible and could lead to global harm to humanity, said tech mogul Bill Gates, in a series of media appear… [+3092 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1790537682
     },
@@ -831,8 +872,7 @@
       "publishedAt": "2026-09-27T17:07:33Z",
       "content": "Two giant pandas, Ping Ping and Fu Shuang, have arrived in the US state of Georgia on a 10-year loan as a soft-power gesture from China.\r\nA new agreement between Zoo Atlanta and the China Wildlife Co… [+3506 chars]",
       "tags": [
-        "foreign_policy",
-        "climate_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1790528853
     },
@@ -849,8 +889,7 @@
       "publishedAt": "2026-09-27T18:30:53Z",
       "content": "The South Korean presidents office has expressed strong regret over Ukraines disregard for a nondisclosure agreement with Seoul in the transfer of two North Korean prisoners of war (POWs) to Seoul, S… [+3219 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1790533853
     },
@@ -867,8 +906,9 @@
       "publishedAt": "2026-09-27T09:59:21Z",
       "content": "Yemens government forces have conducted multiple air and ground operations in southwestern Taiz province in the last 24 hours, as they intensified attacks against the Iran-backed Houthi group.\r\nThe g… [+8169 chars]",
       "tags": [
-        "foreign_policy",
-        "middle_east"
+        "national_security",
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790503161
     },
@@ -885,9 +925,10 @@
       "publishedAt": "2026-09-27T11:04:30Z",
       "content": "The United States-led Board of Peace (BoP) has said the United Nations agency for Palestinian refugees (UNRWA) will have no role in Gaza echoing a longstanding Israeli demand to sideline the organisa… [+7821 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "gaza",
         "israel",
-        "gaza"
+        "foreign_policy"
       ],
       "publishedAtTs": 1790507070
     },
@@ -904,9 +945,11 @@
       "publishedAt": "2026-09-27T08:49:32Z",
       "content": "Tehran, Iran With Irans southern ports subject to a United States naval blockade, Tehran is looking for alternatives to export oil and import goods. The Caspian Sea on Irans northern coast is seen as… [+8409 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "trade",
+        "us_iran_war",
         "iran",
-        "trade"
+        "energy"
       ],
       "publishedAtTs": 1790498972
     },
@@ -923,9 +966,7 @@
       "publishedAt": "2026-09-27T14:03:45Z",
       "content": "Israels far-right Finance Minister Bezalel Smotrich has called for a full-scale war in the occupied West Bank, urging the military to use the tactics employed in Gaza, which has been devastated by th… [+9020 chars]",
       "tags": [
-        "foreign_policy",
-        "israel",
-        "middle_east"
+        "off_topic"
       ],
       "publishedAtTs": 1790517825
     },
@@ -959,9 +1000,11 @@
       "publishedAt": "2026-09-27T09:00:00Z",
       "content": "On the last day of the Prairieland trial, in which nine Texas protesters were accused of crimes including providing material support to terrorists, the attorney for activist Benjamin Song presented a… [+15560 chars]",
       "tags": [
+        "ice_controversies_resistance",
         "criminal_cases",
-        "law_enforcement",
-        "protests"
+        "protests",
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1790499600
     },
@@ -978,7 +1021,7 @@
       "publishedAt": "2026-09-27T19:45:47Z",
       "content": "As Trump brushes off the need for additional guardrails around artificial intelligence, Bill Gates is sounding the alarm.\r\nIn a recent interview, the Microsoft co-founder urged the U.S. government to… [+1346 chars]",
       "tags": [
-        "ai_state_preemption",
+        "artificial_intelligence",
         "technology_regulation"
       ],
       "publishedAtTs": 1790538347
@@ -995,9 +1038,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/3197255_SRVR_S51_Environmental_JeffProbst_0011bc-e1790526853410.jpg?w=1024",
       "publishedAt": "2026-09-27T19:17:43Z",
       "content": "Although Paramount was one of several companies to roll back their DEI initiative when Trump was re-elected, Survivor continues to operate by it.\r\nHost Jeff Probst recently noted that “nothing has ch… [+1454 chars]",
-      "tags": [
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1790536663
     },
     {
@@ -1030,8 +1071,8 @@
       "publishedAt": "2026-09-27T10:45:24Z",
       "content": "Despite everything, I sometimes find it hard not to sympathize with Donald Trump. \r\nLike Trump, I also chose to make the site of a future climate catastrophe my permanent home. Like Trump, I live in … [+5998 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1790505924
     },
@@ -1048,9 +1089,8 @@
       "publishedAt": "2026-09-27T13:00:48Z",
       "content": "The big story coming out of the 2024 election was how Donald Trump orchestrated a realignment of American politics, bringing demographic groups that had long eschewed the Republican Party into the te… [+9262 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
         "republican_party",
+        "elections_politics",
         "trump"
       ],
       "publishedAtTs": 1790514048
@@ -1068,8 +1108,7 @@
       "publishedAt": "2026-09-27T15:39:50Z",
       "content": "Saturday Night Live kicked off its 52nd season with a familiar Donald Trump impression, an increasingly familiar presidential friendship and a brand-new character: White House aide Natalie Harp.\r\nThe… [+2411 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1790523590
     },
@@ -1086,8 +1125,10 @@
       "publishedAt": "2026-09-27T10:00:46Z",
       "content": "President Donald Trump loves a good pardon. His generosity is so well known, in fact, that an industry of lobbyists, lawyers and other insiders has reportedly sprung up to facilitate clemency for wea… [+7905 chars]",
       "tags": [
+        "pardons",
+        "trump",
         "legal_justice",
-        "presidential_security"
+        "government_administration"
       ],
       "publishedAtTs": 1790503246
     },
@@ -1121,10 +1162,11 @@
       "publishedAt": "2026-09-27T20:42:57Z",
       "content": "British counterterrorism police are investigating a possible Iran connection after five men were arrested near a U.S.-used air base on suspicion of preparing a terrorist act.\r\nPolice received a call … [+2221 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "security_intelligence",
-        "terrorism"
+        "law_enforcement",
+        "terrorism",
+        "security_incidents",
+        "criminal_cases",
+        "national_security"
       ],
       "publishedAtTs": 1790541777
     },
@@ -1141,8 +1183,7 @@
       "publishedAt": "2026-09-27T16:00:31Z",
       "content": "Recently, I learned about a concept called atomic change. The terms meaning depends on whos employing it. One professional coachswebsite describes it, in so many words, as making discrete adjustments… [+7240 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1790524831
     },
@@ -1159,7 +1200,7 @@
       "publishedAt": "2026-09-27T17:26:50Z",
       "content": "Boos rang through Neyland Stadium after President Donald Trump was introduced during the Texas-Tennessee game on Saturday, September 26. Some cheers were also audible as the stadium announcer said, L… [+2344 chars]",
       "tags": [
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1790530010
     },
@@ -1175,9 +1216,7 @@
       "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/snl-reimagines-natalie-harp-as-nikki-from-obsession.jpg?w=1536&h=768&crop=1",
       "publishedAt": "2026-09-27T18:19:29Z",
       "content": "Natalie Harp got the full Obsession treatment on the Season 52 premiere of Saturday Night Live, reimagined as a fiercely protective Trump aide in the mold of the movies unhinged Nikki. Ashley Padilla… [+1139 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1790533169
     },
     {
@@ -1192,10 +1231,7 @@
       "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/09/a-lip-reader-claims-jd-vance-told-ivanka-trump-her-dad-was-having-his-moment-at.jpg?w=1536&h=768&crop=1",
       "publishedAt": "2026-09-27T16:19:19Z",
       "content": "A quiet aside between JD Vance and Ivanka Trump has become the talk of a high-profile state visit at least according to one lip reader who says she caught what the vice president really thought of th… [+2104 chars]",
-      "tags": [
-        "personal_family",
-        "elections_politics"
-      ],
+      "tags": [],
       "publishedAtTs": 1790525959
     },
     {
@@ -1211,9 +1247,7 @@
       "publishedAt": "2026-09-27T12:00:56Z",
       "content": "Republican Rep. Tom Kean Jr. and Democratic Rebecca Bennett will meet on stage Sunday night for their first and most likely only debate.\r\nThe race between the two-term incumbent and a first-time cand… [+6234 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "campaign_events"
+        "off_topic"
       ],
       "publishedAtTs": 1790510456
     },
@@ -1230,8 +1264,7 @@
       "publishedAt": "2026-09-27T03:58:55Z",
       "content": "The cold open of the new season of Saturday Night Livefeatured Ramy Youssef as New York Mayor Zohran Mamdani, getting another visit from President Donald Trump (James Austin Johnson).\r\nIt was a riff … [+1090 chars]",
       "tags": [
-        "media_communications",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1790481535
     },
@@ -1248,8 +1281,9 @@
       "publishedAt": "2026-09-27T13:00:00Z",
       "content": "This story was originally published by Yale E360 and is reproduced here as part of the Climate Desk collaboration.\r\nIn a modern five-story building in the center of Hamburg, Germany, technicians are … [+12222 chars]",
       "tags": [
-        "climate_policy",
-        "environment"
+        "environment",
+        "science_policy",
+        "climate_policy"
       ],
       "publishedAtTs": 1790514000
     },
@@ -1266,11 +1300,7 @@
       "publishedAt": "2026-09-27T10:55:52Z",
       "content": "This is Naked Capitalism fundraising week. 649 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+8213 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "climate_policy",
-        "social_issues",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1790506552
     },
@@ -1287,10 +1317,11 @@
       "publishedAt": "2026-09-27T10:05:56Z",
       "content": "This is Naked Capitalism fundraising week. 647 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+13276 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "middle_east",
+        "national_security",
         "iran",
-        "security_intelligence",
-        "military"
+        "security_incidents"
       ],
       "publishedAtTs": 1790503556
     },
@@ -1307,8 +1338,11 @@
       "publishedAt": "2026-09-27T08:00:00Z",
       "content": "U.S. President Donald Trump's announcement that all 50 states will join his proposed drug-price lowering policy is leading Canadian pharmaceutical experts and international researchers to warn how pr… [+6693 chars]",
       "tags": [
-        "trade",
-        "healthcare"
+        "prices",
+        "canada",
+        "trump",
+        "health_science",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790496000
     },
@@ -1325,8 +1359,7 @@
       "publishedAt": "2026-09-27T14:16:04Z",
       "content": "OpenAI said it has paused training of its latest artificial intelligence models as reports of AI agents going rogue mount.\r\nThe decision to halt development came just hours after the company disclose… [+3207 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1790518564
     },
@@ -1343,8 +1376,7 @@
       "publishedAt": "2026-09-27T08:00:00Z",
       "content": "Though organized labour is pushing back against the Carney government's latest major projects bill which aims to amend a controversial portion of the Labour Code Jobs Minister Patty Hajdu says unions… [+6057 chars]",
       "tags": [
-        "labor",
-        "policy_legislation"
+        "off_topic"
       ],
       "publishedAtTs": 1790496000
     },
@@ -1361,7 +1393,10 @@
       "publishedAt": "2026-09-27T12:00:00Z",
       "content": "The Digital Asset Market Clarity Act was always doomed to fail.\r\nThe bill faced an uphill battle from launch; numerous political, policy and social factors would have needed to fall into place for it… [+24997 chars]",
       "tags": [
-        "policy_legislation"
+        "cryptocurrency",
+        "congress",
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1790510400
     },
@@ -1378,6 +1413,7 @@
       "publishedAt": "2026-09-27T02:00:00Z",
       "content": "CBSNews.com, Caitlin Yilek Politics Reporter Caitlin Yilek is a politics reporter at, et al. Trump Gives Primetime Speech on Elections as White House Alleges Chinese Access to Voter Data. 17 July 202… [+4008 chars]",
       "tags": [
+        "fact_checking",
         "china",
         "foreign_policy"
       ],
@@ -1396,6 +1432,7 @@
       "publishedAt": "2026-09-27T18:00:00Z",
       "content": "Christensen, Laerke. 'Did Trump's Kindness \"ruin\" Secret Service Agent? Don't Fall for Tall Tale'. Snopes, 22 Sept. 2026, https://www.snopes.com//fact-check/secret-service-kindness-trump/.\r\nLiles, Jo… [+324 chars]",
       "tags": [
+        "fact_checking",
         "presidential_security"
       ],
       "publishedAtTs": 1790532000
@@ -1412,10 +1449,7 @@
       "urlToImage": "https://crooksandliars.com/files/primary_image/26/09/jean-francois_millet_-_el_angelus_museo_de_orsay_1857-1859._oleo_sobre_lienzo_55.5_x_66_cm.jpg",
       "publishedAt": "2026-09-27T14:45:01Z",
       "content": "Lawyers, Guns and Money: The Roberts Court's abuse of the shadow docket. \r\nHullabaloo: Trump DOGE'd out punishment.\r\nBalkinization: History versus the Trump administration's census proposal. \r\nGraspi… [+167 chars]",
-      "tags": [
-        "legal_justice",
-        "supreme_court"
-      ],
+      "tags": [],
       "publishedAtTs": 1790520301
     },
     {
@@ -1431,9 +1465,9 @@
       "publishedAt": "2026-09-27T16:50:54Z",
       "content": "Calling for someone you endorsed to be replaced is a novel way to campaign for her, but Donald Trump thinks outside the box.\r\nSource: Politico\r\nPresident Donald Trump on Saturday escalated his critic… [+2202 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party",
-        "trump"
+        "political_endorsements",
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1790527854
     },
@@ -1451,7 +1485,8 @@
       "content": "On CBS News, Louisiana Senator John Kennedy denounced the Trump administration for producing a political ad supporting Trump and the Republican party paid for by taxpayers before the 2026 midterms.\r\n… [+1723 chars]",
       "tags": [
         "elections_politics",
-        "campaign_finance"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1790548536
     },
@@ -1468,8 +1503,7 @@
       "publishedAt": "2026-09-27T16:31:08Z",
       "content": "CNN's Jake Tapper with the worst framing of the day with this ridiculous question for Kentucky Gov. Andy Beshear.In Go and Do Likewise, Beshear will share what his own faith has meant to him, how it … [+2229 chars]",
       "tags": [
-        "media_communications",
-        "elections_politics"
+        "media_criticism"
       ],
       "publishedAtTs": 1790526668
     },
@@ -1486,9 +1520,11 @@
       "publishedAt": "2026-09-27T15:43:38Z",
       "content": "Just days after he was threatening to annihilate Iran to the UN General Assembly, it is stunning that Trump is now claiming he's rejecting an Iranian proposal to reopen the Strait of Hormuz. \r\nAs The… [+4871 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
         "iran",
-        "security_intelligence"
+        "national_security",
+        "us_iran_war",
+        "trump"
       ],
       "publishedAtTs": 1790523818
     },
@@ -1505,8 +1541,7 @@
       "publishedAt": "2026-09-27T19:06:44Z",
       "content": "I have no idea if James Talaricos campaign will really use any of Karl Roves comments about fellow Republican Ken Paxton. But Rove surely meant to draw proverbial blood when he stuck a very public kn… [+3086 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party"
+        "off_topic"
       ],
       "publishedAtTs": 1790536004
     },
@@ -1523,9 +1558,11 @@
       "publishedAt": "2026-09-27T20:55:47Z",
       "content": "Attorney General Todd Blanche's claims to ABC News that certain media outlets have become a national security threat in their reporting on the Trump administration fell flat and sounded moronic in hi… [+4408 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications",
-        "free_speech"
+        "free_speech",
+        "censorship",
+        "media_criticism",
+        "press_relations",
+        "trump"
       ],
       "publishedAtTs": 1790542547
     },
@@ -1542,9 +1579,8 @@
       "publishedAt": "2026-09-27T14:35:57Z",
       "content": "During a discussion about the lavish state dinner this week (where Trump literally rolled out the red carpet for Chinese President Xi Jinping), and Tom Nichols' article in The Atlantic where he criti… [+4043 chars]",
       "tags": [
-        "foreign_policy",
-        "republican_party",
-        "elections_politics"
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790519757
     },
@@ -1561,10 +1597,9 @@
       "publishedAt": "2026-09-27T13:30:01Z",
       "content": "If candidate quality mattered, Todd Achilles would defeat the rubber stamp for Trump that is Jim Risch. But since it often doesn't in places like Idaho, he likely won't win, but he should.\r\nvia YouTu… [+515 chars]",
       "tags": [
+        "congress",
         "elections_politics",
-        "2024_presidential",
-        "republican_party",
-        "democratic_party"
+        "regional_state"
       ],
       "publishedAtTs": 1790515801
     },
@@ -1581,9 +1616,7 @@
       "publishedAt": "2026-09-27T19:32:05Z",
       "content": "But some eyes, too, have turned to Moscow. \r\nDanish intelligence warned last week Russia could in the coming months launch a limited military attack on a Nato country.\r\nGermany has already formally a… [+1601 chars]",
       "tags": [
-        "security_intelligence",
-        "nato",
-        "russia"
+        "off_topic"
       ],
       "publishedAtTs": 1790537525
     },
@@ -1600,9 +1633,7 @@
       "publishedAt": "2026-09-27T23:01:47Z",
       "content": "John Healey will promise \"a new age of industrialisation\" for the UK, when he delivers his first Labour conference speech as chancellor on Monday.\r\nHealey will tell delegates \"our coal mines are not … [+4328 chars]",
       "tags": [
-        "policy_legislation",
-        "economy_finance",
-        "energy"
+        "off_topic"
       ],
       "publishedAtTs": 1790550107
     },
@@ -1619,7 +1650,7 @@
       "publishedAt": "2026-09-27T22:05:30Z",
       "content": "A powerful noreaster battered the Northeast again on Sunday, flooding coastal communities and leaving tens of thousands of homes and businesses without power as forecasters warned that another round … [+7114 chars]",
       "tags": [
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1790546730
     },
@@ -1636,9 +1667,11 @@
       "publishedAt": "2026-09-27T18:46:55Z",
       "content": "US President Donald Trump has effectively abandoned Saudi Arabia, a key ally in the Middle East, leaving it to face “almost a full-blown war” with Yemen’s Houthis, political scientist and University … [+2676 chars]",
       "tags": [
-        "foreign_policy",
         "middle_east",
-        "iran"
+        "national_security",
+        "foreign_policy",
+        "trump",
+        "security_intelligence"
       ],
       "publishedAtTs": 1790534815
     },
@@ -1655,7 +1688,7 @@
       "publishedAt": "2026-09-27T08:35:53Z",
       "content": "Britain is capable of defending the Falkland Islands militarily if Argentina attempts to take control of the disputed territory, UK Defense Secretary Wes Streeting has said.\r\nThe UK has administered … [+2617 chars]",
       "tags": [
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1790498153
     },
@@ -1672,9 +1705,11 @@
       "publishedAt": "2026-09-27T14:10:16Z",
       "content": "Iran’s Islamic Revolutionary Guard Corps (IRGC) says it has captured a US autonomous underwater vehicle in the Strait of Hormuz, the second such incident reported this month.\r\nAccording to an IRGC Na… [+2831 chars]",
       "tags": [
+        "middle_east",
+        "national_security",
+        "security_incidents",
         "iran",
-        "foreign_policy",
-        "security_intelligence"
+        "foreign_policy"
       ],
       "publishedAtTs": 1790518216
     },
@@ -1691,8 +1726,8 @@
       "publishedAt": "2026-09-27T04:00:00Z",
       "content": "The Trump Administration’s latest Supreme Court victory is a tribute to its persistence and innovation. It is, as well, a measure of the great changes in governance for which we owe thanks to Elon Mu… [+5029 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration"
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1790481600
     },
@@ -1709,8 +1744,7 @@
       "publishedAt": "2026-09-27T04:00:00Z",
       "content": "As the Declaration of Independence was being debated, Ben Franklin stood, proclaiming, “We must indeed hang together, or most assuredly we shall all hang separately.”  \r\nThe founding fathers would fi… [+6315 chars]",
       "tags": [
-        "elections_politics",
-        "leadership"
+        "off_topic"
       ],
       "publishedAtTs": 1790481600
     },
@@ -1727,9 +1761,9 @@
       "publishedAt": "2026-09-27T04:00:00Z",
       "content": "Congress designed the Federal Reserve to stand safely above the shifting and eroding tides of national politics so its members would not have to dip their toes into the alligator-infested D.C. swamp.… [+7342 chars]",
       "tags": [
-        "economy_finance",
         "banking",
-        "government_administration"
+        "economy_finance",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790481600
     },
@@ -1746,8 +1780,7 @@
       "publishedAt": "2026-09-27T04:00:00Z",
       "content": "Bari Weiss, famously bullied out of her job at the New York Times for thoughtcrimes stemming from independent reasoning, has been at the helm of CBS News for one year.\r\nMuch in the way that X’s Elon … [+7417 chars]",
       "tags": [
-        "media_communications",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1790481600
     },
@@ -1764,8 +1797,10 @@
       "publishedAt": "2026-09-27T17:00:00Z",
       "content": "WASHINGTON The Trump administration has “strongly encouraged” China to execute some of its criminals who make and distribute chemicals used to produce illegal fentanyl, the White House has revealed.\r… [+3459 chars]",
       "tags": [
+        "china",
+        "statements",
         "foreign_policy",
-        "china"
+        "trump"
       ],
       "publishedAtTs": 1790528400
     },
@@ -1783,8 +1818,10 @@
       "content": "WASHINGTON President Trump suggested that several of the men who were nabbed and stripped down by British cops on terrorism charges had been under surveillance for some time.\r\nOn Sunday, British auth… [+1887 chars]",
       "tags": [
         "terrorism",
-        "foreign_policy",
-        "security_intelligence"
+        "security_incidents",
+        "national_security",
+        "law_enforcement",
+        "criminal_cases"
       ],
       "publishedAtTs": 1790524172
     }

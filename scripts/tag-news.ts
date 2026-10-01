@@ -1,9 +1,6 @@
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
-import {
-  BedrockRuntimeClient,
-  InvokeModelCommand,
-} from "@aws-sdk/client-bedrock-runtime";
+import * as dotenv from "dotenv";
 import tagDefinitions from "../data/tags/tags.json";
 import type {
   NewsArticle,
@@ -12,7 +9,39 @@ import type {
   TaggedNewsResponse,
 } from "./lib/article-utils";
 import { deduplicateArticles } from "./lib/article-utils";
-import { parseJsonArrayFromModelResponse } from "./lib/tag-response-parser";
+
+const JEV_URL = "https://api.typesafe.ai/v1/systemone";
+const TAG_CUTOFF = 0.7;
+const CONTENT_LIMIT = 1800;
+
+const SKIPPED_TAG_IDS = new Set(["international_crisis"]);
+
+const PARENT_TAG_IDS = new Set([
+  "trump",
+  "leadership",
+  "government_administration",
+  "policy_legislation",
+  "economy_finance",
+  "foreign_policy",
+  "legal_justice",
+  "elections_politics",
+  "media_communications",
+  "security_intelligence",
+  "social_issues",
+  "health_science",
+  "personal_family",
+  "regional_state",
+  "crisis_emergency",
+]);
+
+const PLACE_TAG_IDS = new Set([
+  "florida",
+  "new_york",
+  "washington_dc",
+  "california",
+  "texas",
+  "swing_states",
+]);
 
 interface Tag {
   id: string;
@@ -29,154 +58,91 @@ interface TagCategory {
 
 type TagDefinition = TagCategory[];
 
-interface ModelProviderHandler {
-  canHandle(modelId: string): boolean;
-  buildBody(systemPrompt: string, userPrompt: string): string;
-  parseResponse(responseBody: unknown): string;
+interface JevNoul {
+  type?: string;
+  noul?: number;
 }
 
-class AnthropicHandler implements ModelProviderHandler {
-  canHandle(modelId: string): boolean {
-    return modelId.startsWith("anthropic");
+function instructionFor(tag: Tag): string {
+  if (tag.id === "off_topic") {
+    return "Is this article without a real connection to Donald Trump, his family, his businesses, his administration, his campaigns, or a federal decision? Answer no if the title or text contains Lake America, the Kennedy Center, super intelligence, or the US-Iran war, even when the rest is about Apple, a cartoon, or a product. Answer no for a federal agency action, a bill in Congress, or a court case about administration policy. A sports result, a viral video, or celebrity news with no federal decision is off-topic. State politics are off-topic.";
   }
-
-  buildBody(systemPrompt: string, userPrompt: string): string {
-    return JSON.stringify({
-      anthropic_version: "bedrock-2023-05-31",
-      system: systemPrompt,
-      messages: [{ role: "user", content: userPrompt }],
-      max_tokens: 500,
-      temperature: 0.2,
-      top_p: 0.9,
-    });
+  if (tag.id === "vanity") {
+    return "Answer yes if the title or text contains Lake America, New America, super intelligence, or Trump Strait, including an Apple Maps label or a cartoon about those names. The abbreviation SI used as a correction for AI, as in 'AI, or SI', is super intelligence and is yes. A joke or cartoon whose point is Trump's renames is yes. Answer yes for a Kennedy Center closure, board vote, court filing, or fight over its name. A ceiling collapse reported on its own, with no closure vote, is no. An ordinary CEO or product story that does not use one of those names is no.";
   }
-
-  parseResponse(responseBody: unknown): string {
-    const body = responseBody as {
-      content?: Array<{ text?: string }>;
-    };
-    if (
-      Array.isArray(body.content) &&
-      typeof body.content[0]?.text === "string"
-    ) {
-      return body.content[0].text;
-    }
-    throw new Error("Empty or invalid response from Anthropic model");
+  if (tag.id === "us_iran_war") {
+    return "Answer yes if the title or text is about the war between the United States and Iran, including the words Iran war or US-Iran war, a country described as trapped in that war, satire about that war, fighting, Hormuz tanker attacks, ceasefire talks, costs, or munitions. Sanctions and nuclear inspections are no unless they are about the fighting.";
   }
+  if (tag.id === "energy") {
+    return "Answer yes if the title is about fuel-economy standards, gas prices, oil, or energy policy, even when the body is a different brief in a news roundup. Also yes for a full article about oil, gas, renewables, or vehicle efficiency. Yes only when that is a real subject, not a passing mention.";
+  }
+  if (tag.id === "personnel") {
+    return "Does this article substantially concern a federal or administration personnel change: Cabinet, White House, agency heads, senior military, or the head of a federal institution such as the Smithsonian? A corporate CEO or private-sector resignation does not qualify. Yes only when the article is clearly about this, not a passing mention.";
+  }
+  if (tag.id === "national_security") {
+    return "Does this article substantially concern national-security strategy, threats, or military operations? A resignation or appointment does not qualify. Yes only when the article is clearly about this, not a passing mention.";
+  }
+  if (PLACE_TAG_IDS.has(tag.id)) {
+    return `Does this article substantially concern ${tag.name} itself (${tag.description})? The place qualifies only when the story is about that place, such as its election, law, or governance. A press conference or visit that merely happens there does not qualify.`;
+  }
+  return `Does this article substantially match the tag "${tag.id}" (${tag.name}): ${tag.description}? Yes only when the article is clearly about this topic, not a passing mention.`;
 }
 
-class AmazonNovaHandler implements ModelProviderHandler {
-  canHandle(modelId: string): boolean {
-    return modelId.startsWith("amazon.nova");
-  }
-
-  buildBody(systemPrompt: string, userPrompt: string): string {
-    return JSON.stringify({
-      messages: [
-        { role: "user", content: [{ text: systemPrompt }] },
-        { role: "user", content: [{ text: userPrompt }] },
-      ],
-      inferenceConfig: {
-        maxTokens: 256,
-        stopSequences: [],
-        temperature: 0.2,
-        topP: 0.8,
-      },
-    });
-  }
-
-  parseResponse(responseBody: unknown): string {
-    const body = responseBody as {
-      output?: {
-        message?: {
-          content?: Array<{ text?: string }>;
-        };
-      };
-    };
-    const content = body.output?.message?.content;
-    if (Array.isArray(content) && typeof content[0]?.text === "string") {
-      return content[0].text;
-    }
-    console.error(
-      "Invalid response structure from Amazon Nova model:",
-      JSON.stringify(responseBody, null, 2),
-    );
-    throw new Error("Empty or invalid response from Amazon Nova model");
-  }
+export function selectTags(
+  scores: Record<string, number>,
+  maxTags: number,
+  cutoff = TAG_CUTOFF,
+): string[] {
+  if ((scores.off_topic ?? 0) >= cutoff) return ["off_topic"];
+  const ranked = (parent: boolean) =>
+    Object.entries(scores)
+      .filter(
+        ([id, probability]) =>
+          id !== "off_topic" &&
+          PARENT_TAG_IDS.has(id) === parent &&
+          probability >= cutoff,
+      )
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .map(([id]) => id);
+  return [...ranked(false), ...ranked(true)].slice(0, maxTags);
 }
 
 class NewsArticleTagger {
-  private client: BedrockRuntimeClient;
-  private tagDefinitions: TagDefinition;
-  private systemPrompt: string;
-  private userPromptTemplate: string;
-  private modelHandlers: ModelProviderHandler[];
   private maxTags: number;
+  private apiKey: string;
+  private questions: Record<string, { type: "noul"; instructions: string }>;
 
   private constructor(
     tagDefinitions: TagDefinition,
-    systemPrompt: string,
-    userPromptTemplate: string,
     maxTags: number,
+    apiKey: string,
   ) {
-    this.client = new BedrockRuntimeClient();
-    this.tagDefinitions = tagDefinitions;
-    this.systemPrompt = systemPrompt;
-    this.userPromptTemplate = userPromptTemplate;
-    this.modelHandlers = [new AnthropicHandler(), new AmazonNovaHandler()];
     this.maxTags = maxTags;
+    this.apiKey = apiKey;
+    this.questions = {};
+    for (const category of tagDefinitions) {
+      for (const tag of category.tags) {
+        if (SKIPPED_TAG_IDS.has(tag.id)) continue;
+        this.questions[tag.id] = {
+          type: "noul",
+          instructions: instructionFor(tag),
+        };
+      }
+    }
   }
 
   public static async create(
     tagDefinitions: TagDefinition,
   ): Promise<NewsArticleTagger> {
-    const systemPromptPath = path.join(
-      __dirname,
-      "lib",
-      "ai",
-      "system-prompt.txt",
-    );
-    const userPromptPath = path.join(__dirname, "lib", "ai", "user-prompt.txt");
-    const [systemPromptRaw, userPromptTemplate] = await Promise.all([
-      fs.readFile(systemPromptPath, "utf-8"),
-      fs.readFile(userPromptPath, "utf-8"),
-    ]);
+    dotenv.config({ path: path.join(__dirname, "..", ".env") });
+    const apiKey = process.env.JEV_API_KEY?.trim();
+    if (!apiKey) {
+      throw new Error("JEV_API_KEY is missing");
+    }
     const maxTagsEnv = Number(process.env.MAX_TAGS);
     const maxTags =
       Number.isFinite(maxTagsEnv) && maxTagsEnv > 0 ? maxTagsEnv : 5;
-    const systemPrompt = systemPromptRaw.replace("{max_tags}", String(maxTags));
-    return new NewsArticleTagger(
-      tagDefinitions,
-      systemPrompt,
-      userPromptTemplate,
-      maxTags,
-    );
-  }
-
-  private async invokeModel(
-    userPrompt: string,
-    modelId: string,
-  ): Promise<string> {
-    const handler = this.modelHandlers.find((h) => h.canHandle(modelId));
-
-    if (!handler) {
-      throw new Error(`Unsupported model provider for modelId: ${modelId}`);
-    }
-
-    const body = handler.buildBody(this.systemPrompt, userPrompt);
-
-    const command = new InvokeModelCommand({
-      modelId,
-      contentType: "application/json",
-      accept: "application/json",
-      body,
-    });
-
-    const response = await this.client.send(command);
-    const decodedBody = new TextDecoder().decode(response.body);
-    const responseBody = JSON.parse(decodedBody);
-
-    return handler.parseResponse(responseBody);
+    return new NewsArticleTagger(tagDefinitions, maxTags, apiKey);
   }
 
   async tagArticlesIndividually(
@@ -187,29 +153,23 @@ class NewsArticleTagger {
     for (let i = 0; i < newsData.articles.length; i++) {
       const article = newsData.articles[i];
       console.log(
-        `Processing article ${i + 1}/${newsData.articles.length}: ${
-          article.title
-        }`,
+        `Processing article ${i + 1}/${newsData.articles.length}: ${article.title}`,
       );
 
-      // Derive Unix timestamp (seconds) when publishedAt is a valid date (once per article)
       const timeMs = Date.parse(article.publishedAt);
       const hasValidDate = !Number.isNaN(timeMs);
-      const publishedAtTs = hasValidDate ? Math.floor(timeMs / 1000) : undefined;
+      const publishedAtTs = hasValidDate
+        ? Math.floor(timeMs / 1000)
+        : undefined;
 
       try {
         const tags = await this.tagSingleArticle(article);
         console.log(`>>>> ${tags.join(", ")}`);
-
         taggedArticles.push(
           publishedAtTs !== undefined
             ? { ...article, tags, publishedAtTs }
             : { ...article, tags },
         );
-
-        if (i < newsData.articles.length - 1) {
-          await new Promise((resolve) => setTimeout(resolve, 100));
-        }
       } catch (error) {
         console.error(`Error processing article "${article.title}":`, error);
         taggedArticles.push(
@@ -228,112 +188,84 @@ class NewsArticleTagger {
   }
 
   public async tagSingleArticle(article: NewsArticle): Promise<string[]> {
-    const prompt = this.createSingleArticlePrompt(article);
+    const scores = await this.scoreArticle(article);
+    return selectTags(scores, this.maxTags);
+  }
 
+  private articleState(article: NewsArticle): string {
+    const content = (article.content || "No content available.").slice(
+      0,
+      CONTENT_LIMIT,
+    );
+    return [
+      "Archive scope: Donald Trump, his administration, campaigns, businesses, legal matters, US national politics, and the US-Iran war.",
+      "The title and description are the article. Ignore content that is a list of unrelated headlines or a later item in a roundup.",
+      `Title: ${article.title}`,
+      `Description: ${article.description || ""}`,
+      `Content: ${content}`,
+    ].join("\n");
+  }
+
+  private async scoreArticle(
+    article: NewsArticle,
+  ): Promise<Record<string, number>> {
     const maxRetries = 5;
-    let attempt = 0;
-    let delay = 1000; // start with 1 second
+    let delay = 1000;
 
-    while (attempt < maxRetries) {
-      try {
-        const responseText = await this.invokeModel(
-          prompt,
-          "amazon.nova-lite-v1:0",
+    for (let attempt = 0; attempt < maxRetries; attempt++) {
+      const response = await fetch(JEV_URL, {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${this.apiKey}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          model: "jev-latest",
+          state: this.articleState(article),
+          questions: this.questions,
+        }),
+      });
+
+      if (response.status === 429 || response.status >= 500) {
+        if (attempt === maxRetries - 1) break;
+        console.warn(
+          `Jev returned ${response.status}. Retrying in ${delay / 1000}s... (Attempt ${attempt + 1}/${maxRetries})`,
         );
-        return this.parseTagsFromResponse(responseText);
-      } catch (error: unknown) {
-        if (
-          typeof error === "object" &&
-          error !== null &&
-          "name" in error &&
-          (error as { name?: unknown }).name === "ThrottlingException" &&
-          attempt < maxRetries - 1
-        ) {
-          console.warn(
-            `Throttling detected. Retrying in ${delay / 1000}s... (Attempt ${
-              attempt + 1
-            }/${maxRetries})`,
-          );
-          await new Promise((resolve) => setTimeout(resolve, delay));
-          delay *= 2; // exponential backoff
-          attempt++;
-        } else {
-          // For other errors or max retries reached, re-throw the error
-          throw error;
-        }
+        await new Promise((resolve) => setTimeout(resolve, delay));
+        delay *= 2;
+        continue;
       }
+
+      if (!response.ok) {
+        const text = await response.text();
+        throw new Error(
+          `Jev request failed: HTTP ${response.status} ${text.slice(0, 200)}`,
+        );
+      }
+
+      const body = (await response.json()) as {
+        answers?: Record<string, JevNoul>;
+      };
+      const scores: Record<string, number> = {};
+      for (const [id, answer] of Object.entries(body.answers ?? {})) {
+        if (typeof answer?.noul === "number") scores[id] = answer.noul;
+      }
+      return scores;
     }
 
-    // This part should not be reached if logic is correct, but as a fallback:
     throw new Error(
       `Max retries reached for tagging article: ${article.title}`,
     );
   }
-
-  private createSingleArticlePrompt(article: NewsArticle): string {
-    const tagDefinitionsText = this.formatTagDefinitions();
-
-    // console.log("#####")
-    // console.log(tagDefinitionsText)
-    // console.log("#####")
-
-    let prompt = this.userPromptTemplate
-      .replace("{tag_definitions}", tagDefinitionsText)
-      .replace("{title}", article.title)
-      .replace("{description}", article.description || "");
-
-    if (article.content) {
-      prompt = prompt.replace("{content}", article.content);
-    } else {
-      prompt = prompt.replace("{content}", "No content available.");
-    }
-    return prompt;
-  }
-
-  private formatTagDefinitions(): string {
-    let formatted = "";
-    for (const category of this.tagDefinitions) {
-      formatted += `\n${category.title.toUpperCase()}: ${
-        category.description
-      }\n`;
-      for (const tag of category.tags) {
-        formatted += `  - ${tag.id}: ${tag.description}\n`;
-      }
-    }
-    return formatted;
-  }
-
-  private parseTagsFromResponse(responseText: string): string[] {
-    const validTags = this.tagDefinitions.flatMap((category) =>
-      category.tags.map((tag) => tag.id),
-    );
-
-    try {
-      const raw = parseJsonArrayFromModelResponse(responseText);
-      if (raw.length === 0 && validTags.includes("off_topic")) {
-        return ["off_topic"];
-      }
-      const filtered = raw.filter(
-        (tag): tag is string => typeof tag === "string" && validTags.includes(tag),
-      );
-      return filtered.slice(0, this.maxTags); // cap at configured max
-    } catch (error) {
-      console.error("Error parsing tags from response:", responseText, error);
-      return [];
-    }
-  }
 }
 
 async function main() {
-  // --- CONFIGURATION ---
   const RAW_NEWS_DIR = path.join(__dirname, "..", "data", "news", "raw");
   const TAGGED_NEWS_DIR = path.join(__dirname, "..", "data", "news", "tagged");
-  // Instantiate the tagger
   const tagger = await NewsArticleTagger.create(
     tagDefinitions as TagDefinition,
   );
 
-  // Find untagged files
   await fs.mkdir(TAGGED_NEWS_DIR, { recursive: true });
   const rawFiles = await fs.readdir(RAW_NEWS_DIR);
   const taggedFiles = new Set(await fs.readdir(TAGGED_NEWS_DIR));
@@ -347,9 +279,7 @@ async function main() {
   }
 
   console.log(
-    `Found ${
-      untaggedFiles.length
-    } untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`,
+    `Found ${untaggedFiles.length} untagged news file(s): ${untaggedFiles.join(", ")}. Starting process...`,
   );
 
   for (const fileName of untaggedFiles) {
@@ -382,7 +312,6 @@ async function main() {
       }
 
       const taggedResult = await tagger.tagArticlesIndividually(newsData);
-
       await fs.writeFile(taggedFilePath, JSON.stringify(taggedResult, null, 2));
       console.log(`Successfully tagged and saved: ${fileName}`);
     } catch (error) {

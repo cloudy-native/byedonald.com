@@ -15,9 +15,8 @@
       "publishedAt": "2026-09-16T21:09:20Z",
       "content": "The Federal Reserve announced an interest rate hike of 0.25 percentage points Wednesday as a way to battle inflation. The question remains whether the move is actually able to make a dent since it’s … [+4581 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "trade"
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1789592960
     },
@@ -34,8 +33,10 @@
       "publishedAt": "2026-09-16T16:30:27Z",
       "content": "The Senate voted 49-50 on Tuesday against cloture on the motion to proceed to the Digital Asset Market Clarity Act, better known as the CLARITY Act. The bill needed 60 votes to reach the floor for de… [+7640 chars]",
       "tags": [
+        "congress",
+        "cryptocurrency",
         "policy_legislation",
-        "cryptocurrency"
+        "economy_finance"
       ],
       "publishedAtTs": 1789576227
     },
@@ -52,8 +53,10 @@
       "publishedAt": "2026-09-16T17:30:15Z",
       "content": "While debates about whether AI could exterminate all of humanity continue to rage across Silicon Valley, a growing number of current and former federal officials are warning lawmakers: Dont let the c… [+3234 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "artificial_intelligence",
+        "technology_regulation",
+        "cabinet",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789579815
     },
@@ -70,9 +73,8 @@
       "publishedAt": "2026-09-16T08:41:44Z",
       "content": "Trump regularly likes to tout America as the \"hottest\" country in the world. Many economists indicate that investment in AI technology including infrastructure and equipment has been the driving forc… [+1410 chars]",
       "tags": [
-        "ai_state_preemption",
-        "economy_finance",
-        "technology_regulation"
+        "artificial_intelligence",
+        "trump"
       ],
       "publishedAtTs": 1789548104
     },
@@ -89,9 +91,7 @@
       "publishedAt": "2026-09-16T16:06:50Z",
       "content": "Over the past two weeks, the Houthis in Yemen have captured strategic territory from Saudi-backed pro-government forces close to the Bab al-Mandab Strait, another trade chokepoint at the southern tip… [+1073 chars]",
       "tags": [
-        "energy",
-        "trade",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1789574810
     },
@@ -107,10 +107,7 @@
       "urlToImage": "https://images.macrumors.com/t/5swRziq_tukCk5eS5XpRgyZlJxI=/1600x/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg",
       "publishedAt": "2026-09-16T23:41:11Z",
       "content": "Apple executive chairman Tim Cook is expected to attend a White House state dinner for Chinese President Xi Jinping, reports Bloomberg.\r\nCook stepped down as Apple CEO and transitioned to executive c… [+627 chars]",
-      "tags": [
-        "foreign_policy",
-        "trade"
-      ],
+      "tags": [],
       "publishedAtTs": 1789602071
     },
     {
@@ -126,9 +123,9 @@
       "publishedAt": "2026-09-16T23:03:14Z",
       "content": "The Federal Reserve on Wednesday raised interest rates for the first time since 2023. For the average US household, that means the cost of borrowing money whether through a loan, a mortgage or a cred… [+3156 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "prices"
+        "prices",
+        "banking",
+        "economy_finance"
       ],
       "publishedAtTs": 1789599794
     },
@@ -145,8 +142,9 @@
       "publishedAt": "2026-09-16T20:55:54Z",
       "content": "The Trump Administration says it is preparing a dozen signs for its Washington, D.C., museum sites that will warn visitors about the Smithsonian Institution in general, and the National Museum of Ame… [+2942 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "cabinet",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1789592154
     },
@@ -163,8 +161,8 @@
       "publishedAt": "2026-09-16T17:05:41Z",
       "content": "Nearly one in five lawmakers who started the 119th Congress will not return to their seats next year, driven by an historic level of retirements, resignations and runs for other office.\r\nAccording to… [+4417 chars]",
       "tags": [
-        "elections_politics",
-        "congress"
+        "congress",
+        "elections_politics"
       ],
       "publishedAtTs": 1789578341
     },
@@ -181,9 +179,9 @@
       "publishedAt": "2026-09-16T07:26:28Z",
       "content": "WASHINGTON The United States has confirmed for the first time that it has deployed weapons in space, a remarkable revelation after previous warnings about countries such as Russia possibly weaponizin… [+3079 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "space_policy"
+        "security_intelligence",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789543588
     },
@@ -200,8 +198,11 @@
       "publishedAt": "2026-09-16T10:00:00Z",
       "content": "For stories on the science of healthy living, subscribe to NPR's Health newsletter. \r\nThe Senate committee on health meets this morning to consider three of the Trump administration's picks for top j… [+5344 chars]",
       "tags": [
-        "policy_legislation",
-        "healthcare"
+        "appointments",
+        "personnel",
+        "congress",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1789552800
     },
@@ -218,8 +219,8 @@
       "publishedAt": "2026-09-16T10:48:22Z",
       "content": "STRASBOURG, France European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Tru… [+4458 chars]",
       "tags": [
-        "foreign_policy",
-        "canada"
+        "europe",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789555702
     },
@@ -236,7 +237,9 @@
       "publishedAt": "2026-09-16T17:32:44Z",
       "content": "This week, some in Congress seemed to discover a new urgency to act on the complicated task of AI regulation after a slew of grim warnings from industry leaders. The only issue: Most of them leave to… [+5852 chars]",
       "tags": [
-        "ai_state_preemption",
+        "artificial_intelligence",
+        "technology_regulation",
+        "congress",
         "policy_legislation"
       ],
       "publishedAtTs": 1789579964
@@ -255,7 +258,10 @@
       "content": "There are 21.4 million women in the U.S. who need subsidized birth control living in a county somewhere with limited access. That's the major takeaway from a new analysis of contraception access from… [+7619 chars]",
       "tags": [
         "womens_rights",
-        "healthcare"
+        "public_health",
+        "health",
+        "healthcare",
+        "social_issues"
       ],
       "publishedAtTs": 1789549200
     },
@@ -272,8 +278,7 @@
       "publishedAt": "2026-09-16T17:34:00Z",
       "content": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing … [+3537 chars]",
       "tags": [
-        "ai_state_preemption",
-        "artificial_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1789580040
     },
@@ -290,8 +295,9 @@
       "publishedAt": "2026-09-16T20:30:15Z",
       "content": "Donald Trump Jr. and Bettina Trump held their wedding in the Bahamas in May.Kevin Lamarque/REUTERS\r\n<ul><li>Donald Trump Jr., 48, and Bettina Trump, 39, celebrated their wedding in the Bahamas in May… [+12074 chars]",
       "tags": [
-        "personal_family",
-        "family_activities"
+        "personal_activities",
+        "family_activities",
+        "personal_family"
       ],
       "publishedAtTs": 1789590615
     },
@@ -308,9 +314,9 @@
       "publishedAt": "2026-09-16T21:16:54Z",
       "content": "President Donald Trump said he wants lower interest rates.Aaron Schwartz / AFP via Getty Images\r\n<ul><li>The Fed hiked interest rates by a quarter point on September 16.</li><li>President Donald Trum… [+2161 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "trade"
+        "banking",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1789593414
     },
@@ -327,9 +333,9 @@
       "publishedAt": "2026-09-16T19:49:19Z",
       "content": "Chair Kevin Warsh took a tough-on-inflation tone at the September meeting.Bloomberg/Getty Images\r\n<ul><li>The Fed opted to hike rates at the September meeting, the first in three years.</li><li>Warsh… [+3913 chars]",
       "tags": [
-        "economy_finance",
         "inflation",
-        "budget"
+        "banking",
+        "economy_finance"
       ],
       "publishedAtTs": 1789588159
     },
@@ -346,8 +352,7 @@
       "publishedAt": "2026-09-16T10:18:34Z",
       "content": "Canadian Prime Minister Mark Carney is seeking closer ties with Europe.VALERIE MACON / AFP via Getty Images\r\n<ul><li>The European Union could welcome Canada as its first \"associate\" member, its leade… [+1116 chars]",
       "tags": [
-        "trade",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1789553914
     },
@@ -364,8 +369,7 @@
       "publishedAt": "2026-09-16T12:18:40Z",
       "content": "OpenAI CEO Sam Altman says AI accidents will happen, so companies must report and learn from them.Carlos Barria/Reuters\r\n<ul><li>OpenAI CEO Sam Altman said some AI accidents are unavoidable as models… [+3444 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789561120
     },
@@ -382,7 +386,7 @@
       "publishedAt": "2026-09-16T15:35:11Z",
       "content": "More colleges are eliminating student loans from their financial aid packages in favor of scholarships and grants.Eric Raptosh Photography/Getty Images\r\n<ul><li>Carleton College announced it is elimi… [+3114 chars]",
       "tags": [
-        "education"
+        "off_topic"
       ],
       "publishedAtTs": 1789572911
     },
@@ -399,7 +403,7 @@
       "publishedAt": "2026-09-16T03:20:30Z",
       "content": "We dont need any new laws. We dont need new regulations, Nvidia chief executive Jensen Huang said on Tuesday, on the main stage of Salesforces Dreamforce conference in San Francisco.\r\nEarlier in the … [+5540 chars]",
       "tags": [
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789528830
     },
@@ -416,7 +420,7 @@
       "publishedAt": "2026-09-16T07:49:50Z",
       "content": "Every lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens, said Mark Zuckerberg in a post … [+2968 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1789544990
     },
@@ -433,8 +437,9 @@
       "publishedAt": "2026-09-16T15:55:49Z",
       "content": "This week, President Donald Trump expressed support for automated license plate readers (ALPRs), which record and store images of license plates in a searchable police database.\r\nFlock Safety, by far… [+5754 chars]",
       "tags": [
-        "social_issues",
-        "law_enforcement"
+        "law_enforcement",
+        "trump",
+        "social_issues"
       ],
       "publishedAtTs": 1789574149
     },
@@ -451,7 +456,8 @@
       "publishedAt": "2026-09-16T15:20:36Z",
       "content": "WASHINGTON President Donald Trump threw a \"tantrum\" during a Kennedy Center board meeting when he learned that a federal judge blocked his administration's latest effort to put his name on the instit… [+4535 chars]",
       "tags": [
-        "personal_activities"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789572036
     },
@@ -468,9 +474,11 @@
       "publishedAt": "2026-09-16T12:14:45Z",
       "content": "Newly declassified FBI documents are providing a clearer picture of the gunman who nearly assassinated President Donald Trump at a 2024 campaign rally in Butler, Pennsylvania. The documents reveal th… [+156 chars]",
       "tags": [
-        "security_intelligence",
+        "security_incidents",
+        "federal_agencies",
         "law_enforcement",
-        "criminal_cases"
+        "presidential_security",
+        "2024_presidential"
       ],
       "publishedAtTs": 1789560885
     },
@@ -487,9 +495,11 @@
       "publishedAt": "2026-09-16T15:34:31Z",
       "content": "By Ahmed Aboulenein\r\nWASHINGTON, Sept 16 (Reuters) - The Republican chairman of the U.S. Senate health committee on Wednesday blamed the Trump administration's approach to vaccines for recent measles… [+3364 chars]",
       "tags": [
-        "health_science",
-        "policy_legislation",
-        "public_health"
+        "public_health",
+        "congress",
+        "healthcare",
+        "public_health_emergency",
+        "health"
       ],
       "publishedAtTs": 1789572871
     },
@@ -506,8 +516,8 @@
       "publishedAt": "2026-09-16T12:53:55Z",
       "content": "Back in December, President Donald Trump professed to be \"surprised\" that his hand-picked board of trustees ofthe John F. Kennedy Center for the Performing Arts had suddenly voted to slap his name al… [+5860 chars]",
       "tags": [
-        "personal_activities",
-        "government_administration"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789563235
     },
@@ -524,8 +534,9 @@
       "publishedAt": "2026-09-16T14:16:23Z",
       "content": "Washington's biggest question this week: Why is President Donald Trump so furiously against an AI slowdown in the wake of apocalyptic warnings from some top industry executives?\r\nThe clue is in one w… [+8588 chars]",
       "tags": [
-        "ai_state_preemption",
-        "legal_justice"
+        "artificial_intelligence",
+        "technology_regulation",
+        "trump"
       ],
       "publishedAtTs": 1789568183
     },
@@ -542,8 +553,11 @@
       "publishedAt": "2026-09-16T10:35:53Z",
       "content": "The Trump administration has cut or frozen up to $177 billion in federal grants since the president took office for his second term, according to a tracking tool released Wednesday by a pro-democracy… [+2262 chars]",
       "tags": [
+        "budget",
+        "trump",
         "government_administration",
-        "budget"
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1789554953
     },
@@ -560,9 +574,8 @@
       "publishedAt": "2026-09-16T17:18:09Z",
       "content": "(Bloomberg) -- Billionaire shale pioneer Harold Hamm's Continental Resources Inc. reached a deal for an oil field in Venezuela as the Trump administration pushes US companies to revive the nation's o… [+2169 chars]",
       "tags": [
-        "trade",
-        "foreign_policy",
-        "venezuela_intervention"
+        "energy",
+        "economy_finance"
       ],
       "publishedAtTs": 1789579089
     },
@@ -579,9 +592,9 @@
       "publishedAt": "2026-09-16T23:41:33Z",
       "content": "President Trump reacted to Wednesday's Fed rate hike, saying \"Interest Rates in the United States should be 1%, or less\" and acknowledging he discussed with Kevin Warsh the Fed chair's plans for how … [+3601 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "trade"
+        "banking",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1789602093
     },
@@ -598,8 +611,9 @@
       "publishedAt": "2026-09-16T10:17:51Z",
       "content": "By Brad Brooks\r\nCOLUMBIA FALLS, Montana, Sept 16 (Reuters) - More than 15 years after the U.S. Supreme Court reshaped American politics with its Citizens United campaign finance ruling, Montana voter… [+6657 chars]",
       "tags": [
+        "campaign_finance",
         "elections_politics",
-        "campaign_finance"
+        "regional_state"
       ],
       "publishedAtTs": 1789553871
     },
@@ -616,9 +630,11 @@
       "publishedAt": "2026-09-16T20:46:55Z",
       "content": "WASHINGTON (AP) The top Democrat on the House Foreign Affairs Committee said Wednesday that he's going to block a proposed sale of $2.8 billion in heavy weaponry to Israel over concerns that the powe… [+1999 chars]",
       "tags": [
-        "foreign_policy",
         "israel",
-        "defense_contractor_reform"
+        "congress",
+        "middle_east",
+        "national_security",
+        "democratic_party"
       ],
       "publishedAtTs": 1789591615
     },
@@ -635,8 +651,7 @@
       "publishedAt": "2026-09-16T21:50:46Z",
       "content": "One day after a dramatic meeting of the arts institutions Board of Trustees, during which members many of whom are allies of President Donald Trump voted to close its doors, lights inside the Kennedy… [+2457 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration"
+        "vanity"
       ],
       "publishedAtTs": 1789595446
     },
@@ -653,8 +668,10 @@
       "publishedAt": "2026-09-16T16:36:31Z",
       "content": "By David Shepardson\r\nWASHINGTON, Sept 16 (Reuters) - The U.S. Senate Commerce Committee approved legislation on Wednesday to bar government officials from pressuring private companies to censor speec… [+2781 chars]",
       "tags": [
+        "congress",
         "free_speech",
-        "legal_justice",
+        "censorship",
+        "policy_legislation",
         "media_communications"
       ],
       "publishedAtTs": 1789576591
@@ -672,8 +689,11 @@
       "publishedAt": "2026-09-16T19:38:19Z",
       "content": "WASHINGTON, Sept 16 (Reuters) - Democratic and Republican U.S. senators asked President Donald Trump's administration on Wednesday to declassify and release all information about a proposed agreement… [+2424 chars]",
       "tags": [
-        "foreign_policy",
-        "nuclear_policy"
+        "congress",
+        "nuclear_policy",
+        "arms_control",
+        "congressional_investigations",
+        "middle_east"
       ],
       "publishedAtTs": 1789587499
     },
@@ -690,8 +710,8 @@
       "publishedAt": "2026-09-16T09:24:19Z",
       "content": "(Refiles to add Iran's foreign minister's first name in paragarph 3)\r\nBEIJING, Sept 16 (Reuters) - China encourages Iran and the U.S. to remain rational, exercise restraint, return to the Islamabad m… [+1714 chars]",
       "tags": [
-        "china",
         "iran",
+        "middle_east",
         "foreign_policy"
       ],
       "publishedAtTs": 1789550659
@@ -710,7 +730,7 @@
       "content": "Since last month, Yasmany Moreno de Armas has been living what he calls a \"nightmare.\" The 32-year-old Cuban's new home is in the Central African Republic, a country currently classified as an extrem… [+4761 chars]",
       "tags": [
         "immigration",
-        "mass_deportation_operation"
+        "social_issues"
       ],
       "publishedAtTs": 1789549813
     },
@@ -727,9 +747,9 @@
       "publishedAt": "2026-09-16T00:41:42Z",
       "content": "Vice President JD Vance urged House Republicans to make Michigan Democratic Senate nominee Abdul El-Sayed a boogeyman if their own opponents aren't \"that crazy\" and stressed the importance of levelin… [+3528 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "campaign_events"
+        "elections_politics",
+        "leadership"
       ],
       "publishedAtTs": 1789519302
     },
@@ -746,9 +766,10 @@
       "publishedAt": "2026-09-16T11:03:56Z",
       "content": "By Timour Azhari, Alexander Cornwell and Gram Slattery\r\nSept 15 (Reuters) - U.S. officials met representatives of Yemen's Houthis in Oman over the weekend, five sources familiar with the matter said,… [+3069 chars]",
       "tags": [
-        "iran",
+        "middle_east",
+        "national_security",
         "foreign_policy",
-        "middle_east"
+        "security_intelligence"
       ],
       "publishedAtTs": 1789556636
     },
@@ -765,8 +786,7 @@
       "publishedAt": "2026-09-16T03:16:04Z",
       "content": "SEOUL, South Korea (AP) A South Korean court has ruled that North Korea should pay the South 44.6 billion won ($32.5 million) for blowing up a joint liaison office between the countries in 2020 as th… [+3586 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1789528564
     },
@@ -783,7 +803,6 @@
       "publishedAt": "2026-09-16T19:13:51Z",
       "content": "By Jacob Bogage\r\nWASHINGTON, Sept 16 (Reuters) - The head of the U.S. Postal Service has told confidants that he is deeply discouraged by his job and wants to resign, according to four people familia… [+4366 chars]",
       "tags": [
-        "government_administration",
         "personnel"
       ],
       "publishedAtTs": 1789586031
@@ -802,6 +821,9 @@
       "content": "The US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority, in the latest escalation of tensions between the two countries.\r\nThe Trump … [+4497 chars]",
       "tags": [
         "immigration",
+        "civil_rights",
+        "sanctions",
+        "racial_justice",
         "foreign_policy"
       ],
       "publishedAtTs": 1789539814
@@ -820,8 +842,9 @@
       "content": "By Jana Choukeir and Nayera Abdallah\r\nSept 16 (Reuters) - Saudi warplanes pounded Yemen, the Houthis said on Wednesday, as the Iran-backed fighters solidified their gains after a lightning advance th… [+4045 chars]",
       "tags": [
         "middle_east",
+        "national_security",
         "foreign_policy",
-        "iran"
+        "security_intelligence"
       ],
       "publishedAtTs": 1789551993
     },
@@ -838,9 +861,10 @@
       "publishedAt": "2026-09-16T05:59:04Z",
       "content": "The United States has deployed weapons in space and will use them to defend American forces, Air Force Secretary Troy Meink said Monday. Its the first public acknowledgment that the nation has such c… [+6769 chars]",
       "tags": [
-        "security_intelligence",
         "national_security",
-        "defense_contractor_reform"
+        "military",
+        "statements",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789538344
     },
@@ -857,8 +881,9 @@
       "publishedAt": "2026-09-16T19:58:26Z",
       "content": "The Federal Reserve raised interest rates for the first time in three years in a unanimous decision on Wednesday, with central bankers now seeing a second hike this year to arrest sticky inflation. \r… [+4127 chars]",
       "tags": [
-        "economy_finance",
-        "inflation"
+        "banking",
+        "inflation",
+        "economy_finance"
       ],
       "publishedAtTs": 1789588706
     },
@@ -875,9 +900,11 @@
       "publishedAt": "2026-09-16T18:41:51Z",
       "content": "Wednesdays Senate confirmation hearing wasnt the first time much of the American public met Dr. Nicole Saphier and heard her perspective; President Donald Trumps nominee for US surgeon general is a h… [+9331 chars]",
       "tags": [
-        "elections_politics",
-        "health_science",
-        "personal_family"
+        "appointments",
+        "personnel",
+        "public_health",
+        "healthcare",
+        "health_science"
       ],
       "publishedAtTs": 1789584111
     },
@@ -894,9 +921,11 @@
       "publishedAt": "2026-09-16T08:42:59Z",
       "content": "CAIRO (AP) Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military suppo… [+3523 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "middle_east"
+        "middle_east",
+        "security_incidents",
+        "national_security",
+        "terrorism",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789548179
     },
@@ -913,9 +942,7 @@
       "publishedAt": "2026-09-16T17:07:40Z",
       "content": "Texas Democratic gubernatorial candidate Gina Hinojosa spent the summer keeping Republican Gov. Greg Abbott within arm's reach never letting him lead by more than a few points.\r\nHowever, two new poll… [+2860 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "texas"
+        "off_topic"
       ],
       "publishedAtTs": 1789578460
     },
@@ -932,8 +959,7 @@
       "publishedAt": "2026-09-16T10:04:08Z",
       "content": "By Kalea Hall\r\nDETROIT, Sept 16 (Reuters) - Florida car dealer Bill Wallace says the majority of customers lately are asking about hybrid options, eager for relief from high gasoline prices.\r\nSalespe… [+4348 chars]",
       "tags": [
-        "energy",
-        "automotive"
+        "off_topic"
       ],
       "publishedAtTs": 1789553048
     },
@@ -950,8 +976,9 @@
       "publishedAt": "2026-09-16T17:10:42Z",
       "content": "If you click 'Accept all', we and our partners, including 252 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "elections_politics",
-        "congress"
+        "congress",
+        "leadership",
+        "elections_politics"
       ],
       "publishedAtTs": 1789578642
     },
@@ -968,8 +995,7 @@
       "publishedAt": "2026-09-16T08:06:37Z",
       "content": "(Bloomberg) -- European Commission President Ursula von der Leyen proposed Canada becoming the first associate member of the European Union.\r\nMost Read from Bloomberg\r\nShe offered the invitation duri… [+1971 chars]",
       "tags": [
-        "foreign_policy",
-        "canada"
+        "off_topic"
       ],
       "publishedAtTs": 1789545997
     },
@@ -986,8 +1012,8 @@
       "publishedAt": "2026-09-16T18:20:53Z",
       "content": "One of former President John F. Kennedy's nieces accused President Donald Trump of taking the Kennedy Center \"hostage\" after Trump said Tuesday that he wouldn't spend congressionally approved funding… [+4343 chars]",
       "tags": [
-        "personal_family",
-        "government_administration"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1789582853
     },
@@ -1004,9 +1030,11 @@
       "publishedAt": "2026-09-16T17:48:16Z",
       "content": "President Donald Trump is making his first campaign trip since he rallied Republicans at the party's midterm convention -- stumping for North Carolina Senate candidate Michael Whatley, whose race cou… [+4334 chars]",
       "tags": [
-        "elections_politics",
-        "2026_midterms",
-        "republican_party"
+        "political_endorsements",
+        "campaign_events",
+        "rallies",
+        "republican_party",
+        "elections_politics"
       ],
       "publishedAtTs": 1789580896
     },
@@ -1022,10 +1050,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/eb30ca39-bd79-421f-a967-b0d2161208da/Umar-Kremlev-gty-gmh-260914_1789412945901_hpMain_2_16x9.jpg?w=1600",
       "publishedAt": "2026-09-16T00:19:50Z",
       "content": "The Russian businessman who paid for the afterparty at President Donald Trumps eldest sons wedding has close ties to the Kremlin, including heading an international boxing federation that has sought … [+5510 chars]",
-      "tags": [
-        "foreign_policy",
-        "trump"
-      ],
+      "tags": [],
       "publishedAtTs": 1789517990
     },
     {
@@ -1041,9 +1066,11 @@
       "publishedAt": "2026-09-16T22:12:07Z",
       "content": "The Trump administration has greenlit a $2.8 billion arms sale to Israel that includes tens of thousands of controversial one-ton bombs, according to three sources familiar with the matter.\r\nThe pack… [+2734 chars]",
       "tags": [
-        "foreign_policy",
         "israel",
-        "trade"
+        "middle_east",
+        "national_security",
+        "military",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789596727
     },
@@ -1060,8 +1087,10 @@
       "publishedAt": "2026-09-16T21:53:41Z",
       "content": "Senate Democrats are ramping up calls to impeach Education Secretary Linda McMahon and for an inspector general's investigation over her efforts to dismantle the agency she leads.\r\nShe is the second … [+6567 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration",
+        "cabinet",
+        "impeachment",
+        "congress",
+        "personnel",
         "education"
       ],
       "publishedAtTs": 1789595621
@@ -1079,8 +1108,9 @@
       "publishedAt": "2026-09-16T12:45:54Z",
       "content": "The federal government paid federal workers $9.5 billion not to work in 2025 amid President Trump's push to shrink the federal workforce, according to a new watchdog report.\r\nIn the report published … [+1339 chars]",
       "tags": [
+        "government_operations",
         "government_administration",
-        "personnel"
+        "trump"
       ],
       "publishedAtTs": 1789562754
     },
@@ -1097,8 +1127,8 @@
       "publishedAt": "2026-09-16T00:25:51Z",
       "content": "The Senate on Tuesday took the first step to advance legislation to drastically overhaul college sports system as we know it, passing a procedural vote for a full Senate vote by a 74-24 margin.\r\nThe … [+2758 chars]",
       "tags": [
-        "policy_legislation",
-        "education"
+        "congress",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789518351
     },
@@ -1132,7 +1162,7 @@
       "publishedAt": "2026-09-16T12:51:29Z",
       "content": "<ul><li>Helicopter crashes near scene of deadly bus crash\r\n</li><li>Gas and diesel prices surge as interest rate decision looms\r\n</li><li>Kennedy Center board votes to close main building after Trump… [+4577 chars]",
       "tags": [
-        "off_topic"
+        "vanity"
       ],
       "publishedAtTs": 1789563089
     },
@@ -1149,8 +1179,7 @@
       "publishedAt": "2026-09-16T14:04:41Z",
       "content": "<ul><li>Helicopter crashes near scene of deadly bus crash\r\n</li><li>Charlie Kirk's family signals intent to sue, alleges 'stunning failures'\r\n</li><li>Gas and diesel prices surge as interest rate dec… [+4488 chars]",
       "tags": [
-        "law_enforcement",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1789567481
     },
@@ -1201,8 +1230,7 @@
       "publishedAt": "2026-09-16T10:19:16Z",
       "content": "The family of Charlie Kirk alleges in a newly obtained notice of claim that a \"series of stunning failures and reckless decisions\" by Utah Valley University led to the conservative activist's on-camp… [+6966 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1789553956
     },
@@ -1219,9 +1247,11 @@
       "publishedAt": "2026-09-16T20:30:22Z",
       "content": "An Afghan man arrested last year in connection with the Abbey Gate suicide bombing during the U.S. withdrawal from Afghanistan in 2021 was sentenced Wednesday to 20 years in prison.\r\nMohammad Sharifu… [+3054 chars]",
       "tags": [
-        "foreign_policy",
         "terrorism",
-        "legal_justice"
+        "criminal_cases",
+        "security_incidents",
+        "legal_justice",
+        "security_intelligence"
       ],
       "publishedAtTs": 1789590622
     },
@@ -1238,9 +1268,11 @@
       "publishedAt": "2026-09-16T01:34:21Z",
       "content": "Outgoing Republican Rep. Thomas Massie seized the House floor for more than an hour Tuesday afternoon, launching a long-shot effort to impeach Defense Secretary Pete Hegseth stemming from his controv… [+4057 chars]",
       "tags": [
-        "elections_politics",
+        "impeachment",
         "congress",
-        "impeachment"
+        "cabinet",
+        "personnel",
+        "government_administration"
       ],
       "publishedAtTs": 1789522461
     },
@@ -1257,7 +1289,7 @@
       "publishedAt": "2026-09-16T18:00:51Z",
       "content": "Danone USA has issued a recall of So Delicious Dairy Free brand frozen dessert pints, according to a new notice from the FDA. The ice cream-like dessert has been contaminated with small stones and “o… [+2872 chars]",
       "tags": [
-        "health_science"
+        "consumer_protection"
       ],
       "publishedAtTs": 1789581651
     },
@@ -1274,8 +1306,7 @@
       "publishedAt": "2026-09-16T15:10:15Z",
       "content": "It’s all anyone seems to be talking about at the moment. Will AI destroy humanity? Some people who work for the top AI companies like Anthropic and OpenAI really think so. But don’t worry, because te… [+5542 chars]",
       "tags": [
-        "ai_state_preemption",
-        "health_science"
+        "off_topic"
       ],
       "publishedAtTs": 1789571415
     },
@@ -1292,8 +1323,9 @@
       "publishedAt": "2026-09-16T00:54:00Z",
       "content": "Donald Trump has given the federal judiciary an ultimatum: Let him put his name on the Kennedy Center, or he won’t save it.That threat came after a federal judge, Christopher Cooper, today blocked ye… [+7654 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice"
+        "vanity",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1789520040
     },
@@ -1309,10 +1341,7 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/qk9Ycax36sT97ijkNUyp7QrTGAU=/0x85:3994x2165/1200x625/media/img/mt/2026/09/2026_09_15_Bernie_Sanders_and_Steve_Bannon_are_pro_human_Toluse_Olorunnipa/original.jpg",
       "publishedAt": "2026-09-16T00:09:41Z",
       "content": "If there was any question over whether the concept of “the enemy of my enemy is my friend” is still operative in Washington’s hyper-partisan political environment, the answer may be found in the budd… [+7385 chars]",
-      "tags": [
-        "ai_state_preemption",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1789517381
     },
     {
@@ -1327,10 +1356,7 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/eFM5VsnUkgBcFZDMjaUlfq8pcVw=/2x20:1022x555/960x504/media/newsletters/2026/09/2026_09_16_The_Daily_Kash_Patel_Hearing/original.jpg",
       "publishedAt": "2026-09-16T22:41:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Pr… [+8551 chars]",
-      "tags": [
-        "legal_justice",
-        "law_enforcement"
-      ],
+      "tags": [],
       "publishedAtTs": 1789598460
     },
     {
@@ -1346,8 +1372,7 @@
       "publishedAt": "2026-09-16T13:38:00Z",
       "content": "This weekend, the AI executives Sam Altman, Elon Musk, and Dario Amodei agreed with the need to slow the pace of AI development. In light of the potentially apocalyptic capabilities of the products t… [+5153 chars]",
       "tags": [
-        "ai_state_preemption",
-        "climate_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1789565880
     },
@@ -1364,9 +1389,7 @@
       "publishedAt": "2026-09-16T15:33:19Z",
       "content": "Charlie Kirk's family has accused the Utah Valley University and state officials of \"stunning failures and reckless decisions\" that they say led to the conservative activist's 2025 assassination duri… [+2341 chars]",
       "tags": [
-        "security_intelligence",
-        "criminal_cases",
-        "protests"
+        "off_topic"
       ],
       "publishedAtTs": 1789572799
     },
@@ -1383,8 +1406,11 @@
       "publishedAt": "2026-09-16T18:00:00Z",
       "content": "On Wednesday President Donald Trump’s latest nominee for surgeon general took steps to distance herself from the president’s false statements on vaccinations by telling a Senate confirmation hearing … [+4116 chars]",
       "tags": [
-        "health_science",
-        "public_health"
+        "appointments",
+        "personnel",
+        "public_health",
+        "healthcare",
+        "health"
       ],
       "publishedAtTs": 1789581600
     },
@@ -1401,9 +1427,10 @@
       "publishedAt": "2026-09-16T13:30:49Z",
       "content": "The stories of pregnant ICE detainees suffering mistreatment, isolation, and inadequate care have teemed during Trump 2.0but per a new piece by the Guardian, we dont even know the half of it. And nei… [+3416 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "ice_controversies_resistance",
-        "healthcare"
+        "womens_rights",
+        "immigration",
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1789565449
     },
@@ -1420,7 +1447,8 @@
       "publishedAt": "2026-09-16T18:50:16Z",
       "content": "It turns out that more people still listen to the radio than you might think. Even today, more than half of our in-car audio time is still AM/FM radio. PBS News reports an even higher figure, that ov… [+1783 chars]",
       "tags": [
-        "transportation"
+        "congress",
+        "policy_legislation"
       ],
       "publishedAtTs": 1789584616
     },
@@ -1437,9 +1465,9 @@
       "publishedAt": "2026-09-16T10:30:56Z",
       "content": "Costly Medicine: Claudia Sahm on Fed Week the FOMC is highly likely to hike a quarter point Wednesday, and the Middle East and AI headlines stealing attention are the same stories driving the inflati… [+3534 chars]",
       "tags": [
-        "economy_finance",
         "inflation",
-        "ai_state_preemption"
+        "banking",
+        "economy_finance"
       ],
       "publishedAtTs": 1789554656
     },
@@ -1456,8 +1484,9 @@
       "publishedAt": "2026-09-16T21:59:22Z",
       "content": "Federal Reserve chair Kevin Warsh at a news conference on September 16, 2026. | Andrew Harnik/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that helps you stay informed about … [+2522 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "banking",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1789595962
     },
@@ -1474,8 +1503,7 @@
       "publishedAt": "2026-09-16T21:04:39Z",
       "content": "AI risk activists protest near Downing Street in London, England, on on September 16, 2026. | Dan Kitwood/Getty Images\r\n\n\nIs AI going to kill us all? \n\nIn Silicon Valley, it’s not such a novel questi… [+7845 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1789592679
     },
@@ -1508,9 +1536,7 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/09/south-park-s29.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-09-16T18:49:17Z",
       "content": "South Park — now South America — is back on Wednesday for Season 29.\r\nAs it did last season, the long-running animated series made headlines before new episodes aired with a rebrand mocking the Trump… [+2816 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1789584557
     },
     {
@@ -1526,8 +1552,8 @@
       "publishedAt": "2026-09-16T15:00:00Z",
       "content": "On Sept. 9, 2025, the two sides faced off. The setting — a U.S. Senate hearing — was a bit of an unusual arena for this kind of showdown. But it was filled with dueling claims, raised voices, and loo… [+17807 chars]",
       "tags": [
-        "social_issues",
-        "public_health"
+        "public_health",
+        "health_science"
       ],
       "publishedAtTs": 1789570800
     },
@@ -1544,9 +1570,10 @@
       "publishedAt": "2026-09-16T17:13:06Z",
       "content": "South Africa has called the United Statess plans to impose sanctions on individuals there for alleged discrimination against white Afrikaners a result of mischaracterisations being promoted by fringe… [+2278 chars]",
       "tags": [
-        "foreign_policy",
         "sanctions",
-        "racial_justice"
+        "civil_rights",
+        "foreign_policy",
+        "social_issues"
       ],
       "publishedAtTs": 1789578786
     },
@@ -1563,9 +1590,8 @@
       "publishedAt": "2026-09-16T17:38:09Z",
       "content": "Belarus on Wednesday freed 25 political prisoners as the United States lifted sanctions on two of the reclusive countrys companies, US envoy John Coale announced after his latest visit to Minsk.\r\nThe… [+3294 chars]",
       "tags": [
-        "foreign_policy",
         "sanctions",
-        "russia"
+        "foreign_policy"
       ],
       "publishedAtTs": 1789580289
     },
@@ -1582,9 +1608,10 @@
       "publishedAt": "2026-09-16T13:56:11Z",
       "content": "US President Donald Trump has lashed out at the Supreme Court for rejecting his push to curb mail-in voting, raising fears that the US president might use federal powers to meddle in Novembers midter… [+6648 chars]",
       "tags": [
-        "elections_politics",
         "voting_rights",
-        "legal_justice"
+        "elections_politics",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1789566971
     },
@@ -1601,8 +1628,9 @@
       "publishedAt": "2026-09-16T20:53:02Z",
       "content": "United States President Donald Trumps administration has decided to drop Venezuela from its list of major drug transit or production countries, and is considering removing Colombia and Bolivia.\r\nIn V… [+2233 chars]",
       "tags": [
+        "trump",
         "foreign_policy",
-        "venezuela_intervention"
+        "government_administration"
       ],
       "publishedAtTs": 1789591982
     },
@@ -1619,8 +1647,10 @@
       "publishedAt": "2026-09-16T20:05:51Z",
       "content": "Efforts are underway to organise a meaningful meeting between United States President Donald Trump and Ukrainian President Volodymyr Zelenskyy during the United Nations General Assembly next week.\r\nU… [+1909 chars]",
       "tags": [
+        "ukraine",
         "foreign_policy",
-        "ukraine"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1789589151
     },
@@ -1637,11 +1667,11 @@
       "publishedAt": "2026-09-16T14:53:51Z",
       "content": "The United States war on Iran has cost the country $38bn so far, the Congressional Budget Office (CBO) said this week, adding that an estimated $3bn will be added every month if the conflict continue… [+7735 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "middle_east",
         "iran",
-        "economy_finance",
-        "trade",
-        "energy"
+        "national_security",
+        "military"
       ],
       "publishedAtTs": 1789570431
     },
@@ -1658,9 +1688,11 @@
       "publishedAt": "2026-09-16T19:45:30Z",
       "content": "Republican Senator Bill Cassidy has blamed the Trump administrations vaccination policies for an uptick in measles deaths in the United States, where the preventable disease had previously been all b… [+2573 chars]",
       "tags": [
-        "social_issues",
         "public_health",
-        "elections_politics"
+        "public_health_emergency",
+        "healthcare",
+        "congress",
+        "health"
       ],
       "publishedAtTs": 1789587930
     },
@@ -1677,8 +1709,10 @@
       "publishedAt": "2026-09-16T15:23:51Z",
       "content": "Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trumps war on Iran, saying fuel prices are way too high. Greene left Congress in January after splitting with Trump … [+72 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "us_iran_war",
+        "middle_east",
+        "iran",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789572231
     },
@@ -1695,9 +1729,9 @@
       "publishedAt": "2026-09-16T23:03:37Z",
       "content": "For the first time in more than three years, the United States Federal Reserve has raised interest rates amid mounting inflationary pressures and consumer frustration.\r\nThe unanimous decision on Wedn… [+3959 chars]",
       "tags": [
-        "economy_finance",
+        "banking",
         "inflation",
-        "banking"
+        "economy_finance"
       ],
       "publishedAtTs": 1789599817
     },
@@ -1714,9 +1748,11 @@
       "publishedAt": "2026-09-16T05:36:53Z",
       "content": "For a third time, the US House has voted to end the war in Iran, approving a war powers resolution that would halt President Donald Trumps ability to continue military action without congressional ap… [+3368 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "congress"
+        "us_iran_war",
+        "congress",
+        "middle_east",
+        "national_security",
+        "iran"
       ],
       "publishedAtTs": 1789537013
     },
@@ -1733,9 +1769,11 @@
       "publishedAt": "2026-09-16T00:38:12Z",
       "content": "The US war on Iran is worsening inflation and straining the countrys munitions stockpiles, a report from the nonpartisan Congressional Budget Office (CBO) has found.\r\nThe report, released on Tuesday,… [+2711 chars]",
       "tags": [
-        "foreign_policy",
-        "inflation",
-        "economy_finance"
+        "us_iran_war",
+        "middle_east",
+        "national_security",
+        "iran",
+        "military"
       ],
       "publishedAtTs": 1789519092
     },
@@ -1752,6 +1790,8 @@
       "publishedAt": "2026-09-16T13:09:51Z",
       "content": "Chinese Foreign Minister Wang Yi has told his Iranian counterpart, Abbas Araghchi, that Beijing is willing to strengthen dialogue and cooperation with Iran, and safeguard Irans legitimate rights and … [+1396 chars]",
       "tags": [
+        "middle_east",
+        "statements",
         "china",
         "iran",
         "foreign_policy"
@@ -1771,10 +1811,11 @@
       "publishedAt": "2026-09-16T12:09:45Z",
       "content": "United States President Donald Trumps administration is preparing to sell 60,000 highly destructive, 2,000-pound (907kg) bombs to Israel in a multibillion-dollar package which will be funded by Ameri… [+9520 chars]",
       "tags": [
-        "foreign_policy",
         "israel",
-        "gaza",
-        "military"
+        "middle_east",
+        "national_security",
+        "military",
+        "foreign_policy"
       ],
       "publishedAtTs": 1789560585
     },
@@ -1791,8 +1832,7 @@
       "publishedAt": "2026-09-16T23:26:27Z",
       "content": "Israel and Morocco have agreed to upgrade their diplomatic ties, including elevating their respective missions to embassies and appointing ambassadors to both countries.\r\nA meeting between the two co… [+1238 chars]",
       "tags": [
-        "foreign_policy",
-        "israel"
+        "off_topic"
       ],
       "publishedAtTs": 1789601187
     },
@@ -1809,8 +1849,7 @@
       "publishedAt": "2026-09-16T05:31:34Z",
       "content": "A court in Seoul has ordered Pyongyang to pay roughly $32.5m for blowing up an office in North Korea in 2020 that was intended to foster better relations between the two neighbours.\r\nThe court has ru… [+1747 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1789536694
     }

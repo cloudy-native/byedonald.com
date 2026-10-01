@@ -15,9 +15,11 @@
       "publishedAt": "2026-02-21T00:10:01Z",
       "content": "It has never been more expensive to buy a new car. The average transaction price last month for buyers in the United States was $48,576, up nearly a third from 2019, according to Edmunds. The afforda… [+2231 chars]",
       "tags": [
+        "prices",
         "tariff_impact_economy",
-        "economy_finance",
-        "automotive"
+        "automotive",
+        "trade",
+        "economy_finance"
       ],
       "publishedAtTs": 1771632601
     },
@@ -35,6 +37,9 @@
       "content": "Available for over a year\r\nToday, Laura and Paddy are joined by Gary O'Donoghue, Chief North America correspondent to discuss the US Supreme Courts ruling to block President Donald Trumps global tari… [+1477 chars]",
       "tags": [
         "trade",
+        "supreme_court",
+        "trump",
+        "economy_finance",
         "legal_justice"
       ],
       "publishedAtTs": 1771690200
@@ -53,7 +58,10 @@
       "content": "US President Donald Trump has said that he will impose global tariffs of 15%, as he continued to rail against a Supreme Court ruling that struck down his previous import taxes.",
       "tags": [
         "trade",
-        "tariff_impact_economy"
+        "taxes",
+        "trump",
+        "economy_finance",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771690415
     },
@@ -70,8 +78,10 @@
       "publishedAt": "2026-02-21T17:25:35Z",
       "content": "Days after Siebert's exit, Trump appointed Lindsey Halligan, a White House aide and the president's former personal attorney, to the position. Halligan quickly secured grand jury indictments against … [+31 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "personnel",
+        "trump",
+        "legal_justice",
+        "government_administration"
       ],
       "publishedAtTs": 1771694735
     },
@@ -89,7 +99,10 @@
       "content": "President Trump on Saturday said he plans to raise global tariffs from 10% to 15%.\r\n\"...I, as President of the United States of America, will be, effective immediately, raising the 10% Worldwide Tari… [+1685 chars]",
       "tags": [
         "trade",
-        "liberation_day_tariffs"
+        "statements",
+        "trump",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771700222
     },
@@ -106,9 +119,11 @@
       "publishedAt": "2026-02-21T11:00:00Z",
       "content": "President Trump says he hasn't decided whether he'll launch a military strike on Iran. But he now has a wide range of options.\r\nAn American military buildup over the past month means the U.S. now has… [+5627 chars]",
       "tags": [
+        "national_security",
+        "middle_east",
         "iran",
-        "foreign_policy",
-        "security_intelligence"
+        "military",
+        "us_iran_war"
       ],
       "publishedAtTs": 1771671600
     },
@@ -125,8 +140,9 @@
       "publishedAt": "2026-02-21T19:27:56Z",
       "content": "A group of Vietnam War veterans and a retired architectural historian have filed a federal lawsuit seeking to block construction of a proposed monument near Arlington National Cemetery.\r\nThe lawsuit,… [+2534 chars]",
       "tags": [
-        "legal_justice",
-        "social_issues"
+        "lawsuits",
+        "civil_litigation",
+        "legal_justice"
       ],
       "publishedAtTs": 1771702076
     },
@@ -143,8 +159,11 @@
       "publishedAt": "2026-02-21T13:44:31Z",
       "content": "A U.S. appeals court has cleared the way for a Louisiana law requiring poster-sized displays of the Ten Commandments in public school classrooms to take effect.\r\nThe 5th U.S. Circuit Court of Appeals… [+4068 chars]",
       "tags": [
-        "civil_rights",
-        "education"
+        "religious_freedom",
+        "education",
+        "federal_courts",
+        "legal_justice",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771681471
     },
@@ -161,9 +180,7 @@
       "publishedAt": "2026-02-21T21:43:00Z",
       "content": "Over 240,000 Americans volunteered for Peace Corps projects in 142 countries since the program began more than half a century ago.But now the agency is launching a new initiative — called Tech Corps.… [+1346 chars]",
       "tags": [
-        "ai_state_preemption",
-        "social_issues",
-        "technology_regulation"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1771710180
     },
@@ -180,8 +197,8 @@
       "publishedAt": "2026-02-21T17:02:31Z",
       "content": "The House rejected a spending package that would end the partial government shutdown, despite pressure from President Donald Trump.AP Photo/Evan Vucci\r\n<ul><li>Trump says he will impose a 15% 'worldw… [+1974 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "tariff_impact_economy",
+        "trade",
+        "trump",
         "economy_finance"
       ],
       "publishedAtTs": 1771693351
@@ -199,8 +216,11 @@
       "publishedAt": "2026-02-21T00:41:18Z",
       "content": "California Gov. Gavin Newsom called on Trump to pay back Americans for tariff costs.K.C. Alfred / The San Diego Union-Tribune via Getty Images\r\n<ul><li>Democrats are calling for Trump to issue Americ… [+3783 chars]",
       "tags": [
-        "tariff_impact_economy",
-        "trade_negotiations_truces"
+        "trade",
+        "democratic_party",
+        "trump",
+        "economy_finance",
+        "leadership"
       ],
       "publishedAtTs": 1771634478
     },
@@ -217,8 +237,9 @@
       "publishedAt": "2026-02-21T10:39:01Z",
       "content": "Stephen B. Morton/AP\r\n<ul><li>The Supreme Court struck down much of Trump's tariffs, but Trump could try to impose levies in other ways.</li><li>COOs, who are responsible for overseeing where compani… [+5617 chars]",
       "tags": [
-        "tariff_impact_economy",
-        "economy_finance"
+        "trade",
+        "economy_finance",
+        "trump"
       ],
       "publishedAtTs": 1771670341
     },
@@ -235,8 +256,7 @@
       "publishedAt": "2026-02-21T06:47:58Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice"
+        "trump"
       ],
       "publishedAtTs": 1771656478
     },
@@ -254,7 +274,10 @@
       "content": "A woman adopted as a toddler by an American war veteran, who he found in the 1970s in an Iranian orphanage and raised as a Christian, is being threatened with deportation to Iran, a country notorious… [+8612 chars]",
       "tags": [
         "immigration",
-        "personal_family"
+        "personal_legal",
+        "social_issues",
+        "legal_justice",
+        "trump"
       ],
       "publishedAtTs": 1771677031
     },
@@ -271,9 +294,7 @@
       "publishedAt": "2026-02-21T06:54:35Z",
       "content": "SALT LAKE CITY (AP) Utahs Supreme Court rejected on Friday an appeal by Republican lawmakers and left in place a congressional map that gives Democrats a high chance of picking up one of the states f… [+2551 chars]",
       "tags": [
-        "elections_politics",
-        "congress",
-        "redistricting"
+        "off_topic"
       ],
       "publishedAtTs": 1771656875
     },
@@ -290,9 +311,10 @@
       "publishedAt": "2026-02-21T06:07:27Z",
       "content": "<ul><li>Trump blasts Supreme Court's decision to strike down most of his tariffs\r\n</li><li>Masked man on Nancy Guthrie's doorstep may have had accomplice, sheriff's office says\r\n</li><li>Looking back… [+4534 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "legal_justice",
-        "economy_finance"
+        "trade",
+        "trump",
+        "economy_finance",
+        "leadership"
       ],
       "publishedAtTs": 1771654047
     },
@@ -308,9 +330,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/44b3db41-dbb7-4561-96f4-333e53eb9d94/260221_gma_ganss_socialmedia2_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-21T15:09:21Z",
       "content": "<ul><li>Trump blasts Supreme Court's decision to strike down most of his tariffs\r\n</li><li>Masked man on Nancy Guthrie's doorstep may have had accomplice, sheriff's office says\r\n</li><li>Looking back… [+4534 chars]",
-      "tags": [
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771686561
     },
     {
@@ -325,9 +345,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/4143ba75-61f9-44c3-8bf2-ce94b52e1e5d/260221_abc_social_zoo_stare_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-21T17:37:40Z",
       "content": "<ul><li>Winter storms head toward Northeast\r\n</li><li>US military moves into position for possible Iran strikes\r\n</li><li>Nancy Guthrie disappearance reaches 3-week mark\r\n</li><li>What Trump tariffs … [+4499 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771695460
     },
     {
@@ -342,10 +360,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/56ace30d-2e53-49a6-a686-821fb6b9f703/260220_abcnl_6p_candy_brad_reese2_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-21T00:29:01Z",
       "content": "<ul><li>Whats next for tariffs after the Supreme Court ruling?\r\n</li><li>Trump outlines new plan for tariffs Supreme Court decision\r\n</li><li>Legal implications of SCOTUS ruling on Trump tariffs\r\n</l… [+4295 chars]",
-      "tags": [
-        "trade",
-        "legal_justice"
-      ],
+      "tags": [],
       "publishedAtTs": 1771633741
     },
     {
@@ -361,8 +376,7 @@
       "publishedAt": "2026-02-21T04:59:00Z",
       "content": "Listen and subscribe:Apple | Spotify | Wherever You Listen\r\nSign upto receive our twice-weekly News &amp; Politics newsletter.\r\nThe Washington Roundtable discusses the upcoming State of the Union add… [+1083 chars]",
       "tags": [
-        "elections_politics",
-        "2024_presidential"
+        "elections_politics"
       ],
       "publishedAtTs": 1771649940
     },
@@ -379,8 +393,8 @@
       "publishedAt": "2026-02-21T19:23:14Z",
       "content": "The current membership of the board is a motley mix. It includes prominent countries already invested in bringing stability to GazaTurkey, Egypt, Jordan, the Gulf monarchies. The White House has also… [+4831 chars]",
       "tags": [
-        "foreign_policy",
-        "international_organizations"
+        "international_organizations",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771701794
     },
@@ -397,8 +411,7 @@
       "publishedAt": "2026-02-21T18:44:32Z",
       "content": "Editor’s Note: Washington Week With The Atlantic is a partnership between NewsHour Productions, WETA, and The Atlantic airing every Friday on PBS stations nationwide. Check your local listings, watch… [+1047 chars]",
       "tags": [
-        "elections_politics",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1771699472
     },
@@ -415,9 +428,11 @@
       "publishedAt": "2026-02-21T00:49:09Z",
       "content": "At the same time, Trump heaped praise on the three members of the court, Justices Clarence Thomas, Samuel Alito, and Brett Kavanaugh, who voted to keep his tariffs authority intact.",
       "tags": [
-        "legal_justice",
+        "supreme_court",
+        "trade",
+        "trump",
         "economy_finance",
-        "tariff_impact_economy"
+        "legal_justice"
       ],
       "publishedAtTs": 1771634949
     },
@@ -451,9 +466,11 @@
       "publishedAt": "2026-02-21T12:21:23Z",
       "content": "The Supreme Court yesterday struck down Trump’s IEEPA tariffs, holding that the statute’s authorization to “regulate… importation” doesn’t include the power to impose tariffs. The majority’s stronges… [+3963 chars]",
       "tags": [
-        "legal_justice",
+        "supreme_court",
         "trade",
-        "tariff_impact_economy"
+        "legal_justice",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1771676483
     },
@@ -470,8 +487,10 @@
       "publishedAt": "2026-02-21T18:47:37Z",
       "content": "Yesterday, the U.S. Supreme Court struck down President Trump’s global tariffs he instituted last year based on the 1977 International Emergency Economic Powers Act (IEEPA). Hours later, the presiden… [+4313 chars]",
       "tags": [
-        "tariff_impact_economy",
-        "trade_negotiations_truces",
+        "trade",
+        "trump",
+        "economy_finance",
+        "policy_legislation",
         "legal_justice"
       ],
       "publishedAtTs": 1771699657
@@ -489,7 +508,8 @@
       "publishedAt": "2026-02-21T03:39:00Z",
       "content": "from the history-in-the-unmaking dept\r\nThe Trump administration’s project for erasing the parts of American history they find inconvenient continues unabated. But that doesn’t mean it doesn’t hit the… [+5014 chars]",
       "tags": [
-        "social_issues"
+        "legal_justice",
+        "trump"
       ],
       "publishedAtTs": 1771645140
     },
@@ -506,7 +526,7 @@
       "publishedAt": "2026-02-21T14:00:23Z",
       "content": "Nancy left in an Uber at 5:32 PM to have dinner at her daughter Annie's house in Tucson, Arizona.\r\nAt 9:48 PM, Nancy's son-in-law, Tommaso Cioni, dropped her back off at her home. Tommaso, Annie's hu… [+5983 chars]",
       "tags": [
-        "law_enforcement"
+        "off_topic"
       ],
       "publishedAtTs": 1771682423
     },
@@ -523,9 +543,9 @@
       "publishedAt": "2026-02-21T11:54:58Z",
       "content": "Tehran, Iran The Iranian government has again blamed terrorists for the killings of thousands during last months nationwide protests after United States President Donald Trump and human rights expert… [+5204 chars]",
       "tags": [
-        "iran",
-        "foreign_policy",
-        "protests"
+        "middle_east",
+        "protests",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771674898
     },
@@ -542,8 +562,10 @@
       "publishedAt": "2026-02-21T02:46:25Z",
       "content": "United States President Donald Trump and his vice president, JD Vance, have launched personal attacks on the justices of the US Supreme Court and their families, after the countrys top court struck d… [+2016 chars]",
       "tags": [
+        "supreme_court",
+        "trump",
         "legal_justice",
-        "government_administration"
+        "leadership"
       ],
       "publishedAtTs": 1771641985
     },
@@ -561,7 +583,9 @@
       "content": "Donald Trump will travel to China from March 31 to April 2, the White House has said, in what will be the first official visit to Beijing by a United States president since Trumps last trip there in … [+2162 chars]",
       "tags": [
         "china",
-        "foreign_policy"
+        "trump",
+        "foreign_policy",
+        "leadership"
       ],
       "publishedAtTs": 1771658303
     },
@@ -578,8 +602,7 @@
       "publishedAt": "2026-02-21T04:22:42Z",
       "content": "Brazilian President Luiz Inacio Lula da Silva has said that Venezuelan President Nicolas Maduro should face trial, but that it should take place in a Venezuelan court, rather than in the United State… [+1857 chars]",
       "tags": [
-        "foreign_policy",
-        "venezuela_intervention"
+        "off_topic"
       ],
       "publishedAtTs": 1771647762
     },
@@ -597,8 +620,9 @@
       "content": "President Donald Trump has imposed a new 10 percent worldwide tariff after the United States Supreme Court struck down his previous trade measures, triggering immediate concern and responses from gov… [+8252 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy",
-        "legal_justice",
+        "supreme_court",
+        "trump",
+        "economy_finance",
         "foreign_policy"
       ],
       "publishedAtTs": 1771666850
@@ -616,8 +640,8 @@
       "publishedAt": "2026-02-21T09:51:57Z",
       "content": "Venezuelan authorities have granted amnesty to 379 political prisoners, according to a lawmaker, after a new law was enacted by interim authorities following the United States abduction of President … [+2673 chars]",
       "tags": [
-        "venezuela_intervention",
-        "immigration"
+        "legal_justice",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771667517
     },
@@ -634,8 +658,10 @@
       "publishedAt": "2026-02-21T01:04:15Z",
       "content": "The US military said it attacked a boat in the eastern Pacific, killing three people, in the latest strike on a vessel in international waters that Washington alleges was involved in drug trafficking… [+948 chars]",
       "tags": [
+        "national_security",
+        "security_incidents",
+        "statements",
         "security_intelligence",
-        "military",
         "foreign_policy"
       ],
       "publishedAtTs": 1771635855
@@ -653,9 +679,7 @@
       "publishedAt": "2026-02-21T17:27:11Z",
       "content": "Israeli air strikes killed at least two Palestinians in Gaza on the third day of Ramadan in the latest breach of the truce deal signed with Hamas more than four months ago.\r\nThe attacks on Saturday o… [+2971 chars]",
       "tags": [
-        "gaza",
-        "israel",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1771694831
     },
@@ -672,8 +696,7 @@
       "publishedAt": "2026-02-21T03:38:23Z",
       "content": "Gunmen killed at least 50 people and abducted women and children in an overnight assault on a village in northwestern Nigerias Zamfara State, authorities and residents said.\r\nThe attack started late … [+2279 chars]",
       "tags": [
-        "security_incidents",
-        "terrorism"
+        "off_topic"
       ],
       "publishedAtTs": 1771645103
     },
@@ -690,9 +713,9 @@
       "publishedAt": "2026-02-21T21:31:19Z",
       "content": "United States Ambassador to Israel Mike Huckabee has triggered an avalanche of criticism from Arab and Muslim countries after suggesting Israel has a right to expand its territory across a large swat… [+3033 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
         "israel",
-        "middle_east"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771709479
     },
@@ -710,7 +733,9 @@
       "content": "President Donald Trump on Saturday said he would increase global tariffs to 15% from 10%, one day after the Supreme Court struck down his \"reciprocal\" tariffs. \r\nThe new tariffs will be \"effective im… [+1461 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy"
+        "trump",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771691676
     },
@@ -727,9 +752,9 @@
       "publishedAt": "2026-02-21T15:31:37Z",
       "content": "Donald Trump on Friday attacked the Supreme Court majority that ruled against him in a landmark decision on tariffs with a venom and ferocity he has never directed against Americas foreign enemies. H… [+7460 chars]",
       "tags": [
-        "legal_justice",
-        "trade_negotiations_truces",
-        "tariff_impact_economy"
+        "supreme_court",
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1771687897
     },
@@ -747,7 +772,8 @@
       "content": "Cantor Fitzgerald is rejecting claims that it sold a product that would pay off if the Supreme Court ruled, as it did Friday, against tariffs imposed by the Trump administration, where Cantors founde… [+1641 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy"
+        "economy_finance",
+        "legal_justice"
       ],
       "publishedAtTs": 1771674936
     },
@@ -764,9 +790,9 @@
       "publishedAt": "2026-02-21T16:34:36Z",
       "content": "TEL AVIV, Israel (AP) Arab and Muslim nations on Saturday sharply condemned comments by the U.S. ambassador to Israel, Mike Huckabee, who said Israel has a right to much of the Middle East.\r\nHuckabee… [+3697 chars]",
       "tags": [
-        "foreign_policy",
         "israel",
-        "middle_east"
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771691676
     },
@@ -783,8 +809,7 @@
       "publishedAt": "2026-02-21T23:52:14Z",
       "content": "Donald Trump called on Netflix to fire one of its board members, Susan Rice, the former U.S. ambassador to the United Nations and national security adviser, following comments she made about accounta… [+3764 chars]",
       "tags": [
-        "trump",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771717934
     },
@@ -801,8 +826,7 @@
       "publishedAt": "2026-02-21T17:24:57Z",
       "content": "Following a public Valentine’s Day breakup with his former pal Donald Trump, Bill Maher has shared his reaction to the president’s recent rant.\r\nOn Friday’s episode of Real Time, the comedian joked h… [+1532 chars]",
       "tags": [
-        "media_communications",
-        "personal_activities"
+        "trump"
       ],
       "publishedAtTs": 1771694697
     },
@@ -819,8 +843,10 @@
       "publishedAt": "2026-02-21T11:30:00Z",
       "content": "The Trump administration is using an irregular legal tactic in an attempt to suppress court info, including regarding the presidents relationship with convicted sex offender Jeffrey Epstein. In multi… [+5467 chars]",
       "tags": [
+        "civil_litigation",
+        "lawsuits",
         "legal_justice",
-        "criminal_cases"
+        "trump"
       ],
       "publishedAtTs": 1771673400
     },
@@ -837,9 +863,9 @@
       "publishedAt": "2026-02-21T19:41:37Z",
       "content": "After the Donald Trump administration suffered a major legal rebuke this week from the Supreme Court of the United States which struck down the legal basis for his sweeping global tariff program Trum… [+1834 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "tariff_impact_economy",
-        "legal_justice"
+        "trade",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1771702897
     },
@@ -856,10 +882,9 @@
       "publishedAt": "2026-02-21T11:45:56Z",
       "content": "The mainstream media and political class were blindsided by Donald Trumps victory in the 2024 presidential election. They were so fixated on stereotypes and caricatures about the MAGA movement and Tr… [+7540 chars]",
       "tags": [
-        "elections_politics",
         "2024_presidential",
-        "polling",
-        "social_issues"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771674356
     },
@@ -876,9 +901,8 @@
       "publishedAt": "2026-02-21T14:00:11Z",
       "content": "The American people have grown used to reading about Supreme Court cases decided by a 6-3 vote. In almost all of those rulings, the courts six conservatives are arrayed on one side, with its three li… [+6901 chars]",
       "tags": [
-        "legal_justice",
-        "trade",
-        "policy_legislation"
+        "supreme_court",
+        "legal_justice"
       ],
       "publishedAtTs": 1771682411
     },
@@ -895,8 +919,7 @@
       "publishedAt": "2026-02-21T11:00:07Z",
       "content": "Republican U.S. Rep. Tony Gonzales of San Antonio on Thursday claimed he was being blackmailed by the husband of a former staffer who died by suicide. Earlier this week, the San Antonio Express-News … [+5955 chars]",
       "tags": [
-        "legal_justice",
-        "personnel"
+        "off_topic"
       ],
       "publishedAtTs": 1771671607
     },
@@ -930,9 +953,11 @@
       "publishedAt": "2026-02-21T01:00:40Z",
       "content": "Less than a year after the United States and Israeli military forces attacked Iranian nuclear facilities in June 2025, the odds of another strike or even a bigger attack on Iran are growing.The BBC h… [+6716 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "military"
+        "national_security",
+        "middle_east",
+        "us_iran_war",
+        "military",
+        "iran"
       ],
       "publishedAtTs": 1771635640
     },
@@ -949,8 +974,9 @@
       "publishedAt": "2026-02-21T08:05:15Z",
       "content": "Leader of Opposition in Lok Sabha Rahul Gandhi on Saturday made a jibe at Prime Minister Narendra Modi again over the trade deal between India and the United States, saying the latter would “surrende… [+2950 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "policy_legislation"
+        "trade",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771661115
     },
@@ -967,9 +993,9 @@
       "publishedAt": "2026-02-21T23:50:45Z",
       "content": "Students at several universities across Iran have staged anti-government protests, marking the first demonstrations on this scale since last months deadly crackdown, according to the BBC.Hundreds of … [+2710 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "protests"
+        "protests",
+        "middle_east",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771717845
     },
@@ -986,7 +1012,6 @@
       "publishedAt": "2026-02-21T11:00:00Z",
       "content": "Bombs over Latin America: Its giving Wag the Dog, if you ask me. The administration, seemingly hot to bring back neoconservative military conquest, soft-launched its latest regime change war in Venez… [+2463 chars]",
       "tags": [
-        "foreign_policy",
         "trump"
       ],
       "publishedAtTs": 1771671600
@@ -1004,8 +1029,7 @@
       "publishedAt": "2026-02-21T14:00:00Z",
       "content": "This story was originally published by Floodlight, a nonprofit newsroom that investigates the powers stalling climate action, and produced in partnership with The Guardian.\r\nElon Musks artificial int… [+8919 chars]",
       "tags": [
-        "environment",
-        "technology_regulation"
+        "environment"
       ],
       "publishedAtTs": 1771682400
     },
@@ -1023,9 +1047,8 @@
       "content": "Based on the visibly simmering anger that U.S. President Donald Trump barely managed to suppress throughout his news conference on the Supreme Court's tariff decision, it's a fair bet that Friday was… [+6041 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy",
-        "legal_justice",
-        "supreme_court"
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1771664400
     },
@@ -1042,8 +1065,9 @@
       "publishedAt": "2026-02-21T09:00:00Z",
       "content": "U.S. Democrats are probing the relationship between President Donald Trump and the owner of the Ambassador Bridge linking Detroit and Windsor, Ont., after the president threatened to block the openin… [+4909 chars]",
       "tags": [
-        "foreign_policy",
-        "trade"
+        "canada",
+        "ethics",
+        "trump"
       ],
       "publishedAtTs": 1771664400
     },
@@ -1060,9 +1084,7 @@
       "publishedAt": "2026-02-21T14:00:00Z",
       "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nSince the fall of abortion rights, no abortion provider has been convicte… [+7129 chars]",
       "tags": [
-        "abortion",
-        "legal_justice",
-        "criminal_cases"
+        "off_topic"
       ],
       "publishedAtTs": 1771682400
     },
@@ -1079,8 +1101,9 @@
       "publishedAt": "2026-02-21T13:00:00Z",
       "content": "A high school in Virginia suspended over 300 students for walking out of class for an anti-Immigration and Customs Enforcement protest, and many on social media have applauded the action.\r\nOn Februar… [+2260 chars]",
       "tags": [
-        "social_issues",
-        "education"
+        "protests",
+        "ice_controversies_resistance",
+        "social_issues"
       ],
       "publishedAtTs": 1771678800
     },
@@ -1097,8 +1120,7 @@
       "publishedAt": "2026-02-21T20:48:32Z",
       "content": "Pexels\r\nIf you’re in any of the continents experiencing a particularly harsh winter right now, you’ll likely be crossing your fingers and hoping that the cold spell will be over soon.\r\nAnd with tempe… [+2553 chars]",
       "tags": [
-        "climate_policy",
-        "environment"
+        "off_topic"
       ],
       "publishedAtTs": 1771706912
     },
@@ -1116,8 +1138,8 @@
       "content": "The price of bitcoin BTC\r\n$68,415.92 fell slightly on Saturday after U.S. President Donald Trump announced an additional increase to global tariffs, despite a U.S. Supreme Court decision that invalid… [+1016 chars]",
       "tags": [
         "trade",
-        "economy_finance",
-        "cryptocurrency"
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1771692180
     },
@@ -1134,8 +1156,7 @@
       "publishedAt": "2026-02-21T18:34:40Z",
       "content": "The Kennedy Center’s outdoor ice rink was the target of what officials described as a “calculated, malicious attack.”\r\nThe alleged incident took place early Friday morning (February 20th) when a “tox… [+1694 chars]",
       "tags": [
-        "security_intelligence",
-        "legal_justice"
+        "security_incidents"
       ],
       "publishedAtTs": 1771698880
     },
@@ -1152,8 +1173,7 @@
       "publishedAt": "2026-02-21T15:39:33Z",
       "content": "Snowflake Inc. (NYSE:SNOW) is among the 10 Best Consensus Buy-Rated Stocks to Invest in. On February 11, 2026, Goldman Sachs lowered its price target on Snowflake Inc. (NYSE:SNOW) to $246 from $286 p… [+1910 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771688373
     },
@@ -1170,8 +1190,7 @@
       "publishedAt": "2026-02-21T14:12:06Z",
       "content": "Welltower Inc. (NYSE:WELL) is included among the 14 Best Real Estate Stocks to Buy According to Hedge Funds.\r\nMorgan Stanley Raises Welltower (WELL) Price Target on Strong Growth Outlook\r\nOn February… [+2538 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771683126
     },
@@ -1188,8 +1207,7 @@
       "publishedAt": "2026-02-21T16:14:25Z",
       "content": "We recently published 10 Stocks Outrunning the Market; 3 on a High. First Majestic Silver Corp. (NYSE:AG) was one of the best performers on Friday.\r\nFirst Majestic rallied for a third consecutive day… [+2117 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771690465
     },
@@ -1206,8 +1224,7 @@
       "publishedAt": "2026-02-21T16:12:52Z",
       "content": "We recently published 10 Stocks Outrunning the Market; 3 on a High. B2Gold Corp. (NYSEAmerican:BTG) was one of the best performers on Friday.\r\nB2Gold jumped by 5.27 percent on Friday to close at $5.3… [+1928 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771690372
     },
@@ -1224,8 +1241,7 @@
       "publishedAt": "2026-02-21T15:39:23Z",
       "content": "AECOM (NYSE:ACM) is among the 10 Best Consensus Buy-Rated Stocks to Invest in. On February 11, 2026, Truist analyst Jamie Cook increased the firms price target on AECOM (NYSE:ACM) to $132 from $126 a… [+2030 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771688363
     },
@@ -1242,8 +1258,7 @@
       "publishedAt": "2026-02-21T15:39:50Z",
       "content": "Autodesk, Inc. (NASDAQ:ADSK) is among the 10 Best Consensus Buy-Rated Stocks to Invest in. On February 11, 2026, RBC Capital analyst Matthew Hedberg lowered the firms price target on Autodesk, Inc. (… [+2224 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771688390
     },
@@ -1260,7 +1275,7 @@
       "publishedAt": "2026-02-21T13:43:19Z",
       "content": "Cushman &amp; Wakefield Limited (NYSE:CWK) is included among the 14 Best Real Estate Stocks to Buy According to Hedge Funds.\r\nCushman &amp; Wakefield (CWK) Delivers Record Revenue as Commercial Real … [+2408 chars]",
       "tags": [
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1771681399
     },
@@ -1277,8 +1292,7 @@
       "publishedAt": "2026-02-21T13:58:39Z",
       "content": "Mid-America Apartment Communities, Inc. (NYSE:MAA) is included among the 14 Best Real Estate Stocks to Buy According to Hedge Funds.\r\nCiti Trims Mid-America Apartment Communities (MAA) Target Amid Mu… [+2683 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771682319
     },
@@ -1295,8 +1309,7 @@
       "publishedAt": "2026-02-21T13:56:07Z",
       "content": "Extra Space Storage Inc. (NYSE:EXR) is included among the 14 Best Real Estate Stocks to Buy According to Hedge Funds.\r\nExtra Space Storage (EXR) Price Target Cut as Wells Fargo Flags Sector Caution\r\n… [+2679 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771682167
     },
@@ -1313,8 +1326,7 @@
       "publishedAt": "2026-02-21T16:13:03Z",
       "content": "We recently published 10 Stocks Outrunning the Market; 3 on a High. Pinterest Inc. (NYSE:PINS) was one of the best performers on Friday.\r\nPinterest saw its share prices jump by 5.96 percent on Friday… [+1914 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1771690383
     },
@@ -1331,8 +1343,9 @@
       "publishedAt": "2026-02-21T22:31:09Z",
       "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nMinneapolis Fed President Neel Kashkari on Thursday attacked crypto and stablecoins, saying propo… [+12206 chars]",
       "tags": [
-        "economy_finance",
-        "cryptocurrency"
+        "cryptocurrency",
+        "banking",
+        "economy_finance"
       ],
       "publishedAtTs": 1771713069
     },
@@ -1349,8 +1362,8 @@
       "publishedAt": "2026-02-21T00:06:00Z",
       "content": "Claim:\r\nIn January 1999, Civil Rights leader Jesse Jackson praised Donald Trump, saying the future U.S. president embraced the \"underserved communities.\"\r\nIn 1999, as future U.S. President Donald Tru… [+5095 chars]",
       "tags": [
-        "trump",
-        "social_issues"
+        "fact_checking",
+        "trump"
       ],
       "publishedAtTs": 1771632360
     },
@@ -1368,7 +1381,7 @@
       "content": "from The Guardian reports that union membership in the United States climbed by about 500,000, bringing the total to 16.5 million people. That is the highest it's been since 2009.\r\nThe increase is du… [+699 chars]",
       "tags": [
         "labor",
-        "economy_finance"
+        "trump"
       ],
       "publishedAtTs": 1771700955
     },
@@ -1385,8 +1398,7 @@
       "publishedAt": "2026-02-21T02:17:13Z",
       "content": "An interesting Democratic primary in Illinois next month, pitting current Lt. Governor Juliana Stratton against Reps. Raja Krishnamoorthi and Robin Kelly. Krishnamoorthi had been expected to win comf… [+1280 chars]",
       "tags": [
-        "elections_politics",
-        "2024_presidential"
+        "off_topic"
       ],
       "publishedAtTs": 1771640233
     },
@@ -1403,9 +1415,11 @@
       "publishedAt": "2026-02-21T19:08:50Z",
       "content": "Maybe for the first time, Fox News host Rachel Campos-Duffy spoke out against an action Trump may take in any way.Fox and Friends opened their program by discussing the possibility that Trump will ca… [+2668 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
+        "national_security",
+        "us_iran_war",
         "iran",
-        "middle_east"
+        "foreign_policy"
       ],
       "publishedAtTs": 1771700930
     },
@@ -1422,8 +1436,7 @@
       "publishedAt": "2026-02-21T04:00:01Z",
       "content": "During a speech in Rome, Georgia, on Thursday, Trump's new orange dye job was so caustic that it reflected light in a way that made his face look like a weird mirror.\r\nBright, shiny face, Trump.\r\nThi… [+30 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1771646401
     },
@@ -1440,9 +1453,11 @@
       "publishedAt": "2026-02-21T13:59:01Z",
       "content": "Donald Trump is having an extra bad Friday. First, the Supreme Court struck down Trump's tariffs. Then came horrible economic news. Now we hear that Mitch McConnell is intentionally blocking the SAVE… [+1857 chars]",
       "tags": [
-        "policy_legislation",
+        "congress",
         "republican_party",
-        "trade"
+        "policy_legislation",
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771682341
     },
@@ -1459,9 +1474,7 @@
       "publishedAt": "2026-02-21T14:38:00Z",
       "content": "On Thursday, Wisconsin Speaker of the Assembly Robin Vos announced that he would not be running for reelection. \r\nVos claimed that he had had a heart attack in November, which prompted him to decide … [+1431 chars]",
       "tags": [
-        "personnel",
-        "elections_politics",
-        "state_elections"
+        "off_topic"
       ],
       "publishedAtTs": 1771684680
     },
@@ -1478,10 +1491,11 @@
       "publishedAt": "2026-02-21T13:58:43Z",
       "content": "Fox's Shannon Bream discusses what Republicans are telling them behind closed doors on these illegal Trump tariffs. They all know they're a tax on Americans and inflation and the economy is going to … [+2144 chars]",
       "tags": [
-        "tariff_impact_economy",
-        "trade_negotiations_truces",
+        "trade",
+        "republican_party",
         "economy_finance",
-        "inflation"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1771682323
     },
@@ -1498,8 +1512,11 @@
       "publishedAt": "2026-02-21T13:59:16Z",
       "content": "Trump's anti-vaccine, anti-scientific research HHS Secretary spends more time doing push-ups, wearing jeans in ice-baths, and making videos with washed up rock singers than keeping the country health… [+1025 chars]",
       "tags": [
-        "social_issues",
-        "health_science"
+        "cabinet",
+        "public_health",
+        "health_science",
+        "government_administration",
+        "leadership"
       ],
       "publishedAtTs": 1771682356
     },
@@ -1517,6 +1534,9 @@
       "content": "Support CleanTechnica's work through a Substack subscription or on Stripe. \r\nOr support our Kickstarter campaign!\r\nWASHINGTON, D.C. The Department of the Interior announced today it would revoke two … [+2387 chars]",
       "tags": [
         "environment",
+        "statements",
+        "cabinet",
+        "federal_agencies",
         "policy_legislation"
       ],
       "publishedAtTs": 1771640196
@@ -1534,8 +1554,7 @@
       "publishedAt": "2026-02-21T14:52:15Z",
       "content": "Support CleanTechnica's work through a Substack subscription or on Stripe. \r\nOr support our Kickstarter campaign!\r\nAn EV startup that centers on early adopters and ethical consumerism sure sounds lik… [+8889 chars]",
       "tags": [
-        "energy",
-        "automotive"
+        "off_topic"
       ],
       "publishedAtTs": 1771685535
     },
@@ -1552,9 +1571,9 @@
       "publishedAt": "2026-02-21T10:00:27Z",
       "content": "This week, theres been a lot of attention focused on the U.S. Supreme Court, thanks to its stunning decision blowing up the rationale for Donald Trumps tariff agenda. In his bitter remarks about the … [+7388 chars]",
       "tags": [
-        "legal_justice",
+        "supreme_court",
         "elections_politics",
-        "2026_midterms"
+        "legal_justice"
       ],
       "publishedAtTs": 1771668027
     },
@@ -1571,8 +1590,7 @@
       "publishedAt": "2026-02-21T12:00:00Z",
       "content": "After buying Twitter, Elon Musk rebuilt it to his own specifications and preferences. This resulted in an environment we may gently call friendlier to the discussion and promotion of right-wing polit… [+5982 chars]",
       "tags": [
-        "social_media",
-        "media_communications"
+        "social_media"
       ],
       "publishedAtTs": 1771675200
     },

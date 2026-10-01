@@ -17,7 +17,9 @@
       "tags": [
         "energy",
         "environment",
-        "economy_finance"
+        "automotive",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790620790
     },
@@ -34,9 +36,10 @@
       "publishedAt": "2026-09-28T18:25:12Z",
       "content": "The U.S. government will ramp up its use of AI tools to automate redactions in Freedom of Information Act (FOIA) requests, according to an investigation by The Washington Post.\r\nFOIA requests allow m… [+4615 chars]",
       "tags": [
-        "ai_state_preemption",
-        "media_communications",
-        "technology_regulation"
+        "government_operations",
+        "artificial_intelligence",
+        "government_administration",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790619912
     },
@@ -53,8 +56,7 @@
       "publishedAt": "2026-09-28T19:35:27Z",
       "content": "Florida Attorney General James Uthmeier has asked a court in his state to order OpenAI to pause development of new AI models without proper guardrails, given the “existential risks their product pose… [+4722 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1790624127
     },
@@ -71,9 +73,8 @@
       "publishedAt": "2026-09-28T12:15:05Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+4527 chars]",
       "tags": [
-        "foreign_policy",
-        "terrorism",
-        "media_communications"
+        "us_iran_war",
+        "national_security"
       ],
       "publishedAtTs": 1790597705
     },
@@ -90,9 +91,9 @@
       "publishedAt": "2026-09-28T11:41:48Z",
       "content": "President Trump has spent much of his second term trying to make his physical mark on D.C., earning or perhaps awarding himself the moniker of \"builder-in-chief.\"\r\n\"The best thing I do in life is bui… [+13206 chars]",
       "tags": [
-        "government_administration",
-        "personal_family",
-        "regional_state"
+        "washington_dc",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1790595708
     },
@@ -109,11 +110,10 @@
       "publishedAt": "2026-09-28T08:44:29Z",
       "content": "President Trump has rejected Iran's latest proposal to end the war, five men were arrested near a U.K. air base for an alleged terror plot, Trump's fight with the press leaves his events uncovered.",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "terrorism",
-        "legal_justice",
-        "media_communications"
+        "us_iran_war",
+        "national_security",
+        "trump",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790585069
     },
@@ -131,8 +131,7 @@
       "content": "TWIN FALLS, Idaho The floor-to-ceiling windows in Rick Naerebout's office afford a sweeping view of the stunning 500-foot-deep, quarter-mile-wide Snake River Canyon. Squint and you can still see what… [+6440 chars]",
       "tags": [
         "immigration",
-        "labor",
-        "agriculture"
+        "trump"
       ],
       "publishedAtTs": 1790612850
     },
@@ -149,8 +148,7 @@
       "publishedAt": "2026-09-28T18:16:34Z",
       "content": "Vivienne Yang moved from Taiwan to New York City in 2018 and earned a master's degree in applied analytics from Columbia University. After being laid off from her ad-tech job in 2024, she had to leav… [+588 chars]",
       "tags": [
-        "immigration",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1790619394
     },
@@ -167,8 +165,7 @@
       "publishedAt": "2026-09-28T09:56:46Z",
       "content": "H-1B visa holders and hopefuls told us about the career, financial, and family costs they encountered while pursuing this visa route.Rob Dobi for BI\r\nIn the five years Madhur Mehta has spent in the U… [+9908 chars]",
       "tags": [
-        "immigration",
-        "labor"
+        "off_topic"
       ],
       "publishedAtTs": 1790589406
     },
@@ -185,8 +182,8 @@
       "publishedAt": "2026-09-28T10:00:01Z",
       "content": "Olivier Hoslet/Getty; Bloomberg/Getty; Getty Images; Tyler Le/BI\r\n<ul><li>The biggest donors have already given roughly $850 million ahead of November's midterm elections.</li><li>Financier George So… [+11789 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_finance"
+        "campaign_finance",
+        "elections_politics"
       ],
       "publishedAtTs": 1790589601
     },
@@ -203,8 +200,7 @@
       "publishedAt": "2026-09-28T18:40:26Z",
       "content": "Arkansas Republicans are currently pushing new “welfare-to-work” requirements that make it harder to get government assistance for things like food and healthcare. To get the message across to voters… [+2273 chars]",
       "tags": [
-        "policy_legislation",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1790620826
     },
@@ -222,6 +218,8 @@
       "content": "The AP reports that U.S. president Donald Trump asked China's president if he wanted to buy US arms on Sunday, describing a deal that would \"upend generations of U.S. policy toward China\"as if Trump … [+1639 chars]",
       "tags": [
         "china",
+        "national_security",
+        "trump",
         "foreign_policy"
       ],
       "publishedAtTs": 1790596800
@@ -239,8 +237,8 @@
       "publishedAt": "2026-09-28T22:40:32Z",
       "content": "House leader Mike Johnson ended congress early to avoid a vote on impeaching Pete Hegseth, President Trump's crusader-tattooed \"Secretary of War,\" and opinion polls show why. Never popular in the fir… [+2171 chars]",
       "tags": [
-        "elections_politics",
-        "legal_justice",
+        "cabinet",
+        "impeachment",
         "government_administration"
       ],
       "publishedAtTs": 1790635232
@@ -258,8 +256,7 @@
       "publishedAt": "2026-09-28T16:14:50Z",
       "content": "Anthropic chief executive Dario Amodei had dinner with President Donald Trump at the White House on Sunday night, Semafor confirmed. It was the first one-on-one meeting between the two, which Axios f… [+1356 chars]",
       "tags": [
-        "trump",
-        "personal_family"
+        "trump"
       ],
       "publishedAtTs": 1790612090
     },
@@ -276,8 +273,7 @@
       "publishedAt": "2026-09-28T12:49:01Z",
       "content": "China has overtaken the United States as the country where the most elite AI researchers work, according to a study by Carnegie China. The think tank is part of the Carnegie Endowment for Internation… [+2067 chars]",
       "tags": [
-        "ai_state_preemption",
-        "trade_negotiations_truces"
+        "off_topic"
       ],
       "publishedAtTs": 1790599741
     },
@@ -294,7 +290,7 @@
       "publishedAt": "2026-09-28T09:44:43Z",
       "content": "Google, OpenAI and Anthropic plan to set up their own AI safety standards body, without government oversight, The Information reported on Thursday. The three companies hope to launch it by the end of… [+1736 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1790588683
     },
@@ -311,8 +307,7 @@
       "publishedAt": "2026-09-28T13:55:07Z",
       "content": "YouTube and Meta will now run paid ads for Musk, Alex Gibneys documentary about Elon Musk, The Hollywood Reporter reported on Saturday. Both had refused the trailer ad. TikTok and X are still not run… [+1383 chars]",
       "tags": [
-        "media_communications",
-        "social_media"
+        "off_topic"
       ],
       "publishedAtTs": 1790603707
     },
@@ -329,9 +324,11 @@
       "publishedAt": "2026-09-28T14:37:06Z",
       "content": "The US and China will hold a regular dialogue on super intelligence and set up a channel for incidents. The White House announced the deal in a fact sheet on Xi Jinpings state visit. Both leaders agr… [+1607 chars]",
       "tags": [
-        "foreign_policy",
+        "vanity",
+        "artificial_intelligence",
         "china",
-        "security_intelligence"
+        "technology_regulation",
+        "statements"
       ],
       "publishedAtTs": 1790606226
     },
@@ -348,7 +345,7 @@
       "publishedAt": "2026-09-28T19:17:54Z",
       "content": "The UKs AI minister, Kanishka Narayan, says countries must harden their defences against AI risk. Testing models is no longer enough, he said. He was answering a question from Fortune at the Labour P… [+1973 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1790623074
     },
@@ -365,8 +362,11 @@
       "publishedAt": "2026-09-28T00:13:55Z",
       "content": "WASHINGTON (AP) President Donald Trump has justified the pending U.S. arms sale to Taiwan to Chinese President Xi Jinping by downplaying it as just one of many sales Washington makes around the world… [+2042 chars]",
       "tags": [
+        "china",
+        "trump",
         "foreign_policy",
-        "china"
+        "leadership",
+        "security_intelligence"
       ],
       "publishedAtTs": 1790554435
     },
@@ -384,7 +384,9 @@
       "content": "Trump administration officials said on Monday that the United States has no plans to sell weapons to China after U.S. Ambassador to China David Perdue indicated during a televised interview that Pres… [+3676 chars]",
       "tags": [
         "china",
-        "foreign_policy"
+        "statements",
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1790626935
     },
@@ -402,7 +404,9 @@
       "content": "Sept. 28 (UPI) -- President Donald Trump offered to sell U.S. weapons to Chinese leader Xi Jinping, according to the U.S. ambassador to China, an extraordinary overture that would mark a dramatic dep… [+2509 chars]",
       "tags": [
         "china",
-        "foreign_policy"
+        "trump",
+        "foreign_policy",
+        "security_intelligence"
       ],
       "publishedAtTs": 1790582941
     },
@@ -419,10 +423,11 @@
       "publishedAt": "2026-09-28T10:50:16Z",
       "content": "Defense Secretary Pete Hegseth is running into a wall of congressional GOP resistance as he tries to secure $1.5 trillion for the Pentagon next year.\r\nLawmakers growing reluctance to fulfill Hegseths… [+4925 chars]",
       "tags": [
-        "foreign_policy",
-        "iran",
-        "economy_finance",
-        "budget"
+        "military",
+        "budget",
+        "cabinet",
+        "us_iran_war",
+        "congress"
       ],
       "publishedAtTs": 1790592616
     },
@@ -439,8 +444,10 @@
       "publishedAt": "2026-09-28T16:34:30Z",
       "content": "The conservative firebrand whom the Trump administration installed as a No. 2 at the FBI announced Monday that he is resigning from the bureau.\r\nAndrew Bailey, the former Missouri attorney general wh… [+3598 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "federal_agencies",
+        "personnel",
+        "leadership",
+        "government_administration"
       ],
       "publishedAtTs": 1790613270
     },
@@ -474,8 +481,7 @@
       "publishedAt": "2026-09-28T09:00:00Z",
       "content": "(Bloomberg) -- Nvidia Corp. introduced a new double-layered artificial intelligence security system that it says would've prevented the recent high-profile breach of Hugging Face by OpenAI's AI model… [+3157 chars]",
       "tags": [
-        "technology_regulation",
-        "artificial_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1790586000
     },
@@ -492,10 +498,11 @@
       "publishedAt": "2026-09-28T08:11:41Z",
       "content": "If you click 'Accept all', we and our partners, including 254 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
       "tags": [
-        "russia",
-        "iran",
-        "security_intelligence",
-        "terrorism"
+        "law_enforcement",
+        "security_incidents",
+        "terrorism",
+        "criminal_cases",
+        "national_security"
       ],
       "publishedAtTs": 1790583101
     },
@@ -512,8 +519,7 @@
       "publishedAt": "2026-09-28T06:29:18Z",
       "content": "SEOUL, South Korea (AP) Seoul has called for an official apology from Ukraine after President Volodymyr Zelenskyy revealed what it says was supposed to be a secret transfer of two North Korean prison… [+4296 chars]",
       "tags": [
-        "foreign_policy",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1790576958
     },
@@ -530,8 +536,7 @@
       "publishedAt": "2026-09-28T09:00:29Z",
       "content": "John Yeley has spent the last 26 years working on his farm, which his family has owned since 1852.\r\nYeley is the seventh generation to run his farm in Illinois, just over the state line from Indiana.… [+6200 chars]",
       "tags": [
-        "agriculture",
-        "economy_finance"
+        "agriculture"
       ],
       "publishedAtTs": 1790586029
     },
@@ -548,9 +553,11 @@
       "publishedAt": "2026-09-28T08:09:54Z",
       "content": "Iranian Foreign Minister Abbas Araghchi asserted that Tehran is prepared to resume war with the U.S. and said it will stand firm \"even if it comes to a doomsday war.\"\r\nAsked whether diplomacy has fai… [+772 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "us_iran_war",
+        "middle_east",
         "iran",
-        "crisis_emergency"
+        "security_incidents"
       ],
       "publishedAtTs": 1790582994
     },
@@ -567,9 +574,8 @@
       "publishedAt": "2026-09-28T14:57:02Z",
       "content": "President Donald Trump will announce the construction of a massive new steel plant during an Oval Office event on Monday, a White House official said.\r\nThe project, which will be built by Mesabi Meta… [+1633 chars]",
       "tags": [
-        "economy_finance",
-        "trade",
-        "automotive"
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1790607422
     },
@@ -587,6 +593,9 @@
       "content": "The Department of Transportation is easing fuel economy standards that were put in place during the Biden administration.\r\nTransportation Secretary Sean P. Duffy said Monday that changing CAFE (corpo… [+6503 chars]",
       "tags": [
         "energy",
+        "automotive",
+        "environment",
+        "cabinet",
         "policy_legislation"
       ],
       "publishedAtTs": 1790615070
@@ -604,7 +613,8 @@
       "publishedAt": "2026-09-28T22:38:31Z",
       "content": "The federal government has spent at least $1.7 million to air three different TV ads featuring President Donald Trump in recent days, according to an estimate from AdImpact, which tracks and analyzes… [+5030 chars]",
       "tags": [
-        "government_administration",
+        "trump",
+        "elections_politics",
         "media_communications"
       ],
       "publishedAtTs": 1790635111
@@ -622,7 +632,10 @@
       "publishedAt": "2026-09-28T17:35:55Z",
       "content": "Federal Bureau of Investigation co-Deputy Director Andrew Bailey is resigning from the bureau to spend time with his family, he announced in a post on social media.\r\n\"With great pride in what we have… [+1725 chars]",
       "tags": [
-        "personnel"
+        "federal_agencies",
+        "personnel",
+        "leadership",
+        "government_administration"
       ],
       "publishedAtTs": 1790616955
     },
@@ -639,9 +652,11 @@
       "publishedAt": "2026-09-28T15:13:16Z",
       "content": "Congressional Democrats are pressing federal health officials following the government's decision to end a contract with legal advocacy groups that provide legal representation to migrant children.\r\n… [+4890 chars]",
       "tags": [
+        "congress",
         "immigration",
-        "legal_justice",
-        "healthcare"
+        "social_issues",
+        "policy_legislation",
+        "government_administration"
       ],
       "publishedAtTs": 1790608396
     },
@@ -658,9 +673,7 @@
       "publishedAt": "2026-09-28T13:02:42Z",
       "content": "LONDON -- A police cordon remained in place on Monday near a major air base hosting U.S. forces in the southwest of England, where British police arrested five men early on Sunday on suspicion of ter… [+3852 chars]",
       "tags": [
-        "terrorism",
-        "national_security",
-        "law_enforcement"
+        "off_topic"
       ],
       "publishedAtTs": 1790600562
     },
@@ -677,9 +690,10 @@
       "publishedAt": "2026-09-28T10:00:00Z",
       "content": "The predicament described in Hirschmans book is now playing out for many civil servants and federal workers in the Trump era. Should they exit if ordered to do something illegal or unconscionable by … [+5244 chars]",
       "tags": [
+        "federal_agencies",
         "legal_justice",
-        "government_administration",
-        "ethics"
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1790589600
     },
@@ -696,7 +710,7 @@
       "publishedAt": "2026-09-28T01:08:40Z",
       "content": "Microsoft co-founder Bill Gates has some thoughts on AI safeguards, and he’d like to convey them to President Donald Trump himself.\r\n“You need law enforcement and the politicians to get into the disc… [+3847 chars]",
       "tags": [
-        "ai_state_preemption",
+        "artificial_intelligence",
         "technology_regulation"
       ],
       "publishedAtTs": 1790557720
@@ -714,8 +728,7 @@
       "publishedAt": "2026-09-28T16:41:14Z",
       "content": "Nvidia, the worlds most valuable company and the maker of the chips at the heart of the AI boom, says it has a solution to the rogue agent attacks that have bedeviled the tech sector for months.\r\nLau… [+3774 chars]",
       "tags": [
-        "ai_state_preemption",
-        "technology_regulation"
+        "off_topic"
       ],
       "publishedAtTs": 1790613674
     },
@@ -749,8 +762,8 @@
       "publishedAt": "2026-09-28T21:43:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Yo… [+9496 chars]",
       "tags": [
-        "campaign_finance",
-        "legal_justice"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1790631780
     },
@@ -767,8 +780,7 @@
       "publishedAt": "2026-09-28T21:10:31Z",
       "content": "Last Thursday, during a panel discussion at The Atlantic Festival, California Attorney General Rob Bonta seemed confident that the biggest antitrust case Hollywood has seen in decades would go his wa… [+5979 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "antitrust"
+        "off_topic"
       ],
       "publishedAtTs": 1790629831
     },
@@ -785,9 +797,7 @@
       "publishedAt": "2026-09-28T11:30:00Z",
       "content": "If there’s one policy proposal that seems to excite the whole spectrum of Democratic politicians, from insurgent left to establishment moderates, it’s universal child care. The idea, as Senator Eliza… [+9148 chars]",
       "tags": [
-        "policy_legislation",
-        "healthcare",
-        "labor"
+        "off_topic"
       ],
       "publishedAtTs": 1790595000
     },
@@ -804,8 +814,8 @@
       "publishedAt": "2026-09-28T11:00:00Z",
       "content": "Photographs by Meridith KohutEstela Garcia and 2-year-old Eber repeat their routine every morning: Around 8 a.m., he rustles her awake in the bed they share. She picks him up, changes his diaper, and… [+39986 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "immigration"
+        "immigration",
+        "social_issues"
       ],
       "publishedAtTs": 1790593200
     },
@@ -822,8 +832,10 @@
       "publishedAt": "2026-09-28T18:00:00Z",
       "content": "The Trump administration has announced plans to roll back fuel regulations. Advocates say the move could prove “disastrous” for the environment and the economy.\r\nSince the 1975 Energy Policy and Cons… [+1984 chars]",
       "tags": [
+        "energy",
         "environment",
-        "energy"
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790618400
     },
@@ -840,9 +852,8 @@
       "publishedAt": "2026-09-28T11:45:15Z",
       "content": "Donald Trump shared more than a dozen posts on Truth Social over the weekend attacking Rep. Maria Elvira Salazar (R-FL), following her joining the exodus of MAGA rats who want off the President’s see… [+3753 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party",
-        "immigration"
+        "trump",
+        "elections_politics"
       ],
       "publishedAtTs": 1790595915
     },
@@ -860,6 +871,9 @@
       "content": "Though its hard to imagine how a Centers for Disease Control with constant cutbacks, alleged firings, and food recalls could have meant anything good for public health, a new report by the New York T… [+3207 chars]",
       "tags": [
         "public_health",
+        "healthcare",
+        "federal_agencies",
+        "health",
         "health_science"
       ],
       "publishedAtTs": 1790608268
@@ -877,8 +891,7 @@
       "publishedAt": "2026-09-28T09:09:13Z",
       "content": "Welcome back to Monday Barf Bag.\r\nYour ideal plane might have a tailbut Sen. TommyTuberville (R-Ala.) shudders to think that the pilots flying them should have the same, per a curious new hill hes ch… [+4298 chars]",
       "tags": [
-        "social_issues",
-        "lgbtq_rights"
+        "social_issues"
       ],
       "publishedAtTs": 1790586553
     },
@@ -895,8 +908,7 @@
       "publishedAt": "2026-09-28T10:30:05Z",
       "content": "Booms, Bombs and Bonds: Interest Rates, Part I: Paul Krugman on why serious analysts talk about bonds while cable touts talk about stocks. Equity prices are a notoriously unreliable read on the econo… [+4032 chars]",
       "tags": [
-        "economy_finance",
-        "inflation"
+        "off_topic"
       ],
       "publishedAtTs": 1790591405
     },
@@ -913,9 +925,10 @@
       "publishedAt": "2026-09-28T12:26:47Z",
       "content": "from the speech-police-got-your-tongue? dept\r\nRemember the Disinformation Governance Board? As we were quick to point out, this organization was named in the dumbest possible way by some incompetent … [+6919 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice",
-        "social_media"
+        "media_criticism",
+        "free_speech",
+        "censorship",
+        "media_communications"
       ],
       "publishedAtTs": 1790598407
     },
@@ -932,8 +945,7 @@
       "publishedAt": "2026-09-28T21:59:23Z",
       "content": "Donald Trump talks to the media after disembarking from Marine One on the South Lawn of the White House on September 27, 2026. | Mandel Ngan/AFP via Getty Images\r\n\n\nThis story appeared in The Logoff,… [+2420 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
+        "trump",
         "media_communications"
       ],
       "publishedAtTs": 1790632763
@@ -952,6 +964,7 @@
       "content": "President Donald Trump shakes hands with China's President Xi Jinping on September 25, 2026. | Saul Loeb/AFP via Getty Images\r\n\n\nThis story appeared in Today, Explained, a daily newsletter that helps… [+4615 chars]",
       "tags": [
         "china",
+        "trump",
         "foreign_policy"
       ],
       "publishedAtTs": 1790628464
@@ -969,8 +982,9 @@
       "publishedAt": "2026-09-28T00:42:26Z",
       "content": "In a 2016 opinion, authored one year before he became a Supreme Court justice, then-Judge Neil Gorsuch warned against lawyers who tempt judges to reach conclusions that aren’t supported by the Consti… [+11380 chars]",
       "tags": [
-        "legal_justice",
-        "energy"
+        "supreme_court",
+        "energy",
+        "legal_justice"
       ],
       "publishedAtTs": 1790556146
     },
@@ -987,10 +1001,8 @@
       "publishedAt": "2026-09-28T14:00:00Z",
       "content": "By sheer numbers, Texas’ stock of existing and planned data centers is bigger than China’s. The state, under the auspices of three-term Republican Governor Greg Abbott, has become an incentive paradi… [+10179 chars]",
       "tags": [
-        "regional_state",
         "texas",
-        "economy_finance",
-        "energy"
+        "regional_state"
       ],
       "publishedAtTs": 1790604000
     },
@@ -1007,9 +1019,7 @@
       "publishedAt": "2026-09-28T19:04:40Z",
       "content": "No racist Republican trope has survived the test of time quite like that of the “welfare queen.” The alleged indolent fraudster — usually depicted as a person of color — leeching off of government as… [+3881 chars]",
       "tags": [
-        "social_issues",
-        "racial_justice",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1790622280
     },
@@ -1043,9 +1053,9 @@
       "publishedAt": "2026-09-28T20:04:27Z",
       "content": "Just weeks before the midterm elections, United States President Donald Trump has announced that a Minnesota-based steel manufacturer intends to build a $15bn steel mill project in Iowa, as the White… [+2826 chars]",
       "tags": [
+        "trump",
         "economy_finance",
-        "trade",
-        "labor"
+        "elections_politics"
       ],
       "publishedAtTs": 1790625867
     },
@@ -1062,8 +1072,11 @@
       "publishedAt": "2026-09-28T18:16:26Z",
       "content": "The Strait of Hormuz remains the most perilous choke point on the global map as Iran continues to disrupt traffic by attacking vessels. A recent proposal by the Islamic Republic to open the waterway … [+5587 chars]",
       "tags": [
-        "foreign_policy",
-        "iran"
+        "iran",
+        "middle_east",
+        "national_security",
+        "us_iran_war",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790619386
     },
@@ -1080,8 +1093,7 @@
       "publishedAt": "2026-09-28T02:57:28Z",
       "content": "Anthropic CEO Dario Amodei is set to dine one-on-one with US President Donald Trump at the White House.\r\nThe meeting on Sunday evening, confirmed by Trump, comes after months of open conflict between… [+2015 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1790564248
     },
@@ -1098,7 +1110,11 @@
       "publishedAt": "2026-09-28T06:24:33Z",
       "content": "The United States and China have unveiled a list of goods recommended for reduced tariffs following last weeks summit between Presidents Donald Trump and Xi Jinping.\r\nThe release of the list on Sunda… [+3087 chars]",
       "tags": [
-        "trade"
+        "trade",
+        "trade_negotiations_truces",
+        "china",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1790576673
     },
@@ -1115,9 +1131,11 @@
       "publishedAt": "2026-09-28T09:17:29Z",
       "content": "Oil prices have risen sharply following United States President Donald Trumps rejection of an Iranian proposal to reopen the Strait of Hormuz within seven days.\r\nBrent crude, the international benchm… [+1713 chars]",
       "tags": [
-        "foreign_policy",
+        "energy",
+        "us_iran_war",
         "iran",
-        "energy"
+        "middle_east",
+        "national_security"
       ],
       "publishedAtTs": 1790587049
     },
@@ -1134,8 +1152,11 @@
       "publishedAt": "2026-09-28T16:55:05Z",
       "content": "In an offer that baffled most observers, United States President Donald Trump has made a pitch to his Chinese counterpart Xi Jinping that has seldom been made in modern history.\r\nTrumps suggestion th… [+8386 chars]",
       "tags": [
+        "national_security",
+        "china",
+        "trump",
         "foreign_policy",
-        "china"
+        "security_intelligence"
       ],
       "publishedAtTs": 1790614505
     },
@@ -1151,9 +1172,7 @@
       "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ababc17-1790622744.jpg?resize=1200%2C675",
       "publishedAt": "2026-09-28T19:49:25Z",
       "content": "The National Football League (NFL) has asked the Department of Homeland Security (DHS) to stop using a video of a retired star player on social media, after the agency used highlights of his career t… [+1236 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1790624965
     },
     {
@@ -1169,9 +1188,8 @@
       "publishedAt": "2026-09-28T21:34:51Z",
       "content": "Gold prices are falling as concerns of rising fuel prices stoke inflation worries on the back of the war between the United States and Iran.\r\nSpot gold prices fell by 3.3 percent to reach a more than… [+1756 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "prices"
+        "us_iran_war",
+        "economy_finance"
       ],
       "publishedAtTs": 1790631291
     },
@@ -1188,8 +1206,7 @@
       "publishedAt": "2026-09-28T16:50:08Z",
       "content": "South Korea has said it suspects that a recent explosion in the Demilitarised Zone (DMZ) that injured three military personnel was caused by North Korean landmines.\r\nSouth Koreas Joint Chiefs of Staf… [+1916 chars]",
       "tags": [
-        "foreign_policy",
-        "security_incidents"
+        "off_topic"
       ],
       "publishedAtTs": 1790614208
     },
@@ -1206,8 +1223,7 @@
       "publishedAt": "2026-09-28T16:24:25Z",
       "content": "Authorities in Florida have asked a state court to stop OpenAI from further developing ChatGPT until it can impose a series of guardrails meant to protect users and the general public.\r\nStop calling … [+2391 chars]",
       "tags": [
-        "technology_regulation",
-        "artificial_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1790612665
     },
@@ -1224,7 +1240,10 @@
       "publishedAt": "2026-09-28T15:29:48Z",
       "content": "Iran has denied any involvement in a suspected plot targeting the Fairford Airbase in the United Kingdom.\r\nIrans embassy in London condemned in a statement on Monday the fabricated speculations linki… [+2582 chars]",
       "tags": [
-        "iran",
+        "middle_east",
+        "security_incidents",
+        "national_security",
+        "statements",
         "foreign_policy"
       ],
       "publishedAtTs": 1790609388
@@ -1242,9 +1261,7 @@
       "publishedAt": "2026-09-28T02:36:00Z",
       "content": "Hundreds of supporters of Venezuelas opposition leader Maria Corina Machado have taken to the streets to demand her safe return and presidential elections that could lead to a democratic transition i… [+2588 chars]",
       "tags": [
-        "venezuela_intervention",
-        "protests",
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1790562960
     },
@@ -1261,8 +1278,8 @@
       "publishedAt": "2026-09-28T22:05:43Z",
       "content": "Hate speech against Indians, Bangladeshis and Pakistanis in the United States has risen sharply online, according to a report that traces the surge to US President Donald Trumps immigration crackdown… [+5617 chars]",
       "tags": [
-        "social_issues",
-        "immigration"
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1790633143
     },
@@ -1279,9 +1296,11 @@
       "publishedAt": "2026-09-28T08:44:16Z",
       "content": "At least five men were arrested on Sunday morning on suspicion of the preparation of a terrorist act near a British Royal Air Force (RAF) base in southern England.\r\nArmed officers arrested the group … [+5000 chars]",
       "tags": [
+        "security_incidents",
+        "law_enforcement",
         "terrorism",
-        "security_intelligence",
-        "foreign_policy"
+        "criminal_cases",
+        "national_security"
       ],
       "publishedAtTs": 1790585056
     },
@@ -1298,7 +1317,7 @@
       "publishedAt": "2026-09-28T13:34:54Z",
       "content": "In a world torn apart by geopolitical bullying and geoeconomic warfare, great-power conflict and inequality that concentrates wealth and statecraft in the hands of a few, the Bandung Conference is ga… [+6349 chars]",
       "tags": [
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1790602494
     },
@@ -1315,9 +1334,11 @@
       "publishedAt": "2026-09-28T17:43:10Z",
       "content": "Tehran, Iran Iran is claiming success in attacking ships including US Navy vessels near the Strait of Hormuz, saying that the strikes have forced Washington to move its warships further from the Iran… [+7494 chars]",
       "tags": [
+        "middle_east",
+        "national_security",
+        "us_iran_war",
         "iran",
-        "foreign_policy",
-        "security_intelligence"
+        "security_incidents"
       ],
       "publishedAtTs": 1790617390
     },
@@ -1334,8 +1355,7 @@
       "publishedAt": "2026-09-28T22:41:33Z",
       "content": "No Donald Trump outing is complete without a viral press moment, and his Sunday, September 27, appearance at Medinah Country Club in Chicago delivered another one.\r\nThe US President’s unfiltered comm… [+5415 chars]",
       "tags": [
-        "personal_activities",
-        "protests"
+        "trump"
       ],
       "publishedAtTs": 1790635293
     },
@@ -1352,9 +1372,11 @@
       "publishedAt": "2026-09-28T21:45:18Z",
       "content": "As ceasefire negotiations faltered and U.S. casualties of the Iran war mounted, the Trump administration on July 7 attempted to rebrand the struggling war effort by announcing the conclusion of Opera… [+7310 chars]",
       "tags": [
-        "foreign_policy",
+        "us_iran_war",
+        "national_security",
+        "middle_east",
         "iran",
-        "military"
+        "foreign_policy"
       ],
       "publishedAtTs": 1790631918
     },
@@ -1371,9 +1393,7 @@
       "publishedAt": "2026-09-28T16:54:05Z",
       "content": "The global tech industry, politicians at home and abroad, and international media coverage are transfixed by one question: Will rogue AI end humanity? Few seem to be asking this question of the Depar… [+14803 chars]",
       "tags": [
-        "ai_state_preemption",
-        "foreign_policy",
-        "china"
+        "off_topic"
       ],
       "publishedAtTs": 1790614445
     },
@@ -1390,8 +1410,10 @@
       "publishedAt": "2026-09-28T16:35:57Z",
       "content": "The Trump White House is defending spending taxpayer dollars to run a series of ads that have drawn criticism on both sides of the aisle as they resemble campaign spots.\r\nIn fact, an ad featuring Tru… [+3857 chars]",
       "tags": [
-        "government_administration",
-        "media_communications"
+        "trump",
+        "media_communications",
+        "elections_politics",
+        "government_administration"
       ],
       "publishedAtTs": 1790613357
     },
@@ -1408,9 +1430,9 @@
       "publishedAt": "2026-09-28T13:00:13Z",
       "content": "Certain obvious questions arise from Chinese President Xi Jinpings visit to Washington this past week, a spectacle that one observer has described as diplotainment rather than actual diplomacy. Exact… [+8683 chars]",
       "tags": [
-        "foreign_policy",
         "china",
-        "trade"
+        "foreign_policy",
+        "trump"
       ],
       "publishedAtTs": 1790600413
     },
@@ -1427,9 +1449,8 @@
       "publishedAt": "2026-09-28T21:40:14Z",
       "content": "In a recent interview, conservative political operative Karl Rove said hes voting for a Democrat in the upcoming midterms, breaking three decades of precedent exclusively supporting Republicans, and … [+1880 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party",
-        "political_endorsements"
+        "political_endorsements",
+        "elections_politics"
       ],
       "publishedAtTs": 1790631614
     },
@@ -1446,8 +1467,8 @@
       "publishedAt": "2026-09-28T22:08:55Z",
       "content": "ai Trump says she reinjured her surgically repaired left wrist during her University of Miami golf debut, but she isn’t ready to give up.\r\n+7view galleryKai Trump and UFC President and CEO Dana White… [+5100 chars]",
       "tags": [
-        "personal_family",
-        "health"
+        "personal_activities",
+        "personal_family"
       ],
       "publishedAtTs": 1790633335
     },
@@ -1464,8 +1485,10 @@
       "publishedAt": "2026-09-28T19:00:55Z",
       "content": "The US ambassador to China says Donald Trump asked Xi Jinping about buying American weapons during Xi’s visit to Washington last week. David Perdue recounted the exchange on Fox News on Sunday, as Ta… [+1453 chars]",
       "tags": [
+        "china",
+        "trump",
         "foreign_policy",
-        "china"
+        "security_intelligence"
       ],
       "publishedAtTs": 1790622055
     },
@@ -1482,9 +1505,7 @@
       "publishedAt": "2026-09-28T03:32:00Z",
       "content": "Rep. Tom Kean, Jr. and Rebecca Bennett sparred in the first and likely only debate between the two New Jersey candidates locked in one of the countrys most closely watched congressional races.\r\nKean,… [+7141 chars]",
       "tags": [
-        "elections_politics",
-        "mental_health",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1790566320
     },
@@ -1501,7 +1522,7 @@
       "publishedAt": "2026-09-28T18:26:52Z",
       "content": "The biggest dig beneath the Hudson River in more than a century is finally underway.\r\nCrews in North Bergen, New Jersey, on Monday turned on the first of two massive tunnel-boring machines that will … [+3658 chars]",
       "tags": [
-        "transportation"
+        "off_topic"
       ],
       "publishedAtTs": 1790620012
     },
@@ -1518,8 +1539,8 @@
       "publishedAt": "2026-09-28T22:42:47Z",
       "content": "A bill to establish a 20% federal film and TV tax credit has added eight new co-sponsors in the Senate, a boost to the legislation as backers pin their hopes on passage during Congress’ lame duck ses… [+1345 chars]",
       "tags": [
-        "economy_finance",
-        "taxes"
+        "congress",
+        "policy_legislation"
       ],
       "publishedAtTs": 1790635367
     },
@@ -1536,8 +1557,7 @@
       "publishedAt": "2026-09-28T19:31:14Z",
       "content": "Paramount and Warner Bros Discovery and a dozen blue states want Cory Booker to stay in his own lane when it comes to the settlement with state Attorneys General over the companies’ $111 billion mega… [+4395 chars]",
       "tags": [
-        "trade_negotiations_truces",
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1790623874
     },
@@ -1554,8 +1574,7 @@
       "publishedAt": "2026-09-28T15:52:55Z",
       "content": "The timing couldnt be worse. Also on Monday, New York state prosecutors reopened an investigation into an alleged 2024 gang rape. The victim filed a lawsuit last week against members of the Chi Phi f… [+1499 chars]",
       "tags": [
-        "economy_finance",
-        "social_issues"
+        "trump"
       ],
       "publishedAtTs": 1790610775
     },
@@ -1572,8 +1591,11 @@
       "publishedAt": "2026-09-28T15:43:43Z",
       "content": "The timing couldnt be worse. Also on Monday, New York state prosecutors reopened an investigation into an alleged 2024 gang rape. The victim filed a lawsuit last week against members of the Chi Phi f… [+1499 chars]",
       "tags": [
+        "civil_rights",
+        "womens_rights",
         "social_issues",
-        "education"
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1790610223
     },
@@ -1589,11 +1611,7 @@
       "urlToImage": "https://images.newrepublic.com/bff414c49535a52200a99f5b9c0339743a7a2ce7.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-09-28T15:19:45Z",
       "content": "Q: Why not become an independent? \r\nFetterman: Because Im a lifelong Republican.\r\nGarrett: You mean a Democrat.\r\nFetterman: A Democrat. pic.twitter.com/HD92TVceVr\r\n Acyn (@Acyn) September 27, 2026\r\nI… [+1062 chars]",
-      "tags": [
-        "mass_deportation_operation",
-        "immigration",
-        "elections_politics"
-      ],
+      "tags": [],
       "publishedAtTs": 1790608785
     },
     {
@@ -1609,8 +1627,11 @@
       "publishedAt": "2026-09-28T15:59:44Z",
       "content": "The timing couldnt be worse. Also on Monday, New York state prosecutors reopened an investigation into an alleged 2024 gang rape. The victim filed a lawsuit last week against members of the Chi Phi f… [+1499 chars]",
       "tags": [
+        "personnel",
+        "federal_agencies",
+        "law_enforcement",
         "legal_justice",
-        "law_enforcement"
+        "leadership"
       ],
       "publishedAtTs": 1790611184
     },
@@ -1627,8 +1648,11 @@
       "publishedAt": "2026-09-28T11:28:52Z",
       "content": "Sargent: I think thats exactly right. And I really hope that Democrats dont make the mistake of thinking that, if they quote-unquote overreach, then you could see something like Bill Clintons comebac… [+1093 chars]",
       "tags": [
-        "media_communications",
-        "legal_justice"
+        "press_relations",
+        "media_criticism",
+        "censorship",
+        "trump",
+        "media_communications"
       ],
       "publishedAtTs": 1790594932
     },
@@ -1645,9 +1669,11 @@
       "publishedAt": "2026-09-28T20:39:03Z",
       "content": "That claim belies the fact that the January 6 rioters did more than just exercise their First Amendment rights. Police officers were assaulted, windows were broken, congressional property was stolen,… [+909 chars]",
       "tags": [
-        "government_administration",
         "budget",
-        "elections_politics"
+        "congress",
+        "trump",
+        "policy_legislation",
+        "government_administration"
       ],
       "publishedAtTs": 1790627943
     },
@@ -1664,8 +1690,7 @@
       "publishedAt": "2026-09-28T17:54:22Z",
       "content": "Meanwhile, billionaires are making money hand over fist, concentrating and hoarding their assets while shrinking the economic pie for the workers who build their products. A Guardian assessment of gl… [+1242 chars]",
       "tags": [
-        "social_issues",
-        "media_communications"
+        "leadership"
       ],
       "publishedAtTs": 1790618062
     },
@@ -1682,8 +1707,8 @@
       "publishedAt": "2026-09-28T19:54:32Z",
       "content": "That claim belies the fact that the January 6 rioters did more than just exercise their First Amendment rights. Police officers were assaulted, windows were broken, congressional property was stolen,… [+909 chars]",
       "tags": [
-        "legal_justice",
-        "climate_policy"
+        "supreme_court",
+        "legal_justice"
       ],
       "publishedAtTs": 1790625272
     },
@@ -1700,8 +1725,8 @@
       "publishedAt": "2026-09-28T08:15:00Z",
       "content": "This coverage is made possible through a partnership between Grist and The Salt Lake Tribune, a nonprofit newsroom in Utah.\r\nIt didnt take long for prospectors to stake their claims on land in southe… [+5050 chars]",
       "tags": [
-        "energy",
-        "environment"
+        "trump",
+        "regional_state"
       ],
       "publishedAtTs": 1790583300
     },
@@ -1717,9 +1742,7 @@
       "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/HOalg6HXsAAnk6j-819x1024.jpeg",
       "publishedAt": "2026-09-28T10:55:13Z",
       "content": "This is Naked Capitalism fundraising week. 799 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+6613 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1790592913
     },
     {
@@ -1735,8 +1758,7 @@
       "publishedAt": "2026-09-28T18:00:49Z",
       "content": "This is Naked Capitalism fundraising week. 834 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+18785 chars]",
       "tags": [
-        "economy_finance",
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1790618449
     },
@@ -1753,9 +1775,8 @@
       "publishedAt": "2026-09-28T14:33:32Z",
       "content": "This is Naked Capitalism fundraising week. 806 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+71789 chars]",
       "tags": [
-        "economy_finance",
         "energy",
-        "foreign_policy"
+        "economy_finance"
       ],
       "publishedAtTs": 1790606012
     },
@@ -1772,8 +1793,11 @@
       "publishedAt": "2026-09-28T10:37:58Z",
       "content": "British police were questioning five men on Monday on suspicion of explosives and terrorism offences after their detention near an airbase used by the U.S. to strike Iran. \r\nOfficers arrested the men… [+3093 chars]",
       "tags": [
-        "security_intelligence",
-        "terrorism"
+        "law_enforcement",
+        "security_incidents",
+        "terrorism",
+        "criminal_cases",
+        "national_security"
       ],
       "publishedAtTs": 1790591878
     },
@@ -1790,6 +1814,7 @@
       "publishedAt": "2026-09-28T18:12:18Z",
       "content": "Stelco Holdings Inc. says it plans to idle part of its Hamilton plant in order to \"ensure the survival\" of the company, as U.S. tariffs squeeze its sales. \r\nStelco says the decision will impact up to… [+1627 chars]",
       "tags": [
+        "trade",
         "tariff_impact_economy",
         "economy_finance"
       ],
@@ -1808,8 +1833,10 @@
       "publishedAt": "2026-09-28T13:52:00Z",
       "content": "Sep 28, 2026Jorge G. Castañeda\r\nAfter two years in office, Mexican President Claudia Sheinbaum continues to be widely praised, both in Mexico and abroad, for her handling of US President Donald Trump… [+555 chars]",
       "tags": [
+        "mexico",
+        "latin_america",
         "foreign_policy",
-        "mexico"
+        "leadership"
       ],
       "publishedAtTs": 1790603520
     }

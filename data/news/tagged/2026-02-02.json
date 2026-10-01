@@ -15,7 +15,7 @@
       "publishedAt": "2026-02-02T21:49:22Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe revelations that Musk sought an invite to Epsteins island add risk to his plans to merge SpaceX with xAI, and then take the combined company public, experts … [+7621 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1770068962
     },
@@ -32,9 +32,9 @@
       "publishedAt": "2026-02-02T10:00:36Z",
       "content": "Only days after a nationwide general strike to protest the Trump administration’s brutal immigration crackdown, a new group is now embarking on a longer coordinated economic strike, this time targeti… [+5243 chars]",
       "tags": [
-        "mass_deportation_operation",
+        "protests",
         "ice_controversies_resistance",
-        "ai_state_preemption"
+        "social_issues"
       ],
       "publishedAtTs": 1770026436
     },
@@ -68,7 +68,6 @@
       "publishedAt": "2026-02-02T20:30:59Z",
       "content": "Would you plan a trip to a foreign country if you knew there was even a tiny chance you might not be able to leave? That’s the issue many international tourists are considering about the United State… [+1994 chars]",
       "tags": [
-        "foreign_policy",
         "tourism"
       ],
       "publishedAtTs": 1770064259
@@ -102,10 +101,7 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/74c2/live/d3c20a60-fde6-11f0-9972-d3f265c101c6.jpg",
       "publishedAt": "2026-02-02T06:00:30Z",
       "content": "With Donald Trump back in the White House, Moscow feels that Washington is paying it more respect. At the Alaska summit last August, America's president rolled out the red carpet for Russia's leader.… [+148 chars]",
-      "tags": [
-        "foreign_policy",
-        "russia"
-      ],
+      "tags": [],
       "publishedAtTs": 1770012030
     },
     {
@@ -121,8 +117,7 @@
       "publishedAt": "2026-02-02T02:18:04Z",
       "content": "Precious metals extended their losses in Asian trading on Monday after a brutal sell-off late last week.\r\nSpot gold was down 3.5% at around $4,724 per troy ounce at 9:04 p.m. ET on Sunday, after tumb… [+1694 chars]",
       "tags": [
-        "economy_finance",
-        "stock_market"
+        "off_topic"
       ],
       "publishedAtTs": 1769998684
     },
@@ -139,8 +134,7 @@
       "publishedAt": "2026-02-02T08:21:51Z",
       "content": "Silver prices crashed in a harrowing roller-coaster ride that underscored how quickly China's army of speculators can move global commodity markets and how fast those gains can unravel.\r\nThe white me… [+2811 chars]",
       "tags": [
-        "economy_finance",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1770020511
     },
@@ -157,9 +151,9 @@
       "publishedAt": "2026-02-02T12:21:48Z",
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+6520 chars]",
       "tags": [
-        "government_administration",
-        "policy_legislation",
-        "budget"
+        "vanity",
+        "congress",
+        "policy_legislation"
       ],
       "publishedAtTs": 1770034908
     },
@@ -177,6 +171,9 @@
       "content": "A group of civil rights organizations and U.S. citizens is suing the State Department over its sweeping suspension of immigrant visa processing for people from 75 countries, arguing the new policy at… [+2967 chars]",
       "tags": [
         "immigration",
+        "lawsuits",
+        "civil_litigation",
+        "civil_rights",
         "legal_justice"
       ],
       "publishedAtTs": 1770066461
@@ -195,8 +192,10 @@
       "content": "MINNEAPOLIS Early one morning three weeks ago, before his kids were up, J.J. says ICE agents started knocking on his family's front door.\r\nHis wife grabbed documents to show they and their four child… [+5656 chars]",
       "tags": [
         "immigration",
-        "legal_justice",
-        "law_enforcement"
+        "ice_controversies_resistance",
+        "civil_rights",
+        "social_issues",
+        "legal_justice"
       ],
       "publishedAtTs": 1770026400
     },
@@ -213,8 +212,10 @@
       "publishedAt": "2026-02-02T17:59:22Z",
       "content": "The Trump administration is scaling back plans for this year's field test of the 2030 census, raising concerns about the Census Bureau's ability to produce a reliable population tally for redistribut… [+4132 chars]",
       "tags": [
+        "government_operations",
+        "government_administration",
         "policy_legislation",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1770055162
     },
@@ -231,9 +232,10 @@
       "publishedAt": "2026-02-02T10:00:00Z",
       "content": "A new report from a government watchdog suggests the Trump administration's efforts to fire staff at the U.S. Department of Education cost taxpayers tens of millions of dollars.\r\nThe report, from the… [+4666 chars]",
       "tags": [
-        "education",
+        "government_operations",
+        "federal_agencies",
         "government_administration",
-        "personnel"
+        "trump"
       ],
       "publishedAtTs": 1770026400
     },
@@ -251,7 +253,10 @@
       "content": "At the beginning of the year, it seemed like a bipartisan deal to extend the Affordable Care Act enhanced subsidies was within reach. A three-year extension passed in the House, but talks have sputte… [+5479 chars]",
       "tags": [
         "healthcare",
-        "policy_legislation"
+        "congress",
+        "republican_party",
+        "policy_legislation",
+        "social_issues"
       ],
       "publishedAtTs": 1770026400
     },
@@ -267,10 +272,7 @@
       "urlToImage": "https://i.insider.com/6980a051e1ba468a96ab25e3?width=1200&format=jpeg",
       "publishedAt": "2026-02-02T19:19:16Z",
       "content": "Melania Trump at the world premiere of \"Melania.\"Dimitrios Kambouris/Getty Images\r\n<ul><li>\"Melania\" had an opening weekend box office gross of $7 million.</li><li>It's the biggest opening for a doc … [+4401 chars]",
-      "tags": [
-        "economy_finance",
-        "trade"
-      ],
+      "tags": [],
       "publishedAtTs": 1770059956
     },
     {
@@ -287,7 +289,9 @@
       "content": "Private student-loan companies told Sen. Elizabeth Warren that they expect more business opportunities due to federal repayment changes.Kayla Bartkowski/Getty Images\r\n<ul><li>Trump is overhauling stu… [+6064 chars]",
       "tags": [
         "education",
-        "economy_finance"
+        "policy_legislation",
+        "economy_finance",
+        "trump"
       ],
       "publishedAtTs": 1770033661
     },
@@ -305,7 +309,6 @@
       "content": "Elon Musk and Shivon Zilis at Mar-a-Lago on Sunday.Saul Loeb / AFP via Getty Images\r\n<ul><li>Elon Musk is returning to his role as one of the GOP's most important megadonors.</li><li>He gave $5 milli… [+1552 chars]",
       "tags": [
         "campaign_finance",
-        "republican_party",
         "elections_politics"
       ],
       "publishedAtTs": 1770049523
@@ -323,9 +326,11 @@
       "publishedAt": "2026-02-02T13:29:25Z",
       "content": "Mark ZandiTom Williams/CQ-Roll Call, Inc via Getty Images\r\n<ul><li>Moody's economist Mark Zandi says Kevin Warsh is a 'reasonable' Fed chair pick with strong credentials.</li><li>Zandi says Warsh's r… [+2570 chars]",
       "tags": [
+        "banking",
+        "personnel",
+        "appointments",
         "economy_finance",
-        "trade",
-        "banking"
+        "leadership"
       ],
       "publishedAtTs": 1770038965
     },
@@ -343,7 +348,10 @@
       "content": "Former Federal Reserve Gov. Kevin WarshBloomberg/Getty Images\r\n<ul><li>President Donald Trump nominated Kevin Warsh to succeed Jerome Powell as Federal Reserve chair.</li><li>Former colleagues descri… [+5401 chars]",
       "tags": [
         "personnel",
-        "government_administration"
+        "banking",
+        "appointments",
+        "economy_finance",
+        "leadership"
       ],
       "publishedAtTs": 1770045701
     },
@@ -360,9 +368,7 @@
       "publishedAt": "2026-02-02T00:08:01Z",
       "content": "Getty Images; Tyler Le/BI\r\nKelluu began, as startups often do, in an old shed.The small Finnish company makes airships — think van-sized blimps — originally designed to watch over power lines with ca… [+3257 chars]",
       "tags": [
-        "foreign_policy",
-        "defense_contractor_reform",
-        "trade_negotiations_truces"
+        "off_topic"
       ],
       "publishedAtTs": 1769990881
     },
@@ -379,8 +385,7 @@
       "publishedAt": "2026-02-02T19:59:37Z",
       "content": "Mark \"Markiplier\" Fischbach asked his 38.2 million fans to help make his movie \"Iron Lung\" a hit. They did.Natasha Campos/Getty Images for Mark 'Markiplier' Fischbach\r\n<ul><li>This weekend there were… [+3181 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1770062377
     },
@@ -397,9 +402,7 @@
       "publishedAt": "2026-02-02T09:14:01Z",
       "content": "One of the most underrated revolutions of the past 50 years is the explosion of easily accessible data. Whether it's detailed breakdowns of the characteristics of every neighborhood in the US, improv… [+12858 chars]",
       "tags": [
-        "economy_finance",
-        "inflation",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1770023641
     },
@@ -416,7 +419,7 @@
       "publishedAt": "2026-02-02T10:17:01Z",
       "content": "Elon Musk has urged companies to leave Delaware and reincorporate elsewhere.Joe Sohm/Visions of America/Universal Images Group via Getty Images\r\n<ul><li>Several high-profile companies have left Delaw… [+5122 chars]",
       "tags": [
-        "economy_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1770027421
     },
@@ -433,9 +436,7 @@
       "publishedAt": "2026-02-02T16:33:04Z",
       "content": "The Biltmore Hotel turned 100 years old in January.Kristine Villarroel/Business Insider\r\n<ul><li>When Miami's Biltmore Hotel opened in 1926, it was the crown jewel of the Coral Gables neighborhood.</… [+14228 chars]",
       "tags": [
-        "personal_family",
-        "regional_state",
-        "florida"
+        "off_topic"
       ],
       "publishedAtTs": 1770049984
     },
@@ -452,6 +453,9 @@
       "publishedAt": "2026-02-02T22:03:20Z",
       "content": "The Trump administration is eliminating four out of the six locations that had been slated for a practice test to try out new methods for the 2030 census, raising concerns that the U.S. Census Bureau… [+2901 chars]",
       "tags": [
+        "government_operations",
+        "trump",
+        "government_administration",
         "policy_legislation"
       ],
       "publishedAtTs": 1770069800
@@ -469,8 +473,10 @@
       "publishedAt": "2026-02-02T12:00:46Z",
       "content": "Electricity costs are climbing nearly everywhere in the United States. But, in recent months, the Trump administration has framed the problem as one impacting only blue states.\r\nWhile several blue st… [+8732 chars]",
       "tags": [
-        "economy_finance",
-        "energy"
+        "fact_checking",
+        "prices",
+        "energy",
+        "trump"
       ],
       "publishedAtTs": 1770033646
     },
@@ -487,9 +493,10 @@
       "publishedAt": "2026-02-02T15:54:28Z",
       "content": "A newspaper owned by Rupert Murdoch delivered a sharp warning to President Donald Trump after a high-profile Republican loss.\r\nIn a new editorial, The Wall Street Journal warned Trump that a hardline… [+4589 chars]",
       "tags": [
-        "elections_politics",
         "republican_party",
-        "media_communications"
+        "trump",
+        "leadership",
+        "elections_politics"
       ],
       "publishedAtTs": 1770047668
     },
@@ -506,8 +513,9 @@
       "publishedAt": "2026-02-02T22:22:07Z",
       "content": "President Donald Trump was asked on Monday in the Oval Office to react to a recent report from the Wall Street Journal that a crypto company owned by him and his family received a half-billion-dollar… [+66 chars]",
       "tags": [
-        "legal_justice",
-        "personal_business"
+        "ethics",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1770070927
     },
@@ -523,10 +531,7 @@
       "urlToImage": null,
       "publishedAt": "2026-02-02T17:21:30Z",
       "content": "If you click 'Accept all', we and our partners, including 246 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [
-        "legal_justice",
-        "supreme_court"
-      ],
+      "tags": [],
       "publishedAtTs": 1770052890
     },
     {
@@ -542,8 +547,9 @@
       "publishedAt": "2026-02-02T07:48:31Z",
       "content": "Feb 2 (Reuters) - U.S. President Donald Trump's plan to end the Gaza war was given a boost on Monday with the reopening of the enclave's Rafah crossing with Egypt. But difficult questions remain unad… [+5254 chars]",
       "tags": [
-        "foreign_policy",
         "gaza",
+        "middle_east",
+        "foreign_policy",
         "trump"
       ],
       "publishedAtTs": 1770018511
@@ -561,9 +567,7 @@
       "publishedAt": "2026-02-02T16:00:12Z",
       "content": "A US disaster response firm submitted a plan to White House officials that would guarantee 300% profits and a seven-year monopoly over a new trucking and logistics plan for Donald Trumps Board of Pea… [+5456 chars]",
       "tags": [
-        "foreign_policy",
-        "trade",
-        "economy_finance"
+        "ethics"
       ],
       "publishedAtTs": 1770048012
     },
@@ -580,7 +584,7 @@
       "publishedAt": "2026-02-02T13:37:52Z",
       "content": "An email from Sarah Ferguson suggests Jeffrey Epstein may have had a secret child.\r\nThe former Duchess of York wrote to Epstein in 2011, shortly after his release from jail, saying she had been told … [+4683 chars]",
       "tags": [
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1770039472
     },
@@ -597,8 +601,7 @@
       "publishedAt": "2026-02-02T16:38:59Z",
       "content": "Silver has burst into 2026 as the defining story of the commodities market. In January, silver (SIH26) powered into tripledigit territory, touching $121, more than tripling in value over the past yea… [+4630 chars]",
       "tags": [
-        "economy_finance",
-        "prices"
+        "off_topic"
       ],
       "publishedAtTs": 1770050339
     },
@@ -617,7 +620,9 @@
       "tags": [
         "trade",
         "china",
-        "latin_america"
+        "latin_america",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770008153
     },
@@ -634,8 +639,9 @@
       "publishedAt": "2026-02-02T02:00:30Z",
       "content": "President Donald Trump announced on Sunday that he will be temporarily closing entertainment operations at the Kennedy Center for \"approximately\" two years.\r\nHe claimed in a post to his social media … [+1568 chars]",
       "tags": [
-        "government_administration",
-        "personal_activities"
+        "vanity",
+        "statements",
+        "trump"
       ],
       "publishedAtTs": 1769997630
     },
@@ -653,8 +659,9 @@
       "content": "President Donald Trump's cryptocurrency firm, World Liberty Financial, sold a $500 million stake to a member of the Emirati royal family shortly before his inauguration last January, The Wall Street … [+5496 chars]",
       "tags": [
         "ethics",
-        "foreign_policy",
-        "trade"
+        "washington_dc",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1770045884
     },
@@ -671,7 +678,7 @@
       "publishedAt": "2026-02-02T01:20:51Z",
       "content": "<ul><li>Deadly winter storm slams South as brutal cold grips East Coast\r\n</li><li>How long will bitter cold last?\r\n</li><li>5-year-old, father detained by ICE speak out: Exclusive\r\n</li><li>What new … [+4331 chars]",
       "tags": [
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1769995251
     },
@@ -722,8 +729,7 @@
       "publishedAt": "2026-02-02T19:31:07Z",
       "content": "<ul><li>County medical examiner lists Pretti's death as homicide\r\n</li><li>Former federal judge weighs in on release of 5-year-old boy from detention center\r\n</li><li>Bad Bunny, Olivia Dean, ICE call… [+4330 chars]",
       "tags": [
-        "crisis_emergency",
-        "natural_disasters"
+        "off_topic"
       ],
       "publishedAtTs": 1770060667
     },
@@ -740,7 +746,7 @@
       "publishedAt": "2026-02-02T00:47:11Z",
       "content": "<ul><li>Questions grow over UAE royals investment in Trump familys crypto firm\r\n</li><li>Iran death toll rises as supreme leader warns of 'regional war'\r\n</li><li>ABC News Exclusive: 5-year-old child… [+4350 chars]",
       "tags": [
-        "off_topic"
+        "crisis_emergency"
       ],
       "publishedAtTs": 1769993231
     },
@@ -756,9 +762,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/bb04a20a-c174-428d-b373-e4e2f0d7a312/260202_gmafl_grammys_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-02T11:17:55Z",
       "content": "<ul><li>Questions grow over UAE royals investment in Trump familys crypto firm\r\n</li><li>Iran death toll rises as supreme leader warns of 'regional war'\r\n</li><li>ABC News Exclusive: 5-year-old child… [+4350 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770031075
     },
     {
@@ -773,9 +777,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/9cff40fc-1d88-4929-99ac-0abac1e7f49c/260202_gmafl_one_man_band_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-02T11:36:50Z",
       "content": "<ul><li>Questions grow over UAE royals investment in Trump familys crypto firm\r\n</li><li>Iran death toll rises as supreme leader warns of 'regional war'\r\n</li><li>ABC News Exclusive: 5-year-old child… [+4350 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770032210
     },
     {
@@ -791,8 +793,9 @@
       "publishedAt": "2026-02-02T21:55:33Z",
       "content": "Thousands of Federal Aviation Administration workers have been furloughed and nearly 14,000 air traffic controllers will work without pay as the partial government shutdown drags into its third day -… [+5273 chars]",
       "tags": [
-        "government_administration",
-        "federal_agencies"
+        "budget",
+        "government_operations",
+        "government_administration"
       ],
       "publishedAtTs": 1770069333
     },
@@ -809,8 +812,7 @@
       "publishedAt": "2026-02-02T05:31:51Z",
       "content": "Venezuelas interim president Delcy Rodriguez announced on Sunday that the countrys first shipment of liquefied petroleum gas had been exported.\r\nThe announcement in a post on her Telegram channel on … [+2208 chars]",
       "tags": [
-        "trade",
-        "energy"
+        "off_topic"
       ],
       "publishedAtTs": 1770010311
     },
@@ -827,7 +829,6 @@
       "publishedAt": "2026-02-02T05:32:29Z",
       "content": "Bad Bunny and Olivia Dean were among the winners at Sunday night's 2026 Grammy Awards who used the platform to speak out in support of immigrants amid ongoing backlash to the Trump administration's i… [+3686 chars]",
       "tags": [
-        "immigration",
         "social_issues"
       ],
       "publishedAtTs": 1770010349
@@ -845,7 +846,7 @@
       "publishedAt": "2026-02-02T15:15:06Z",
       "content": "President Donald Trump said Sunday he will move to close Washingtons Kennedy Center performing arts center for two years starting in July for construction, his latest proposal to upturn the storied v… [+5423 chars]",
       "tags": [
-        "government_administration",
+        "vanity",
         "trump"
       ],
       "publishedAtTs": 1770045306
@@ -863,7 +864,7 @@
       "publishedAt": "2026-02-02T17:20:49Z",
       "content": "Laws designed to make it harder to regulate AI and computing technology are quietly starting to spread through state legislatures. Conveniently, these so-called right-to-compute laws are emerging jus… [+2643 chars]",
       "tags": [
-        "ai_state_preemption"
+        "off_topic"
       ],
       "publishedAtTs": 1770052849
     },
@@ -880,8 +881,8 @@
       "publishedAt": "2026-02-02T01:13:12Z",
       "content": "\"I have determined that The Trump Kennedy Center, if temporarily closed for construction, revitalization, and complete rebuilding, can be, without question, the finest performing arts facility of its… [+55 chars]",
       "tags": [
-        "government_administration",
-        "personnel"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1769994792
     },
@@ -898,8 +899,9 @@
       "publishedAt": "2026-02-02T12:30:53Z",
       "content": "\"I can't speak for Bill, but I have never been to Epstein Island, nor anywhere close, and until tonight's false and defamatory statement, have never been accused of being there, not even by the Fake … [+10 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "personal_legal",
+        "lawsuits",
+        "trump"
       ],
       "publishedAtTs": 1770035453
     },
@@ -916,9 +918,8 @@
       "publishedAt": "2026-02-02T07:54:49Z",
       "content": "A preening and vindictive strongman at the top, living in gilded opulence, and surrounded by generals and business cronies. Is this what a junta looks like? Or—with the Twitter-storms, the Cabinet-se… [+6200 chars]",
       "tags": [
-        "social_issues",
-        "leadership",
-        "personal_family"
+        "trump",
+        "leadership"
       ],
       "publishedAtTs": 1770018889
     },
@@ -935,8 +936,10 @@
       "publishedAt": "2026-02-02T18:07:55Z",
       "content": "February 2, 2026\r\nWASHINGTON Today, the U.S. Environmental Protection Agency (EPA) advanced American farmers and equipment owners lawful right to repair their farm and other nonroad diesel equipment.… [+4343 chars]",
       "tags": [
-        "environment",
-        "agriculture"
+        "federal_agencies",
+        "statements",
+        "policy_legislation",
+        "government_administration"
       ],
       "publishedAtTs": 1770055675
     },
@@ -953,9 +956,10 @@
       "publishedAt": "2026-02-02T19:16:41Z",
       "content": "ICE-reporting service StopICE has blamed a US Customs and Border Protection (CBP) agent for attacking its app and website and sending users text messages warning them that their information had been … [+2842 chars]",
       "tags": [
-        "security_intelligence",
+        "security_incidents",
+        "immigration",
         "cybersecurity",
-        "law_enforcement"
+        "federal_agencies"
       ],
       "publishedAtTs": 1770059801
     },
@@ -972,8 +976,7 @@
       "publishedAt": "2026-02-02T10:15:14Z",
       "content": "Opinion Barely a month into 2026, electrical power infrastructure on two continents has tested positive for cyberattacks. One fell flat as attempts to infiltrate and disrupt the Polish distribution g… [+5398 chars]",
       "tags": [
-        "security_intelligence",
-        "cybersecurity"
+        "off_topic"
       ],
       "publishedAtTs": 1770027314
     },
@@ -990,8 +993,7 @@
       "publishedAt": "2026-02-02T00:00:00Z",
       "content": "A new study shows most elite researchers in China remained in the country over the course of their careers.Credit: An Yuan/China News Service/VCG/Getty\r\nDeng Xiaopings 1979 visit to the United States… [+6837 chars]",
       "tags": [
-        "china",
-        "science_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1769990400
     },
@@ -1007,9 +1009,7 @@
       "urlToImage": "https://cdn8.openculture.com/2026/02/01223911/bruceminnesota-1024x692.png",
       "publishedAt": "2026-02-02T09:00:09Z",
       "content": "When the his­to­ry books are writ­ten, well remem­ber the politi­cians, law firms, and CEOs who quick­ly bent the knee to Don­ald Trump. Well also remem­ber the scant few Amer­i­can fig­ures who refu… [+1702 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770022809
     },
     {
@@ -1025,9 +1025,8 @@
       "publishedAt": "2026-02-02T15:56:57Z",
       "content": "As soon as artists and performers began canceling their scheduled Kennedy Center engagements en masse following President Donald Trump’s historically self-aggrandizing move to add his own name to the… [+5842 chars]",
       "tags": [
-        "personal_family",
-        "political_endorsements",
-        "social_issues"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1770047817
     },
@@ -1044,8 +1043,7 @@
       "publishedAt": "2026-02-02T16:06:26Z",
       "content": "On Friday, the Justice Department released more than three million pages of the Epstein filesand newsrooms everywhere were forced to cancel their weekend plans to comb through the tranche of emails, … [+6336 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "legal_justice"
       ],
       "publishedAtTs": 1770048386
     },
@@ -1062,7 +1060,7 @@
       "publishedAt": "2026-02-02T12:12:16Z",
       "content": "If you were compiling a shortlist of the most impressive accomplishments that human beings have achieved in our hegemony of the planet Earth, then surely somewhere near the top would be the fact that… [+7587 chars]",
       "tags": [
-        "space_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1770034336
     },
@@ -1079,8 +1077,11 @@
       "publishedAt": "2026-02-02T11:30:06Z",
       "content": "Kevin Warsh Is Trumps Manand His Own. How He Will Reshape the Fed. Kevin Warsh is President Trumps nominee for the next chair of the Federal Reserve, Trump says in a social-media post. (Barron’s) see… [+3039 chars]",
       "tags": [
-        "economy_finance",
-        "personnel"
+        "personnel",
+        "appointments",
+        "banking",
+        "trump",
+        "economy_finance"
       ],
       "publishedAtTs": 1770031806
     },
@@ -1098,8 +1099,7 @@
       "content": "from the privatize-the-profits,-socialize-the-losses dept\r\nWeve long noted how the 2021 infrastructure bill included $42.5 billion for broadband grants dubbed the Broadband, Equity, Access And Deploy… [+4902 chars]",
       "tags": [
         "policy_legislation",
-        "economy_finance",
-        "technology_regulation"
+        "economy_finance"
       ],
       "publishedAtTs": 1770038678
     },
@@ -1116,9 +1116,11 @@
       "publishedAt": "2026-02-02T18:49:33Z",
       "content": "from the thieves-liars-murderers-and-bastards dept\r\nTrump’s going to win the election he lost, no matter what he has to do to make that happen. Surrounding himself with a better set of sycophants thi… [+6472 chars]",
       "tags": [
-        "legal_justice",
+        "federal_agencies",
+        "voting_rights",
+        "trump",
         "elections_politics",
-        "trump"
+        "legal_justice"
       ],
       "publishedAtTs": 1770058173
     },
@@ -1135,8 +1137,8 @@
       "publishedAt": "2026-02-02T23:41:36Z",
       "content": "from the a-startling-lack-of-ethics dept\r\nU.S. Homeland Security Secretary Kristi Noem last week posted a photo of the arrest of Nekima Levy Armstrong, one of three activists who had entered a St. Pa… [+5245 chars]",
       "tags": [
-        "media_communications",
-        "ethics"
+        "cabinet",
+        "media_communications"
       ],
       "publishedAtTs": 1770075696
     },
@@ -1153,8 +1155,7 @@
       "publishedAt": "2026-02-02T17:22:38Z",
       "content": "from the not-how-any-of-this-works dept\r\nWe called bullshit when Republicans tried to order websites to carry content. We’re calling bullshit now when Democrats are trying to do the same.\r\nWe spent y… [+7596 chars]",
       "tags": [
-        "free_speech",
-        "social_media"
+        "off_topic"
       ],
       "publishedAtTs": 1770052958
     },
@@ -1171,9 +1172,10 @@
       "publishedAt": "2026-02-02T21:39:59Z",
       "content": "from the straight-up-mugging dept\r\nLet’s just clear the air right up front: this is just the government mugging Somalis because they’re currently at the top of Trump’s shitlist. Prior to last month’s… [+6026 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "ice_controversies_resistance",
-        "immigration"
+        "immigration",
+        "federal_agencies",
+        "civil_rights",
+        "social_issues"
       ],
       "publishedAtTs": 1770068399
     },
@@ -1190,8 +1192,9 @@
       "publishedAt": "2026-02-02T17:30:59Z",
       "content": "People partake in a \"National Shutdown\" protest against US Immigration and Customs Enforcement in Minneapolis, on January 30, 2026. | Charly Triballeau/AFP via Getty Images\r\n\n\nWhile the Trump adminis… [+9974 chars]",
       "tags": [
-        "immigration",
+        "ice_controversies_resistance",
         "protests",
+        "immigration",
         "social_issues"
       ],
       "publishedAtTs": 1770053459
@@ -1209,8 +1212,7 @@
       "publishedAt": "2026-02-02T19:03:19Z",
       "content": "Melania Trump, 2026. | © Amazon Prime Video/Courtesy Everett Collection\r\n\n\nMany Americans are facing severe economic hardship. But not the incoming president and first lady of the United States. In f… [+9175 chars]",
       "tags": [
-        "personal_family",
-        "economy_finance"
+        "trump"
       ],
       "publishedAtTs": 1770058999
     },
@@ -1227,8 +1229,11 @@
       "publishedAt": "2026-02-02T20:16:49Z",
       "content": "Though some of the Supreme Court’s Republican justices occasionally break with President Donald Trump, they typically do so on issues that split the Republican Party. | Andrew Harrer/Bloomberg via Ge… [+8010 chars]",
       "tags": [
-        "elections_politics",
-        "republican_party"
+        "republican_party",
+        "supreme_court",
+        "regional_state",
+        "policy_legislation",
+        "elections_politics"
       ],
       "publishedAtTs": 1770063409
     },
@@ -1245,8 +1250,7 @@
       "publishedAt": "2026-02-02T12:56:17Z",
       "content": "President Trump is taking aim at Trevor Noah for his Jeffrey Epstein joke during Sunday's Grammy Awards, threatening to sue the comedian and calling him a \"total loser.\"\r\n47 hopped on his Truth Socia… [+1522 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1770036977
     },
@@ -1262,10 +1266,7 @@
       "urlToImage": "https://imagez.tmz.com/image/3c/16by9/2026/02/02/3cf37b337d4442199825f728686fa6e4_xl.png",
       "publishedAt": "2026-02-02T01:30:53Z",
       "content": "Trevor Noah came out swinging as host of the Grammys Sunday ... he immediately took aim at Nicki Minaj and Donald Trump in his opening monologue.\r\nTrevor said, \"Nicki Minaj is not here,\" then took a … [+715 chars]",
-      "tags": [
-        "media_communications",
-        "personal_activities"
-      ],
+      "tags": [],
       "publishedAtTs": 1769995853
     },
     {
@@ -1280,10 +1281,7 @@
       "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/2026-Grammy-Monologue.jpg?w=1600&h=900&crop=1",
       "publishedAt": "2026-02-02T01:35:59Z",
       "content": "Trevor Noah once again showed why he’s been an ideal Grammys host these last six years, opening the 2026 show with his usual mix of genuine fan enthusiasm and comedic wit — with just a bit of politic… [+3075 chars]",
-      "tags": [
-        "media_communications",
-        "personal_activities"
-      ],
+      "tags": [],
       "publishedAtTs": 1769996159
     },
     {
@@ -1299,8 +1297,7 @@
       "publishedAt": "2026-02-02T14:53:18Z",
       "content": "Donald Trump is crashing out about the Grammys and threatening to sue host Trevor Noah over a joke he made about the president’s relationship with convicted sex traffickerJeffrey Epstein. \r\nNoah deli… [+2543 chars]",
       "tags": [
-        "legal_justice",
-        "media_communications"
+        "trump"
       ],
       "publishedAtTs": 1770043998
     },
@@ -1334,9 +1331,7 @@
       "publishedAt": "2026-02-02T03:55:35Z",
       "content": "Billie Eilish’s hit “Wildflower” won the coveted award for Song of the Year at the 2026 Grammys on Sunday — and the singer used her speech to condemn ICE and speak up for the rights of immigrants. \r\n… [+1851 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "ice_controversies_resistance",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1770004535
     },
@@ -1353,8 +1348,7 @@
       "publishedAt": "2026-02-02T17:30:25Z",
       "content": "Jelly Roll said he’s long been disconnected from the world of politics, but plans to speak out “in the most loud and clear way” within the next week.\r\nAfter winning Best Contemporary Country Album fo… [+2769 chars]",
       "tags": [
-        "personal_family",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1770053425
     },
@@ -1370,9 +1364,7 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/02/Melania_2026_003_CREDIT__Amazon_MGM_Studios-H-2026.webp?w=650",
       "publishedAt": "2026-02-02T18:00:00Z",
       "content": "It should come as no surprise that Amazon’s documentary “Melania,” about First Lady Melania Trump, grossed $7 million at the box office over the weekend, making it the highest opening for a non-music… [+8085 chars]",
-      "tags": [
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1770055200
     },
     {
@@ -1387,9 +1379,7 @@
       "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/02/GettyImages-2258383422.jpg?w=650",
       "publishedAt": "2026-02-02T20:30:00Z",
       "content": "Just as quickly as media outlets far beyond Hollywood were quick to point out the enormous $75 million that Amazon MGM paid to release the documentary “Melania,” White House Press Secretary Karoline … [+4500 chars]",
-      "tags": [
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1770064200
     },
     {
@@ -1422,9 +1412,11 @@
       "publishedAt": "2026-02-02T15:26:13Z",
       "content": "Official lies after an ICE killing begin to backfire.In Minneapolis, Minnesota, the fatal shooting of a protester by border control agents triggered mass demonstrations and presented the Trump admini… [+1175 chars]",
       "tags": [
-        "legal_justice",
+        "ice_controversies_resistance",
         "immigration",
-        "law_enforcement"
+        "trump",
+        "media_communications",
+        "social_issues"
       ],
       "publishedAtTs": 1770045973
     },
@@ -1458,8 +1450,9 @@
       "publishedAt": "2026-02-02T23:51:56Z",
       "content": "United States President Donald Trump has announced the launch of a strategic minerals stockpile.\r\nThe stockpile, called Project Vault, was announced on Monday. It will combine $2bn of private capital… [+7576 chars]",
       "tags": [
-        "economy_finance",
-        "energy"
+        "trump",
+        "policy_legislation",
+        "economy_finance"
       ],
       "publishedAtTs": 1770076316
     },
@@ -1476,9 +1469,10 @@
       "publishedAt": "2026-02-02T15:01:13Z",
       "content": "Islamabad, Pakistan When meeting United States President Donald Trump in the Oval Office in September, Pakistans army chief, Field Marshal Asim Munir, opened a briefcase with Prime Minister Shehbaz S… [+10268 chars]",
       "tags": [
+        "national_security",
+        "security_incidents",
         "foreign_policy",
-        "china",
-        "trump"
+        "security_intelligence"
       ],
       "publishedAtTs": 1770044473
     },
@@ -1496,7 +1490,9 @@
       "content": "United States President Donald Trump has agreed to slash US tariffs on Indian goods to 18 percent from 50 percent in exchange for India lowering trade barriers as well as stopping its purchases of Ru… [+3708 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy"
+        "trump",
+        "economy_finance",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770062293
     },
@@ -1513,8 +1509,8 @@
       "publishedAt": "2026-02-02T03:15:10Z",
       "content": "United States President Donald Trump has announced plans to close the John F Kennedy Memorial Center for the Performing Arts for two years for renovations starting in July.\r\nTrumps announcement on Su… [+3438 chars]",
       "tags": [
-        "government_administration",
-        "personal_family"
+        "vanity",
+        "trump"
       ],
       "publishedAtTs": 1770002110
     },
@@ -1531,9 +1527,9 @@
       "publishedAt": "2026-02-02T19:32:10Z",
       "content": "Democrats in the United States are rejoicing over a Texas State Senate special election victory they say reflects growing discontent with President Donald Trumps policies, months before the US midter… [+5162 chars]",
       "tags": [
+        "state_elections",
         "elections_politics",
-        "2026_midterms",
-        "texas"
+        "trump"
       ],
       "publishedAtTs": 1770060730
     },
@@ -1551,8 +1547,9 @@
       "content": "NewsFeed\r\nFive-year-old Liam Ramos and his father have been released from a US immigration detention facility, following an order by a judge who accused ICE agents of traumatising children as they pu… [+49 chars]",
       "tags": [
         "immigration",
-        "mass_deportation_operation",
-        "ice_controversies_resistance"
+        "ice_controversies_resistance",
+        "social_issues",
+        "legal_justice"
       ],
       "publishedAtTs": 1770049986
     },
@@ -1569,9 +1566,9 @@
       "publishedAt": "2026-02-02T12:49:25Z",
       "content": "NewsFeed\r\nICE agents in California detained several residents, including a US citizen, amid a surge in immigration raids under the Trump administration. Protests under the ICE Out of Everywhere campa… [+86 chars]",
       "tags": [
-        "mass_deportation_operation",
+        "immigration",
         "ice_controversies_resistance",
-        "immigration"
+        "social_issues"
       ],
       "publishedAtTs": 1770036565
     },
@@ -1588,8 +1585,8 @@
       "publishedAt": "2026-02-02T08:38:45Z",
       "content": "The Cuban government has rejected accusations that it poses a threat to the security of the United States, insisting that it stands ready to cooperate with Washington.\r\nThe Cuban Ministry of Foreign … [+4253 chars]",
       "tags": [
-        "foreign_policy",
-        "security_intelligence"
+        "statements",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770021525
     },
@@ -1607,7 +1604,10 @@
       "content": "Iran has said that it expects progress on a framework to restart nuclear talks with the United States as unverified reports suggest the countrys president has ordered the revival of the negotiations.… [+3950 chars]",
       "tags": [
         "iran",
-        "nuclear_policy"
+        "middle_east",
+        "nuclear_policy",
+        "arms_control",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770038533
     },
@@ -1625,6 +1625,9 @@
       "content": "Washington, DC A group of United States citizens and immigrant rights groups has launched a lawsuit seeking to challenge the sweeping suspension of immigrant visa processing for 75 countries by the a… [+5393 chars]",
       "tags": [
         "immigration",
+        "lawsuits",
+        "civil_litigation",
+        "civil_rights",
         "legal_justice"
       ],
       "publishedAtTs": 1770064741
@@ -1642,9 +1645,7 @@
       "publishedAt": "2026-02-02T02:25:41Z",
       "content": "Here is where things stand on Monday, February 1:\r\nFighting\r\n<ul><li>A Russian drone strike on a bus carrying miners in Ukraines Dnipropetrovsk region killed at least 12 people, according to official… [+3917 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1769999141
     },
@@ -1661,8 +1662,7 @@
       "publishedAt": "2026-02-02T16:23:20Z",
       "content": "New Delhi, India The latest release of documents related to the US Justice Department investigation into the crimes of convicted sex offender Jeffrey Epstein has set off political infernos around the… [+13234 chars]",
       "tags": [
-        "foreign_policy",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1770049400
     },
@@ -1679,8 +1679,11 @@
       "publishedAt": "2026-02-02T17:02:04Z",
       "content": "The Syrian army has moved into the northeastern city of Hasakah, which was formerly under the control of the Kurdish-led Syrian Democratic Forces (SDF), a first step towards implementing a US-backed … [+2312 chars]",
       "tags": [
+        "military",
+        "national_security",
+        "middle_east",
         "foreign_policy",
-        "middle_east"
+        "security_intelligence"
       ],
       "publishedAtTs": 1770051724
     },
@@ -1697,8 +1700,7 @@
       "publishedAt": "2026-02-02T11:09:24Z",
       "content": "Japan has announced the discovery of rare earth elements at record sea depths.\r\nThe government said on Monday that a deep-sea test mission in the Pacific Ocean had retrieved sediment containing rare … [+2402 chars]",
       "tags": [
-        "energy",
-        "trade"
+        "off_topic"
       ],
       "publishedAtTs": 1770030564
     },
@@ -1715,7 +1717,7 @@
       "publishedAt": "2026-02-02T20:58:00Z",
       "content": "Gianni Infantino has apologised for joking about the behaviour of British football fans and called for a ban on Russia playing international football to be lifted.\r\nIn a wide-ranging interview with S… [+3302 chars]",
       "tags": [
-        "foreign_policy"
+        "off_topic"
       ],
       "publishedAtTs": 1770065880
     }

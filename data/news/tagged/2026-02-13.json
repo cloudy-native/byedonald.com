@@ -15,9 +15,11 @@
       "publishedAt": "2026-02-13T20:10:58Z",
       "content": "Workers at theSocial Security Administration (SSA) have been told to share information about in-person appointments with agents of Immigration and Customs Enforcement (ICE), WIRED has learned.\r\nIf IC… [+3820 chars]",
       "tags": [
+        "federal_agencies",
         "immigration",
-        "ice_controversies_resistance",
-        "personal_legal"
+        "government_operations",
+        "law_enforcement",
+        "social_issues"
       ],
       "publishedAtTs": 1771013458
     },
@@ -34,6 +36,9 @@
       "publishedAt": "2026-02-13T19:31:24Z",
       "content": "A group of 23 Democratic US senators sent a letter Friday to the top federal regulator overseeing prediction markets, urging the agency to avoid weighing in on pending court cases over the legality o… [+4551 chars]",
       "tags": [
+        "congress",
+        "lawsuits",
+        "civil_litigation",
         "legal_justice"
       ],
       "publishedAtTs": 1771011084
@@ -51,8 +56,7 @@
       "publishedAt": "2026-02-13T12:00:00Z",
       "content": "At the start of the 2026 Milano Cortina Winter Olympics, US figure skater Amber Glenn spoke at a press conference about using her platform as an Olympian to support LGBTQ+ rights. It isnt the first t… [+3624 chars]",
       "tags": [
-        "lgbtq_rights",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1770984000
     },
@@ -69,9 +73,7 @@
       "publishedAt": "2026-02-13T10:02:01Z",
       "content": "Russia often mixes up how it attacks Ukraine with ballistic and cruise missiles from firing decoys to tweaking trajectories midflight and Kyiv says it's funneling that battlefield intel to US Patriot… [+4561 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "defense_contractor_reform"
+        "off_topic"
       ],
       "publishedAtTs": 1770976921
     },
@@ -88,9 +90,7 @@
       "publishedAt": "2026-02-13T10:00:02Z",
       "content": "\"Dude. What.\"\r\n\"NOT FUNNY.\"\r\n\"Deeply horrifying\"\r\nAt a perilous time for Salesforce, employees flooded an internal Slack channel this week to denounce CEO Marc Benioff's latest gaffe.\r\nInstead of ral… [+8492 chars]",
       "tags": [
-        "personal_family",
-        "media_communications",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1770976802
     },
@@ -108,7 +108,9 @@
       "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7612 chars]",
       "tags": [
         "immigration",
-        "government_administration"
+        "government_administration",
+        "policy_legislation",
+        "trump"
       ],
       "publishedAtTs": 1770983573
     },
@@ -126,7 +128,10 @@
       "content": "The Virginia Supreme Court cleared the way for a special election April 21 in which voters will be asked to allow congressional redistricting before the November elections.\r\nThough a Republican chall… [+2698 chars]",
       "tags": [
         "redistricting",
-        "elections_politics"
+        "democratic_party",
+        "elections_politics",
+        "regional_state",
+        "legal_justice"
       ],
       "publishedAtTs": 1771010855
     },
@@ -143,8 +148,11 @@
       "publishedAt": "2026-02-13T22:04:51Z",
       "content": "Two federal immigration agents involved in the shooting of a Venezuelan immigrant in Minneapolis last month\r\n appear to have lied about the details of the incident, a spokesperson for the Department … [+2866 chars]",
       "tags": [
+        "ice_controversies_resistance",
+        "immigration",
         "law_enforcement",
-        "immigration"
+        "federal_agencies",
+        "security_incidents"
       ],
       "publishedAtTs": 1771020291
     },
@@ -160,10 +168,7 @@
       "urlToImage": "https://i.insider.com/698f0df9d3c7faef0ece3910?width=1200&format=jpeg",
       "publishedAt": "2026-02-13T11:57:49Z",
       "content": "Salesforce CEO Marc Benioff.Halil Sagirkaya/Anadolu via Getty Images\r\n<ul><li>This post originally appeared in the Business Insider Today newsletter.</li><li>You can sign up for Business Insider's da… [+2216 chars]",
-      "tags": [
-        "personal_family",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1770983869
     },
     {
@@ -179,8 +184,8 @@
       "publishedAt": "2026-02-13T16:14:10Z",
       "content": "Student loan borrowers who have reached their payment threshold are now eligible for forgiveness.baona/Getty Images\r\n<ul><li>More student-loan forgiveness emails are going out to borrowers on income-… [+3595 chars]",
       "tags": [
-        "economy_finance",
-        "education"
+        "education",
+        "social_issues"
       ],
       "publishedAtTs": 1770999250
     },
@@ -197,8 +202,9 @@
       "publishedAt": "2026-02-13T17:36:43Z",
       "content": "Alexandr Wang cofounded Scale AI. But he's about to become a very expensive hire at Meta.Drew Angerer/Getty Images\r\n<ul><li>Scale AI is suing the Department of Defense, filing its complaint on Januar… [+3765 chars]",
       "tags": [
-        "legal_justice",
-        "ai_state_preemption"
+        "civil_litigation",
+        "lawsuits",
+        "legal_justice"
       ],
       "publishedAtTs": 1771004203
     },
@@ -214,10 +220,7 @@
       "urlToImage": null,
       "publishedAt": "2026-02-13T15:24:21Z",
       "content": "If you click 'Accept all', we and our partners, including 245 who are part of the IAB Transparency &amp; Consent Framework, will also store and / or access information on a device (in other words, us… [+1046 chars]",
-      "tags": [
-        "elections_politics",
-        "trump"
-      ],
+      "tags": [],
       "publishedAtTs": 1770996261
     },
     {
@@ -233,9 +236,11 @@
       "publishedAt": "2026-02-13T00:30:13Z",
       "content": "Jeremy Carl, the Trump administrations pick for a top State Department position, is unlikely to get the job after a bipartisan group of senators grilled him over his history of racist, sexist and rep… [+4421 chars]",
       "tags": [
+        "appointments",
         "personnel",
-        "foreign_policy",
-        "legal_justice"
+        "congress",
+        "government_administration",
+        "trump"
       ],
       "publishedAtTs": 1770942613
     },
@@ -251,11 +256,7 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dlAIOJNQYBa4R53Ls_lAxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/2f2337f8be6f317386d5d344f7b35a80",
       "publishedAt": "2026-02-13T18:34:01Z",
       "content": "California Gov. Gavin Newsom once again trolled President Donald Trump in front of world leaders.\r\nNewsom is back in Europe just one month after he traveled to Davos to tear into the Trump administra… [+2900 chars]",
-      "tags": [
-        "republican_party",
-        "political_endorsements",
-        "media_communications"
-      ],
+      "tags": [],
       "publishedAtTs": 1771007641
     },
     {
@@ -272,6 +273,7 @@
       "content": "Speaking about voter identification laws with Fox News commentator Larry Kudlow, President Donald Trump maligned Connecticut's voting integrity laws and took a swipe at U.S. Sen. Richard Blumenthal, … [+4477 chars]",
       "tags": [
         "voting_rights",
+        "trump",
         "elections_politics"
       ],
       "publishedAtTs": 1770980400
@@ -290,7 +292,9 @@
       "content": "By Valerie Volcovici\r\nWASHINGTON, Feb 13 (Reuters) - President Donald Trump's repeal of the foundation for federal climate regulation will immediately free automakers from costly tailpipe emissions s… [+5843 chars]",
       "tags": [
         "environment",
-        "policy_legislation",
+        "federal_agencies",
+        "climate_policy",
+        "automotive",
         "energy"
       ],
       "publishedAtTs": 1771002828
@@ -307,11 +311,7 @@
       "urlToImage": "https://s.yimg.com/os/en/the_huffington_post_584/aac363020cacc5f00ecdeca93f803466",
       "publishedAt": "2026-02-13T13:03:14Z",
       "content": "I never used to sweat like this.\r\nNearly a decade ago, in a small Texas town with a crystal-clear river running through it, a university student came to my office with a Bowie knife sheathed at his h… [+16727 chars]",
-      "tags": [
-        "social_issues",
-        "climate_policy",
-        "protests"
-      ],
+      "tags": [],
       "publishedAtTs": 1770987794
     },
     {
@@ -327,9 +327,11 @@
       "publishedAt": "2026-02-13T08:39:51Z",
       "content": "By Nidhi Verma and Jarrett Renshaw\r\nNEW DELHI/WASHINGTON, Feb 13 (Reuters) - The United States has issued a general licence to India's Reliance Industries Ltd that will allow the refiner to buy Venez… [+2134 chars]",
       "tags": [
+        "energy",
+        "sanctions",
         "trade",
         "foreign_policy",
-        "energy"
+        "economy_finance"
       ],
       "publishedAtTs": 1770971991
     },
@@ -346,8 +348,10 @@
       "publishedAt": "2026-02-13T02:03:03Z",
       "content": "TAIPEI, Feb 13 (Reuters) - A bipartisan group of 37 U.S. lawmakers have written to senior Taiwanese politicians expressing concern about parliament stalling proposed defence spending, saying that the… [+2811 chars]",
       "tags": [
+        "military",
+        "congress",
         "foreign_policy",
-        "defense_contractor_reform"
+        "security_intelligence"
       ],
       "publishedAtTs": 1770948183
     },
@@ -364,8 +368,7 @@
       "publishedAt": "2026-02-13T16:22:13Z",
       "content": "Amid President Donald Trump's repeated targeting of the country with threats and insults, Canadian travel to the U.S. has remained at record low levels. This is despite early analyst predictions that… [+3351 chars]",
       "tags": [
-        "foreign_policy",
-        "trade"
+        "canada"
       ],
       "publishedAtTs": 1770999733
     },
@@ -382,8 +385,9 @@
       "publishedAt": "2026-02-13T19:24:44Z",
       "content": "The Trump administration's deportations last year are estimated to have cost taxpayers \"upward of $40 million,\" with some third-country migrants costing more than $1 million each, according to a Demo… [+4935 chars]",
       "tags": [
-        "mass_deportation_operation",
-        "economy_finance"
+        "immigration",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1771010684
     },
@@ -400,9 +404,11 @@
       "publishedAt": "2026-02-13T19:48:49Z",
       "content": "The acting head of Immigration and Customs Enforcement says that two of its officers appear to have made \"untruthful statements\" about shooting a migrant in Minnesota and may face federal charges for… [+4790 chars]",
       "tags": [
-        "law_enforcement",
+        "criminal_cases",
+        "ice_controversies_resistance",
         "immigration",
-        "criminal_cases"
+        "law_enforcement",
+        "federal_agencies"
       ],
       "publishedAtTs": 1771012129
     },
@@ -420,9 +426,10 @@
       "content": "Republican defectors helped clinch passage of a House bill this week that would overturn President Donald Trump's tariffs on Canada, one of the largest U.S. trade partners.\r\nThe rare rebuke of Trump … [+5601 chars]",
       "tags": [
         "trade",
-        "tariff_impact_economy",
-        "elections_politics",
-        "congress"
+        "congress",
+        "canada",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1770977187
     },
@@ -438,10 +445,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/ce5028dd-a67a-4d3a-bb56-3e588fa377ed/260213_abc_social_newsom_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-13T23:55:36Z",
       "content": "<ul><li>ICE says 2 officers may have lied under oath about migrant shooting in Minnesota\r\n</li><li>FBI releases description of Nancy Guthrie kidnapping suspect \r\n</li><li>Partial DHS shutdown looms a… [+4193 chars]",
-      "tags": [
-        "foreign_policy",
-        "leadership"
-      ],
+      "tags": [],
       "publishedAtTs": 1771026936
     },
     {
@@ -457,8 +461,10 @@
       "publishedAt": "2026-02-13T05:22:14Z",
       "content": "The USS Gerald R. Ford carrier strike group is expected to leave the Caribbean and head towards the Middle East in the coming days, according to three U.S. officials.\r\nThe deployment of the Ford and … [+1473 chars]",
       "tags": [
-        "foreign_policy",
-        "military"
+        "military",
+        "national_security",
+        "security_intelligence",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770960134
     },
@@ -475,7 +481,7 @@
       "publishedAt": "2026-02-13T18:09:27Z",
       "content": "<ul><li>ICE says 2 officers may have lied under oath about migrant shooting in Minnesota\r\n</li><li>FBI releases description of Nancy Guthrie kidnapping suspect \r\n</li><li>Partial DHS shutdown looms a… [+4193 chars]",
       "tags": [
-        "off_topic"
+        "transportation"
       ],
       "publishedAtTs": 1771006167
     },
@@ -491,9 +497,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/b6dc2317-3c84-49e8-978c-bad11d261fa2/260213_gmafl_seniors_love_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-13T11:04:49Z",
       "content": "<ul><li>Trump administration rolls back key EPA climate regulation\r\n</li><li> Lawmaker suggests Epstein survivors should reach out to DOJ\r\n</li><li>YouTube star Piper Rockelle turns to OnlyFans\r\n</li… [+4545 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770980689
     },
     {
@@ -508,9 +512,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/35bd4636-0f58-4231-aa81-f5a7160c614b/260213_abcnl_2p_ai_date_hpMain_16x9.jpg?w=992",
       "publishedAt": "2026-02-13T20:26:12Z",
       "content": "<ul><li>ICE says 2 officers may have lied under oath about migrant shooting in Minnesota\r\n</li><li>FBI releases description of Nancy Guthrie kidnapping suspect \r\n</li><li>Partial DHS shutdown looms a… [+4193 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771014372
     },
     {
@@ -525,9 +527,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/c9891d1d-cde9-4543-b8a1-48c4f136a48b/260213_abc_social_sinkhole_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-13T14:33:14Z",
       "content": "<ul><li>Reward money doubles in search for Nancy Guthrie\r\n</li><li>DHS shutdown all but certain as lawmakers leave Washington with no deal\r\n</li><li>Judge rebukes Pentagon over attempt to punish Sen.… [+4249 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770993194
     },
     {
@@ -543,8 +543,11 @@
       "publishedAt": "2026-02-13T00:02:01Z",
       "content": "The Department of Homeland Security is all but certain to run out of funding at the end of the day Friday as lawmakers left Capitol Hill Thursday with no deal in sight.\r\nSenate Democrats voted unanim… [+4319 chars]",
       "tags": [
-        "government_administration",
-        "budget"
+        "budget",
+        "congress",
+        "federal_agencies",
+        "government_operations",
+        "policy_legislation"
       ],
       "publishedAtTs": 1770940921
     },
@@ -560,9 +563,7 @@
       "urlToImage": "https://i.abcnewsfe.com/a/3efee261-0c79-465f-a35f-6531e8961161/260213_abc_social_construction_hpMain_9x16.jpg?w=992",
       "publishedAt": "2026-02-13T14:33:12Z",
       "content": "<ul><li>Reward money doubles in search for Nancy Guthrie\r\n</li><li>DHS shutdown all but certain as lawmakers leave Washington with no deal\r\n</li><li>Judge rebukes Pentagon over attempt to punish Sen.… [+4249 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770993192
     },
     {
@@ -578,8 +579,7 @@
       "publishedAt": "2026-02-13T15:56:45Z",
       "content": "The billionaire CEO of logistics giant DP World has resigned following the disclosure of his communications with the late sex offender Jeffrey Epstein.\r\nSultan Ahmed bin Sulayem, an Emirati billionai… [+1759 chars]",
       "tags": [
-        "personnel",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1770998205
     },
@@ -597,7 +597,10 @@
       "content": "An immigration judge has dismissed removal proceedings against Narciso Barranco, an undocumented father of 3 U.S. Marines, who was detained while at his landscaping job in California last summer, his… [+2697 chars]",
       "tags": [
         "immigration",
-        "legal_justice"
+        "personal_legal",
+        "ice_controversies_resistance",
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1770957556
     },
@@ -614,8 +617,7 @@
       "publishedAt": "2026-02-13T11:49:17Z",
       "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- Inside Trump administrations AI tech force designed to modernize governmen… [+3848 chars]",
       "tags": [
-        "artificial_intelligence",
-        "technology_regulation"
+        "artificial_intelligence"
       ],
       "publishedAtTs": 1770983357
     },
@@ -632,9 +634,7 @@
       "publishedAt": "2026-02-13T20:45:29Z",
       "content": "Meta hopes youll be too distracted by the federal government kidnapping both nonviolent immigrants and citizens off the street and the destruction of the U.S. health and science apparatus to care if … [+5035 chars]",
       "tags": [
-        "media_communications",
-        "technology_regulation",
-        "social_issues"
+        "technology_regulation"
       ],
       "publishedAtTs": 1771015529
     },
@@ -651,8 +651,11 @@
       "publishedAt": "2026-02-13T20:42:00Z",
       "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Am… [+9444 chars]",
       "tags": [
-        "legal_justice",
-        "presidential_security"
+        "lawsuits",
+        "civil_litigation",
+        "taxes",
+        "personal_legal",
+        "trump"
       ],
       "publishedAtTs": 1771015320
     },
@@ -668,10 +671,7 @@
       "urlToImage": "https://cdn.theatlantic.com/thumbor/FY10igY5SXTH_5kje8BGOubm2TQ=/4x127:2999x1687/1200x625/media/img/mt/2026/02/2026_02_12_Carrie_Prejean/original.jpg",
       "publishedAt": "2026-02-13T02:01:42Z",
       "content": "“It is not a biblical mandate that I have to worship Israel,” Carrie Prejean Boller told me today. The former Miss California USA turned social-media influencer was dismissed from President Trump’s R… [+7285 chars]",
-      "tags": [
-        "social_issues",
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1770948102
     },
     {
@@ -687,9 +687,11 @@
       "publishedAt": "2026-02-13T12:50:44Z",
       "content": "Last week, hundreds of Google workers, outraged by the federal governments mass deportation campaign and the killings of Keith Porter, Alex Pretti and Rene Good, went public with a call for their lea… [+13683 chars]",
       "tags": [
-        "social_issues",
-        "technology_regulation",
-        "media_communications"
+        "free_speech",
+        "censorship",
+        "labor",
+        "protests",
+        "social_issues"
       ],
       "publishedAtTs": 1770987044
     },
@@ -706,9 +708,11 @@
       "publishedAt": "2026-02-13T13:00:00Z",
       "content": "One year ago this week, the U.S. Senate voted to confirm vaccine opponent, environmental lawyer and politician Robert F. Kennedy, Jr., as head of the $1.7 trillion U.S. Department of Health and Human… [+17443 chars]",
       "tags": [
-        "social_issues",
-        "health_science",
-        "policy_legislation"
+        "personnel",
+        "public_health",
+        "cabinet",
+        "science_policy",
+        "healthcare"
       ],
       "publishedAtTs": 1770987600
     },
@@ -725,9 +729,9 @@
       "publishedAt": "2026-02-13T18:18:15Z",
       "content": "The Trump administration has outlined the first 26 goals for its project to inject AI into the government's scientific research, and everything from securing critical minerals to discovering a unifie… [+4087 chars]",
       "tags": [
-        "ai_state_preemption",
+        "artificial_intelligence",
         "science_policy",
-        "technology_regulation"
+        "trump"
       ],
       "publishedAtTs": 1771006695
     },
@@ -744,9 +748,11 @@
       "publishedAt": "2026-02-13T14:58:58Z",
       "content": "In the olden days, a corrupt Presidential administration would at least have had the good decency to make an effort in pretending that its reprisals against foes weren’t actually reprisals, but merel… [+6464 chars]",
       "tags": [
-        "social_issues",
-        "health_science",
-        "policy_legislation"
+        "public_health",
+        "healthcare",
+        "budget",
+        "federal_agencies",
+        "trump"
       ],
       "publishedAtTs": 1770994738
     },
@@ -763,9 +769,10 @@
       "publishedAt": "2026-02-13T12:10:16Z",
       "content": "Quick query: How do you feel, generally speaking, about the United States government spending the equivalent of 24 years of the median income of a U.S. worker in order to deport a single undocumented… [+9354 chars]",
       "tags": [
-        "mass_deportation_operation",
         "immigration",
-        "economy_finance"
+        "trump",
+        "social_issues",
+        "government_administration"
       ],
       "publishedAtTs": 1770984616
     },
@@ -782,8 +789,9 @@
       "publishedAt": "2026-02-13T14:48:28Z",
       "content": "If you love Trump Administration mess like I do, the Wall Street Journal published a gift of a must-read scoop last night, exposing Secretary of the Department of Homeland Security (DHS) Kristi Noem … [+8601 chars]",
       "tags": [
+        "cabinet",
         "government_administration",
-        "personnel"
+        "leadership"
       ],
       "publishedAtTs": 1770994108
     },
@@ -801,8 +809,10 @@
       "content": "Since the summer, Trumps cruel deportation campaign has been apparently stuffing more than a dozen pregnant girlssome who are as young as 13, and at least half of whom got pregnant because they were … [+3496 chars]",
       "tags": [
         "immigration",
-        "social_issues",
-        "legal_justice"
+        "womens_rights",
+        "civil_rights",
+        "ice_controversies_resistance",
+        "social_issues"
       ],
       "publishedAtTs": 1770993016
     },
@@ -818,10 +828,7 @@
       "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/02/cardimain.jpg",
       "publishedAt": "2026-02-13T12:22:18Z",
       "content": "It is common, nee expected, for a rapper to have a shady Twitter exchange with another rapper. It is far less common for a rapper to have beef with the Department of Homeland Security Twitter account… [+2727 chars]",
-      "tags": [
-        "media_communications",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1770985338
     },
     {
@@ -837,8 +844,7 @@
       "publishedAt": "2026-02-13T11:30:50Z",
       "content": "The Big Money in Todays Economy Is Going to Capital, Not Labor: Soaring profits and stocks funnel more of GDP toward companies, their top employees and shareholders. AI will intensify this trend. (Wa… [+3163 chars]",
       "tags": [
-        "economy_finance",
-        "artificial_intelligence"
+        "off_topic"
       ],
       "publishedAtTs": 1770982250
     },
@@ -855,9 +861,11 @@
       "publishedAt": "2026-02-13T17:27:00Z",
       "content": "from the they'll-keep-doing-that-until-there-are-real-consequences dept\r\nJudge Boasberg got his vindication in the frivolous complaint the DOJ filed against him, and now hes calling out the DOJs bull… [+6790 chars]",
       "tags": [
-        "legal_justice",
+        "lawsuits",
+        "federal_agencies",
+        "civil_litigation",
         "immigration",
-        "criminal_cases"
+        "legal_justice"
       ],
       "publishedAtTs": 1771003620
     },
@@ -874,8 +882,11 @@
       "publishedAt": "2026-02-13T18:40:00Z",
       "content": "from the utterly-unsurprising dept\r\nThe Trump administration has fired one of the few remaining members of the administration that had even a passing interest in antitrust enforcement. DOJ antitrust … [+5599 chars]",
       "tags": [
-        "legal_justice",
-        "antitrust"
+        "antitrust",
+        "personnel",
+        "federal_agencies",
+        "trump",
+        "government_administration"
       ],
       "publishedAtTs": 1771008000
     },
@@ -892,8 +903,7 @@
       "publishedAt": "2026-02-13T13:28:00Z",
       "content": "from the inevitable-outcomes dept\r\nU.S. media mergers always follow the same trajectory. Pre-merger, executives promise all manner of amazing synergies and deal benefits. Post-merger, not only do tho… [+3322 chars]",
       "tags": [
-        "economy_finance",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1770989280
     },
@@ -910,9 +920,7 @@
       "publishedAt": "2026-02-13T21:29:00Z",
       "content": "from the betraying-trust-for-the-clicks dept\r\nA California police department is none too happy that its license plate reader records were accessed by federal employees it never gave explicit permissi… [+4497 chars]",
       "tags": [
-        "security_intelligence",
-        "law_enforcement",
-        "media_communications"
+        "off_topic"
       ],
       "publishedAtTs": 1771018140
     },
@@ -930,8 +938,7 @@
       "content": "The Trump administrations scientific agenda has been widely characterized rightly so as a waronscientificprogress. But, hear me out here: There is more to the story.\r\nThis administrations science pol… [+9536 chars]",
       "tags": [
         "science_policy",
-        "health_science",
-        "policy_legislation"
+        "trump"
       ],
       "publishedAtTs": 1770986749
     },
@@ -948,8 +955,7 @@
       "publishedAt": "2026-02-13T19:44:05Z",
       "content": "Billionaire Emirati businessman Sultan Ahmed bin Sulayem has resigned from the top spot of major logistics company DP World ... after his links to Jeffrey Epstein put the business in jeopardy.\r\nThe m… [+1347 chars]",
       "tags": [
-        "personnel",
-        "legal_justice"
+        "off_topic"
       ],
       "publishedAtTs": 1771011845
     },
@@ -984,8 +990,10 @@
       "content": "The United States has revoked a scientific finding that has long been the central basis for its actions to regulate greenhouse gas emissions and fight climate change.\r\nThe decision on Thursday is the… [+4559 chars]",
       "tags": [
         "climate_policy",
-        "policy_legislation",
-        "environment"
+        "environment",
+        "federal_agencies",
+        "trump",
+        "policy_legislation"
       ],
       "publishedAtTs": 1770941310
     },
@@ -1002,9 +1010,10 @@
       "publishedAt": "2026-02-13T18:55:08Z",
       "content": "Russian and Ukrainian envoys are set to engage in a new round of United States-brokered talks next week in Geneva as the war approaches the four-year mark with no apparent compromises on territory in… [+3928 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "interstate_war",
+        "ukraine",
+        "national_security",
+        "foreign_policy"
       ],
       "publishedAtTs": 1771008908
     },
@@ -1021,9 +1030,11 @@
       "publishedAt": "2026-02-13T20:36:15Z",
       "content": "NewsFeed\r\nUS President Donald Trump says a second aircraft carrier strike group will deploy to the Middle East, increasing pressure on Iran as negotiations over its nuclear programme continue.",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "military",
         "middle_east",
-        "iran"
+        "iran",
+        "trump"
       ],
       "publishedAtTs": 1771014975
     },
@@ -1040,9 +1051,11 @@
       "publishedAt": "2026-02-13T22:40:31Z",
       "content": "President Donald Trump says that he is sending a second aircraft carrier to the Middle East as the United States increases pressure on Iran over its nuclear and ballistic missile programmes.\r\nSpeakin… [+3395 chars]",
       "tags": [
-        "foreign_policy",
+        "national_security",
+        "middle_east",
+        "military",
         "iran",
-        "military"
+        "statements"
       ],
       "publishedAtTs": 1771022431
     },
@@ -1059,8 +1072,11 @@
       "publishedAt": "2026-02-13T22:06:34Z",
       "content": "A United States court has ordered the administration of President Donald Trump to facilitate the return of a Babson College student, Any Lucia Lopez Belloza, who was wrongfully deported last year.\r\nI… [+5780 chars]",
       "tags": [
-        "legal_justice",
-        "immigration"
+        "immigration",
+        "lawsuits",
+        "ice_controversies_resistance",
+        "civil_litigation",
+        "legal_justice"
       ],
       "publishedAtTs": 1771020394
     },
@@ -1077,8 +1093,11 @@
       "publishedAt": "2026-02-13T00:46:41Z",
       "content": "A United States judge has granted an injunction preventing the Department of Defense from stripping Senator Mark Kelly, a military veteran, of his retirement pension and military rank.\r\nThe Defense D… [+6784 chars]",
       "tags": [
+        "lawsuits",
+        "federal_courts",
+        "civil_litigation",
         "legal_justice",
-        "personnel"
+        "government_administration"
       ],
       "publishedAtTs": 1770943601
     },
@@ -1095,8 +1114,9 @@
       "publishedAt": "2026-02-13T20:30:26Z",
       "content": "Donald Trump has said he plans to become the first sitting United States president to visit Venezuela in nearly three decades.\r\nTrump made the statement to reporters on Friday as he departed White Ho… [+3222 chars]",
       "tags": [
+        "trump",
         "foreign_policy",
-        "venezuela_intervention"
+        "leadership"
       ],
       "publishedAtTs": 1771014626
     },
@@ -1113,8 +1133,10 @@
       "publishedAt": "2026-02-13T18:29:53Z",
       "content": "President Donald Trump has pardoned five former professional football players one posthumously for various crimes ranging from perjury to drug trafficking.\r\nThe pardons were announced on Friday by Wh… [+2329 chars]",
       "tags": [
+        "pardons",
+        "trump",
         "legal_justice",
-        "presidential_security"
+        "government_administration"
       ],
       "publishedAtTs": 1771007393
     },
@@ -1131,9 +1153,9 @@
       "publishedAt": "2026-02-13T01:02:22Z",
       "content": "Donald Trump is not set to attend the 39th annual meeting of the African Union, which kicks off its leaders summit on Friday.\r\nBut his presence will still be felt as delegations from the 55 member st… [+9435 chars]",
       "tags": [
+        "africa",
         "foreign_policy",
-        "trade",
-        "immigration"
+        "trump"
       ],
       "publishedAtTs": 1770944542
     },
@@ -1150,6 +1172,8 @@
       "publishedAt": "2026-02-13T18:30:20Z",
       "content": "Cuban diplomat Carlos de Cossio has accused the United States of imposing collective punishment on his country as the administration of President Donald Trump ramps up pressure to choke the Caribbean… [+2988 chars]",
       "tags": [
+        "sanctions",
+        "energy",
         "foreign_policy"
       ],
       "publishedAtTs": 1771007420
@@ -1167,8 +1191,8 @@
       "publishedAt": "2026-02-13T14:58:55Z",
       "content": "German Chancellor Friedrich Merz has called on the United States and Europe to repair and revive transatlantic trust together during an address at the Munich Security Conference.\r\nMerz began his rema… [+4078 chars]",
       "tags": [
-        "foreign_policy",
-        "europe"
+        "europe",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770994735
     },
@@ -1185,10 +1209,7 @@
       "publishedAt": "2026-02-13T12:53:52Z",
       "content": "German Chancellor Friedrich Merz and French President Emmanuel Macron will deliver addresses on the first day of the Munich Security Conference (MSC), with Russias four-year war in Ukraine high on th… [+2838 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "nato",
-        "europe"
+        "off_topic"
       ],
       "publishedAtTs": 1770987232
     },
@@ -1205,9 +1226,11 @@
       "publishedAt": "2026-02-13T08:14:28Z",
       "content": "United States Treasury Secretary Scott Bessent has claimed that Washington engineered a dollar shortage in Iran to send the rial into freefall and cause protests on the streets.\r\nIn December and Janu… [+8840 chars]",
       "tags": [
-        "foreign_policy",
+        "middle_east",
         "iran",
-        "sanctions"
+        "sanctions",
+        "cabinet",
+        "foreign_policy"
       ],
       "publishedAtTs": 1770970468
     },
@@ -1224,10 +1247,7 @@
       "publishedAt": "2026-02-13T09:06:58Z",
       "content": "Russia unleashed a massive air assault on Ukraines cities on the day French Defence Minister Catherine Vautrin visited Kyiv. The February 7 assault was a repeat of Moscows similarly powerful attack o… [+7660 chars]",
       "tags": [
-        "russia",
-        "ukraine",
-        "foreign_policy",
-        "military"
+        "off_topic"
       ],
       "publishedAtTs": 1770973618
     },
@@ -1244,9 +1264,11 @@
       "publishedAt": "2026-02-13T22:21:07Z",
       "content": "The United States Department of Homeland Security (DHS) which includes agencies that oversee immigration enforcement and disaster response is expected to run out of funds after legislators failed to … [+4061 chars]",
       "tags": [
-        "government_administration",
-        "immigration",
-        "crisis_emergency"
+        "budget",
+        "federal_agencies",
+        "government_operations",
+        "policy_legislation",
+        "government_administration"
       ],
       "publishedAtTs": 1771021267
     },
@@ -1263,9 +1285,7 @@
       "publishedAt": "2026-02-13T01:56:50Z",
       "content": "Here is where things stand on Friday, February 13 :\r\nFighting\r\n<ul><li>Russia launched a barrage of ballistic missiles and drones at Ukrainian cities in overnight attacks on Thursday, officials repor… [+7117 chars]",
       "tags": [
-        "foreign_policy",
-        "russia",
-        "ukraine"
+        "off_topic"
       ],
       "publishedAtTs": 1770947810
     },
@@ -1282,8 +1302,7 @@
       "publishedAt": "2026-02-13T08:36:26Z",
       "content": "İlker Çatak, who was born in Berlin to Turkish parents, is back at the Berlinale with “Yellow Letters,” which unlike his last film — the Oscar-nominated Germany-set “The Teachers’ Lounge” — takes pla… [+3412 chars]",
       "tags": [
-        "social_issues",
-        "personal_family"
+        "off_topic"
       ],
       "publishedAtTs": 1770971786
     },
@@ -1300,7 +1319,7 @@
       "publishedAt": "2026-02-13T14:49:36Z",
       "content": "Sorry, but nothing matched your search terms. Please try again with some different keywords.",
       "tags": [
-        "off_topic"
+        "energy"
       ],
       "publishedAtTs": 1770994176
     },
@@ -1317,7 +1336,7 @@
       "publishedAt": "2026-02-13T00:23:42Z",
       "content": "Three months after it began, the story of President Donald Trumps siege of Minnesota has been one told with violent imagery. Masked men smashing windows and dragging women from their cars. A smiling … [+12120 chars]",
       "tags": [
-        "immigration",
+        "trump",
         "social_issues"
       ],
       "publishedAtTs": 1770942222
@@ -1335,8 +1354,10 @@
       "publishedAt": "2026-02-13T11:00:00Z",
       "content": "Attorney General Pam Bondi testified before the House Oversight Committee on Wednesday, defending the Justice Departments widely criticized rollout of the Epstein files against accusations that her d… [+33877 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "federal_agencies",
+        "cabinet",
+        "doj_actions",
+        "legal_justice"
       ],
       "publishedAtTs": 1770980400
     },
@@ -1353,9 +1374,11 @@
       "publishedAt": "2026-02-13T18:55:37Z",
       "content": "Rümeysa Öztürk, a doctoral student at Tufts University, arrives at Boston Logan International Airport following her release from federal custody on May 10, 2025. Photo: Selcuk Acar/Anadolu via Getty … [+7566 chars]",
       "tags": [
-        "legal_justice",
         "immigration",
-        "free_speech"
+        "free_speech",
+        "personal_legal",
+        "legal_justice",
+        "social_issues"
       ],
       "publishedAtTs": 1771008937
     },
@@ -1372,8 +1395,7 @@
       "publishedAt": "2026-02-13T14:29:47Z",
       "content": "Rep. Jasmine Crockett, a Democrat running for Senate in Texas, wants people to know she isnt taking corporate PAC money in her Senate campaign. \r\n“In this Senate race I have not taken any corporate P… [+9720 chars]",
       "tags": [
-        "elections_politics",
-        "campaign_finance"
+        "off_topic"
       ],
       "publishedAtTs": 1770992987
     },
@@ -1390,9 +1412,7 @@
       "publishedAt": "2026-02-13T00:20:08Z",
       "content": "Cardi B is feuding with Donald Trump‘s Department of Homeland Security (DHS) on social media after she took a dig at ICE during her first concert from the Little Miss Drama Tour.\r\nThe “Bodak Yellow” … [+1906 chars]",
       "tags": [
-        "social_issues",
-        "legal_justice",
-        "media_communications"
+        "social_media"
       ],
       "publishedAtTs": 1770942008
     },
@@ -1409,8 +1429,7 @@
       "publishedAt": "2026-02-13T16:37:50Z",
       "content": "Sports analyst Stephen A. Smith continues to tease a potential presidential run, telling CBS Sunday Morningthat while he has “no desire” to be a politician or run for office, he’s not ruling it out.\r… [+1613 chars]",
       "tags": [
-        "elections_politics",
-        "2028_presidential"
+        "off_topic"
       ],
       "publishedAtTs": 1771000670
     },
@@ -1444,10 +1463,7 @@
       "publishedAt": "2026-02-13T14:15:06Z",
       "content": "After several months of being away from Washington, Id say I was shocked by what I saw upon my return to the White House  but the Trump administration doesnt want me there and continues to fight my a… [+10818 chars]",
       "tags": [
-        "government_administration",
-        "legal_justice",
-        "social_issues",
-        "elections_politics"
+        "trump"
       ],
       "publishedAtTs": 1770992106
     },
@@ -1464,8 +1480,9 @@
       "publishedAt": "2026-02-13T00:42:11Z",
       "content": "Attorney General Pam Bondi is facing severe backlash from lawmakers and legal experts alike after a fiery hearing on Wednesday in front of the House Judiciary Committee.\r\nThe hearing quickly devolved… [+5786 chars]",
       "tags": [
-        "legal_justice",
-        "congress"
+        "congressional_investigations",
+        "cabinet",
+        "legal_justice"
       ],
       "publishedAtTs": 1770943331
     },
@@ -1481,10 +1498,7 @@
       "urlToImage": "https://www.salon.com/app/uploads/2026/02/buddhist-peace-walk-GettyImages-2260651668-copy.jpg",
       "publishedAt": "2026-02-13T15:30:57Z",
       "content": "In late October, a group of 19 Buddhist monks left Fort Worth, Texas, beginning a hike that would last 108 days and cross seven states, attracting millions of online fans and the adoption of a dog na… [+14006 chars]",
-      "tags": [
-        "social_issues",
-        "personal_family"
-      ],
+      "tags": [],
       "publishedAtTs": 1770996657
     },
     {
@@ -1500,8 +1514,11 @@
       "publishedAt": "2026-02-13T17:19:41Z",
       "content": "The Department of Homeland Security will shut down first thing Saturday after Congress failed to reach a solution to fund the department. Most of Congress already left the Capitol Thursday, with many… [+2216 chars]",
       "tags": [
-        "government_administration",
-        "immigration"
+        "budget",
+        "government_operations",
+        "federal_agencies",
+        "congress",
+        "policy_legislation"
       ],
       "publishedAtTs": 1771003181
     },
@@ -1519,7 +1536,10 @@
       "content": "This story was originally reported by Marissa Martinez of The 19th. Meet Marissa and read more of their reporting on gender, politics and policy.\r\nWASHINGTON, D.C. The House on Wednesday passed the S… [+6704 chars]",
       "tags": [
         "voting_rights",
-        "elections_politics"
+        "congress",
+        "civil_rights",
+        "elections_politics",
+        "policy_legislation"
       ],
       "publishedAtTs": 1770980428
     },
@@ -1536,8 +1556,7 @@
       "publishedAt": "2026-02-13T20:33:00Z",
       "content": "This column originally appeared inThe Politics Brief,our weekly newsletter on the people, power and policies that shape New Yorkers' lives.\r\nSign upto get the full version where you can ask questions… [+5694 chars]",
       "tags": [
-        "social_issues",
-        "leadership"
+        "off_topic"
       ],
       "publishedAtTs": 1771014780
     },
@@ -1553,10 +1572,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/P103S92F-e1770952219152.jpg?w=1024",
       "publishedAt": "2026-02-13T03:36:00Z",
       "content": "Nearly nine years later, Kathy Griffin is moving on with her career after a bloody anti-Trump protest photo went too far for many.\r\nThe 2x Emmy-winning comedian said that although “people still defin… [+1528 chars]",
-      "tags": [
-        "personal_family",
-        "social_issues"
-      ],
+      "tags": [],
       "publishedAtTs": 1770953760
     },
     {
@@ -1572,8 +1588,10 @@
       "publishedAt": "2026-02-13T18:42:22Z",
       "content": "Donald Trump told reporters on Friday that he believes that “progress has been made” in the Nancy Guthrie case after the FBI got involved.\r\nThe case is being led by the Pima County Sheriff, which has… [+1464 chars]",
       "tags": [
-        "legal_justice",
-        "law_enforcement"
+        "criminal_cases",
+        "law_enforcement",
+        "trump",
+        "legal_justice"
       ],
       "publishedAtTs": 1771008142
     },
@@ -1589,9 +1607,7 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/02/MixCollage-02-Feb-2026-05-22-PM-4052.jpg?w=1000",
       "publishedAt": "2026-02-13T21:50:06Z",
       "content": "Rene Augustine, who served in the White House and Justice Department during President Donald Trump‘s first term, has been named senior vice president of global public policy at Paramount.\r\nAugustine … [+1283 chars]",
-      "tags": [
-        "personnel"
-      ],
+      "tags": [],
       "publishedAtTs": 1771019406
     },
     {
@@ -1606,9 +1622,7 @@
       "urlToImage": "https://images.newrepublic.com/f28f6e313cd249f854b7356b032125da67082b06.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-02-13T21:31:46Z",
       "content": "Husted accepted $3,500 from Wexner as recently as Julyonly two months before he voted to block the release of the Epstein files, according to campaign finance records reviewed by TiffinOhio. In Novem… [+846 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1771018306
     },
     {
@@ -1623,9 +1637,7 @@
       "urlToImage": "https://images.newrepublic.com/1c712f92aa022cfc47b8fe0e748c8237df708d56.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-02-13T15:13:00Z",
       "content": "Fairly long video, had a little piece that had to do with The Lion King, it was shown all over the place long before it was posted, he continued, ignoring the fact the beloved childrens film only fea… [+607 chars]",
-      "tags": [
-        "off_topic"
-      ],
+      "tags": [],
       "publishedAtTs": 1770995580
     },
     {
@@ -1641,8 +1653,9 @@
       "publishedAt": "2026-02-13T15:16:13Z",
       "content": "Fairly long video, had a little piece that had to do with The Lion King, it was shown all over the place long before it was posted, he continued, ignoring the fact the beloved childrens film only fea… [+607 chars]",
       "tags": [
+        "cabinet",
         "government_administration",
-        "personnel"
+        "leadership"
       ],
       "publishedAtTs": 1770995773
     },
@@ -1659,8 +1672,8 @@
       "publishedAt": "2026-02-13T15:35:44Z",
       "content": "The 60 days came and went at the beginning of this month, andshockernothing happened. Then, as fate would have it, just this Monday, three days before Smiths public testimony, the matter of the secon… [+1244 chars]",
       "tags": [
-        "legal_justice",
-        "criminal_cases"
+        "congressional_investigations",
+        "legal_justice"
       ],
       "publishedAtTs": 1770996944
     },
@@ -1676,11 +1689,7 @@
       "urlToImage": "https://images.newrepublic.com/ecfea0b2a8e2ca3c79b97de7f8b3c1e88132ed27.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-02-13T22:02:08Z",
       "content": "But rollout of the revamped SAVE database came much too quickly: Not all of the new data had been added yet, resulting in persistent mistakes. Not only were numerous voters being falsely declared non… [+801 chars]",
-      "tags": [
-        "legal_justice",
-        "immigration",
-        "security_intelligence"
-      ],
+      "tags": [],
       "publishedAtTs": 1771020128
     },
     {
@@ -1696,9 +1705,7 @@
       "publishedAt": "2026-02-13T18:49:15Z",
       "content": "This is happening amid long-term trends: Jobs are getting worse, families are getting squeezed by energy and health-care costs and priced out of the market for housing, and wages have not kept up. Ad… [+1667 chars]",
       "tags": [
-        "labor",
-        "economy_finance",
-        "social_issues"
+        "off_topic"
       ],
       "publishedAtTs": 1771008555
     },
@@ -1715,9 +1722,11 @@
       "publishedAt": "2026-02-13T22:42:41Z",
       "content": "This effort aims to meet the growing demand for bedspace and streamline the detention and removal process, focusing on non-traditional facilities built specifically to support ICEs needs, the memo sa… [+978 chars]",
       "tags": [
+        "immigration",
         "mass_deportation_operation",
-        "ice_controversies_resistance",
-        "immigration"
+        "federal_agencies",
+        "government_operations",
+        "social_issues"
       ],
       "publishedAtTs": 1771022561
     },
@@ -1733,10 +1742,7 @@
       "urlToImage": "https://images.newrepublic.com/591ba6e5de873b0090d7349b2dab2c11b89b0373.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-02-13T19:55:38Z",
       "content": "Husted accepted $3,500 from Wexner as recently as Julyonly two months before he voted to block the release of the Epstein files, according to campaign finance records reviewed by TiffinOhio. In Novem… [+846 chars]",
-      "tags": [
-        "foreign_policy",
-        "venezuela_intervention"
-      ],
+      "tags": [],
       "publishedAtTs": 1771012538
     },
     {
@@ -1751,10 +1757,7 @@
       "urlToImage": "https://images.newrepublic.com/c9217412456c1222e15f8f9474e7c889cb3481c1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
       "publishedAt": "2026-02-13T11:00:00Z",
       "content": "And that points to another thing that could be done to eliminate these outages: a more interconnected grid. This was one of the main factors in 2021 in Texas, Kurland noted. Texass power grid, ERCOT,… [+2168 chars]",
-      "tags": [
-        "energy",
-        "policy_legislation"
-      ],
+      "tags": [],
       "publishedAtTs": 1770980400
     },
     {
@@ -1770,8 +1773,7 @@
       "publishedAt": "2026-02-13T14:21:02Z",
       "content": "Fairly long video, had a little piece that had to do with The Lion King, it was shown all over the place long before it was posted, he continued, ignoring the fact the beloved childrens film only fea… [+607 chars]",
       "tags": [
-        "legal_justice",
-        "government_administration"
+        "trump"
       ],
       "publishedAtTs": 1770992462
     }

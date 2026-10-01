@@ -14,6 +14,7 @@ See the About page for image attributions.
 | Interactive UI | React islands (`client:load`) |
 | Styling | Tailwind CSS + shadcn/ui |
 | Search | Algolia + react-instantsearch |
+| Tagging | Jev (`jev-latest`) via the TypeSafe API |
 | Data | JSON content collections (`data/news/tagged/`) |
 | Deploy | AWS CDK → S3 + CloudFront |
 
@@ -35,6 +36,11 @@ PUBLIC_ALGOLIA_INDEX_NAME=byedonald
 ALGOLIA_APP_ID=...
 ALGOLIA_API_KEY=...          # admin key
 ALGOLIA_INDEX_NAME=byedonald
+
+# News fetch and tagging (server only)
+NEWS_API_KEY=...
+GNEWS_API_KEY=...            # historical backfill only
+JEV_API_KEY=...
 ```
 
 ## Develop
@@ -88,17 +94,18 @@ export GNEWS_API_KEY='xxx'
 npm run fetch-gnews.io -- 2025-01-31
 npm run backfill-gnews.io
 
-export NEWSAPI_API_KEY='xxx'
+export NEWS_API_KEY='xxx'
 npm run fetch-newsapi.org -- 2025-01-31
 npm run backfill-newsapi.org
 ```
 
+The daily GitHub Action fetches with NewsAPI.org (`NEWS_API_KEY`). GNews.io remains available for historical backfill.
+
 ### Tag
 
+Articles are tagged by [Jev](https://docs.typesafe.ai/models), TypeSafe’s System One model (`jev-latest`). `tag-news` writes a day only when that day has no tagged file yet. The daily workflow passes `JEV_API_KEY` from the repo secret. Locally it is read from `.env`.
+
 ```bash
-export ANTHROPIC_API_KEY='xxx'
-export ANTHROPIC_MODEL='claude-sonnet-4-20250514'
-# AWS credentials required for Bedrock path if used
 npm run tag-news
 npm run normalize-tags
 ```

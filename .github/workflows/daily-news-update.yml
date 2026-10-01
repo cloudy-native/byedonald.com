@@ -45,6 +45,8 @@ jobs:
 
       - name: Tag new articles
         run: pnpm run tag-news
+        env:
+          JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
 
       - name: Normalize tags
         run: pnpm run normalize-tags

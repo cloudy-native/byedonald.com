@@ -38,11 +38,11 @@ export class CdkStack extends Stack {
         url: "https://token.actions.githubusercontent.com",
         clientIds: ["sts.amazonaws.com"],
         // thumbprints: ["6938fd4d98bab03faadb97b34396831e3780aea1"],
-      }
+      },
     );
 
     const githubActionsRole = new Role(this, "GitHubActionsRole", {
-      description: "Role for GitHub Actions to deploy the site and use Bedrock",
+      description: "Role for GitHub Actions to deploy the site",
       assumedBy: new FederatedPrincipal(
         githubOidcProvider.openIdConnectProviderArn,
         {
@@ -52,16 +52,9 @@ export class CdkStack extends Stack {
               "repo:cloudy-native/byedonald.com:*",
           },
         },
-        "sts:AssumeRoleWithWebIdentity"
+        "sts:AssumeRoleWithWebIdentity",
       ),
     });
-
-    githubActionsRole.addToPolicy(
-      new PolicyStatement({
-        actions: ["bedrock:InvokeModel"],
-        resources: ["*"],
-      })
-    );
 
     // Create S3 bucket for website hosting
     const bucket = new Bucket(this, "WebsiteBucket", {
@@ -134,7 +127,7 @@ export class CdkStack extends Stack {
       new PolicyStatement({
         actions: ["cloudfront:CreateInvalidation"],
         resources: [distribution.distributionArn],
-      })
+      }),
     );
 
     // Deploy site contents to S3 bucket
