@@ -1,0 +1,1863 @@
+{
+  "status": "ok",
+  "totalResults": 99,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Tech is about to get hammered in Congress",
+      "description": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Senate on Tu…",
+      "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-05T14:11:27Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nDemocrats have promised to drag CEOs to testify under oath and investigate corporate influence.\r\nDemocrats have promised to drag CEOs to testify under oath and i… [+10631 chars]",
+      "tags": [
+        "congress",
+        "technology_regulation",
+        "congressional_investigations",
+        "democratic_party",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1793887887
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "description": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-05T17:51:52Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTotal repudiation: The blue wave is about to hit AI\r\nAI companies have a new threat: a wave of Democrats who campaigned against them.\r\nby\r\nHayden FieldClose\r\nPos… [+8836 chars]",
+      "tags": [
+        "technology_regulation",
+        "democratic_party",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793901112
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Bruce Gil",
+      "title": "OpenAI Is Changing Its Tune on Data Centers Following Electoral Wipeout",
+      "description": "The company announced new commitments to local communities just two days after voters backed efforts to restrict data center development.",
+      "url": "https://gizmodo.com/openai-is-changing-its-tune-on-data-centers-following-electoral-wipeout-2000835718",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/sam-altman-lecture-1200x675.jpg",
+      "publishedAt": "2026-11-05T16:50:49Z",
+      "content": "Following a blue wave that put Democrats in control of the next Congress and demonstrated Americans’ discontent with the AI buildout, OpenAI is rolling out new commitments governing how it develops d… [+3673 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793897449
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4923/live/c29a9fb0-d82c-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-05T02:33:40Z",
+      "content": "It was an early sign that Trump - who has prized loyalty from his advisers - may give Vance a wide berth should he choose to launch a presidential campaign.\r\n\"I know how he feels about it. I think it… [+1314 chars]",
+      "tags": [
+        "us_iran_war",
+        "2024_presidential",
+        "trump",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793846020
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "description": "The monarch faced questions on the UK's involvement in the slave trade during his Caribbean tour.",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33c2/live/26341c80-d94b-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-11-05T22:04:44Z",
+      "content": "The King relishes the \"tough parts\" of his role and will continue to be used in \"politically charged situations\", a senior palace aide said at the end of the King's tour of the Caribbean.\r\nOver the p… [+1842 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793916284
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Omar Gallaga",
+      "title": "Data Center Backers Suffer Near-Total Midterm Defeats Across the Country",
+      "description": "More than 40 voting initiatives yielded almost nothing but resistance to data-center projects.",
+      "url": "https://www.cnet.com/news/politics/data-center-ai-losses-midterms/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2301317402.jpg",
+      "publishedAt": "2026-11-05T00:17:43Z",
+      "content": "The 2026 midterm election blue wave, which shifted the balance of power in Congress and across state races toward Democrats, can be seen as a repudiation of AI and the controversial data centers that… [+4009 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793837863
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Franco Ordoñez",
+      "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+      "description": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x2780+0+257/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg",
+      "publishedAt": "2026-11-05T23:52:48Z",
+      "content": "First lady Melania Trump hosted a rare meeting between Russian and Ukrainian officials at the White House to recognize a temporary ceasefire in southeastern Ukraine.\r\nThe six-day pause from the Russi… [+2712 chars]",
+      "tags": [
+        "ukraine",
+        "interstate_war",
+        "russia",
+        "national_security",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793922768
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Willa Rubin",
+      "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
+      "description": "A new Democratic majority in Congress could pressure the president to end the war in Iran. But it will be harder for them to directly affect fuel prices, which are tied to a complex international oil market.",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8174x4598+0+426/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Fd5%2F2f507d3245b58e37869c017c2f94%2Fap26107769190989.jpg",
+      "publishedAt": "2026-11-05T10:00:00Z",
+      "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help\r\nDemocrats are now poised to take control of Congress by wide margins and a critical driver of their success has be… [+6734 chars]",
+      "tags": [
+        "energy",
+        "us_iran_war",
+        "prices",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1793872800
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Joe Hernandez",
+      "title": "As budgets tighten, people are breaking out their library cards",
+      "description": "Some Americans squeezed by high prices are relying more on their local libraries for things like books, streaming services and high-priced items like musical instruments and sewing machines.",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F17%2Ff84feec941d585e403b44576a6f1%2Fgettyimages-1327335719.jpg",
+      "publishedAt": "2026-11-05T10:00:00Z",
+      "content": "Izzy Rivera reads at least one book every week, but buying them new isn't in her budget. As she saves up for law school, some expenses don't make the cut.\r\n\"Say I'm buying a few a month,\" she said, \"… [+8031 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793872800
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ayelet Sheffey",
+      "title": "'Severe' student-loan repayment problems are mounting, lawmakers say — and they're pushing for answers",
+      "description": "After a blue wave swept the midterms, a group of Democratic lawmakers is calling on the Education Department to protect student-loan borrowers.",
+      "url": "https://www.businessinsider.com/student-loan-borrowers-face-severe-debt-repayment-problems-lawmakers-education-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aeb41859270da3cc6667f2f?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T10:00:03Z",
+      "content": "Sen. Elizabeth Warren is pushing the Education Department to address student-loan repayment challenges.Kevin Dietsch/Getty Images\r\n<ul><li>Democratic lawmakers are pushing the Education Department to… [+3244 chars]",
+      "tags": [
+        "education",
+        "congress",
+        "policy_legislation",
+        "social_issues",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1793872803
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Juliana Kaplan",
+      "title": "Young people swung left in the midterms, and it's in large part because of skyrocketing prices",
+      "description": "Younger Americans are worried about the economy and high prices. They also swung Democrat in the midterms.",
+      "url": "https://www.businessinsider.com/inflation-pushes-young-voters-to-democrats-in-2026-midterms-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aeb9b739270da3cc66682df?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T10:00:04Z",
+      "content": "Young voters are feeling the bite of high costs.JEFF KOWALSKY / AFP via Getty Images\r\n<ul><li>Young voters rushed back to Democrats in the 2026 midterms as inflation crushed their wallets.</li><li>Ea… [+3570 chars]",
+      "tags": [
+        "prices",
+        "inflation",
+        "elections_politics",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1793872804
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Bergman,Katie Roof",
+      "title": "The Blue Wave hits Sand Hill Road",
+      "description": "Elon Musk, venture capital, MAGA politics, and AI data centers collide as Democrats win big in the Midterm elections.",
+      "url": "https://www.businessinsider.com/the-blue-wave-hits-sand-hill-road-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aeca2259270da3cc6668661?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T16:56:44Z",
+      "content": "Tesla, SpaceX and X CEO Elon MuskFinn Gomez/Getty Images\r\n<ul><li>Silicon Valley spent big on the midterms. Then the blue wave hit this week.</li><li>\"Voters rejected the status quo, and VCs should t… [+5582 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793897804
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "COLLIN BINKLEY and DARLENE SUPERVILLE",
+      "title": "Trump makes the Oval Office a national monument, but his gold decor isn't protected",
+      "description": "WASHINGTON (AP) — President Donald Trump on Thursday signed a proclamation that he says will preserve the Oval Office and Cabinet Room as a national monument, his first official action after his party was swept aside in midterm elections on Tuesday.But the ac…",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-signs-proclamation-says-prevent-211941244.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67f581fbb14188f1e53e02d4a2851fa25acd4a6986dc4451bf919c6b9ffaa15b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F837a9be90e608c21637c9ce1592bb327.jpg",
+      "publishedAt": "2026-11-05T21:19:41Z",
+      "content": "WASHINGTON (AP) President Donald Trump on Thursday signed a proclamation that he says will preserve the Oval Office and Cabinet Room as a national monument, his first official action after his party … [+3605 chars]",
+      "tags": [
+        "trump",
+        "government_administration"
+      ],
+      "publishedAtTs": 1793913581
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Melania Trump urges 'humanity over war' at event with officials from Ukraine and Russia",
+      "description": "US First Lady Melania Trump called for a new ceasefire in Ukraine after the expiry of a temporary truce in the ruined town of Oleshky (SAUL LOEB)\r\nUS First Lady Melania Trump called for a new, \"more enduring\" ceasefire in Ukraine as she hosted officials from …",
+      "url": "https://www.yahoo.com/news/politics/articles/melania-trump-calls-more-enduring-164611229.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b380c476faf2d3a1e6709b27e66ceb1a8366e41b47fd1e3980b0475c15155e3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5d771ae4ceafe7f5819200206bb4033a.jpg",
+      "publishedAt": "2026-11-05T16:46:11Z",
+      "content": "US First Lady Melania Trump called for a new, \"more enduring\" ceasefire in Ukraine as she hosted officials from the war-torn country and its invader Russia at the White House on Thursday.\r\nTrump earl… [+1736 chars]",
+      "tags": [
+        "ukraine",
+        "interstate_war",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793897171
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alejandra Jaramillo, CNN",
+      "title": "Trump seeks landmark status for 2 White House rooms he's redecorated",
+      "description": "The Oval Office is set for a meeting between US President Donald Trump and Norway's Prime Minister Jonas Gahr Store at the White House on April 24, 2025. - Chip Somodevilla/Getty Images/File\r\n\nPresident Donald Trump signed a proclamation on Thursday that he s…",
+      "url": "https://www.cnn.com/2026/11/05/politics/trump-oval-office-cabinet-room-landmarks",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211811959.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-05T22:12:01Z",
+      "content": "President Donald Trump signed a proclamation on Thursday that he said would designate the White Houses Oval Office and Cabinet Room as national landmarks a move he said would protect the two West Win… [+1572 chars]",
+      "tags": [
+        "trump",
+        "government_administration"
+      ],
+      "publishedAtTs": 1793916721
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MICHAEL KUNZELMAN and REBECCA SANTANA",
+      "title": "Trump admin. secretly worked with Iran on deportations during war, records show",
+      "description": "WASHINGTON (AP) — President Donald Trump's administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents obtained by The Associated Press show.\n The court documents unsealed Thursday show the Republican adm…",
+      "url": "https://www.yahoo.com/news/us/articles/trump-administration-held-talks-iran-172927112.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0029a34b68295c9e983ffc16b22ae9b730532f80cdb2f7977ff1cf39c5b3757a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd94201b9374ea6844dd7b71f60e2a171.jpg",
+      "publishedAt": "2026-11-05T17:29:27Z",
+      "content": "WASHINGTON (AP) President Donald Trump's administration held secret talks with Iran on deporting Iranians even as the war there dragged on, court documents obtained by The Associated Press show.\r\nThe… [+3866 chars]",
+      "tags": [
+        "immigration",
+        "iran",
+        "middle_east",
+        "us_iran_war",
+        "trump"
+      ],
+      "publishedAtTs": 1793899767
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dan Diamond, (c) 2026 , The Washington Post",
+      "title": "Trump pushes for same-day approval and construction of his 250-foot arch",
+      "description": "President Donald Trump hopes to win approval Thursday for his planned 250-foot-tall triumphal arch, which he calls a necessary addition to Washington. He may end the day with work finally underway - or blocked by a federal judge.The National Capital Planning …",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-wants-arch-approved-thursday-142308076.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b6ba0809bbee0b1e28f016f197d82ac44a7a4bb8adb12577e26e6334cb0de7d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fb292d16d-f61e-4927-8a88-8036fc204b47",
+      "publishedAt": "2026-11-05T14:23:08Z",
+      "content": "President Donald Trump hopes to win approval Thursday for his planned 250-foot-tall triumphal arch, which he calls a necessary addition to Washington. He may end the day with work finally underway - … [+5366 chars]",
+      "tags": [
+        "washington_dc",
+        "trump"
+      ],
+      "publishedAtTs": 1793888588
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Dylan Stableford",
+      "title": "Republicans turn against Pete Hegseth after significant midterms losses",
+      "description": "Defense Secretary Pete Hegseth is facing intense political backlash\r\n over the United States’ costly and unpopular war with Iran following the historic drubbing Republicans took from Democrats in this week’s midterm elections. But President Trump insisted on …",
+      "url": "https://www.yahoo.com/news/politics/article/trump-stands-by-hegseth-after-election-losses-but-other-republicans-want-him-out-163852105.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5a36d393c749611aacd939f71ce88cca80250a39633b3f710da056222604794c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-trump-hegseth_9989.jpg",
+      "publishedAt": "2026-11-05T16:41:41Z",
+      "content": "Defense Secretary Pete Hegseth is facing intense political backlash\r\n over the United States' costly and unpopular war with Iran following the historic drubbing Republicans took from Democrats in thi… [+3550 chars]",
+      "tags": [
+        "us_iran_war",
+        "cabinet",
+        "republican_party",
+        "middle_east",
+        "leadership"
+      ],
+      "publishedAtTs": 1793896901
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Tim Reid",
+      "title": "Midterms over, Democrats plunge into a wide-open 2028 presidential race",
+      "description": "By Tim Reid WASHINGTON, Nov 5 (Reuters) - With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 contest likely to expose the party's divide over how to win b…",
+      "url": "https://www.yahoo.com/news/politics/articles/midterms-over-democrats-plunge-wide-111023616.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1af7fa620cac3ed691c5cd7d07e5fd5974ef8ae212a89419ce160c71ebb0ed44/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa899b6485364bea1eb6df6f05aaf2591.jpg",
+      "publishedAt": "2026-11-05T11:10:23Z",
+      "content": "By Tim Reid\r\nWASHINGTON, Nov 5 (Reuters) - With the US midterms over, Democrats are turning to what could become one of their most crowded and unpredictable presidential primaries in decades, a 2028 … [+6246 chars]",
+      "tags": [
+        "democratic_party",
+        "2028_presidential",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793877023
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mike Bebernes",
+      "title": "Republicans face a crowded agenda and little time before handing Congress to Democrats",
+      "description": "Republicans on Capitol Hill are on the clock. They have less than two months left in power before the new, Democrat-led Congress is sworn in and their window of unified control in Washington, D.C., comes to an end. Even as the votes are still being counted, G…",
+      "url": "https://www.yahoo.com/news/politics/article/republicans-have-control-of-congress-for-2-more-months-heres-what-they-hope-to-get-done-222459712.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8e2fb5cdf6eb50fc59b92eff8d1044871e9dac29236e41169cfcb8c6128abe58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-repub-congress_4430.jpg",
+      "publishedAt": "2026-11-05T22:24:59Z",
+      "content": "Republicans on Capitol Hill are on the clock. They have less than two months left in power before the new, Democrat-led Congress is sworn in and their window of unified control in Washington, D.C., c… [+6870 chars]",
+      "tags": [
+        "congress",
+        "republican_party",
+        "washington_dc",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793917499
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Yahoo News Staff",
+      "title": "Democratic socialist Nithya Raman defeats incumbent Karen Bass in the L.A. mayoral race",
+      "description": "Democrats continue to celebrate one of the most lopsided midterm election victories in modern U.S. history, routing their Republican rivals\r\n to gain control of the U.S. House, U.S. Senate and statehouses across the country.In the Senate, Democrats flipped se…",
+      "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/473fdd377cb4dffd3c0a703704c3a2177e3e0675ca091aa58539be3bdc3937eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc36ef57a-e265-4e94-ab20-e5213ef492d7",
+      "publishedAt": "2026-11-05T20:01:51Z",
+      "content": "Democrats continue to celebrate one of the most lopsided midterm election victories in modern U.S. history, routing their Republican rivals\r\n to gain control of the U.S. House, U.S. Senate and stateh… [+3618 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793908911
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Andrew Romano",
+      "title": "Too close to call: How the Mississippi Senate race turned into such a nail-biter",
+      "description": "Mississippi is one of the reddest states in America, so this year's U.S. Senate race between Republican incumbent Cindy Hyde-Smith and her Democratic challenger Scott Colom wasn't supposed to be especially close.Now it couldn't be closer. As of Thursday after…",
+      "url": "https://www.yahoo.com/news/politics/article/how-the-mississippi-senate-race-between-scott-colom-and-cindy-hyde-smith-got-so-close--and-what-happens-next-212946040.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/050dd78aa8bdc6f003b6347f224f70988d88466d59329a62732678f666fe8068/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Ftemplate-2-copy_9416.png",
+      "publishedAt": "2026-11-05T21:50:32Z",
+      "content": "Mississippi is one of the reddest states in America, so this year's U.S. Senate race between Republican incumbent Cindy Hyde-Smith and her Democratic challenger Scott Colom wasn't supposed to be espe… [+9579 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793915432
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Suzanne Woolley, Zijia Song and Prashant Gopal",
+      "title": "How the midterm results could impact your taxes, housing and everyday prices",
+      "description": "(Bloomberg) -- Americans handed Democrats a thumping midterm victory on Tuesday, and with it, a mandate to fix their money problems. In survey after survey, voters voiced their anger over the state of the US economy, especially the cost of essentials like foo…",
+      "url": "https://finance.yahoo.com/economy/policy/articles/midterm-election-results-mean-money-113019207.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/826b4cc32e263483c5ca42ec9f2f066c49aa5c97e3d25b3535657e9626c43a74/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F87805be364d2ca1f6def996b478d5bba.jpg",
+      "publishedAt": "2026-11-05T11:30:19Z",
+      "content": "(Bloomberg) -- Americans handed Democrats a thumping midterm victory on Tuesday, and with it, a mandate to fix their money problems. In survey after survey, voters voiced their anger over the state o… [+9080 chars]",
+      "tags": [
+        "prices",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793878219
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Grace O'Donnell, Ines Ferré, David Hollerith",
+      "title": "Markets plunge as Wall Street heads for its worst post-midterm day since 1896",
+      "description": "US stocks fell suddenly on Thursday as AI and chip stocks sold off, erasing the gains from Wednesday’s post-election rally.The Dow Jones Industrial Average (^DJI\r\n) tumbled 2.2%, or over 1,200 points. The S&P 500 (^GSPC\r\n) fell 3.3%, and the tech-heavy Nasdaq…",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/991c829f48a08bbb131b2e193e3d3a5ac8c8588b633383ba4173fc62882c68d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-05%2F157444b0-3163-11f0-a91b-eb382a4eb590",
+      "publishedAt": "2026-11-05T16:17:42Z",
+      "content": "US stocks fell suddenly on Thursday as AI and chip stocks sold off, erasing the gains from Wednesday's post-election rally.\r\nThe Dow Jones Industrial Average (^DJI\r\n) tumbled 2.2%, or over 1,200 poin… [+11763 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793895462
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Fred Kaplan",
+      "title": "America’s Election Has Prompted Some Surprising Moves in Israel That Might Oust Netanyahu",
+      "description": "This kind of coalition has happened only once before.",
+      "url": "https://slate.com/news-and-politics/2026/11/israel-government-oust-netanyahu-american-election-arab-coalition.html",
+      "urlToImage": "https://compote.slate.com/images/21db86ec-5939-4955-82cf-538b0d877999.jpeg?crop=7694%2C5130%2Cx0%2Cy1&width=1560",
+      "publishedAt": "2026-11-05T22:32:20Z",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nFast on the heels of Tuesdays mind-blowing American midterm elections, Is… [+6959 chars]",
+      "tags": [
+        "middle_east",
+        "israel",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793917940
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Alexander Mallin",
+      "title": "Longtime Trump ally Harmeet Dhillon departing Justice Department",
+      "description": "Longtime Trump ally Harmeet Dhillon has resigned from her role leading the Justice Department's Civil Rights Division, Attorney General Todd Blanche announced.",
+      "url": "https://abcnews.com/US/longtime-trump-ally-harmeet-dhillon-departing-doj-after/story?id=137884848",
+      "urlToImage": "https://i.abcnewsfe.com/a/e48e840b-fd9e-48c5-9db9-c7f44bfe1652/Harmeet-Dhillon-1-ap-gmh-261105_1793900976312_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T18:02:32Z",
+      "content": "Harmeet Dhillon -- a conservative firebrand lawyer and longtime ally of President Donald Trump -- has resigned from her role leading the Justice Department's Civil Rights Division, Attorney General T… [+91 chars]",
+      "tags": [
+        "federal_agencies",
+        "personnel",
+        "government_administration",
+        "leadership",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1793901752
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Jonathan Karl",
+      "title": "Trump says he has 'every intention' to keep Hegseth",
+      "description": "President Donald Trump said he intends to keep Defense Secretary Pete Hegseth in his job, as Rep. Massie, prepares to introduce an impeachment resolution against him.",
+      "url": "https://abcnews.com/Politics/trump-intention-hegseth/story?id=137874670",
+      "urlToImage": "https://i.abcnewsfe.com/a/ccadce41-c4f9-4658-8b67-792b0007392b/trump-main_1793884802644_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T16:27:28Z",
+      "content": "President Donald Trump said Thursday he intends to keep Defense Secretary Pete Hegseth in his job, as GOP Rep. Thomas Massie prepares to reintroduce an impeachment resolution against Hegseth.\r\n\"I hav… [+2738 chars]",
+      "tags": [
+        "personnel",
+        "cabinet",
+        "trump",
+        "government_administration",
+        "leadership"
+      ],
+      "publishedAtTs": 1793896048
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Aaron Katersky, Peter Charalambous",
+      "title": "Judges to hear Trump's appeal of 2024 criminal hush money conviction",
+      "description": "Two and a half years after a jury convicted Donald Trump of 34 felony counts in his hush money case, the president's lawyers are seeking to have the verdict overturned.",
+      "url": "https://abcnews.com/US/judges-hear-trumps-appeal-2024-criminal-hush-money/story?id=137859786",
+      "urlToImage": "https://i.abcnewsfe.com/a/fd51852a-1848-491a-b0de-00f38b96f12a/donald-trump-1-rt-gmh-261104_1793814688050_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T10:15:47Z",
+      "content": "Two and a half years after a New York jury convicted Donald Trump of 34 felony counts, lawyers for the president are set to appear in a Manhattan courtroom to argue the case be overturned. \r\nTrump's … [+3188 chars]",
+      "tags": [
+        "criminal_cases",
+        "personal_legal",
+        "new_york",
+        "legal_justice",
+        "trump"
+      ],
+      "publishedAtTs": 1793873747
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Alexander Mallin",
+      "title": "DOJ again moves to dismiss Steve Bannon's contempt of Congress conviction",
+      "description": "The DOJ has filed another push to have a judge dismiss Trump ally Steve Bannon's conviction over his defiance of a subpoena from the House panel that investigated Jan. 6.",
+      "url": "https://abcnews.com/US/doj-moves-dismiss-steve-bannons-contempt-congress-conviction/story?id=137884012",
+      "urlToImage": "https://i.abcnewsfe.com/a/50dc07e9-9330-4d78-a38b-e71f6db439f2/steve-bannon-ap-gmh-261105_1793900335672_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T17:50:55Z",
+      "content": "The Justice Department on Thursday filed a renewed push to have a federal judge dismiss Trump ally Steve Bannon's conviction for criminal contempt over his defiance of a subpoena from the House Selec… [+358 chars]",
+      "tags": [
+        "criminal_cases",
+        "congressional_investigations",
+        "federal_agencies",
+        "congress",
+        "personal_legal"
+      ],
+      "publishedAtTs": 1793901055
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Laura Romero",
+      "title": "Judge blasts administration for planning to deport Iranians to Iran during wartime",
+      "description": "The Trump administration said during a hearing that it's been making plans to deport Iranian migrants back to Iran during the war, earning a rebuke from a federal judge.",
+      "url": "https://abcnews.com/US/judge-blasts-administration-planning-deport-iranian-immigrants-back/story?id=137886625",
+      "urlToImage": "https://i.abcnewsfe.com/a/120954aa-7405-410c-b99d-95da75a0a43b/ice-flight-ap-jt-261105_1793905396213_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T20:46:06Z",
+      "content": "The Trump administration said during a court hearing that it has been making plans to deport Iranian immigrants back to Iran while the U.S. is at war with that country, earning a rebuke from a federa… [+3075 chars]",
+      "tags": [
+        "immigration",
+        "us_iran_war",
+        "middle_east",
+        "ice_controversies_resistance",
+        "iran"
+      ],
+      "publishedAtTs": 1793911566
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Steven Portnoy",
+      "title": "Veteran leading opposition to Trump's arch calls it 'blasphemous'",
+      "description": "As panel prepares to grant final approval to Trump's \"triumphal arch,\" the Vietnam vet who's leading lawsuit to stop the project called it \"frankly blasphemous.\"",
+      "url": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182",
+      "urlToImage": "https://i.abcnewsfe.com/a/aad983e5-36d8-4444-a795-9f484e18a321/arch-2-rt-gmh-261105_1793911203872_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T23:33:11Z",
+      "content": "As a federal panel prepares to grant final approval to President Donald Trump's \"triumphal arch\" -- with construction potentially beginning Thursday -- the Vietnam veteran who's leading the lawsuit t… [+3421 chars]",
+      "tags": [
+        "civil_litigation",
+        "lawsuits",
+        "trump",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1793921591
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Hannah Demissie",
+      "title": "'Extinction-level event': How Republicans eyeing 2028 are taking midterm losses",
+      "description": "Republicans considering a presidential run offered their assessment of the party's performance in the midterm elections.",
+      "url": "https://abcnews.com/Politics/extinction-level-event-blue-tsunami-republicans-eyeing-2028/story?id=137882445",
+      "urlToImage": "https://i.abcnewsfe.com/a/83498b11-4f8b-4017-ba33-6fe71d54f4e1/ted-cruz-ap-jt-261105_1793899416946_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T20:00:29Z",
+      "content": "Following Republicans' abysmal midterm election performance -- which not only saw Democrats win back the House and the Senate, but also win Senate races in deep-red states -- several Republicans cons… [+5698 chars]",
+      "tags": [
+        "republican_party",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793908829
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Max Zahn",
+      "title": "Voter frustration about the economy went beyond gas prices, Voter Poll shows",
+      "description": "Three-fours of voters described the economy as not good or poor, polls showed.",
+      "url": "https://abcnews.com/Business/voter-frustration-economy-gas-prices-voter-poll-shows/story?id=137857804",
+      "urlToImage": "https://i.abcnewsfe.com/a/b2771ea8-eea8-4b1c-b44d-b7b44bdff127/grocery-store-ap-jt-261104_1793827845124_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T19:46:17Z",
+      "content": "A monthslong surge of inflation. A national average gas price well above $4 a gallon. Thirty-year mortgage rates north of 7%.\r\nEconomic woes helped fuel a Democratic takeover of the U.S. House and Se… [+3365 chars]",
+      "tags": [
+        "polling",
+        "prices",
+        "economy_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793907977
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Oren Oppenheim",
+      "title": "Who won the redistricting war? So far, it looks like Democrats",
+      "description": "Dems were able to keep seats that Republicans redrew to make them GOP-friendly.",
+      "url": "https://abcnews.com/Politics/won-redistricting-war-democrats/story?id=137858678",
+      "urlToImage": "https://i.abcnewsfe.com/a/d599c22c-041b-4ee8-8f87-5a9d50fd623b/shomari-figures_1793850602197_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T10:43:05Z",
+      "content": "Texas Republicans touched off a battle of mid-decade redistricting efforts when they embraced a plan pushed by President Donald Trump for the GOP-controlled legislature to redraw congressional distri… [+2838 chars]",
+      "tags": [
+        "redistricting",
+        "congress",
+        "republican_party",
+        "texas",
+        "democratic_party"
+      ],
+      "publishedAtTs": 1793875385
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "Beatrice Peterson",
+      "title": "Black candidates from both parties made history in midterm elections",
+      "description": "Black candidates from both political parties made history in 2026, with six governors set to serve across U.S. states and new key milestones in Congress.",
+      "url": "https://abcnews.com/Politics/black-candidates-make-history-party-lines-250-years/story?id=137851377",
+      "urlToImage": "https://i.abcnewsfe.com/a/ebee0fcd-4ca8-47d3-b68f-ecdcf6823d83/lance-bottoms-gty-jef-261104_1793812161471_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T00:26:47Z",
+      "content": "Four months after America celebrated 250 years of independence, voters are projected to make history again, electing Black governors in states that have never done so.\r\nWith votes still being counted… [+4812 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793838407
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ece Yildirim",
+      "title": "Republicans Race to Give Trump More Power Over the FCC Before Losing the Senate",
+      "description": "Ted Cruz is pushing to confirm another Republican commissioner, potentially clearing the way for an all-Republican FCC that critics say would violate federal law.",
+      "url": "https://gizmodo.com/republicans-race-to-give-trump-more-power-over-the-fcc-before-losing-the-senate-2000835692",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/ted-cruz-1200x675.jpg",
+      "publishedAt": "2026-11-05T20:20:54Z",
+      "content": "Republicans lost big this week in the midterm elections and will have to cede control of both the Senate and the House to the Democrats come next year. But before that, some are making sure to take f… [+4144 chars]",
+      "tags": [
+        "republican_party",
+        "appointments",
+        "congress",
+        "federal_agencies",
+        "personnel"
+      ],
+      "publishedAtTs": 1793910054
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+      "description": "Tech stocks plummeted amid fears inbound Democrats will end Donald Trump's era of laissez-faire regulation and backdoor deals.",
+      "url": "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/shutterstock_2596658891-1200x675.jpg",
+      "publishedAt": "2026-11-05T23:44:09Z",
+      "content": "The Nasdaq Composite fell 5.5%, or an estimated $2.5 trillion in market value, on Thursday. The index descended into correction territory after weak earnings reports in the AI sector and a blue tsuna… [+3585 chars]",
+      "tags": [
+        "stock_market",
+        "economy_finance"
+      ],
+      "publishedAtTs": 1793922249
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Welcome to Woke 3.0, Tech Bros",
+      "description": "If Woke 1 was about getting cancelled, Woke 3 is about jail time.",
+      "url": "https://gizmodo.com/welcome-to-woke-3-0-tech-bros-2000835111",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/were-going-to-need-a-bigger-hague-1200x675.jpg",
+      "publishedAt": "2026-11-05T14:50:51Z",
+      "content": "The Democrats had a historic night Tuesday, with huge election wins in red states like South Carolina, North Carolina, Iowa, Kansas, and Texas. The Democrats will control the House, the Senate, and a… [+7663 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793890251
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "Bluesky Gets a Midterms Bump, Ships Pronouns-in-Bios Feature",
+      "description": "Bluesky is feeling itself right now, but it says the pronouns-in-bios thing is a coincidence.",
+      "url": "https://gizmodo.com/bluesky-gets-a-midterms-bump-ships-pronouns-in-bios-feature-2000835322",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg",
+      "publishedAt": "2026-11-05T02:51:49Z",
+      "content": "New York Times opinion writer Carlos Lozada said on Wednesday after the Democratic triumph in the midterms the previous night, “I think Democrats across the board got A.O.C.s memo: Woke 1 was crazy. … [+5329 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793847109
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Janay Kingsberry",
+      "title": "Even ‘Mr. Veto’ May Not Be Able to Save the Trump Arch",
+      "description": "Democrats want to cut off funding for the president’s building projects.",
+      "url": "https://www.theatlantic.com/culture/2026/11/trump-monument-fight/689309/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T19:37:00Z",
+      "content": "When Donald Trump gathered news crews and administration officials at the Lincoln Memorial Reflecting Pool earlier this week, it was obvious that he wanted to offer a strong closing pitch ahead of El… [+10029 chars]",
+      "tags": [
+        "trump",
+        "government_administration",
+        "policy_legislation"
+      ],
+      "publishedAtTs": 1793907420
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Mark Leibovich",
+      "title": "This Won’t Be Easy for Democrats",
+      "description": "They’re out of the wilderness—for now.",
+      "url": "https://www.theatlantic.com/politics/2026/11/midterms-democrats-party-reputation/689311/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T20:43:19Z",
+      "content": "James Talarico talked a lot during his campaign about the so-called wilderness—as in, the electoral wasteland and morale morass that Democrats had been languishing in since President Trump’s reelecti… [+7468 chars]",
+      "tags": [
+        "democratic_party",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793911399
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Conor Friedersdorf",
+      "title": "The Speaker Who Gave the House Away",
+      "description": "His legacy will be the abdication of the legislative branch’s power.",
+      "url": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-house-speaker-trump/689317/?utm_source=feed",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T23:49:00Z",
+      "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Ou… [+10276 chars]",
+      "tags": [
+        "leadership"
+      ],
+      "publishedAtTs": 1793922540
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "404media.co"
+      },
+      "author": "Jason Koebler",
+      "title": "'There Is One Fight': American Voters Reject Tech Oligarchy",
+      "description": "Tuesday's election was a wholesale rejection of Silicon Valley's worldview and AI-powered kleptocracy.",
+      "url": "https://www.404media.co/there-is-one-fight-american-voters-reject-tech-oligarchy/",
+      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/signal-2026-11-04-03-56-54-862.jpg",
+      "publishedAt": "2026-11-05T14:19:08Z",
+      "content": "Last month, OpenAI CEO Sam Altman told Politico\r\n that we believe that the world should accept some bad things happening for the benefits of this technology, referring to ChatGPT users dying, people … [+2784 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793888348
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpolicy.press"
+      },
+      "author": "Nathalie Maréchal",
+      "title": "Pull the Plug on Technofascism Before It Reboots",
+      "description": "After Tuesday's US elections, it's time to turn attention toward accountability, reform, and renewal to make lasting change, writes Nathalie Maréchal.",
+      "url": "https://techpolicy.press/pull-the-plug-on-technofascism-before-it-reboots",
+      "urlToImage": "https://cdn.sanity.io/images/3tzzh18d/production/f6ab6ee3a97c80dfb183df02abef3b4b237db5ea-1200x675.png",
+      "publishedAt": "2026-11-05T16:28:41Z",
+      "content": "Elon Musk listens as President Donald Trump speaks during an event at the US Institute of Peace, Oct. 8, 2026, in Washington. (AP Photo/Julia Demaree Nikhinson, File)\r\nTuesdays Blue Wave was more tha… [+7223 chars]",
+      "tags": [],
+      "publishedAtTs": 1793896121
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Nathalie Baptiste",
+      "title": "Trump Says Pete Hegseth’s Job Is Safe, Which Means He’s Probably About to Get Fired",
+      "description": "As Republicans turn on Pete Hegseth, Trump says his job is safe, which in Trump speak means he's probably going to get fired soon.",
+      "url": "https://www.jezebel.com/trump-says-pete-hegseth-job-safe-gop-blame-iran-war-midterms",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/pete_hegseth_trump_ukraine_scandal.jpg",
+      "publishedAt": "2026-11-05T11:40:58Z",
+      "content": "Now that the initial shock of the midterm trouncing has faded a bit, Republicans are gathering their bearings and figuring out what exactly went wrong. That said, anybody who has been paying the slig… [+4474 chars]",
+      "tags": [
+        "personnel",
+        "trump",
+        "leadership",
+        "government_administration"
+      ],
+      "publishedAtTs": 1793878858
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Jim Vorel",
+      "title": "It Looks like Lauren Boebert Is About to Lose a Trump +18 Congressional District",
+      "description": "Everybody's favorite Colorado congressional Republican, Lauren Boebert, is seemingly getting washed away by the blue wave.",
+      "url": "https://www.jezebel.com/lauren-boebert-losing-reelection-midterms-2026-colorado-congress-district-swing-eileen-laubacher-democrat",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2024/06/boerbertdsf.jpg",
+      "publishedAt": "2026-11-05T10:32:27Z",
+      "content": "Hey: Remember Lauren Boebert? Everyone’s favorite gun-toting MAGA member of Congress from Colorado? Yeah, it looks like her political career might be on life support at the moment. On the heels of th… [+6079 chars]",
+      "tags": [
+        "congress",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793874747
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "Dems Notched a Historic Win, So Naturally the Next Course of Action Is Being Spineless",
+      "description": "Because the job of embarrassing yourself as House Speaker knows no party lines, Rep. Hakeem Jeffries is doing what the Dem. Party does best... and already caving in.",
+      "url": "https://www.jezebel.com/dems-have-notched-an-historic-win-so-naturally-the-next-course-of-action-is-being-spineless",
+      "urlToImage": "https://www.jezebel.com/wp-content/uploads/2026/11/05/hakeem-jeffries.webp",
+      "publishedAt": "2026-11-05T09:27:04Z",
+      "content": "We all knew someone was eventually going to kill our blue-wave high… but did it really have to be Democrats?\r\nTuesdays historic elections rinsed both chambers blueand unsurprisingly, Rep. Mike Johnso… [+3636 chars]",
+      "tags": [
+        "democratic_party",
+        "congress",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793870824
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Nathalie Baptiste",
+      "title": "Elon Musk Spent Half A Billion Dollars In The Midterms Just To Get Embarrassed and Delete Tweets",
+      "description": "Elon Musk's $500 million bid to get Republicans elected flopped really hard. So hard that he's now deleting tweets, in fact.",
+      "url": "https://www.jezebel.com/elon-musk-500-million-midterms-just-to-get-embarrassed",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/suploads/2025/11/main-Elon_Musk_Definitely_Sober-e1762543006232.jpg",
+      "publishedAt": "2026-11-05T13:40:20Z",
+      "content": "What can you buy with $500 million? Apparently, not an election. Despite this election shaping up to be the most expensive ever across the board, even though it was “only” a midterm, some of the coun… [+3964 chars]",
+      "tags": [
+        "campaign_finance",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793886020
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Danielle Han",
+      "title": "Texas is Finally Getting an AG That Vows to *Actually* Respect States’ Shield Laws",
+      "description": "“I will not pursue the judicially absurd position that Texas law has extra territorial effect,” AG-Elect Nathan Johnson told the Texas Tribune on Wednesday. “I can honor other states’ shield laws.”",
+      "url": "https://www.jezebel.com/texas-is-finally-getting-an-ag-that-vows-to-actually-respect-states-shield-laws",
+      "urlToImage": "https://www.jezebel.com/wp-content/uploads/2026/11/05/nathan-johnson.webp",
+      "publishedAt": "2026-11-05T11:20:42Z",
+      "content": "Everyone (myself included) is singing, frolicking, and absorbing every burger in sight to jubilate Sen.-elect James Talarico (D-Tex.) triumphing over the anti-abortion ghoul that is Ken Paxtonbut you… [+4229 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793877642
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Claire Guinan",
+      "title": "Nicki Minaj vs. Chucky and His Transgender Child",
+      "description": "“CHUCKY IS PART OF THE BLUE WAVE THAT WILL WASH AWAY ALL THE CORRUPTION,” Chucky's creator, Dan Mancini, wrote in response to Minaj.",
+      "url": "https://www.jezebel.com/nicki-minaj-vs-chucky-and-his-transgender-child",
+      "urlToImage": "https://www.jezebel.com/wp-content/uploads/2026/11/05/nicki-feat.jpg",
+      "publishedAt": "2026-11-05T11:43:15Z",
+      "content": "Republican spokeswoman Nicki Minaj is Twitter-beefing with yet another child.\r\nAround this time last year, she was hurling insults at Cardi Bs seven-year-old, Kulture. Afterwards, she embarked on her… [+3258 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793878995
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jezebel"
+      },
+      "author": "Margo Moran",
+      "title": "Russell Brand Found Guilty of 4 Counts of Sexual Misconduct in U.K. Court",
+      "description": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
+      "url": "https://www.jezebel.com/russell-brand-found-guilty-of-4-counts-of-sexual-misconduct-in-u-k-court",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2024/01/logo-1200x675-1.jpg",
+      "publishedAt": "2026-11-05T14:08:03Z",
+      "content": "Weeks after he joked about consent to Dr. Oz during the White House-backed MAHA summit, Russell Brand was found guilty of three counts of sexual assault and one count of rape on Thursday. The former … [+3396 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793887683
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Timothy Geigner",
+      "title": "Post Midterms, Pete Hegseth & RFK Jr. Stare Down Likely Impeachment Efforts",
+      "description": "The impact of the midterm election result is going to be felt for years, to be sure. But some of the effects will be far more swift than that, likely kicking off right after the new Congress is sworn in. We’re mere hours removed from the election, with some v…",
+      "url": "http://www.techdirt.com/2026/11/04/post-midterms-pete-hegseth-rfk-jr-stare-down-likely-impeachment-efforts/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-11-05T04:05:48Z",
+      "content": "from the place-your-bets dept\r\nThe impact of the midterm election result is going to be felt for years, to be sure. But some of the effects will be far more swift than that, likely kicking off right … [+4046 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793851548
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Mike Masnick",
+      "title": "The Tech Bros Who Bet On Fascism Lost. Don’t Let The Internet Pay For It.",
+      "description": "Well it’s now been a couple days since the Democrats obliterated Donald Trump and MAGA in the midterm. It turns out that the messaging of “price hikes, soldiers in the street, new forever wars, and diarrhea for everyone, with a side of enriching the rich whil…",
+      "url": "http://www.techdirt.com/2026/11/05/the-tech-bros-who-bet-on-fascism-lost-dont-let-the-internet-pay-for-it/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-11-05T17:30:36Z",
+      "content": "from the the-internet-is-more-than-tech-bros dept\r\nWell it’s now been a couple days since the Democrats obliterated Donald Trump and MAGA in the midterm. It turns out that the messaging of “price hik… [+4992 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793899836
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Karl Bode",
+      "title": "Israeli Spy Company Busted Using Malware Ads To Infect, Locate, And Spy On Starlink Users",
+      "description": "Israeli spy outfit Discover-Tech spied on internet users through a sprawling network of dodgy online ads ​that it used to track, surveil, and geolocate internet users. In some instances simply having the firm’s “zero click” spyware ads displayed by devices re…",
+      "url": "http://www.techdirt.com/2026/11/05/israeli-spy-company-busted-using-malware-ads-to-infect-locate-and-spy-on-starlink-users/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-11-05T13:29:36Z",
+      "content": "from the too-corrupt-to-function dept\r\nIsraeli spy outfit Discover-Tech spied on internet users through a sprawling network of dodgy online ads that it used to track, surveil, and geolocate internet … [+3715 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793885376
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Tim Cushing",
+      "title": "Judge: ICE Officers Can’t Be Trusted And The Only Way To Fix This Is To Put Them On The Stand",
+      "description": "We all know ICE officers can’t be trusted. Neither can the agency that heads up most of Trump’s anti-migrant activities. Every murder by immigration officers is immediately greeted with self-justifying lies about “threats” to officers. Every assault gets the …",
+      "url": "http://www.techdirt.com/2026/11/05/judge-ice-officers-cant-be-trusted-and-the-only-way-to-fix-this-is-to-put-them-on-the-stand/",
+      "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-11-05T19:05:36Z",
+      "content": "from the if-they-want-to-lie,-make-them-do-it-in-person dept\r\nWe all know ICE officers can’t be trusted. Neither can the agency that heads up most of Trump’s anti-migrant activities. Every murder by … [+8436 chars]",
+      "tags": [
+        "immigration",
+        "ice_controversies_resistance",
+        "social_issues",
+        "legal_justice"
+      ],
+      "publishedAtTs": 1793905536
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters",
+      "title": "What the midterms could mean for Trump’s Cabinet",
+      "description": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: It’s a whole new world for President Donald Trump.  Wh…",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/509638/trump-midterms-cabinet-shakeup-hegseth-rubio",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284653971.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2026-11-05T22:33:13Z",
+      "content": "President Donald Trump, Secretary of State Marco Rubio, and Defense Secretary Pete Hegseth at a news conference during the NATO Summit in Ankara, Turkey, on July 8, 2026. | Krisztian Bocsi/Bloomberg … [+2750 chars]",
+      "tags": [
+        "personnel",
+        "cabinet",
+        "trump",
+        "government_administration",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793917993
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Eric Levitz",
+      "title": "The moment Donald Trump blew the midterms",
+      "description": "Democrats just partied like it’s 1974. On Tuesday night, they pulled off the largest midterm victory since the post-Watergate wave. Democratic Senate candidates conquered longtime Republican strongholds like Kansas and Texas — and probably (in the view of the…",
+      "url": "https://www.vox.com/politics/509476/midterm-elections-2026-trump-democrats-david-shor-iran",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301976725.jpg?quality=90&strip=all&crop=0%2C11.625198429703%2C100%2C76.749603140594&w=1200",
+      "publishedAt": "2026-11-05T18:28:49Z",
+      "content": "President Donald Trump arrives on stage to deliver remarks during an election rally at McMorran Place Sports & Entertainment Center on October 25, 2026, in Port Huron, Michigan. | Alex Wong/Getty Ima… [+20702 chars]",
+      "tags": [
+        "2026_midterms",
+        "congress",
+        "elections_politics",
+        "trump"
+      ],
+      "publishedAtTs": 1793903329
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters, Sean Rameswaram",
+      "title": "Rahm Emanuel knows how congressional Democrats can keep winning",
+      "description": "Democrats had a better night than anyone expected on Tuesday, winning sweeping majorities in both the House and the Senate as voters turned away from President Donald Trump and the Republican Party. Now, they have to figure out how to govern and contend with …",
+      "url": "https://www.vox.com/politics/509582/rahm-emanuel-2026-midterms-democratic-majorities-congress",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/gettyimages-2298647938.jpg?quality=90&strip=all&crop=0%2C10.726938563293%2C100%2C78.546122873415&w=1200",
+      "publishedAt": "2026-11-05T21:27:45Z",
+      "content": "Former Chicago Mayor Rahm Emanuel speaks at the Obama Presidential Center in Chicago, Illinois, on October 8, 2026. | Kamil Krzaczynski/AFP via Getty Images\r\n\n\nDemocrats had a better night than anyon… [+8092 chars]",
+      "tags": [
+        "democratic_party",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793914065
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Rachel Janfaza",
+      "title": "The midterms were a youth revolt",
+      "description": "One of the most consequential subplots of the 2026 elections is that young voters swung back toward Democrats — hard.  Early data shows that 66 percent of adults under 30 voted for a Democrat for the House of Representatives, compared to just 31 percent who v…",
+      "url": "https://www.vox.com/politics/509429/midterm-election-results-gen-z-youth-vote-blue-wave",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302927389.jpg?quality=90&strip=all&crop=0%2C10.73825149852%2C100%2C78.52349700296&w=1200",
+      "publishedAt": "2026-11-05T17:35:04Z",
+      "content": "Democratic US Senate candidate Abdul El-Sayed greets supporters on the campus of the University of Michigan in Ann Arbor, Michigan, on November 3, 2026. | Jeff Kowalsky/AFP via Getty Images\r\n\n\nOne of… [+7885 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793900104
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Charisma Madarang",
+      "title": "Nikki Minaj is Going Down With Trump’s Ship After Nearly Every Candidate She Backed Lost",
+      "description": "As Donald Trump goes full-throttle meltdown after Democrats flipped the House and the Senate, Nicki Minaj has followed suit.",
+      "url": "http://www.rollingstone.com/music/music-news/nikki-minaj-down-with-trump-ship-candidates-endorsed-lost-1235653035/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/nicki-minaj-trump.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-11-05T05:17:09Z",
+      "content": "After Democrats flipped both the House and the Senate, Donald Trump had a full-throttle meltdown — and Nicki Minaj followed suit. \r\nThe rapper spent much of the last several months as one of MAGA’s f… [+2521 chars]",
+      "tags": [
+        "trump",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793855829
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Jack Crosbie",
+      "title": "Will Trump Bring Down His Pumped-Up God of War?",
+      "description": "The GOP got blown out in the 2026 midterms, and Donald Trump needs someone to blame. It might be Secretary of Defense Pete Hegseth.",
+      "url": "http://www.rollingstone.com/politics/politics-news/will-trump-fire-pete-hegseth-midterms-loss-iran-war-1235653527/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/hegseth-on-the-ropes.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-11-05T21:30:31Z",
+      "content": "For more than a year and a half, Pete Hegseth has been one of Donald Trump’s most valuable Cabinet members. \r\nHe is muscular and energetic, fueled by a seemingly limitless drive to do some kind of cr… [+3875 chars]",
+      "tags": [
+        "cabinet",
+        "personnel",
+        "trump",
+        "government_administration",
+        "leadership"
+      ],
+      "publishedAtTs": 1793914231
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Brenna Ehrlich",
+      "title": "California Gov. Gavin Newsom Commutes Hundreds of Death Row Sentences",
+      "description": "California Governor Gavin Newsom has commuted the sentences of 548 prisoners on the state’s death row to life without parole.",
+      "url": "http://www.rollingstone.com/politics/politics-news/gavin-newsom-death-row-california-1235653450/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/gavin-newsom-death-row-commutations.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-11-05T21:50:15Z",
+      "content": "Just days after Democrats took control of Congress, California Gov. Gavin Newsom has commuted the sentences of 548 prisoners on the state’s death row to life without parole.\r\n“State-sanctioned killin… [+4025 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793915415
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The New York Review of Books"
+      },
+      "author": "Fintan O’Toole",
+      "title": "The Next Generation",
+      "description": "The American left has won a historic election by successfully linking the affordability crisis to Republican corruption, and the whole Democratic Party must now learn from their example.",
+      "url": "https://www.nybooks.com/online/2026/11/05/the-next-generation-democrats-midterm-victory/",
+      "urlToImage": "https://www.nybooks.com/wp-content/uploads/2026/11/otoole1_120326.jpg",
+      "publishedAt": "2026-11-05T12:30:00Z",
+      "content": "At the beginning of Gabriel García Márquez’s The Autumn of the Patriarch, the vultures have broken through the windows of the presidential palace, where the dictator has ruled forever, and “the city … [+24736 chars]",
+      "tags": [
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793881800
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
+      "description": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-merz-1793863516.png?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-11-05T07:25:56Z",
+      "content": "Germany doesnt expect Trump to change following the midterm losses. Chancellor Friedrich Merz believes the US president will keep using his powers to bypass the Democrats in Congress, a position he a… [+15 chars]",
+      "tags": [
+        "trump"
+      ],
+      "publishedAtTs": 1793863556
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "description": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-20.37.21-1793911153.png?resize=1200%2C675",
+      "publishedAt": "2026-11-05T20:43:46Z",
+      "content": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House to mark a six-day ceasefire in Russian-occupied Oleshky, which she helped broker. The meeting… [+101 chars]",
+      "tags": [
+        "ukraine",
+        "russia",
+        "interstate_war",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793911426
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Evan Semones",
+      "title": "Top US civil rights official resigns",
+      "description": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aecd0236c5fd-1793904675.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T19:48:00Z",
+      "content": "As President Donald Trumps administration prepares for a flurry of congressional investigations into shootings by immigration agents and the Jeffrey Epstein files, the top official in charge of the U… [+2220 chars]",
+      "tags": [
+        "personnel",
+        "federal_agencies",
+        "government_administration",
+        "trump",
+        "social_issues"
+      ],
+      "publishedAtTs": 1793908080
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kristina Harazim, Ahmad Elmouniery",
+      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "description": "President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T091936Z_914661851_RC2UGOARO9K9_RTRMADP_3_IRAN-CRISIS-TEHRAN-US-1793829958.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "content": "blinking-dot\r\nLive updatesLive updates, \r\nPresident Trump admits Iran war largely caused Republicans US election wipeout, but says he had to do it.",
+      "tags": [
+        "us_iran_war",
+        "middle_east",
+        "iran",
+        "trump",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793836800
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Tamara Khandaker",
+      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "description": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aebce7319341-1793838707.jpg?resize=1920%2C1308",
+      "publishedAt": "2026-11-05T00:25:43Z",
+      "content": "Democrats rode a blue wave to victory in the United States midterm elections, winning control of both chambers of Congress. Now comes the question of whether they can deliver on their promises.\r\nThe … [+11285 chars]",
+      "tags": [
+        "democratic_party",
+        "congress",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793838343
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Paraguay President Pena resigns in wake of bank collapse",
+      "description": "President Pena, a Trump ally, had faced an impeachment motion and protests after the collapse of digital lender ueno.",
+      "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aecb737ae6c-1793898295.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T17:08:19Z",
+      "content": "Paraguayan President Santiago Pena resigned on Thursday after calls for his removal swelled following the collapse of digital lender ueno that left millions of customers unable to access their accoun… [+842 chars]",
+      "tags": [
+        "leadership"
+      ],
+      "publishedAtTs": 1793898499
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "What can Democrats do in Congress under President Trump?",
+      "description": "What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793886198.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2026-11-05T13:43:56Z",
+      "content": "The Democratic party had a major win in the US midterm elections. But what can they actually change when it comes to Donald Trumps decisions, policies and presidency? \r\nAl Jazeeras Farah Samir explai… [+2 chars]",
+      "tags": [
+        "democratic_party",
+        "congress",
+        "trump",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793886236
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "description": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aecc0d7ccac-1793900759.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T19:31:28Z",
+      "content": "United States First Lady Melania Trump has urged Russia and Ukraine to build on a recent localised ceasefire and seek a more enduring peace, as she hosted officials from both countries at the White H… [+2417 chars]",
+      "tags": [
+        "ukraine",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793907088
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Edna Mohamed",
+      "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
+      "description": "A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aec7c6a2a46-1793883242.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T16:12:35Z",
+      "content": "Hours after results confirmed that the Republican Party had lost control of both the Senate and the House of Representatives in the United States Congress in the midterm elections this week, senior R… [+6768 chars]",
+      "tags": [
+        "republican_party",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793895155
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Federica Marsi, Nils Adler",
+      "title": "‘Knives out’: Will Congress impeach Pete Hegseth after GOP midterms loss?",
+      "description": "Democrats can adopt the impeachment articles in the House but will need Republican backing in the Senate.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/knives-out-will-congress-impeach-pete-hegseth-after-gop-midterms-loss",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aec4349a5ba-1793868617.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T11:33:38Z",
+      "content": "The Republican Partys stunning defeat in the United States midterm elections on Tuesday has prompted calls from within the Trump administration and from its critics for accountability over a focus of… [+6555 chars]",
+      "tags": [
+        "personnel",
+        "impeachment",
+        "congress",
+        "cabinet",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793878418
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+      "description": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T210740Z_505848961_RC27HOAKD65K_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793851381.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T11:32:40Z",
+      "content": "As Democrats swept to victory in a blue wave across the United States in this weeks midterm elections, the worlds eyes turned to Congress and how it is likely to address conflicts in Iran, Gaza and U… [+8961 chars]",
+      "tags": [
+        "congress",
+        "middle_east",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793878360
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Nils Adler",
+      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+      "description": "US Vice President JD Vance blames the war for the midterm rout as Democrats prepare to use Congress to rein it in.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aec3931-1793866033.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T10:24:14Z",
+      "content": "Vice President JD Vance has blamed the war on Iran for the Republican Partys sweeping defeat in Tuesdays midterm elections, in which Democrats won control of both chambers of the United States Congre… [+7263 chars]",
+      "tags": [
+        "us_iran_war",
+        "middle_east",
+        "republican_party",
+        "iran",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793874254
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "description": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2287371645-1793853881_ea3875-1793854126.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-11-05T04:49:56Z",
+      "content": "Ukrainian President Volodymyr Zelenskyy has expressed hope that Democratic gains in the United States midterm elections will bring more help for Kyiv, as European officials urged the new US Congress … [+4089 chars]",
+      "tags": [
+        "ukraine",
+        "interstate_war",
+        "national_security",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793854196
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Evan Semones",
+      "title": "Election deniers lose races for governor in key US swing states",
+      "description": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aebc5b246a9e-1793836466.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T02:06:07Z",
+      "content": "After Democrats stunning blowout in the United States midterm elections, five Republican election deniers have come up short in their races to become governor in top battleground states.\r\nCongressman… [+4536 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793844367
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Jason Jones",
+      "title": "It’s Gaza, stupid",
+      "description": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aec4f3dce6b9-1793871677.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T09:44:33Z",
+      "content": "The American publics outrage over Gaza just decided Tuesdays midterms.\r\nDemocrats have now won control of both the United States House of Representatives and the Senate, taking them from a belligeren… [+8009 chars]",
+      "tags": [
+        "gaza",
+        "israel",
+        "middle_east",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793871873
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Caolán Magee",
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "description": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-03T150942Z_1570666144_RC2KQIAIJNNP_RTRMADP_3_USA-TRUMP-ISRAEL-1793886362_f988ff-1793886506.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-11-05T14:19:25Z",
+      "content": "As the midterm votes trickled in on Tuesday and Democrats locked up majorities in both chambers of the United States Congress, Republicans began pointing fingers at the Trump administrations increasi… [+9188 chars]",
+      "tags": [
+        "israel",
+        "middle_east",
+        "foreign_policy",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793888365
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+      "description": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-03-16T052306Z_474897414_RC2E5KAZ2B2M_RTRMADP_3_IRAN-CRISIS-SOUTHKOREA-PROTEST-1793863121.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T07:44:47Z",
+      "content": "South Korea plans to expand its anti-piracy patrols off the coast of Somalia to waters closer to the Strait of Hormuz, the Ministry of National Defense said, following pressure from the United States… [+2806 chars]",
+      "tags": [
+        "national_security",
+        "military",
+        "us_iran_war",
+        "foreign_policy",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1793864687
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+      "description": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab52cdea8-1790258398.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T09:57:04Z",
+      "content": "The United States has imposed sanctions on companies and individuals in India and Turkiye that it accuses of helping Iran get around restrictions on its oil exports and its airlines.\r\nThe US Departme… [+1843 chars]",
+      "tags": [
+        "sanctions",
+        "iran",
+        "middle_east",
+        "federal_agencies",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793872624
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
+      "description": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aebd7d3a8e9-1793841107.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T03:13:08Z",
+      "content": "Democrats have regained control of both chambers in the United States Congress during this years midterm elections, with a wave of victories that party leader Hakeem Jeffries likened to an American t… [+4812 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793848388
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Marium Ali",
+      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+      "description": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERATIVE-PARIS-AGREEMENT-LARGEST-CARBON-EMITERS-COVER-OCT30-2026-1793623545.png?resize=1200%2C630",
+      "publishedAt": "2026-11-05T07:41:25Z",
+      "content": "Ten years ago, the Paris Agreement entered into force, binding nearly every country to a shared goal: to hold global warming well below 2 degrees Celsius (3.6 degrees Fahrenheit) above preindustrial … [+4286 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793864485
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-28T123350Z_597274871_RC2BCOAXNME7_RTRMADP_3_ISRAEL-ELECTION-1793857037_b6bd47-1793857065.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-11-05T05:39:31Z",
+      "content": "Israeli opposition politicians have blamed Prime Minister Benjamin Netanyahu for eroding support for Israel in the United States after Democrats won control of Congress, and pledged to strengthen bip… [+3869 chars]",
+      "tags": [
+        "middle_east",
+        "israel",
+        "foreign_policy",
+        "leadership",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793857171
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Evan Semones",
+      "title": "Division among US Democrats over Schumer’s leadership role",
+      "description": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aec908ea9d3-1793888398_9027af-1793890537.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2026-11-05T18:53:04Z",
+      "content": "After Democrats delivered a once-in-a-generation midterm thumping of Republicans in the United States midterms, their current leader, Chuck Schumer, has expressed confidence he will helm his partys l… [+5958 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793904784
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Visualising how the US midterms turned the map blue",
+      "description": "Who voted, which seats flipped and who made history? A look at the numbers behind the 2026 US midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/visualising-how-the-us-midterms-turned-the-map-blue",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE_MIDTERM_WINS-06-1793872466.png?resize=1200%2C630",
+      "publishedAt": "2026-11-05T11:09:58Z",
+      "content": "A Democratic wave swept the United States Congress as Americans turned out in near-record numbers to strip President Donald Trumps Republicans of their majorities in both the House of Representatives… [+4935 chars]",
+      "tags": [
+        "congress",
+        "elections_politics",
+        "trump"
+      ],
+      "publishedAtTs": 1793876998
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Simon Speakman Cordall",
+      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
+      "description": "The Republican midterm rout is helping shape who leads Israel next, as Netanyahu’s US ties turn toxic.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aecd19d-1793905053.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T20:07:04Z",
+      "content": "Prime Minister Benjamin Netanyahu has long sold himself as the leader who will ensure that ties with the United States, the countrys most important ally, remain strong. The endorsement he received in… [+4549 chars]",
+      "tags": [
+        "israel",
+        "middle_east",
+        "elections_politics",
+        "leadership",
+        "foreign_policy"
+      ],
+      "publishedAtTs": 1793909224
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Federica Marsi",
+      "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+      "description": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6ae883948fdbf-1793622932.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T11:34:29Z",
+      "content": "Months into Russias full-scale invasion of Ukraine, Palantirs CEO Alex Karp became the first chief of a major Western Big Tech company to personally visit Kyiv.\r\nPresident Volodymyr Zelenskyy said in… [+9533 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793878469
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Darknet.org.uk"
+      },
+      "author": "Darknet",
+      "title": "Silk Road: Ross Ulbricht Put His Real Gmail in a Job Ad",
+      "description": "Silk Road was the dark web market run as Dread Pirate Roberts. How a 2011 job advert with Ross Ulbricht's own Gmail address helped the FBI identify him.",
+      "url": "https://www.darknet.org.uk/2026/11/silk-road-ross-ulbricht-dread-pirate-roberts/",
+      "urlToImage": "https://www.darknet.org.uk/wp-content/uploads/2026/11/silk-road-ross-ulbricht-dread-pirate-roberts.webp",
+      "publishedAt": "2026-11-05T14:03:05Z",
+      "content": "Silk Road was a hidden marketplace on the dark web, reachable only through Tor and paid for in Bitcoin, that the Justice Department called “the most sophisticated and extensive criminal marketplace o… [+3023 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793887385
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon, Hugh Leask, Lee Ying Shan, Davis Giangiulio",
+      "title": "TECH STOCKS PLUNGE",
+      "description": "TECH STOCKS PLUNGE\r\n\n \n \n \n (Main headline, 1st story, link)\r\n\n \r\n\n \r\n\n \n Related stories:TRILLIONS WIPED IN DAY!",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108519480-1793811964689-gettyimages-2303025106-US_STOCKS.jpeg?v=1793811987&w=1920&h=1080",
+      "publishedAt": "2026-11-05T16:19:36Z",
+      "content": "The Nasdaq Composite plummeted on Thursday, erasing the sharp gains from the previous session, as investors continued to rotate away from technology stocks and into more defensive areas of the market… [+2431 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793895576
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Gabija Saveiskyte",
+      "title": "Trump Delivers Unusual Speech About $600M Ballroom Before Reluctantly Addressing The Republicans’ Midterm Loss",
+      "description": "Donald Trump seemingly found the perfect way to avoid an awkward conversation about the election results: talk about something else for as long as possible.",
+      "url": "https://www.boredpanda.com/trump-unusual-speech-ballroom-midterm-loss/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/fb_image_6aec3b7a01f52.png",
+      "publishedAt": "2026-11-05T09:27:27Z",
+      "content": "Trump Delivers Unusual Speech About $600M Ballroom Before Reluctantly Addressing The Republicans Midterm Loss | Bored Panda\r\nDonald Trump seems to have found the perfect way to avoid an awkward conve… [+5329 chars]",
+      "tags": [
+        "trump",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793870847
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Sherif Saed",
+      "title": "Nintendo says it isn't planning any more Switch 2 price hikes",
+      "description": "Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today, has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles. Read more",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-no-plans-for-more-price-hikes",
+      "urlToImage": "https://assetsio.gnwcdn.com/switch-2-stock-eurogamer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-05T14:59:30Z",
+      "content": "Nintendo, which unveiled the results of the first half of its fiscal year 2027 earlier today, has now said it has access to enough quantities of memory to manufacture more Switch 2 consoles.\r\nAs a re… [+1470 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793890770
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "The Intercept Briefing",
+      "title": "How Democrats Changed Everything",
+      "description": "The Intercept breaks down a historic midterms sweep and hears from voters on what they want next.\nThe post How Democrats Changed Everything appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/04/midterm-election-results-voters-democrats/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/11/TIB-Ep.-107-Web.jpg?fit=2000%2C1000&w=1200&h=800",
+      "publishedAt": "2026-11-05T02:00:00Z",
+      "content": "The size of the Democrats victory Tuesday night shattered records and even the most optimistic expectations, handing the party a governing mandate with a clear demand for change.\r\nBut what do voters … [+26625 chars]",
+      "tags": [
+        "democratic_party",
+        "elections_politics"
+      ],
+      "publishedAtTs": 1793844000
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Sanya Mansoor",
+      "title": "Blue Tsunami’s Clearest Takeaway: People Hate Data Centers",
+      "description": "Voters fought back against tech oligarchs by supporting candidates and ballot measures that would block water-sucking, heat-spewing data centers.\nThe post Blue Tsunami’s Clearest Takeaway: People Hate Data Centers appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/05/midterm-elections-ai-data-centers-voters/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2302583549-e1793886806187.jpg?fit=7640%2C3820&w=1200&h=800",
+      "publishedAt": "2026-11-05T16:14:15Z",
+      "content": "Americas data center buildout suffered a resounding defeat in the midterms at all levels of government. Candidates and ballot measures in favor of restricting or altogether stopping the development o… [+8450 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793895255
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Jonah Valdez",
+      "title": "Abdul El-Sayed Won His Senate Seat With a Mandate on Palestine. Can He Deliver?",
+      "description": "The new senator from Michigan will face an uphill battle if he wants to transform the U.S. relationship with Israel. But he has options — and public pressure.\nThe post Abdul El-Sayed Won His Senate Seat With a Mandate on Palestine. Can He Deliver? appeared fi…",
+      "url": "https://theintercept.com/2026/11/05/abdul-el-sayed-senate-israel-palestine/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/11/GettyImages-2302841730-e1793911758464.jpg?fit=3872%2C1936&w=1200&h=800",
+      "publishedAt": "2026-11-05T21:28:20Z",
+      "content": "One senator out of the 100 who will fill the upper chamber of the 120th Congress was elected to his seat on a loud campaign promise to end to U.S. complicity in Israels genocide in Gaza. \r\nAbdul El-S… [+11275 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793914100
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Intercept"
+      },
+      "author": "Nick Turse",
+      "title": "“Dead Man Walking”: Officials Say Hegseth Has to Go",
+      "description": "Following the landslide Democratic midterms victory, War Secretary Pete Hegseth finds himself on the brink of bipartisan impeachment.\nThe post “Dead Man Walking”: Officials Say Hegseth Has to Go appeared first on The Intercept.",
+      "url": "https://theintercept.com/2026/11/05/midterms-hegseth-impeach-pressure-massie-military/",
+      "urlToImage": "https://theintercept.com/wp-content/uploads/2026/11/AP26301250619053-e1793890435712.jpg?fit=6904%2C3452&w=1200&h=800",
+      "publishedAt": "2026-11-05T18:55:59Z",
+      "content": "In the run-up to the midterm election, seen by many as a referendum on the Iran war, Pentagon chief Pete Hegseth unveiled FORTRESS America a project to allow U.S. military bases to survive a 90-day s… [+22916 chars]",
+      "tags": [
+        "personnel",
+        "cabinet",
+        "us_iran_war",
+        "military",
+        "security_intelligence"
+      ],
+      "publishedAtTs": 1793904959
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jsor@businessinsider.com (Jennifer Sor)",
+      "title": "What smart people are saying about the midterm's impact on data centers and the AI trade",
+      "description": "Market pros and tech figures are framing the blue wave as a negative development for the AI trade, pointing to the risk that data center construction slows.",
+      "url": "https://www.businessinsider.com/blue-wave-data-center-slowdown-impact-on-ai-trade-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aec87f39270da3cc66685a1?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T15:54:05Z",
+      "content": "The blue tsunami is recalibrating the market's bullish view of the AI trade. \r\nStocks were clobbered on Thursday, a day after post-election euphoria lifted the Dow to its best day in 18 months. \r\nDem… [+7868 chars]",
+      "tags": [
+        "off_topic"
+      ],
+      "publishedAtTs": 1793894045
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Ted Johnson",
+      "title": "DNC Vice Chair On Democrats’ Midterm Tsunami, Winning Back Fatigued Donors And Why 2028 Shouldn’t Be Progressive Vs. Moderate",
+      "description": "There is nothing like winning to draw in more donors, but Democrats’ historic wipeout of Donald Trump and Republicans could be a boost to the national party committee. Earlier in the cycle, the Democratic National Committee under chairman Ken Martin was in th…",
+      "url": "http://deadline.com/2026/11/dnc-midterms-hollywood-1237214457/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2303442864.jpg?w=1024",
+      "publishedAt": "2026-11-05T20:55:49Z",
+      "content": "There is nothing like winning to draw in more donors, but Democrats’ historic wipeout of Donald Trump and Republicans could be a boost to the national party committee.\r\nEarlier in the cycle, the Demo… [+8906 chars]",
+      "tags": [
+        "democratic_party",
+        "elections_politics",
+        "leadership"
+      ],
+      "publishedAtTs": 1793912149
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "WWE Crown Jewel Event In Saudi Still On Despite Iran War, TKO Exec Mark Shapiro Says, But Public Wants To “Get This Conflict Wrapped Up”",
+      "description": "Mark Shapiro, president and COO of WWE parent TKO Group Holdings, says the wrestling circuit’s Crown Jewel event Saturday in Saudi Arabia is a firm go despite the ongoing war in nearby Iran. The Red Sea Film Festival was canceled last month, along with other …",
+      "url": "http://deadline.com/2026/11/wwe-saudi-arabia-crown-jewel-iran-war-tko-mark-shapiro-1237213706/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2283126990.jpg?w=1024",
+      "publishedAt": "2026-11-05T00:33:03Z",
+      "content": "Mark Shapiro, president and COO of WWE parent TKO Group Holdings, says the wrestling circuit’s Crown Jewel event Saturday in Saudi Arabia is a firm go despite the ongoing war in nearby Iran.\r\nThe Red… [+3364 chars]",
+      "tags": [
+        "us_iran_war"
+      ],
+      "publishedAtTs": 1793838783
+    }
+  ]
+}
