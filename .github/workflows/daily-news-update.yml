@@ -89,3 +89,12 @@ jobs:
           aws cloudfront create-invalidation
           --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }}
           --paths "/*"
+
+      # Last, so an Algolia outage can't hold back the site. Only articles missing
+      # from the index are sent, so a failed run catches up on the next one.
+      - name: Index new articles in Algolia
+        run: pnpm run index-algolia --push
+        env:
+          PUBLIC_ALGOLIA_APP_ID: ${{ vars.PUBLIC_ALGOLIA_APP_ID || vars.GATSBY_ALGOLIA_APP_ID }}
+          PUBLIC_ALGOLIA_INDEX_NAME: ${{ vars.PUBLIC_ALGOLIA_INDEX_NAME || vars.GATSBY_ALGOLIA_INDEX_NAME }}
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}

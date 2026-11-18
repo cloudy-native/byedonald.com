@@ -42,6 +42,7 @@ interface AlgoliaRecord {
   publishedAt: string;
   publishedAtTs: number | null;
   tags: string[];
+  content: string | null;
 }
 
 // --- Configuration ---
@@ -66,11 +67,36 @@ function transformArticle(article: TaggedArticle): AlgoliaRecord {
     publishedAt: article.publishedAt,
     publishedAtTs: article.publishedAtTs ?? null,
     tags: article.tags,
+    content: article.content,
   };
 }
 
 function isOnTopic(article: TaggedArticle): boolean {
   return !article.tags.includes("off_topic");
+}
+
+/**
+ * Returns the URL of every record already in the index.
+ *
+ * Records are matched on `url`, not `objectID`: records written by the old
+ * Gatsby build have UUID objectIDs, so saving them again keyed by URL would
+ * duplicate them in search results.
+ */
+async function fetchIndexedUrls(
+  client: ReturnType<typeof algoliasearch>,
+  indexName: string,
+): Promise<Set<string>> {
+  const urls = new Set<string>();
+  await client.browseObjects<{ url?: string }>({
+    indexName,
+    browseParams: { attributesToRetrieve: ["url"], hitsPerPage: 1000 },
+    aggregator: (response) => {
+      for (const hit of response.hits) {
+        if (hit.url) urls.add(hit.url);
+      }
+    },
+  });
+  return urls;
 }
 
 // --- Main ---
@@ -130,55 +156,48 @@ async function main() {
 
   console.log(`✅ Transformed ${records.length} on-topic articles into Algolia records`);
 
-  if (isDryRun) {
-    // Show a sample of records
-    console.log("\n📋 Sample records (first 3):");
-    for (const record of records.slice(0, 3)) {
-      console.log(JSON.stringify(record, null, 2));
-    }
+  if (isDryRun && (!APP_ID || !API_KEY || !INDEX_NAME)) {
     console.log(
-      `\n✅ Dry run complete. ${records.length} records would be pushed to index "${INDEX_NAME || "(not set)"}".`,
+      `\n✅ Dry run complete. Algolia credentials not set, so the ${records.length} local records were not compared with the index.`,
     );
     return;
   }
 
-  // Push to Algolia
-  console.log(`\n🚀 Pushing ${records.length} records to Algolia index "${INDEX_NAME}"...`);
-
+  // Only send articles the index doesn't have yet
   const client = algoliasearch(APP_ID!, API_KEY!);
+  console.log("🔎 Reading existing records from Algolia...");
+  const indexedUrls = await fetchIndexedUrls(client, INDEX_NAME!);
+  const newRecords = records.filter((record) => !indexedUrls.has(record.url));
+  console.log(
+    `✅ ${indexedUrls.size} URLs already indexed, ${newRecords.length} new records to push`,
+  );
 
-  // Configure index settings matching the gatsby-plugin-algolia config
-  console.log("⚙️  Configuring index settings...");
-  await client.setSettings({
-    indexName: INDEX_NAME!,
-    indexSettings: {
-      searchableAttributes: [
-        "unordered(author)",
-        "unordered(sourceName)",
-        "unordered(title)",
-        "unordered(description)",
-      ],
-      attributesForFaceting: [
-        "searchable(author)",
-        "searchable(sourceName)",
-      ],
-      customRanking: ["desc(publishedAt)"],
-      attributesToSnippet: ["description:15", "content:20"],
-      snippetEllipsisText: "…",
-    },
-  });
-  console.log("✅ Index settings configured");
+  if (isDryRun) {
+    console.log("\n📋 Sample new records (first 3):");
+    for (const record of newRecords.slice(0, 3)) {
+      console.log(JSON.stringify(record, null, 2));
+    }
+    console.log(
+      `\n✅ Dry run complete. ${newRecords.length} records would be pushed to index "${INDEX_NAME}".`,
+    );
+    return;
+  }
+
+  if (newRecords.length === 0) {
+    console.log("Nothing new to index.");
+    return;
+  }
 
   // Push records in batches using saveObjects helper
-  console.log("📤 Saving objects...");
+  console.log(`\n📤 Saving ${newRecords.length} records to "${INDEX_NAME}"...`);
   await client.saveObjects({
     indexName: INDEX_NAME!,
-    objects: records as unknown as Array<Record<string, unknown>>,
-    batchSize: 10000,
+    objects: newRecords as unknown as Array<Record<string, unknown>>,
+    batchSize: 1000,
     waitForTasks: true,
   });
 
-  console.log(`✅ Successfully pushed ${records.length} records to Algolia index "${INDEX_NAME}"`);
+  console.log(`✅ Successfully pushed ${newRecords.length} records to Algolia index "${INDEX_NAME}"`);
 }
 
 main().catch((err) => {
